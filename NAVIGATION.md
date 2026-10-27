@@ -31,8 +31,10 @@ against 1,000 real brand pages:
 2. Match the model against that page's manual list (see Matching below).
    Most queries end here — the brand page lists hundreds of manuals
    (Carrier: 518, GE: 2,125).
-3. On a miss, fan out to the brand's product-type pages in parallel
-   (capped at 50) and match there. Brand pages list only a *partial*
+3. On a miss, fan out to the brand's product-type pages in small batches
+   (6 at a time, 250ms between batches, capped at 50) and scan every
+   batch — no early exit, so all manuals in the series are returned —
+   and match there. Brand pages list only a *partial*
    manual list; type pages hold the full per-brand list (Amana air
    conditioners: 180 manuals, 170 not on the brand page).
 4. If the brand page 404s, fall back to the letter page: fetch
@@ -89,5 +91,8 @@ runtime. Direct-PDF resolution is a later upgrade, not part of v1.
 ## Politeness
 
 Browser User-Agent, 15-second per-request timeout, no-store fetches,
-bounded fan-out, no retries around a block. If ManualsLib blocks or
+bounded, batched fan-out (max 50 type pages, full scan, no early exit),
+failed type pages skipped not fatal, distinct errors by step (brand
+fetch failure, brand HTTP status, partial scan, full scan with no
+match), no retries around a block. If ManualsLib blocks or
 rate-limits, stop and report — never work around it.
