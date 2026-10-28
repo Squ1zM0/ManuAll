@@ -3,7 +3,8 @@
 ManuAll holds the stored manual-URL index that Price-Cal's Manuals page
 reads at query time. It does **not** store PDFs and does **not** store
 manual content — it stores verified URLs that lead to manuals on
-ManualsLib, organized by brand, so the app never has to fetch
+ManualsLib (and, for the 2 pilot source-expansion brands below, on
+manualmachine.com), organized by brand, so the app never has to fetch
 ManualsLib live at use time.
 
 ## Architecture change — Oct 27, 2026 (supersedes the live-lookup path)
@@ -53,7 +54,13 @@ which opens the ManualsLib viewer with Download one click away).
 Direct data2.manualslib.com PDF URLs are explicitly **not** stored
 (they are JS-resolved and behind a Download flow, not capturable by
 code calls alone). The builder enforces the page-URL form; see
-`docs/INDEX_FORMAT.md`.
+`docs/INDEX_FORMAT.md`. The single exception is the pilot
+source-expansion (Oct 28, 2026): manuals with
+`"source": "manualmachine"` are validated against manualmachine's
+viewer-page form instead
+(`https://manualmachine.com/<brand>/<model>/<digits>-<slug>/`),
+gated per manual on that exact source value — the 355 ManualsLib
+files keep the strict rule unchanged.
 
 ## Layout
 
@@ -72,7 +79,7 @@ NAVIGATION.md                   historical live-lookup spec (reference only)
 
 ## Quarters — Oct 28, 2026
 
-The combined index (355 brands, 215,854 manuals) is 59.8 MB, which
+The combined index (357 brands, 215,964 manuals) is 59.8 MB, which
 GitHub's API refuses as a single file. It is therefore published in
 four quarters, split by brand — no brand's manual list is split
 across parts — balanced by serialized size so each part is about
@@ -80,12 +87,12 @@ across parts — balanced by serialized size so each part is about
 
 | Part | Brands | Manuals |
 |---|---|---|
-| dist/index-1.json | 87 | 52,970 |
-| dist/index-2.json | 89 | 52,335 |
-| dist/index-3.json | 89 | 55,768 |
-| dist/index-4.json | 90 | 54,781 |
+| dist/index-1.json | 88 | 52,976 |
+| dist/index-2.json | 89 | 52,332 |
+| dist/index-3.json | 89 | 55,841 |
+| dist/index-4.json | 91 | 54,815 |
 
-The 355 brands are 10 Phase 1 trade brands (33,588 manuals) plus
+The 357 brands are 10 Phase 1 trade brands (33,588 manuals) plus
 317 HVAC-category brands captured from TechDirect's HVAC list
 (178,741 manuals) plus 8 major-gap brands captured Oct 28, 2026
 (935 manuals: Noritz, State Water Heaters, Chromalox, Electro
@@ -104,7 +111,14 @@ Ajax boiler only, Marley HVAC types only — noise and ambiguous
 types excluded and listed on each brand file) plus 2 Tier C brands
 found by deep label investigation (89 manuals: Bell & Gossett
 under /brand/bell-and-gossett/, Bryan Steam under
-/brand/bryan-boilers/). A brand slug
+/brand/bryan-boilers/) plus 2 pilot source-expansion brands
+(110 manuals, Oct 28, 2026: Dayton heaters/blowers 22 and
+Robinair 88, from manualmachine.com — ManualsLib has no brand
+page for either brand, so these fill the last two Tier C gaps;
+the held TIF-file Robinair manual is NOT included, and the
+Dayton file holds only Dayton (Grainger) heaters/blowers, not
+Dayton Audio, Elkay Dayton plumbing, or Dayton Superior —
+see each brand file's scope/gaps notes). A brand slug
 appearing in two quarters is a build error, never silently
 overwritten. The quarters are the index; `dist/index.json` remains
 only as the Phase 1 legacy file.
