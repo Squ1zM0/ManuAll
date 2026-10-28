@@ -72,20 +72,20 @@ NAVIGATION.md                   historical live-lookup spec (reference only)
 
 ## Quarters — Oct 28, 2026
 
-The combined index (345 brands, 215,421 manuals) is 59.7 MB, which
+The combined index (355 brands, 215,854 manuals) is 59.8 MB, which
 GitHub's API refuses as a single file. It is therefore published in
 four quarters, split by brand — no brand's manual list is split
 across parts — balanced by serialized size so each part is about
-14.9 MB:
+15.0 MB:
 
 | Part | Brands | Manuals |
 |---|---|---|
-| dist/index-1.json | 84 | 52,856 |
-| dist/index-2.json | 87 | 52,164 |
-| dist/index-3.json | 86 | 55,697 |
-| dist/index-4.json | 88 | 54,704 |
+| dist/index-1.json | 87 | 52,970 |
+| dist/index-2.json | 89 | 52,335 |
+| dist/index-3.json | 89 | 55,768 |
+| dist/index-4.json | 90 | 54,781 |
 
-The 345 brands are 10 Phase 1 trade brands (33,588 manuals) plus
+The 355 brands are 10 Phase 1 trade brands (33,588 manuals) plus
 317 HVAC-category brands captured from TechDirect's HVAC list
 (178,741 manuals) plus 8 major-gap brands captured Oct 28, 2026
 (935 manuals: Noritz, State Water Heaters, Chromalox, Electro
@@ -96,7 +96,15 @@ Venmar, Hurst, First Company, Sporlan) plus Samsung HVAC-only
 air-conditioner, air-conditioner-accessories, air-handlers, chiller,
 dehumidifier, fan, heat-pump, heat-pump-accessories, heater,
 heating-system, split-type-air-conditioner; electronics/appliance
-types excluded per Fred, Oct 28, 2026). A brand slug
+types excluded per Fred, Oct 28, 2026) plus 8 Tier B2 scoped brands
+(344 manuals, Oct 28, 2026: Sterling HVAC types only, Peerless of
+America boiler types only, NTI boiler types only, Superior boiler
+only, Velocity boiler + water-heater types, Columbia boiler only,
+Ajax boiler only, Marley HVAC types only — noise and ambiguous
+types excluded and listed on each brand file) plus 2 Tier C brands
+found by deep label investigation (89 manuals: Bell & Gossett
+under /brand/bell-and-gossett/, Bryan Steam under
+/brand/bryan-boilers/). A brand slug
 appearing in two quarters is a build error, never silently
 overwritten. The quarters are the index; `dist/index.json` remains
 only as the Phase 1 legacy file.
