@@ -1,0 +1,714 @@
+{
+ "brand": "Ruud",
+ "brandSlug": "ruud",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/ruud/"
+ ],
+ "slugUsed": "ruud",
+ "capturedAt": "2026-10-28T09:19:55.915264+00:00",
+ "typePages": [
+  {
+   "path": "/brand/ruud/air-conditioner.html",
+   "manuals": 96,
+   "status": 200
+  },
+  {
+   "path": "/brand/ruud/air-handlers.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/ruud/flood-light.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ruud/furnace.html",
+   "manuals": 29,
+   "status": 200
+  },
+  {
+   "path": "/brand/ruud/heat-pump.html",
+   "manuals": 100,
+   "status": 200
+  },
+  {
+   "path": "/brand/ruud/thermostat.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/ruud/water-heater.html",
+   "manuals": 30,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "844776",
+   "slug": "Ruud-Ugpl",
+   "title": "(-)GLL Series installation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "(-)GLL Series",
+   "extraModels": [
+    "(-)GLL Series",
+    "(-)GPL Series"
+   ],
+   "url": "https://www.manualslib.com/manual/844776/Ruud-Ugpl.html"
+  },
+  {
+   "manualId": "2740498",
+   "slug": "Ruud-801mss-Series",
+   "title": "801MSP Series installation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "801MSP Series",
+   "extraModels": [
+    "801MSP Series",
+    "801P SERIES",
+    "801S SERIES",
+    "R801PA050314MXA",
+    "R801PA050314ZXB",
+    "R801PA075317ZSB",
+    "R801PA075317ZXB",
+    "R801PA075417MXA",
+    "R801PA075417ZSB",
+    "R801PA075417ZXA",
+    "R801PA075417ZXB",
+    "R801PA100521MXA",
+    "R801PA100521ZSB",
+    "R801PA100521ZXB",
+    "R801PA125524ZSB",
+    "R801PA125524ZXB",
+    "R801SA050314MXA",
+    "R801SA050314ZSB",
+    "R801SA075317ZSB",
+    "R801SA075417ZSB",
+    "R801SA100421ZSB",
+    "R801SA100521ZSB",
+    "R801SA125524ZSB"
+   ],
+   "url": "https://www.manualslib.com/manual/2740498/Ruud-801mss-Series.html"
+  },
+  {
+   "manualId": "835485",
+   "slug": "Ruud-801s-Series",
+   "title": "801P SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "801P SERIES",
+   "extraModels": [
+    "801P SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/835485/Ruud-801s-Series.html"
+  },
+  {
+   "manualId": "1386692",
+   "slug": "Ruud-Achiever-Ra1418aj1na",
+   "title": "Achiever RA1418AJ1NA Manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "Achiever RA1418AJ1NA",
+   "extraModels": [
+    "Achiever RA1418AJ1NB",
+    "Achiever RA1424AJ1NA",
+    "Achiever RA1424AJ1NB",
+    "Achiever RA1430AJ1NB",
+    "Achiever RA1436AC1NB",
+    "Achiever RA1436AD1NB",
+    "Achiever RA1436AJ1NB",
+    "Achiever RA1442BC1NB",
+    "Achiever RA1442BD1NB",
+    "Achiever RA1442BJ1NA",
+    "Achiever RA1442BJ1NB",
+    "Achiever RA1448AC1NB",
+    "Achiever RA1448AD1NB",
+    "Achiever RA1448AJ1NB",
+    "Achiever RA1460AC1NB",
+    "Achiever RA1460AD1NB",
+    "Achiever RA1460AJ1NA",
+    "Achiever RA1460AJ1NB"
+   ],
+   "url": "https://www.manualslib.com/manual/1386692/Ruud-Achiever-Ra1418aj1na.html"
+  },
+  {
+   "manualId": "3847830",
+   "slug": "Ruud-Achiever-Ra1430aj1na",
+   "title": "Achiever RA1430AJ1NA Manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "Achiever RA1430AJ1NA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3847830/Ruud-Achiever-Ra1430aj1na.html"
+  },
+  {
+   "manualId": "3847831",
+   "slug": "Ruud-Achiever-Ra1436aj1na",
+   "title": "Achiever RA1436AJ1NA Manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "Achiever RA1436AJ1NA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3847831/Ruud-Achiever-Ra1436aj1na.html"
+  },
+  {
+   "manualId": "3847829",
+   "slug": "Ruud-Achiever-Ra1448aj1na",
+   "title": "Achiever RA1448AJ1NA Manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "Achiever RA1448AJ1NA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3847829/Ruud-Achiever-Ra1448aj1na.html"
+  },
+  {
+   "manualId": "3424358",
+   "slug": "Ruud-Achiever-Racl2240cbz",
+   "title": "Achiever RACL2240CBZ installation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "Achiever RACL2240CBZ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3424358/Ruud-Achiever-Racl2240cbz.html"
+  },
+  {
+   "manualId": "815499",
+   "slug": "Ruud-Anl-Az-Model-Series-13-Seer",
+   "title": "ANL-AZ 13 SEER Series installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "ANL-AZ 13 SEER Series",
+   "extraModels": [
+    "ANL-AZ MODEL SERIES - 13 SEER",
+    "APM-JAZ 14.5 SEER Series",
+    "APM-JAZ MODEL SERIES - 14.5 SEER"
+   ],
+   "url": "https://www.manualslib.com/manual/815499/Ruud-Anl-Az-Model-Series-13-Seer.html"
+  },
+  {
+   "manualId": "834539",
+   "slug": "Ruud-Ap15318",
+   "title": "AP15318 Use & care manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "AP15318",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/834539/Ruud-Ap15318.html"
+  },
+  {
+   "manualId": "1688950",
+   "slug": "Ruud-Econet",
+   "title": "EcoNet quick start manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "EcoNet",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1688950/Ruud-Econet.html"
+  },
+  {
+   "manualId": "3013032",
+   "slug": "Ruud-Econet-Smart-Thermostat",
+   "title": "EcoNet Smart Thermostat quick start manual",
+   "type": "Other",
+   "pages": 29,
+   "productModel": "EcoNet Smart Thermostat",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3013032/Ruud-Econet-Smart-Thermostat.html"
+  },
+  {
+   "manualId": "3424348",
+   "slug": "Ruud-Endeavor-H1p-Series",
+   "title": "Endeavor H1P Series installation instructions manual",
+   "type": "Installation",
+   "pages": 57,
+   "productModel": "Endeavor H1P Series",
+   "extraModels": [
+    "Endeavor RH1PZ Series",
+    "Endeavor RH1PZ1817STANNJ",
+    "Endeavor RH1PZ6024STANNJ",
+    "WeatherKing Versus H2T Series",
+    "WeatherKing Versus WH1PZ Series",
+    "WeatherKing Versus WH1PZ3617STANNJ",
+    "WeatherKing Versus WH1PZ6024STANNJ",
+    "WeatherKing Versus WH2TZ Series",
+    "WeatherKing Versus WH2TZ6024STANNJ"
+   ],
+   "url": "https://www.manualslib.com/manual/3424348/Ruud-Endeavor-H1p-Series.html"
+  },
+  {
+   "manualId": "3424389",
+   "slug": "Ruud-Endeavor-Line-Classic-Plus-Econet-A15az-Series",
+   "title": "Endeavor Line Achiever Plus UA16AZ Series installation instructions manual",
+   "type": "Installation",
+   "pages": 57,
+   "productModel": "Endeavor Line Achiever Plus UA16AZ Series",
+   "extraModels": [
+    "Endeavor Line Achiever Plus UA16AZ Series",
+    "Endeavor Line Achiever Plus UA16AZ24AJ3CA",
+    "Endeavor Line Achiever Plus UA16AZ36AJ3CA",
+    "Endeavor Line Achiever Plus UA16AZ48AJ3C",
+    "Endeavor Line Achiever Plus UA16AZ48AJ3CA",
+    "Endeavor Line Achiever Plus UA16AZ60AJ3CA",
+    "Endeavor Line Classic Plus EcoNet A15AZ Series",
+    "Endeavor Line Classic Plus EcoNet A16AZ Series",
+    "Endeavor Line Classic Plus EcoNet P16AZ Series",
+    "Endeavor Line Classic Plus EcoNet RA15AZ48AJ3CA",
+    "Endeavor Line Classic Plus EcoNet RA15AZ60AJ3CA",
+    "Endeavor Line Classic Plus EcoNet UP16AZ24AJ3CA",
+    "Endeavor Line Classic Plus EcoNet UP16AZ36AJ3CA",
+    "Endeavor Line Classic Plus EcoNet UP16AZ48AJ3CA",
+    "Endeavor Line Classic Plus EcoNet UP16AZ60AJ3CA"
+   ],
+   "url": "https://www.manualslib.com/manual/3424389/Ruud-Endeavor-Line-Classic-Plus-Econet-A15az-Series.html"
+  },
+  {
+   "manualId": "3934152",
+   "slug": "Ruud-Endeavor-Line-Classic-Plus-Econet-Ra15az-Im-Series",
+   "title": "Endeavor Line Classic Plus EcoNet RA15AZ IM Series installation instructions manual",
+   "type": "Installation",
+   "pages": 57,
+   "productModel": "Endeavor Line Classic Plus EcoNet RA15AZ IM Series",
+   "extraModels": [
+    "Endeavor Line Classic Plus EcoNet RA15AZ IM Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3934152/Ruud-Endeavor-Line-Classic-Plus-Econet-Ra15az-Im-Series.html"
+  },
+  {
+   "manualId": "3424338",
+   "slug": "Ruud-Endeavor-Line-Classics-Ra14az-Series",
+   "title": "Endeavor Line Classics RA14AZ Series installation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Endeavor Line Classics RA14AZ Series",
+   "extraModels": [
+    "Endeavor Line Classics RA14AZ18AJ1NA",
+    "Endeavor Line Classics RA14AZ36AJ1NA",
+    "Endeavor Line Classics RA14AZ60AJ1NA"
+   ],
+   "url": "https://www.manualslib.com/manual/3424338/Ruud-Endeavor-Line-Classics-Ra14az-Series.html"
+  },
+  {
+   "manualId": "3934142",
+   "slug": "Ruud-Endeavor-Rh2tz6024stannj",
+   "title": "Endeavor RH2TZ6024STANNJ installation instructions manual",
+   "type": "Installation",
+   "pages": 57,
+   "productModel": "Endeavor RH2TZ6024STANNJ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3934142/Ruud-Endeavor-Rh2tz6024stannj.html"
+  },
+  {
+   "manualId": "822857",
+   "slug": "Ruud-Ci285x01",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/822857/Ruud-Ci285x01.html"
+  },
+  {
+   "manualId": "143060",
+   "slug": "Ruud-Powervent-2-Ap13370-2",
+   "title": "PowerVent 2 use and care manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "PowerVent 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/143060/Ruud-Powervent-2-Ap13370-2.html"
+  },
+  {
+   "manualId": "143063",
+   "slug": "Ruud-Powervent-Ap14236",
+   "title": "PowerVent AP14236 use and care manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "PowerVent AP14236",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/143063/Ruud-Powervent-Ap14236.html"
+  },
+  {
+   "manualId": "1087714",
+   "slug": "Ruud-Ra16-Series",
+   "title": "RA16 Series Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "RA16 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1087714/Ruud-Ra16-Series.html"
+  },
+  {
+   "manualId": "3477478",
+   "slug": "Ruud-Rd17az",
+   "title": "RD17AZ installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "RD17AZ",
+   "extraModels": [
+    "RD17AZ24AJ3CA",
+    "RD17AZ36AJ3CA",
+    "RD17AZ48AJ3CA",
+    "RD17AZ60AJ3CA"
+   ],
+   "url": "https://www.manualslib.com/manual/3477478/Ruud-Rd17az.html"
+  },
+  {
+   "manualId": "3934143",
+   "slug": "Ruud-Rh2tz4821stannj",
+   "title": "RH2TZ4821STANNJ installation instructions manual",
+   "type": "Installation",
+   "pages": 57,
+   "productModel": "RH2TZ4821STANNJ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3934143/Ruud-Rh2tz4821stannj.html"
+  },
+  {
+   "manualId": "3226541",
+   "slug": "Ruud-Rhpbzr-Series",
+   "title": "RHPBZR Series installation instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "RHPBZR Series",
+   "extraModels": [
+    "RHPBZR024AJT",
+    "RHPBZR030AJT",
+    "RHPBZR036AJT",
+    "RHPBZR042AJT",
+    "RHPBZR048AJT",
+    "RHPBZR060AJT"
+   ],
+   "url": "https://www.manualslib.com/manual/3226541/Ruud-Rhpbzr-Series.html"
+  },
+  {
+   "manualId": "3687396",
+   "slug": "Ruud-Rich07avfj",
+   "title": "RICH07AVFJ Design & technical manual",
+   "type": "Other",
+   "pages": 299,
+   "productModel": "RICH07AVFJ",
+   "extraModels": [
+    "RICH09AVFJ",
+    "RICH12AVFJ",
+    "RICH18AVFJ",
+    "RIDH07AVFJ",
+    "RIDH09AVFJ",
+    "RIDH12AVFJ",
+    "RIDH18AVFJ",
+    "RIDH24AVFJ",
+    "RIFH09AVFJ",
+    "RIFH12AVFJ",
+    "RIFH15AVFJ",
+    "UIWH07AVFJ",
+    "UIWH09AVFJ",
+    "UIWH12AVFJ",
+    "UIWH15AVFJ",
+    "UIWH18AVFJ",
+    "UIWH24AVFJ",
+    "UOMH18FXZHJ",
+    "UOMH24FXZHJ",
+    "UOMH36FXZHJ"
+   ],
+   "url": "https://www.manualslib.com/manual/3687396/Ruud-Rich07avfj.html"
+  },
+  {
+   "manualId": "3781154",
+   "slug": "Ruud-Ridh09avfj",
+   "title": "RIDH09AVFJ Design & technical manual",
+   "type": "Other",
+   "pages": 73,
+   "productModel": "RIDH09AVFJ",
+   "extraModels": [
+    "RIDH12AVFJ",
+    "RIDH18AVFJ",
+    "UOSH09AFCJ",
+    "UOSH12AFCJ",
+    "UOSH18AFCJ"
+   ],
+   "url": "https://www.manualslib.com/manual/3781154/Ruud-Ridh09avfj.html"
+  },
+  {
+   "manualId": "1645540",
+   "slug": "Ruud-Rjnl-B-Series",
+   "title": "RJNL-B SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "RJNL-B SERIES",
+   "extraModels": [
+    "RJNL-B180CL",
+    "RJNL-B180CM",
+    "RJNL-B180DL",
+    "RJNL-B180DM",
+    "RJNL-B180YL",
+    "RJNL-B180YM"
+   ],
+   "url": "https://www.manualslib.com/manual/1645540/Ruud-Rjnl-B-Series.html"
+  },
+  {
+   "manualId": "3500426",
+   "slug": "Ruud-Uiwh18aj2s",
+   "title": "RO1HHZ18AJ2S Design & technical manual",
+   "type": "Other",
+   "pages": 98,
+   "productModel": "RO1HHZ18AJ2S",
+   "extraModels": [
+    "RO1HHZ18AJ2S",
+    "RO1HHZ24AJ2S",
+    "UIWH24AJ2S"
+   ],
+   "url": "https://www.manualslib.com/manual/3500426/Ruud-Uiwh18aj2s.html"
+  },
+  {
+   "manualId": "3566885",
+   "slug": "Ruud-Uiwh09ahwj",
+   "title": "ROSH09AHHJ Design & technical manual",
+   "type": "Other",
+   "pages": 57,
+   "productModel": "ROSH09AHHJ",
+   "extraModels": [
+    "ROSH09AHHJ",
+    "ROSH12AHHJ",
+    "ROSH15AHHJ",
+    "UIWH12AHWJ",
+    "UIWH15AHWJ"
+   ],
+   "url": "https://www.manualslib.com/manual/3566885/Ruud-Uiwh09ahwj.html"
+  },
+  {
+   "manualId": "2667146",
+   "slug": "Ruud-Rp13",
+   "title": "RP13 installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "RP13",
+   "extraModels": [
+    "RP1336AC1NA",
+    "RP1336AD1NA",
+    "RP1342AC1NA",
+    "RP1342AD1NA",
+    "RP1348AC1NA",
+    "RP1348AD1NA",
+    "RP1360AC1NA",
+    "RP1360AD1NA",
+    "RP1418AJ1NA",
+    "RP1418FJ1NA",
+    "RP1424AJ1NA",
+    "RP1424FJ1NA",
+    "RP1430FJ1NA",
+    "RP1436AC1NA",
+    "RP1436AD1NA",
+    "RP1436FC1NA",
+    "RP1436FJ1NA",
+    "RP1442AC1NA",
+    "RP1442AD1NA",
+    "RP1442AJ1NA",
+    "RP1442FC1NA",
+    "RP1442FJ1NA",
+    "RP1448AC1NA",
+    "RP1448AD1NA",
+    "RP1448AJ1NA",
+    "RP1448FC1NA",
+    "RP1448FJ1NA",
+    "RP1460AC1NA",
+    "RP1460AD1NA",
+    "RP1460AJ1NA",
+    "RP1460FC1NA",
+    "RP1460FJ1NA",
+    "RP1518AJ1NA",
+    "RP1518BJ1NA",
+    "RP1524AJ1NA",
+    "RP1524BJ1NA",
+    "RP1530AJ1NA",
+    "RP1530BJ1NA",
+    "RP1536AC1NA",
+    "RP1536AJ1NA",
+    "RP1542AC1NA",
+    "RP1542AJ1NA",
+    "RP1548AC1NA",
+    "RP1548AJ1NA",
+    "RP1560AC1NA",
+    "RP1560AJ1NA"
+   ],
+   "url": "https://www.manualslib.com/manual/2667146/Ruud-Rp13.html"
+  },
+  {
+   "manualId": "3897832",
+   "slug": "Ruud-Rp14",
+   "title": "RP14 installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "RP14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3897832/Ruud-Rp14.html"
+  },
+  {
+   "manualId": "3897834",
+   "slug": "Ruud-Rp1430aj1na",
+   "title": "RP1430AJ1NA installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "RP1430AJ1NA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3897834/Ruud-Rp1430aj1na.html"
+  },
+  {
+   "manualId": "3897835",
+   "slug": "Ruud-Rp1436aj1na",
+   "title": "RP1436AJ1NA installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "RP1436AJ1NA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3897835/Ruud-Rp1436aj1na.html"
+  },
+  {
+   "manualId": "3897833",
+   "slug": "Ruud-Rp15",
+   "title": "RP15 installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "RP15",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3897833/Ruud-Rp15.html"
+  },
+  {
+   "manualId": "1219455",
+   "slug": "Ruud-Rqna-B024jk",
+   "title": "RQNA-B024JK Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "RQNA-B024JK",
+   "extraModels": [
+    "RQNA-B030JK",
+    "RQNA-B036CK",
+    "RQNA-B036JK",
+    "RQNA-B042CK",
+    "RQNA-B042JK",
+    "RQNA-B048CK",
+    "RQNA-B048JK"
+   ],
+   "url": "https://www.manualslib.com/manual/1219455/Ruud-Rqna-B024jk.html"
+  },
+  {
+   "manualId": "3189852",
+   "slug": "Ruud-Sa14az18aj1na",
+   "title": "SA14AZ18AJ installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "SA14AZ18AJ",
+   "extraModels": [
+    "SA14AZ24AJ",
+    "SA14AZ24AJ1NA",
+    "SA14AZ30AJ",
+    "SA14AZ30AJ1NA"
+   ],
+   "url": "https://www.manualslib.com/manual/3189852/Ruud-Sa14az18aj1na.html"
+  },
+  {
+   "manualId": "2383448",
+   "slug": "Ruud-Son-Series",
+   "title": "SON Series Installation, operation and service manual",
+   "type": "Service",
+   "pages": 45,
+   "productModel": "SON Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2383448/Ruud-Son-Series.html"
+  },
+  {
+   "manualId": "143054",
+   "slug": "Ruud-Ph20v40f",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/143054/Ruud-Ph20v40f.html"
+  },
+  {
+   "manualId": "143057",
+   "slug": "Ruud-Ph20v50f",
+   "title": "Specification Sheet",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/143057/Ruud-Ph20v50f.html"
+  },
+  {
+   "manualId": "143058",
+   "slug": "Ruud-Tankless-Indoor-Rutg-53pv",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/143058/Ruud-Tankless-Indoor-Rutg-53pv.html"
+  },
+  {
+   "manualId": "1286531",
+   "slug": "Ruud-Ua1724a",
+   "title": "UA1724A Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "UA1724A",
+   "extraModels": [
+    "UA1736A",
+    "UA1748A",
+    "UA1760A"
+   ],
+   "url": "https://www.manualslib.com/manual/1286531/Ruud-Ua1724a.html"
+  },
+  {
+   "manualId": "3601697",
+   "slug": "Ruud-Uiwh07avfj",
+   "title": "UIWH07AVFJ Design & technical manual",
+   "type": "Other",
+   "pages": 217,
+   "productModel": "UIWH07AVFJ",
+   "extraModels": [
+    "UIWH09AVFJ",
+    "UIWH12AVFJ",
+    "UIWH15AVFJ",
+    "UIWH18AVFJ",
+    "UIWH24AVFJ",
+    "UOMH18AFXZJ",
+    "UOMH24AFXZJ",
+    "UOMH36AFXZJ"
+   ],
+   "url": "https://www.manualslib.com/manual/3601697/Ruud-Uiwh07avfj.html"
+  },
+  {
+   "manualId": "3453437",
+   "slug": "Ruud-Uiwh18avfj",
+   "title": "UIWH18AVFJ Design & technical manual",
+   "type": "Other",
+   "pages": 51,
+   "productModel": "UIWH18AVFJ",
+   "extraModels": [
+    "UIWH24AVFJ",
+    "UOSH18AXFWJ",
+    "UOSH24AXFWJ"
+   ],
+   "url": "https://www.manualslib.com/manual/3453437/Ruud-Uiwh18avfj.html"
+  },
+  {
+   "manualId": "1319218",
+   "slug": "Ruud-Uprl-Jez",
+   "title": "UPRL- JEZ Manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "UPRL- JEZ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1319218/Ruud-Uprl-Jez.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "ruud"
+ ]
+}

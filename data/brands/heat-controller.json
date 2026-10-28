@@ -1,0 +1,3272 @@
+{
+ "brand": "Heat Controller",
+ "brandSlug": "heat-controller",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/heat-controller/"
+ ],
+ "slugUsed": "heat-controller",
+ "capturedAt": "2026-10-28T07:26:44.679124+00:00",
+ "typePages": [
+  {
+   "path": "/brand/heat-controller/air-conditioner.html",
+   "manuals": 589,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-controller/accessories.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-controller/air-handlers.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-controller/controller.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-controller/dehumidifier.html",
+   "manuals": 55,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-controller/electric-heater.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-controller/fan.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-controller/furnace.html",
+   "manuals": 163,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-controller/heat-pump.html",
+   "manuals": 477,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-controller/inverters.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-controller/patio-heater.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-controller/remote-control.html",
+   "manuals": 54,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-controller/temperature-controller.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-controller/thermostat.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "630137",
+   "slug": "Heat-Controller-7602-443",
+   "title": "7602-443 user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "7602-443",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/630137/Heat-Controller-7602-443.html"
+  },
+  {
+   "manualId": "513261",
+   "slug": "Heat-Controller-7602-444",
+   "title": "7602-444 Operation manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "7602-444",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/513261/Heat-Controller-7602-444.html"
+  },
+  {
+   "manualId": "846700",
+   "slug": "Heat-Controller-80Plus-Afue",
+   "title": "80+ AFUE installation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "80+ AFUE",
+   "extraModels": [
+    "GDD80A",
+    "GUH80A"
+   ],
+   "url": "https://www.manualslib.com/manual/846700/Heat-Controller-80Plus-Afue.html"
+  },
+  {
+   "manualId": "917606",
+   "slug": "Heat-Controller-B-Dvh09sd-0",
+   "title": "A-DVC09SD-0 Service manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "A-DVC09SD-0",
+   "extraModels": [
+    "A-DVC09SD-0",
+    "A-DVC12SD-0",
+    "A-DVC18SD-1",
+    "A-DVC24SD-1",
+    "A-DVH09SD-0",
+    "A-DVH12SD-0",
+    "A-DVH18SD-1",
+    "A-DVH24SD-1",
+    "B-DVC09SD-0",
+    "B-DVC12SD-0",
+    "B-DVC18SD-1",
+    "B-DVC24SD-1",
+    "B-DVH12SD-0",
+    "B-DVH18SD-1",
+    "B-DVH24SD-1"
+   ],
+   "url": "https://www.manualslib.com/manual/917606/Heat-Controller-B-Dvh09sd-0.html"
+  },
+  {
+   "manualId": "2692416",
+   "slug": "Heat-Controller-A-Hmc09as",
+   "title": "A-HMC09AS Service manual",
+   "type": "Service",
+   "pages": 73,
+   "productModel": "A-HMC09AS",
+   "extraModels": [
+    "A-HMC12AS",
+    "A-HMC18AS",
+    "A-HMC24AS",
+    "A-HMH12AS",
+    "A-HMH18AS",
+    "A-HMH24AS",
+    "B-HMC09AS",
+    "B-HMC12AS",
+    "B-HMC18AS",
+    "B-HMC24AS",
+    "B-HMH12AS",
+    "B-HMH18AS",
+    "B-HMH24AS"
+   ],
+   "url": "https://www.manualslib.com/manual/2692416/Heat-Controller-A-Hmc09as.html"
+  },
+  {
+   "manualId": "3533337",
+   "slug": "Heat-Controller-Energy-Knight-Hmc24as",
+   "title": "A-HMC09AS Service manual",
+   "type": "Service",
+   "pages": 74,
+   "productModel": "A-HMC09AS",
+   "extraModels": [
+    "A-HMC09AS",
+    "A-HMC12AS",
+    "A-HMC18AS",
+    "A-HMC24AS",
+    "A-HMH12AS",
+    "A-HMH18AS",
+    "A-HMH24AS",
+    "B-HMC09AS",
+    "B-HMC12AS",
+    "B-HMC18AS",
+    "B-HMC24AS",
+    "B-HMH12AS",
+    "B-HMH18AS",
+    "B-HMH24AS"
+   ],
+   "url": "https://www.manualslib.com/manual/3533337/Heat-Controller-Energy-Knight-Hmc24as.html"
+  },
+  {
+   "manualId": "4097616",
+   "slug": "Heat-Controller-Energy-Knight-Hmh18as",
+   "title": "A-HMC09AS Service manual",
+   "type": "Service",
+   "pages": 74,
+   "productModel": "A-HMC09AS",
+   "extraModels": [
+    "A-HMC09AS",
+    "A-HMC12AS",
+    "A-HMC18AS",
+    "A-HMC24AS",
+    "A-HMH12AS",
+    "A-HMH18AS",
+    "A-HMH24AS",
+    "B-HMC09AS",
+    "B-HMC12AS",
+    "B-HMC18AS",
+    "B-HMC24AS",
+    "B-HMH12AS",
+    "B-HMH18AS",
+    "B-HMH24AS"
+   ],
+   "url": "https://www.manualslib.com/manual/4097616/Heat-Controller-Energy-Knight-Hmh18as.html"
+  },
+  {
+   "manualId": "812981",
+   "slug": "Heat-Controller-B-Mmc09fa-1",
+   "title": "A-MMC18FA-1 Service manual",
+   "type": "Service",
+   "pages": 87,
+   "productModel": "A-MMC18FA-1",
+   "extraModels": [
+    "A-MMC18FA-1",
+    "A-MMC24FA-1",
+    "A-MMC36FA-1",
+    "A-MMH18FA-1",
+    "A-MMH24FA-1",
+    "A-MMH36FA-1",
+    "B-MMC12FA-1",
+    "B-MMH09FA-1",
+    "B-MMH12FA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/812981/Heat-Controller-B-Mmc09fa-1.html"
+  },
+  {
+   "manualId": "838575",
+   "slug": "Heat-Controller-B-Mmc09fa-1",
+   "title": "A-MMC24FA-1 Service manual",
+   "type": "Service",
+   "pages": 83,
+   "productModel": "A-MMC24FA-1",
+   "extraModels": [
+    "A-MMC24FA-1",
+    "A-MMC36FA-1",
+    "A-MMH18FA-1",
+    "A-MMH24FA-1",
+    "A-MMH36FA-1",
+    "B-MMC12FA-1",
+    "B-MMH09FA-1",
+    "B-MMH12FA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/838575/Heat-Controller-B-Mmc09fa-1.html"
+  },
+  {
+   "manualId": "746611",
+   "slug": "Heat-Controller-A-Vfh24ta-1",
+   "title": "A-VFH18DA-1 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "A-VFH18DA-1",
+   "extraModels": [
+    "A-VFH18DA-1",
+    "A-VFH30QA-1",
+    "A-VFH36QA-1",
+    "A-VFH42PA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/746611/Heat-Controller-A-Vfh24ta-1.html"
+  },
+  {
+   "manualId": "513266",
+   "slug": "Heat-Controller-A-Vmh18dc-1",
+   "title": "A-VMH18DC-1 Service Service manual",
+   "type": "Service",
+   "pages": 51,
+   "productModel": "A-VMH18DC-1 Service",
+   "extraModels": [
+    "A-VMH27TC-1 Service",
+    "A-VMH36QC-1 Service"
+   ],
+   "url": "https://www.manualslib.com/manual/513266/Heat-Controller-A-Vmh18dc-1.html"
+  },
+  {
+   "manualId": "3595042",
+   "slug": "Heat-Controller-A-Vmh36fa-1",
+   "title": "A-VMH36FA-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "A-VMH36FA-1",
+   "extraModels": [
+    "VMC09SB-1 Service",
+    "VMC12SB-1 Service",
+    "VMC18SB-1 Service",
+    "VMC24SB-1 Service"
+   ],
+   "url": "https://www.manualslib.com/manual/3595042/Heat-Controller-A-Vmh36fa-1.html"
+  },
+  {
+   "manualId": "722184",
+   "slug": "Heat-Controller-B-Vch12fc-1",
+   "title": "A-VMH36QC-1 Service installation manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "A-VMH36QC-1 Service",
+   "extraModels": [
+    "A-VMH36QC-1 Service",
+    "A-VCH18DC-1",
+    "A-VCH27TC-1",
+    "B-VCH18FC-1",
+    "B-VMH09FC-1",
+    "B-VMH12FC-1",
+    "B-VMH18FC-1"
+   ],
+   "url": "https://www.manualslib.com/manual/722184/Heat-Controller-B-Vch12fc-1.html"
+  },
+  {
+   "manualId": "513268",
+   "slug": "Heat-Controller-Air-Handler-Series",
+   "title": "Air Handler Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "Air Handler Series",
+   "extraModels": [
+    "WDG024VSB-1A",
+    "WDG036VSB-1A",
+    "WDG048VSB-1A",
+    "WDG060VSB-1A"
+   ],
+   "url": "https://www.manualslib.com/manual/513268/Heat-Controller-Air-Handler-Series.html"
+  },
+  {
+   "manualId": "916460",
+   "slug": "Heat-Controller-As-Q1835jz0",
+   "title": "AS-Q1835JZ0 Service manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "AS-Q1835JZ0",
+   "extraModels": [
+    "AS-Q2435JZ0"
+   ],
+   "url": "https://www.manualslib.com/manual/916460/Heat-Controller-As-Q1835jz0.html"
+  },
+  {
+   "manualId": "847039",
+   "slug": "Heat-Controller-B-Vch12fc-1",
+   "title": "B-VCH12FC-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "B-VCH12FC-1",
+   "extraModels": [
+    "B-VCH18FC-1"
+   ],
+   "url": "https://www.manualslib.com/manual/847039/Heat-Controller-B-Vch12fc-1.html"
+  },
+  {
+   "manualId": "1263483",
+   "slug": "Heat-Controller-B-Vfh-9-12-18-24-Da",
+   "title": "B-VFH 12/18/24CA Installation, operation & maintanance manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "B-VFH 12/18/24CA",
+   "extraModels": [
+    "B-VFH 12/18/24CA",
+    "B-VFH 9/12/18/24/UA"
+   ],
+   "url": "https://www.manualslib.com/manual/1263483/Heat-Controller-B-Vfh-9-12-18-24-Da.html"
+  },
+  {
+   "manualId": "702336",
+   "slug": "Heat-Controller-B-Vfh09ma-1",
+   "title": "B-VFH09MA-1 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "B-VFH09MA-1",
+   "extraModels": [
+    "B-VFH12MA-1",
+    "B-VFH18MA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/702336/Heat-Controller-B-Vfh09ma-1.html"
+  },
+  {
+   "manualId": "3392798",
+   "slug": "Heat-Controller-Sma-Smh-09-12-18sc",
+   "title": "B-VMH09/12FC-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "B-VMH09/12FC-1",
+   "extraModels": [
+    "B-VMH09/12FC-1",
+    "VMH 09/12/18/24SC"
+   ],
+   "url": "https://www.manualslib.com/manual/3392798/Heat-Controller-Sma-Smh-09-12-18sc.html"
+  },
+  {
+   "manualId": "602492",
+   "slug": "Heat-Controller-B-Sma-Smh-09",
+   "title": "B-VMH09FC-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "B-VMH09FC-1",
+   "extraModels": [
+    "B-VMH09FC-1",
+    "B-VMH12FC-1",
+    "B-VMH18FC-1",
+    "B-SMA 09",
+    "B-SMA 12",
+    "B-SMA 18SC",
+    "B-SMA/SMH 12",
+    "B-SMA/SMH 18SC",
+    "B-SMH 09",
+    "B-SMH 12",
+    "B-SMH 18SC",
+    "B-VMH 09",
+    "B-VMH 09SC-1",
+    "B-VMH 12",
+    "B-VMH 12SC-1",
+    "B-VMH 18",
+    "B-VMH 18FC-1",
+    "B-VMH 18SC-1",
+    "B-VMH 24",
+    "B-VMH 24SC-1",
+    "B-VMH 30",
+    "B-VMH 30SC-1",
+    "B-VMH 36SC-1"
+   ],
+   "url": "https://www.manualslib.com/manual/602492/Heat-Controller-B-Sma-Smh-09.html"
+  },
+  {
+   "manualId": "825032",
+   "slug": "Heat-Controller-Bg-81g",
+   "title": "BG-101G owner's manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "BG-101G",
+   "extraModels": [
+    "BG-101G",
+    "BG-103G",
+    "BG-123G",
+    "BG-143G",
+    "BGE-103G",
+    "BGE-123G"
+   ],
+   "url": "https://www.manualslib.com/manual/825032/Heat-Controller-Bg-81g.html"
+  },
+  {
+   "manualId": "561455",
+   "slug": "Heat-Controller-Bg-81g",
+   "title": "BG-101G Service manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "BG-101G",
+   "extraModels": [
+    "BG-101G",
+    "BG-103G",
+    "BG-123G",
+    "BG-143G",
+    "BGE-103G",
+    "BGE-123G"
+   ],
+   "url": "https://www.manualslib.com/manual/561455/Heat-Controller-Bg-81g.html"
+  },
+  {
+   "manualId": "1032615",
+   "slug": "Heat-Controller-Bg-81j",
+   "title": "BG-101J owner's manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "BG-101J",
+   "extraModels": [
+    "BG-101J",
+    "BG-103J",
+    "BG-121G",
+    "BG-123J",
+    "BG-143J",
+    "BGE-103J",
+    "BGE-123J"
+   ],
+   "url": "https://www.manualslib.com/manual/1032615/Heat-Controller-Bg-81j.html"
+  },
+  {
+   "manualId": "1166119",
+   "slug": "Heat-Controller-Bg-81j",
+   "title": "BG-101J owner's manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "BG-101J",
+   "extraModels": [
+    "BG-101J",
+    "BG-103J",
+    "BG-121G",
+    "BG-123J",
+    "BG-143J",
+    "BGE-103J",
+    "BGE-123J"
+   ],
+   "url": "https://www.manualslib.com/manual/1166119/Heat-Controller-Bg-81j.html"
+  },
+  {
+   "manualId": "745139",
+   "slug": "Heat-Controller-Bg-81j",
+   "title": "BG-101J owner's manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "BG-101J",
+   "extraModels": [
+    "BG-101J",
+    "BG-103J",
+    "BG-121G",
+    "BG-123J",
+    "BG-143J",
+    "BGE-103J",
+    "BGE-123J"
+   ],
+   "url": "https://www.manualslib.com/manual/745139/Heat-Controller-Bg-81j.html"
+  },
+  {
+   "manualId": "1251109",
+   "slug": "Heat-Controller-Bg-103m",
+   "title": "BG-101M owner's manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "BG-101M",
+   "extraModels": [
+    "BG-101M",
+    "BG-121M",
+    "BG-123M",
+    "BG-143M",
+    "BG-81M",
+    "BGE-103M",
+    "BGE-123M",
+    "BGE-143M"
+   ],
+   "url": "https://www.manualslib.com/manual/1251109/Heat-Controller-Bg-103m.html"
+  },
+  {
+   "manualId": "561471",
+   "slug": "Heat-Controller-Bg-103a",
+   "title": "BG-103A Service manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "BG-103A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/561471/Heat-Controller-Bg-103a.html"
+  },
+  {
+   "manualId": "1001465",
+   "slug": "Heat-Controller-Bge-123j",
+   "title": "BGE-123J owner's manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "BGE-123J",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1001465/Heat-Controller-Bge-123j.html"
+  },
+  {
+   "manualId": "3508484",
+   "slug": "Heat-Controller-Comfort-Aire-Bhd-301-A",
+   "title": "BHD-301 owner's manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "BHD-301",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3508484/Heat-Controller-Comfort-Aire-Bhd-301-A.html"
+  },
+  {
+   "manualId": "370302",
+   "slug": "Heat-Controller-Bhd-301",
+   "title": "BHD-301 owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "BHD-301",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/370302/Heat-Controller-Bhd-301.html"
+  },
+  {
+   "manualId": "722186",
+   "slug": "Heat-Controller-Bhd-301",
+   "title": "BHD-301 owner's manual",
+   "type": "User / Owner",
+   "pages": 55,
+   "productModel": "BHD-301",
+   "extraModels": [
+    "Comfort-Aire BHD-301"
+   ],
+   "url": "https://www.manualslib.com/manual/722186/Heat-Controller-Bhd-301.html"
+  },
+  {
+   "manualId": "565518",
+   "slug": "Heat-Controller-Bhd-301",
+   "title": "BHD-301 Service manual",
+   "type": "Service",
+   "pages": 27,
+   "productModel": "BHD-301",
+   "extraModels": [
+    "BHD-501",
+    "BHD-651",
+    "Comfort-Aire BHD-301",
+    "Comfort-Aire BHD-501",
+    "Comfort-Aire BHD-651"
+   ],
+   "url": "https://www.manualslib.com/manual/565518/Heat-Controller-Bhd-301.html"
+  },
+  {
+   "manualId": "890439",
+   "slug": "Heat-Controller-Comfort-Air-Bhd-301",
+   "title": "BHD-301 Service manual",
+   "type": "Service",
+   "pages": 27,
+   "productModel": "BHD-301",
+   "extraModels": [
+    "BHD-501",
+    "BHD-651",
+    "Comfort-Aire BHD-301",
+    "Comfort-Aire BHD-501",
+    "Comfort-Aire BHD-651"
+   ],
+   "url": "https://www.manualslib.com/manual/890439/Heat-Controller-Comfort-Air-Bhd-301.html"
+  },
+  {
+   "manualId": "722208",
+   "slug": "Heat-Controller-Bhd-301-G",
+   "title": "BHD-301-G Service manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "BHD-301-G",
+   "extraModels": [
+    "BHD-501-G",
+    "BHD-651-G"
+   ],
+   "url": "https://www.manualslib.com/manual/722208/Heat-Controller-Bhd-301-G.html"
+  },
+  {
+   "manualId": "3513465",
+   "slug": "Heat-Controller-Comfort-Aire-Bhd-501-A",
+   "title": "BHD-501 owner's manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "BHD-501",
+   "extraModels": [
+    "BHD-651"
+   ],
+   "url": "https://www.manualslib.com/manual/3513465/Heat-Controller-Comfort-Aire-Bhd-501-A.html"
+  },
+  {
+   "manualId": "3781469",
+   "slug": "Heat-Controller-Comfort-Aire-Bhd-651-A",
+   "title": "BHD-501 owner's manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "BHD-501",
+   "extraModels": [
+    "BHD-501"
+   ],
+   "url": "https://www.manualslib.com/manual/3781469/Heat-Controller-Comfort-Aire-Bhd-651-A.html"
+  },
+  {
+   "manualId": "821885",
+   "slug": "Heat-Controller-Bhd-501",
+   "title": "BHD-501 owner's manual",
+   "type": "User / Owner",
+   "pages": 51,
+   "productModel": "BHD-501",
+   "extraModels": [
+    "BHD-651",
+    "Comfort-Aire BHD-501",
+    "Comfort-Aire BHD-651"
+   ],
+   "url": "https://www.manualslib.com/manual/821885/Heat-Controller-Bhd-501.html"
+  },
+  {
+   "manualId": "3519023",
+   "slug": "Heat-Controller-Comfort-Aire-Bhd-651",
+   "title": "BHD-651 owner's manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "BHD-651",
+   "extraModels": [
+    "Comfort-Aire BHD-651-C"
+   ],
+   "url": "https://www.manualslib.com/manual/3519023/Heat-Controller-Comfort-Aire-Bhd-651.html"
+  },
+  {
+   "manualId": "952853",
+   "slug": "Heat-Controller-Cd-101g",
+   "title": "CD-101G owner's manual",
+   "type": "User / Owner",
+   "pages": 23,
+   "productModel": "CD-101G",
+   "extraModels": [
+    "CD-121G"
+   ],
+   "url": "https://www.manualslib.com/manual/952853/Heat-Controller-Cd-101g.html"
+  },
+  {
+   "manualId": "747842",
+   "slug": "Heat-Controller-Cd-101j",
+   "title": "CD-101J owner's manual",
+   "type": "User / Owner",
+   "pages": 23,
+   "productModel": "CD-101J",
+   "extraModels": [
+    "CD-121J"
+   ],
+   "url": "https://www.manualslib.com/manual/747842/Heat-Controller-Cd-101j.html"
+  },
+  {
+   "manualId": "722195",
+   "slug": "Heat-Controller-Cd-101l",
+   "title": "CD-101L owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "CD-101L",
+   "extraModels": [
+    "CD-121L"
+   ],
+   "url": "https://www.manualslib.com/manual/722195/Heat-Controller-Cd-101l.html"
+  },
+  {
+   "manualId": "513278",
+   "slug": "Heat-Controller-Century",
+   "title": "Century Overview manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "Century",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/513278/Heat-Controller-Century.html"
+  },
+  {
+   "manualId": "1070472",
+   "slug": "Heat-Controller-Glua45-E3b",
+   "title": "Comfort Aire GLUA105E5B installation instructions manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "Comfort Aire GLUA105E5B",
+   "extraModels": [
+    "Comfort Aire GLUA105E5B",
+    "Comfort Aire GLUA120E5B",
+    "Comfort Aire GLUA60E3B",
+    "Comfort Aire GLUA90E4B",
+    "Comfort Aire GLUA90E5B",
+    "GLDH105-E5B",
+    "GLDH120-E5B",
+    "GLDH45-E3B",
+    "GLDH60-E3B",
+    "GLDH75-E3B",
+    "GLDH75-E4B",
+    "GLDH90-E4B",
+    "GLDH90-E5B",
+    "GLUA75-E3C",
+    "GLUA75-E4C"
+   ],
+   "url": "https://www.manualslib.com/manual/1070472/Heat-Controller-Glua45-E3b.html"
+  },
+  {
+   "manualId": "561450",
+   "slug": "Heat-Controller-Glua",
+   "title": "Comfort Aire GLUA105E5B Parts List",
+   "type": "Parts & Wiring",
+   "pages": 14,
+   "productModel": "Comfort Aire GLUA105E5B",
+   "extraModels": [
+    "Comfort Aire GLUA105E5B",
+    "Comfort Aire GLUA120E5B",
+    "Comfort Aire GLUA45E3B",
+    "Comfort Aire GLUA60E3B",
+    "Comfort Aire GLUA75E3B",
+    "Comfort Aire GLUA75E4B",
+    "Comfort Aire GLUA90E4B",
+    "Comfort Aire GLUA90E5B",
+    "GLUA series"
+   ],
+   "url": "https://www.manualslib.com/manual/561450/Heat-Controller-Glua.html"
+  },
+  {
+   "manualId": "561451",
+   "slug": "Heat-Controller-Glua-B",
+   "title": "Comfort Aire GLUA105E5B Parts List",
+   "type": "Parts & Wiring",
+   "pages": 14,
+   "productModel": "Comfort Aire GLUA105E5B",
+   "extraModels": [
+    "Comfort Aire GLUA105E5B",
+    "Comfort Aire GLUA120E5B",
+    "Comfort Aire GLUA45E3B",
+    "Comfort Aire GLUA60E3B",
+    "Comfort Aire GLUA75E3B",
+    "Comfort Aire GLUA75E4B",
+    "Comfort Aire GLUA90E4B",
+    "Comfort Aire GLUA90E5B"
+   ],
+   "url": "https://www.manualslib.com/manual/561451/Heat-Controller-Glua-B.html"
+  },
+  {
+   "manualId": "565218",
+   "slug": "Heat-Controller-Rads-51b",
+   "title": "COMFORT AIRE RADS-51B Service and parts manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "COMFORT AIRE RADS-51B",
+   "extraModels": [
+    "Comfort-Aire RADS-51B"
+   ],
+   "url": "https://www.manualslib.com/manual/565218/Heat-Controller-Rads-51b.html"
+  },
+  {
+   "manualId": "561466",
+   "slug": "Heat-Controller-Comfort-Aire-Reg-71a",
+   "title": "COMFORT AIRE REG-123A Service manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "COMFORT AIRE REG-123A",
+   "extraModels": [
+    "COMFORT AIRE REG-123A",
+    "Comfort-Aire REG-123A"
+   ],
+   "url": "https://www.manualslib.com/manual/561466/Heat-Controller-Comfort-Aire-Reg-71a.html"
+  },
+  {
+   "manualId": "565510",
+   "slug": "Heat-Controller-Comfort-Aire-Bd-81",
+   "title": "Comfort-Aire BD-101 Service manual",
+   "type": "Service",
+   "pages": 35,
+   "productModel": "Comfort-Aire BD-101",
+   "extraModels": [
+    "Comfort-Aire BD-101",
+    "Comfort-Aire BD-123",
+    "Comfort-Aire BDE-103",
+    "Comfort-Aire BDE-123",
+    "Comfort-Cire BD-123"
+   ],
+   "url": "https://www.manualslib.com/manual/565510/Heat-Controller-Comfort-Aire-Bd-81.html"
+  },
+  {
+   "manualId": "4273226",
+   "slug": "Heat-Controller-Comfort-Aire-Bde-103",
+   "title": "Comfort-Aire BDE-103 owner's manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "Comfort-Aire BDE-103",
+   "extraModels": [
+    "Comfort-Aire BDE-123"
+   ],
+   "url": "https://www.manualslib.com/manual/4273226/Heat-Controller-Comfort-Aire-Bde-103.html"
+  },
+  {
+   "manualId": "405151",
+   "slug": "Heat-Controller-Comfort-Aire-Bde-103-A",
+   "title": "Comfort-Aire BDE-103-A owner's manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "Comfort-Aire BDE-103-A",
+   "extraModels": [
+    "Comfort-Aire BDE-123-A"
+   ],
+   "url": "https://www.manualslib.com/manual/405151/Heat-Controller-Comfort-Aire-Bde-103-A.html"
+  },
+  {
+   "manualId": "4133282",
+   "slug": "Heat-Controller-Comfort-Aire-Bde-123-A",
+   "title": "Comfort-Aire BDE-103-A owner's manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "Comfort-Aire BDE-103-A",
+   "extraModels": [
+    "Comfort-Aire BDE-103-A"
+   ],
+   "url": "https://www.manualslib.com/manual/4133282/Heat-Controller-Comfort-Aire-Bde-123-A.html"
+  },
+  {
+   "manualId": "561470",
+   "slug": "Heat-Controller-Bde-103-A",
+   "title": "Comfort-Aire BDE-103-A Service manual",
+   "type": "Service",
+   "pages": 26,
+   "productModel": "Comfort-Aire BDE-103-A",
+   "extraModels": [
+    "Comfort-Aire BDE-123-A"
+   ],
+   "url": "https://www.manualslib.com/manual/561470/Heat-Controller-Bde-103-A.html"
+  },
+  {
+   "manualId": "2745178",
+   "slug": "Heat-Controller-Comfort-Aire-Bg-123a",
+   "title": "Comfort-Aire BG-101A owner's manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "Comfort-Aire BG-101A",
+   "extraModels": [
+    "Comfort-Aire BG-101A",
+    "Comfort-Aire BG-103B",
+    "Comfort-Aire BG-81A",
+    "Comfort-Aire BG-83A"
+   ],
+   "url": "https://www.manualslib.com/manual/2745178/Heat-Controller-Comfort-Aire-Bg-123a.html"
+  },
+  {
+   "manualId": "405154",
+   "slug": "Heat-Controller-Comfort-Aire-Bg-101a",
+   "title": "Comfort-Aire BG-101A owner's manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "Comfort-Aire BG-101A",
+   "extraModels": [
+    "Comfort-Aire BG-123A",
+    "Comfort-Aire BG-81A"
+   ],
+   "url": "https://www.manualslib.com/manual/405154/Heat-Controller-Comfort-Aire-Bg-101a.html"
+  },
+  {
+   "manualId": "644243",
+   "slug": "Heat-Controller-Comfort-Aire-Bg-81a",
+   "title": "Comfort-Aire BG-101A owner's manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "Comfort-Aire BG-101A",
+   "extraModels": [
+    "Comfort-Aire BG-101A",
+    "Comfort-Aire BG-103B",
+    "Comfort-Aire BG-123A",
+    "Comfort-Aire BG-83A"
+   ],
+   "url": "https://www.manualslib.com/manual/644243/Heat-Controller-Comfort-Aire-Bg-81a.html"
+  },
+  {
+   "manualId": "2576090",
+   "slug": "Heat-Controller-Comfort-Aire-Bg-81h",
+   "title": "COMFORT-AIRE BG-101H owner's manual",
+   "type": "User / Owner",
+   "pages": 67,
+   "productModel": "COMFORT-AIRE BG-101H",
+   "extraModels": [
+    "COMFORT-AIRE BG-101H",
+    "COMFORT-AIRE BG-103H",
+    "COMFORT-AIRE BG-123H",
+    "COMFORT-AIRE BG-143H"
+   ],
+   "url": "https://www.manualslib.com/manual/2576090/Heat-Controller-Comfort-Aire-Bg-81h.html"
+  },
+  {
+   "manualId": "405159",
+   "slug": "Heat-Controller-Comfort-Aire-Bge-123a",
+   "title": "Comfort-Aire BGE-103A owner's manual",
+   "type": "User / Owner",
+   "pages": 47,
+   "productModel": "Comfort-Aire BGE-103A",
+   "extraModels": [
+    "Comfort-Aire BGE-103A"
+   ],
+   "url": "https://www.manualslib.com/manual/405159/Heat-Controller-Comfort-Aire-Bge-123a.html"
+  },
+  {
+   "manualId": "837646",
+   "slug": "Heat-Controller-Comfort-Aire-Bge-103a",
+   "title": "Comfort-Aire BGE-103A owner's manual",
+   "type": "User / Owner",
+   "pages": 47,
+   "productModel": "Comfort-Aire BGE-103A",
+   "extraModels": [
+    "Comfort-Aire BGE-123A"
+   ],
+   "url": "https://www.manualslib.com/manual/837646/Heat-Controller-Comfort-Aire-Bge-103a.html"
+  },
+  {
+   "manualId": "622754",
+   "slug": "Heat-Controller-Comfort-Aire-Bge-103a",
+   "title": "Comfort-Aire BGE-103A Service manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Comfort-Aire BGE-103A",
+   "extraModels": [
+    "Comfort-Aire BGE-123A"
+   ],
+   "url": "https://www.manualslib.com/manual/622754/Heat-Controller-Comfort-Aire-Bge-103a.html"
+  },
+  {
+   "manualId": "813856",
+   "slug": "Heat-Controller-Comfort-Aire-Bhd-252",
+   "title": "Comfort-Aire BHD-252 Service manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "Comfort-Aire BHD-252",
+   "extraModels": [
+    "Comfort-Aire BHD-652"
+   ],
+   "url": "https://www.manualslib.com/manual/813856/Heat-Controller-Comfort-Aire-Bhd-252.html"
+  },
+  {
+   "manualId": "722192",
+   "slug": "Heat-Controller-Comfort-Aire-Bhd-301-C",
+   "title": "Comfort-Aire BHD-301-C Service manual",
+   "type": "Service",
+   "pages": 27,
+   "productModel": "Comfort-Aire BHD-301-C",
+   "extraModels": [
+    "Comfort-Aire BHD-501-B",
+    "Comfort-Aire BHD-651-C"
+   ],
+   "url": "https://www.manualslib.com/manual/722192/Heat-Controller-Comfort-Aire-Bhd-301-C.html"
+  },
+  {
+   "manualId": "565517",
+   "slug": "Heat-Controller-Comfort-Aire-Bhd-301-D",
+   "title": "Comfort-aire BHD-301-D Service manual",
+   "type": "Service",
+   "pages": 27,
+   "productModel": "Comfort-aire BHD-301-D",
+   "extraModels": [
+    "Comfort-Aire BHD-501-D",
+    "Comfort-Aire BHD-651-D"
+   ],
+   "url": "https://www.manualslib.com/manual/565517/Heat-Controller-Comfort-Aire-Bhd-301-D.html"
+  },
+  {
+   "manualId": "520114",
+   "slug": "Heat-Controller-Pd-91b",
+   "title": "Comfort-aire BHD-301-D use and care manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Comfort-aire BHD-301-D",
+   "extraModels": [
+    "Comfort-aire BHD-301-D",
+    "Comfort-aire BHD-301-E",
+    "PD-121B"
+   ],
+   "url": "https://www.manualslib.com/manual/520114/Heat-Controller-Pd-91b.html"
+  },
+  {
+   "manualId": "644234",
+   "slug": "Heat-Controller-Comfort-Aire-Bhd-501-D",
+   "title": "Comfort-Aire BHD-501-D owner's manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "Comfort-Aire BHD-501-D",
+   "extraModels": [
+    "Comfort-Aire BHD-651-D"
+   ],
+   "url": "https://www.manualslib.com/manual/644234/Heat-Controller-Comfort-Aire-Bhd-501-D.html"
+  },
+  {
+   "manualId": "821860",
+   "slug": "Heat-Controller-Comfort-Aire-Bhd-501-D",
+   "title": "Comfort-Aire BHD-501-D Service manual",
+   "type": "Service",
+   "pages": 6,
+   "productModel": "Comfort-Aire BHD-501-D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/821860/Heat-Controller-Comfort-Aire-Bhd-501-D.html"
+  },
+  {
+   "manualId": "833008",
+   "slug": "Heat-Controller-Comfort-Aire-Cd-121",
+   "title": "Comfort-Aire CD-101-5 Service manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Comfort-Aire CD-101-5",
+   "extraModels": [
+    "Comfort-Aire CD-101-5"
+   ],
+   "url": "https://www.manualslib.com/manual/833008/Heat-Controller-Comfort-Aire-Cd-121.html"
+  },
+  {
+   "manualId": "513270",
+   "slug": "Heat-Controller-Comfort-Aire",
+   "title": "Comfort-Aire Manual",
+   "type": "Other",
+   "pages": 42,
+   "productModel": "Comfort-Aire",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/513270/Heat-Controller-Comfort-Aire.html"
+  },
+  {
+   "manualId": "754786",
+   "slug": "Heat-Controller-Ps-81a",
+   "title": "Comfort-Aire PS-101A Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "Comfort-Aire PS-101A",
+   "extraModels": [
+    "Comfort-Aire PS-101A",
+    "Comfort-Aire PS-121A",
+    "Comfort-Aire PS-81A"
+   ],
+   "url": "https://www.manualslib.com/manual/754786/Heat-Controller-Ps-81a.html"
+  },
+  {
+   "manualId": "745120",
+   "slug": "Heat-Controller-Comfort-Aire-Psh-141a",
+   "title": "Comfort-Aire PS-101A manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "Comfort-Aire PS-101A",
+   "extraModels": [
+    "Comfort-Aire PS-101A",
+    "Comfort-Aire PS-121A",
+    "Comfort-Aire PS-81A"
+   ],
+   "url": "https://www.manualslib.com/manual/745120/Heat-Controller-Comfort-Aire-Psh-141a.html"
+  },
+  {
+   "manualId": "565221",
+   "slug": "Heat-Controller-Comfort-Aire-Rad-101a",
+   "title": "Comfort-Aire RAD-101A Service manual",
+   "type": "Service",
+   "pages": 39,
+   "productModel": "Comfort-Aire RAD-101A",
+   "extraModels": [
+    "Comfort-Aire RAD-81A",
+    "Comfort-Aire RADS-81B"
+   ],
+   "url": "https://www.manualslib.com/manual/565221/Heat-Controller-Comfort-Aire-Rad-101a.html"
+  },
+  {
+   "manualId": "2734501",
+   "slug": "Heat-Controller-Comfort-Aire-Rad-183b",
+   "title": "Comfort-Aire RAD-183B owner's manual",
+   "type": "User / Owner",
+   "pages": 51,
+   "productModel": "Comfort-Aire RAD-183B",
+   "extraModels": [
+    "Comfort-Aire RADS-151A"
+   ],
+   "url": "https://www.manualslib.com/manual/2734501/Heat-Controller-Comfort-Aire-Rad-183b.html"
+  },
+  {
+   "manualId": "3237254",
+   "slug": "Heat-Controller-Comfort-Aire-Rad-61a",
+   "title": "Comfort-Aire RAD-61A Service and parts manual",
+   "type": "Service",
+   "pages": 27,
+   "productModel": "Comfort-Aire RAD-61A",
+   "extraModels": [
+    "Comfort-Aire RADS-51B"
+   ],
+   "url": "https://www.manualslib.com/manual/3237254/Heat-Controller-Comfort-Aire-Rad-61a.html"
+  },
+  {
+   "manualId": "67149",
+   "slug": "Heat-Controller-Comfort-Cine-Reg-183a",
+   "title": "COMFORT-AIRE REG-183A user manual",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": "COMFORT-AIRE REG-183A",
+   "extraModels": [
+    "COMFORT-AIRE REG-183A",
+    "COMFORT-AIRE REG-243A"
+   ],
+   "url": "https://www.manualslib.com/manual/67149/Heat-Controller-Comfort-Cine-Reg-183a.html"
+  },
+  {
+   "manualId": "2690977",
+   "slug": "Heat-Controller-Comfort-Aire-Rg-51-5",
+   "title": "COMFORT-AIRE RG-51-5 Manual",
+   "type": "Other",
+   "pages": 34,
+   "productModel": "COMFORT-AIRE RG-51-5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2690977/Heat-Controller-Comfort-Aire-Rg-51-5.html"
+  },
+  {
+   "manualId": "359500",
+   "slug": "Heat-Controller-Comfort-Aire-Rg-51b",
+   "title": "Comfort-Aire RG-51B owner's manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "Comfort-Aire RG-51B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/359500/Heat-Controller-Comfort-Aire-Rg-51b.html"
+  },
+  {
+   "manualId": "513273",
+   "slug": "Heat-Controller-Comfort-Cire",
+   "title": "Comfort-Cire Overview manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "Comfort-Cire",
+   "extraModels": [
+    "DMC24CA-1",
+    "DMC36CA-1",
+    "SMA09SC-0",
+    "SMA12SC-0",
+    "SMA18SC-1",
+    "SMA24SC-1",
+    "SMH09SC-0",
+    "SMH12SC-0",
+    "SMH18SC-1",
+    "SMH24SC-1",
+    "VMH09SC-1",
+    "VMH12SC-1",
+    "VMH18DC-1",
+    "VMH18SC-1",
+    "VMH24SC-1",
+    "VMH27TC-1",
+    "VMH36QC-1"
+   ],
+   "url": "https://www.manualslib.com/manual/513273/Heat-Controller-Comfort-Cire.html"
+  },
+  {
+   "manualId": "279855",
+   "slug": "Heat-Controller-Rad-243a",
+   "title": "Comfort-Cire RAD-243A Dimensions",
+   "type": "Other",
+   "pages": null,
+   "productModel": "Comfort-Cire RAD-243A",
+   "extraModels": [
+    "Comfort-Cire RAD-243A"
+   ],
+   "url": "https://www.manualslib.com/manual/279855/Heat-Controller-Rad-243a.html"
+  },
+  {
+   "manualId": "3253173",
+   "slug": "Heat-Controller-Dmc09sb-0",
+   "title": "DMC09SB-0 installation instructions manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "DMC09SB-0",
+   "extraModels": [
+    "DMC12SB-0",
+    "DMC18SB-1",
+    "DMC24SB-1",
+    "DMH09SB-0",
+    "DMH12SB-0",
+    "DMH18SB-1",
+    "DMH24SB-1"
+   ],
+   "url": "https://www.manualslib.com/manual/3253173/Heat-Controller-Dmc09sb-0.html"
+  },
+  {
+   "manualId": "3516014",
+   "slug": "Heat-Controller-Comfort-Aire-Dmh12sb-0",
+   "title": "DMC09SB-0 owner's manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "DMC09SB-0",
+   "extraModels": [
+    "DMC09SB-0",
+    "DMC12SB-0",
+    "DMC18SB-1",
+    "DMC24SB-1",
+    "DMH09SB-0",
+    "DMH18SB-1",
+    "DMH24SB-1"
+   ],
+   "url": "https://www.manualslib.com/manual/3516014/Heat-Controller-Comfort-Aire-Dmh12sb-0.html"
+  },
+  {
+   "manualId": "564094",
+   "slug": "Heat-Controller-Dmc12sb-0",
+   "title": "DMC09SB-0 Service manual",
+   "type": "Service",
+   "pages": 73,
+   "productModel": "DMC09SB-0",
+   "extraModels": [
+    "DMC09SB-0",
+    "DMC18SB-1",
+    "DMC24SB-1",
+    "DMH09SB-0",
+    "DMH12SB-0",
+    "DMH18SB-1",
+    "DMH24SB-1"
+   ],
+   "url": "https://www.manualslib.com/manual/564094/Heat-Controller-Dmc12sb-0.html"
+  },
+  {
+   "manualId": "67151",
+   "slug": "Heat-Controller-Dmc24ca-1",
+   "title": "DMC24CA-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "DMC24CA-1",
+   "extraModels": [
+    "DMC36CA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/67151/Heat-Controller-Dmc24ca-1.html"
+  },
+  {
+   "manualId": "561447",
+   "slug": "Heat-Controller-Dmc24ca-1",
+   "title": "DMC24CA-1 Service manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "DMC24CA-1",
+   "extraModels": [
+    "DMC36CA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/561447/Heat-Controller-Dmc24ca-1.html"
+  },
+  {
+   "manualId": "802276",
+   "slug": "Heat-Controller-Dmc24db-1",
+   "title": "DMC24DB-1 installation instructions manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "DMC24DB-1",
+   "extraModels": [
+    "DMC36TB-1",
+    "DMH24DB-1",
+    "DMH36TB-1"
+   ],
+   "url": "https://www.manualslib.com/manual/802276/Heat-Controller-Dmc24db-1.html"
+  },
+  {
+   "manualId": "67150",
+   "slug": "Heat-Controller-Dmc24db-1",
+   "title": "DMC24DB-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "DMC24DB-1",
+   "extraModels": [
+    "DMC36TB-1",
+    "DMH24DB-1",
+    "DMH36TB-1"
+   ],
+   "url": "https://www.manualslib.com/manual/67150/Heat-Controller-Dmc24db-1.html"
+  },
+  {
+   "manualId": "678773",
+   "slug": "Heat-Controller-Dmc24db-1",
+   "title": "DMC24DB-1 Service manual",
+   "type": "Service",
+   "pages": 70,
+   "productModel": "DMC24DB-1",
+   "extraModels": [
+    "DMH24DB-1"
+   ],
+   "url": "https://www.manualslib.com/manual/678773/Heat-Controller-Dmc24db-1.html"
+  },
+  {
+   "manualId": "513279",
+   "slug": "Heat-Controller-Dmh18db-1",
+   "title": "DMH18DB-1 Service manual",
+   "type": "Service",
+   "pages": 70,
+   "productModel": "DMH18DB-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/513279/Heat-Controller-Dmh18db-1.html"
+  },
+  {
+   "manualId": "600040",
+   "slug": "Heat-Controller-Dvc-Dvh-09",
+   "title": "DVC 09 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "DVC 09",
+   "extraModels": [
+    "DVC 09",
+    "DVC 12",
+    "DVC 18",
+    "DVC 24",
+    "DVC/DVH 12",
+    "DVC/DVH 18",
+    "DVC/DVH 24",
+    "DVH 12",
+    "DVH 18",
+    "DVH 24"
+   ],
+   "url": "https://www.manualslib.com/manual/600040/Heat-Controller-Dvc-Dvh-09.html"
+  },
+  {
+   "manualId": "691637",
+   "slug": "Heat-Controller-Dxm2",
+   "title": "DXM2 Application and instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "DXM2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/691637/Heat-Controller-Dxm2.html"
+  },
+  {
+   "manualId": "630025",
+   "slug": "Heat-Controller-Ektc07-1g",
+   "title": "EKTC07-1G owner's manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "EKTC07-1G",
+   "extraModels": [
+    "EKTC07-2G",
+    "EKTC09-1G",
+    "EKTC09-2G",
+    "EKTC12-1G",
+    "EKTC12-2G",
+    "EKTC15-1G",
+    "EKTC15-2G",
+    "EKTH07-1G",
+    "EKTH07-2G",
+    "EKTH09-1G",
+    "EKTH09-2G",
+    "EKTH12-1G",
+    "EKTH12-2G",
+    "EKTH15-1G",
+    "EKTH15-2G"
+   ],
+   "url": "https://www.manualslib.com/manual/630025/Heat-Controller-Ektc07-1g.html"
+  },
+  {
+   "manualId": "564089",
+   "slug": "Heat-Controller-Ektc07-1g",
+   "title": "EKTC07-1G Service manual",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "EKTC07-1G",
+   "extraModels": [
+    "EKTC07-2G",
+    "EKTC09-1G",
+    "EKTC09-2G",
+    "EKTC12-1G",
+    "EKTC12-2G",
+    "EKTC15-1G",
+    "EKTC15-2G",
+    "EKTH07-1G",
+    "EKTH07-2G",
+    "EKTH09-1G",
+    "EKTH09-2G",
+    "EKTH12-1G",
+    "EKTH12-2G",
+    "EKTH15-1G",
+    "EKTH15-2G"
+   ],
+   "url": "https://www.manualslib.com/manual/564089/Heat-Controller-Ektc07-1g.html"
+  },
+  {
+   "manualId": "4162717",
+   "slug": "Heat-Controller-Energy-Kinght-Hmc36at",
+   "title": "ENERGY KINGHT HMC36AT installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "ENERGY KINGHT HMC36AT",
+   "extraModels": [
+    "ENERGY KINGHT HMH36AT"
+   ],
+   "url": "https://www.manualslib.com/manual/4162717/Heat-Controller-Energy-Kinght-Hmc36at.html"
+  },
+  {
+   "manualId": "688337",
+   "slug": "Heat-Controller-Energy-Knight-B-A-Hmc09as",
+   "title": "Energy Knight B/A-HMC09AS Service manual",
+   "type": "Service",
+   "pages": 74,
+   "productModel": "Energy Knight B/A-HMC09AS",
+   "extraModels": [
+    "Energy Knight B/A-HMC12AS",
+    "Energy Knight B/A-HMC18AS",
+    "Energy Knight B/A-HMC24AS",
+    "Energy Knight B/A-HMH12AS",
+    "Energy Knight B/A-HMH18AS",
+    "Energy Knight B/A-HMH24AS",
+    "B/A-HMC09AD",
+    "ENERGY KNIGHT HMC18AS",
+    "ENERGY KNIGHT HMH24AS"
+   ],
+   "url": "https://www.manualslib.com/manual/688337/Heat-Controller-Energy-Knight-B-A-Hmc09as.html"
+  },
+  {
+   "manualId": "906314",
+   "slug": "Heat-Controller-B-A-Hmc18as",
+   "title": "Energy Knight B/A-HMC09AS Service manual",
+   "type": "Service",
+   "pages": 73,
+   "productModel": "Energy Knight B/A-HMC09AS",
+   "extraModels": [
+    "Energy Knight B/A-HMC09AS",
+    "Energy Knight B/A-HMC12AS",
+    "Energy Knight B/A-HMC24AS",
+    "Energy Knight B/A-HMH12AS",
+    "Energy Knight B/A-HMH18AS",
+    "Energy Knight B/A-HMH24AS"
+   ],
+   "url": "https://www.manualslib.com/manual/906314/Heat-Controller-B-A-Hmc18as.html"
+  },
+  {
+   "manualId": "602489",
+   "slug": "Heat-Controller-Energy-Knight-B-A-Hmc30as",
+   "title": "Energy Knight B/A-HMC30AS Service manual",
+   "type": "Service",
+   "pages": 74,
+   "productModel": "Energy Knight B/A-HMC30AS",
+   "extraModels": [
+    "Energy Knight B/A-HMC30BS",
+    "Energy Knight B/A-HMH30AS",
+    "Energy Knight HMC30AS-1",
+    "Energy Knight HMC30BS-1",
+    "Energy Knight HMH30AS-1"
+   ],
+   "url": "https://www.manualslib.com/manual/602489/Heat-Controller-Energy-Knight-B-A-Hmc30as.html"
+  },
+  {
+   "manualId": "4057905",
+   "slug": "Heat-Controller-Energy-Knight-Hmc18ad-1",
+   "title": "ENERGY KNIGHT HMC18AD-1 Service manual",
+   "type": "Service",
+   "pages": 58,
+   "productModel": "ENERGY KNIGHT HMC18AD-1",
+   "extraModels": [
+    "ENERGY KNIGHT HMC24AD-1",
+    "ENERGY KNIGHT HMH18AD-1",
+    "ENERGY KNIGHT HMH24AD-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4057905/Heat-Controller-Energy-Knight-Hmc18ad-1.html"
+  },
+  {
+   "manualId": "602488",
+   "slug": "Heat-Controller-Energy-Knight-Hmc30as-1",
+   "title": "Energy Knight HMC30AS-1 installation instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "Energy Knight HMC30AS-1",
+   "extraModels": [
+    "Energy Knight HMC30BS-1",
+    "Energy Knight HMH30AS-1",
+    "Energy Knight HMH30BS-1"
+   ],
+   "url": "https://www.manualslib.com/manual/602488/Heat-Controller-Energy-Knight-Hmc30as-1.html"
+  },
+  {
+   "manualId": "3519056",
+   "slug": "Heat-Controller-Energy-Knight-Mss-009b",
+   "title": "ENERGY KNIGHT MSH-012A Service manual",
+   "type": "Service",
+   "pages": 86,
+   "productModel": "ENERGY KNIGHT MSH-012A",
+   "extraModels": [
+    "ENERGY KNIGHT MSH-012A",
+    "ENERGY KNIGHT MSH-012B",
+    "ENERGY KNIGHT MSH-018A",
+    "ENERGY KNIGHT MSH-018B",
+    "ENERGY KNIGHT MSH-024A",
+    "ENERGY KNIGHT MSH-024B",
+    "ENERGY KNIGHT MSS-009A",
+    "ENERGY KNIGHT MSS-012A",
+    "ENERGY KNIGHT MSS-012B",
+    "ENERGY KNIGHT MSS-018A",
+    "ENERGY KNIGHT MSS-018B",
+    "ENERGY KNIGHT MSS-024A",
+    "ENERGY KNIGHT MSS-024B"
+   ],
+   "url": "https://www.manualslib.com/manual/3519056/Heat-Controller-Energy-Knight-Mss-009b.html"
+  },
+  {
+   "manualId": "513281",
+   "slug": "Heat-Controller-Flow-Controllers",
+   "title": "Flow Controllers Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "Flow Controllers",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/513281/Heat-Controller-Flow-Controllers.html"
+  },
+  {
+   "manualId": "734181",
+   "slug": "Heat-Controller-Guh80a",
+   "title": "GDD80A user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "GDD80A",
+   "extraModels": [
+    "GDD80A",
+    "GDD92A",
+    "GDD95A",
+    "GUH92A",
+    "GUH95A",
+    "GUH95T"
+   ],
+   "url": "https://www.manualslib.com/manual/734181/Heat-Controller-Guh80a.html"
+  },
+  {
+   "manualId": "1443841",
+   "slug": "Heat-Controller-Gdd95a",
+   "title": "GDD92A installation instructions manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "GDD92A",
+   "extraModels": [
+    "GDD92A",
+    "GUH92A",
+    "GUH95A",
+    "GUH95C"
+   ],
+   "url": "https://www.manualslib.com/manual/1443841/Heat-Controller-Gdd95a.html"
+  },
+  {
+   "manualId": "933988",
+   "slug": "Heat-Controller-Guh92a",
+   "title": "GDD92A installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "GDD92A",
+   "extraModels": [
+    "GDD92A",
+    "GDD95A",
+    "GUH95A"
+   ],
+   "url": "https://www.manualslib.com/manual/933988/Heat-Controller-Guh92a.html"
+  },
+  {
+   "manualId": "513272",
+   "slug": "Heat-Controller-Geologix-Hts-Series",
+   "title": "GeoLogix HTS Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "GeoLogix HTS Series",
+   "extraModels": [
+    "GeoLogix HTS024B1D01NNN",
+    "GeoLogix HTS036B1D01NNN",
+    "GeoLogix HTS048B1D01NNN",
+    "GeoLogix HTS060B1D01NNN"
+   ],
+   "url": "https://www.manualslib.com/manual/513272/Heat-Controller-Geologix-Hts-Series.html"
+  },
+  {
+   "manualId": "838561",
+   "slug": "Heat-Controller-Geothermal",
+   "title": "GeoLogix plus HTD Series installation instructions manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "GeoLogix plus HTD Series",
+   "extraModels": [
+    "GeoLogix plus HTD Series",
+    "GeoLogix plus HTH Series",
+    "GeoLogix plus HTV Series"
+   ],
+   "url": "https://www.manualslib.com/manual/838561/Heat-Controller-Geothermal.html"
+  },
+  {
+   "manualId": "2359829",
+   "slug": "Heat-Controller-Gf901u-Upflow-Series",
+   "title": "GF0-1D105AS60 installation instructions manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "GF0-1D105AS60",
+   "extraModels": [
+    "GF0-1D105AS60",
+    "GF901D DOWNFLOW/HORIZONTAL Series",
+    "GF901D045AS36",
+    "GF901D060AS36",
+    "GF901D075AS36",
+    "GF901D120AS60",
+    "GF901U045AS36",
+    "GF901U060AS36",
+    "GF901U075AS36",
+    "GF901U105AS60",
+    "GF901U120AS60"
+   ],
+   "url": "https://www.manualslib.com/manual/2359829/Heat-Controller-Gf901u-Upflow-Series.html"
+  },
+  {
+   "manualId": "848368",
+   "slug": "Heat-Controller-Gmuh",
+   "title": "GMDA installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "GMDA",
+   "extraModels": [
+    "GMDA",
+    "GMDA100-E3A",
+    "GMDA100-E5A",
+    "GMDA125-E5A",
+    "GMDA150-E5A",
+    "GMDA50-E3A",
+    "GMDA75-E3A",
+    "GMDA75-E4A",
+    "GMUH100-E3A",
+    "GMUH100-E4A",
+    "GMUH100-E5A",
+    "GMUH125-E5A",
+    "GMUH150-E5A",
+    "GMUH50-E3A",
+    "GMUH75-E3A",
+    "GMUH75-E4A"
+   ],
+   "url": "https://www.manualslib.com/manual/848368/Heat-Controller-Gmuh.html"
+  },
+  {
+   "manualId": "565380",
+   "slug": "Heat-Controller-H-006",
+   "title": "H 006 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 34,
+   "productModel": "H 006",
+   "extraModels": [
+    "H/V 009",
+    "H/V 012",
+    "H/V 018",
+    "H/V 024",
+    "H/V 030",
+    "H/V 036",
+    "H/V 042",
+    "H/V 048",
+    "H/V 060",
+    "HCH006",
+    "HCH009",
+    "HCH012",
+    "HCH018",
+    "HCH024",
+    "HCH030",
+    "HCH036",
+    "HCH042",
+    "HCH048",
+    "HCH060",
+    "HCV009",
+    "HCV012",
+    "HCV018",
+    "HCV024",
+    "HCV030",
+    "HCV036",
+    "HCV042",
+    "HCV048",
+    "HCV060"
+   ],
+   "url": "https://www.manualslib.com/manual/565380/Heat-Controller-H-006.html"
+  },
+  {
+   "manualId": "684372",
+   "slug": "Heat-Controller-Hev-Series",
+   "title": "H Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "H Series",
+   "extraModels": [
+    "H Series",
+    "HEH Series",
+    "HEH024",
+    "HEH030",
+    "HEH036",
+    "HEH036A1D00ALB",
+    "HEH042",
+    "HEH048",
+    "HEH060",
+    "HEV024",
+    "HEV030",
+    "HEV036",
+    "HEV042",
+    "HEV048",
+    "HEV060"
+   ],
+   "url": "https://www.manualslib.com/manual/684372/Heat-Controller-Hev-Series.html"
+  },
+  {
+   "manualId": "1610901",
+   "slug": "Heat-Controller-Hbh-Series",
+   "title": "HBH Series ENGINEERING DESIGN manual",
+   "type": "Other",
+   "pages": 26,
+   "productModel": "HBH Series",
+   "extraModels": [
+    "HBH072",
+    "HBH096",
+    "HBH120"
+   ],
+   "url": "https://www.manualslib.com/manual/1610901/Heat-Controller-Hbh-Series.html"
+  },
+  {
+   "manualId": "864856",
+   "slug": "Heat-Controller-Hbh-Series",
+   "title": "HBH Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 46,
+   "productModel": "HBH Series",
+   "extraModels": [
+    "HBH072",
+    "HBH096",
+    "HBH120"
+   ],
+   "url": "https://www.manualslib.com/manual/864856/Heat-Controller-Hbh-Series.html"
+  },
+  {
+   "manualId": "816568",
+   "slug": "Heat-Controller-Hbh-V-Compact",
+   "title": "HBH/V Compact Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 43,
+   "productModel": "HBH/V Compact",
+   "extraModels": [
+    "HBH006",
+    "HBH009",
+    "HBH012",
+    "HBH015",
+    "HBH018",
+    "HBH024",
+    "HBH030",
+    "HBH036",
+    "HBH042",
+    "HBH048",
+    "HBH060",
+    "HBV006",
+    "HBV009",
+    "HBV012",
+    "HBV015",
+    "HBV018",
+    "HBV024",
+    "HBV030",
+    "HBV036",
+    "HBV042",
+    "HBV048",
+    "HBV060"
+   ],
+   "url": "https://www.manualslib.com/manual/816568/Heat-Controller-Hbh-V-Compact.html"
+  },
+  {
+   "manualId": "722197",
+   "slug": "Heat-Controller-Hdg18",
+   "title": "HDG18 installation instructions manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "HDG18",
+   "extraModels": [
+    "HDG24",
+    "HDG30",
+    "HDG36",
+    "HDG42",
+    "HDG48",
+    "HDG60"
+   ],
+   "url": "https://www.manualslib.com/manual/722197/Heat-Controller-Hdg18.html"
+  },
+  {
+   "manualId": "4187772",
+   "slug": "Heat-Controller-Comfort-Aire-Rf-51-5",
+   "title": "Heat Controller Comfort-Aire RF-51-5 Ownersmanual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4187772/Heat-Controller-Comfort-Aire-Rf-51-5.html"
+  },
+  {
+   "manualId": "561449",
+   "slug": "Heat-Controller-Gldh-Series",
+   "title": "Heat Controller GLDH Series Parts List",
+   "type": "Parts & Wiring",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [
+    "GLDH45-E3B",
+    "GLDH60-E3B",
+    "GLDH75-E3B",
+    "GLDH75-E4B"
+   ],
+   "url": "https://www.manualslib.com/manual/561449/Heat-Controller-Gldh-Series.html"
+  },
+  {
+   "manualId": "4266272",
+   "slug": "Heat-Controller-Olrm120-D3-5",
+   "title": "Heat Controller OLRM120-D3.5 Installation, Start-Up & Operating Instructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [
+    "OLFM120-D3.5",
+    "OLRM158-B5",
+    "OUFM120-D3.5"
+   ],
+   "url": "https://www.manualslib.com/manual/4266272/Heat-Controller-Olrm120-D3-5.html"
+  },
+  {
+   "manualId": "1621886",
+   "slug": "Heat-Controller-Hev-Series",
+   "title": "HEH Series ENGINEERING DESIGN manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "HEH Series",
+   "extraModels": [
+    "HEH Series",
+    "HEH024",
+    "HEH030",
+    "HEH036",
+    "HEH042",
+    "HEH048",
+    "HEH060",
+    "HEV024",
+    "HEV030",
+    "HEV036",
+    "HEV042",
+    "HEV048",
+    "HEV060"
+   ],
+   "url": "https://www.manualslib.com/manual/1621886/Heat-Controller-Hev-Series.html"
+  },
+  {
+   "manualId": "520111",
+   "slug": "Heat-Controller-Hfc-Refrigerant-R410a",
+   "title": "HFC Refrigerant R410a Application & service manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "HFC Refrigerant R410a",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/520111/Heat-Controller-Hfc-Refrigerant-R410a.html"
+  },
+  {
+   "manualId": "735875",
+   "slug": "Heat-Controller-R-410a",
+   "title": "HFC Refrigerant R410a Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "HFC Refrigerant R410a",
+   "extraModels": [
+    "HWW036",
+    "HWW060",
+    "HWW120"
+   ],
+   "url": "https://www.manualslib.com/manual/735875/Heat-Controller-R-410a.html"
+  },
+  {
+   "manualId": "629800",
+   "slug": "Heat-Controller-R-410a",
+   "title": "HFC Refrigerant R410a owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "HFC Refrigerant R410a",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/629800/Heat-Controller-R-410a.html"
+  },
+  {
+   "manualId": "630315",
+   "slug": "Heat-Controller-R-410a",
+   "title": "HFC Refrigerant R410a owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "HFC Refrigerant R410a",
+   "extraModels": [
+    "BHD-G Series"
+   ],
+   "url": "https://www.manualslib.com/manual/630315/Heat-Controller-R-410a.html"
+  },
+  {
+   "manualId": "893277",
+   "slug": "Heat-Controller-Bhd-H-Series",
+   "title": "HFC Refrigerant R410a owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "HFC Refrigerant R410a",
+   "extraModels": [
+    "HFC Refrigerant R410a",
+    "BHDP-H Series"
+   ],
+   "url": "https://www.manualslib.com/manual/893277/Heat-Controller-Bhd-H-Series.html"
+  },
+  {
+   "manualId": "564090",
+   "slug": "Heat-Controller-Hkv",
+   "title": "HKV Installation, operation & mainenance manual",
+   "type": "Installation",
+   "pages": 59,
+   "productModel": "HKV",
+   "extraModels": [
+    "HKV084",
+    "HKV096",
+    "HKV120",
+    "HKV150",
+    "HKV168",
+    "HKV192",
+    "HKV240",
+    "HKV300"
+   ],
+   "url": "https://www.manualslib.com/manual/564090/Heat-Controller-Hkv.html"
+  },
+  {
+   "manualId": "513269",
+   "slug": "Heat-Controller-Hp-Series",
+   "title": "HP Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 50,
+   "productModel": "HP Series",
+   "extraModels": [
+    "HP018",
+    "HP024",
+    "HP030",
+    "HP036",
+    "HP042",
+    "HP048",
+    "HP060"
+   ],
+   "url": "https://www.manualslib.com/manual/513269/Heat-Controller-Hp-Series.html"
+  },
+  {
+   "manualId": "655486",
+   "slug": "Heat-Controller-Hre1318-1360-1a",
+   "title": "HRE1318-1A Installation and operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "HRE1318-1A",
+   "extraModels": [
+    "HRE1318-1A",
+    "HRE1360-1A"
+   ],
+   "url": "https://www.manualslib.com/manual/655486/Heat-Controller-Hre1318-1360-1a.html"
+  },
+  {
+   "manualId": "846529",
+   "slug": "Heat-Controller-Rsgxxs-1d-Series",
+   "title": "HRG1460 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 31,
+   "productModel": "HRG1460",
+   "extraModels": [
+    "HRG1460",
+    "HRG18",
+    "HRG24",
+    "HRG30",
+    "HRG36",
+    "HRG42",
+    "HRG48",
+    "HRG60",
+    "HRGxxS-1D Series",
+    "RSG1460",
+    "RSG18",
+    "RSG24",
+    "RSG30",
+    "RSG36",
+    "RSG42",
+    "RSG48",
+    "RSG60",
+    "RSGxxR-1D Series"
+   ],
+   "url": "https://www.manualslib.com/manual/846529/Heat-Controller-Rsgxxs-1d-Series.html"
+  },
+  {
+   "manualId": "513282",
+   "slug": "Heat-Controller-Hss-Series",
+   "title": "HSS Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "HSS Series",
+   "extraModels": [
+    "HSS018B1C00CNN",
+    "HSS024B1C00CNN",
+    "HSS036B1C00CNN",
+    "HSS042B1C00CNN",
+    "HSS048B1C00CNN",
+    "HSS060B1C00CNN",
+    "HTS Series",
+    "HTS024A1C01NNN",
+    "HTS036A1C01NNN",
+    "HTS048A1C01NNN",
+    "HTS060A1C01NNN"
+   ],
+   "url": "https://www.manualslib.com/manual/513282/Heat-Controller-Hss-Series.html"
+  },
+  {
+   "manualId": "513265",
+   "slug": "Heat-Controller-Htv-Series",
+   "title": "HTD Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 51,
+   "productModel": "HTD Series",
+   "extraModels": [
+    "HTD Series",
+    "HTH Series"
+   ],
+   "url": "https://www.manualslib.com/manual/513265/Heat-Controller-Htv-Series.html"
+  },
+  {
+   "manualId": "684369",
+   "slug": "Heat-Controller-Htv-Series",
+   "title": "HTD Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "HTD Series",
+   "extraModels": [
+    "HTD Series",
+    "HTD024C1C01ALK",
+    "HTD036C1C01ALK",
+    "HTD048C1C01ALK",
+    "HTD060C1C01ALK",
+    "HTD070C1C01ALK",
+    "HTH Series",
+    "HTH024C1C01ALK",
+    "HTH036C1C01ALK",
+    "HTH048C1C01ALK",
+    "HTH060C1C01ALK",
+    "HTH070C1C01ALK",
+    "HTV024C1C01ALK",
+    "HTV036C1C01ALK",
+    "HTV048C1C01ALK",
+    "HTV060C1C01ALK",
+    "HTV070C1C01ALK"
+   ],
+   "url": "https://www.manualslib.com/manual/684369/Heat-Controller-Htv-Series.html"
+  },
+  {
+   "manualId": "1073335",
+   "slug": "Heat-Controller-Ir15s",
+   "title": "Installation & operation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1073335/Heat-Controller-Ir15s.html"
+  },
+  {
+   "manualId": "513280",
+   "slug": "Heat-Controller-Duct-Layout",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/513280/Heat-Controller-Duct-Layout.html"
+  },
+  {
+   "manualId": "1691339",
+   "slug": "Heat-Controller-Ahg-0b-Series",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1691339/Heat-Controller-Ahg-0b-Series.html"
+  },
+  {
+   "manualId": "678770",
+   "slug": "Heat-Controller-Hfc13xx-0a-Series",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/678770/Heat-Controller-Hfc13xx-0a-Series.html"
+  },
+  {
+   "manualId": "4520994",
+   "slug": "Heat-Controller-Inverterflex-Series",
+   "title": "InverterFlex B-VFH09DA-1 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "InverterFlex B-VFH09DA-1",
+   "extraModels": [
+    "InverterFlex B-VFH09DA-1",
+    "InverterFlex B-VFH12DA-1",
+    "InverterFlex B-VFH18DA-1",
+    "InverterFlex B-VFH24DA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4520994/Heat-Controller-Inverterflex-Series.html"
+  },
+  {
+   "manualId": "980309",
+   "slug": "Heat-Controller-Irph15ss",
+   "title": "IRPH15SS Installation & operation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "IRPH15SS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/980309/Heat-Controller-Irph15ss.html"
+  },
+  {
+   "manualId": "722207",
+   "slug": "Heat-Controller-M-Series",
+   "title": "M series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "M series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/722207/Heat-Controller-M-Series.html"
+  },
+  {
+   "manualId": "600054",
+   "slug": "Heat-Controller-Mgd-Series",
+   "title": "MGD Series Service manual",
+   "type": "Service",
+   "pages": 23,
+   "productModel": "MGD Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/600054/Heat-Controller-Mgd-Series.html"
+  },
+  {
+   "manualId": "561441",
+   "slug": "Heat-Controller-Mgd-Series",
+   "title": "MGD Series Technical manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "MGD Series",
+   "extraModels": [
+    "MGD60-E3A",
+    "MGD60-E5A",
+    "MGD75-E3A",
+    "MGD75-E5A",
+    "MGD90-E3A",
+    "MGD90-E5A"
+   ],
+   "url": "https://www.manualslib.com/manual/561441/Heat-Controller-Mgd-Series.html"
+  },
+  {
+   "manualId": "1299930",
+   "slug": "Heat-Controller-Mgd-B-Series",
+   "title": "MGD-B Series owner's manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "MGD-B Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1299930/Heat-Controller-Mgd-B-Series.html"
+  },
+  {
+   "manualId": "722185",
+   "slug": "Heat-Controller-Mgd60-E3a",
+   "title": "MGD60-E3A installation instructions manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "MGD60-E3A",
+   "extraModels": [
+    "MGD60-E5A",
+    "MGD75-E3A",
+    "MGD75-E5A",
+    "MGD90-E3A",
+    "MGD90-E5A"
+   ],
+   "url": "https://www.manualslib.com/manual/722185/Heat-Controller-Mgd60-E3a.html"
+  },
+  {
+   "manualId": "1299929",
+   "slug": "Heat-Controller-Mgd90-E5b",
+   "title": "MGD60-E3B installation instructions manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "MGD60-E3B",
+   "extraModels": [
+    "MGD60-E3B",
+    "MGD60-EB",
+    "MGD70-E3B",
+    "MGD70-E5B",
+    "MGD77-E3B",
+    "MGD77-E5B",
+    "MGD90-E3B"
+   ],
+   "url": "https://www.manualslib.com/manual/1299929/Heat-Controller-Mgd90-E5b.html"
+  },
+  {
+   "manualId": "1299928",
+   "slug": "Heat-Controller-Mgd90-E5b",
+   "title": "MGD60-E3B Technical manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "MGD60-E3B",
+   "extraModels": [
+    "MGD60-E3B",
+    "MGD70-E3B",
+    "MGD70-E5B",
+    "MGD77-E3B",
+    "MGD77-E5B",
+    "MGD90-E3B"
+   ],
+   "url": "https://www.manualslib.com/manual/1299928/Heat-Controller-Mgd90-E5b.html"
+  },
+  {
+   "manualId": "678769",
+   "slug": "Heat-Controller-Mmc18da-1",
+   "title": "MMC18DA-1 Installation instruction",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "MMC18DA-1",
+   "extraModels": [
+    "MMC24DA-1",
+    "MMC36TA-1",
+    "MMH18DA-1",
+    "MMH24DA-1",
+    "MMH36TA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/678769/Heat-Controller-Mmc18da-1.html"
+  },
+  {
+   "manualId": "722190",
+   "slug": "Heat-Controller-Mmc18da-1",
+   "title": "MMC18DA-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "MMC18DA-1",
+   "extraModels": [
+    "MMC24DA-1",
+    "MMC36TA-1",
+    "MMH18DA-1",
+    "MMH24DA-1",
+    "MMH36TA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/722190/Heat-Controller-Mmc18da-1.html"
+  },
+  {
+   "manualId": "565505",
+   "slug": "Heat-Controller-Mss-009b-A",
+   "title": "MSH-01 2B/A Service manual",
+   "type": "Service",
+   "pages": 87,
+   "productModel": "MSH-01 2B/A",
+   "extraModels": [
+    "MSH-01 2B/A",
+    "MSH-0186/A",
+    "MSH-024B/A",
+    "MSS-012B/A",
+    "MSS-018B/A",
+    "MSS-024B/A"
+   ],
+   "url": "https://www.manualslib.com/manual/565505/Heat-Controller-Mss-009b-A.html"
+  },
+  {
+   "manualId": "1012436",
+   "slug": "Heat-Controller-Odh",
+   "title": "ODH installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "ODH",
+   "extraModels": [
+    "OHH",
+    "OLF",
+    "OLR",
+    "OUF"
+   ],
+   "url": "https://www.manualslib.com/manual/1012436/Heat-Controller-Odh.html"
+  },
+  {
+   "manualId": "4168377",
+   "slug": "Heat-Controller-Odh",
+   "title": "ODH installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "ODH",
+   "extraModels": [
+    "OHH",
+    "OLF",
+    "OLR",
+    "OUF"
+   ],
+   "url": "https://www.manualslib.com/manual/4168377/Heat-Controller-Odh.html"
+  },
+  {
+   "manualId": "616151",
+   "slug": "Heat-Controller-Small-Duct-High-Velocity",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/616151/Heat-Controller-Small-Duct-High-Velocity.html"
+  },
+  {
+   "manualId": "4063158",
+   "slug": "Heat-Controller-Pd-121b",
+   "title": "PD-121B use and care manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "PD-121B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4063158/Heat-Controller-Pd-121b.html"
+  },
+  {
+   "manualId": "4373309",
+   "slug": "Heat-Controller-Pd-91b",
+   "title": "PD-121B use and care manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "PD-121B",
+   "extraModels": [
+    "PD-121B"
+   ],
+   "url": "https://www.manualslib.com/manual/4373309/Heat-Controller-Pd-91b.html"
+  },
+  {
+   "manualId": "279854",
+   "slug": "Heat-Controller-Pe-121a",
+   "title": "PE-121A Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": "PE-121A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/279854/Heat-Controller-Pe-121a.html"
+  },
+  {
+   "manualId": "4265745",
+   "slug": "Heat-Controller-Ps-71b",
+   "title": "PS-71B use and care manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "PS-71B",
+   "extraModels": [
+    "PS-91B"
+   ],
+   "url": "https://www.manualslib.com/manual/4265745/Heat-Controller-Ps-71b.html"
+  },
+  {
+   "manualId": "2458420",
+   "slug": "Heat-Controller-Ptac09a130a",
+   "title": "PTAC07A130A owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "PTAC07A130A",
+   "extraModels": [
+    "PTAC07A130A",
+    "PTAC12A130A",
+    "PTAC12A150A",
+    "PTAC15A130A",
+    "PTAC15A150A",
+    "PTAC15A150A-CY",
+    "PTHP07A130A",
+    "PTHP07A130A-CY",
+    "PTHP09A130A",
+    "PTHP12A130A",
+    "PTHP12A150A",
+    "PTHP15A130A",
+    "PTHP15A150A"
+   ],
+   "url": "https://www.manualslib.com/manual/2458420/Heat-Controller-Ptac09a130a.html"
+  },
+  {
+   "manualId": "885642",
+   "slug": "Heat-Controller-Ptac07a130a",
+   "title": "PTAC07A130A owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "PTAC07A130A",
+   "extraModels": [
+    "PTAC09A130A",
+    "PTAC12A130A",
+    "PTAC12A150A",
+    "PTAC15A130A",
+    "PTAC15A150A",
+    "PTHP07A130A",
+    "PTHP09A130A",
+    "PTHP12A130A",
+    "PTHP12A150A",
+    "PTHP15A130A",
+    "PTHP15A150A"
+   ],
+   "url": "https://www.manualslib.com/manual/885642/Heat-Controller-Ptac07a130a.html"
+  },
+  {
+   "manualId": "2357927",
+   "slug": "Heat-Controller-Ptac07a230a",
+   "title": "PTAC07A230A owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "PTAC07A230A",
+   "extraModels": [
+    "PTAC09A230A",
+    "PTAC12A230A",
+    "PTAC12A250A",
+    "PTAC15A230A",
+    "PTAC15A250A",
+    "PTHP07A230A",
+    "PTHP09A230A",
+    "PTHP12A230A",
+    "PTHP12A250A",
+    "PTHP15A230A",
+    "PTHP15A250A"
+   ],
+   "url": "https://www.manualslib.com/manual/2357927/Heat-Controller-Ptac07a230a.html"
+  },
+  {
+   "manualId": "513264",
+   "slug": "Heat-Controller-R-22",
+   "title": "R-22 user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "R-22",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/513264/Heat-Controller-R-22.html"
+  },
+  {
+   "manualId": "894584",
+   "slug": "Heat-Controller-Rads-61l",
+   "title": "RAD-101L owner's manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "RAD-101L",
+   "extraModels": [
+    "RAD-101L",
+    "RAD-121L",
+    "RAD-81L",
+    "RADS-101L",
+    "RADS-121L",
+    "RADS-123L",
+    "RADS-81L"
+   ],
+   "url": "https://www.manualslib.com/manual/894584/Heat-Controller-Rads-61l.html"
+  },
+  {
+   "manualId": "681853",
+   "slug": "Heat-Controller-Rads-51j",
+   "title": "RAD-123H owner's manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "RAD-123H",
+   "extraModels": [
+    "RAD-123H",
+    "RAD-123J",
+    "RADS-101H",
+    "RADS-101J",
+    "RADS-121H",
+    "RADS-121J",
+    "RADS-61J",
+    "RADS-661J",
+    "RADS-81H",
+    "RADS-81J"
+   ],
+   "url": "https://www.manualslib.com/manual/681853/Heat-Controller-Rads-51j.html"
+  },
+  {
+   "manualId": "722202",
+   "slug": "Heat-Controller-Reg-183jreg-253jrads-151jrads-183j",
+   "title": "RAD-283J owner's manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "RAD-283J",
+   "extraModels": [
+    "RAD-283J",
+    "RADS-253J",
+    "REG-183J-20A"
+   ],
+   "url": "https://www.manualslib.com/manual/722202/Heat-Controller-Reg-183jreg-253jrads-151jrads-183j.html"
+  },
+  {
+   "manualId": "860829",
+   "slug": "Heat-Controller-Rads-151l",
+   "title": "RAD-283L owner's manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "RAD-283L",
+   "extraModels": [
+    "RAD-283L",
+    "RADS-183L",
+    "RADS-223L",
+    "RADS-253L",
+    "REG-183L",
+    "REG-183L-20A",
+    "REG-253L",
+    "REG-253LR"
+   ],
+   "url": "https://www.manualslib.com/manual/860829/Heat-Controller-Rads-151l.html"
+  },
+  {
+   "manualId": "3104267",
+   "slug": "Heat-Controller-Rads-51l",
+   "title": "RAD-61L owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "RAD-61L",
+   "extraModels": [
+    "RAD-61L"
+   ],
+   "url": "https://www.manualslib.com/manual/3104267/Heat-Controller-Rads-51l.html"
+  },
+  {
+   "manualId": "3116070",
+   "slug": "Heat-Controller-Rads-101m",
+   "title": "RADS-101M owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "RADS-101M",
+   "extraModels": [
+    "RADS-121M",
+    "RADS-123M"
+   ],
+   "url": "https://www.manualslib.com/manual/3116070/Heat-Controller-Rads-101m.html"
+  },
+  {
+   "manualId": "1118379",
+   "slug": "Heat-Controller-Rads-151g",
+   "title": "RADS-151G owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "RADS-151G",
+   "extraModels": [
+    "RADS-183G",
+    "RADS-253G"
+   ],
+   "url": "https://www.manualslib.com/manual/1118379/Heat-Controller-Rads-151g.html"
+  },
+  {
+   "manualId": "520112",
+   "slug": "Heat-Controller-Rads-151h",
+   "title": "RADS-151H owner's manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "RADS-151H",
+   "extraModels": [
+    "RADS-183H",
+    "RADS-253H",
+    "REG-183H",
+    "REG-253H"
+   ],
+   "url": "https://www.manualslib.com/manual/520112/Heat-Controller-Rads-151h.html"
+  },
+  {
+   "manualId": "3168867",
+   "slug": "Heat-Controller-Rads-61m",
+   "title": "RADS-61M owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "RADS-61M",
+   "extraModels": [
+    "RADS-81M"
+   ],
+   "url": "https://www.manualslib.com/manual/3168867/Heat-Controller-Rads-61m.html"
+  },
+  {
+   "manualId": "520117",
+   "slug": "Heat-Controller-Rah-123g",
+   "title": "RAH-123G owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "RAH-123G",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/520117/Heat-Controller-Rah-123g.html"
+  },
+  {
+   "manualId": "520120",
+   "slug": "Heat-Controller-Rah-183g",
+   "title": "RAH-183G owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "RAH-183G",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/520120/Heat-Controller-Rah-183g.html"
+  },
+  {
+   "manualId": "1255244",
+   "slug": "Heat-Controller-Reg-123m",
+   "title": "REG 81M owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "REG 81M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1255244/Heat-Controller-Reg-123m.html"
+  },
+  {
+   "manualId": "2328713",
+   "slug": "Heat-Controller-Reg-81g",
+   "title": "REG-123G Service manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "REG-123G",
+   "extraModels": [
+    "REG-123G"
+   ],
+   "url": "https://www.manualslib.com/manual/2328713/Heat-Controller-Reg-81g.html"
+  },
+  {
+   "manualId": "681870",
+   "slug": "Heat-Controller-Reg-81j",
+   "title": "REG-123J owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "REG-123J",
+   "extraModels": [
+    "REG-123J"
+   ],
+   "url": "https://www.manualslib.com/manual/681870/Heat-Controller-Reg-81j.html"
+  },
+  {
+   "manualId": "671274",
+   "slug": "Heat-Controller-Reg-253h",
+   "title": "REG-253H Replacement parts list",
+   "type": "Parts & Wiring",
+   "pages": 5,
+   "productModel": "REG-253H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/671274/Heat-Controller-Reg-253h.html"
+  },
+  {
+   "manualId": "671273",
+   "slug": "Heat-Controller-Bge-H-Series",
+   "title": "Replacement parts list",
+   "type": "Parts & Wiring",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/671273/Heat-Controller-Bge-H-Series.html"
+  },
+  {
+   "manualId": "561462",
+   "slug": "Heat-Controller-Rads-253a",
+   "title": "Replacement parts manual",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/561462/Heat-Controller-Rads-253a.html"
+  },
+  {
+   "manualId": "561460",
+   "slug": "Heat-Controller-Rg-51g",
+   "title": "RG-51G Service manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "RG-51G",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/561460/Heat-Controller-Rg-51g.html"
+  },
+  {
+   "manualId": "681845",
+   "slug": "Heat-Controller-Rg-51j",
+   "title": "RG-51J owner's manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "RG-51J",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/681845/Heat-Controller-Rg-51j.html"
+  },
+  {
+   "manualId": "4267101",
+   "slug": "Heat-Controller-Rg-51l",
+   "title": "RG-51L Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 33,
+   "productModel": "RG-51L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4267101/Heat-Controller-Rg-51l.html"
+  },
+  {
+   "manualId": "1874149",
+   "slug": "Heat-Controller-Rg-51m",
+   "title": "RG-51M owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "RG-51M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1874149/Heat-Controller-Rg-51m.html"
+  },
+  {
+   "manualId": "3781467",
+   "slug": "Heat-Controller-Rg-61b",
+   "title": "RG-61B Manual",
+   "type": "Other",
+   "pages": 25,
+   "productModel": "RG-61B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3781467/Heat-Controller-Rg-61b.html"
+  },
+  {
+   "manualId": "893991",
+   "slug": "Heat-Controller-Rg32a-E",
+   "title": "RG32A/CE Owners & installation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "RG32A/CE",
+   "extraModels": [
+    "RG32A/CE"
+   ],
+   "url": "https://www.manualslib.com/manual/893991/Heat-Controller-Rg32a-E.html"
+  },
+  {
+   "manualId": "742378",
+   "slug": "Heat-Controller-Room-Air-Remote-Controller",
+   "title": "Room Air Conditioner Remote Controller Owner's instruction manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "Room Air Conditioner Remote Controller",
+   "extraModels": [
+    "Room Air Conditioner Remote Controller"
+   ],
+   "url": "https://www.manualslib.com/manual/742378/Heat-Controller-Room-Air-Remote-Controller.html"
+  },
+  {
+   "manualId": "745857",
+   "slug": "Heat-Controller-Room-Air-Remote-Controller",
+   "title": "Room Air Conditioners Remote Controller owner's manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "Room Air Conditioners Remote Controller",
+   "extraModels": [
+    "Room Air Conditioners Remote Controller"
+   ],
+   "url": "https://www.manualslib.com/manual/745857/Heat-Controller-Room-Air-Remote-Controller.html"
+  },
+  {
+   "manualId": "1062702",
+   "slug": "Heat-Controller-Rphe-093g-Series",
+   "title": "RPHE-093G Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "RPHE-093G Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1062702/Heat-Controller-Rphe-093g-Series.html"
+  },
+  {
+   "manualId": "513262",
+   "slug": "Heat-Controller-Rse1318-1a",
+   "title": "RSE1318-1A Installation and operation manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "RSE1318-1A",
+   "extraModels": [
+    "RSE1360-1A"
+   ],
+   "url": "https://www.manualslib.com/manual/513262/Heat-Controller-Rse1318-1a.html"
+  },
+  {
+   "manualId": "513267",
+   "slug": "Heat-Controller-Sdah-24",
+   "title": "SDAH 24 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "SDAH 24",
+   "extraModels": [
+    "SDAH 36",
+    "SDAH 48"
+   ],
+   "url": "https://www.manualslib.com/manual/513267/Heat-Controller-Sdah-24.html"
+  },
+  {
+   "manualId": "1360204",
+   "slug": "Heat-Controller-As-W093e7y0",
+   "title": "Service manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1360204/Heat-Controller-As-W093e7y0.html"
+  },
+  {
+   "manualId": "698458",
+   "slug": "Heat-Controller-As-W303dpz0",
+   "title": "Service manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/698458/Heat-Controller-As-W303dpz0.html"
+  },
+  {
+   "manualId": "722180",
+   "slug": "Heat-Controller-Smh-12",
+   "title": "SMA 09 installation instructions manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "SMA 09",
+   "extraModels": [
+    "SMA 09",
+    "SMA 12",
+    "SMH 09"
+   ],
+   "url": "https://www.manualslib.com/manual/722180/Heat-Controller-Smh-12.html"
+  },
+  {
+   "manualId": "631561",
+   "slug": "Heat-Controller-Sma-09",
+   "title": "SMA 09 owner's manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "SMA 09",
+   "extraModels": [
+    "SMA 12",
+    "SMA 18",
+    "SMA 24",
+    "SMH 09",
+    "SMH 12",
+    "SMH 24",
+    "SMH18"
+   ],
+   "url": "https://www.manualslib.com/manual/631561/Heat-Controller-Sma-09.html"
+  },
+  {
+   "manualId": "655487",
+   "slug": "Heat-Controller-Sma09",
+   "title": "SMA 09 Replacement parts manual",
+   "type": "Parts & Wiring",
+   "pages": 34,
+   "productModel": "SMA 09",
+   "extraModels": [
+    "SMA 12",
+    "SMA 18",
+    "SMA 24",
+    "SMH 09",
+    "SMH 12",
+    "SMH 24",
+    "SMH18"
+   ],
+   "url": "https://www.manualslib.com/manual/655487/Heat-Controller-Sma09.html"
+  },
+  {
+   "manualId": "722188",
+   "slug": "Heat-Controller-Sma-18",
+   "title": "SMA 18 installation instructions manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "SMA 18",
+   "extraModels": [
+    "SMA 24",
+    "SMH 24",
+    "SMH18"
+   ],
+   "url": "https://www.manualslib.com/manual/722188/Heat-Controller-Sma-18.html"
+  },
+  {
+   "manualId": "631112",
+   "slug": "Heat-Controller-Sma-Series",
+   "title": "SMA Series owner's manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "SMA Series",
+   "extraModels": [
+    "SMH Series"
+   ],
+   "url": "https://www.manualslib.com/manual/631112/Heat-Controller-Sma-Series.html"
+  },
+  {
+   "manualId": "67154",
+   "slug": "Heat-Controller-Sma",
+   "title": "SMA Series owner's manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "SMA Series",
+   "extraModels": [
+    "SMA Series",
+    "SMH Series"
+   ],
+   "url": "https://www.manualslib.com/manual/67154/Heat-Controller-Sma.html"
+  },
+  {
+   "manualId": "800696",
+   "slug": "Heat-Controller-Sma",
+   "title": "SMA Series Service manual",
+   "type": "Service",
+   "pages": 53,
+   "productModel": "SMA Series",
+   "extraModels": [
+    "SMA Series",
+    "SMH 09",
+    "SMH18",
+    "12SA-0",
+    "24SA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/800696/Heat-Controller-Sma.html"
+  },
+  {
+   "manualId": "513257",
+   "slug": "Heat-Controller-Sma24sc",
+   "title": "SMA24SC owner's manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "SMA24SC",
+   "extraModels": [
+    "SMH24SC"
+   ],
+   "url": "https://www.manualslib.com/manual/513257/Heat-Controller-Sma24sc.html"
+  },
+  {
+   "manualId": "807656",
+   "slug": "Heat-Controller-Tgc-Series",
+   "title": "TGC Series installation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "TGC Series",
+   "extraModels": [
+    "TGC-036C-1K-120",
+    "TGC-036C-3K-120",
+    "TGC-036C-4K-120",
+    "TGC-042C-1K-120",
+    "TGC-042C-3K-120",
+    "TGC-042C-4K-120",
+    "TGC-048C-1K-130",
+    "TGC-048C-3K-130",
+    "TGC-048C-4K-130",
+    "TGC-060C-1K-130",
+    "TGC-060C-3K-130",
+    "TGC-060C-4K-130"
+   ],
+   "url": "https://www.manualslib.com/manual/807656/Heat-Controller-Tgc-Series.html"
+  },
+  {
+   "manualId": "1494430",
+   "slug": "Heat-Controller-Tpr-Series",
+   "title": "TPR Series ENGINEERING DESIGN manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "TPR Series",
+   "extraModels": [
+    "TPR24C-1K",
+    "TPR30C-1K",
+    "TPR36C-1K",
+    "TPR42C-1K",
+    "TPR48C-1K"
+   ],
+   "url": "https://www.manualslib.com/manual/1494430/Heat-Controller-Tpr-Series.html"
+  },
+  {
+   "manualId": "2203589",
+   "slug": "Heat-Controller-Tprg-Series",
+   "title": "TPRG Series installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "TPRG Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2203589/Heat-Controller-Tprg-Series.html"
+  },
+  {
+   "manualId": "899971",
+   "slug": "Heat-Controller-Odf",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "OLF",
+    "OLR",
+    "OUF"
+   ],
+   "url": "https://www.manualslib.com/manual/899971/Heat-Controller-Odf.html"
+  },
+  {
+   "manualId": "724291",
+   "slug": "Heat-Controller-V-Series",
+   "title": "V series Installation & operation instruction",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "V series",
+   "extraModels": [
+    "V18",
+    "V24",
+    "V30",
+    "V36"
+   ],
+   "url": "https://www.manualslib.com/manual/724291/Heat-Controller-V-Series.html"
+  },
+  {
+   "manualId": "565515",
+   "slug": "Heat-Controller-Vmh09sb-1",
+   "title": "VMC09SB-1 Service installation instructions manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "VMC09SB-1 Service",
+   "extraModels": [
+    "VMC09SB-1 Service",
+    "VMC12SB-1 Service",
+    "VMC18SB-1 Service",
+    "VMC24SB-1 Service",
+    "VMH12SB-1 Service",
+    "VMH18SB-1 Service",
+    "VMH24SB-1 Service"
+   ],
+   "url": "https://www.manualslib.com/manual/565515/Heat-Controller-Vmh09sb-1.html"
+  },
+  {
+   "manualId": "647532",
+   "slug": "Heat-Controller-Vmc09sb-1",
+   "title": "VMC09SB-1 Service owner's manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "VMC09SB-1 Service",
+   "extraModels": [
+    "VMC12SB-1 Service",
+    "VMC18SB-1 Service",
+    "VMC24SB-1 Service"
+   ],
+   "url": "https://www.manualslib.com/manual/647532/Heat-Controller-Vmc09sb-1.html"
+  },
+  {
+   "manualId": "1016350",
+   "slug": "Heat-Controller-Vmc09sb-1",
+   "title": "VMC09SB-1 Service Service manual",
+   "type": "Service",
+   "pages": 103,
+   "productModel": "VMC09SB-1 Service",
+   "extraModels": [
+    "VMC12SB-1 Service",
+    "VMC18SB-1 Service",
+    "VMC24SB-1 Service",
+    "VMC30SB-1 Service",
+    "VMH09SB-1 Service",
+    "VMH12SB-1 Service",
+    "VMH18SB-1 Service",
+    "VMH24SB-1 Service",
+    "VMH30SB-1"
+   ],
+   "url": "https://www.manualslib.com/manual/1016350/Heat-Controller-Vmc09sb-1.html"
+  },
+  {
+   "manualId": "513271",
+   "slug": "Heat-Controller-Vmc09sb-1",
+   "title": "VMC09SB-1 Service Service manual",
+   "type": "Service",
+   "pages": 66,
+   "productModel": "VMC09SB-1 Service",
+   "extraModels": [
+    "VMC12SB-1 Service",
+    "VMC18SB-1 Service",
+    "VMC24SB-1 Service",
+    "VMC30SB-1 Service",
+    "VMH09SB-1 Service",
+    "VMH12SB-1 Service",
+    "VMH18SB-1 Service",
+    "VMH24SB-1 Service",
+    "VMH30SB-1"
+   ],
+   "url": "https://www.manualslib.com/manual/513271/Heat-Controller-Vmc09sb-1.html"
+  },
+  {
+   "manualId": "678774",
+   "slug": "Heat-Controller-Vmc30sb-1",
+   "title": "VMC30SB-1 Service owner's manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "VMC30SB-1 Service",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/678774/Heat-Controller-Vmc30sb-1.html"
+  },
+  {
+   "manualId": "513255",
+   "slug": "Heat-Controller-Vmh-09",
+   "title": "VMH 09 installation manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "VMH 09",
+   "extraModels": [
+    "VMH 12",
+    "VMH 18",
+    "VMH 24"
+   ],
+   "url": "https://www.manualslib.com/manual/513255/Heat-Controller-Vmh-09.html"
+  },
+  {
+   "manualId": "513258",
+   "slug": "Heat-Controller-Vmh-09",
+   "title": "VMH 09 installation manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "VMH 09",
+   "extraModels": [
+    "VMH 12",
+    "VMH 18",
+    "VMH 27",
+    "VMH 36 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/513258/Heat-Controller-Vmh-09.html"
+  },
+  {
+   "manualId": "555296",
+   "slug": "Heat-Controller-Vmh-09",
+   "title": "VMH 09 owner's manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "VMH 09",
+   "extraModels": [
+    "VMH 12",
+    "VMH 18",
+    "VMH 24"
+   ],
+   "url": "https://www.manualslib.com/manual/555296/Heat-Controller-Vmh-09.html"
+  },
+  {
+   "manualId": "513259",
+   "slug": "Heat-Controller-Vmh-09",
+   "title": "VMH 09 Replacement parts manual",
+   "type": "Parts & Wiring",
+   "pages": 13,
+   "productModel": "VMH 09",
+   "extraModels": [
+    "VMH 12",
+    "VMH 18",
+    "VMH 27",
+    "VMH 36 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/513259/Heat-Controller-Vmh-09.html"
+  },
+  {
+   "manualId": "513260",
+   "slug": "Heat-Controller-Vmh-09",
+   "title": "VMH 09 Replacement parts manual",
+   "type": "Parts & Wiring",
+   "pages": 18,
+   "productModel": "VMH 09",
+   "extraModels": [
+    "VMH 12",
+    "VMH 18",
+    "VMH 24"
+   ],
+   "url": "https://www.manualslib.com/manual/513260/Heat-Controller-Vmh-09.html"
+  },
+  {
+   "manualId": "2392431",
+   "slug": "Heat-Controller-Vmh-09-Sd",
+   "title": "VMH 09 SD Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "VMH 09 SD",
+   "extraModels": [
+    "VMH 12 SD",
+    "VMH 18 SD",
+    "VMH 24 SD"
+   ],
+   "url": "https://www.manualslib.com/manual/2392431/Heat-Controller-Vmh-09-Sd.html"
+  },
+  {
+   "manualId": "1289354",
+   "slug": "Heat-Controller-Vmh-30-Sd-Series",
+   "title": "VMH 30 SD Series owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "VMH 30 SD Series",
+   "extraModels": [
+    "VMH 36 SD Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1289354/Heat-Controller-Vmh-30-Sd-Series.html"
+  },
+  {
+   "manualId": "644212",
+   "slug": "Heat-Controller-Vmh-30-Series",
+   "title": "VMH 30 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "VMH 30 Series",
+   "extraModels": [
+    "VMH 36 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/644212/Heat-Controller-Vmh-30-Series.html"
+  },
+  {
+   "manualId": "2362362",
+   "slug": "Heat-Controller-Vmh-C-Series",
+   "title": "VMH C Series Service manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "VMH C Series",
+   "extraModels": [
+    "VMH30SC-1",
+    "VMH36SC-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2362362/Heat-Controller-Vmh-C-Series.html"
+  },
+  {
+   "manualId": "647540",
+   "slug": "Heat-Controller-Vmh09sb-1",
+   "title": "VMH09SB-1 Service owner's manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "VMH09SB-1 Service",
+   "extraModels": [
+    "VMH12SB-1 Service",
+    "VMH18SB-1 Service",
+    "VMH24SB-1 Service"
+   ],
+   "url": "https://www.manualslib.com/manual/647540/Heat-Controller-Vmh09sb-1.html"
+  },
+  {
+   "manualId": "691636",
+   "slug": "Heat-Controller-Vmh09sc-1",
+   "title": "VMH09SC-1 Service manual",
+   "type": "Service",
+   "pages": 45,
+   "productModel": "VMH09SC-1",
+   "extraModels": [
+    "VMH12SC-1",
+    "VMH18SC-1",
+    "VMH24SC-1"
+   ],
+   "url": "https://www.manualslib.com/manual/691636/Heat-Controller-Vmh09sc-1.html"
+  },
+  {
+   "manualId": "67152",
+   "slug": "Heat-Controller-Vmh30sb-1",
+   "title": "VMH30SB-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "VMH30SB-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/67152/Heat-Controller-Vmh30sb-1.html"
+  },
+  {
+   "manualId": "681990",
+   "slug": "Heat-Controller-Whole-House-Dehumidifier",
+   "title": "WHOLE HOUSE DEHUMIDIFIER Installation and operating manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "WHOLE HOUSE DEHUMIDIFIER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/681990/Heat-Controller-Whole-House-Dehumidifier.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "heat-controller"
+ ]
+}

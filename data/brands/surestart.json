@@ -1,0 +1,37 @@
+{
+ "brand": "Surestart",
+ "brandSlug": "surestart",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/surestart/"
+ ],
+ "slugUsed": "surestart",
+ "capturedAt": "2026-10-28T09:25:33.200701+00:00",
+ "typePages": [
+  {
+   "path": "/brand/surestart/remote-starter.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "873714",
+   "slug": "Surestart-Start-Se-433",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/873714/Surestart-Start-Se-433.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "surestart"
+ ]
+}

@@ -1,0 +1,1315 @@
+{
+ "brand": "U.S. Boiler Company",
+ "brandSlug": "u-s-boiler-company",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/u-s-boiler-company/"
+ ],
+ "slugUsed": "u-s-boiler-company",
+ "capturedAt": "2026-10-28T09:32:50.788297+00:00",
+ "typePages": [
+  {
+   "path": "/brand/u-s-boiler-company/adapter.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/u-s-boiler-company/boiler.html",
+   "manuals": 443,
+   "status": 200
+  },
+  {
+   "path": "/brand/u-s-boiler-company/boiler-supplies.html",
+   "manuals": 26,
+   "status": 200
+  },
+  {
+   "path": "/brand/u-s-boiler-company/heat-pump.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/u-s-boiler-company/monitor.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/u-s-boiler-company/water-heater.html",
+   "manuals": 32,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3006425",
+   "slug": "U-S-Boiler-Company-105917-01",
+   "title": "105917-01 Instruction Sheet",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "105917-01",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3006425/U-S-Boiler-Company-105917-01.html"
+  },
+  {
+   "manualId": "888400",
+   "slug": "U-S-Boiler-Company-2-Series",
+   "title": "202 Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "202",
+   "extraModels": [
+    "202",
+    "202X",
+    "203",
+    "204",
+    "205",
+    "206",
+    "207",
+    "208",
+    "209",
+    "210",
+    "B series 2"
+   ],
+   "url": "https://www.manualslib.com/manual/888400/U-S-Boiler-Company-2-Series.html"
+  },
+  {
+   "manualId": "701727",
+   "slug": "U-S-Boiler-Company-Series-2",
+   "title": "202B Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "202B",
+   "extraModels": [
+    "202B",
+    "202BX",
+    "203B",
+    "204B",
+    "205B",
+    "206B",
+    "207B",
+    "208B",
+    "209B",
+    "210B",
+    "B series 2"
+   ],
+   "url": "https://www.manualslib.com/manual/701727/U-S-Boiler-Company-Series-2.html"
+  },
+  {
+   "manualId": "3313065",
+   "slug": "U-S-Boiler-Company-202e",
+   "title": "202E Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "202E",
+   "extraModels": [
+    "203E",
+    "204E",
+    "205E",
+    "206E",
+    "207E",
+    "208E",
+    "209E"
+   ],
+   "url": "https://www.manualslib.com/manual/3313065/U-S-Boiler-Company-202e.html"
+  },
+  {
+   "manualId": "750299",
+   "slug": "U-S-Boiler-Company-Series-3",
+   "title": "303B Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "303B",
+   "extraModels": [
+    "303B",
+    "304B",
+    "305B",
+    "306B",
+    "307B",
+    "308B",
+    "309B"
+   ],
+   "url": "https://www.manualslib.com/manual/750299/U-S-Boiler-Company-Series-3.html"
+  },
+  {
+   "manualId": "3003307",
+   "slug": "U-S-Boiler-Company-Alliance-Lt-Al30lt",
+   "title": "ALLIANCE LT AL119CLT Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "ALLIANCE LT AL119CLT",
+   "extraModels": [
+    "ALLIANCE LT AL119CLT",
+    "ALLIANCE LT AL55LT",
+    "ALLIANCE LT AL80CLT",
+    "ALLIANCE LT AL80LT"
+   ],
+   "url": "https://www.manualslib.com/manual/3003307/U-S-Boiler-Company-Alliance-Lt-Al30lt.html"
+  },
+  {
+   "manualId": "3295085",
+   "slug": "U-S-Boiler-Company-Alliance-Sl-Al27sl",
+   "title": "ALLIANCE SL AL27SL Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "ALLIANCE SL AL27SL",
+   "extraModels": [
+    "ALLIANCE SL AL35SL",
+    "ALLIANCE SL AL50SL",
+    "ALLIANCE SL AL70CSL",
+    "ALLIANCE SL AL70SL"
+   ],
+   "url": "https://www.manualslib.com/manual/3295085/U-S-Boiler-Company-Alliance-Sl-Al27sl.html"
+  },
+  {
+   "manualId": "3978718",
+   "slug": "U-S-Boiler-Company-Alliance-Sst-Al30sst",
+   "title": "ALLIANCE SST AL119SST Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "ALLIANCE SST AL119SST",
+   "extraModels": [
+    "ALLIANCE SST AL119SST",
+    "ALLIANCE SST AL40SST",
+    "ALLIANCE SST AL50SST",
+    "ALLIANCE SST AL75SST"
+   ],
+   "url": "https://www.manualslib.com/manual/3978718/U-S-Boiler-Company-Alliance-Sst-Al30sst.html"
+  },
+  {
+   "manualId": "3047302",
+   "slug": "U-S-Boiler-Company-Alpine-Alp080b",
+   "title": "Alpine ALP080B Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 148,
+   "productModel": "Alpine ALP080B",
+   "extraModels": [
+    "Alpine ALP105B",
+    "Alpine ALP150B",
+    "Alpine ALP210B",
+    "Alpine ALP285B"
+   ],
+   "url": "https://www.manualslib.com/manual/3047302/U-S-Boiler-Company-Alpine-Alp080b.html"
+  },
+  {
+   "manualId": "2452981",
+   "slug": "U-S-Boiler-Company-Alpine-Alp500c",
+   "title": "Alpine ALP399C Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 144,
+   "productModel": "Alpine ALP399C",
+   "extraModels": [
+    "Alpine ALP399C",
+    "Alpine ALP600C",
+    "Alpine ALP700C",
+    "Alpine ALP800C"
+   ],
+   "url": "https://www.manualslib.com/manual/2452981/U-S-Boiler-Company-Alpine-Alp500c.html"
+  },
+  {
+   "manualId": "1039092",
+   "slug": "U-S-Boiler-Company-Alpine-Alp399c",
+   "title": "Alpine ALP399C User's information manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": "Alpine ALP399C",
+   "extraModels": [
+    "Alpine ALP500C",
+    "Alpine ALP600C",
+    "Alpine ALP700C",
+    "Alpine ALP800C"
+   ],
+   "url": "https://www.manualslib.com/manual/1039092/U-S-Boiler-Company-Alpine-Alp399c.html"
+  },
+  {
+   "manualId": "2490909",
+   "slug": "U-S-Boiler-Company-Altac-136",
+   "title": "ALTA ALTAC-136 quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "ALTA ALTAC-136",
+   "extraModels": [
+    "ALTAC-200"
+   ],
+   "url": "https://www.manualslib.com/manual/2490909/U-S-Boiler-Company-Altac-136.html"
+  },
+  {
+   "manualId": "2297240",
+   "slug": "U-S-Boiler-Company-Alta",
+   "title": "ALTA quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "ALTA",
+   "extraModels": [
+    "ALTA ALTAC-136"
+   ],
+   "url": "https://www.manualslib.com/manual/2297240/U-S-Boiler-Company-Alta.html"
+  },
+  {
+   "manualId": "3620694",
+   "slug": "U-S-Boiler-Company-Alta",
+   "title": "ALTA Service manuallines",
+   "type": "Service",
+   "pages": 6,
+   "productModel": "ALTA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3620694/U-S-Boiler-Company-Alta.html"
+  },
+  {
+   "manualId": "3236532",
+   "slug": "U-S-Boiler-Company-Alta-080",
+   "title": "ALTA-080 quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "ALTA-080",
+   "extraModels": [
+    "ALTA-120B",
+    "ALTA-150",
+    "ALTA-180"
+   ],
+   "url": "https://www.manualslib.com/manual/3236532/U-S-Boiler-Company-Alta-080.html"
+  },
+  {
+   "manualId": "2930895",
+   "slug": "U-S-Boiler-Company-Alta-120",
+   "title": "ALTA-120 quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "ALTA-120",
+   "extraModels": [
+    "ALTA-150",
+    "ALTA-180"
+   ],
+   "url": "https://www.manualslib.com/manual/2930895/U-S-Boiler-Company-Alta-120.html"
+  },
+  {
+   "manualId": "3664840",
+   "slug": "U-S-Boiler-Company-Altac-136-1g00",
+   "title": "ALTAC-136-1G00 Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 104,
+   "productModel": "ALTAC-136-1G00",
+   "extraModels": [
+    "ALTAC-200"
+   ],
+   "url": "https://www.manualslib.com/manual/3664840/U-S-Boiler-Company-Altac-136-1g00.html"
+  },
+  {
+   "manualId": "4076918",
+   "slug": "U-S-Boiler-Company-Ambient-Hps-5t60-Df",
+   "title": "AMBIENT HPS-5T60 Installation, operation and service manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "AMBIENT HPS-5T60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4076918/U-S-Boiler-Company-Ambient-Hps-5t60-Df.html"
+  },
+  {
+   "manualId": "2693766",
+   "slug": "U-S-Boiler-Company-Aspen-Aspn-320",
+   "title": "ASPEN ASPN-320 Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 160,
+   "productModel": "ASPEN ASPN-320",
+   "extraModels": [
+    "ASPEN ASPN-320A-6L00",
+    "ASPEN ASPN-399",
+    "ASPEN ASPN-399A-6L00"
+   ],
+   "url": "https://www.manualslib.com/manual/2693766/U-S-Boiler-Company-Aspen-Aspn-320.html"
+  },
+  {
+   "manualId": "2297245",
+   "slug": "U-S-Boiler-Company-2-Series",
+   "title": "B series 2 User's information manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "B series 2",
+   "extraModels": [
+    "B series 2",
+    "ES2",
+    "INDEPENDENCE",
+    "SERIES 3",
+    "X-2 Series",
+    "X-PV Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2297245/U-S-Boiler-Company-2-Series.html"
+  },
+  {
+   "manualId": "688504",
+   "slug": "U-S-Boiler-Company-B-Series-2",
+   "title": "B series 2 User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "B series 2",
+   "extraModels": [
+    "B series 2"
+   ],
+   "url": "https://www.manualslib.com/manual/688504/U-S-Boiler-Company-B-Series-2.html"
+  },
+  {
+   "manualId": "807546",
+   "slug": "U-S-Boiler-Company-Series-2",
+   "title": "B series 2 User's information manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": "B series 2",
+   "extraModels": [
+    "B series 2"
+   ],
+   "url": "https://www.manualslib.com/manual/807546/U-S-Boiler-Company-Series-2.html"
+  },
+  {
+   "manualId": "3041948",
+   "slug": "U-S-Boiler-Company-Burnham-Hydronics-Revolution-Rv3",
+   "title": "Burnham Hydronics Revolution RV3 Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 100,
+   "productModel": "Burnham Hydronics Revolution RV3",
+   "extraModels": [
+    "Burnham Hydronics Revolution RV4",
+    "Burnham Hydronics Revolution RV5",
+    "Burnham Hydronics Revolution RV6",
+    "Burnham Hydronics Revolution RV7"
+   ],
+   "url": "https://www.manualslib.com/manual/3041948/U-S-Boiler-Company-Burnham-Hydronics-Revolution-Rv3.html"
+  },
+  {
+   "manualId": "3588660",
+   "slug": "U-S-Boiler-Company-Citadel-400",
+   "title": "Citadel 400 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 74,
+   "productModel": "Citadel 400",
+   "extraModels": [
+    "Citadel 500",
+    "Citadel 650",
+    "Citadel 800",
+    "Citadel CTDW 1000L",
+    "CTD1000LB",
+    "CTD400B",
+    "CTD500B",
+    "CTD650B",
+    "CTD800B"
+   ],
+   "url": "https://www.manualslib.com/manual/3588660/U-S-Boiler-Company-Citadel-400.html"
+  },
+  {
+   "manualId": "3478897",
+   "slug": "U-S-Boiler-Company-Citadel-Ctd-1250",
+   "title": "Citadel CTD 1250 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 70,
+   "productModel": "Citadel CTD 1250",
+   "extraModels": [
+    "Citadel CTD 1500"
+   ],
+   "url": "https://www.manualslib.com/manual/3478897/U-S-Boiler-Company-Citadel-Ctd-1250.html"
+  },
+  {
+   "manualId": "4164415",
+   "slug": "U-S-Boiler-Company-Citadel-Ctd400c",
+   "title": "Citadel CTD1000C Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "Citadel CTD1000C",
+   "extraModels": [
+    "Citadel CTD1000C",
+    "Citadel CTD500C",
+    "Citadel CTD650C",
+    "Citadel CTD800C"
+   ],
+   "url": "https://www.manualslib.com/manual/4164415/U-S-Boiler-Company-Citadel-Ctd400c.html"
+  },
+  {
+   "manualId": "3519087",
+   "slug": "U-S-Boiler-Company-Citadel-Ctd400w",
+   "title": "Citadel CTD1000LW Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 74,
+   "productModel": "Citadel CTD1000LW",
+   "extraModels": [
+    "Citadel CTD1000LW",
+    "Citadel CTD500W",
+    "Citadel CTD650W",
+    "Citadel CTD800W"
+   ],
+   "url": "https://www.manualslib.com/manual/3519087/U-S-Boiler-Company-Citadel-Ctd400w.html"
+  },
+  {
+   "manualId": "4104632",
+   "slug": "U-S-Boiler-Company-Citadel-Ctd400v",
+   "title": "Citadel CTD1000V Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "Citadel CTD1000V",
+   "extraModels": [
+    "Citadel CTD1000V",
+    "Citadel CTD500V",
+    "Citadel CTD650V",
+    "Citadel CTD800V"
+   ],
+   "url": "https://www.manualslib.com/manual/4104632/U-S-Boiler-Company-Citadel-Ctd400v.html"
+  },
+  {
+   "manualId": "3478904",
+   "slug": "U-S-Boiler-Company-Citadel-Ctdw-400",
+   "title": "Citadel CTDW 1000L Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 70,
+   "productModel": "Citadel CTDW 1000L",
+   "extraModels": [
+    "Citadel CTDW 1000L",
+    "Citadel CTDW 500",
+    "Citadel CTDW 650",
+    "Citadel CTDW 800"
+   ],
+   "url": "https://www.manualslib.com/manual/3478904/U-S-Boiler-Company-Citadel-Ctdw-400.html"
+  },
+  {
+   "manualId": "2650355",
+   "slug": "U-S-Boiler-Company-Enhanced-2-Series",
+   "title": "ENHANCED 2 Series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "ENHANCED 2 Series",
+   "extraModels": [
+    "ES23NI",
+    "ES24NI",
+    "ES25NI",
+    "ES26NI",
+    "ES27NI",
+    "ES28NI",
+    "ES29NI"
+   ],
+   "url": "https://www.manualslib.com/manual/2650355/U-S-Boiler-Company-Enhanced-2-Series.html"
+  },
+  {
+   "manualId": "1001583",
+   "slug": "U-S-Boiler-Company-Es2",
+   "title": "ES2 Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "ES2",
+   "extraModels": [
+    "ES23",
+    "ES24",
+    "ES25",
+    "ES26",
+    "ES27",
+    "ES28",
+    "ES29"
+   ],
+   "url": "https://www.manualslib.com/manual/1001583/U-S-Boiler-Company-Es2.html"
+  },
+  {
+   "manualId": "688510",
+   "slug": "U-S-Boiler-Company-Esc",
+   "title": "ESC Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "ESC",
+   "extraModels": [
+    "ESC3C",
+    "ESC4C",
+    "ESC5C",
+    "ESC6C",
+    "ESC7C",
+    "ESC8C",
+    "ESC9C"
+   ],
+   "url": "https://www.manualslib.com/manual/688510/U-S-Boiler-Company-Esc.html"
+  },
+  {
+   "manualId": "696174",
+   "slug": "U-S-Boiler-Company-Esc-Series",
+   "title": "ESC User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "ESC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/696174/U-S-Boiler-Company-Esc-Series.html"
+  },
+  {
+   "manualId": "704698",
+   "slug": "U-S-Boiler-Company-Esc",
+   "title": "ESC User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "ESC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/704698/U-S-Boiler-Company-Esc.html"
+  },
+  {
+   "manualId": "3705575",
+   "slug": "U-S-Boiler-Company-Independence-In3i",
+   "title": "INDEPENDENCE IN3I Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "INDEPENDENCE IN3I",
+   "extraModels": [
+    "INDEPENDENCE IN4I",
+    "INDEPENDENCE IN5I",
+    "INDEPENDENCE IN6I",
+    "INDEPENDENCE IN7I",
+    "INDEPENDENCE IN8I",
+    "INDEPENDENCE IN9I"
+   ],
+   "url": "https://www.manualslib.com/manual/3705575/U-S-Boiler-Company-Independence-In3i.html"
+  },
+  {
+   "manualId": "836570",
+   "slug": "U-S-Boiler-Company-Independence-In3pv",
+   "title": "INDEPENDENCE IN3PV Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "INDEPENDENCE IN3PV",
+   "extraModels": [
+    "INDEPENDENCE IN4PV",
+    "INDEPENDENCE IN5PV",
+    "INDEPENDENCE IN6PV"
+   ],
+   "url": "https://www.manualslib.com/manual/836570/U-S-Boiler-Company-Independence-In3pv.html"
+  },
+  {
+   "manualId": "688513",
+   "slug": "U-S-Boiler-Company-Independence",
+   "title": "INDEPENDENCE Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "INDEPENDENCE",
+   "extraModels": [
+    "INDEPENDENCE IN10",
+    "INDEPENDENCE IN11",
+    "INDEPENDENCE IN12",
+    "INDEPENDENCE IN3I",
+    "INDEPENDENCE IN4I",
+    "INDEPENDENCE IN5I",
+    "INDEPENDENCE IN6I",
+    "INDEPENDENCE IN7I",
+    "INDEPENDENCE IN8I",
+    "INDEPENDENCE IN9I"
+   ],
+   "url": "https://www.manualslib.com/manual/688513/U-S-Boiler-Company-Independence.html"
+  },
+  {
+   "manualId": "890748",
+   "slug": "U-S-Boiler-Company-Independence",
+   "title": "INDEPENDENCE User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "INDEPENDENCE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/890748/U-S-Boiler-Company-Independence.html"
+  },
+  {
+   "manualId": "1772438",
+   "slug": "U-S-Boiler-Company-Fdvs-56",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1772438/U-S-Boiler-Company-Fdvs-56.html"
+  },
+  {
+   "manualId": "962810",
+   "slug": "U-S-Boiler-Company-K2",
+   "title": "K2 installation instructions manual",
+   "type": "Installation",
+   "pages": 109,
+   "productModel": "K2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/962810/U-S-Boiler-Company-K2.html"
+  },
+  {
+   "manualId": "986214",
+   "slug": "U-S-Boiler-Company-K2",
+   "title": "K2 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 41,
+   "productModel": "K2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/986214/U-S-Boiler-Company-K2.html"
+  },
+  {
+   "manualId": "2578238",
+   "slug": "U-S-Boiler-Company-Le-Dv-Series",
+   "title": "LE DV Series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "LE DV Series",
+   "extraModels": [
+    "LEDV1"
+   ],
+   "url": "https://www.manualslib.com/manual/2578238/U-S-Boiler-Company-Le-Dv-Series.html"
+  },
+  {
+   "manualId": "2530641",
+   "slug": "U-S-Boiler-Company-Le-Series",
+   "title": "LE Series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "LE Series",
+   "extraModels": [
+    "LE1L"
+   ],
+   "url": "https://www.manualslib.com/manual/2530641/U-S-Boiler-Company-Le-Series.html"
+  },
+  {
+   "manualId": "703099",
+   "slug": "U-S-Boiler-Company-Megasteam-Mst",
+   "title": "MegaSteam MST Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "MegaSteam MST",
+   "extraModels": [
+    "MegaSteam MST Series",
+    "MegaSteam MST288",
+    "MegaSteam MST396",
+    "MegaSteam MST513",
+    "MegaSteam MST629"
+   ],
+   "url": "https://www.manualslib.com/manual/703099/U-S-Boiler-Company-Megasteam-Mst.html"
+  },
+  {
+   "manualId": "1477308",
+   "slug": "U-S-Boiler-Company-Megasteam-Mst288",
+   "title": "MegaSteam MST288 Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "MegaSteam MST288",
+   "extraModels": [
+    "MegaSteam MST396",
+    "MegaSteam MST513",
+    "MegaSteam MST629"
+   ],
+   "url": "https://www.manualslib.com/manual/1477308/U-S-Boiler-Company-Megasteam-Mst288.html"
+  },
+  {
+   "manualId": "3409025",
+   "slug": "U-S-Boiler-Company-Megasteam-Mst758",
+   "title": "MegaSteam MST288 Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 62,
+   "productModel": "MegaSteam MST288",
+   "extraModels": [
+    "MegaSteam MST288",
+    "MegaSteam MST396",
+    "MegaSteam MST513",
+    "MegaSteam MST629",
+    "MegaSteam MST892"
+   ],
+   "url": "https://www.manualslib.com/manual/3409025/U-S-Boiler-Company-Megasteam-Mst758.html"
+  },
+  {
+   "manualId": "988535",
+   "slug": "U-S-Boiler-Company-Mpo-Iq",
+   "title": "MPO - IQ Service instructions manual",
+   "type": "Service",
+   "pages": 93,
+   "productModel": "MPO - IQ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/988535/U-S-Boiler-Company-Mpo-Iq.html"
+  },
+  {
+   "manualId": "1576102",
+   "slug": "U-S-Boiler-Company-Mpo-Iq",
+   "title": "MPO-IQ Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "MPO-IQ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1576102/U-S-Boiler-Company-Mpo-Iq.html"
+  },
+  {
+   "manualId": "2715282",
+   "slug": "U-S-Boiler-Company-Pv8h7",
+   "title": "PV8H7 Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "PV8H7",
+   "extraModels": [
+    "PV8H7WC-TBWN",
+    "V8H3",
+    "V8H3S",
+    "V8H3W",
+    "V8H4",
+    "V8H4S",
+    "V8H4W",
+    "V8H5",
+    "V8H5S",
+    "V8H5W",
+    "V8H6",
+    "V8H6S",
+    "V8H6W",
+    "V8H7S",
+    "V8H7W",
+    "V8H8",
+    "V8H8S",
+    "V8H8W",
+    "V8H9",
+    "V8H9S",
+    "V8H9W"
+   ],
+   "url": "https://www.manualslib.com/manual/2715282/U-S-Boiler-Company-Pv8h7.html"
+  },
+  {
+   "manualId": "851221",
+   "slug": "U-S-Boiler-Company-Pvg3",
+   "title": "PVG Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "PVG",
+   "extraModels": [
+    "PVG Series",
+    "PVG4",
+    "PVG5",
+    "PVG6",
+    "PVG7",
+    "PVG8",
+    "PVG9"
+   ],
+   "url": "https://www.manualslib.com/manual/851221/U-S-Boiler-Company-Pvg3.html"
+  },
+  {
+   "manualId": "2715691",
+   "slug": "U-S-Boiler-Company-Pvg-Pvg-3",
+   "title": "PVG PVG-3 Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "PVG PVG-3",
+   "extraModels": [
+    "PVG PVG-4",
+    "PVG PVG-5",
+    "PVG PVG-6",
+    "PVG PVG-7",
+    "PVG PVG-8",
+    "PVG PVG-9",
+    "PVG PVG3NI-S",
+    "PVG PVG5NI-S",
+    "PVG PVG6NI-S",
+    "PVG PVG8NI-S",
+    "PVG PVG9NI-S"
+   ],
+   "url": "https://www.manualslib.com/manual/2715691/U-S-Boiler-Company-Pvg-Pvg-3.html"
+  },
+  {
+   "manualId": "1144697",
+   "slug": "U-S-Boiler-Company-Pvg",
+   "title": "PVG user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "PVG",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1144697/U-S-Boiler-Company-Pvg.html"
+  },
+  {
+   "manualId": "2748811",
+   "slug": "U-S-Boiler-Company-Rsah-Series",
+   "title": "RSAH Series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "RSAH Series",
+   "extraModels": [
+    "RSAH111E",
+    "RSAH111E-T",
+    "RSAH154E",
+    "RSAH154E-T"
+   ],
+   "url": "https://www.manualslib.com/manual/2748811/U-S-Boiler-Company-Rsah-Series.html"
+  },
+  {
+   "manualId": "4102449",
+   "slug": "U-S-Boiler-Company-Series-2-202e",
+   "title": "Series 2 202E Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "Series 2 202E",
+   "extraModels": [
+    "Series 2 203E",
+    "Series 2 204E",
+    "Series 2 205E",
+    "Series 2 206E",
+    "Series 2 207E",
+    "Series 2 208E",
+    "Series 2 209E"
+   ],
+   "url": "https://www.manualslib.com/manual/4102449/U-S-Boiler-Company-Series-2-202e.html"
+  },
+  {
+   "manualId": "1066207",
+   "slug": "U-S-Boiler-Company-Series-3",
+   "title": "SERIES 3 Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "SERIES 3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1066207/U-S-Boiler-Company-Series-3.html"
+  },
+  {
+   "manualId": "3406074",
+   "slug": "U-S-Boiler-Company-3-Series",
+   "title": "SERIES 3 Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "SERIES 3",
+   "extraModels": [
+    "303B",
+    "304B",
+    "305B",
+    "306B",
+    "307B",
+    "308B",
+    "309B"
+   ],
+   "url": "https://www.manualslib.com/manual/3406074/U-S-Boiler-Company-3-Series.html"
+  },
+  {
+   "manualId": "1067262",
+   "slug": "U-S-Boiler-Company-Series-3",
+   "title": "SERIES 3 User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "SERIES 3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1067262/U-S-Boiler-Company-Series-3.html"
+  },
+  {
+   "manualId": "2227708",
+   "slug": "U-S-Boiler-Company-Steammax-Stmx075",
+   "title": "SteamMax STMX100 Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "SteamMax STMX100",
+   "extraModels": [
+    "SteamMax STMX100",
+    "SteamMax STMX125",
+    "SteamMax STMX150",
+    "SteamMax STMX175",
+    "SteamMax STMX200",
+    "SteamMax STMX250",
+    "SteamMax STMX299",
+    "SteamMax STMX350",
+    "SteamMax STMX399",
+    "SteamMax STMX450",
+    "SteamMax STMX500",
+    "SteamMax STMX550"
+   ],
+   "url": "https://www.manualslib.com/manual/2227708/U-S-Boiler-Company-Steammax-Stmx075.html"
+  },
+  {
+   "manualId": "2907242",
+   "slug": "U-S-Boiler-Company-Stmx100",
+   "title": "SteamMax STMX100 quick start manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "SteamMax STMX100",
+   "extraModels": [
+    "SteamMax STMX125",
+    "SteamMax STMX150",
+    "SteamMax STMX175",
+    "SteamMax STMX200",
+    "SteamMax STMX250",
+    "SteamMax STMX299",
+    "SteamMax STMX350",
+    "SteamMax STMX399",
+    "SteamMax STMX450",
+    "SteamMax STMX500",
+    "SteamMax STMX550"
+   ],
+   "url": "https://www.manualslib.com/manual/2907242/U-S-Boiler-Company-Stmx100.html"
+  },
+  {
+   "manualId": "2066439",
+   "slug": "U-S-Boiler-Company-Alta-Altac-136",
+   "title": "U.s. Boiler Company ALTA ALTAC-136 Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 101,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2066439/U-S-Boiler-Company-Alta-Altac-136.html"
+  },
+  {
+   "manualId": "3072862",
+   "slug": "U-S-Boiler-Company-Alta-Altac-136b",
+   "title": "U.s. Boiler Company ALTA ALTAC-136B Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 104,
+   "productModel": null,
+   "extraModels": [
+    "ALTAC-200"
+   ],
+   "url": "https://www.manualslib.com/manual/3072862/U-S-Boiler-Company-Alta-Altac-136b.html"
+  },
+  {
+   "manualId": "4242857",
+   "slug": "u-s-boiler-company-alta-boiler-installation-operation-and-service-manual",
+   "title": "U.S. Boiler Company Alta boiler Installation, Operation and Service Manual",
+   "type": "Service",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4242857/u-s-boiler-company-alta-boiler-installation-operation-and-service-manual.html"
+  },
+  {
+   "manualId": "3053082",
+   "slug": "U-S-Boiler-Company-Alta-080",
+   "title": "U.s. Boiler Company ALTA-080 Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 104,
+   "productModel": null,
+   "extraModels": [
+    "ALTA-120",
+    "ALTA-120B",
+    "ALTA-150",
+    "ALTA-180"
+   ],
+   "url": "https://www.manualslib.com/manual/3053082/U-S-Boiler-Company-Alta-080.html"
+  },
+  {
+   "manualId": "2911119",
+   "slug": "U-S-Boiler-Company-Alta-120",
+   "title": "U.s. Boiler Company ALTA-120 Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 100,
+   "productModel": null,
+   "extraModels": [
+    "ALTA-150",
+    "ALTA-180"
+   ],
+   "url": "https://www.manualslib.com/manual/2911119/U-S-Boiler-Company-Alta-120.html"
+  },
+  {
+   "manualId": "4199480",
+   "slug": "U-S-Boiler-Company-Alta-120b",
+   "title": "U.s. Boiler Company ALTA-120B Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 104,
+   "productModel": null,
+   "extraModels": [
+    "ALTA-080",
+    "ALTA-080-1G00",
+    "ALTA-120B-1G00",
+    "ALTA-150",
+    "ALTA-180",
+    "ALTAC-080"
+   ],
+   "url": "https://www.manualslib.com/manual/4199480/U-S-Boiler-Company-Alta-120b.html"
+  },
+  {
+   "manualId": "2384127",
+   "slug": "U-S-Boiler-Company-Altac-200",
+   "title": "U.s. Boiler Company ALTAC-200 Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 100,
+   "productModel": null,
+   "extraModels": [
+    "ALTA ALTAC-136",
+    "ALTA Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2384127/U-S-Boiler-Company-Altac-200.html"
+  },
+  {
+   "manualId": "2315105",
+   "slug": "U-S-Boiler-Company-Aspen-Aspn-085",
+   "title": "U.s. Boiler Company ASPEN ASPN-085 Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 180,
+   "productModel": null,
+   "extraModels": [
+    "ASPEN ASPN-110",
+    "ASPEN ASPN-155",
+    "ASPEN ASPN-205",
+    "ASPEN ASPN-270",
+    "ASPEN ASPNC-155"
+   ],
+   "url": "https://www.manualslib.com/manual/2315105/U-S-Boiler-Company-Aspen-Aspn-085.html"
+  },
+  {
+   "manualId": "1814277",
+   "slug": "U-S-Boiler-Company-Emp-Series",
+   "title": "U.s. Boiler Company EMP Series Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 72,
+   "productModel": null,
+   "extraModels": [
+    "EMP115E",
+    "EMP140E",
+    "EMP182E",
+    "EMP224E",
+    "EMP84E"
+   ],
+   "url": "https://www.manualslib.com/manual/1814277/U-S-Boiler-Company-Emp-Series.html"
+  },
+  {
+   "manualId": "1089022",
+   "slug": "U-S-Boiler-Company-K2ft-085",
+   "title": "U.s. Boiler Company K2FT-085 Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 177,
+   "productModel": null,
+   "extraModels": [
+    "K2FT-110",
+    "K2FT-155",
+    "K2FT-205",
+    "K2FT-270",
+    "K2FTC-155"
+   ],
+   "url": "https://www.manualslib.com/manual/1089022/U-S-Boiler-Company-K2ft-085.html"
+  },
+  {
+   "manualId": "2726812",
+   "slug": "U-S-Boiler-Company-K2wt-080b",
+   "title": "U.s. Boiler Company K2WT-080B Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 168,
+   "productModel": null,
+   "extraModels": [
+    "K2WT-100B",
+    "K2WT-120B",
+    "K2WT-150B",
+    "K2WT-180B",
+    "K2WT-180M"
+   ],
+   "url": "https://www.manualslib.com/manual/2726812/U-S-Boiler-Company-K2wt-080b.html"
+  },
+  {
+   "manualId": "1090173",
+   "slug": "U-S-Boiler-Company-V13a-Ro-Fo",
+   "title": "U.s. Boiler Company V13A RO/FO Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 49,
+   "productModel": null,
+   "extraModels": [
+    "V14A RO/FO"
+   ],
+   "url": "https://www.manualslib.com/manual/1090173/U-S-Boiler-Company-V13a-Ro-Fo.html"
+  },
+  {
+   "manualId": "701627",
+   "slug": "U-S-Boiler-Company-V8h-Series",
+   "title": "U.s. Boiler Company V8H SERIES Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 96,
+   "productModel": null,
+   "extraModels": [
+    "V8H3",
+    "V8H3S",
+    "V8H3W",
+    "V8H4",
+    "V8H4S",
+    "V8H4W",
+    "V8H5",
+    "V8H5S",
+    "V8H5W",
+    "V8H6",
+    "V8H6S",
+    "V8H6W",
+    "V8H7",
+    "V8H7S",
+    "V8H7W",
+    "V8H8",
+    "V8H8S",
+    "V8H8W",
+    "V8H9",
+    "V8H9S",
+    "V8H9W"
+   ],
+   "url": "https://www.manualslib.com/manual/701627/U-S-Boiler-Company-V8h-Series.html"
+  },
+  {
+   "manualId": "1950505",
+   "slug": "U-S-Boiler-Company-X-2-Series",
+   "title": "U.s. Boiler Company X-2 Series Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1950505/U-S-Boiler-Company-X-2-Series.html"
+  },
+  {
+   "manualId": "1906068",
+   "slug": "U-S-Boiler-Company-X-Pv-Series",
+   "title": "U.s. Boiler Company X-PV Series Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 72,
+   "productModel": null,
+   "extraModels": [
+    "X-PV3N",
+    "X-PV3P",
+    "X-PV4N",
+    "X-PV4P",
+    "X-PV5N",
+    "X-PV5P",
+    "X-PV6N",
+    "X-PV6P",
+    "X-PV7N",
+    "X-PV7P",
+    "X-PV8N",
+    "X-PV8P"
+   ],
+   "url": "https://www.manualslib.com/manual/1906068/U-S-Boiler-Company-X-Pv-Series.html"
+  },
+  {
+   "manualId": "3082360",
+   "slug": "U-S-Boiler-Company-Usb-Connect",
+   "title": "USB-Connect Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "USB-Connect",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3082360/U-S-Boiler-Company-Usb-Connect.html"
+  },
+  {
+   "manualId": "1086845",
+   "slug": "U-S-Boiler-Company-K2-Ft",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1086845/U-S-Boiler-Company-K2-Ft.html"
+  },
+  {
+   "manualId": "4205617",
+   "slug": "U-S-Boiler-Company-Alpine-Alp700cnf-5l00",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4205617/U-S-Boiler-Company-Alpine-Alp700cnf-5l00.html"
+  },
+  {
+   "manualId": "886464",
+   "slug": "U-S-Boiler-Company-Alpine",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/886464/U-S-Boiler-Company-Alpine.html"
+  },
+  {
+   "manualId": "2052625",
+   "slug": "U-S-Boiler-Company-V8h-Series",
+   "title": "V8H SERIES Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "V8H SERIES",
+   "extraModels": [
+    "V8H3WE",
+    "V8H3WE-T",
+    "V8H3WEH",
+    "V8H4WE",
+    "V8H4WE-T",
+    "V8H4WEH",
+    "V8H5WE",
+    "V8H5WE-T",
+    "V8H5WEH",
+    "V8H6WE",
+    "V8H6WE-T",
+    "V8H6WEH",
+    "V8H7WE",
+    "V8H7WE-T",
+    "V8H7WEH"
+   ],
+   "url": "https://www.manualslib.com/manual/2052625/U-S-Boiler-Company-V8h-Series.html"
+  },
+  {
+   "manualId": "1390208",
+   "slug": "U-S-Boiler-Company-V8h5",
+   "title": "V8H3 Service instructions manual",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "V8H3",
+   "extraModels": [
+    "V8H3",
+    "V8H3S",
+    "V8H3W",
+    "V8H4",
+    "V8H4S: V8H4W",
+    "V8H5S: V8H5W",
+    "V8H6",
+    "V8H6S: V8H6W",
+    "V8H7",
+    "V8H7S",
+    "V8H7W",
+    "V8H8",
+    "V8H8S",
+    "V8H8W",
+    "V8H9",
+    "V8H9S",
+    "V8H9W"
+   ],
+   "url": "https://www.manualslib.com/manual/1390208/U-S-Boiler-Company-V8h5.html"
+  },
+  {
+   "manualId": "2887915",
+   "slug": "U-S-Boiler-Company-X-202",
+   "title": "X-2 Series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "X-2 Series",
+   "extraModels": [
+    "X-203",
+    "X-204",
+    "X-205",
+    "X-206",
+    "X-207",
+    "X-208",
+    "X-209"
+   ],
+   "url": "https://www.manualslib.com/manual/2887915/U-S-Boiler-Company-X-202.html"
+  },
+  {
+   "manualId": "3286370",
+   "slug": "U-S-Boiler-Company-X-2-X-202",
+   "title": "X-2 X-202 Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "X-2 X-202",
+   "extraModels": [
+    "X-2 X-203",
+    "X-2 X-204",
+    "X-2 X-205",
+    "X-2 X-206",
+    "X-2 X-207",
+    "X-2 X-208",
+    "X-2 X-209"
+   ],
+   "url": "https://www.manualslib.com/manual/3286370/U-S-Boiler-Company-X-2-X-202.html"
+  },
+  {
+   "manualId": "1223369",
+   "slug": "U-S-Boiler-Company-X-203",
+   "title": "X-203 Installation, operating and service manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "X-203",
+   "extraModels": [
+    "X-204",
+    "X-205",
+    "X-206",
+    "X-207",
+    "X-208",
+    "X-209"
+   ],
+   "url": "https://www.manualslib.com/manual/1223369/U-S-Boiler-Company-X-203.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4242857",
+   "slug": "u-s-boiler-company-alta-boiler-installation-operation-and-service-manual",
+   "title": "U.S. Boiler Company Alta boiler Installation, Operation and Service Manual"
+  }
+ ],
+ "techDirectIds": [
+  "us-boiler"
+ ]
+}

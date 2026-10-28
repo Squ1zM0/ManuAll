@@ -1,0 +1,4807 @@
+{
+ "brand": "KSB",
+ "brandSlug": "ksb",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/ksb/"
+ ],
+ "slugUsed": "ksb",
+ "capturedAt": "2026-10-28T08:32:11.245327+00:00",
+ "typePages": [
+  {
+   "path": "/brand/ksb/plumbing-product.html",
+   "manuals": 94,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/accessories.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/bread-maker.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/control-systems.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/control-unit.html",
+   "manuals": 243,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/controller.html",
+   "manuals": 52,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/dc-drives.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/engine.html",
+   "manuals": 162,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/extender.html",
+   "manuals": 78,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/food-saver.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/gateway.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/industrial-equipment.html",
+   "manuals": 50,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/laboratory-equipment.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/lifting-systems.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/measuring-instruments.html",
+   "manuals": 19,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/mixer.html",
+   "manuals": 14,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/other.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/safety-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/security-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/swimming-pool-pump.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/switch.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/valve-positioners.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/ventilation-hood.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/water-pump.html",
+   "manuals": 655,
+   "status": 200
+  },
+  {
+   "path": "/brand/ksb/water-system.html",
+   "manuals": 22,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3546116",
+   "slug": "Ksb-1619657",
+   "title": "1374500 Installation & operating manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "1374500",
+   "extraModels": [
+    "1374500",
+    "1374501",
+    "1374507",
+    "1374508",
+    "1374509",
+    "1470730",
+    "1470731",
+    "1470732",
+    "1470733",
+    "1470734",
+    "1470735",
+    "1470770",
+    "1550184",
+    "1550185",
+    "1550186",
+    "1550187",
+    "1550188",
+    "1550189",
+    "1550248",
+    "1550249",
+    "1550250",
+    "1583927",
+    "1583928",
+    "1583934",
+    "1583935",
+    "1583936",
+    "1583941",
+    "1583942",
+    "1583943",
+    "1583944",
+    "1583945",
+    "1583946",
+    "1583947",
+    "1583961",
+    "1583962",
+    "1583968",
+    "1583969",
+    "1583970",
+    "1583975",
+    "1583976",
+    "1583977",
+    "1583978",
+    "1583979",
+    "1583980",
+    "1583981",
+    "1607772",
+    "1607773",
+    "1607791",
+    "1619633",
+    "1619634",
+    "1619635",
+    "1619636",
+    "1619641",
+    "1619642",
+    "1619643",
+    "1619644",
+    "1619645",
+    "1619646",
+    "1619658",
+    "1619659",
+    "1619660",
+    "1619661",
+    "1619662",
+    "1619688",
+    "1619689",
+    "1619697",
+    "1619698",
+    "1619722",
+    "1619723",
+    "1619724",
+    "1619727",
+    "1629109",
+    "1629110",
+    "1629111",
+    "1629112",
+    "1629113",
+    "1629114",
+    "1629129",
+    "1629130",
+    "1629131",
+    "1629132",
+    "1629133",
+    "1629134",
+    "1716535",
+    "1716536",
+    "1716547",
+    "1716548",
+    "1716549",
+    "1716550",
+    "1716553",
+    "1716554",
+    "1716555",
+    "1716556",
+    "1716557",
+    "1716558",
+    "1716569",
+    "1716570",
+    "1716571",
+    "1716572",
+    "1716573",
+    "1716574",
+    "1716577",
+    "1716578",
+    "1716579",
+    "1716580",
+    "1716581",
+    "1716582",
+    "IE3"
+   ],
+   "url": "https://www.manualslib.com/manual/3546116/Ksb-1619657.html"
+  },
+  {
+   "manualId": "2411698",
+   "slug": "Ksb-Calio-Therm-Nc",
+   "title": "202001 Installation & operating manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "202001",
+   "extraModels": [
+    "202001",
+    "202152",
+    "Calio-Therm NC 130",
+    "Calio-Therm NC 40",
+    "Calio-Therm NC25"
+   ],
+   "url": "https://www.manualslib.com/manual/2411698/Ksb-Calio-Therm-Nc.html"
+  },
+  {
+   "manualId": "3878529",
+   "slug": "Ksb-301",
+   "title": "301 Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "301",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878529/Ksb-301.html"
+  },
+  {
+   "manualId": "3878530",
+   "slug": "Ksb-303",
+   "title": "303 Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "303",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878530/Ksb-303.html"
+  },
+  {
+   "manualId": "3878531",
+   "slug": "Ksb-322",
+   "title": "322 Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "322",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878531/Ksb-322.html"
+  },
+  {
+   "manualId": "3874970",
+   "slug": "Ksb-35",
+   "title": "35 Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "35",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3874970/Ksb-35.html"
+  },
+  {
+   "manualId": "3878532",
+   "slug": "Ksb-354",
+   "title": "354 Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "354",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878532/Ksb-354.html"
+  },
+  {
+   "manualId": "3270839",
+   "slug": "Ksb-Etabloc",
+   "title": "47132456 Installation & operating manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "47132456",
+   "extraModels": [
+    "47132456"
+   ],
+   "url": "https://www.manualslib.com/manual/3270839/Ksb-Etabloc.html"
+  },
+  {
+   "manualId": "2045008",
+   "slug": "Ksb-4eys",
+   "title": "4EYS Installation & operating manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "4EYS",
+   "extraModels": [
+    "4EYT"
+   ],
+   "url": "https://www.manualslib.com/manual/2045008/Ksb-4eys.html"
+  },
+  {
+   "manualId": "1809694",
+   "slug": "Ksb-4k-Series",
+   "title": "4K Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "4K Series",
+   "extraModels": [
+    "4KD Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1809694/Ksb-4k-Series.html"
+  },
+  {
+   "manualId": "3979707",
+   "slug": "Ksb-4rdq",
+   "title": "4RDQ Installation & operating manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "4RDQ",
+   "extraModels": [
+    "RDLO Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3979707/Ksb-4rdq.html"
+  },
+  {
+   "manualId": "2948720",
+   "slug": "Ksb-4stc",
+   "title": "4STC Installation & operating manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "4STC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2948720/Ksb-4stc.html"
+  },
+  {
+   "manualId": "1952573",
+   "slug": "Ksb-4stq-Series",
+   "title": "4STQ Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "4STQ Series",
+   "extraModels": [
+    "C033033-M1-4STQ",
+    "C033055-M1-4STQ",
+    "C055065-M1-4STQ",
+    "C055065-M1-4STQT",
+    "C120120-M1-4STQ",
+    "C150160-M1-4STQ",
+    "C190190-M1-4STQ"
+   ],
+   "url": "https://www.manualslib.com/manual/1952573/Ksb-4stq-Series.html"
+  },
+  {
+   "manualId": "3297457",
+   "slug": "Ksb-Ie4",
+   "title": "5214248 Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "5214248",
+   "extraModels": [
+    "5214248",
+    "5214249",
+    "5214272",
+    "5214273",
+    "5214274",
+    "5214275",
+    "5214276",
+    "5214277",
+    "5214278",
+    "5214279",
+    "5214315",
+    "5214316",
+    "5214317",
+    "5214318",
+    "5214319",
+    "5214320",
+    "5214321",
+    "5214322",
+    "5214323",
+    "5214324",
+    "5214325",
+    "5214326",
+    "5214327",
+    "5214330",
+    "5214331",
+    "5214332",
+    "5214333",
+    "5214334",
+    "5214335",
+    "5214336",
+    "5214337",
+    "5214338",
+    "5214339",
+    "5214340",
+    "5214341",
+    "5214342",
+    "5214343",
+    "5214352",
+    "5214353",
+    "5214354",
+    "5214355",
+    "5214356",
+    "5214357",
+    "5214358",
+    "5214359",
+    "5214360",
+    "5214361",
+    "5214362"
+   ],
+   "url": "https://www.manualslib.com/manual/3297457/Ksb-Ie4.html"
+  },
+  {
+   "manualId": "2317801",
+   "slug": "Ksb-Amarex-N",
+   "title": "88980/02 Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "88980/02",
+   "extraModels": [
+    "88980/02"
+   ],
+   "url": "https://www.manualslib.com/manual/2317801/Ksb-Amarex-N.html"
+  },
+  {
+   "manualId": "2317807",
+   "slug": "Ksb-Amarex-Krt",
+   "title": "88980/20 Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "88980/20",
+   "extraModels": [
+    "88980/20",
+    "88980/30"
+   ],
+   "url": "https://www.manualslib.com/manual/2317807/Ksb-Amarex-Krt.html"
+  },
+  {
+   "manualId": "2416473",
+   "slug": "Ksb-88980-41",
+   "title": "88980/41 Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 42,
+   "productModel": "88980/41",
+   "extraModels": [
+    "Movitec V 15",
+    "Movitec V 2",
+    "Movitec V 90"
+   ],
+   "url": "https://www.manualslib.com/manual/2416473/Ksb-88980-41.html"
+  },
+  {
+   "manualId": "2416482",
+   "slug": "Ksb-Amarex-N",
+   "title": "88980/48 Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 94,
+   "productModel": "88980/48",
+   "extraModels": [
+    "88980/48"
+   ],
+   "url": "https://www.manualslib.com/manual/2416482/Ksb-Amarex-N.html"
+  },
+  {
+   "manualId": "2317788",
+   "slug": "Ksb-9972073510-200",
+   "title": "9972073510/200 Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 41,
+   "productModel": "9972073510/200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2317788/Ksb-9972073510-200.html"
+  },
+  {
+   "manualId": "1627871",
+   "slug": "Ksb-Ama-Drainer-4-Series",
+   "title": "Ama-Drainer 4 Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Ama-Drainer 4 Series",
+   "extraModels": [
+    "Ama-Drainer 5 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1627871/Ksb-Ama-Drainer-4-Series.html"
+  },
+  {
+   "manualId": "3026221",
+   "slug": "Ksb-Amadrainer-4",
+   "title": "Ama-Drainer 4 Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "Ama-Drainer 4 Series",
+   "extraModels": [
+    "Ama-Drainer 5 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3026221/Ksb-Amadrainer-4.html"
+  },
+  {
+   "manualId": "3863835",
+   "slug": "Ksb-Ama-Drainer-80",
+   "title": "Ama-Drainer 80 Installation & operating manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "Ama-Drainer 80",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3863835/Ksb-Ama-Drainer-80.html"
+  },
+  {
+   "manualId": "1183486",
+   "slug": "Ksb-Ama-Drainer-N-301",
+   "title": "Ama-Drainer N 301 Installation & operating manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "Ama-Drainer N 301",
+   "extraModels": [
+    "Ama-Drainer N 302",
+    "Ama-Drainer N 303"
+   ],
+   "url": "https://www.manualslib.com/manual/1183486/Ksb-Ama-Drainer-N-301.html"
+  },
+  {
+   "manualId": "1439098",
+   "slug": "Ksb-Ama-Drainer-N-302",
+   "title": "Ama-Drainer N 301 Installation and operating manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Ama-Drainer N 301",
+   "extraModels": [
+    "Ama-Drainer N 301",
+    "Ama-Drainer N 303"
+   ],
+   "url": "https://www.manualslib.com/manual/1439098/Ksb-Ama-Drainer-N-302.html"
+  },
+  {
+   "manualId": "3850053",
+   "slug": "Ksb-Ama-Drainer-N-358",
+   "title": "Ama-Drainer N 358 Installation and operating manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Ama-Drainer N 358",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3850053/Ksb-Ama-Drainer-N-358.html"
+  },
+  {
+   "manualId": "1801474",
+   "slug": "Ksb-Ama-Drainer-Box",
+   "title": "Ama-Drainer-Box Installation & operating manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "Ama-Drainer-Box",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1801474/Ksb-Ama-Drainer-Box.html"
+  },
+  {
+   "manualId": "1637842",
+   "slug": "Ksb-Ama-Drainer-Box-Mini",
+   "title": "Ama-Drainer-Box Mini Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Ama-Drainer-Box Mini",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1637842/Ksb-Ama-Drainer-Box-Mini.html"
+  },
+  {
+   "manualId": "2526458",
+   "slug": "Ksb-Amadrainer-Box-Mini",
+   "title": "Ama-Drainer-Box Mini Installation & operating manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "Ama-Drainer-Box Mini",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2526458/Ksb-Amadrainer-Box-Mini.html"
+  },
+  {
+   "manualId": "2947980",
+   "slug": "Ksb-Amadrainer-Box-Mini",
+   "title": "Ama-Drainer-Box Mini Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "Ama-Drainer-Box Mini",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2947980/Ksb-Amadrainer-Box-Mini.html"
+  },
+  {
+   "manualId": "1459424",
+   "slug": "Ksb-Ama-Drainer-Box",
+   "title": "Ama-Drainer-Box operating manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "Ama-Drainer-Box",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1459424/Ksb-Ama-Drainer-Box.html"
+  },
+  {
+   "manualId": "1459426",
+   "slug": "Ksb-Ama-Drainer-Box",
+   "title": "Ama-Drainer-Box operating manual",
+   "type": "User / Owner",
+   "pages": 62,
+   "productModel": "Ama-Drainer-Box",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1459426/Ksb-Ama-Drainer-Box.html"
+  },
+  {
+   "manualId": "1771932",
+   "slug": "Ksb-Ama-Drainer100",
+   "title": "Ama-Drainer100 Installation & operating manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "Ama-Drainer100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1771932/Ksb-Ama-Drainer100.html"
+  },
+  {
+   "manualId": "2772920",
+   "slug": "Ksb-Ama-Porter",
+   "title": "Ama-Porter operating instructions manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "Ama-Porter",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2772920/Ksb-Ama-Porter.html"
+  },
+  {
+   "manualId": "2839875",
+   "slug": "Ksb-Amacan-K",
+   "title": "Amacan K Installation & operating manual",
+   "type": "Installation",
+   "pages": 126,
+   "productModel": "Amacan K",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2839875/Ksb-Amacan-K.html"
+  },
+  {
+   "manualId": "2172454",
+   "slug": "Ksb-Amacan-P-700-470",
+   "title": "Amacan P 1000 - 700 Installation & operating manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "Amacan P 1000 - 700",
+   "extraModels": [
+    "Amacan P 1000 - 700",
+    "Amacan P 1200 - 870",
+    "Amacan P 1500 - 1060",
+    "Amacan P 800 - 540",
+    "Amacan P 900 - 540"
+   ],
+   "url": "https://www.manualslib.com/manual/2172454/Ksb-Amacan-P-700-470.html"
+  },
+  {
+   "manualId": "1484900",
+   "slug": "Ksb-Amacan-P-700-470",
+   "title": "Amacan P 1000-700 Installation & operating manual",
+   "type": "Installation",
+   "pages": 132,
+   "productModel": "Amacan P 1000-700",
+   "extraModels": [
+    "Amacan P 1000-700",
+    "Amacan P 1200-870",
+    "Amacan P 1500-1060",
+    "Amacan P 1600-1060",
+    "Amacan P 800-540",
+    "Amacan P 900-540",
+    "Amacan P series"
+   ],
+   "url": "https://www.manualslib.com/manual/1484900/Ksb-Amacan-P-700-470.html"
+  },
+  {
+   "manualId": "3111912",
+   "slug": "Ksb-Amacan-P-700-470",
+   "title": "Amacan P 1000-700 Installation & operating manual",
+   "type": "Installation",
+   "pages": 154,
+   "productModel": "Amacan P 1000-700",
+   "extraModels": [
+    "Amacan P 1000-700",
+    "Amacan P 1200-870",
+    "Amacan P 1500-1060",
+    "Amacan P 1600-1060",
+    "Amacan P 500-270",
+    "Amacan P 600-350",
+    "Amacan P 800-540",
+    "Amacan P 900-540"
+   ],
+   "url": "https://www.manualslib.com/manual/3111912/Ksb-Amacan-P-700-470.html"
+  },
+  {
+   "manualId": "3111917",
+   "slug": "Ksb-Amacan-P-500-270",
+   "title": "Amacan P 500-270 Installation & operating manual",
+   "type": "Installation",
+   "pages": 112,
+   "productModel": "Amacan P 500-270",
+   "extraModels": [
+    "Amacan P 600-350"
+   ],
+   "url": "https://www.manualslib.com/manual/3111917/Ksb-Amacan-P-500-270.html"
+  },
+  {
+   "manualId": "2984136",
+   "slug": "Ksb-Amacan-P",
+   "title": "Amacan P Installation & operating manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "Amacan P",
+   "extraModels": [
+    "Amacan P 1000-700",
+    "Amacan P 1200-870",
+    "Amacan P 1500-1060",
+    "Amacan P 1600-1060",
+    "Amacan P 700-470",
+    "Amacan P 800-540",
+    "Amacan P 900-540"
+   ],
+   "url": "https://www.manualslib.com/manual/2984136/Ksb-Amacan-P.html"
+  },
+  {
+   "manualId": "2873525",
+   "slug": "Ksb-Amacan-S-800-535",
+   "title": "Amacan S 1000-600 Installation & operating manual",
+   "type": "Installation",
+   "pages": 126,
+   "productModel": "Amacan S 1000-600",
+   "extraModels": [
+    "Amacan S 1000-600",
+    "Amacan S 1000-620",
+    "Amacan S 1000-655",
+    "Amacan S 1300-820",
+    "Amacan S 650-364",
+    "Amacan S 650-365",
+    "Amacan S 650-404",
+    "Amacan S 650-405",
+    "Amacan S 800-505",
+    "Amacan S 850-535",
+    "Amacan S 850-550",
+    "Amacan S 900-600",
+    "Amacan S 900-615",
+    "Amacan S 900-620"
+   ],
+   "url": "https://www.manualslib.com/manual/2873525/Ksb-Amacan-S-800-535.html"
+  },
+  {
+   "manualId": "1617450",
+   "slug": "Ksb-Amacan-S-Series",
+   "title": "Amacan S 650-364 Installation and operating manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "Amacan S 650-364",
+   "extraModels": [
+    "Amacan S 650-364",
+    "Amacan S 650-365",
+    "Amacan S 650-404",
+    "Amacan S 650-405",
+    "Amacan S 800-505"
+   ],
+   "url": "https://www.manualslib.com/manual/1617450/Ksb-Amacan-S-Series.html"
+  },
+  {
+   "manualId": "3222894",
+   "slug": "Ksb-Amacontrol-Int-600-Dm",
+   "title": "AmaControl INT 600 DM Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "AmaControl INT 600 DM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3222894/Ksb-Amacontrol-Int-600-Dm.html"
+  },
+  {
+   "manualId": "2164081",
+   "slug": "Ksb-Amadrainer-3",
+   "title": "AmaDrainer 3 Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "AmaDrainer 3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2164081/Ksb-Amadrainer-3.html"
+  },
+  {
+   "manualId": "3266094",
+   "slug": "Ksb-Amadrainer-Box-Box-Z2-B",
+   "title": "AmaDrainer Box Box Z2 B Installation & operating manual",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "AmaDrainer Box Box Z2 B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3266094/Ksb-Amadrainer-Box-Box-Z2-B.html"
+  },
+  {
+   "manualId": "2317804",
+   "slug": "Ksb-Amamix-Direkt",
+   "title": "Amamix direkt Installation & operating manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "Amamix direkt",
+   "extraModels": [
+    "GDSTP-24130-MAN-0003 P1"
+   ],
+   "url": "https://www.manualslib.com/manual/2317804/Ksb-Amamix-Direkt.html"
+  },
+  {
+   "manualId": "1353116",
+   "slug": "Ksb-Amamix",
+   "title": "Amamix Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Amamix",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1353116/Ksb-Amamix.html"
+  },
+  {
+   "manualId": "1445188",
+   "slug": "Ksb-Amamix-Series",
+   "title": "Amamix series Installation & operating manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "Amamix series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1445188/Ksb-Amamix-Series.html"
+  },
+  {
+   "manualId": "3131376",
+   "slug": "Ksb-Amaporter-Sb-545-Se",
+   "title": "AmaPorter SB 545 ND Installation & operating manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "AmaPorter SB 545 ND",
+   "extraModels": [
+    "AmaPorter SB 545 ND",
+    "AmaPorter SB 545 NE"
+   ],
+   "url": "https://www.manualslib.com/manual/3131376/Ksb-Amaporter-Sb-545-Se.html"
+  },
+  {
+   "manualId": "1553412",
+   "slug": "Ksb-Amaprop-1200",
+   "title": "Amaprop 1200 Mounting and installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Amaprop 1200",
+   "extraModels": [
+    "Amaprop 1400",
+    "Amaprop 1600",
+    "Amaprop 1800",
+    "Amaprop 1801",
+    "Amaprop 2000",
+    "Amaprop 2200",
+    "Amaprop 2500"
+   ],
+   "url": "https://www.manualslib.com/manual/1553412/Ksb-Amaprop-1200.html"
+  },
+  {
+   "manualId": "2317796",
+   "slug": "Ksb-Amaprop-Gdstp-24130-Man-0004-P1",
+   "title": "Amaprop GDSTP-24130-MAN-0004 P1 Installation & operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Amaprop GDSTP-24130-MAN-0004 P1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2317796/Ksb-Amaprop-Gdstp-24130-Man-0004-P1.html"
+  },
+  {
+   "manualId": "1623810",
+   "slug": "Ksb-Amar-Drainer-303-2",
+   "title": "Amar-Drainer 303.2 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Amar-Drainer 303.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1623810/Ksb-Amar-Drainer-303-2.html"
+  },
+  {
+   "manualId": "1952216",
+   "slug": "Ksb-Amarex",
+   "title": "Amarex Installation & operating manual",
+   "type": "Installation",
+   "pages": 82,
+   "productModel": "Amarex",
+   "extraModels": [
+    "ARX D100-170/045C2USG-135/12000L101",
+    "ARX D100-170/045C2YSG-135/12010L101"
+   ],
+   "url": "https://www.manualslib.com/manual/1952216/Ksb-Amarex.html"
+  },
+  {
+   "manualId": "2041210",
+   "slug": "Ksb-Amarex",
+   "title": "Amarex Installation & operating manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "Amarex",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2041210/Ksb-Amarex.html"
+  },
+  {
+   "manualId": "1283035",
+   "slug": "Ksb-Amarex-Krt",
+   "title": "Amarex KRT Installation & operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Amarex KRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1283035/Ksb-Amarex-Krt.html"
+  },
+  {
+   "manualId": "1346504",
+   "slug": "Ksb-Amarex-Krt",
+   "title": "Amarex KRT Installation & operating manual",
+   "type": "Installation",
+   "pages": 117,
+   "productModel": "Amarex KRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1346504/Ksb-Amarex-Krt.html"
+  },
+  {
+   "manualId": "1437166",
+   "slug": "Ksb-Amarex-Krt",
+   "title": "Amarex KRT Installation & operating manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "Amarex KRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1437166/Ksb-Amarex-Krt.html"
+  },
+  {
+   "manualId": "1438174",
+   "slug": "Ksb-Amarex-Krt",
+   "title": "Amarex KRT Installation & operating manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "Amarex KRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1438174/Ksb-Amarex-Krt.html"
+  },
+  {
+   "manualId": "1438202",
+   "slug": "Ksb-Amarex-Krt",
+   "title": "Amarex KRT Installation & operating manual",
+   "type": "Installation",
+   "pages": 128,
+   "productModel": "Amarex KRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1438202/Ksb-Amarex-Krt.html"
+  },
+  {
+   "manualId": "1802873",
+   "slug": "Ksb-Amarex-Krt",
+   "title": "Amarex KRT Installation & operating manual",
+   "type": "Installation",
+   "pages": 124,
+   "productModel": "Amarex KRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1802873/Ksb-Amarex-Krt.html"
+  },
+  {
+   "manualId": "1831035",
+   "slug": "Ksb-Amarex-Krt",
+   "title": "Amarex KRT Installation & operating manual",
+   "type": "Installation",
+   "pages": 78,
+   "productModel": "Amarex KRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1831035/Ksb-Amarex-Krt.html"
+  },
+  {
+   "manualId": "2554383",
+   "slug": "Ksb-Amarex-Krt",
+   "title": "Amarex KRT Installation & operating manual",
+   "type": "Installation",
+   "pages": 66,
+   "productModel": "Amarex KRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2554383/Ksb-Amarex-Krt.html"
+  },
+  {
+   "manualId": "2151245",
+   "slug": "Ksb-Amarex-Krt",
+   "title": "Amarex KRT Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 46,
+   "productModel": "Amarex KRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2151245/Ksb-Amarex-Krt.html"
+  },
+  {
+   "manualId": "2317805",
+   "slug": "Ksb-Amarex-N-F-80-220-034u-Lg-120",
+   "title": "Amarex N F 80-220/034U LG-120 Manual",
+   "type": "Other",
+   "pages": 33,
+   "productModel": "Amarex N F 80-220/034U LG-120",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2317805/Ksb-Amarex-N-F-80-220-034u-Lg-120.html"
+  },
+  {
+   "manualId": "1604713",
+   "slug": "Ksb-Amarex-N",
+   "title": "Amarex N operating manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "Amarex N",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1604713/Ksb-Amarex-N.html"
+  },
+  {
+   "manualId": "1534172",
+   "slug": "Ksb-Amarex-N-S-32-160",
+   "title": "Amarex N S 32-160 Installation & operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Amarex N S 32-160",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1534172/Ksb-Amarex-N-S-32-160.html"
+  },
+  {
+   "manualId": "941289",
+   "slug": "Ksb-Amarex-N-S-32-160",
+   "title": "Amarex N S 32-160 Installation and operating manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "Amarex N S 32-160",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/941289/Ksb-Amarex-N-S-32-160.html"
+  },
+  {
+   "manualId": "1976432",
+   "slug": "Ksb-Amarex-N-S-32-160",
+   "title": "Amarex N S 32-160 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Amarex N S 32-160",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1976432/Ksb-Amarex-N-S-32-160.html"
+  },
+  {
+   "manualId": "1554505",
+   "slug": "Ksb-Amarex-N-Series",
+   "title": "Amarex N series Installation & operating manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "Amarex N series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1554505/Ksb-Amarex-N-Series.html"
+  },
+  {
+   "manualId": "1734759",
+   "slug": "Ksb-Amarex-N-Series",
+   "title": "Amarex N series Installation and operating manual",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "Amarex N series",
+   "extraModels": [
+    "Amarex N UL Series",
+    "Amarex N WL Series",
+    "Amarex N YL Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1734759/Ksb-Amarex-N-Series.html"
+  },
+  {
+   "manualId": "1481235",
+   "slug": "Ksb-Amaroc",
+   "title": "AmaRoc Installation & operating manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "AmaRoc",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1481235/Ksb-Amaroc.html"
+  },
+  {
+   "manualId": "2024250",
+   "slug": "Ksb-Amaslide-Series",
+   "title": "AmaSlide KB16-AH280 Installation & operating manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "AmaSlide KB16-AH280",
+   "extraModels": [
+    "AmaSlide KB16-AH280"
+   ],
+   "url": "https://www.manualslib.com/manual/2024250/Ksb-Amaslide-Series.html"
+  },
+  {
+   "manualId": "3222669",
+   "slug": "Ksb-Amri-Evo-1",
+   "title": "amri EVO 1 instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "amri EVO 1",
+   "extraModels": [
+    "amri EVO 10",
+    "amri EVO 12",
+    "amri EVO 120",
+    "amri EVO 15",
+    "amri EVO 16",
+    "amri EVO 160",
+    "amri EVO 2",
+    "amri EVO 20",
+    "amri EVO 25",
+    "amri EVO 30",
+    "amri EVO 35",
+    "amri EVO 4",
+    "amri EVO 40",
+    "amri EVO 5",
+    "amri EVO 50",
+    "amri EVO 6",
+    "amri EVO 60",
+    "amri EVO 8",
+    "amri EVO 80"
+   ],
+   "url": "https://www.manualslib.com/manual/3222669/Ksb-Amri-Evo-1.html"
+  },
+  {
+   "manualId": "1661855",
+   "slug": "Ksb-Amtrobox-Eex-Ia",
+   "title": "AMTROBOX EEx ia General information manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "AMTROBOX EEx ia",
+   "extraModels": [
+    "AMTRONIC EEx ia"
+   ],
+   "url": "https://www.manualslib.com/manual/1661855/Ksb-Amtrobox-Eex-Ia.html"
+  },
+  {
+   "manualId": "1631979",
+   "slug": "Ksb-Amtrobox-Series",
+   "title": "AMTROBOX Series General information manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "AMTROBOX Series",
+   "extraModels": [
+    "AMTROBOX X 1140",
+    "AMTROBOX X 1149"
+   ],
+   "url": "https://www.manualslib.com/manual/1631979/Ksb-Amtrobox-Series.html"
+  },
+  {
+   "manualId": "2034451",
+   "slug": "Ksb-Amtronic-R1300",
+   "title": "AMTRONIC R1300 User Instructions",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "AMTRONIC R1300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2034451/Ksb-Amtronic-R1300.html"
+  },
+  {
+   "manualId": "1594575",
+   "slug": "Ksb-Aporis-Series",
+   "title": "APORIS Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "APORIS Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1594575/Ksb-Aporis-Series.html"
+  },
+  {
+   "manualId": "3965030",
+   "slug": "Ksb-Aporis-Deb02",
+   "title": "APORIS-DEB02 Installation & operating manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "APORIS-DEB02",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3965030/Ksb-Aporis-Deb02.html"
+  },
+  {
+   "manualId": "1793302",
+   "slug": "Ksb-As5",
+   "title": "AS5 Installation and operating manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "AS5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1793302/Ksb-As5.html"
+  },
+  {
+   "manualId": "2152099",
+   "slug": "Ksb-Au-1-5",
+   "title": "AU Original manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "AU",
+   "extraModels": [
+    "AU MONOBLOC",
+    "AU-100",
+    "AU-150",
+    "AU-2",
+    "AU-200",
+    "AU-3",
+    "AU-50",
+    "AU-65",
+    "AU-80",
+    "AU-M-1,5",
+    "AU-M-2",
+    "AU-M-3",
+    "AU-M-50"
+   ],
+   "url": "https://www.manualslib.com/manual/2152099/Ksb-Au-1-5.html"
+  },
+  {
+   "manualId": "1617470",
+   "slug": "Ksb-B-Series",
+   "title": "B Series Installation and operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "B Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1617470/Ksb-B-Series.html"
+  },
+  {
+   "manualId": "2193362",
+   "slug": "Ksb-Bacnet-Ms-Tp",
+   "title": "BACnet MS/TP Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "BACnet MS/TP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2193362/Ksb-Bacnet-Ms-Tp.html"
+  },
+  {
+   "manualId": "2791620",
+   "slug": "Ksb-Bev",
+   "title": "BEV instruction manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "BEV",
+   "extraModels": [
+    "BEV-LO"
+   ],
+   "url": "https://www.manualslib.com/manual/2791620/Ksb-Bev.html"
+  },
+  {
+   "manualId": "3846764",
+   "slug": "Ksb-Boa-Compact-Ekb",
+   "title": "BOA-Compact EKB operating manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "BOA-Compact EKB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3846764/Ksb-Boa-Compact-Ekb.html"
+  },
+  {
+   "manualId": "1365481",
+   "slug": "Ksb-Boa-Supercompact",
+   "title": "BOA-Compact operating manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "BOA-Compact",
+   "extraModels": [
+    "BOA-Compact",
+    "BOA-H",
+    "BOA-R",
+    "BOA-W"
+   ],
+   "url": "https://www.manualslib.com/manual/1365481/Ksb-Boa-Supercompact.html"
+  },
+  {
+   "manualId": "1601510",
+   "slug": "Ksb-Boa-Cve-C",
+   "title": "BOA-Compact operating manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "BOA-Compact",
+   "extraModels": [
+    "BOA-Compact",
+    "BOA-Control",
+    "BOA-Control IMS",
+    "BOA-CVE CS",
+    "BOA-CVE EKB",
+    "BOA-CVE IMS",
+    "BOA-CVE IMS EKB",
+    "BOA-CVE W",
+    "BOA-SuperCompact",
+    "BOA-W"
+   ],
+   "url": "https://www.manualslib.com/manual/1601510/Ksb-Boa-Cve-C.html"
+  },
+  {
+   "manualId": "1633485",
+   "slug": "Ksb-Boa-Control-Ims",
+   "title": "BOA-Control operating manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "BOA-Control",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1633485/Ksb-Boa-Control-Ims.html"
+  },
+  {
+   "manualId": "2897509",
+   "slug": "Ksb-Boa-Control-Pic",
+   "title": "BOA-Control PIC operating manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "BOA-Control PIC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2897509/Ksb-Boa-Control-Pic.html"
+  },
+  {
+   "manualId": "4035955",
+   "slug": "Ksb-Boa-Control-Pic",
+   "title": "BOA-Control PIC operating manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "BOA-Control PIC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4035955/Ksb-Boa-Control-Pic.html"
+  },
+  {
+   "manualId": "2952212",
+   "slug": "Ksb-Boa-Control-Sbv",
+   "title": "BOA-Control SBV operating manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "BOA-Control SBV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2952212/Ksb-Boa-Control-Sbv.html"
+  },
+  {
+   "manualId": "1592654",
+   "slug": "Ksb-Boa-H-Mat-P",
+   "title": "BOA-CVP H Installation & operating manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "BOA-CVP H",
+   "extraModels": [
+    "BOA-CVP H"
+   ],
+   "url": "https://www.manualslib.com/manual/1592654/Ksb-Boa-H-Mat-P.html"
+  },
+  {
+   "manualId": "2897176",
+   "slug": "Ksb-Boa-H",
+   "title": "BOA-H Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "BOA-H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2897176/Ksb-Boa-H.html"
+  },
+  {
+   "manualId": "2969758",
+   "slug": "Ksb-Boa-H",
+   "title": "BOA-H operating manual",
+   "type": "User / Owner",
+   "pages": 94,
+   "productModel": "BOA-H",
+   "extraModels": [
+    "BOA-HE",
+    "ZJSVA",
+    "ZXSVA"
+   ],
+   "url": "https://www.manualslib.com/manual/2969758/Ksb-Boa-H.html"
+  },
+  {
+   "manualId": "1651318",
+   "slug": "Ksb-Boa-R",
+   "title": "BOA-R operating instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "BOA-R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1651318/Ksb-Boa-R.html"
+  },
+  {
+   "manualId": "3846763",
+   "slug": "Ksb-Boa-Rvk",
+   "title": "BOA-RVK operating manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "BOA-RVK",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3846763/Ksb-Boa-Rvk.html"
+  },
+  {
+   "manualId": "3915324",
+   "slug": "Ksb-Boachem-Fsa",
+   "title": "BOACHEM FSA operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "BOACHEM FSA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3915324/Ksb-Boachem-Fsa.html"
+  },
+  {
+   "manualId": "3915323",
+   "slug": "Ksb-Boachem-Rxa",
+   "title": "BOACHEM RXA operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "BOACHEM RXA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3915323/Ksb-Boachem-Rxa.html"
+  },
+  {
+   "manualId": "3052369",
+   "slug": "Ksb-Boachem-Zxa",
+   "title": "BOACHEM ZXA operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "BOACHEM ZXA",
+   "extraModels": [
+    "BOACHEM ZXAB",
+    "BOACHEM ZYA",
+    "BOACHEM ZYAB"
+   ],
+   "url": "https://www.manualslib.com/manual/3052369/Ksb-Boachem-Zxa.html"
+  },
+  {
+   "manualId": "2580503",
+   "slug": "Ksb-Boax-B",
+   "title": "BOAX- B operating instructions manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "BOAX- B",
+   "extraModels": [
+    "BOAX-B Mat P"
+   ],
+   "url": "https://www.manualslib.com/manual/2580503/Ksb-Boax-B.html"
+  },
+  {
+   "manualId": "2958425",
+   "slug": "Ksb-Isoria-10",
+   "title": "BOAX-B Installation & operating manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "BOAX-B",
+   "extraModels": [
+    "BOAX-B",
+    "BOAX-S",
+    "BOAX-SF",
+    "ISORIA 16",
+    "ISORIA 20",
+    "ISORIA 25",
+    "KE Elastomer"
+   ],
+   "url": "https://www.manualslib.com/manual/2958425/Ksb-Isoria-10.html"
+  },
+  {
+   "manualId": "3192511",
+   "slug": "Ksb-Boax-B",
+   "title": "BOAX-B Installation & operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "BOAX-B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3192511/Ksb-Boax-B.html"
+  },
+  {
+   "manualId": "1802043",
+   "slug": "Ksb-Boax-B-Series",
+   "title": "BOAX-B operating instructions manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "BOAX-B",
+   "extraModels": [
+    "BOAX-B Mat P"
+   ],
+   "url": "https://www.manualslib.com/manual/1802043/Ksb-Boax-B-Series.html"
+  },
+  {
+   "manualId": "3066365",
+   "slug": "Ksb-Boax-S",
+   "title": "BOAX-S operating instructions manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "BOAX-S",
+   "extraModels": [
+    "BOAX-SF",
+    "BOAXMAT-S",
+    "BOAXMAT-SF"
+   ],
+   "url": "https://www.manualslib.com/manual/3066365/Ksb-Boax-S.html"
+  },
+  {
+   "manualId": "1468004",
+   "slug": "Ksb-Boostercontrol-Advanced",
+   "title": "BoosterControl Advanced Installation & operating manual",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "BoosterControl Advanced",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1468004/Ksb-Boostercontrol-Advanced.html"
+  },
+  {
+   "manualId": "2538327",
+   "slug": "Ksb-Uqd-112",
+   "title": "BPD 242 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "BPD 242",
+   "extraModels": [
+    "BPD 242",
+    "BPD 273",
+    "BPHA 333",
+    "BPHA 384",
+    "BPI 322",
+    "UQD 152",
+    "UQD 182",
+    "UQD 212"
+   ],
+   "url": "https://www.manualslib.com/manual/2538327/Ksb-Uqd-112.html"
+  },
+  {
+   "manualId": "3892922",
+   "slug": "Ksb-Bpd-302",
+   "title": "BPD 302 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "BPD 302",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3892922/Ksb-Bpd-302.html"
+  },
+  {
+   "manualId": "1601238",
+   "slug": "Ksb-S-100d",
+   "title": "BSF Booklet",
+   "type": "Other",
+   "pages": 114,
+   "productModel": "BSF",
+   "extraModels": [
+    "BSF",
+    "BSX",
+    "UPA 100C",
+    "UPA 150C",
+    "UPA 200",
+    "UPA 200B",
+    "UPA 250C",
+    "UPA 300",
+    "UPA 350",
+    "UPZ"
+   ],
+   "url": "https://www.manualslib.com/manual/1601238/Ksb-S-100d.html"
+  },
+  {
+   "manualId": "1601243",
+   "slug": "Ksb-S-100d",
+   "title": "BSF Booklet",
+   "type": "Other",
+   "pages": 110,
+   "productModel": "BSF",
+   "extraModels": [
+    "BSF",
+    "BSX",
+    "UPA 100C",
+    "UPA 150S",
+    "UPA 200",
+    "UPA 200B",
+    "UPA 250C",
+    "UPA 300",
+    "UPA 350",
+    "UPZ"
+   ],
+   "url": "https://www.manualslib.com/manual/1601243/Ksb-S-100d.html"
+  },
+  {
+   "manualId": "1362767",
+   "slug": "Ksb-Calio",
+   "title": "Calio Installation & operating manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "Calio",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1362767/Ksb-Calio.html"
+  },
+  {
+   "manualId": "1633461",
+   "slug": "Ksb-Calio",
+   "title": "Calio Installation & operating manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "Calio",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1633461/Ksb-Calio.html"
+  },
+  {
+   "manualId": "3105470",
+   "slug": "Ksb-Calio-25-100",
+   "title": "Calio Manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "Calio",
+   "extraModels": [
+    "Calio 40-100",
+    "Calio SI 25-80 HP PWM"
+   ],
+   "url": "https://www.manualslib.com/manual/3105470/Ksb-Calio-25-100.html"
+  },
+  {
+   "manualId": "2641201",
+   "slug": "Ksb-Calio-Pro",
+   "title": "Calio Pro Installation & operating manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "Calio Pro",
+   "extraModels": [
+    "Calio Pro Z"
+   ],
+   "url": "https://www.manualslib.com/manual/2641201/Ksb-Calio-Pro.html"
+  },
+  {
+   "manualId": "1435923",
+   "slug": "Ksb-Calio-S-Bms",
+   "title": "Calio S BMS Installation & operating manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Calio S BMS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1435923/Ksb-Calio-S-Bms.html"
+  },
+  {
+   "manualId": "1449227",
+   "slug": "Ksb-Calio-S",
+   "title": "Calio S Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Calio S",
+   "extraModels": [
+    "Calio-Therm S"
+   ],
+   "url": "https://www.manualslib.com/manual/1449227/Ksb-Calio-S.html"
+  },
+  {
+   "manualId": "1639656",
+   "slug": "Ksb-Calio-S",
+   "title": "Calio S Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Calio S",
+   "extraModels": [
+    "Calio-Therm S"
+   ],
+   "url": "https://www.manualslib.com/manual/1639656/Ksb-Calio-S.html"
+  },
+  {
+   "manualId": "2802802",
+   "slug": "Ksb-Calio-S",
+   "title": "Calio S Installation & operating manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "Calio S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2802802/Ksb-Calio-S.html"
+  },
+  {
+   "manualId": "1723154",
+   "slug": "Ksb-Calio-Si-Series",
+   "title": "Calio SI Dual Installation & operating manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "Calio SI Dual",
+   "extraModels": [
+    "Calio SI EcoMatch",
+    "Calio SI HMI"
+   ],
+   "url": "https://www.manualslib.com/manual/1723154/Ksb-Calio-Si-Series.html"
+  },
+  {
+   "manualId": "2968424",
+   "slug": "Ksb-Calio-Si-Dual",
+   "title": "Calio SI Dual Installation & operating manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "Calio SI Dual",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2968424/Ksb-Calio-Si-Dual.html"
+  },
+  {
+   "manualId": "3911625",
+   "slug": "Ksb-Calio-Si-Therm",
+   "title": "Calio SI Therm Installation & operating manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "Calio SI Therm",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3911625/Ksb-Calio-Si-Therm.html"
+  },
+  {
+   "manualId": "1553515",
+   "slug": "Ksb-Calio-Therm-Nc",
+   "title": "Calio-Therm NC Installation & operating manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "Calio-Therm NC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1553515/Ksb-Calio-Therm-Nc.html"
+  },
+  {
+   "manualId": "3048536",
+   "slug": "Ksb-Caliotherm-S",
+   "title": "Calio-Therm S Installation & operating manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Calio-Therm S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3048536/Ksb-Caliotherm-S.html"
+  },
+  {
+   "manualId": "1594616",
+   "slug": "Ksb-Calio-Therm-S-Ncv",
+   "title": "Calio-Therm S NC Installation & operating manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Calio-Therm S NC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1594616/Ksb-Calio-Therm-S-Ncv.html"
+  },
+  {
+   "manualId": "2078645",
+   "slug": "Ksb-Calio-Therm-S-Nc-Ncv",
+   "title": "Calio-Therm S NC/NCV Installation & operating manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Calio-Therm S NC/NCV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2078645/Ksb-Calio-Therm-S-Nc-Ncv.html"
+  },
+  {
+   "manualId": "3242037",
+   "slug": "Ksb-Caliotherm-Pro-25",
+   "title": "CalioTherm Pro 25 Installation & operating manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "CalioTherm Pro 25",
+   "extraModels": [
+    "CalioTherm Pro 80"
+   ],
+   "url": "https://www.manualslib.com/manual/3242037/Ksb-Caliotherm-Pro-25.html"
+  },
+  {
+   "manualId": "1457763",
+   "slug": "Ksb-Cervomatic-Edp-2",
+   "title": "Cervomatic EDP.2 Installation & operating manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Cervomatic EDP.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1457763/Ksb-Cervomatic-Edp-2.html"
+  },
+  {
+   "manualId": "1392976",
+   "slug": "Ksb-Cervomatic-Edp-2",
+   "title": "Cervomatic EDP.2 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Cervomatic EDP.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1392976/Ksb-Cervomatic-Edp-2.html"
+  },
+  {
+   "manualId": "1933027",
+   "slug": "Ksb-Chtra",
+   "title": "CHTRa Installation & operating manual",
+   "type": "Installation",
+   "pages": 116,
+   "productModel": "CHTRa",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1933027/Ksb-Chtra.html"
+  },
+  {
+   "manualId": "2802843",
+   "slug": "Ksb-Cobra-Tdc01-03",
+   "title": "COBRA-TDC01/03 Installation & operating manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "COBRA-TDC01/03",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2802843/Ksb-Cobra-Tdc01-03.html"
+  },
+  {
+   "manualId": "1530413",
+   "slug": "Ksb-Comeo-Series",
+   "title": "Comeo Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Comeo Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1530413/Ksb-Comeo-Series.html"
+  },
+  {
+   "manualId": "1659944",
+   "slug": "Ksb-Compacta",
+   "title": "Compacta Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Compacta",
+   "extraModels": [
+    "mini-Compacta"
+   ],
+   "url": "https://www.manualslib.com/manual/1659944/Ksb-Compacta.html"
+  },
+  {
+   "manualId": "1474073",
+   "slug": "Ksb-Compacta-Uz10-450d",
+   "title": "Compacta UZ10.450D Installation & operating manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "Compacta UZ10.450D",
+   "extraModels": [
+    "Compacta UZ10.900D",
+    "Compacta UZ11.450D",
+    "Compacta UZ11.900D",
+    "Compacta UZ12.450D",
+    "Compacta UZ12.900D",
+    "Compacta UZ13.450D",
+    "Compacta UZ13.900D",
+    "Compacta UZ14.450D",
+    "Compacta UZ14.900D",
+    "Compacta UZ15.450D",
+    "Compacta UZ15.900D",
+    "Compacta UZ20.450D",
+    "Compacta UZ20.900D",
+    "Compacta UZ21.450D",
+    "Compacta UZ21.900D",
+    "Compacta UZ22.450D",
+    "Compacta UZ22.900D",
+    "Compacta UZ23.450D",
+    "Compacta UZ23.900D",
+    "Compacta UZ24.450D",
+    "Compacta UZ24.900D",
+    "Compacta UZ25.450D",
+    "Compacta UZ25.900D",
+    "Compacta UZ26.450D",
+    "Compacta UZ26.900D",
+    "Compacta UZ27.450D",
+    "Compacta UZ27.900D",
+    "Compacta UZ28.450D",
+    "Compacta UZ28.900D",
+    "Compacta UZ29.450D",
+    "Compacta UZ29.900D",
+    "Compacta ZF30.450D",
+    "Compacta ZF30.900D",
+    "Compacta ZF31.450D",
+    "Compacta ZF31.900D",
+    "Compacta ZF32.450D",
+    "Compacta ZF32.900D",
+    "Compacta ZF33.450D",
+    "Compacta ZF33.900D",
+    "Compacta ZF34.450D",
+    "Compacta ZF34.900D",
+    "Compacta ZF35.450D",
+    "Compacta ZF35.900D",
+    "Compacta ZF36.450D",
+    "Compacta ZF36.900D",
+    "Compacta ZF40.450D",
+    "Compacta ZF40.900D",
+    "Compacta ZF41.450D",
+    "Compacta ZF41.900D",
+    "Compacta ZF42.450D",
+    "Compacta ZF42.900D",
+    "Compacta ZF43.450D",
+    "Compacta ZF43.900D",
+    "Compacta ZF44.450D",
+    "Compacta ZF44.900D",
+    "Compacta ZF45.450D",
+    "Compacta ZF45.900D",
+    "Compacta ZF46.450D",
+    "Compacta ZF46.900D",
+    "Compacta ZF47.450D",
+    "Compacta ZF47.900D",
+    "Compacta ZF48.450D",
+    "Compacta ZF48.900D",
+    "Compacta ZF49.450D",
+    "Compacta ZF49.900D",
+    "Compacta ZK50.450D",
+    "Compacta ZK50.900D",
+    "Compacta ZK51.450D",
+    "Compacta ZK51.900D",
+    "Compacta ZK52.450D",
+    "Compacta ZK52.900D",
+    "Compacta ZK53.450D",
+    "Compacta ZK53.900D",
+    "Compacta ZK54.450D",
+    "Compacta ZK54.900D",
+    "Compacta ZK55.450D",
+    "Compacta ZK55.900D",
+    "Compacta ZK56.450D",
+    "Compacta ZK56.900D"
+   ],
+   "url": "https://www.manualslib.com/manual/1474073/Ksb-Compacta-Uz10-450d.html"
+  },
+  {
+   "manualId": "2077722",
+   "slug": "Ksb-Compacta-Uz10-450d",
+   "title": "Compacta UZ10.450D Installation & operating manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "Compacta UZ10.450D",
+   "extraModels": [
+    "Compacta UZ10.900D",
+    "Compacta UZ11.450D",
+    "Compacta UZ11.900D",
+    "Compacta UZ12.450D",
+    "Compacta UZ12.900D",
+    "Compacta UZ13.450D",
+    "Compacta UZ13.900D",
+    "Compacta UZ14.450D",
+    "Compacta UZ14.900D",
+    "Compacta UZ15.450D",
+    "Compacta UZ15.900D"
+   ],
+   "url": "https://www.manualslib.com/manual/2077722/Ksb-Compacta-Uz10-450d.html"
+  },
+  {
+   "manualId": "1511411",
+   "slug": "Ksb-Controlmatic-E-2",
+   "title": "Controlmatic E Installation & operating manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "Controlmatic E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1511411/Ksb-Controlmatic-E-2.html"
+  },
+  {
+   "manualId": "3054723",
+   "slug": "Ksb-Controlmatic-E-2",
+   "title": "Controlmatic E.2 Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "Controlmatic E.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3054723/Ksb-Controlmatic-E-2.html"
+  },
+  {
+   "manualId": "3860505",
+   "slug": "Ksb-Cora-12c",
+   "title": "CORA 12C operating instructions manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "CORA 12C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3860505/Ksb-Cora-12c.html"
+  },
+  {
+   "manualId": "1659087",
+   "slug": "Ksb-Cora-1c",
+   "title": "CORA 18C operating instructions manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "CORA 18C",
+   "extraModels": [
+    "CORA 18C",
+    "CORA 2AH",
+    "CORA 2C",
+    "CORA 3A",
+    "CORA 3AH"
+   ],
+   "url": "https://www.manualslib.com/manual/1659087/Ksb-Cora-1c.html"
+  },
+  {
+   "manualId": "3860506",
+   "slug": "Ksb-Cora-4c",
+   "title": "CORA 4C operating instructions manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "CORA 4C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3860506/Ksb-Cora-4c.html"
+  },
+  {
+   "manualId": "3860504",
+   "slug": "Ksb-Cora-7c",
+   "title": "CORA 7C operating instructions manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "CORA 7C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3860504/Ksb-Cora-7c.html"
+  },
+  {
+   "manualId": "1626275",
+   "slug": "Ksb-Cpk",
+   "title": "CPK operating instructions manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "CPK",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1626275/Ksb-Cpk.html"
+  },
+  {
+   "manualId": "2312577",
+   "slug": "Ksb-Cpkno",
+   "title": "CPKNO Installation & operating manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "CPKNO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2312577/Ksb-Cpkno.html"
+  },
+  {
+   "manualId": "1525191",
+   "slug": "Ksb-Cpko",
+   "title": "CPKO operating instructions manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "CPKO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1525191/Ksb-Cpko.html"
+  },
+  {
+   "manualId": "2503269",
+   "slug": "Ksb-Ctn",
+   "title": "CTN Installation & operating manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "CTN",
+   "extraModels": [
+    "CTN-H"
+   ],
+   "url": "https://www.manualslib.com/manual/2503269/Ksb-Ctn.html"
+  },
+  {
+   "manualId": "1599090",
+   "slug": "Ksb-Danais-150",
+   "title": "DANAIS 150 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "DANAIS 150",
+   "extraModels": [
+    "DANAIS TBT AL",
+    "DANAIS TBT II"
+   ],
+   "url": "https://www.manualslib.com/manual/1599090/Ksb-Danais-150.html"
+  },
+  {
+   "manualId": "3857296",
+   "slug": "Ksb-Danais-Mt-Ii",
+   "title": "DANAIS MT II operating instructions manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "DANAIS MT II",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857296/Ksb-Danais-Mt-Ii.html"
+  },
+  {
+   "manualId": "1899918",
+   "slug": "Ksb-Deep-Lift-System",
+   "title": "Deep Lift System Installation & operating manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "Deep Lift System",
+   "extraModels": [
+    "DLS-4",
+    "DSL-15"
+   ],
+   "url": "https://www.manualslib.com/manual/1899918/Ksb-Deep-Lift-System.html"
+  },
+  {
+   "manualId": "1766868",
+   "slug": "Ksb-Delta-Basic-Mvp",
+   "title": "Delta Basic MVP Installation and operating manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Delta Basic MVP",
+   "extraModels": [
+    "Delta Basic MVP"
+   ],
+   "url": "https://www.manualslib.com/manual/1766868/Ksb-Delta-Basic-Mvp.html"
+  },
+  {
+   "manualId": "1476296",
+   "slug": "Ksb-Delta-Solo-Svp",
+   "title": "Delta Eco SVP Installation & operating manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "Delta Eco SVP",
+   "extraModels": [
+    "Delta Eco SVP"
+   ],
+   "url": "https://www.manualslib.com/manual/1476296/Ksb-Delta-Solo-Svp.html"
+  },
+  {
+   "manualId": "2548429",
+   "slug": "Ksb-Delta-Macro-F",
+   "title": "Delta Macro F Installation & operating manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "Delta Macro F",
+   "extraModels": [
+    "Delta Macro VC"
+   ],
+   "url": "https://www.manualslib.com/manual/2548429/Ksb-Delta-Macro-F.html"
+  },
+  {
+   "manualId": "3980560",
+   "slug": "Ksb-Delta-Macro-F",
+   "title": "Delta Macro F Installation & operating manual",
+   "type": "Installation",
+   "pages": 86,
+   "productModel": "Delta Macro F",
+   "extraModels": [
+    "Delta Macro SVP",
+    "Delta Macro VC"
+   ],
+   "url": "https://www.manualslib.com/manual/3980560/Ksb-Delta-Macro-F.html"
+  },
+  {
+   "manualId": "3893253",
+   "slug": "Ksb-Delta-Macro-Svp",
+   "title": "Delta Macro SVP Installation & operating manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "Delta Macro SVP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3893253/Ksb-Delta-Macro-Svp.html"
+  },
+  {
+   "manualId": "1649177",
+   "slug": "Ksb-Delta-Primo-F",
+   "title": "Delta Primo F Installation and operating manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "Delta Primo F",
+   "extraModels": [
+    "Delta Primo SVP",
+    "Delta Primo VC",
+    "Delta Primo Series",
+    "Hyamat SVP Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1649177/Ksb-Delta-Primo-F.html"
+  },
+  {
+   "manualId": "3222766",
+   "slug": "Ksb-Delta-Primo",
+   "title": "Delta Primo Installation & operating manual",
+   "type": "Installation",
+   "pages": 94,
+   "productModel": "Delta Primo",
+   "extraModels": [
+    "Delta Primo F",
+    "Delta Primo SVP",
+    "Delta Primo VC"
+   ],
+   "url": "https://www.manualslib.com/manual/3222766/Ksb-Delta-Primo.html"
+  },
+  {
+   "manualId": "1612775",
+   "slug": "Ksb-Delta-Primo-Series",
+   "title": "Delta Primo SVP Installation and operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Delta Primo SVP",
+   "extraModels": [
+    "Delta Primo SVP",
+    "Delta Primo K",
+    "Delta Primo VP"
+   ],
+   "url": "https://www.manualslib.com/manual/1612775/Ksb-Delta-Primo-Series.html"
+  },
+  {
+   "manualId": "1665777",
+   "slug": "Ksb-Delta-Solo-Compact-Mvp-Series",
+   "title": "Delta Solo Compact MVP Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Delta Solo Compact MVP Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1665777/Ksb-Delta-Solo-Compact-Mvp-Series.html"
+  },
+  {
+   "manualId": "1644803",
+   "slug": "Ksb-Delta-Solo-Svp",
+   "title": "Delta Solo SVP Installation & operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Delta Solo SVP",
+   "extraModels": [
+    "Delta Basic SVP"
+   ],
+   "url": "https://www.manualslib.com/manual/1644803/Ksb-Delta-Solo-Svp.html"
+  },
+  {
+   "manualId": "1668676",
+   "slug": "Ksb-Dynactair-200",
+   "title": "DYNACTAIR 200 Installation Manintenance",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "DYNACTAIR 200",
+   "extraModels": [
+    "DYNACTAIR 400",
+    "DYNACTAIR 800"
+   ],
+   "url": "https://www.manualslib.com/manual/1668676/Ksb-Dynactair-200.html"
+  },
+  {
+   "manualId": "1900803",
+   "slug": "Ksb-Ea-C-Series",
+   "title": "EA-B 12 Installation & operating manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "EA-B 12",
+   "extraModels": [
+    "EA-B 12",
+    "EA-B Series",
+    "EA-C 140",
+    "EA-C 20",
+    "EA-C 40",
+    "EA-C 80"
+   ],
+   "url": "https://www.manualslib.com/manual/1900803/Ksb-Ea-C-Series.html"
+  },
+  {
+   "manualId": "1453871",
+   "slug": "Ksb-Ea-C",
+   "title": "EA-C Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "EA-C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1453871/Ksb-Ea-C.html"
+  },
+  {
+   "manualId": "2579619",
+   "slug": "Ksb-Ecoline-Va-40",
+   "title": "ECOLINE FY 40 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "ECOLINE FY 40",
+   "extraModels": [
+    "ECOLINE FY 40",
+    "ECOLINE RA 40"
+   ],
+   "url": "https://www.manualslib.com/manual/2579619/Ksb-Ecoline-Va-40.html"
+  },
+  {
+   "manualId": "1336997",
+   "slug": "Ksb-Ecoline-Glf",
+   "title": "ECOLINE FYC operating manual",
+   "type": "User / Owner",
+   "pages": 100,
+   "productModel": "ECOLINE FYC",
+   "extraModels": [
+    "ECOLINE FYC",
+    "ECOLINE FYF",
+    "ECOLINE GLB",
+    "ECOLINE GLC",
+    "ECOLINE GLV",
+    "ECOLINE GTB",
+    "ECOLINE GTV",
+    "ECOLINE PTF",
+    "ECOLINE SCC",
+    "ECOLINE SCF",
+    "ECOLINE SCV"
+   ],
+   "url": "https://www.manualslib.com/manual/1336997/Ksb-Ecoline-Glf.html"
+  },
+  {
+   "manualId": "1905337",
+   "slug": "Ksb-Ecoline-Gtf-Series",
+   "title": "ECOLINE GLF 150 operating manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "ECOLINE GLF 150",
+   "extraModels": [
+    "ECOLINE GLF 150",
+    "ECOLINE GLF 300",
+    "ECOLINE GLF 600",
+    "ECOLINE GLF 800",
+    "ECOLINE GTF 150",
+    "ECOLINE GTF 300",
+    "ECOLINE GTF 600",
+    "ECOLINE GTF 800",
+    "ECOLINE PTF 150",
+    "ECOLINE PTF 300",
+    "ECOLINE PTF 600",
+    "ECOLINE PTF 800",
+    "ECOLINE PTF Series",
+    "ECOLINE SCF 150",
+    "ECOLINE SCF 300",
+    "ECOLINE SCF 600",
+    "ECOLINE SCF 800",
+    "ECOLINE SCF Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1905337/Ksb-Ecoline-Gtf-Series.html"
+  },
+  {
+   "manualId": "3868682",
+   "slug": "Ksb-Ecoline-Glf-Series",
+   "title": "ECOLINE GLF Series operating manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "ECOLINE GLF Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3868682/Ksb-Ecoline-Glf-Series.html"
+  },
+  {
+   "manualId": "1472071",
+   "slug": "Ksb-Ecoline-Gt-40",
+   "title": "ECOLINE GT 40 operating manual",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": "ECOLINE GT 40",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1472071/Ksb-Ecoline-Gt-40.html"
+  },
+  {
+   "manualId": "2957667",
+   "slug": "Ksb-Ecoline-Gt-40",
+   "title": "ECOLINE GT 40 operating manual",
+   "type": "User / Owner",
+   "pages": 38,
+   "productModel": "ECOLINE GT 40",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2957667/Ksb-Ecoline-Gt-40.html"
+  },
+  {
+   "manualId": "2989328",
+   "slug": "Ksb-Ecoline-Gtb-150",
+   "title": "ECOLINE GTB 150 Installation & operating manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "ECOLINE GTB 150",
+   "extraModels": [
+    "ECOLINE GTB 300",
+    "ECOLINE GTB 600"
+   ],
+   "url": "https://www.manualslib.com/manual/2989328/Ksb-Ecoline-Gtb-150.html"
+  },
+  {
+   "manualId": "3845484",
+   "slug": "Ksb-Ecoline-Gtc",
+   "title": "ECOLINE GTC operating manual",
+   "type": "User / Owner",
+   "pages": 100,
+   "productModel": "ECOLINE GTC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3845484/Ksb-Ecoline-Gtc.html"
+  },
+  {
+   "manualId": "3845483",
+   "slug": "Ksb-Ecoline-Gtf",
+   "title": "ECOLINE GTF operating manual",
+   "type": "User / Owner",
+   "pages": 100,
+   "productModel": "ECOLINE GTF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3845483/Ksb-Ecoline-Gtf.html"
+  },
+  {
+   "manualId": "3954088",
+   "slug": "Ksb-Ecoline-Ra16",
+   "title": "ECOLINE-RA16 operating manual",
+   "type": "User / Owner",
+   "pages": 23,
+   "productModel": "ECOLINE-RA16",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3954088/Ksb-Ecoline-Ra16.html"
+  },
+  {
+   "manualId": "4016649",
+   "slug": "Ksb-Ecoline-Rfv16s",
+   "title": "ECOLINE-RFV16S Installation and operating manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "ECOLINE-RFV16S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4016649/Ksb-Ecoline-Rfv16s.html"
+  },
+  {
+   "manualId": "2854435",
+   "slug": "Ksb-Ecoline-Va16",
+   "title": "ECOLINE-VA16 operating manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "ECOLINE-VA16",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2854435/Ksb-Ecoline-Va16.html"
+  },
+  {
+   "manualId": "1570544",
+   "slug": "Ksb-Emporia-Mb",
+   "title": "Emporia MB Installation & operating manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Emporia MB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1570544/Ksb-Emporia-Mb.html"
+  },
+  {
+   "manualId": "2608979",
+   "slug": "Ksb-Emv-Series",
+   "title": "EMV Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "EMV Series",
+   "extraModels": [
+    "EMV211/145",
+    "EMV211/146",
+    "EMV211/147",
+    "EMV212/144",
+    "EMV212/145",
+    "EMV212/146",
+    "EMV212/147",
+    "EMV212/148",
+    "EMV212/150",
+    "EMV213/145",
+    "EMV213/147",
+    "EMV213/148",
+    "EMV213/150"
+   ],
+   "url": "https://www.manualslib.com/manual/2608979/Ksb-Emv-Series.html"
+  },
+  {
+   "manualId": "1542070",
+   "slug": "Ksb-Etabloc",
+   "title": "Etabloc operating instructions manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "Etabloc",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1542070/Ksb-Etabloc.html"
+  },
+  {
+   "manualId": "2596791",
+   "slug": "Ksb-Etachrom-L",
+   "title": "Etachrom L Installation & operating manual",
+   "type": "Installation",
+   "pages": 70,
+   "productModel": "Etachrom L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2596791/Ksb-Etachrom-L.html"
+  },
+  {
+   "manualId": "2483739",
+   "slug": "Ksb-Etachrom-Nc",
+   "title": "Etachrom NC Installation & operating manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "Etachrom NC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2483739/Ksb-Etachrom-Nc.html"
+  },
+  {
+   "manualId": "1448332",
+   "slug": "Ksb-Etaline-Dl",
+   "title": "Etaline DL Installation & operating manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "Etaline DL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1448332/Ksb-Etaline-Dl.html"
+  },
+  {
+   "manualId": "1480554",
+   "slug": "Ksb-Etaline",
+   "title": "Etaline Installation & operating manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "Etaline",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1480554/Ksb-Etaline.html"
+  },
+  {
+   "manualId": "2895637",
+   "slug": "Ksb-Etaline-Pro-Series",
+   "title": "EtaLine Pro Installation and operating manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "EtaLine Pro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2895637/Ksb-Etaline-Pro-Series.html"
+  },
+  {
+   "manualId": "3415394",
+   "slug": "Ksb-Etaline-Pro",
+   "title": "EtaLine Pro quick manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "EtaLine Pro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3415394/Ksb-Etaline-Pro.html"
+  },
+  {
+   "manualId": "1522361",
+   "slug": "Ksb-Etaline-R",
+   "title": "Etaline-R Installation & operating manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "Etaline-R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1522361/Ksb-Etaline-R.html"
+  },
+  {
+   "manualId": "2197108",
+   "slug": "Ksb-Etanorm-Fxv",
+   "title": "Etanorm FXV Installation & operating manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "Etanorm FXV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2197108/Ksb-Etanorm-Fxv.html"
+  },
+  {
+   "manualId": "1508324",
+   "slug": "Ksb-Etanorm",
+   "title": "Etanorm Installation & operating manual",
+   "type": "Installation",
+   "pages": 66,
+   "productModel": "Etanorm",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1508324/Ksb-Etanorm.html"
+  },
+  {
+   "manualId": "1525014",
+   "slug": "Ksb-Etanorm-Syt",
+   "title": "Etanorm SYT Installation & operating manual",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "Etanorm SYT",
+   "extraModels": [
+    "ETNY"
+   ],
+   "url": "https://www.manualslib.com/manual/1525014/Ksb-Etanorm-Syt.html"
+  },
+  {
+   "manualId": "2500154",
+   "slug": "Ksb-Etanorm-Syt",
+   "title": "Etanorm SYT Installation & operating manual",
+   "type": "Installation",
+   "pages": 66,
+   "productModel": "Etanorm SYT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2500154/Ksb-Etanorm-Syt.html"
+  },
+  {
+   "manualId": "2840882",
+   "slug": "Ksb-Etanorm-Syt",
+   "title": "Etanorm SYT Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "Etanorm SYT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2840882/Ksb-Etanorm-Syt.html"
+  },
+  {
+   "manualId": "1466080",
+   "slug": "Ksb-Etanorm-V",
+   "title": "Etanorm V operating manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "Etanorm V",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1466080/Ksb-Etanorm-V.html"
+  },
+  {
+   "manualId": "2803818",
+   "slug": "Ksb-Etanorm-V",
+   "title": "Etanorm V operating manual",
+   "type": "User / Owner",
+   "pages": 62,
+   "productModel": "Etanorm V",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2803818/Ksb-Etanorm-V.html"
+  },
+  {
+   "manualId": "2868145",
+   "slug": "Ksb-Etanorm-R",
+   "title": "Etanorm-R Installation & operating manual",
+   "type": "Installation",
+   "pages": 78,
+   "productModel": "Etanorm-R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2868145/Ksb-Etanorm-R.html"
+  },
+  {
+   "manualId": "1618364",
+   "slug": "Ksb-Etanorm-Rx",
+   "title": "Etanorm-RX Installation & operating manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "Etanorm-RX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1618364/Ksb-Etanorm-Rx.html"
+  },
+  {
+   "manualId": "1516122",
+   "slug": "Ksb-Etaprime-L",
+   "title": "Etaprime L Installation & operating manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "Etaprime L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1516122/Ksb-Etaprime-L.html"
+  },
+  {
+   "manualId": "2038803",
+   "slug": "Ksb-Etaseco-Series",
+   "title": "Etaseco C Installation & operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Etaseco C",
+   "extraModels": [
+    "Etaseco C",
+    "Etaseco G",
+    "Etaseco I Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2038803/Ksb-Etaseco-Series.html"
+  },
+  {
+   "manualId": "1962839",
+   "slug": "Ksb-Etaseco",
+   "title": "Etaseco Installation & operating manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "Etaseco",
+   "extraModels": [
+    "Etaseco-I"
+   ],
+   "url": "https://www.manualslib.com/manual/1962839/Ksb-Etaseco.html"
+  },
+  {
+   "manualId": "1238722",
+   "slug": "Ksb-Etaseco-Rvp",
+   "title": "Etaseco RVP Installation & operating manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "Etaseco RVP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1238722/Ksb-Etaseco-Rvp.html"
+  },
+  {
+   "manualId": "1724689",
+   "slug": "Ksb-Evamatic-Box-N-Series",
+   "title": "Evamatic-Box N 200 I Installation & operating manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "Evamatic-Box N 200 I",
+   "extraModels": [
+    "Evamatic-Box N 200 I",
+    "Evamatic-Box N 500 I"
+   ],
+   "url": "https://www.manualslib.com/manual/1724689/Ksb-Evamatic-Box-N-Series.html"
+  },
+  {
+   "manualId": "1777281",
+   "slug": "Ksb-Evamatic-Box-N-200-L",
+   "title": "Evamatic-Box N 200 l Installation & operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Evamatic-Box N 200 l",
+   "extraModels": [
+    "Evamatic-Box N 500 l",
+    "Evamatic-Box N Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1777281/Ksb-Evamatic-Box-N-200-L.html"
+  },
+  {
+   "manualId": "1731858",
+   "slug": "Ksb-Filtra-N",
+   "title": "Filtra N Installation & operating manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Filtra N",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1731858/Ksb-Filtra-N.html"
+  },
+  {
+   "manualId": "1484555",
+   "slug": "Ksb-Filtra-N",
+   "title": "Filtra N Installation and operating manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "Filtra N",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1484555/Ksb-Filtra-N.html"
+  },
+  {
+   "manualId": "1924077",
+   "slug": "Ksb-Filtra-N",
+   "title": "Filtra N Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "Filtra N",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1924077/Ksb-Filtra-N.html"
+  },
+  {
+   "manualId": "4028912",
+   "slug": "Ksb-Gamma",
+   "title": "Gamma Installation & operating manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "Gamma",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4028912/Ksb-Gamma.html"
+  },
+  {
+   "manualId": "2776039",
+   "slug": "Ksb-Giw-Lcc-Series",
+   "title": "GIW LCC 100-400 Maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "GIW LCC 100-400",
+   "extraModels": [
+    "GIW LCC 100-400",
+    "GIW LCC 150-500",
+    "GIW LCC 200-610",
+    "GIW LCC 250-660",
+    "GIW LCC 300-710",
+    "GIW LCC 50-230",
+    "GIW LCC 80-300"
+   ],
+   "url": "https://www.manualslib.com/manual/2776039/Ksb-Giw-Lcc-Series.html"
+  },
+  {
+   "manualId": "1837718",
+   "slug": "Ksb-Giw-Mdx",
+   "title": "GIW MDX Installation & operating manual",
+   "type": "Installation",
+   "pages": 53,
+   "productModel": "GIW MDX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1837718/Ksb-Giw-Mdx.html"
+  },
+  {
+   "manualId": "1592053",
+   "slug": "Ksb-Guard",
+   "title": "Guard Installation & operating manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Guard",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1592053/Ksb-Guard.html"
+  },
+  {
+   "manualId": "1769395",
+   "slug": "Ksb-Guard",
+   "title": "Guard Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Guard",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1769395/Ksb-Guard.html"
+  },
+  {
+   "manualId": "2576047",
+   "slug": "Ksb-Guard",
+   "title": "Guard Installation & operating manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "Guard",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2576047/Ksb-Guard.html"
+  },
+  {
+   "manualId": "1349580",
+   "slug": "Ksb-Hpk",
+   "title": "HPK Installation & operating manual",
+   "type": "Installation",
+   "pages": 73,
+   "productModel": "HPK",
+   "extraModels": [
+    "HPK-EY",
+    "HPK-SY",
+    "HPKE",
+    "HPKS"
+   ],
+   "url": "https://www.manualslib.com/manual/1349580/Ksb-Hpk.html"
+  },
+  {
+   "manualId": "2500168",
+   "slug": "Ksb-Hpk-Series",
+   "title": "HPK Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "HPK Series",
+   "extraModels": [
+    "HPK-E4",
+    "HPK-EX",
+    "HPK-SX",
+    "HPKE"
+   ],
+   "url": "https://www.manualslib.com/manual/2500168/Ksb-Hpk-Series.html"
+  },
+  {
+   "manualId": "2303900",
+   "slug": "Ksb-Hpk-L",
+   "title": "HPK-L Installation & operating manual",
+   "type": "Installation",
+   "pages": 74,
+   "productModel": "HPK-L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2303900/Ksb-Hpk-L.html"
+  },
+  {
+   "manualId": "1628124",
+   "slug": "Ksb-Hya-Duo-D-Fl-Compact",
+   "title": "Hya-Duo D FL Compact Installation & operating manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Hya-Duo D FL Compact",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1628124/Ksb-Hya-Duo-D-Fl-Compact.html"
+  },
+  {
+   "manualId": "1608306",
+   "slug": "Ksb-Hya-Duo-D-Fl-Series",
+   "title": "Hya-Duo D FL Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Hya-Duo D FL Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1608306/Ksb-Hya-Duo-D-Fl-Series.html"
+  },
+  {
+   "manualId": "3275249",
+   "slug": "Ksb-Hya-Rain-Eco",
+   "title": "Hya-Rain Eco Installation & operating manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "Hya-Rain Eco",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3275249/Ksb-Hya-Rain-Eco.html"
+  },
+  {
+   "manualId": "1463887",
+   "slug": "Ksb-Hya-Rain",
+   "title": "Hya-Rain Installation & operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Hya-Rain",
+   "extraModels": [
+    "Hya-Rain N"
+   ],
+   "url": "https://www.manualslib.com/manual/1463887/Ksb-Hya-Rain.html"
+  },
+  {
+   "manualId": "1594581",
+   "slug": "Ksb-Hya-Rain",
+   "title": "Hya-Rain Installation & operating manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "Hya-Rain",
+   "extraModels": [
+    "Hya-Rain N"
+   ],
+   "url": "https://www.manualslib.com/manual/1594581/Ksb-Hya-Rain.html"
+  },
+  {
+   "manualId": "2626650",
+   "slug": "Ksb-Hya-Solo-D",
+   "title": "Hya-Solo D Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Hya-Solo D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2626650/Ksb-Hya-Solo-D.html"
+  },
+  {
+   "manualId": "1615885",
+   "slug": "Ksb-Hya-Solo-D-Series",
+   "title": "Hya-Solo D Series Installation and operating manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Hya-Solo D Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1615885/Ksb-Hya-Solo-D-Series.html"
+  },
+  {
+   "manualId": "1595122",
+   "slug": "Ksb-Hya-Solo-Dsv-Series",
+   "title": "Hya-Solo DSV Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Hya-Solo DSV Series",
+   "extraModels": [
+    "Hya-Solo DSV/B 1/2503 V"
+   ],
+   "url": "https://www.manualslib.com/manual/1595122/Ksb-Hya-Solo-Dsv-Series.html"
+  },
+  {
+   "manualId": "2208475",
+   "slug": "Ksb-Hya-Solo-Dv",
+   "title": "Hya-Solo DV Installation & operating manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "Hya-Solo DV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2208475/Ksb-Hya-Solo-Dv.html"
+  },
+  {
+   "manualId": "1637478",
+   "slug": "Ksb-Hya-Solo-Dv-Series",
+   "title": "Hya-Solo DV Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "Hya-Solo DV Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1637478/Ksb-Hya-Solo-Dv-Series.html"
+  },
+  {
+   "manualId": "2026551",
+   "slug": "Ksb-Hyamat-K-Series",
+   "title": "Hyamat K 0202 Original operating manual",
+   "type": "User / Owner",
+   "pages": 37,
+   "productModel": "Hyamat K 0202",
+   "extraModels": [
+    "Hyamat K 0202",
+    "Hyamat K 0203",
+    "Hyamat K 0204",
+    "Hyamat K 0205",
+    "Hyamat K 0206",
+    "Hyamat K 0207",
+    "Hyamat K 0208",
+    "Hyamat K 0209",
+    "Hyamat K 0210",
+    "Hyamat K 0211",
+    "Hyamat K 0213",
+    "Hyamat K 0402",
+    "Hyamat K 0403",
+    "Hyamat K 0404",
+    "Hyamat K 0405",
+    "Hyamat K 0406",
+    "Hyamat K 0407",
+    "Hyamat K 0408",
+    "Hyamat K 0409",
+    "Hyamat K 0410",
+    "Hyamat K 0411",
+    "Hyamat K 0413",
+    "Hyamat K 0415",
+    "Hyamat K 1802",
+    "Hyamat K 1803",
+    "Hyamat K 1804",
+    "Hyamat K 1805",
+    "Hyamat K 1806",
+    "Hyamat K 1807",
+    "Hyamat K 1808",
+    "Hyamat K 1810",
+    "Hyamat K 3202",
+    "Hyamat K 3203",
+    "Hyamat K 3204",
+    "Hyamat K 3205",
+    "Hyamat K 3206",
+    "Hyamat K 3207",
+    "Hyamat K 3208",
+    "Hyamat K 4502",
+    "Hyamat K 4502-1",
+    "Hyamat K 4503",
+    "Hyamat K 4503-1",
+    "Hyamat K 4504",
+    "Hyamat K 4504-1",
+    "Hyamat K 4505",
+    "Hyamat K 4505-1",
+    "Hyamat K 4506",
+    "Hyamat K 4506-1",
+    "Hyamat K 6502",
+    "Hyamat K 6503",
+    "Hyamat K 6504",
+    "Hyamat K 6505",
+    "Hyamat K 6506",
+    "Hyamat K 6507",
+    "Hyamat K 6508",
+    "Hyamat K 6509",
+    "Hyamat K0215"
+   ],
+   "url": "https://www.manualslib.com/manual/2026551/Ksb-Hyamat-K-Series.html"
+  },
+  {
+   "manualId": "1664737",
+   "slug": "Ksb-Hyamat-K",
+   "title": "Hyamat K Installation & operating manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "Hyamat K",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1664737/Ksb-Hyamat-K.html"
+  },
+  {
+   "manualId": "1799862",
+   "slug": "Ksb-Hyamat-Svp-Eco",
+   "title": "Hyamat SVP Eco Installation & operating manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "Hyamat SVP Eco",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1799862/Ksb-Hyamat-Svp-Eco.html"
+  },
+  {
+   "manualId": "1572151",
+   "slug": "Ksb-Hyper",
+   "title": "Hyper Installation & operating manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "Hyper",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1572151/Ksb-Hyper.html"
+  },
+  {
+   "manualId": "1424530",
+   "slug": "Ksb-Ie3",
+   "title": "IE3 Installation & operating manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "IE3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1424530/Ksb-Ie3.html"
+  },
+  {
+   "manualId": "3552563",
+   "slug": "Ksb-Ie3-Motor",
+   "title": "IE3-Motor Installation & operating manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "IE3-Motor",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3552563/Ksb-Ie3-Motor.html"
+  },
+  {
+   "manualId": "2571507",
+   "slug": "Ksb-Iln",
+   "title": "ILN operating manual",
+   "type": "User / Owner",
+   "pages": 92,
+   "productModel": "ILN",
+   "extraModels": [
+    "ILNC",
+    "ILNR"
+   ],
+   "url": "https://www.manualslib.com/manual/2571507/Ksb-Iln.html"
+  },
+  {
+   "manualId": "2105809",
+   "slug": "Ksb-As1-M",
+   "title": "Installation, operating and maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2105809/Ksb-As1-M.html"
+  },
+  {
+   "manualId": "1457827",
+   "slug": "Ksb-Domi",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1457827/Ksb-Domi.html"
+  },
+  {
+   "manualId": "2707646",
+   "slug": "Ksb-Invcp",
+   "title": "INVCN Manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "INVCN",
+   "extraModels": [
+    "INVCN"
+   ],
+   "url": "https://www.manualslib.com/manual/2707646/Ksb-Invcp.html"
+  },
+  {
+   "manualId": "1799024",
+   "slug": "Ksb-Invcp",
+   "title": "INVCN Original manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "INVCN",
+   "extraModels": [
+    "INVCN"
+   ],
+   "url": "https://www.manualslib.com/manual/1799024/Ksb-Invcp.html"
+  },
+  {
+   "manualId": "1594182",
+   "slug": "Ksb-Isoria-10",
+   "title": "ISORIA 10 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "ISORIA 10",
+   "extraModels": [
+    "ISORIA 16",
+    "ISORIA 20",
+    "ISORIA 25",
+    "MAMMOUTH 10",
+    "MAMMOUTH 16",
+    "MAMMOUTH 20",
+    "MAMMOUTH 25",
+    "MAMMOUTH 6"
+   ],
+   "url": "https://www.manualslib.com/manual/1594182/Ksb-Isoria-10.html"
+  },
+  {
+   "manualId": "2096752",
+   "slug": "Ksb-Itur-Ifv-32",
+   "title": "ITUR IFV-100 instruction manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "ITUR IFV-100",
+   "extraModels": [
+    "ITUR IFV-100",
+    "ITUR IFV-50"
+   ],
+   "url": "https://www.manualslib.com/manual/2096752/Ksb-Itur-Ifv-32.html"
+  },
+  {
+   "manualId": "1602541",
+   "slug": "Ksb-Ixo-N",
+   "title": "Ixo N operating manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "Ixo N",
+   "extraModels": [
+    "Ixo N 45 D",
+    "Ixo N 45 E",
+    "Ixo N 48 D",
+    "Ixo N 48 E",
+    "Ixo N 55 D",
+    "Ixo N 55 E",
+    "Ixo N 58 D",
+    "Ixo N 58 E",
+    "Ixo N 65 D",
+    "Ixo N 65 E"
+   ],
+   "url": "https://www.manualslib.com/manual/1602541/Ksb-Ixo-N.html"
+  },
+  {
+   "manualId": "1734778",
+   "slug": "Ksb-Ixo-Rw",
+   "title": "Ixo RW Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "Ixo RW",
+   "extraModels": [
+    "Ixo RWS"
+   ],
+   "url": "https://www.manualslib.com/manual/1734778/Ksb-Ixo-Rw.html"
+  },
+  {
+   "manualId": "1503469",
+   "slug": "Ksb-Ixo-Pro",
+   "title": "Ixo-Pro Installation & operating manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Ixo-Pro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1503469/Ksb-Ixo-Pro.html"
+  },
+  {
+   "manualId": "3911257",
+   "slug": "Ksb-Ke-Plastomer",
+   "title": "KE Plastomer Installation & operating manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "KE Plastomer",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3911257/Ksb-Ke-Plastomer.html"
+  },
+  {
+   "manualId": "3544945",
+   "slug": "Ksb-Kncpp",
+   "title": "KNCPP Installation & operating manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "KNCPP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3544945/Ksb-Kncpp.html"
+  },
+  {
+   "manualId": "1311923",
+   "slug": "Ksb-Boax-S",
+   "title": "Ksb BOAX-S Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1311923/Ksb-Boax-S.html"
+  },
+  {
+   "manualId": "1387508",
+   "slug": "Ksb-Etanorm",
+   "title": "Ksb Etanorm Booklet",
+   "type": "Other",
+   "pages": 36,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1387508/Ksb-Etanorm.html"
+  },
+  {
+   "manualId": "4426890",
+   "slug": "ksb-kwp-centrifugal-pump-user-manual",
+   "title": "KSB KWP Centrifugal Pump - User Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4426890/ksb-kwp-centrifugal-pump-user-manual.html"
+  },
+  {
+   "manualId": "2127141",
+   "slug": "Ksb-Ksb-Leakage-Sensor",
+   "title": "KSB Leakage Sensor Installation & operating manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "KSB Leakage Sensor",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2127141/Ksb-Ksb-Leakage-Sensor.html"
+  },
+  {
+   "manualId": "2931732",
+   "slug": "Ksb-Levelcontrol-Basic-2",
+   "title": "Ksb LevelControl Basic 2 Booklet",
+   "type": "Other",
+   "pages": 38,
+   "productModel": null,
+   "extraModels": [
+    "LevelControl Basic 2 BC",
+    "LevelControl Basic 2 BS"
+   ],
+   "url": "https://www.manualslib.com/manual/2931732/Ksb-Levelcontrol-Basic-2.html"
+  },
+  {
+   "manualId": "1453143",
+   "slug": "Ksb-Levelcontrol-Basic-2",
+   "title": "Ksb LevelControl Basic 2 Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1453143/Ksb-Levelcontrol-Basic-2.html"
+  },
+  {
+   "manualId": "1654611",
+   "slug": "Ksb-Monosub-R",
+   "title": "Ksb Monosub R Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1654611/Ksb-Monosub-R.html"
+  },
+  {
+   "manualId": "1713676",
+   "slug": "Ksb-Upa-Control",
+   "title": "Ksb UPA CONTROL Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1713676/Ksb-Upa-Control.html"
+  },
+  {
+   "manualId": "1596156",
+   "slug": "Ksb-Wk-Series",
+   "title": "Ksb WK Series Manual",
+   "type": "Other",
+   "pages": 39,
+   "productModel": null,
+   "extraModels": [
+    "WK 100",
+    "WK 125",
+    "WK 150",
+    "WK 40",
+    "WK 50",
+    "WK 65",
+    "WK 80"
+   ],
+   "url": "https://www.manualslib.com/manual/1596156/Ksb-Wk-Series.html"
+  },
+  {
+   "manualId": "2351345",
+   "slug": "Ksb-Kwp",
+   "title": "KWP Installation & operating manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "KWP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2351345/Ksb-Kwp.html"
+  },
+  {
+   "manualId": "2514174",
+   "slug": "Ksb-Kwp",
+   "title": "KWP Installation & operating manual",
+   "type": "Installation",
+   "pages": 78,
+   "productModel": "KWP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2514174/Ksb-Kwp.html"
+  },
+  {
+   "manualId": "2933675",
+   "slug": "Ksb-Kwp",
+   "title": "KWP Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "KWP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2933675/Ksb-Kwp.html"
+  },
+  {
+   "manualId": "1596974",
+   "slug": "Ksb-Kwp-Bloc",
+   "title": "KWP-Bloc Installation & operating manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "KWP-Bloc",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1596974/Ksb-Kwp-Bloc.html"
+  },
+  {
+   "manualId": "2886051",
+   "slug": "Ksb-Kwt51",
+   "title": "KWT51 Installation & operating manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "KWT51",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2886051/Ksb-Kwt51.html"
+  },
+  {
+   "manualId": "2092297",
+   "slug": "Ksb-Lcv",
+   "title": "LCV Installation & operating manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "LCV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2092297/Ksb-Lcv.html"
+  },
+  {
+   "manualId": "2997050",
+   "slug": "Ksb-Levelcontrol-Basic-2",
+   "title": "LevelControl Basic 2 Installation & operating manual",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "LevelControl Basic 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2997050/Ksb-Levelcontrol-Basic-2.html"
+  },
+  {
+   "manualId": "2481101",
+   "slug": "Ksb-Levelcontrol-Basic-2",
+   "title": "LevelControl Basic 2 Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "LevelControl Basic 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2481101/Ksb-Levelcontrol-Basic-2.html"
+  },
+  {
+   "manualId": "3729995",
+   "slug": "Ksb-Movitec",
+   "title": "LHS 6 Installation & operating manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "LHS 6",
+   "extraModels": [
+    "LHS 6",
+    "Movitec VCF 90/2-1 B",
+    "VCF 10B",
+    "VCF 15B",
+    "VCF 25B",
+    "VCF 2B",
+    "VCF 40B",
+    "VCF 4B",
+    "VCF 60B",
+    "VCF 6B",
+    "VCF 90B",
+    "VF 10B",
+    "VF 25B",
+    "VF 2B",
+    "VF 40B 16/25",
+    "VF 40B 40",
+    "VF 4B",
+    "VF 60B 16/25",
+    "VF 60B 40",
+    "VF 6B",
+    "VF 90B",
+    "VSF 10B",
+    "VSF 15 B",
+    "VSF 25B",
+    "VSF 2B",
+    "VSF 40B 16/25",
+    "VSF 40B 40",
+    "VSF 4B",
+    "VSF 60B 16/25",
+    "VSF 60B 40",
+    "VSF 6B",
+    "VSF 90B"
+   ],
+   "url": "https://www.manualslib.com/manual/3729995/Ksb-Movitec.html"
+  },
+  {
+   "manualId": "1479600",
+   "slug": "Ksb-M-1",
+   "title": "M 1 Installation & operating manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "M 1",
+   "extraModels": [
+    "M 1 K"
+   ],
+   "url": "https://www.manualslib.com/manual/1479600/Ksb-M-1.html"
+  },
+  {
+   "manualId": "1548980",
+   "slug": "Ksb-Magnochem",
+   "title": "Magnochem Installation & operating manual",
+   "type": "Installation",
+   "pages": 108,
+   "productModel": "Magnochem",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1548980/Ksb-Magnochem.html"
+  },
+  {
+   "manualId": "2727797",
+   "slug": "Ksb-Magnochem",
+   "title": "Magnochem Installation & operating manual",
+   "type": "Installation",
+   "pages": 122,
+   "productModel": "Magnochem",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2727797/Ksb-Magnochem.html"
+  },
+  {
+   "manualId": "1596817",
+   "slug": "Ksb-Magnochem-Bloc",
+   "title": "Magnochem Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 50,
+   "productModel": "Magnochem",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1596817/Ksb-Magnochem-Bloc.html"
+  },
+  {
+   "manualId": "1846364",
+   "slug": "Ksb-Magnochem-Bloc",
+   "title": "Magnochem-Bloc Installation & operating manual",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "Magnochem-Bloc",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1846364/Ksb-Magnochem-Bloc.html"
+  },
+  {
+   "manualId": "2061265",
+   "slug": "Ksb-25",
+   "title": "MAMMOUTH 25 Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "MAMMOUTH 25",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2061265/Ksb-25.html"
+  },
+  {
+   "manualId": "3911256",
+   "slug": "Ksb-Mammouth",
+   "title": "MAMMOUTH Installation & operating manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "MAMMOUTH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3911256/Ksb-Mammouth.html"
+  },
+  {
+   "manualId": "1574053",
+   "slug": "Ksb-Mbf-013",
+   "title": "MBF-013 Manual",
+   "type": "Other",
+   "pages": 22,
+   "productModel": "MBF-013",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1574053/Ksb-Mbf-013.html"
+  },
+  {
+   "manualId": "1376557",
+   "slug": "Ksb-Megabloc",
+   "title": "Megabloc Installation & operating manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "Megabloc",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1376557/Ksb-Megabloc.html"
+  },
+  {
+   "manualId": "2952443",
+   "slug": "Ksb-Megachem",
+   "title": "MEGACHEM quick start manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "MEGACHEM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2952443/Ksb-Megachem.html"
+  },
+  {
+   "manualId": "1376558",
+   "slug": "Ksb-Megacpk",
+   "title": "MegaCPK Installation & operating manual",
+   "type": "Installation",
+   "pages": 74,
+   "productModel": "MegaCPK",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1376558/Ksb-Megacpk.html"
+  },
+  {
+   "manualId": "2802896",
+   "slug": "Ksb-Megaflow-50-160",
+   "title": "MEGAFLOW 100-250 Operating instructions manual",
+   "type": "User / Owner",
+   "pages": 46,
+   "productModel": "MEGAFLOW 100-250",
+   "extraModels": [
+    "MEGAFLOW 100-250",
+    "MEGAFLOW 100-315",
+    "MEGAFLOW 100-400",
+    "MEGAFLOW 125-315",
+    "MEGAFLOW 125-500",
+    "MEGAFLOW 150-315",
+    "MEGAFLOW 150-400",
+    "MEGAFLOW 150-500",
+    "MEGAFLOW 200-315",
+    "MEGAFLOW 200-400",
+    "MEGAFLOW 200-500",
+    "MEGAFLOW 250-500",
+    "MEGAFLOW 300-500",
+    "MEGAFLOW 50-200",
+    "MEGAFLOW 65-200",
+    "MEGAFLOW 65-315",
+    "MEGAFLOW 80-200",
+    "MEGAFLOW 80-250",
+    "MEGAFLOW 80-400"
+   ],
+   "url": "https://www.manualslib.com/manual/2802896/Ksb-Megaflow-50-160.html"
+  },
+  {
+   "manualId": "1308392",
+   "slug": "Ksb-Meganorm",
+   "title": "Meganorm Operation manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Meganorm",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1308392/Ksb-Meganorm.html"
+  },
+  {
+   "manualId": "3029402",
+   "slug": "Ksb-Mil-10000",
+   "title": "MIL 10000 instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "MIL 10000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3029402/Ksb-Mil-10000.html"
+  },
+  {
+   "manualId": "4221867",
+   "slug": "Ksb-Mil-21000",
+   "title": "MIL 21000 Installation & operating manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "MIL 21000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4221867/Ksb-Mil-21000.html"
+  },
+  {
+   "manualId": "2967578",
+   "slug": "Ksb-Mil-21000",
+   "title": "MIL 21000 instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "MIL 21000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2967578/Ksb-Mil-21000.html"
+  },
+  {
+   "manualId": "3304335",
+   "slug": "Ksb-Mil-41000",
+   "title": "MIL 41000 Installation & operating manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "MIL 41000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3304335/Ksb-Mil-41000.html"
+  },
+  {
+   "manualId": "2984569",
+   "slug": "Ksb-Mil-41000",
+   "title": "MIL 41000 instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "MIL 41000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2984569/Ksb-Mil-41000.html"
+  },
+  {
+   "manualId": "3026974",
+   "slug": "Ksb-Mil-76000",
+   "title": "MIL 76000 instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "MIL 76000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3026974/Ksb-Mil-76000.html"
+  },
+  {
+   "manualId": "3016044",
+   "slug": "Ksb-Mil-77000",
+   "title": "MIL 77000 instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "MIL 77000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3016044/Ksb-Mil-77000.html"
+  },
+  {
+   "manualId": "2969764",
+   "slug": "Ksb-Mil-90000",
+   "title": "MIL 90000 Installation & operating manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "MIL 90000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2969764/Ksb-Mil-90000.html"
+  },
+  {
+   "manualId": "1818247",
+   "slug": "Ksb-Mini-Compacta-S-Y-1-Series",
+   "title": "mini-Compacta 2013w01 Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 104,
+   "productModel": "mini-Compacta 2013w01 Series",
+   "extraModels": [
+    "mini-Compacta 2013w01 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1818247/Ksb-Mini-Compacta-S-Y-1-Series.html"
+  },
+  {
+   "manualId": "1513107",
+   "slug": "Ksb-Mk",
+   "title": "MK Installation & operating manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "MK",
+   "extraModels": [
+    "MK1",
+    "MK100",
+    "MK2 MK0",
+    "MKA",
+    "MKB"
+   ],
+   "url": "https://www.manualslib.com/manual/1513107/Ksb-Mk.html"
+  },
+  {
+   "manualId": "2598449",
+   "slug": "Ksb-Moviboost-Vpt",
+   "title": "moviBOOST CL Manual",
+   "type": "Other",
+   "pages": 25,
+   "productModel": "moviBOOST CL",
+   "extraModels": [
+    "moviBOOST CL"
+   ],
+   "url": "https://www.manualslib.com/manual/2598449/Ksb-Moviboost-Vpt.html"
+  },
+  {
+   "manualId": "1902586",
+   "slug": "Ksb-Moviboost-Vp",
+   "title": "moviBOOST VP operating instructions manual",
+   "type": "User / Owner",
+   "pages": 31,
+   "productModel": "moviBOOST VP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1902586/Ksb-Moviboost-Vp.html"
+  },
+  {
+   "manualId": "2418454",
+   "slug": "Ksb-Moviboost-Vt",
+   "title": "moviBOOST Vt Manual",
+   "type": "Other",
+   "pages": 25,
+   "productModel": "moviBOOST Vt",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2418454/Ksb-Moviboost-Vt.html"
+  },
+  {
+   "manualId": "1807042",
+   "slug": "Ksb-Movitec-Series",
+   "title": "Movitec Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "Movitec Series",
+   "extraModels": [
+    "Movitec VSF 40/10-2 B"
+   ],
+   "url": "https://www.manualslib.com/manual/1807042/Ksb-Movitec-Series.html"
+  },
+  {
+   "manualId": "3888543",
+   "slug": "Ksb-Movitec-V-10",
+   "title": "Movitec V 10 Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 42,
+   "productModel": "Movitec V 10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3888543/Ksb-Movitec-V-10.html"
+  },
+  {
+   "manualId": "3888541",
+   "slug": "Ksb-Movitec-V-4",
+   "title": "Movitec V 4 Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 42,
+   "productModel": "Movitec V 4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3888541/Ksb-Movitec-V-4.html"
+  },
+  {
+   "manualId": "3888542",
+   "slug": "Ksb-Movitec-V-6",
+   "title": "Movitec V 6 Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 42,
+   "productModel": "Movitec V 6",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3888542/Ksb-Movitec-V-6.html"
+  },
+  {
+   "manualId": "2556928",
+   "slug": "Ksb-Movitec-Vci",
+   "title": "Movitec VCI Installation & operating manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "Movitec VCI",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2556928/Ksb-Movitec-Vci.html"
+  },
+  {
+   "manualId": "1508661",
+   "slug": "Ksb-Mse-Series",
+   "title": "MSD 60.1 Installation & operating manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "MSD 60.1",
+   "extraModels": [
+    "MSD 60.1",
+    "MSD Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1508661/Ksb-Mse-Series.html"
+  },
+  {
+   "manualId": "3017821",
+   "slug": "Ksb-Mse",
+   "title": "MSD operating manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "MSD",
+   "extraModels": [
+    "MSD"
+   ],
+   "url": "https://www.manualslib.com/manual/3017821/Ksb-Mse.html"
+  },
+  {
+   "manualId": "1484344",
+   "slug": "Ksb-Multi-Eco",
+   "title": "Multi Eco Installation & operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Multi Eco",
+   "extraModels": [
+    "Multi Eco-Pro",
+    "Multi Eco-Top"
+   ],
+   "url": "https://www.manualslib.com/manual/1484344/Ksb-Multi-Eco.html"
+  },
+  {
+   "manualId": "2360134",
+   "slug": "Ksb-Multiboost",
+   "title": "Multiboost Operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Multiboost",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2360134/Ksb-Multiboost.html"
+  },
+  {
+   "manualId": "1505961",
+   "slug": "Ksb-Multitec-A-Sx",
+   "title": "Multitec A SX Installation & operating manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "Multitec A SX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1505961/Ksb-Multitec-A-Sx.html"
+  },
+  {
+   "manualId": "3639510",
+   "slug": "Ksb-Multitec",
+   "title": "Multitec operating instructions manual",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "Multitec",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3639510/Ksb-Multitec.html"
+  },
+  {
+   "manualId": "3911681",
+   "slug": "Ksb-Nori-160",
+   "title": "NORI 160 operating manual",
+   "type": "User / Owner",
+   "pages": 94,
+   "productModel": "NORI 160",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3911681/Ksb-Nori-160.html"
+  },
+  {
+   "manualId": "3911682",
+   "slug": "Ksb-Nori-320",
+   "title": "NORI 320 operating manual",
+   "type": "User / Owner",
+   "pages": 94,
+   "productModel": "NORI 320",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3911682/Ksb-Nori-320.html"
+  },
+  {
+   "manualId": "3911680",
+   "slug": "Ksb-Nori-40",
+   "title": "NORI 40 operating manual",
+   "type": "User / Owner",
+   "pages": 94,
+   "productModel": "NORI 40",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3911680/Ksb-Nori-40.html"
+  },
+  {
+   "manualId": "3911683",
+   "slug": "Ksb-Nori-500",
+   "title": "NORI 500 operating manual",
+   "type": "User / Owner",
+   "pages": 94,
+   "productModel": "NORI 500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3911683/Ksb-Nori-500.html"
+  },
+  {
+   "manualId": "1494380",
+   "slug": "Ksb-Omega",
+   "title": "Omega Installation & operating manual",
+   "type": "Installation",
+   "pages": 94,
+   "productModel": "Omega",
+   "extraModels": [
+    "Omega V"
+   ],
+   "url": "https://www.manualslib.com/manual/1494380/Ksb-Omega.html"
+  },
+  {
+   "manualId": "3153429",
+   "slug": "Ksb-Omega",
+   "title": "Omega Installation & operating manual",
+   "type": "Installation",
+   "pages": 106,
+   "productModel": "Omega",
+   "extraModels": [
+    "Omega V"
+   ],
+   "url": "https://www.manualslib.com/manual/3153429/Ksb-Omega.html"
+  },
+  {
+   "manualId": "1594566",
+   "slug": "Ksb-Omega-Series",
+   "title": "Omega Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 76,
+   "productModel": "Omega Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1594566/Ksb-Omega-Series.html"
+  },
+  {
+   "manualId": "1381403",
+   "slug": "Ksb-Pumpmeter",
+   "title": "Original operating manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1381403/Ksb-Pumpmeter.html"
+  },
+  {
+   "manualId": "2234094",
+   "slug": "Ksb-Profibus-Pumpdrive-2",
+   "title": "Profibus PumpDrive 2 Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Profibus PumpDrive 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2234094/Ksb-Profibus-Pumpdrive-2.html"
+  },
+  {
+   "manualId": "1606265",
+   "slug": "Ksb-Pumpdrive-2-Eco",
+   "title": "PumpDrive 2 Eco Application manual",
+   "type": "Other",
+   "pages": 50,
+   "productModel": "PumpDrive 2 Eco",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1606265/Ksb-Pumpdrive-2-Eco.html"
+  },
+  {
+   "manualId": "1422193",
+   "slug": "Ksb-Pumpdrive-2-Eco",
+   "title": "PumpDrive 2 Eco Installation & operating manual",
+   "type": "Installation",
+   "pages": 172,
+   "productModel": "PumpDrive 2 Eco",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1422193/Ksb-Pumpdrive-2-Eco.html"
+  },
+  {
+   "manualId": "1342328",
+   "slug": "Ksb-Pumpdrive-2",
+   "title": "PumpDrive 2 Installation & operating manual",
+   "type": "Installation",
+   "pages": 213,
+   "productModel": "PumpDrive 2",
+   "extraModels": [
+    "PumpDrive 2 Eco"
+   ],
+   "url": "https://www.manualslib.com/manual/1342328/Ksb-Pumpdrive-2.html"
+  },
+  {
+   "manualId": "1631007",
+   "slug": "Ksb-Pumpdrive-2",
+   "title": "PumpDrive 2 Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "PumpDrive 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1631007/Ksb-Pumpdrive-2.html"
+  },
+  {
+   "manualId": "3058414",
+   "slug": "Ksb-Pumpdrive-2",
+   "title": "PumpDrive 2 Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "PumpDrive 2",
+   "extraModels": [
+    "PumpDrive 2 Eco"
+   ],
+   "url": "https://www.manualslib.com/manual/3058414/Ksb-Pumpdrive-2.html"
+  },
+  {
+   "manualId": "1870024",
+   "slug": "Ksb-Pumpdrive",
+   "title": "PumpDrive Installation & operating manual",
+   "type": "Installation",
+   "pages": 162,
+   "productModel": "PumpDrive",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1870024/Ksb-Pumpdrive.html"
+  },
+  {
+   "manualId": "4322637",
+   "slug": "Ksb-Bluetooth-Gateway",
+   "title": "Quick Manual For Commissioning",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4322637/Ksb-Bluetooth-Gateway.html"
+  },
+  {
+   "manualId": "2059082",
+   "slug": "Ksb-Boatronic-Ms",
+   "title": "Quick Reference Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2059082/Ksb-Boatronic-Ms.html"
+  },
+  {
+   "manualId": "2028433",
+   "slug": "Ksb-Rc-Series",
+   "title": "RC Series instruction manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "RC Series",
+   "extraModels": [
+    "RC-00",
+    "RC-01",
+    "RC-1",
+    "RC-1.5",
+    "RC-2",
+    "RC-2R",
+    "RC-2RD",
+    "RC-3R",
+    "RC-4R",
+    "RCV Series",
+    "RCV-2R",
+    "RCV-2RD",
+    "RCV-3R",
+    "RCV-4R"
+   ],
+   "url": "https://www.manualslib.com/manual/2028433/Ksb-Rc-Series.html"
+  },
+  {
+   "manualId": "3450551",
+   "slug": "Ksb-Rdl",
+   "title": "RDL operating instructions manual",
+   "type": "User / Owner",
+   "pages": 39,
+   "productModel": "RDL",
+   "extraModels": [
+    "RDL 125-140",
+    "RDL 125-170",
+    "RDL 125-200",
+    "RDL 125-250",
+    "RDL 125-310",
+    "RDL 150-250",
+    "RDL 150-280",
+    "RDL 150-310",
+    "RDL 150-310A BOM EMP",
+    "RDL 150-340",
+    "RDL 150-400",
+    "RDL 150-430",
+    "RDL 150-500",
+    "RDL 200-280",
+    "RDL 200-340",
+    "RDL 200-400",
+    "RDL 200-500",
+    "RDL 200-620",
+    "RDL 250-280",
+    "RDL 250-340",
+    "RDL 250-400",
+    "RDL 250-500",
+    "RDL 250-620",
+    "RDL 300-280",
+    "RDL 300-340",
+    "RDL 300-400",
+    "RDL 300-500",
+    "RDL 300-620",
+    "RDL 350-500",
+    "RDL 350-620",
+    "RDL 400-390",
+    "RDL 400-440",
+    "RDL 400-480",
+    "RDL 400-540",
+    "RDL 400-620",
+    "RDL 400-850",
+    "RDL 500-510",
+    "RDL 500-640",
+    "RDL 500-700",
+    "RDL 500-790",
+    "RDL 500-890",
+    "RDL 600-540",
+    "RDL 600-620",
+    "RDL 600-710",
+    "RDL 600-830",
+    "RDL 700-590",
+    "RDL 700-710",
+    "RDL 700-820",
+    "RDL 800-740",
+    "RDL 800-840",
+    "RDL 800-970"
+   ],
+   "url": "https://www.manualslib.com/manual/3450551/Ksb-Rdl.html"
+  },
+  {
+   "manualId": "1599350",
+   "slug": "Ksb-Rdlo-Series",
+   "title": "RDLO Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "RDLO Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1599350/Ksb-Rdlo-Series.html"
+  },
+  {
+   "manualId": "3911684",
+   "slug": "Ksb-Rgs",
+   "title": "RGS operating manual",
+   "type": "User / Owner",
+   "pages": 94,
+   "productModel": "RGS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3911684/Ksb-Rgs.html"
+  },
+  {
+   "manualId": "3859993",
+   "slug": "Ksb-Rio-C-25-Series",
+   "title": "Rio C 25 Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "Rio C 25 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3859993/Ksb-Rio-C-25-Series.html"
+  },
+  {
+   "manualId": "1648303",
+   "slug": "Ksb-Rio-C-30-Series",
+   "title": "Rio C 30 Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "Rio C 30 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1648303/Ksb-Rio-C-30-Series.html"
+  },
+  {
+   "manualId": "1615253",
+   "slug": "Ksb-Rio-Eco-N-Series",
+   "title": "Rio-Eco N 25-100 Installation & operating manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Rio-Eco N 25-100",
+   "extraModels": [
+    "Rio-Eco N 25-100",
+    "Rio-Eco N 30-100",
+    "Rio-Eco N 65-120",
+    "Rio-Eco N 65-90",
+    "Rio-Eco N 80-120",
+    "Rio-Eco Therm N 30-120",
+    "Rio-Eco Therm N 32-120",
+    "Rio-Eco Therm N 40-100",
+    "Rio-Eco Therm N 40-120",
+    "Rio-Eco Therm N 40-140",
+    "Rio-Eco Therm N 50-140",
+    "Rio-Eco Therm N 50-70",
+    "Rio-Eco Therm N 50-90",
+    "Rio-Eco Therm N Series",
+    "Rio-Eco Z N Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1615253/Ksb-Rio-Eco-N-Series.html"
+  },
+  {
+   "manualId": "940806",
+   "slug": "Ksb-Rio-Therm-N",
+   "title": "Rio-Therm N operating manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "Rio-Therm N",
+   "extraModels": [
+    "Rio-Therm SL",
+    "Rio-Therm SLC"
+   ],
+   "url": "https://www.manualslib.com/manual/940806/Ksb-Rio-Therm-N.html"
+  },
+  {
+   "manualId": "1582659",
+   "slug": "Ksb-Rio-Therm-N-Series",
+   "title": "Rio-Therm N Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "Rio-Therm N Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1582659/Ksb-Rio-Therm-N-Series.html"
+  },
+  {
+   "manualId": "2781009",
+   "slug": "Ksb-Rio-Therm-N-Sl",
+   "title": "Rio-Therm N SL Installation & operating manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "Rio-Therm N SL",
+   "extraModels": [
+    "Rio-Therm N SLC"
+   ],
+   "url": "https://www.manualslib.com/manual/2781009/Ksb-Rio-Therm-N-Sl.html"
+  },
+  {
+   "manualId": "2062783",
+   "slug": "Ksb-Riotec-Series",
+   "title": "Riotec Series Manual",
+   "type": "Other",
+   "pages": 19,
+   "productModel": "Riotec Series",
+   "extraModels": [
+    "Riotec Z Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2062783/Ksb-Riotec-Series.html"
+  },
+  {
+   "manualId": "1890984",
+   "slug": "Ksb-Rotex-10-Series",
+   "title": "Rotex 10 Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "Rotex 10 Series",
+   "extraModels": [
+    "Rotex 10/100",
+    "Rotex 10/170",
+    "Rotex 20 Series",
+    "Rotex 20/100",
+    "Rotex 20/170",
+    "Rotex 70"
+   ],
+   "url": "https://www.manualslib.com/manual/1890984/Ksb-Rotex-10-Series.html"
+  },
+  {
+   "manualId": "3093167",
+   "slug": "Ksb-Rotex",
+   "title": "Rotex Installation & operating manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Rotex",
+   "extraModels": [
+    "Rotex 10/100D",
+    "Rotex 10/100E",
+    "Rotex 10/170D",
+    "Rotex 10/170E",
+    "Rotex 20/100D",
+    "Rotex 20/100E",
+    "Rotex 70D",
+    "Rotex 70E"
+   ],
+   "url": "https://www.manualslib.com/manual/3093167/Ksb-Rotex.html"
+  },
+  {
+   "manualId": "1618541",
+   "slug": "Ksb-Rph",
+   "title": "RPH Installation & operating manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "RPH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1618541/Ksb-Rph.html"
+  },
+  {
+   "manualId": "1637171",
+   "slug": "Ksb-Rph-Series",
+   "title": "RPH Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "RPH Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1637171/Ksb-Rph-Series.html"
+  },
+  {
+   "manualId": "3191650",
+   "slug": "Ksb-Rph",
+   "title": "RPH Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "RPH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3191650/Ksb-Rph.html"
+  },
+  {
+   "manualId": "2204004",
+   "slug": "Ksb-Rph-V",
+   "title": "RPH-V operating instructions manual",
+   "type": "User / Owner",
+   "pages": 23,
+   "productModel": "RPH-V",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2204004/Ksb-Rph-V.html"
+  },
+  {
+   "manualId": "1516167",
+   "slug": "Ksb-Rwcn",
+   "title": "RWCN Original manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "RWCN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1516167/Ksb-Rwcn.html"
+  },
+  {
+   "manualId": "3853017",
+   "slug": "Ksb-Rwcp",
+   "title": "RWCP Original manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "RWCP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3853017/Ksb-Rwcp.html"
+  },
+  {
+   "manualId": "1460203",
+   "slug": "Ksb-S-100d",
+   "title": "S 100D Installation & operating manual",
+   "type": "Installation",
+   "pages": 42,
+   "productModel": "S 100D",
+   "extraModels": [
+    "UPA 100C"
+   ],
+   "url": "https://www.manualslib.com/manual/1460203/Ksb-S-100d.html"
+  },
+  {
+   "manualId": "1788534",
+   "slug": "Ksb-Salinnova-Nova-Series",
+   "title": "SALINNOVA NOVA P180-SS Installation & operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "SALINNOVA NOVA P180-SS",
+   "extraModels": [
+    "SALINNOVA NOVA P180-SS"
+   ],
+   "url": "https://www.manualslib.com/manual/1788534/Ksb-Salinnova-Nova-Series.html"
+  },
+  {
+   "manualId": "2155501",
+   "slug": "Ksb-Secochem-Ex",
+   "title": "Secochem-Ex Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "Secochem-Ex",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2155501/Ksb-Secochem-Ex.html"
+  },
+  {
+   "manualId": "1350520",
+   "slug": "Ksb-Sewabloc-Series",
+   "title": "Sewabloc Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 57,
+   "productModel": "Sewabloc Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1350520/Ksb-Sewabloc-Series.html"
+  },
+  {
+   "manualId": "1543285",
+   "slug": "Ksb-Sewabloc-Series",
+   "title": "Sewabloc Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Sewabloc Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1543285/Ksb-Sewabloc-Series.html"
+  },
+  {
+   "manualId": "1335365",
+   "slug": "Ksb-Sewatec",
+   "title": "Sewatec Installation & operating manual",
+   "type": "Installation",
+   "pages": 70,
+   "productModel": "Sewatec",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1335365/Ksb-Sewatec.html"
+  },
+  {
+   "manualId": "1376133",
+   "slug": "Ksb-Sewatec",
+   "title": "Sewatec Installation & operating manual",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "Sewatec",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1376133/Ksb-Sewatec.html"
+  },
+  {
+   "manualId": "3031473",
+   "slug": "Ksb-Sewatec",
+   "title": "Sewatec Installation & operating manual",
+   "type": "Installation",
+   "pages": 94,
+   "productModel": "Sewatec",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3031473/Ksb-Sewatec.html"
+  },
+  {
+   "manualId": "1430622",
+   "slug": "Ksb-Sewatec-Series",
+   "title": "Sewatec Series operating manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "Sewatec Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1430622/Ksb-Sewatec-Series.html"
+  },
+  {
+   "manualId": "1658578",
+   "slug": "Ksb-Sicca-Gtc-Series",
+   "title": "SICCA GLS Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "SICCA GLS Series",
+   "extraModels": [
+    "SICCA GLS Series",
+    "SIKKA SCC Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1658578/Ksb-Sicca-Gtc-Series.html"
+  },
+  {
+   "manualId": "4634846",
+   "slug": "Ksb-Sisto-10",
+   "title": "SISTO-10 operating manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "SISTO-10",
+   "extraModels": [
+    "SISTO-10M",
+    "SISTO-10S",
+    "SISTO-16",
+    "SISTO-16DLU",
+    "SISTO-16HWA",
+    "SISTO-16RGA",
+    "SISTO-16RGAMaXX",
+    "SISTO-16S",
+    "SISTO-16TWA",
+    "SISTO-20",
+    "SISTO-20M",
+    "SISTO-B",
+    "SISTO-C",
+    "SISTO-KB",
+    "SISTO-KBS",
+    "SISTO-LAD",
+    "SISTO-LAP",
+    "SISTO-RSK",
+    "SISTO-RSKS"
+   ],
+   "url": "https://www.manualslib.com/manual/4634846/Ksb-Sisto-10.html"
+  },
+  {
+   "manualId": "4078291",
+   "slug": "Ksb-Sisto-Sk-I-310",
+   "title": "SISTO-SK-i.310 operating manual",
+   "type": "User / Owner",
+   "pages": 42,
+   "productModel": "SISTO-SK-i.310",
+   "extraModels": [
+    "SISTO-SK-i.320"
+   ],
+   "url": "https://www.manualslib.com/manual/4078291/Ksb-Sisto-Sk-I-310.html"
+  },
+  {
+   "manualId": "1934420",
+   "slug": "Ksb-Smartronic-Ma-R1310",
+   "title": "SMARTRONIC MA R1310 User Instructions",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "SMARTRONIC MA R1310",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1934420/Ksb-Smartronic-Ma-R1310.html"
+  },
+  {
+   "manualId": "2802791",
+   "slug": "Ksb-Sra",
+   "title": "SRA Installation & operating manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "SRA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2802791/Ksb-Sra.html"
+  },
+  {
+   "manualId": "1912791",
+   "slug": "Ksb-Staal-40-Akd",
+   "title": "STAAL 100 AKD operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "STAAL 100 AKD",
+   "extraModels": [
+    "STAAL 100 AKD",
+    "STAAL 100 AKDS",
+    "STAAL 40 AKDS"
+   ],
+   "url": "https://www.manualslib.com/manual/1912791/Ksb-Staal-40-Akd.html"
+  },
+  {
+   "manualId": "1475070",
+   "slug": "Ksb-Staal-40-Akds",
+   "title": "STAAL 100 AKD operating manual",
+   "type": "User / Owner",
+   "pages": 68,
+   "productModel": "STAAL 100 AKD",
+   "extraModels": [
+    "STAAL 100 AKD",
+    "STAAL 100 AKDS",
+    "STAAL 100 AKG-A",
+    "STAAL 100 AKGS-A",
+    "STAAL 100 AKKS",
+    "STAAL 100 AKR",
+    "STAAL 100 AKRS",
+    "STAAL 100 UGS",
+    "STAAL 100 VTS",
+    "STAAL 100 ZRS",
+    "STAAL 100 ZTS",
+    "STAAL 40 AKK",
+    "STAAL 40 AKKS"
+   ],
+   "url": "https://www.manualslib.com/manual/1475070/Ksb-Staal-40-Akds.html"
+  },
+  {
+   "manualId": "2925089",
+   "slug": "Ksb-Staal-40-Akd",
+   "title": "STAAL 100 AKD operating manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "STAAL 100 AKD",
+   "extraModels": [
+    "STAAL 100 AKD",
+    "STAAL 100 AKDS",
+    "STAAL 100 AKG-A",
+    "STAAL 100 AKGS-A",
+    "STAAL 100 AKK",
+    "STAAL 100 AKKS",
+    "STAAL 100 AKR",
+    "STAAL 100 AKRS",
+    "STAAL 100 UGS",
+    "STAAL 100 VTS",
+    "STAAL 100 ZRS",
+    "STAAL 100 ZTS",
+    "STAAL 40 AKDS",
+    "STAAL 40 AKK",
+    "STAAL 40 AKKS"
+   ],
+   "url": "https://www.manualslib.com/manual/2925089/Ksb-Staal-40-Akd.html"
+  },
+  {
+   "manualId": "1899707",
+   "slug": "Ksb-Magnochem-Series",
+   "title": "Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1899707/Ksb-Magnochem-Series.html"
+  },
+  {
+   "manualId": "2578001",
+   "slug": "Ksb-Rphb",
+   "title": "Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2578001/Ksb-Rphb.html"
+  },
+  {
+   "manualId": "2604411",
+   "slug": "Ksb-Cpkn-Series",
+   "title": "Supplementary Operating Manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "HPK Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2604411/Ksb-Cpkn-Series.html"
+  },
+  {
+   "manualId": "1594144",
+   "slug": "Ksb-Supreme-Series",
+   "title": "SuPreme Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "SuPreme Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1594144/Ksb-Supreme-Series.html"
+  },
+  {
+   "manualId": "2011203",
+   "slug": "Ksb-Surpress-Feu-Sfe-3",
+   "title": "Surpress Feu SFE.3 Installation & operating manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Surpress Feu SFE.3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2011203/Ksb-Surpress-Feu-Sfe-3.html"
+  },
+  {
+   "manualId": "2513755",
+   "slug": "Ksb-Trialine",
+   "title": "Trialine Installation & operating manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Trialine",
+   "extraModels": [
+    "Trialine Z"
+   ],
+   "url": "https://www.manualslib.com/manual/2513755/Ksb-Trialine.html"
+  },
+  {
+   "manualId": "1553995",
+   "slug": "Ksb-Triodis-150",
+   "title": "TRIODIS 150 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "TRIODIS 150",
+   "extraModels": [
+    "TRIODIS 300",
+    "TRIODIS 600",
+    "TRIODIS 900",
+    "TRIODIS MT 150",
+    "TRIODIS MT 300",
+    "TRIODIS MT 600",
+    "TRIODIS MT 900",
+    "TRIODIS TBT 150",
+    "TRIODIS TBT 300",
+    "TRIODIS TBT 600",
+    "TRIODIS TBT 900"
+   ],
+   "url": "https://www.manualslib.com/manual/1553995/Ksb-Triodis-150.html"
+  },
+  {
+   "manualId": "1468822",
+   "slug": "Ksb-Upa",
+   "title": "UPA Installation & operating manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "UPA",
+   "extraModels": [
+    "BSX",
+    "UPA 250C",
+    "UPA 300",
+    "UPA 350",
+    "UPA series",
+    "UPZ"
+   ],
+   "url": "https://www.manualslib.com/manual/1468822/Ksb-Upa.html"
+  },
+  {
+   "manualId": "2109900",
+   "slug": "Ksb-Upa",
+   "title": "UPA Installation & operating manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "UPA",
+   "extraModels": [
+    "BSX",
+    "UPZ"
+   ],
+   "url": "https://www.manualslib.com/manual/2109900/Ksb-Upa.html"
+  },
+  {
+   "manualId": "2955131",
+   "slug": "Ksb-Upa",
+   "title": "UPA Installation & operating manual",
+   "type": "Installation",
+   "pages": 98,
+   "productModel": "UPA",
+   "extraModels": [
+    "UPA S"
+   ],
+   "url": "https://www.manualslib.com/manual/2955131/Ksb-Upa.html"
+  },
+  {
+   "manualId": "1657770",
+   "slug": "Ksb-Upachrom-Cc",
+   "title": "UPAchrom CC Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "UPAchrom CC",
+   "extraModels": [
+    "UPAchrom CN",
+    "UPAchrom Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1657770/Ksb-Upachrom-Cc.html"
+  },
+  {
+   "manualId": "3948378",
+   "slug": "Ksb-Vf-15-B",
+   "title": "VF 15 B Installation & operating manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "VF 15 B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3948378/Ksb-Vf-15-B.html"
+  },
+  {
+   "manualId": "1589669",
+   "slug": "Ksb-Vitacast",
+   "title": "Vitacast Installation & operating manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "Vitacast",
+   "extraModels": [
+    "Vitacast Bloc"
+   ],
+   "url": "https://www.manualslib.com/manual/1589669/Ksb-Vitacast.html"
+  },
+  {
+   "manualId": "1550178",
+   "slug": "Ksb-Vitachrom",
+   "title": "Vitachrom Installation & operating manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "Vitachrom",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1550178/Ksb-Vitachrom.html"
+  },
+  {
+   "manualId": "1748187",
+   "slug": "Ksb-Vitalobe",
+   "title": "Vitalobe Installation & operating manual",
+   "type": "Installation",
+   "pages": 116,
+   "productModel": "Vitalobe",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1748187/Ksb-Vitalobe.html"
+  },
+  {
+   "manualId": "1482209",
+   "slug": "Ksb-Vitaprime",
+   "title": "Vitaprime Installation & operating manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "Vitaprime",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1482209/Ksb-Vitaprime.html"
+  },
+  {
+   "manualId": "1944890",
+   "slug": "Ksb-Vitastage-Series",
+   "title": "Vitastage 10/3/75 2 B T Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Vitastage 10/3/75 2 B T",
+   "extraModels": [
+    "Vitastage 10/3/75 2 B T"
+   ],
+   "url": "https://www.manualslib.com/manual/1944890/Ksb-Vitastage-Series.html"
+  },
+  {
+   "manualId": "1593045",
+   "slug": "Ksb-Vitastage",
+   "title": "Vitastage Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Vitastage",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1593045/Ksb-Vitastage.html"
+  },
+  {
+   "manualId": "2832238",
+   "slug": "Ksb-Wkln",
+   "title": "WKLn Installation & operating manual",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "WKLn",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2832238/Ksb-Wkln.html"
+  },
+  {
+   "manualId": "1271350",
+   "slug": "Ksb-Wkt",
+   "title": "WKT operating instructions manual",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": "WKT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1271350/Ksb-Wkt.html"
+  },
+  {
+   "manualId": "2377816",
+   "slug": "Ksb-Wktr",
+   "title": "WKTR Installation & operating manual",
+   "type": "Installation",
+   "pages": 78,
+   "productModel": "WKTR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2377816/Ksb-Wktr.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4426890",
+   "slug": "ksb-kwp-centrifugal-pump-user-manual",
+   "title": "KSB KWP Centrifugal Pump - User Manual"
+  }
+ ],
+ "techDirectIds": [
+  "ksb"
+ ]
+}

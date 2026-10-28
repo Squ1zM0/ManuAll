@@ -1,0 +1,54 @@
+{
+ "brand": "HTPG",
+ "brandSlug": "htpg",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/htpg/"
+ ],
+ "slugUsed": "htpg",
+ "capturedAt": "2026-10-28T07:26:47.811048+00:00",
+ "typePages": [
+  {
+   "path": "/brand/htpg/air-conditioner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/htpg/freezer.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4623766",
+   "slug": "Htpg-A2l",
+   "title": "A2L Installation & operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "A2L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4623766/Htpg-A2l.html"
+  },
+  {
+   "manualId": "4615145",
+   "slug": "Htpg-Econet-Enabled-Unit-Coolers",
+   "title": "EcoNet Enabled Unit Coolers Installation and operations manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "EcoNet Enabled Unit Coolers",
+   "extraModels": [
+    "EcoNet Enabled Unit Coolers"
+   ],
+   "url": "https://www.manualslib.com/manual/4615145/Htpg-Econet-Enabled-Unit-Coolers.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "htpg"
+ ]
+}

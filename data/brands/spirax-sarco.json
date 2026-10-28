@@ -1,0 +1,4100 @@
+{
+ "brand": "Spirax Sarco",
+ "brandSlug": "spirax-sarco",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/spirax-sarco/"
+ ],
+ "slugUsed": "spirax-sarco",
+ "capturedAt": "2026-10-28T09:23:13.768754+00:00",
+ "typePages": [
+  {
+   "path": "/brand/spirax-sarco/plumbing-product.html",
+   "manuals": 63,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/switch.html",
+   "manuals": 26,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/3d-glasses.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/accessories.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/amplifier.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/auto-purgers.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/cables-and-connectors.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/control-panel.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/control-systems.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/control-unit.html",
+   "manuals": 330,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/controller.html",
+   "manuals": 187,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/dc-drives.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/desktop.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/dryer.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/fan.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/heat-pump.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/heating-system.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/humidifier.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/industrial-electrical.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/industrial-equipment.html",
+   "manuals": 112,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/iron.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/light-fixture.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/lubrication-systems.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/measuring-instruments.html",
+   "manuals": 62,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/media-converter.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/monitor.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/other.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/receiver.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/recording-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/service-equipment.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/temperature-controller.html",
+   "manuals": 22,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/timer.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/tools.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/transducer.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/transmitter.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/valve-positioners.html",
+   "manuals": 66,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/water-filtration-systems.html",
+   "manuals": 42,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/water-heater.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/water-pump.html",
+   "manuals": 22,
+   "status": 200
+  },
+  {
+   "path": "/brand/spirax-sarco/water-system.html",
+   "manuals": 3,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2872843",
+   "slug": "Spirax-Sarco-Hm-Series",
+   "title": "0722195 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "0722195",
+   "extraModels": [
+    "0722195",
+    "0722395",
+    "0726090",
+    "HM00/6",
+    "HM00/8",
+    "HM003/6",
+    "HM003/7",
+    "HM003/8",
+    "HM10/10",
+    "HM10/7",
+    "HM10/8",
+    "HM103/10",
+    "HM103/7",
+    "HM103/8",
+    "HM12/10",
+    "HM12/12",
+    "HM12/7",
+    "HM123/10",
+    "HM123/12",
+    "HM123/7",
+    "HM34/10",
+    "HM34/12",
+    "HM34/4",
+    "HM34/5",
+    "HM34/6",
+    "HM34/7",
+    "HM34/8"
+   ],
+   "url": "https://www.manualslib.com/manual/2872843/Spirax-Sarco-Hm-Series.html"
+  },
+  {
+   "manualId": "4032158",
+   "slug": "Spirax-Sarco-12",
+   "title": "12 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "12",
+   "extraModels": [
+    "12SG",
+    "14HP"
+   ],
+   "url": "https://www.manualslib.com/manual/4032158/Spirax-Sarco-12.html"
+  },
+  {
+   "manualId": "1589080",
+   "slug": "Spirax-Sarco-1600v",
+   "title": "1600V user manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "1600V",
+   "extraModels": [
+    "1800V"
+   ],
+   "url": "https://www.manualslib.com/manual/1589080/Spirax-Sarco-1600v.html"
+  },
+  {
+   "manualId": "4026917",
+   "slug": "Spirax-Sarco-200-Series",
+   "title": "200 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "200 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4026917/Spirax-Sarco-200-Series.html"
+  },
+  {
+   "manualId": "1380283",
+   "slug": "Spirax-Sarco-211",
+   "title": "211 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "211",
+   "extraModels": [
+    "212",
+    "213",
+    "215",
+    "221",
+    "222",
+    "223",
+    "225",
+    "226"
+   ],
+   "url": "https://www.manualslib.com/manual/1380283/Spirax-Sarco-211.html"
+  },
+  {
+   "manualId": "3847516",
+   "slug": "Spirax-Sarco-216",
+   "title": "216 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "216",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3847516/Spirax-Sarco-216.html"
+  },
+  {
+   "manualId": "1572369",
+   "slug": "Spirax-Sarco-2200-Series",
+   "title": "2200 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "2200 Series",
+   "extraModels": [
+    "2202 A",
+    "2202 B",
+    "2206 A",
+    "2206 B",
+    "2207 A",
+    "2207 B",
+    "2207 C"
+   ],
+   "url": "https://www.manualslib.com/manual/1572369/Spirax-Sarco-2200-Series.html"
+  },
+  {
+   "manualId": "3350252",
+   "slug": "Spirax-Sarco-25bp",
+   "title": "25BP Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "25BP",
+   "extraModels": [
+    "25P-BP",
+    "25T-BP",
+    "26BP",
+    "26P-BP",
+    "26T-BP"
+   ],
+   "url": "https://www.manualslib.com/manual/3350252/Spirax-Sarco-25bp.html"
+  },
+  {
+   "manualId": "3349307",
+   "slug": "Spirax-Sarco-25e",
+   "title": "25E Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "25E",
+   "extraModels": [
+    "26E"
+   ],
+   "url": "https://www.manualslib.com/manual/3349307/Spirax-Sarco-25e.html"
+  },
+  {
+   "manualId": "1512010",
+   "slug": "Spirax-Sarco-25p",
+   "title": "25P Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "25P",
+   "extraModels": [
+    "25PA"
+   ],
+   "url": "https://www.manualslib.com/manual/1512010/Spirax-Sarco-25p.html"
+  },
+  {
+   "manualId": "1882212",
+   "slug": "Spirax-Sarco-25p",
+   "title": "25P Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 33,
+   "productModel": "25P",
+   "extraModels": [
+    "25PSS"
+   ],
+   "url": "https://www.manualslib.com/manual/1882212/Spirax-Sarco-25p.html"
+  },
+  {
+   "manualId": "4184012",
+   "slug": "Spirax-Sarco-25pt",
+   "title": "25PE Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "25PE",
+   "extraModels": [
+    "25PE",
+    "25PTE",
+    "25TE",
+    "26PE",
+    "26PT",
+    "26PTE",
+    "26TE"
+   ],
+   "url": "https://www.manualslib.com/manual/4184012/Spirax-Sarco-25pt.html"
+  },
+  {
+   "manualId": "1520522",
+   "slug": "Spirax-Sarco-25t",
+   "title": "25T Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "25T",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1520522/Spirax-Sarco-25t.html"
+  },
+  {
+   "manualId": "2353594",
+   "slug": "Spirax-Sarco-25t",
+   "title": "25T Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "25T",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2353594/Spirax-Sarco-25t.html"
+  },
+  {
+   "manualId": "2341330",
+   "slug": "Spirax-Sarco-2000-Series",
+   "title": "3000 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "3000 Series",
+   "extraModels": [
+    "3000 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2341330/Spirax-Sarco-2000-Series.html"
+  },
+  {
+   "manualId": "2419386",
+   "slug": "Spirax-Sarco-3000-Series",
+   "title": "3000 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "3000 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2419386/Spirax-Sarco-3000-Series.html"
+  },
+  {
+   "manualId": "1567753",
+   "slug": "Spirax-Sarco-37d",
+   "title": "37D Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "37D",
+   "extraModels": [
+    "37DE"
+   ],
+   "url": "https://www.manualslib.com/manual/1567753/Spirax-Sarco-37d.html"
+  },
+  {
+   "manualId": "1572609",
+   "slug": "Spirax-Sarco-556",
+   "title": "556 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "556",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1572609/Spirax-Sarco-556.html"
+  },
+  {
+   "manualId": "1552778",
+   "slug": "Spirax-Sarco-58",
+   "title": "58 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "58",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1552778/Spirax-Sarco-58.html"
+  },
+  {
+   "manualId": "1602078",
+   "slug": "Spirax-Sarco-5800-Series",
+   "title": "5800 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "5800 Series",
+   "extraModels": [
+    "5800Z",
+    "9800 Series",
+    "9800Z"
+   ],
+   "url": "https://www.manualslib.com/manual/1602078/Spirax-Sarco-5800-Series.html"
+  },
+  {
+   "manualId": "3053930",
+   "slug": "Spirax-Sarco-5953-Series",
+   "title": "595-150 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "595-150",
+   "extraModels": [
+    "595-150",
+    "595-250",
+    "5954 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3053930/Spirax-Sarco-5953-Series.html"
+  },
+  {
+   "manualId": "1605666",
+   "slug": "Spirax-Sarco-600-Series",
+   "title": "600 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "600 Series",
+   "extraModels": [
+    "621",
+    "624",
+    "626",
+    "921",
+    "922",
+    "923",
+    "925",
+    "926"
+   ],
+   "url": "https://www.manualslib.com/manual/1605666/Spirax-Sarco-600-Series.html"
+  },
+  {
+   "manualId": "2638811",
+   "slug": "Spirax-Sarco-600-Series",
+   "title": "600 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 31,
+   "productModel": "600 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2638811/Spirax-Sarco-600-Series.html"
+  },
+  {
+   "manualId": "3857673",
+   "slug": "Spirax-Sarco-622",
+   "title": "622 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "622",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857673/Spirax-Sarco-622.html"
+  },
+  {
+   "manualId": "3857674",
+   "slug": "Spirax-Sarco-623",
+   "title": "623 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "623",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857674/Spirax-Sarco-623.html"
+  },
+  {
+   "manualId": "3857672",
+   "slug": "Spirax-Sarco-900-Series",
+   "title": "900 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "900 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857672/Spirax-Sarco-900-Series.html"
+  },
+  {
+   "manualId": "1588305",
+   "slug": "Spirax-Sarco-Abv21i",
+   "title": "ABV21i Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "ABV21i",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1588305/Spirax-Sarco-Abv21i.html"
+  },
+  {
+   "manualId": "3856560",
+   "slug": "Spirax-Sarco-Abv40i",
+   "title": "ABV40i Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "ABV40i",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3856560/Spirax-Sarco-Abv40i.html"
+  },
+  {
+   "manualId": "1559188",
+   "slug": "Spirax-Sarco-Ae14",
+   "title": "AE14 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "AE14",
+   "extraModels": [
+    "AE14E",
+    "AE14ESV",
+    "AE14S",
+    "AE14SV"
+   ],
+   "url": "https://www.manualslib.com/manual/1559188/Spirax-Sarco-Ae14.html"
+  },
+  {
+   "manualId": "1990894",
+   "slug": "Spirax-Sarco-Ael3-Series",
+   "title": "AEL3 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "AEL3 Series",
+   "extraModels": [
+    "AEL3X"
+   ],
+   "url": "https://www.manualslib.com/manual/1990894/Spirax-Sarco-Ael3-Series.html"
+  },
+  {
+   "manualId": "3872224",
+   "slug": "Spirax-Sarco-Ael3e",
+   "title": "AEL3E Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "AEL3E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3872224/Spirax-Sarco-Ael3e.html"
+  },
+  {
+   "manualId": "3872223",
+   "slug": "Spirax-Sarco-Ael3r",
+   "title": "AEL3R Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "AEL3R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3872223/Spirax-Sarco-Ael3r.html"
+  },
+  {
+   "manualId": "1835672",
+   "slug": "Spirax-Sarco-Ael5-Series",
+   "title": "AEL5 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "AEL5 Series",
+   "extraModels": [
+    "AEL51 Series",
+    "AEL51211",
+    "AEL51212",
+    "AEL51213",
+    "AEL51214",
+    "AEL52 Series",
+    "AEL52211",
+    "AEL52212",
+    "AEL52213",
+    "AEL52214",
+    "AEL53 Series",
+    "AEL53211",
+    "AEL53212",
+    "AEL53213",
+    "AEL53214",
+    "AEL54 Series",
+    "AEL54212",
+    "AEL54213",
+    "AEL54214",
+    "AEL55 Series",
+    "AEL55311",
+    "AEL55312",
+    "AEL55313",
+    "AEL55314",
+    "AEL56 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1835672/Spirax-Sarco-Ael5-Series.html"
+  },
+  {
+   "manualId": "3866183",
+   "slug": "Spirax-Sarco-Ael54211",
+   "title": "AEL54211 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "AEL54211",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3866183/Spirax-Sarco-Ael54211.html"
+  },
+  {
+   "manualId": "2972530",
+   "slug": "Spirax-Sarco-Ael7-Series",
+   "title": "AEL7 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "AEL7 Series",
+   "extraModels": [
+    "AEL71 Series",
+    "AEL72 Series",
+    "AEL73 Series",
+    "AEL74 Series",
+    "AEL75 Series",
+    "AEL76 Series",
+    "AEL77 Series",
+    "AEL78 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2972530/Spirax-Sarco-Ael7-Series.html"
+  },
+  {
+   "manualId": "3000558",
+   "slug": "Spirax-Sarco-Ael7t",
+   "title": "AEL7T Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "AEL7T",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3000558/Spirax-Sarco-Ael7t.html"
+  },
+  {
+   "manualId": "3349115",
+   "slug": "Spirax-Sarco-Ael8-Series",
+   "title": "AEL8 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 45,
+   "productModel": "AEL8 Series",
+   "extraModels": [
+    "AEL82",
+    "AEL83",
+    "AEL84",
+    "AEL85",
+    "AEL86",
+    "AEL87"
+   ],
+   "url": "https://www.manualslib.com/manual/3349115/Spirax-Sarco-Ael8-Series.html"
+  },
+  {
+   "manualId": "3330432",
+   "slug": "Spirax-Sarco-Ael8-Series",
+   "title": "AEL8 Series quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "AEL8 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3330432/Spirax-Sarco-Ael8-Series.html"
+  },
+  {
+   "manualId": "1520487",
+   "slug": "Spirax-Sarco-Apt10-2",
+   "title": "APT10-2 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "APT10-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1520487/Spirax-Sarco-Apt10-2.html"
+  },
+  {
+   "manualId": "1552723",
+   "slug": "Spirax-Sarco-Apt14",
+   "title": "APT14 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "APT14",
+   "extraModels": [
+    "APT14HC",
+    "APT14SHC"
+   ],
+   "url": "https://www.manualslib.com/manual/1552723/Spirax-Sarco-Apt14.html"
+  },
+  {
+   "manualId": "1588011",
+   "slug": "Spirax-Sarco-Avm7",
+   "title": "AVM7 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "AVM7",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1588011/Spirax-Sarco-Avm7.html"
+  },
+  {
+   "manualId": "3232582",
+   "slug": "Spirax-Sarco-Avm7",
+   "title": "AVM7 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "AVM7",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3232582/Spirax-Sarco-Avm7.html"
+  },
+  {
+   "manualId": "1596978",
+   "slug": "Spirax-Sarco-Avs32",
+   "title": "AVS32 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "AVS32",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1596978/Spirax-Sarco-Avs32.html"
+  },
+  {
+   "manualId": "2958896",
+   "slug": "Spirax-Sarco-B850-W",
+   "title": "B850-P quick start manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "B850-P",
+   "extraModels": [
+    "B850-P"
+   ],
+   "url": "https://www.manualslib.com/manual/2958896/Spirax-Sarco-B850-W.html"
+  },
+  {
+   "manualId": "2128387",
+   "slug": "Spirax-Sarco-B850-W-2",
+   "title": "B850-P-2 quick start manual",
+   "type": "Other",
+   "pages": 49,
+   "productModel": "B850-P-2",
+   "extraModels": [
+    "B850-P-2"
+   ],
+   "url": "https://www.manualslib.com/manual/2128387/Spirax-Sarco-B850-W-2.html"
+  },
+  {
+   "manualId": "1549450",
+   "slug": "Spirax-Sarco-Bc1100",
+   "title": "BC1100 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "BC1100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1549450/Spirax-Sarco-Bc1100.html"
+  },
+  {
+   "manualId": "901980",
+   "slug": "Spirax-Sarco-Bc3150",
+   "title": "BC3150 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 45,
+   "productModel": "BC3150",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/901980/Spirax-Sarco-Bc3150.html"
+  },
+  {
+   "manualId": "1232812",
+   "slug": "Spirax-Sarco-Bc3250",
+   "title": "BC3250 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 77,
+   "productModel": "BC3250",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1232812/Spirax-Sarco-Bc3250.html"
+  },
+  {
+   "manualId": "2304593",
+   "slug": "Spirax-Sarco-Beta-P",
+   "title": "Beta D Assembly, Installation, Adjustment",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Beta D",
+   "extraModels": [
+    "Beta D",
+    "Beta T",
+    "Beta V"
+   ],
+   "url": "https://www.manualslib.com/manual/2304593/Spirax-Sarco-Beta-P.html"
+  },
+  {
+   "manualId": "1462262",
+   "slug": "Spirax-Sarco-Bm-Series",
+   "title": "BM series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "BM series",
+   "extraModels": [
+    "BMF series",
+    "BMFRA  series",
+    "BMRA series",
+    "BX series",
+    "BXRA series",
+    "KA31 series",
+    "KA33 series",
+    "KA43 series",
+    "KA51 series",
+    "KA61 series",
+    "KA63 series",
+    "KB31 series",
+    "KB33 series",
+    "KB43 series",
+    "KB51 series",
+    "KC31 series",
+    "KC43 series",
+    "KC51 series",
+    "KC63 series",
+    "KX31 series",
+    "KX33 series",
+    "KX43 series",
+    "KX51 series",
+    "KY31 series",
+    "KY33 series",
+    "KY43 series",
+    "KY51 series",
+    "NS series",
+    "NSRA series",
+    "SB series",
+    "SBRA series"
+   ],
+   "url": "https://www.manualslib.com/manual/1462262/Spirax-Sarco-Bm-Series.html"
+  },
+  {
+   "manualId": "3056362",
+   "slug": "Spirax-Sarco-Bpm21l",
+   "title": "BPM21L Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "BPM21L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3056362/Spirax-Sarco-Bpm21l.html"
+  },
+  {
+   "manualId": "2154814",
+   "slug": "Spirax-Sarco-Bps32",
+   "title": "BPS32 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "BPS32",
+   "extraModels": [
+    "BPS32Y"
+   ],
+   "url": "https://www.manualslib.com/manual/2154814/Spirax-Sarco-Bps32.html"
+  },
+  {
+   "manualId": "3601633",
+   "slug": "Spirax-Sarco-Bpt13",
+   "title": "BPT13 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "BPT13",
+   "extraModels": [
+    "BPT13A",
+    "BPT13AX",
+    "BPT13S",
+    "BPT13SX",
+    "BPT13UA",
+    "BPT13UAX",
+    "BPT13US",
+    "BPT13USX"
+   ],
+   "url": "https://www.manualslib.com/manual/3601633/Spirax-Sarco-Bpt13.html"
+  },
+  {
+   "manualId": "3273061",
+   "slug": "Spirax-Sarco-Bsa3-Bd",
+   "title": "BSA3-BD Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "BSA3-BD",
+   "extraModels": [
+    "BSA6-BD"
+   ],
+   "url": "https://www.manualslib.com/manual/3273061/Spirax-Sarco-Bsa3-Bd.html"
+  },
+  {
+   "manualId": "1650423",
+   "slug": "Spirax-Sarco-Bsa3hp",
+   "title": "BSA3HP Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "BSA3HP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1650423/Spirax-Sarco-Bsa3hp.html"
+  },
+  {
+   "manualId": "1555309",
+   "slug": "Spirax-Sarco-Bsk1",
+   "title": "BSK1 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "BSK1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1555309/Spirax-Sarco-Bsk1.html"
+  },
+  {
+   "manualId": "903022",
+   "slug": "Spirax-Sarco-Bt1050",
+   "title": "BT1050 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 57,
+   "productModel": "BT1050",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/903022/Spirax-Sarco-Bt1050.html"
+  },
+  {
+   "manualId": "1271541",
+   "slug": "Spirax-Sarco-Bt1050",
+   "title": "BT1050 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 4,
+   "productModel": "BT1050",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1271541/Spirax-Sarco-Bt1050.html"
+  },
+  {
+   "manualId": "1621294",
+   "slug": "Spirax-Sarco-Bt6-B",
+   "title": "BT6-B Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "BT6-B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1621294/Spirax-Sarco-Bt6-B.html"
+  },
+  {
+   "manualId": "3067677",
+   "slug": "Spirax-Sarco-Btm7",
+   "title": "BTM7 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "BTM7",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3067677/Spirax-Sarco-Btm7.html"
+  },
+  {
+   "manualId": "3916025",
+   "slug": "Spirax-Sarco-Bts7",
+   "title": "BTS7 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "BTS7",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3916025/Spirax-Sarco-Bts7.html"
+  },
+  {
+   "manualId": "3916026",
+   "slug": "Spirax-Sarco-Bts7-1",
+   "title": "BTS7.1 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "BTS7.1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3916026/Spirax-Sarco-Bts7-1.html"
+  },
+  {
+   "manualId": "1537968",
+   "slug": "Spirax-Sarco-C-Series",
+   "title": "C Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "C Series",
+   "extraModels": [
+    "CE43"
+   ],
+   "url": "https://www.manualslib.com/manual/1537968/Spirax-Sarco-C-Series.html"
+  },
+  {
+   "manualId": "1599857",
+   "slug": "Spirax-Sarco-Ca44",
+   "title": "CA44 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "CA44",
+   "extraModels": [
+    "CA44-32",
+    "CA44S",
+    "CA44S-10",
+    "CA44S-14",
+    "CA44S-21",
+    "CA44S-32",
+    "CA44S-4.5",
+    "CA46-32",
+    "CA46S-10",
+    "CA46S-14",
+    "CA46S-21",
+    "CA46S-32",
+    "CA46S-4.5"
+   ],
+   "url": "https://www.manualslib.com/manual/1599857/Spirax-Sarco-Ca44.html"
+  },
+  {
+   "manualId": "3857340",
+   "slug": "Spirax-Sarco-Ca46",
+   "title": "CA46 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "CA46",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857340/Spirax-Sarco-Ca46.html"
+  },
+  {
+   "manualId": "3857339",
+   "slug": "Spirax-Sarco-Ca46s",
+   "title": "CA46S Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "CA46S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857339/Spirax-Sarco-Ca46s.html"
+  },
+  {
+   "manualId": "1595007",
+   "slug": "Spirax-Sarco-Cas14",
+   "title": "CAS14 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "CAS14",
+   "extraModels": [
+    "CAS14S"
+   ],
+   "url": "https://www.manualslib.com/manual/1595007/Spirax-Sarco-Cas14.html"
+  },
+  {
+   "manualId": "1616326",
+   "slug": "Spirax-Sarco-Colima-Flu-Series",
+   "title": "Colima FLU Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "Colima FLU Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1616326/Spirax-Sarco-Colima-Flu-Series.html"
+  },
+  {
+   "manualId": "3080668",
+   "slug": "Spirax-Sarco-Colima-Tor-Series",
+   "title": "Colima Tor A Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "Colima Tor A",
+   "extraModels": [
+    "Colima Tor A",
+    "Colima Tor B",
+    "Colima Tor Bistable",
+    "Colima Tor C",
+    "Colima Tor CD",
+    "Colima Tor FL",
+    "Colima Tor M",
+    "Colima Tor PC",
+    "Colima Tor PF",
+    "Colima Tor PP"
+   ],
+   "url": "https://www.manualslib.com/manual/3080668/Spirax-Sarco-Colima-Tor-Series.html"
+  },
+  {
+   "manualId": "3056660",
+   "slug": "Spirax-Sarco-Colima-Visco",
+   "title": "Colima Visco Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "Colima Visco",
+   "extraModels": [
+    "Colima Viscorol"
+   ],
+   "url": "https://www.manualslib.com/manual/3056660/Spirax-Sarco-Colima-Visco.html"
+  },
+  {
+   "manualId": "2304590",
+   "slug": "Spirax-Sarco-Colima-Visco",
+   "title": "Colima Visco Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "Colima Visco",
+   "extraModels": [
+    "Colima Viscorol"
+   ],
+   "url": "https://www.manualslib.com/manual/2304590/Spirax-Sarco-Colima-Visco.html"
+  },
+  {
+   "manualId": "2989583",
+   "slug": "Spirax-Sarco-Cp30",
+   "title": "CP30 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "CP30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2989583/Spirax-Sarco-Cp30.html"
+  },
+  {
+   "manualId": "1963447",
+   "slug": "Spirax-Sarco-Cp32",
+   "title": "CP32 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "CP32",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1963447/Spirax-Sarco-Cp32.html"
+  },
+  {
+   "manualId": "3036634",
+   "slug": "Spirax-Sarco-Cp42",
+   "title": "CP42 Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "CP42",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3036634/Spirax-Sarco-Cp42.html"
+  },
+  {
+   "manualId": "2154434",
+   "slug": "Spirax-Sarco-Cru-200-Series",
+   "title": "CRU 200 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "CRU 200 Series",
+   "extraModels": [
+    "CRU200-2D-CM33-CS",
+    "CRU200-2D-CM33-SS",
+    "CRU200-2D-CM34-CS",
+    "CRU200-2D-CM34-SS",
+    "CRU200-4D-CM101-CS",
+    "CRU200-4D-CM101-SS",
+    "CRU200-4D-CM102-CS",
+    "CRU200-4D-CM102-SS",
+    "CRU200-4D-CM103-CS",
+    "CRU200-4D-CM103-SS",
+    "CRU500-4D-CM101-SS",
+    "CRU500-4D-CM102-SS",
+    "CRU500-4D-CM103-SS",
+    "CRU500-5D-CM151-SS",
+    "CRU500-5D-CM152-SS"
+   ],
+   "url": "https://www.manualslib.com/manual/2154434/Spirax-Sarco-Cru-200-Series.html"
+  },
+  {
+   "manualId": "3878200",
+   "slug": "Spirax-Sarco-Cru-500-Series",
+   "title": "CRU 500 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "CRU 500 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878200/Spirax-Sarco-Cru-500-Series.html"
+  },
+  {
+   "manualId": "1744539",
+   "slug": "Spirax-Sarco-Csm-C",
+   "title": "CSM-C Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "CSM-C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1744539/Spirax-Sarco-Csm-C.html"
+  },
+  {
+   "manualId": "3786662",
+   "slug": "Spirax-Sarco-Csm-K",
+   "title": "CSM-K Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "CSM-K",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3786662/Spirax-Sarco-Csm-K.html"
+  },
+  {
+   "manualId": "1909794",
+   "slug": "Spirax-Sarco-Csm-K",
+   "title": "CSM-K Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "CSM-K",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1909794/Spirax-Sarco-Csm-K.html"
+  },
+  {
+   "manualId": "3666229",
+   "slug": "Spirax-Sarco-Csm-Pd500",
+   "title": "CSM-PD1000 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 37,
+   "productModel": "CSM-PD1000",
+   "extraModels": [
+    "CSM-PD1000",
+    "CSM-PD2000"
+   ],
+   "url": "https://www.manualslib.com/manual/3666229/Spirax-Sarco-Csm-Pd500.html"
+  },
+  {
+   "manualId": "3057211",
+   "slug": "Spirax-Sarco-Cvs10m",
+   "title": "CVS10M Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "CVS10M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3057211/Spirax-Sarco-Cvs10m.html"
+  },
+  {
+   "manualId": "1598515",
+   "slug": "Spirax-Sarco-Dcv1",
+   "title": "DCV1 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "DCV1",
+   "extraModels": [
+    "DCV3LT"
+   ],
+   "url": "https://www.manualslib.com/manual/1598515/Spirax-Sarco-Dcv1.html"
+  },
+  {
+   "manualId": "3857237",
+   "slug": "Spirax-Sarco-Dcv3",
+   "title": "DCV3 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "DCV3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857237/Spirax-Sarco-Dcv3.html"
+  },
+  {
+   "manualId": "1611305",
+   "slug": "Spirax-Sarco-Dcv4",
+   "title": "DCV4 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "DCV4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1611305/Spirax-Sarco-Dcv4.html"
+  },
+  {
+   "manualId": "3422162",
+   "slug": "Spirax-Sarco-Dcv41",
+   "title": "DCV41 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "DCV41",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3422162/Spirax-Sarco-Dcv41.html"
+  },
+  {
+   "manualId": "1559812",
+   "slug": "Spirax-Sarco-Dcv8",
+   "title": "DCV8 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "DCV8",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1559812/Spirax-Sarco-Dcv8.html"
+  },
+  {
+   "manualId": "1655871",
+   "slug": "Spirax-Sarco-Diva",
+   "title": "DIVA Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "DIVA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1655871/Spirax-Sarco-Diva.html"
+  },
+  {
+   "manualId": "1573616",
+   "slug": "Spirax-Sarco-Dlv7",
+   "title": "DLV7 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "DLV7",
+   "extraModels": [
+    "DLV71",
+    "DLV72",
+    "DLV73",
+    "DLV74",
+    "DLV75"
+   ],
+   "url": "https://www.manualslib.com/manual/1573616/Spirax-Sarco-Dlv7.html"
+  },
+  {
+   "manualId": "2992903",
+   "slug": "Spirax-Sarco-Dn15",
+   "title": "DN15 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "DN15",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2992903/Spirax-Sarco-Dn15.html"
+  },
+  {
+   "manualId": "3912642",
+   "slug": "Spirax-Sarco-Dn50",
+   "title": "DN50 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "DN50",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3912642/Spirax-Sarco-Dn50.html"
+  },
+  {
+   "manualId": "1615874",
+   "slug": "Spirax-Sarco-Dp143",
+   "title": "DP143 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "DP143",
+   "extraModels": [
+    "DP143G",
+    "DP143H",
+    "DP163G",
+    "DP163Y"
+   ],
+   "url": "https://www.manualslib.com/manual/1615874/Spirax-Sarco-Dp143.html"
+  },
+  {
+   "manualId": "3858238",
+   "slug": "Spirax-Sarco-Dp163",
+   "title": "DP163 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "DP163",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3858238/Spirax-Sarco-Dp163.html"
+  },
+  {
+   "manualId": "1552739",
+   "slug": "Spirax-Sarco-Dp17",
+   "title": "DP17 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 37,
+   "productModel": "DP17",
+   "extraModels": [
+    "DP17E",
+    "DP17G",
+    "DP17R",
+    "DP17Y"
+   ],
+   "url": "https://www.manualslib.com/manual/1552739/Spirax-Sarco-Dp17.html"
+  },
+  {
+   "manualId": "1241298",
+   "slug": "Spirax-Sarco-Dp27",
+   "title": "DP27 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 41,
+   "productModel": "DP27",
+   "extraModels": [
+    "DP27E",
+    "DP27R",
+    "DP27Y"
+   ],
+   "url": "https://www.manualslib.com/manual/1241298/Spirax-Sarco-Dp27.html"
+  },
+  {
+   "manualId": "3854738",
+   "slug": "Spirax-Sarco-Dp27g",
+   "title": "DP27G Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 37,
+   "productModel": "DP27G",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3854738/Spirax-Sarco-Dp27g.html"
+  },
+  {
+   "manualId": "3052056",
+   "slug": "Spirax-Sarco-Dp27s",
+   "title": "DP27S Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "DP27S",
+   "extraModels": [
+    "DP27SY"
+   ],
+   "url": "https://www.manualslib.com/manual/3052056/Spirax-Sarco-Dp27s.html"
+  },
+  {
+   "manualId": "1602921",
+   "slug": "Spirax-Sarco-Dp27t",
+   "title": "DP27T Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "DP27T",
+   "extraModels": [
+    "DP27TE"
+   ],
+   "url": "https://www.manualslib.com/manual/1602921/Spirax-Sarco-Dp27t.html"
+  },
+  {
+   "manualId": "3053043",
+   "slug": "Spirax-Sarco-Dt101f",
+   "title": "DT101F Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "DT101F",
+   "extraModels": [
+    "DT102F"
+   ],
+   "url": "https://www.manualslib.com/manual/3053043/Spirax-Sarco-Dt101f.html"
+  },
+  {
+   "manualId": "1627433",
+   "slug": "Spirax-Sarco-Dt300f",
+   "title": "DT300F Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "DT300F",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1627433/Spirax-Sarco-Dt300f.html"
+  },
+  {
+   "manualId": "1825184",
+   "slug": "Spirax-Sarco-Easiheat-Dhw",
+   "title": "EasiHeat DHW Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "EasiHeat DHW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1825184/Spirax-Sarco-Easiheat-Dhw.html"
+  },
+  {
+   "manualId": "1727569",
+   "slug": "Spirax-Sarco-Easiheat-Htg",
+   "title": "EasiHeat HTG Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 47,
+   "productModel": "EasiHeat HTG",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1727569/Spirax-Sarco-Easiheat-Htg.html"
+  },
+  {
+   "manualId": "1805022",
+   "slug": "Spirax-Sarco-Easiheat",
+   "title": "EasiHeat Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 49,
+   "productModel": "EasiHeat",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1805022/Spirax-Sarco-Easiheat.html"
+  },
+  {
+   "manualId": "1807181",
+   "slug": "Spirax-Sarco-Easiheat",
+   "title": "EasiHeat Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "EasiHeat",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1807181/Spirax-Sarco-Easiheat.html"
+  },
+  {
+   "manualId": "3334911",
+   "slug": "Spirax-Sarco-Easiheat",
+   "title": "EasiHeat Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "EasiHeat",
+   "extraModels": [
+    "EasiHeat Condensate Control System",
+    "EHDDC",
+    "EHDSC",
+    "EHHCC T10",
+    "EHHCC T6",
+    "EHHCC T8"
+   ],
+   "url": "https://www.manualslib.com/manual/3334911/Spirax-Sarco-Easiheat.html"
+  },
+  {
+   "manualId": "4189078",
+   "slug": "Spirax-Sarco-Easiheat-S-Steam-Control-System",
+   "title": "EasiHeat-S Steam Control System Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "EasiHeat-S Steam Control System",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4189078/Spirax-Sarco-Easiheat-S-Steam-Control-System.html"
+  },
+  {
+   "manualId": "4562700",
+   "slug": "Spirax-Sarco-El2270",
+   "title": "EL2270 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "EL2270",
+   "extraModels": [
+    "EL2271"
+   ],
+   "url": "https://www.manualslib.com/manual/4562700/Spirax-Sarco-El2270.html"
+  },
+  {
+   "manualId": "1270879",
+   "slug": "Spirax-Sarco-Ep5-Series",
+   "title": "EP5 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "EP5 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1270879/Spirax-Sarco-Ep5-Series.html"
+  },
+  {
+   "manualId": "1591490",
+   "slug": "Spirax-Sarco-Ep500",
+   "title": "EP500 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "EP500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1591490/Spirax-Sarco-Ep500.html"
+  },
+  {
+   "manualId": "2472287",
+   "slug": "Spirax-Sarco-Ep500",
+   "title": "EP500 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "EP500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2472287/Spirax-Sarco-Ep500.html"
+  },
+  {
+   "manualId": "2496129",
+   "slug": "Spirax-Sarco-Ep6",
+   "title": "EP6 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 41,
+   "productModel": "EP6",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2496129/Spirax-Sarco-Ep6.html"
+  },
+  {
+   "manualId": "2763782",
+   "slug": "Spirax-Sarco-Ep6",
+   "title": "EP6 quick start manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "EP6",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2763782/Spirax-Sarco-Ep6.html"
+  },
+  {
+   "manualId": "1516068",
+   "slug": "Spirax-Sarco-Flowin-2",
+   "title": "Essential Installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1516068/Spirax-Sarco-Flowin-2.html"
+  },
+  {
+   "manualId": "2612451",
+   "slug": "Spirax-Sarco-Fr-Series",
+   "title": "FR Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "FR Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2612451/Spirax-Sarco-Fr-Series.html"
+  },
+  {
+   "manualId": "3076528",
+   "slug": "Spirax-Sarco-Ft14",
+   "title": "FT 14 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "FT 14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3076528/Spirax-Sarco-Ft14.html"
+  },
+  {
+   "manualId": "3591173",
+   "slug": "Spirax-Sarco-Ft14-C",
+   "title": "FT 14 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "FT 14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3591173/Spirax-Sarco-Ft14-C.html"
+  },
+  {
+   "manualId": "1431579",
+   "slug": "Spirax-Sarco-Ft-14",
+   "title": "FT 14 Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "FT 14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1431579/Spirax-Sarco-Ft-14.html"
+  },
+  {
+   "manualId": "1639680",
+   "slug": "Spirax-Sarco-Ft43",
+   "title": "FT 43 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "FT 43 Series",
+   "extraModels": [
+    "FT44",
+    "FT46",
+    "FT47"
+   ],
+   "url": "https://www.manualslib.com/manual/1639680/Spirax-Sarco-Ft43.html"
+  },
+  {
+   "manualId": "2944384",
+   "slug": "Spirax-Sarco-Ft43",
+   "title": "FT 43 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "FT 43 Series",
+   "extraModels": [
+    "FT44"
+   ],
+   "url": "https://www.manualslib.com/manual/2944384/Spirax-Sarco-Ft43.html"
+  },
+  {
+   "manualId": "3169699",
+   "slug": "Spirax-Sarco-Ft44",
+   "title": "FT 43 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "FT 43 Series",
+   "extraModels": [
+    "FT 43 Series",
+    "FT46",
+    "FT47"
+   ],
+   "url": "https://www.manualslib.com/manual/3169699/Spirax-Sarco-Ft44.html"
+  },
+  {
+   "manualId": "1653642",
+   "slug": "Spirax-Sarco-Ft-Series",
+   "title": "FT Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 7,
+   "productModel": "FT Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1653642/Spirax-Sarco-Ft-Series.html"
+  },
+  {
+   "manualId": "1614703",
+   "slug": "Spirax-Sarco-Ft12",
+   "title": "FT12 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "FT12",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1614703/Spirax-Sarco-Ft12.html"
+  },
+  {
+   "manualId": "3941951",
+   "slug": "Spirax-Sarco-Ft14-10",
+   "title": "FT14-10 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "FT14-10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3941951/Spirax-Sarco-Ft14-10.html"
+  },
+  {
+   "manualId": "3941952",
+   "slug": "Spirax-Sarco-Ft14-14",
+   "title": "FT14-14 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "FT14-14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3941952/Spirax-Sarco-Ft14-14.html"
+  },
+  {
+   "manualId": "3941950",
+   "slug": "Spirax-Sarco-Ft14-4-5",
+   "title": "FT14-4.5 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "FT14-4.5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3941950/Spirax-Sarco-Ft14-4-5.html"
+  },
+  {
+   "manualId": "1607579",
+   "slug": "Spirax-Sarco-Ftc23",
+   "title": "FTC23 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "FTC23",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1607579/Spirax-Sarco-Ftc23.html"
+  },
+  {
+   "manualId": "3051835",
+   "slug": "Spirax-Sarco-Ftc32",
+   "title": "FTC32 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "FTC32",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3051835/Spirax-Sarco-Ftc32.html"
+  },
+  {
+   "manualId": "1615993",
+   "slug": "Spirax-Sarco-Ftc62",
+   "title": "FTC62 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 27,
+   "productModel": "FTC62",
+   "extraModels": [
+    "FTS62"
+   ],
+   "url": "https://www.manualslib.com/manual/1615993/Spirax-Sarco-Ftc62.html"
+  },
+  {
+   "manualId": "2957884",
+   "slug": "Spirax-Sarco-Ftc80",
+   "title": "FTC80 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "FTC80",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2957884/Spirax-Sarco-Ftc80.html"
+  },
+  {
+   "manualId": "2959794",
+   "slug": "Spirax-Sarco-Ftgs14",
+   "title": "FTGS14 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "FTGS14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2959794/Spirax-Sarco-Ftgs14.html"
+  },
+  {
+   "manualId": "2170676",
+   "slug": "Spirax-Sarco-Fts14",
+   "title": "FTS14 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "FTS14",
+   "extraModels": [
+    "FTS14-10",
+    "FTS14-14",
+    "FTS14-4.5"
+   ],
+   "url": "https://www.manualslib.com/manual/2170676/Spirax-Sarco-Fts14.html"
+  },
+  {
+   "manualId": "3854695",
+   "slug": "Spirax-Sarco-Fv12",
+   "title": "FV12 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "FV12",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3854695/Spirax-Sarco-Fv12.html"
+  },
+  {
+   "manualId": "1551699",
+   "slug": "Spirax-Sarco-Fv6",
+   "title": "FV15 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "FV15",
+   "extraModels": [
+    "FV15",
+    "FV18"
+   ],
+   "url": "https://www.manualslib.com/manual/1551699/Spirax-Sarco-Fv6.html"
+  },
+  {
+   "manualId": "3854694",
+   "slug": "Spirax-Sarco-Fv8",
+   "title": "FV8 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "FV8",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3854694/Spirax-Sarco-Fv8.html"
+  },
+  {
+   "manualId": "1667326",
+   "slug": "Spirax-Sarco-Gke-10",
+   "title": "GKE 10 Spare parts",
+   "type": "Parts & Wiring",
+   "pages": 17,
+   "productModel": "GKE 10",
+   "extraModels": [
+    "GKE 21"
+   ],
+   "url": "https://www.manualslib.com/manual/1667326/Spirax-Sarco-Gke-10.html"
+  },
+  {
+   "manualId": "1632226",
+   "slug": "Spirax-Sarco-Rj216z",
+   "title": "GXM16Z Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "GXM16Z",
+   "extraModels": [
+    "GXM16Z",
+    "GXMZ",
+    "RJ Series",
+    "RJ205N",
+    "RJ205Z"
+   ],
+   "url": "https://www.manualslib.com/manual/1632226/Spirax-Sarco-Rj216z.html"
+  },
+  {
+   "manualId": "3752722",
+   "slug": "Spirax-Sarco-Hiter-1000a-Series",
+   "title": "HITER 1000A Series Installation and maintenance manual",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "HITER 1000A Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3752722/Spirax-Sarco-Hiter-1000a-Series.html"
+  },
+  {
+   "manualId": "3443647",
+   "slug": "Spirax-Sarco-Hiter-45-Series",
+   "title": "Hiter 45 Series Installation and maintenance manual",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "Hiter 45 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3443647/Spirax-Sarco-Hiter-45-Series.html"
+  },
+  {
+   "manualId": "3445077",
+   "slug": "Spirax-Sarco-Hiter-85-Series",
+   "title": "Hiter 85 Series Installation and maintenance manual",
+   "type": "Service",
+   "pages": 15,
+   "productModel": "Hiter 85 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3445077/Spirax-Sarco-Hiter-85-Series.html"
+  },
+  {
+   "manualId": "3445300",
+   "slug": "Spirax-Sarco-Hiter-86-Series",
+   "title": "Hiter 86 Series Installation and maintenance manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "Hiter 86 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3445300/Spirax-Sarco-Hiter-86-Series.html"
+  },
+  {
+   "manualId": "1587948",
+   "slug": "Spirax-Sarco-Hl-17",
+   "title": "HL 17 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "HL 17",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1587948/Spirax-Sarco-Hl-17.html"
+  },
+  {
+   "manualId": "4384180",
+   "slug": "Spirax-Sarco-Type-130",
+   "title": "HL10 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "HL10",
+   "extraModels": [
+    "HL10"
+   ],
+   "url": "https://www.manualslib.com/manual/4384180/Spirax-Sarco-Type-130.html"
+  },
+  {
+   "manualId": "3908002",
+   "slug": "Spirax-Sarco-Hm00-7",
+   "title": "HM00/7 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "HM00/7",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3908002/Spirax-Sarco-Hm00-7.html"
+  },
+  {
+   "manualId": "3908001",
+   "slug": "Spirax-Sarco-Hm34-Series",
+   "title": "HM34 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "HM34 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3908001/Spirax-Sarco-Hm34-Series.html"
+  },
+  {
+   "manualId": "3058832",
+   "slug": "Spirax-Sarco-Hp45",
+   "title": "HP45 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "HP45",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3058832/Spirax-Sarco-Hp45.html"
+  },
+  {
+   "manualId": "2021342",
+   "slug": "Spirax-Sarco-Hp70-Series",
+   "title": "HP70 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "HP70 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2021342/Spirax-Sarco-Hp70-Series.html"
+  },
+  {
+   "manualId": "1552776",
+   "slug": "Spirax-Sarco-Hv3",
+   "title": "HV3 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "HV3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1552776/Spirax-Sarco-Hv3.html"
+  },
+  {
+   "manualId": "1621313",
+   "slug": "Spirax-Sarco-Itd32",
+   "title": "IBP21 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "IBP21",
+   "extraModels": [
+    "IBP21",
+    "IBP21S",
+    "IBP30",
+    "ISM21"
+   ],
+   "url": "https://www.manualslib.com/manual/1621313/Spirax-Sarco-Itd32.html"
+  },
+  {
+   "manualId": "3858542",
+   "slug": "Spirax-Sarco-Ift14",
+   "title": "IFT14 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "IFT14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3858542/Spirax-Sarco-Ift14.html"
+  },
+  {
+   "manualId": "3061994",
+   "slug": "Spirax-Sarco-Iftgs14",
+   "title": "IFTGS14 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "IFTGS14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3061994/Spirax-Sarco-Iftgs14.html"
+  },
+  {
+   "manualId": "3635196",
+   "slug": "Spirax-Sarco-Il1m",
+   "title": "IL1M Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "IL1M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3635196/Spirax-Sarco-Il1m.html"
+  },
+  {
+   "manualId": "2540899",
+   "slug": "Spirax-Sarco-Ilva20",
+   "title": "ILVA20 Essential Installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "ILVA20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2540899/Spirax-Sarco-Ilva20.html"
+  },
+  {
+   "manualId": "1587023",
+   "slug": "Spirax-Sarco-Ilva20",
+   "title": "ILVA20 Installation manual",
+   "type": "Installation",
+   "pages": 73,
+   "productModel": "ILVA20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1587023/Spirax-Sarco-Ilva20.html"
+  },
+  {
+   "manualId": "1691979",
+   "slug": "Spirax-Sarco-8200l",
+   "title": "Installation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1691979/Spirax-Sarco-8200l.html"
+  },
+  {
+   "manualId": "2135376",
+   "slug": "Spirax-Sarco-Pt1",
+   "title": "Installation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2135376/Spirax-Sarco-Pt1.html"
+  },
+  {
+   "manualId": "2170705",
+   "slug": "Spirax-Sarco-Adv-Series",
+   "title": "Installation and maintenance instructions",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2170705/Spirax-Sarco-Adv-Series.html"
+  },
+  {
+   "manualId": "2879674",
+   "slug": "Spirax-Sarco-Wls1",
+   "title": "Installation and maintenance instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2879674/Spirax-Sarco-Wls1.html"
+  },
+  {
+   "manualId": "3047679",
+   "slug": "Spirax-Sarco-Wav1",
+   "title": "Installation and maintenance instructions",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3047679/Spirax-Sarco-Wav1.html"
+  },
+  {
+   "manualId": "1588453",
+   "slug": "Spirax-Sarco-Ae36",
+   "title": "Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1588453/Spirax-Sarco-Ae36.html"
+  },
+  {
+   "manualId": "1599064",
+   "slug": "Spirax-Sarco-Cp10",
+   "title": "Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1599064/Spirax-Sarco-Cp10.html"
+  },
+  {
+   "manualId": "1610602",
+   "slug": "Spirax-Sarco-Ae50s",
+   "title": "Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1610602/Spirax-Sarco-Ae50s.html"
+  },
+  {
+   "manualId": "1622932",
+   "slug": "Spirax-Sarco-M15-Series",
+   "title": "Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1622932/Spirax-Sarco-M15-Series.html"
+  },
+  {
+   "manualId": "4501246",
+   "slug": "Spirax-Sarco-Vls-1935-FoodPlus",
+   "title": "Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4501246/Spirax-Sarco-Vls-1935-FoodPlus.html"
+  },
+  {
+   "manualId": "4603898",
+   "slug": "Spirax-Sarco-Gs-X1",
+   "title": "Installation and Wiring",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4603898/Spirax-Sarco-Gs-X1.html"
+  },
+  {
+   "manualId": "1567301",
+   "slug": "Spirax-Sarco-Ip2am",
+   "title": "IP2AM Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "IP2AM",
+   "extraModels": [
+    "IP2DM",
+    "IP2M"
+   ],
+   "url": "https://www.manualslib.com/manual/1567301/Spirax-Sarco-Ip2am.html"
+  },
+  {
+   "manualId": "2835955",
+   "slug": "Spirax-Sarco-Ipc6",
+   "title": "IPC6 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "IPC6",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2835955/Spirax-Sarco-Ipc6.html"
+  },
+  {
+   "manualId": "3842487",
+   "slug": "Spirax-Sarco-Isp5-Series",
+   "title": "ISP5 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "ISP5 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3842487/Spirax-Sarco-Isp5-Series.html"
+  },
+  {
+   "manualId": "2543656",
+   "slug": "Spirax-Sarco-Itv1030",
+   "title": "ITV1030 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "ITV1030",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2543656/Spirax-Sarco-Itv1030.html"
+  },
+  {
+   "manualId": "1643373",
+   "slug": "Spirax-Sarco-K-Series",
+   "title": "K Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "K Series",
+   "extraModels": [
+    "KE43B1",
+    "KE43B4",
+    "KE71B1",
+    "KE71B4",
+    "KE73B1",
+    "KE73B4",
+    "L Series",
+    "LE31B1",
+    "LE33B1",
+    "Spira-trol KE43",
+    "Spira-trol KE61",
+    "Spira-trol KE63",
+    "Spira-trol KE71",
+    "Spira-trol KE73",
+    "Spira-trol KEA41",
+    "Spira-trol KEA43",
+    "Spira-trol KEA61",
+    "Spira-trol KEA63",
+    "Spira-trol KEA71",
+    "Spira-trol KEA73",
+    "Spira-trol LE31",
+    "Spira-trol LE33",
+    "Spira-trol LEA31",
+    "Spira-trol LEA33"
+   ],
+   "url": "https://www.manualslib.com/manual/1643373/Spirax-Sarco-K-Series.html"
+  },
+  {
+   "manualId": "1550112",
+   "slug": "Spirax-Sarco-Lc1350",
+   "title": "LC1350 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 37,
+   "productModel": "LC1350",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1550112/Spirax-Sarco-Lc1350.html"
+  },
+  {
+   "manualId": "1270270",
+   "slug": "Spirax-Sarco-Lc2250",
+   "title": "LC2250 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 45,
+   "productModel": "LC2250",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1270270/Spirax-Sarco-Lc2250.html"
+  },
+  {
+   "manualId": "2036154",
+   "slug": "Spirax-Sarco-Lc2300",
+   "title": "LC2300 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "LC2300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2036154/Spirax-Sarco-Lc2300.html"
+  },
+  {
+   "manualId": "1549932",
+   "slug": "Spirax-Sarco-Lc2400",
+   "title": "LC2400 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "LC2400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1549932/Spirax-Sarco-Lc2400.html"
+  },
+  {
+   "manualId": "2121426",
+   "slug": "Spirax-Sarco-Lc2500",
+   "title": "LC2500 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "LC2500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2121426/Spirax-Sarco-Lc2500.html"
+  },
+  {
+   "manualId": "1216187",
+   "slug": "Spirax-Sarco-Lc2610",
+   "title": "LC2610 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 41,
+   "productModel": "LC2610",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1216187/Spirax-Sarco-Lc2610.html"
+  },
+  {
+   "manualId": "1578239",
+   "slug": "Spirax-Sarco-Lc2650",
+   "title": "LC2650 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 69,
+   "productModel": "LC2650",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1578239/Spirax-Sarco-Lc2650.html"
+  },
+  {
+   "manualId": "1575777",
+   "slug": "Spirax-Sarco-Lc3050",
+   "title": "LC3050 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 41,
+   "productModel": "LC3050",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1575777/Spirax-Sarco-Lc3050.html"
+  },
+  {
+   "manualId": "2119618",
+   "slug": "Spirax-Sarco-Lcr2250",
+   "title": "LCR2250 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "LCR2250",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2119618/Spirax-Sarco-Lcr2250.html"
+  },
+  {
+   "manualId": "2320641",
+   "slug": "Spirax-Sarco-Lcr2251",
+   "title": "LCR2251 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "LCR2251",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2320641/Spirax-Sarco-Lcr2251.html"
+  },
+  {
+   "manualId": "2192461",
+   "slug": "Spirax-Sarco-Lcs3050",
+   "title": "LCS3050 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "LCS3050",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2192461/Spirax-Sarco-Lcs3050.html"
+  },
+  {
+   "manualId": "2320645",
+   "slug": "Spirax-Sarco-Lcs3051",
+   "title": "LCS3051 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "LCS3051",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2320645/Spirax-Sarco-Lcs3051.html"
+  },
+  {
+   "manualId": "3855645",
+   "slug": "Spirax-Sarco-Lcv3",
+   "title": "LCV3 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "LCV3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3855645/Spirax-Sarco-Lcv3.html"
+  },
+  {
+   "manualId": "3855646",
+   "slug": "Spirax-Sarco-Lcv4",
+   "title": "LCV4 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "LCV4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3855646/Spirax-Sarco-Lcv4.html"
+  },
+  {
+   "manualId": "1573751",
+   "slug": "Spirax-Sarco-Lcv6",
+   "title": "LCV6 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "LCV6",
+   "extraModels": [
+    "LCV7"
+   ],
+   "url": "https://www.manualslib.com/manual/1573751/Spirax-Sarco-Lcv6.html"
+  },
+  {
+   "manualId": "2128994",
+   "slug": "Spirax-Sarco-Ld357bl-Series",
+   "title": "LD256 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "LD256",
+   "extraModels": [
+    "LD256",
+    "TT352"
+   ],
+   "url": "https://www.manualslib.com/manual/2128994/Spirax-Sarco-Ld357bl-Series.html"
+  },
+  {
+   "manualId": "2452625",
+   "slug": "Spirax-Sarco-Ld377b-Series",
+   "title": "LD276 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 33,
+   "productModel": "LD276",
+   "extraModels": [
+    "LD276",
+    "LD377BL Series",
+    "TT372"
+   ],
+   "url": "https://www.manualslib.com/manual/2452625/Spirax-Sarco-Ld377b-Series.html"
+  },
+  {
+   "manualId": "2413707",
+   "slug": "Spirax-Sarco-Ld377bl-Series",
+   "title": "LD377BL Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "LD377BL Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2413707/Spirax-Sarco-Ld377bl-Series.html"
+  },
+  {
+   "manualId": "2008114",
+   "slug": "Spirax-Sarco-Lp20",
+   "title": "LP20 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "LP20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2008114/Spirax-Sarco-Lp20.html"
+  },
+  {
+   "manualId": "1597228",
+   "slug": "Spirax-Sarco-Lp30",
+   "title": "LP30 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "LP30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1597228/Spirax-Sarco-Lp30.html"
+  },
+  {
+   "manualId": "3054263",
+   "slug": "Spirax-Sarco-Lp40",
+   "title": "LP40 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "LP40",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3054263/Spirax-Sarco-Lp40.html"
+  },
+  {
+   "manualId": "3020166",
+   "slug": "Spirax-Sarco-Lsb31",
+   "title": "LSB31 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "LSB31",
+   "extraModels": [
+    "LSB32",
+    "LSB33",
+    "LSB34",
+    "LSB71",
+    "LSB72",
+    "LSB73",
+    "LSB74"
+   ],
+   "url": "https://www.manualslib.com/manual/3020166/Spirax-Sarco-Lsb31.html"
+  },
+  {
+   "manualId": "2036152",
+   "slug": "Spirax-Sarco-Lt2010",
+   "title": "LT2010 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "LT2010",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2036152/Spirax-Sarco-Lt2010.html"
+  },
+  {
+   "manualId": "3252868",
+   "slug": "Spirax-Sarco-M10hi",
+   "title": "M10Hi Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "M10Hi",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3252868/Spirax-Sarco-M10hi.html"
+  },
+  {
+   "manualId": "1639494",
+   "slug": "Spirax-Sarco-M10hpi-Iso-Series",
+   "title": "M10HPi ISO Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "M10HPi ISO Series",
+   "extraModels": [
+    "M10HPi2 ISO",
+    "M10HPi3 ISO"
+   ],
+   "url": "https://www.manualslib.com/manual/1639494/Spirax-Sarco-M10hpi-Iso-Series.html"
+  },
+  {
+   "manualId": "1558001",
+   "slug": "Spirax-Sarco-M10s",
+   "title": "M10S Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "M10S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1558001/Spirax-Sarco-M10s.html"
+  },
+  {
+   "manualId": "1520644",
+   "slug": "Spirax-Sarco-M10si",
+   "title": "M10Si Automation Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "M10Si Automation",
+   "extraModels": [
+    "M10Vi"
+   ],
+   "url": "https://www.manualslib.com/manual/1520644/Spirax-Sarco-M10si.html"
+  },
+  {
+   "manualId": "1637757",
+   "slug": "Spirax-Sarco-M33-Iso-Series",
+   "title": "M33 ISO Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "M33 ISO Series",
+   "extraModels": [
+    "M33F ISO",
+    "M33F2 ISO",
+    "M33F3 ISO",
+    "M33S ISO",
+    "M33S2 ISO",
+    "M33S3 ISO",
+    "M33V ISO",
+    "M33V2 ISO",
+    "M33V3 ISO"
+   ],
+   "url": "https://www.manualslib.com/manual/1637757/Spirax-Sarco-M33-Iso-Series.html"
+  },
+  {
+   "manualId": "1667181",
+   "slug": "Spirax-Sarco-M80i-Iso",
+   "title": "M70i ISO Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "M70i ISO",
+   "extraModels": [
+    "M70i ISO"
+   ],
+   "url": "https://www.manualslib.com/manual/1667181/Spirax-Sarco-M80i-Iso.html"
+  },
+  {
+   "manualId": "1543624",
+   "slug": "Spirax-Sarco-M750",
+   "title": "M750 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 33,
+   "productModel": "M750",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1543624/Spirax-Sarco-M750.html"
+  },
+  {
+   "manualId": "1956053",
+   "slug": "Spirax-Sarco-M850-W-Series",
+   "title": "M850-P Series quick start manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "M850-P Series",
+   "extraModels": [
+    "M850-P Series",
+    "M850-W M850-P"
+   ],
+   "url": "https://www.manualslib.com/manual/1956053/Spirax-Sarco-M850-W-Series.html"
+  },
+  {
+   "manualId": "1610558",
+   "slug": "Spirax-Sarco-Ft-43-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1610558/Spirax-Sarco-Ft-43-Series.html"
+  },
+  {
+   "manualId": "1991009",
+   "slug": "Spirax-Sarco-Spirax-Monnier-Mp",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1991009/Spirax-Sarco-Spirax-Monnier-Mp.html"
+  },
+  {
+   "manualId": "3703420",
+   "slug": "Spirax-Sarco-Lcr2652",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3703420/Spirax-Sarco-Lcr2652.html"
+  },
+  {
+   "manualId": "2426717",
+   "slug": "Spirax-Sarco-Mdu100",
+   "title": "MDU100 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "MDU100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2426717/Spirax-Sarco-Mdu100.html"
+  },
+  {
+   "manualId": "2055512",
+   "slug": "Spirax-Sarco-Mfp14-Ppu",
+   "title": "MFP14-PPU Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "MFP14-PPU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2055512/Spirax-Sarco-Mfp14-Ppu.html"
+  },
+  {
+   "manualId": "3591177",
+   "slug": "Spirax-Sarco-Ml3m",
+   "title": "ML3M Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "ML3M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3591177/Spirax-Sarco-Ml3m.html"
+  },
+  {
+   "manualId": "3060048",
+   "slug": "Spirax-Sarco-Mpc1",
+   "title": "MPC1 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "MPC1",
+   "extraModels": [
+    "MPC2",
+    "MPC2A"
+   ],
+   "url": "https://www.manualslib.com/manual/3060048/Spirax-Sarco-Mpc1.html"
+  },
+  {
+   "manualId": "3377172",
+   "slug": "Spirax-Sarco-Mpc1",
+   "title": "MPC1 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "MPC1",
+   "extraModels": [
+    "MPC2",
+    "MPC2A"
+   ],
+   "url": "https://www.manualslib.com/manual/3377172/Spirax-Sarco-Mpc1.html"
+  },
+  {
+   "manualId": "1990148",
+   "slug": "Spirax-Sarco-Mpc2",
+   "title": "MPC2 Installation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": "MPC2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1990148/Spirax-Sarco-Mpc2.html"
+  },
+  {
+   "manualId": "1563235",
+   "slug": "Spirax-Sarco-Msc-125",
+   "title": "MSC-125 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "MSC-125",
+   "extraModels": [
+    "MSC-160"
+   ],
+   "url": "https://www.manualslib.com/manual/1563235/Spirax-Sarco-Msc-125.html"
+  },
+  {
+   "manualId": "1620740",
+   "slug": "Spirax-Sarco-Msc-P-Series",
+   "title": "MSC-N Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "MSC-N Series",
+   "extraModels": [
+    "MSC-N Series",
+    "MSC04-N",
+    "MSC04-P",
+    "MSC08-N",
+    "MSC08-P",
+    "MSC12-N",
+    "MSC12-P"
+   ],
+   "url": "https://www.manualslib.com/manual/1620740/Spirax-Sarco-Msc-P-Series.html"
+  },
+  {
+   "manualId": "1538740",
+   "slug": "Spirax-Sarco-Mtl10-Inline",
+   "title": "MTI10 Insertion Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 126,
+   "productModel": "MTI10 Insertion",
+   "extraModels": [
+    "MTI10 Insertion"
+   ],
+   "url": "https://www.manualslib.com/manual/1538740/Spirax-Sarco-Mtl10-Inline.html"
+  },
+  {
+   "manualId": "3117392",
+   "slug": "Spirax-Sarco-Mti10-Insertion",
+   "title": "MTI10 Insertion Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 132,
+   "productModel": "MTI10 Insertion",
+   "extraModels": [
+    "MTL10 Inline"
+   ],
+   "url": "https://www.manualslib.com/manual/3117392/Spirax-Sarco-Mti10-Insertion.html"
+  },
+  {
+   "manualId": "3634582",
+   "slug": "Spirax-Sarco-No-8",
+   "title": "No. 8 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "No. 8",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3634582/Spirax-Sarco-No-8.html"
+  },
+  {
+   "manualId": "1894086",
+   "slug": "Spirax-Sarco-Pa420",
+   "title": "PA420 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "PA420",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1894086/Spirax-Sarco-Pa420.html"
+  },
+  {
+   "manualId": "1605212",
+   "slug": "Spirax-Sarco-Pf5-Series",
+   "title": "PF5 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "PF5 Series",
+   "extraModels": [
+    "PF6 Series",
+    "PF60G",
+    "PF62G",
+    "PF64G"
+   ],
+   "url": "https://www.manualslib.com/manual/1605212/Spirax-Sarco-Pf5-Series.html"
+  },
+  {
+   "manualId": "3857642",
+   "slug": "Spirax-Sarco-Pf51g",
+   "title": "PF51G Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "PF51G",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857642/Spirax-Sarco-Pf51g.html"
+  },
+  {
+   "manualId": "3857643",
+   "slug": "Spirax-Sarco-Pf61g",
+   "title": "PF61G Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "PF61G",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857643/Spirax-Sarco-Pf61g.html"
+  },
+  {
+   "manualId": "3857644",
+   "slug": "Spirax-Sarco-Pf63g",
+   "title": "PF63G Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "PF63G",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857644/Spirax-Sarco-Pf63g.html"
+  },
+  {
+   "manualId": "2151075",
+   "slug": "Spirax-Sarco-Plc",
+   "title": "PLC Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "PLC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2151075/Spirax-Sarco-Plc.html"
+  },
+  {
+   "manualId": "2180464",
+   "slug": "Spirax-Sarco-Pm6",
+   "title": "PM6 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "PM6",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2180464/Spirax-Sarco-Pm6.html"
+  },
+  {
+   "manualId": "1581002",
+   "slug": "Spirax-Sarco-Pn-3000-Series",
+   "title": "PN 3000 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "PN 3000 Series",
+   "extraModels": [
+    "PN 3200",
+    "PN 3300",
+    "PN 3400",
+    "PN 3500",
+    "PN 3600",
+    "PN 4000 Series",
+    "PN 4200",
+    "PN 4300",
+    "PN 4300 H",
+    "PN 4400",
+    "PN 4400 H",
+    "PN 4500",
+    "PN 4500 H",
+    "PN 4600"
+   ],
+   "url": "https://www.manualslib.com/manual/1581002/Spirax-Sarco-Pn-3000-Series.html"
+  },
+  {
+   "manualId": "1312114",
+   "slug": "Spirax-Sarco-Pn9120",
+   "title": "PN9120 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "PN9120",
+   "extraModels": [
+    "PN9123",
+    "PN9125",
+    "PN9126",
+    "PN9220",
+    "PN9223",
+    "PN9226",
+    "PN9230",
+    "PN9233",
+    "PN9236",
+    "PN9320",
+    "PN9330",
+    "PN9336",
+    "PN9337",
+    "PN9483",
+    "PN9486"
+   ],
+   "url": "https://www.manualslib.com/manual/1312114/Spirax-Sarco-Pn9120.html"
+  },
+  {
+   "manualId": "2497750",
+   "slug": "Spirax-Sarco-Pp-5-Series",
+   "title": "PP 5 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "PP 5 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2497750/Spirax-Sarco-Pp-5-Series.html"
+  },
+  {
+   "manualId": "2561901",
+   "slug": "Spirax-Sarco-Pp5-Series",
+   "title": "PP 5 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "PP 5 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2561901/Spirax-Sarco-Pp5-Series.html"
+  },
+  {
+   "manualId": "2178834",
+   "slug": "Spirax-Sarco-Pv4",
+   "title": "PV4 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "PV4",
+   "extraModels": [
+    "PV6"
+   ],
+   "url": "https://www.manualslib.com/manual/2178834/Spirax-Sarco-Pv4.html"
+  },
+  {
+   "manualId": "2506721",
+   "slug": "Spirax-Sarco-Pp6",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2506721/Spirax-Sarco-Pp6.html"
+  },
+  {
+   "manualId": "2638516",
+   "slug": "Spirax-Sarco-R1c",
+   "title": "R1C Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "R1C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2638516/Spirax-Sarco-R1c.html"
+  },
+  {
+   "manualId": "3445301",
+   "slug": "Spirax-Sarco-Rc-Series",
+   "title": "RC Series Installation and maintenance manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "RC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3445301/Spirax-Sarco-Rc-Series.html"
+  },
+  {
+   "manualId": "3854316",
+   "slug": "Spirax-Sarco-Rediheat-Rh-120",
+   "title": "RediHeat RH-120 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "RediHeat RH-120",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3854316/Spirax-Sarco-Rediheat-Rh-120.html"
+  },
+  {
+   "manualId": "3854315",
+   "slug": "Spirax-Sarco-Rediheat-Rh-30",
+   "title": "RediHeat RH-30 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "RediHeat RH-30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3854315/Spirax-Sarco-Rediheat-Rh-30.html"
+  },
+  {
+   "manualId": "1543758",
+   "slug": "Spirax-Sarco-Rediheat-Rh-90",
+   "title": "RediHeat RH-90 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "RediHeat RH-90",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1543758/Spirax-Sarco-Rediheat-Rh-90.html"
+  },
+  {
+   "manualId": "1619504",
+   "slug": "Spirax-Sarco-Rim10-Series",
+   "title": "RIM10 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 93,
+   "productModel": "RIM10 Series",
+   "extraModels": [
+    "RIM10-600",
+    "RIM10-700",
+    "RIM10-900"
+   ],
+   "url": "https://www.manualslib.com/manual/1619504/Spirax-Sarco-Rim10-Series.html"
+  },
+  {
+   "manualId": "2889357",
+   "slug": "Spirax-Sarco-Rim20",
+   "title": "RIM20 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 133,
+   "productModel": "RIM20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2889357/Spirax-Sarco-Rim20.html"
+  },
+  {
+   "manualId": "2483824",
+   "slug": "Spirax-Sarco-Rsw",
+   "title": "RSO Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "RSO",
+   "extraModels": [
+    "RSO"
+   ],
+   "url": "https://www.manualslib.com/manual/2483824/Spirax-Sarco-Rsw.html"
+  },
+  {
+   "manualId": "1593112",
+   "slug": "Spirax-Sarco-S",
+   "title": "S Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "S",
+   "extraModels": [
+    "SF"
+   ],
+   "url": "https://www.manualslib.com/manual/1593112/Spirax-Sarco-S.html"
+  },
+  {
+   "manualId": "1581948",
+   "slug": "Spirax-Sarco-S1",
+   "title": "S1 Installation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": "S1",
+   "extraModels": [
+    "S2",
+    "S3"
+   ],
+   "url": "https://www.manualslib.com/manual/1581948/Spirax-Sarco-S1.html"
+  },
+  {
+   "manualId": "1598986",
+   "slug": "Spirax-Sarco-S1",
+   "title": "S1 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "S1",
+   "extraModels": [
+    "S12",
+    "S13",
+    "S2",
+    "S3",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "url": "https://www.manualslib.com/manual/1598986/Spirax-Sarco-S1.html"
+  },
+  {
+   "manualId": "1598989",
+   "slug": "Spirax-Sarco-S1",
+   "title": "S1 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "S1",
+   "extraModels": [
+    "S12",
+    "S13",
+    "S2",
+    "S3",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "url": "https://www.manualslib.com/manual/1598989/Spirax-Sarco-S1.html"
+  },
+  {
+   "manualId": "1630689",
+   "slug": "Spirax-Sarco-S1",
+   "title": "S1 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "S1",
+   "extraModels": [
+    "S12",
+    "S13",
+    "S2",
+    "S3",
+    "S5",
+    "S6",
+    "S7",
+    "S8"
+   ],
+   "url": "https://www.manualslib.com/manual/1630689/Spirax-Sarco-S1.html"
+  },
+  {
+   "manualId": "920457",
+   "slug": "Spirax-Sarco-Sa121",
+   "title": "SA121 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "SA121",
+   "extraModels": [
+    "SA1219",
+    "SA122",
+    "SA123",
+    "SA128"
+   ],
+   "url": "https://www.manualslib.com/manual/920457/Spirax-Sarco-Sa121.html"
+  },
+  {
+   "manualId": "920552",
+   "slug": "Spirax-Sarco-Sa121",
+   "title": "SA121 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "SA121",
+   "extraModels": [
+    "SA1219",
+    "SA122",
+    "SA123",
+    "SA128"
+   ],
+   "url": "https://www.manualslib.com/manual/920552/Spirax-Sarco-Sa121.html"
+  },
+  {
+   "manualId": "1612769",
+   "slug": "Spirax-Sarco-Safebloc-Dbb3",
+   "title": "SafeBloc DBB3 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "SafeBloc DBB3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1612769/Spirax-Sarco-Safebloc-Dbb3.html"
+  },
+  {
+   "manualId": "1621425",
+   "slug": "Spirax-Sarco-Sgc40",
+   "title": "SGC40 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "SGC40",
+   "extraModels": [
+    "SGS40"
+   ],
+   "url": "https://www.manualslib.com/manual/1621425/Spirax-Sarco-Sgc40.html"
+  },
+  {
+   "manualId": "2004124",
+   "slug": "Spirax-Sarco-Si-20",
+   "title": "SI 20 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "SI 20",
+   "extraModels": [
+    "SI 40",
+    "Type 40"
+   ],
+   "url": "https://www.manualslib.com/manual/2004124/Spirax-Sarco-Si-20.html"
+  },
+  {
+   "manualId": "3597742",
+   "slug": "Spirax-Sarco-Sp80",
+   "title": "SP100 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "SP100",
+   "extraModels": [
+    "SP100"
+   ],
+   "url": "https://www.manualslib.com/manual/3597742/Spirax-Sarco-Sp80.html"
+  },
+  {
+   "manualId": "1358986",
+   "slug": "Spirax-Sarco-Sp2",
+   "title": "SP2 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "SP2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1358986/Spirax-Sarco-Sp2.html"
+  },
+  {
+   "manualId": "2435777",
+   "slug": "Spirax-Sarco-Sp200",
+   "title": "SP200 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "SP200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2435777/Spirax-Sarco-Sp200.html"
+  },
+  {
+   "manualId": "1899769",
+   "slug": "Spirax-Sarco-Sp400",
+   "title": "SP400 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 45,
+   "productModel": "SP400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1899769/Spirax-Sarco-Sp400.html"
+  },
+  {
+   "manualId": "1213059",
+   "slug": "Spirax-Sarco-Sp500",
+   "title": "SP500 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 65,
+   "productModel": "SP500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1213059/Spirax-Sarco-Sp500.html"
+  },
+  {
+   "manualId": "3181778",
+   "slug": "Spirax-Sarco-Sp7-21",
+   "title": "SP7 quick start manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "SP7",
+   "extraModels": [
+    "SP7-20",
+    "SP7-22"
+   ],
+   "url": "https://www.manualslib.com/manual/3181778/Spirax-Sarco-Sp7-21.html"
+  },
+  {
+   "manualId": "2308669",
+   "slug": "Spirax-Sarco-Sp7-10",
+   "title": "SP7-10 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "SP7-10",
+   "extraModels": [
+    "SP7-11",
+    "SP7-12"
+   ],
+   "url": "https://www.manualslib.com/manual/2308669/Spirax-Sarco-Sp7-10.html"
+  },
+  {
+   "manualId": "3184906",
+   "slug": "Spirax-Sarco-Sp7-11",
+   "title": "SP7-10 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "SP7-10",
+   "extraModels": [
+    "SP7-10",
+    "SP7-12"
+   ],
+   "url": "https://www.manualslib.com/manual/3184906/Spirax-Sarco-Sp7-11.html"
+  },
+  {
+   "manualId": "2576640",
+   "slug": "Spirax-Sarco-Sp7-10",
+   "title": "SP7-10 quick start manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "SP7-10",
+   "extraModels": [
+    "SP7-11",
+    "SP7-12"
+   ],
+   "url": "https://www.manualslib.com/manual/2576640/Spirax-Sarco-Sp7-10.html"
+  },
+  {
+   "manualId": "2495431",
+   "slug": "Spirax-Sarco-Sp7-20",
+   "title": "SP7-20 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "SP7-20",
+   "extraModels": [
+    "SP7-21",
+    "SP7-22"
+   ],
+   "url": "https://www.manualslib.com/manual/2495431/Spirax-Sarco-Sp7-20.html"
+  },
+  {
+   "manualId": "2329167",
+   "slug": "Spirax-Sarco-Sp8-10",
+   "title": "SP8-10 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "SP8-10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2329167/Spirax-Sarco-Sp8-10.html"
+  },
+  {
+   "manualId": "4653513",
+   "slug": "Spirax-Sarco-Sp8-10",
+   "title": "SP8-10 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 108,
+   "productModel": "SP8-10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4653513/Spirax-Sarco-Sp8-10.html"
+  },
+  {
+   "manualId": "1571280",
+   "slug": "Spirax-Sarco-Spira-Trol-K-Series",
+   "title": "Spira-trol K Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "Spira-trol K Series",
+   "extraModels": [
+    "Spira-trol KE43",
+    "Spira-trol KE61",
+    "Spira-trol KE63",
+    "Spira-trol KE71",
+    "Spira-trol KE73",
+    "Spira-trol KEA41",
+    "Spira-trol KEA42",
+    "Spira-trol KEA43",
+    "Spira-trol KEA61",
+    "Spira-trol KEA62",
+    "Spira-trol KEA63",
+    "Spira-trol KEA71",
+    "Spira-trol KEA73",
+    "Spira-trol L Series",
+    "Spira-trol LE31",
+    "Spira-trol LE33",
+    "Spira-trol LE43",
+    "Spira-trol LE63",
+    "Spira-trol LEA31",
+    "Spira-trol LEA33",
+    "Spira-trol LEA43",
+    "Spira-trol LEA63"
+   ],
+   "url": "https://www.manualslib.com/manual/1571280/Spirax-Sarco-Spira-Trol-K-Series.html"
+  },
+  {
+   "manualId": "1302163",
+   "slug": "Spirax-Sarco-Ke73",
+   "title": "Spira-trol KE43 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "Spira-trol KE43",
+   "extraModels": [
+    "Spira-trol KE43",
+    "Spira-trol KE63"
+   ],
+   "url": "https://www.manualslib.com/manual/1302163/Spirax-Sarco-Ke73.html"
+  },
+  {
+   "manualId": "1758914",
+   "slug": "Spirax-Sarco-Spiraheat",
+   "title": "SpiraHeat Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "SpiraHeat",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1758914/Spirax-Sarco-Spiraheat.html"
+  },
+  {
+   "manualId": "4414829",
+   "slug": "spirax-ft-14-ball-float-steam-trap-user-manual",
+   "title": "Spirax FT 14 Ball Float Steam Trap User Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4414829/spirax-ft-14-ball-float-steam-trap-user-manual.html"
+  },
+  {
+   "manualId": "1718993",
+   "slug": "Spirax-Sarco-Elm",
+   "title": "Spirax Sarco ELM Installation, Operating And Maintenance Instructions",
+   "type": "Service",
+   "pages": 81,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1718993/Spirax-Sarco-Elm.html"
+  },
+  {
+   "manualId": "4416864",
+   "slug": "spirax-sarco-ft-43-cast-iron-ball-float-steam-trap-data",
+   "title": "Spirax Sarco FT 43 Cast Iron Ball Float Steam Trap Data",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4416864/spirax-sarco-ft-43-cast-iron-ball-float-steam-trap-data.html"
+  },
+  {
+   "manualId": "4256783",
+   "slug": "spirax-sarco-hiter-85-series-check-valve-installation-and-maintenance-manual",
+   "title": "Spirax Sarco Hiter 85 Series check valve Installation & Maintenance Manual",
+   "type": "Service",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4256783/spirax-sarco-hiter-85-series-check-valve-installation-and-maintenance-manual.html"
+  },
+  {
+   "manualId": "4427692",
+   "slug": "spirax-sarco-lcr2652-bhd50-level-controller-manual",
+   "title": "Spirax Sarco LCR2652 BHD50 Level Controller Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4427692/spirax-sarco-lcr2652-bhd50-level-controller-manual.html"
+  },
+  {
+   "manualId": "1884678",
+   "slug": "Spirax-Sarco-Mkii",
+   "title": "Spirax Sarco MkII Safety And Operation",
+   "type": "Other",
+   "pages": 44,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1884678/Spirax-Sarco-Mkii.html"
+  },
+  {
+   "manualId": "1481105",
+   "slug": "Spirax-Sarco-Mst21-Series",
+   "title": "Spirax Sarco MST21 Series Installation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1481105/Spirax-Sarco-Mst21-Series.html"
+  },
+  {
+   "manualId": "2753278",
+   "slug": "Spirax-Sarco-Sp7-10",
+   "title": "Spirax Sarco SP7-10 Installation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "SP7-11",
+    "SP7-12",
+    "SP7-20",
+    "SP7-21",
+    "SP7-22",
+    "SP8-10"
+   ],
+   "url": "https://www.manualslib.com/manual/2753278/Spirax-Sarco-Sp7-10.html"
+  },
+  {
+   "manualId": "2606160",
+   "slug": "Spirax-Sarco-Sp7-10",
+   "title": "Spirax Sarco SP7-10 Manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": null,
+   "extraModels": [
+    "SP7-11",
+    "SP7-12",
+    "SP7-20",
+    "SP7-21",
+    "SP7-22"
+   ],
+   "url": "https://www.manualslib.com/manual/2606160/Spirax-Sarco-Sp7-10.html"
+  },
+  {
+   "manualId": "4251574",
+   "slug": "spirax-sarco-sp80-steam-trap-installation-and-maintenance-manual",
+   "title": "Spirax Sarco SP80 steam trap Installation and Maintenance Manual",
+   "type": "Service",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4251574/spirax-sarco-sp80-steam-trap-installation-and-maintenance-manual.html"
+  },
+  {
+   "manualId": "2907290",
+   "slug": "Spirax-Sarco-Srv2s",
+   "title": "SRV2S Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "SRV2S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2907290/Spirax-Sarco-Srv2s.html"
+  },
+  {
+   "manualId": "3045849",
+   "slug": "Spirax-Sarco-Srv66",
+   "title": "SRV66 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "SRV66",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3045849/Spirax-Sarco-Srv66.html"
+  },
+  {
+   "manualId": "3083217",
+   "slug": "Spirax-Sarco-Srv66hc",
+   "title": "SRV66HC Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "SRV66HC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3083217/Spirax-Sarco-Srv66hc.html"
+  },
+  {
+   "manualId": "1606626",
+   "slug": "Spirax-Sarco-Ssc20",
+   "title": "SSC20 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "SSC20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1606626/Spirax-Sarco-Ssc20.html"
+  },
+  {
+   "manualId": "1548762",
+   "slug": "Spirax-Sarco-Staps",
+   "title": "STAPs Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "STAPs",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1548762/Spirax-Sarco-Staps.html"
+  },
+  {
+   "manualId": "1509817",
+   "slug": "Spirax-Sarco-Staps",
+   "title": "STAPs Quick installation manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "STAPs",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1509817/Spirax-Sarco-Staps.html"
+  },
+  {
+   "manualId": "1772060",
+   "slug": "Spirax-Sarco-Staps",
+   "title": "STAPs Quick installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "STAPs",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1772060/Spirax-Sarco-Staps.html"
+  },
+  {
+   "manualId": "1565289",
+   "slug": "Spirax-Sarco-Steam-Jet-Thermocompressor",
+   "title": "Steam Jet Thermocompressor Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "Steam Jet Thermocompressor",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1565289/Spirax-Sarco-Steam-Jet-Thermocompressor.html"
+  },
+  {
+   "manualId": "3713707",
+   "slug": "Spirax-Sarco-Steri-Trol-S-Series",
+   "title": "STERI-TROL S Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "STERI-TROL S Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3713707/Spirax-Sarco-Steri-Trol-S-Series.html"
+  },
+  {
+   "manualId": "1596421",
+   "slug": "Spirax-Sarco-Sts17-2",
+   "title": "STS17.2 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "STS17.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1596421/Spirax-Sarco-Sts17-2.html"
+  },
+  {
+   "manualId": "4189005",
+   "slug": "Spirax-Sarco-Sv47h",
+   "title": "SV44H Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "SV44H",
+   "extraModels": [
+    "SV44H"
+   ],
+   "url": "https://www.manualslib.com/manual/4189005/Spirax-Sarco-Sv47h.html"
+  },
+  {
+   "manualId": "4054812",
+   "slug": "Spirax-Sarco-Sv568h",
+   "title": "SV568H Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "SV568H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4054812/Spirax-Sarco-Sv568h.html"
+  },
+  {
+   "manualId": "1586240",
+   "slug": "Spirax-Sarco-Sv615",
+   "title": "SV615 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "SV615",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1586240/Spirax-Sarco-Sv615.html"
+  },
+  {
+   "manualId": "4095499",
+   "slug": "Spirax-Sarco-Sv66h",
+   "title": "SV66H Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "SV66H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4095499/Spirax-Sarco-Sv66h.html"
+  },
+  {
+   "manualId": "3439660",
+   "slug": "Spirax-Sarco-Sv80h",
+   "title": "SV80H Installation and maintenance manual",
+   "type": "Service",
+   "pages": 33,
+   "productModel": "SV80H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3439660/Spirax-Sarco-Sv80h.html"
+  },
+  {
+   "manualId": "3481362",
+   "slug": "Spirax-Sarco-Sv81h",
+   "title": "SV81H Installation and maintenance manual",
+   "type": "Service",
+   "pages": 26,
+   "productModel": "SV81H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3481362/Spirax-Sarco-Sv81h.html"
+  },
+  {
+   "manualId": "2202902",
+   "slug": "Spirax-Sarco-Sx-Series",
+   "title": "SX Series quick start manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "SX Series",
+   "extraModels": [
+    "SX80",
+    "SX90"
+   ],
+   "url": "https://www.manualslib.com/manual/2202902/Spirax-Sarco-Sx-Series.html"
+  },
+  {
+   "manualId": "3406089",
+   "slug": "Spirax-Sarco-Sx-Series",
+   "title": "SX Series quick start manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "SX Series",
+   "extraModels": [
+    "SX80",
+    "SX90"
+   ],
+   "url": "https://www.manualslib.com/manual/3406089/Spirax-Sarco-Sx-Series.html"
+  },
+  {
+   "manualId": "1596790",
+   "slug": "Spirax-Sarco-Sx100",
+   "title": "SX100 Quick setup manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "SX100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1596790/Spirax-Sarco-Sx100.html"
+  },
+  {
+   "manualId": "926984",
+   "slug": "Spirax-Sarco-Sx100e",
+   "title": "SX100e Quick setup manual",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "SX100e",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/926984/Spirax-Sarco-Sx100e.html"
+  },
+  {
+   "manualId": "1928452",
+   "slug": "Spirax-Sarco-Sx25-Series",
+   "title": "SX25 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 51,
+   "productModel": "SX25 Series",
+   "extraModels": [
+    "SX25-mA",
+    "SX25-VMD"
+   ],
+   "url": "https://www.manualslib.com/manual/1928452/Spirax-Sarco-Sx25-Series.html"
+  },
+  {
+   "manualId": "1824187",
+   "slug": "Spirax-Sarco-Sx75-Series",
+   "title": "SX75 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "SX75 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1824187/Spirax-Sarco-Sx75-Series.html"
+  },
+  {
+   "manualId": "1218585",
+   "slug": "Spirax-Sarco-Sx80",
+   "title": "SX80 Installation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 5,
+   "productModel": "SX80",
+   "extraModels": [
+    "SX90"
+   ],
+   "url": "https://www.manualslib.com/manual/1218585/Spirax-Sarco-Sx80.html"
+  },
+  {
+   "manualId": "831415",
+   "slug": "Spirax-Sarco-Sx80",
+   "title": "SX80 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 106,
+   "productModel": "SX80",
+   "extraModels": [
+    "SX90"
+   ],
+   "url": "https://www.manualslib.com/manual/831415/Spirax-Sarco-Sx80.html"
+  },
+  {
+   "manualId": "3291405",
+   "slug": "Spirax-Sarco-Sx80",
+   "title": "SX80 quick start manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "SX80",
+   "extraModels": [
+    "SX90"
+   ],
+   "url": "https://www.manualslib.com/manual/3291405/Spirax-Sarco-Sx80.html"
+  },
+  {
+   "manualId": "1632221",
+   "slug": "Spirax-Sarco-Tb300",
+   "title": "TB300 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "TB300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1632221/Spirax-Sarco-Tb300.html"
+  },
+  {
+   "manualId": "1582598",
+   "slug": "Spirax-Sarco-Td120",
+   "title": "TD120 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "TD120",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1582598/Spirax-Sarco-Td120.html"
+  },
+  {
+   "manualId": "3077768",
+   "slug": "Spirax-Sarco-Td120m",
+   "title": "TD120M Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "TD120M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3077768/Spirax-Sarco-Td120m.html"
+  },
+  {
+   "manualId": "3041587",
+   "slug": "Spirax-Sarco-Td3-3",
+   "title": "TD3-3 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "TD3-3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3041587/Spirax-Sarco-Td3-3.html"
+  },
+  {
+   "manualId": "3073402",
+   "slug": "Spirax-Sarco-Td42",
+   "title": "TD42 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "TD42",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3073402/Spirax-Sarco-Td42.html"
+  },
+  {
+   "manualId": "3051630",
+   "slug": "Spirax-Sarco-Td42s2",
+   "title": "TD42S2 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "TD42S2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3051630/Spirax-Sarco-Td42s2.html"
+  },
+  {
+   "manualId": "3774683",
+   "slug": "Spirax-Sarco-Td42slt",
+   "title": "TD42SLT Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "TD42SLT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3774683/Spirax-Sarco-Td42slt.html"
+  },
+  {
+   "manualId": "1582198",
+   "slug": "Spirax-Sarco-Td62lm",
+   "title": "TD62LM Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "TD62LM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1582198/Spirax-Sarco-Td62lm.html"
+  },
+  {
+   "manualId": "3856163",
+   "slug": "Spirax-Sarco-Td62m",
+   "title": "TD62M Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "TD62M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3856163/Spirax-Sarco-Td62m.html"
+  },
+  {
+   "manualId": "1629315",
+   "slug": "Spirax-Sarco-Pn9400e-Series",
+   "title": "Technical data",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1629315/Spirax-Sarco-Pn9400e-Series.html"
+  },
+  {
+   "manualId": "3667631",
+   "slug": "Spirax-Sarco-Tfa",
+   "title": "TFA Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 49,
+   "productModel": "TFA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3667631/Spirax-Sarco-Tfa.html"
+  },
+  {
+   "manualId": "1596387",
+   "slug": "Spirax-Sarco-Tn2000rh",
+   "title": "TN2000 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "TN2000 Series",
+   "extraModels": [
+    "TN2000DE",
+    "TN2000DR",
+    "TN2000E",
+    "TN2000EH",
+    "TN2000SE",
+    "TN2000SR"
+   ],
+   "url": "https://www.manualslib.com/manual/1596387/Spirax-Sarco-Tn2000rh.html"
+  },
+  {
+   "manualId": "1669728",
+   "slug": "Spirax-Sarco-Tn203-E-Series",
+   "title": "TN2000 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "TN2000 Series",
+   "extraModels": [
+    "TN2000 Series",
+    "TN203 RH Series",
+    "TN2030",
+    "TN2033",
+    "TN215 E Series",
+    "TN215 SRH Series",
+    "TN2150",
+    "TN2153"
+   ],
+   "url": "https://www.manualslib.com/manual/1669728/Spirax-Sarco-Tn203-E-Series.html"
+  },
+  {
+   "manualId": "1656970",
+   "slug": "Spirax-Sarco-Tva-Series",
+   "title": "TVA Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 53,
+   "productModel": "TVA",
+   "extraModels": [
+    "TVA DN100",
+    "TVA DN50",
+    "TVA DN80"
+   ],
+   "url": "https://www.manualslib.com/manual/1656970/Spirax-Sarco-Tva-Series.html"
+  },
+  {
+   "manualId": "1941536",
+   "slug": "Spirax-Sarco-U-Series",
+   "title": "U Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "U Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1941536/Spirax-Sarco-U-Series.html"
+  },
+  {
+   "manualId": "2870349",
+   "slug": "Spirax-Sarco-Uft32",
+   "title": "UFT32 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "UFT32",
+   "extraModels": [
+    "UFT32-10",
+    "UFT32-14",
+    "UFT32-21",
+    "UFT32-32",
+    "UFT32-32UFT32",
+    "UFT32-4.5"
+   ],
+   "url": "https://www.manualslib.com/manual/2870349/Spirax-Sarco-Uft32.html"
+  },
+  {
+   "manualId": "1604052",
+   "slug": "Spirax-Sarco-Uft32",
+   "title": "UFT32 Manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": "UFT32",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1604052/Spirax-Sarco-Uft32.html"
+  },
+  {
+   "manualId": "2917877",
+   "slug": "Spirax-Sarco-Uib30",
+   "title": "UIB30 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "UIB30",
+   "extraModels": [
+    "UIB30H"
+   ],
+   "url": "https://www.manualslib.com/manual/2917877/Spirax-Sarco-Uib30.html"
+  },
+  {
+   "manualId": "2833591",
+   "slug": "Spirax-Sarco-Uib30",
+   "title": "UIB30 Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "UIB30",
+   "extraModels": [
+    "UIB30H"
+   ],
+   "url": "https://www.manualslib.com/manual/2833591/Spirax-Sarco-Uib30.html"
+  },
+  {
+   "manualId": "2934385",
+   "slug": "Spirax-Sarco-Uib45",
+   "title": "UIB45 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "UIB45",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2934385/Spirax-Sarco-Uib45.html"
+  },
+  {
+   "manualId": "2174917",
+   "slug": "Spirax-Sarco-Universal-Lite-Control-Panel",
+   "title": "Universal Lite Control Panel Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "Universal Lite Control Panel",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2174917/Spirax-Sarco-Universal-Lite-Control-Panel.html"
+  },
+  {
+   "manualId": "2180510",
+   "slug": "Spirax-Sarco-Utd26-Series",
+   "title": "UTD26 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "UTD26 Series",
+   "extraModels": [
+    "UTD26H",
+    "UTD26HA",
+    "UTD26HAY",
+    "UTD26HY",
+    "UTD26L",
+    "UTD26LA",
+    "UTD26LAY",
+    "UTD26Y"
+   ],
+   "url": "https://www.manualslib.com/manual/2180510/Spirax-Sarco-Utd26-Series.html"
+  },
+  {
+   "manualId": "3878939",
+   "slug": "Spirax-Sarco-Utd26ly",
+   "title": "UTD26LY Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "UTD26LY",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878939/Spirax-Sarco-Utd26ly.html"
+  },
+  {
+   "manualId": "2881729",
+   "slug": "Spirax-Sarco-Utd30-Series",
+   "title": "UTD30 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "UTD30 Series",
+   "extraModels": [
+    "UTD30H",
+    "UTD30HA",
+    "UTD30LA"
+   ],
+   "url": "https://www.manualslib.com/manual/2881729/Spirax-Sarco-Utd30-Series.html"
+  },
+  {
+   "manualId": "3908380",
+   "slug": "Spirax-Sarco-Utd30l",
+   "title": "UTD30L Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "UTD30L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3908380/Spirax-Sarco-Utd30l.html"
+  },
+  {
+   "manualId": "2169576",
+   "slug": "Spirax-Sarco-Utm20-Series",
+   "title": "UTM20 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 108,
+   "productModel": "UTM20 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2169576/Spirax-Sarco-Utm20-Series.html"
+  },
+  {
+   "manualId": "3150237",
+   "slug": "Spirax-Sarco-Vlm30",
+   "title": "VLM30 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 152,
+   "productModel": "VLM30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3150237/Spirax-Sarco-Vlm30.html"
+  },
+  {
+   "manualId": "4600904",
+   "slug": "Spirax-Sarco-Vlm30",
+   "title": "VLM30 Repair instructions",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "VLM30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4600904/Spirax-Sarco-Vlm30.html"
+  },
+  {
+   "manualId": "2097252",
+   "slug": "Spirax-Sarco-Ael5951",
+   "title": "Wiring Diagrams",
+   "type": "Parts & Wiring",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2097252/Spirax-Sarco-Ael5951.html"
+  },
+  {
+   "manualId": "1478248",
+   "slug": "Spirax-Sarco-X5",
+   "title": "X5 user manual",
+   "type": "User / Owner",
+   "pages": 75,
+   "productModel": "X5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1478248/Spirax-Sarco-X5.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4427692",
+   "slug": "spirax-sarco-lcr2652-bhd50-level-controller-manual",
+   "title": "Spirax Sarco LCR2652 BHD50 Level Controller Manual"
+  },
+  {
+   "manualId": "4251574",
+   "slug": "spirax-sarco-sp80-steam-trap-installation-and-maintenance-manual",
+   "title": "Spirax Sarco SP80 steam trap Installation and Maintenance Manual"
+  },
+  {
+   "manualId": "4414829",
+   "slug": "spirax-ft-14-ball-float-steam-trap-user-manual",
+   "title": "Spirax FT 14 Ball Float Steam Trap User Manual"
+  },
+  {
+   "manualId": "4416864",
+   "slug": "spirax-sarco-ft-43-cast-iron-ball-float-steam-trap-data",
+   "title": "Spirax Sarco FT 43 Cast Iron Ball Float Steam Trap Data"
+  },
+  {
+   "manualId": "4256783",
+   "slug": "spirax-sarco-hiter-85-series-check-valve-installation-and-maintenance-manual",
+   "title": "Spirax Sarco Hiter 85 Series check valve Installation & Maintenance Manual"
+  }
+ ],
+ "techDirectIds": [
+  "spirax-sarco"
+ ]
+}

@@ -1,0 +1,884 @@
+{
+ "brand": "Movincool",
+ "brandSlug": "movincool",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/movincool/"
+ ],
+ "slugUsed": "movincool",
+ "capturedAt": "2026-10-28T08:42:20.322194+00:00",
+ "typePages": [
+  {
+   "path": "/brand/movincool/air-conditioner.html",
+   "manuals": 156,
+   "status": 200
+  },
+  {
+   "path": "/brand/movincool/adapter.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/movincool/air-conditioner-accessories.html",
+   "manuals": 21,
+   "status": 200
+  },
+  {
+   "path": "/brand/movincool/fan.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/movincool/freezer.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/movincool/thermostat.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/movincool/water-pump.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/movincool/wine-cooler.html",
+   "manuals": 6,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "897763",
+   "slug": "Movincool-10sfu-1",
+   "title": "10SFU-1 Service manual",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "10SFU-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/897763/Movincool-10sfu-1.html"
+  },
+  {
+   "manualId": "1296772",
+   "slug": "Movincool-15sf",
+   "title": "15SF Service manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "15SF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1296772/Movincool-15sf.html"
+  },
+  {
+   "manualId": "4573846",
+   "slug": "Movincool-15sfu",
+   "title": "15SFU instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "15SFU",
+   "extraModels": [
+    "15SFU-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4573846/Movincool-15sfu.html"
+  },
+  {
+   "manualId": "3828728",
+   "slug": "Movincool-15sfu-1",
+   "title": "15SFU-1 Service manual",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "15SFU-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3828728/Movincool-15sfu-1.html"
+  },
+  {
+   "manualId": "3828729",
+   "slug": "Movincool-20hfu-1",
+   "title": "20HFU-1 Service manual",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "20HFU-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3828729/Movincool-20hfu-1.html"
+  },
+  {
+   "manualId": "726749",
+   "slug": "Movincool-24hfu",
+   "title": "24HFU Operation manual",
+   "type": "Other",
+   "pages": 19,
+   "productModel": "24HFU",
+   "extraModels": [
+    "24HFU-1"
+   ],
+   "url": "https://www.manualslib.com/manual/726749/Movincool-24hfu.html"
+  },
+  {
+   "manualId": "835051",
+   "slug": "Movincool-24hfu",
+   "title": "24HFU Service manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "24HFU",
+   "extraModels": [
+    "24HFU-1"
+   ],
+   "url": "https://www.manualslib.com/manual/835051/Movincool-24hfu.html"
+  },
+  {
+   "manualId": "2015507",
+   "slug": "Movincool-Climate-Pro-K36",
+   "title": "Accessory Installation Manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "Climate Pro K60",
+    "Climate Pro K63"
+   ],
+   "url": "https://www.manualslib.com/manual/2015507/Movincool-Climate-Pro-K36.html"
+  },
+  {
+   "manualId": "2514615",
+   "slug": "Movincool-481744-0062",
+   "title": "Accessory Installation Manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2514615/Movincool-481744-0062.html"
+  },
+  {
+   "manualId": "729440",
+   "slug": "Movincool-Classic-10",
+   "title": "Classic 10 Operation manual",
+   "type": "Other",
+   "pages": 31,
+   "productModel": "Classic 10",
+   "extraModels": [
+    "Classic 18"
+   ],
+   "url": "https://www.manualslib.com/manual/729440/Movincool-Classic-10.html"
+  },
+  {
+   "manualId": "1287205",
+   "slug": "Movincool-Classic-10",
+   "title": "Classic 10 Service manual",
+   "type": "Service",
+   "pages": 77,
+   "productModel": "Classic 10",
+   "extraModels": [
+    "Classic 18"
+   ],
+   "url": "https://www.manualslib.com/manual/1287205/Movincool-Classic-10.html"
+  },
+  {
+   "manualId": "974876",
+   "slug": "Movincool-Classic-18",
+   "title": "Classic 18 Service manual",
+   "type": "Service",
+   "pages": 69,
+   "productModel": "Classic 18",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/974876/Movincool-Classic-18.html"
+  },
+  {
+   "manualId": "1451607",
+   "slug": "Movincool-Classic-40",
+   "title": "Classic 40 Service manual",
+   "type": "Service",
+   "pages": 74,
+   "productModel": "Classic 40",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1451607/Movincool-Classic-40.html"
+  },
+  {
+   "manualId": "553452",
+   "slug": "Movincool-Office-Pro-36",
+   "title": "Classic 60 Operation manual",
+   "type": "Other",
+   "pages": 31,
+   "productModel": "Classic 60",
+   "extraModels": [
+    "Classic 60",
+    "Office Pro 60"
+   ],
+   "url": "https://www.manualslib.com/manual/553452/Movincool-Office-Pro-36.html"
+  },
+  {
+   "manualId": "2260769",
+   "slug": "Movincool-Classic-60",
+   "title": "Classic 60 Service manual",
+   "type": "Service",
+   "pages": 74,
+   "productModel": "Classic 60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2260769/Movincool-Classic-60.html"
+  },
+  {
+   "manualId": "1144208",
+   "slug": "Movincool-Classic-Plus-14",
+   "title": "Classic Plus 14 Operation manual",
+   "type": "Other",
+   "pages": 35,
+   "productModel": "Classic Plus 14",
+   "extraModels": [
+    "Classic Plus 26"
+   ],
+   "url": "https://www.manualslib.com/manual/1144208/Movincool-Classic-Plus-14.html"
+  },
+  {
+   "manualId": "751674",
+   "slug": "Movincool-Classic-Plus-14",
+   "title": "Classic Plus 14 Operation manual",
+   "type": "Other",
+   "pages": 71,
+   "productModel": "Classic Plus 14",
+   "extraModels": [
+    "Classic Plus 26"
+   ],
+   "url": "https://www.manualslib.com/manual/751674/Movincool-Classic-Plus-14.html"
+  },
+  {
+   "manualId": "4645015",
+   "slug": "Movincool-Pag-0033",
+   "title": "Classic Plus 14 Service manual",
+   "type": "Service",
+   "pages": 46,
+   "productModel": "Classic Plus 14",
+   "extraModels": [
+    "Classic Plus 14",
+    "PAG-001"
+   ],
+   "url": "https://www.manualslib.com/manual/4645015/Movincool-Pag-0033.html"
+  },
+  {
+   "manualId": "839230",
+   "slug": "Movincool-Classic-Plus-14",
+   "title": "Classic Plus 14 Service manual",
+   "type": "Service",
+   "pages": 42,
+   "productModel": "Classic Plus 14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/839230/Movincool-Classic-Plus-14.html"
+  },
+  {
+   "manualId": "844699",
+   "slug": "Movincool-Classic-Plus-14",
+   "title": "Classic Plus 14 Service manual",
+   "type": "Service",
+   "pages": 46,
+   "productModel": "Classic Plus 14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/844699/Movincool-Classic-Plus-14.html"
+  },
+  {
+   "manualId": "1495438",
+   "slug": "Movincool-Classic-Plus-26",
+   "title": "Classic Plus 26 quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Classic Plus 26",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1495438/Movincool-Classic-Plus-26.html"
+  },
+  {
+   "manualId": "4645014",
+   "slug": "Movincool-Pag-0093",
+   "title": "Classic Plus 26 Service manual",
+   "type": "Service",
+   "pages": 50,
+   "productModel": "Classic Plus 26",
+   "extraModels": [
+    "Classic Plus 26",
+    "PAG-0091",
+    "PAG-0092",
+    "PAG-0211"
+   ],
+   "url": "https://www.manualslib.com/manual/4645014/Movincool-Pag-0093.html"
+  },
+  {
+   "manualId": "471600",
+   "slug": "Movincool-Classic-Plus-26",
+   "title": "Classic Plus 26 Service manual",
+   "type": "Service",
+   "pages": 51,
+   "productModel": "Classic Plus 26",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/471600/Movincool-Classic-Plus-26.html"
+  },
+  {
+   "manualId": "1211729",
+   "slug": "Movincool-Climate-Pro-18",
+   "title": "CLIMATE PRO 12 Service manual",
+   "type": "Service",
+   "pages": 99,
+   "productModel": "CLIMATE PRO 12",
+   "extraModels": [
+    "CLIMATE PRO 12"
+   ],
+   "url": "https://www.manualslib.com/manual/1211729/Movincool-Climate-Pro-18.html"
+  },
+  {
+   "manualId": "2194497",
+   "slug": "Movincool-Climate-Pro-X14",
+   "title": "Climate Pro D12 Accessory Installation Manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "Climate Pro D12",
+   "extraModels": [
+    "Climate Pro D12",
+    "Climate Pro D18",
+    "Climate Pro K12",
+    "Climate Pro K18",
+    "Climate Pro K24",
+    "Climate Pro X20",
+    "Climate Pro X26"
+   ],
+   "url": "https://www.manualslib.com/manual/2194497/Movincool-Climate-Pro-X14.html"
+  },
+  {
+   "manualId": "4084028",
+   "slug": "Movincool-Climate-Pro-D12",
+   "title": "Climate Pro D12 Operation manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "Climate Pro D12",
+   "extraModels": [
+    "Climate Pro D18",
+    "CLIMATE PRO D18E"
+   ],
+   "url": "https://www.manualslib.com/manual/4084028/Movincool-Climate-Pro-D12.html"
+  },
+  {
+   "manualId": "4516297",
+   "slug": "Movincool-Climate-Pro-D12e",
+   "title": "CLIMATE PRO D12e Operation manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "CLIMATE PRO D12e",
+   "extraModels": [
+    "CLIMATE PRO D18E"
+   ],
+   "url": "https://www.manualslib.com/manual/4516297/Movincool-Climate-Pro-D12e.html"
+  },
+  {
+   "manualId": "2405353",
+   "slug": "Movincool-Climate-Pro-K12",
+   "title": "Climate Pro K12 Operation manual",
+   "type": "Other",
+   "pages": 74,
+   "productModel": "Climate Pro K12",
+   "extraModels": [
+    "Climate Pro K18",
+    "Climate Pro K24"
+   ],
+   "url": "https://www.manualslib.com/manual/2405353/Movincool-Climate-Pro-K12.html"
+  },
+  {
+   "manualId": "2277872",
+   "slug": "Movincool-Climate-Pro-K12",
+   "title": "Climate Pro K12 Service manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "Climate Pro K12",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2277872/Movincool-Climate-Pro-K12.html"
+  },
+  {
+   "manualId": "1996877",
+   "slug": "Movincool-Climate-Pro-K24",
+   "title": "Climate Pro K24 Service manual",
+   "type": "Service",
+   "pages": 58,
+   "productModel": "Climate Pro K24",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1996877/Movincool-Climate-Pro-K24.html"
+  },
+  {
+   "manualId": "2015498",
+   "slug": "Movincool-Climate-Pro-K36",
+   "title": "Climate Pro K36 installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "Climate Pro K36",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2015498/Movincool-Climate-Pro-K36.html"
+  },
+  {
+   "manualId": "1905659",
+   "slug": "Movincool-Climate-Pro-K36",
+   "title": "Climate Pro K36 Operation manual",
+   "type": "Other",
+   "pages": 79,
+   "productModel": "Climate Pro K36",
+   "extraModels": [
+    "Climate Pro K60",
+    "Climate Pro K63"
+   ],
+   "url": "https://www.manualslib.com/manual/1905659/Movincool-Climate-Pro-K36.html"
+  },
+  {
+   "manualId": "3214961",
+   "slug": "Movincool-Climate-Pro-K36",
+   "title": "Climate Pro K36 Service manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "Climate Pro K36",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3214961/Movincool-Climate-Pro-K36.html"
+  },
+  {
+   "manualId": "4516294",
+   "slug": "Movincool-Climate-Pro-K36e",
+   "title": "CLIMATE PRO K36e Operation manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "CLIMATE PRO K36e",
+   "extraModels": [
+    "CLIMATE PRO K60e",
+    "CLIMATE PRO K63e"
+   ],
+   "url": "https://www.manualslib.com/manual/4516294/Movincool-Climate-Pro-K36e.html"
+  },
+  {
+   "manualId": "4092058",
+   "slug": "Movincool-Climate-Pro-X20",
+   "title": "CLIMATE PRO X14 Operation manual",
+   "type": "Other",
+   "pages": 82,
+   "productModel": "CLIMATE PRO X14",
+   "extraModels": [
+    "CLIMATE PRO X14",
+    "Climate Pro X14E",
+    "Climate Pro X26",
+    "Climate Pro X26E"
+   ],
+   "url": "https://www.manualslib.com/manual/4092058/Movincool-Climate-Pro-X20.html"
+  },
+  {
+   "manualId": "2277879",
+   "slug": "Movincool-Climate-Pro-X14",
+   "title": "CLIMATE PRO X14 Service manual",
+   "type": "Service",
+   "pages": 58,
+   "productModel": "CLIMATE PRO X14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2277879/Movincool-Climate-Pro-X14.html"
+  },
+  {
+   "manualId": "296880",
+   "slug": "Movincool-Cm-12",
+   "title": "CM 12 Limited Warranty",
+   "type": "Other",
+   "pages": null,
+   "productModel": "CM 12",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/296880/Movincool-Cm-12.html"
+  },
+  {
+   "manualId": "555663",
+   "slug": "Movincool-Cm12",
+   "title": "CM 12 Service Information",
+   "type": "Service",
+   "pages": 3,
+   "productModel": "CM 12",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/555663/Movincool-Cm12.html"
+  },
+  {
+   "manualId": "1502213",
+   "slug": "Movincool-Cm-12",
+   "title": "CM 12 Service manual",
+   "type": "Service",
+   "pages": 69,
+   "productModel": "CM 12",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1502213/Movincool-Cm-12.html"
+  },
+  {
+   "manualId": "296881",
+   "slug": "Movincool-Cm-12",
+   "title": "CM 12 user manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": "CM 12",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/296881/Movincool-Cm-12.html"
+  },
+  {
+   "manualId": "829404",
+   "slug": "Movincool-Cm-25",
+   "title": "CM 25 installation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "CM 25",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/829404/Movincool-Cm-25.html"
+  },
+  {
+   "manualId": "1566606",
+   "slug": "Movincool-Cm25",
+   "title": "CM 25 Operation manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": "CM 25",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1566606/Movincool-Cm25.html"
+  },
+  {
+   "manualId": "1216288",
+   "slug": "Movincool-Cm-25",
+   "title": "CM 25 Service manual",
+   "type": "Service",
+   "pages": 89,
+   "productModel": "CM 25",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1216288/Movincool-Cm-25.html"
+  },
+  {
+   "manualId": "2132538",
+   "slug": "Movincool-Cmw30",
+   "title": "CMW30 Service manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "CMW30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2132538/Movincool-Cmw30.html"
+  },
+  {
+   "manualId": "1216738",
+   "slug": "Movincool-Climate-Pro-12",
+   "title": "Movincool CLIMATE PRO 12 Manual",
+   "type": "Other",
+   "pages": 50,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1216738/Movincool-Climate-Pro-12.html"
+  },
+  {
+   "manualId": "728742",
+   "slug": "Movincool-Office-Pro-10",
+   "title": "Office Pro 10 Operation manual",
+   "type": "Other",
+   "pages": 100,
+   "productModel": "Office Pro 10",
+   "extraModels": [
+    "OFFICE PRO 12"
+   ],
+   "url": "https://www.manualslib.com/manual/728742/Movincool-Office-Pro-10.html"
+  },
+  {
+   "manualId": "746528",
+   "slug": "Movincool-Office-Pro-10",
+   "title": "Office Pro 10 Service manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "Office Pro 10",
+   "extraModels": [
+    "OFFICE PRO 12"
+   ],
+   "url": "https://www.manualslib.com/manual/746528/Movincool-Office-Pro-10.html"
+  },
+  {
+   "manualId": "1144205",
+   "slug": "Movincool-Office-Pro-12",
+   "title": "OFFICE PRO 12 Operation manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "OFFICE PRO 12",
+   "extraModels": [
+    "OFFICE PRO 18",
+    "Office Pro 24"
+   ],
+   "url": "https://www.manualslib.com/manual/1144205/Movincool-Office-Pro-12.html"
+  },
+  {
+   "manualId": "38528",
+   "slug": "Movincool-Office-Pro-12",
+   "title": "OFFICE PRO 12 Operation manual",
+   "type": "Other",
+   "pages": 76,
+   "productModel": "OFFICE PRO 12",
+   "extraModels": [
+    "Office Pro 24"
+   ],
+   "url": "https://www.manualslib.com/manual/38528/Movincool-Office-Pro-12.html"
+  },
+  {
+   "manualId": "471607",
+   "slug": "Movincool-Office-Pro-12",
+   "title": "OFFICE PRO 12 Operation manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "OFFICE PRO 12",
+   "extraModels": [
+    "OFFICE PRO 18",
+    "Office Pro 24"
+   ],
+   "url": "https://www.manualslib.com/manual/471607/Movincool-Office-Pro-12.html"
+  },
+  {
+   "manualId": "729577",
+   "slug": "Movincool-Office-Pro-12-Office-Pro-18-Office-Pro-24",
+   "title": "OFFICE PRO 12 Operation manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "OFFICE PRO 12",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/729577/Movincool-Office-Pro-12-Office-Pro-18-Office-Pro-24.html"
+  },
+  {
+   "manualId": "991771",
+   "slug": "Movincool-Office-Pro-12",
+   "title": "OFFICE PRO 12 Operation manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "OFFICE PRO 12",
+   "extraModels": [
+    "Office Pro 24"
+   ],
+   "url": "https://www.manualslib.com/manual/991771/Movincool-Office-Pro-12.html"
+  },
+  {
+   "manualId": "846803",
+   "slug": "Movincool-Office-Pro-12",
+   "title": "OFFICE PRO 12 Service manual",
+   "type": "Service",
+   "pages": 46,
+   "productModel": "OFFICE PRO 12",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/846803/Movincool-Office-Pro-12.html"
+  },
+  {
+   "manualId": "38525",
+   "slug": "Movincool-Office-Pro-18",
+   "title": "OFFICE PRO 18 Operation manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "OFFICE PRO 18",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/38525/Movincool-Office-Pro-18.html"
+  },
+  {
+   "manualId": "813819",
+   "slug": "Movincool-Office-Pro-18",
+   "title": "OFFICE PRO 18 Service manual",
+   "type": "Service",
+   "pages": 50,
+   "productModel": "OFFICE PRO 18",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/813819/Movincool-Office-Pro-18.html"
+  },
+  {
+   "manualId": "871843",
+   "slug": "Movincool-Office-Pro-18",
+   "title": "OFFICE PRO 18 Service manual",
+   "type": "Service",
+   "pages": 66,
+   "productModel": "OFFICE PRO 18",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/871843/Movincool-Office-Pro-18.html"
+  },
+  {
+   "manualId": "1533123",
+   "slug": "Movincool-Office-Pro-24",
+   "title": "Office Pro 24 installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "Office Pro 24",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1533123/Movincool-Office-Pro-24.html"
+  },
+  {
+   "manualId": "731912",
+   "slug": "Movincool-Office-Pro-24",
+   "title": "Office Pro 24 Service manual",
+   "type": "Service",
+   "pages": 50,
+   "productModel": "Office Pro 24",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/731912/Movincool-Office-Pro-24.html"
+  },
+  {
+   "manualId": "857444",
+   "slug": "Movincool-Office-Pro-24",
+   "title": "Office Pro 24 Service manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "Office Pro 24",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/857444/Movincool-Office-Pro-24.html"
+  },
+  {
+   "manualId": "296879",
+   "slug": "Movincool-Office-Pro-18",
+   "title": "Office Pro 24 Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Office Pro 24",
+   "extraModels": [
+    "Office Pro 24",
+    "Classic 10",
+    "Classic 18",
+    "Classic 40",
+    "Classic 60",
+    "CM 12",
+    "Classic Plus 14",
+    "Classic Plus 26",
+    "OFFICE PRO 12",
+    "Office Pro 36",
+    "Office Pro 60",
+    "Office Pro 63",
+    "PC7"
+   ],
+   "url": "https://www.manualslib.com/manual/296879/Movincool-Office-Pro-18.html"
+  },
+  {
+   "manualId": "38521",
+   "slug": "Movincool-36",
+   "title": "Office Pro 36 Operation manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Office Pro 36",
+   "extraModels": [
+    "Office Pro 36",
+    "Ofice Pro 36"
+   ],
+   "url": "https://www.manualslib.com/manual/38521/Movincool-36.html"
+  },
+  {
+   "manualId": "1685093",
+   "slug": "Movincool-Office-Pro-36",
+   "title": "Office Pro 36 quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Office Pro 36",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1685093/Movincool-Office-Pro-36.html"
+  },
+  {
+   "manualId": "905615",
+   "slug": "Movincool-Office-Pro-36",
+   "title": "Office Pro 36 Service manual",
+   "type": "Service",
+   "pages": 65,
+   "productModel": "Office Pro 36",
+   "extraModels": [
+    "Office Pro 60"
+   ],
+   "url": "https://www.manualslib.com/manual/905615/Movincool-Office-Pro-36.html"
+  },
+  {
+   "manualId": "38527",
+   "slug": "Movincool-Office-Pro-60",
+   "title": "Office Pro 60 Operation manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "Office Pro 60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/38527/Movincool-Office-Pro-60.html"
+  },
+  {
+   "manualId": "1498519",
+   "slug": "Movincool-Office-Pro-60",
+   "title": "Office Pro 60 quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Office Pro 60",
+   "extraModels": [
+    "Office Pro 63"
+   ],
+   "url": "https://www.manualslib.com/manual/1498519/Movincool-Office-Pro-60.html"
+  },
+  {
+   "manualId": "757412",
+   "slug": "Movincool-Office-Pro-60",
+   "title": "Office Pro 60 Service manual",
+   "type": "Service",
+   "pages": 57,
+   "productModel": "Office Pro 60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/757412/Movincool-Office-Pro-60.html"
+  },
+  {
+   "manualId": "1543985",
+   "slug": "Movincool-Office-Pro-63",
+   "title": "Office Pro 63 Operation manual",
+   "type": "Other",
+   "pages": 31,
+   "productModel": "Office Pro 63",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1543985/Movincool-Office-Pro-63.html"
+  },
+  {
+   "manualId": "1138229",
+   "slug": "Movincool-Office-Pro-W20",
+   "title": "Office Pro W20 Operation manual",
+   "type": "Other",
+   "pages": 38,
+   "productModel": "Office Pro W20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1138229/Movincool-Office-Pro-W20.html"
+  },
+  {
+   "manualId": "1576943",
+   "slug": "Movincool-Office-Pro-W20",
+   "title": "Office Pro W20 Service manual",
+   "type": "Service",
+   "pages": 78,
+   "productModel": "Office Pro W20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1576943/Movincool-Office-Pro-W20.html"
+  },
+  {
+   "manualId": "296882",
+   "slug": "Movincool-Pc-7",
+   "title": "PC7 Limited warranty",
+   "type": "Other",
+   "pages": null,
+   "productModel": "PC7",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/296882/Movincool-Pc-7.html"
+  },
+  {
+   "manualId": "2179128",
+   "slug": "Movincool-Pc7",
+   "title": "PC7 Operation manual",
+   "type": "Other",
+   "pages": 19,
+   "productModel": "PC7",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2179128/Movincool-Pc7.html"
+  },
+  {
+   "manualId": "599420",
+   "slug": "Movincool-Movin-Cool-Pc-7",
+   "title": "PC7 Operation manual",
+   "type": "Other",
+   "pages": 22,
+   "productModel": "PC7",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/599420/Movincool-Movin-Cool-Pc-7.html"
+  },
+  {
+   "manualId": "706690",
+   "slug": "Movincool-Pc7",
+   "title": "PC7 Operation manual",
+   "type": "Other",
+   "pages": 22,
+   "productModel": "PC7",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/706690/Movincool-Pc7.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "movincool"
+ ]
+}

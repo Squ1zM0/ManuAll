@@ -1,0 +1,351 @@
+{
+ "brand": "AtmosAir",
+ "brandSlug": "atmosair",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/atmosair/"
+ ],
+ "slugUsed": "atmosair",
+ "capturedAt": "2026-10-28T06:26:53.751765+00:00",
+ "typePages": [
+  {
+   "path": "/brand/atmosair/air-cleaner.html",
+   "manuals": 32,
+   "status": 200
+  },
+  {
+   "path": "/brand/atmosair/air-conditioner.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/atmosair/air-ionizer.html",
+   "manuals": 24,
+   "status": 200
+  },
+  {
+   "path": "/brand/atmosair/portable-generator.html",
+   "manuals": 16,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2087724",
+   "slug": "Atmosair-500-Series",
+   "title": "500 Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 10,
+   "productModel": "500 Series",
+   "extraModels": [
+    "500E Series",
+    "500F Series",
+    "508F Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2087724/Atmosair-500-Series.html"
+  },
+  {
+   "manualId": "2336990",
+   "slug": "Atmosair-500-Series",
+   "title": "500 Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "500 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2336990/Atmosair-500-Series.html"
+  },
+  {
+   "manualId": "2853141",
+   "slug": "Atmosair-500-Series",
+   "title": "500 Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "500 Series",
+   "extraModels": [
+    "500EC",
+    "500FC",
+    "508FC"
+   ],
+   "url": "https://www.manualslib.com/manual/2853141/Atmosair-500-Series.html"
+  },
+  {
+   "manualId": "1976313",
+   "slug": "Atmosair-500-Series",
+   "title": "500 Series Installation, operation, maintenance manual",
+   "type": "Service",
+   "pages": 10,
+   "productModel": "500 Series",
+   "extraModels": [
+    "500EC",
+    "500FC",
+    "508FC",
+    "500E Series",
+    "500F Series",
+    "508F Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1976313/Atmosair-500-Series.html"
+  },
+  {
+   "manualId": "4243750",
+   "slug": "atmosair-fc-400-series-air-ionization-system-manual",
+   "title": "AtmosAir FC-400 Series Air Ionization System Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4243750/atmosair-fc-400-series-air-ionization-system-manual.html"
+  },
+  {
+   "manualId": "4239887",
+   "slug": "atmosair-matterhorn-1000-series-air-purifier-user-guide",
+   "title": "AtmosAir Matterhorn 1000 Series Air Purifier User Guide",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4239887/atmosair-matterhorn-1000-series-air-purifier-user-guide.html"
+  },
+  {
+   "manualId": "2169003",
+   "slug": "Atmosair-Atmossmart-500-Series",
+   "title": "AtmosSmart Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "AtmosSmart",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2169003/Atmosair-Atmossmart-500-Series.html"
+  },
+  {
+   "manualId": "3489337",
+   "slug": "Atmosair-Bioclimatic-Activeox-06f-Series",
+   "title": "Bioclimatic ActiveOx 06F Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "Bioclimatic ActiveOx 06F Series",
+   "extraModels": [
+    "Bioclimatic ActiveOx AOX06F",
+    "Bioclimatic ActiveOx Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3489337/Atmosair-Bioclimatic-Activeox-06f-Series.html"
+  },
+  {
+   "manualId": "3552019",
+   "slug": "Atmosair-Everest",
+   "title": "Everest Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "Everest",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3552019/Atmosair-Everest.html"
+  },
+  {
+   "manualId": "2151276",
+   "slug": "Atmosair-Fc-100-Series",
+   "title": "FC-100 Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 10,
+   "productModel": "FC-100 Series",
+   "extraModels": [
+    "FC-102 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2151276/Atmosair-Fc-100-Series.html"
+  },
+  {
+   "manualId": "2063654",
+   "slug": "Atmosair-Fc-400",
+   "title": "FC-400 Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 10,
+   "productModel": "FC-400 Series",
+   "extraModels": [
+    "FC-400FM Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2063654/Atmosair-Fc-400.html"
+  },
+  {
+   "manualId": "3488020",
+   "slug": "Atmosair-Fc-400-Series",
+   "title": "FC-400 Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "FC-400 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3488020/Atmosair-Fc-400-Series.html"
+  },
+  {
+   "manualId": "1897404",
+   "slug": "Atmosair-Fc-400-Series",
+   "title": "FC-400 Series Installation, operation, maintenance manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "FC-400 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1897404/Atmosair-Fc-400-Series.html"
+  },
+  {
+   "manualId": "1973416",
+   "slug": "Atmosair-Fc-400fm-Series",
+   "title": "FC-400FM Series Installation, operation, maintenance manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "FC-400FM Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1973416/Atmosair-Fc-400fm-Series.html"
+  },
+  {
+   "manualId": "1244303",
+   "slug": "Atmosair-700-Series",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1244303/Atmosair-700-Series.html"
+  },
+  {
+   "manualId": "2414915",
+   "slug": "Atmosair-Matterhorn-1000",
+   "title": "Matterhorn 1000 Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "Matterhorn 1000 Series",
+   "extraModels": [
+    "Matterhorn 1002"
+   ],
+   "url": "https://www.manualslib.com/manual/2414915/Atmosair-Matterhorn-1000.html"
+  },
+  {
+   "manualId": "3223622",
+   "slug": "Atmosair-Matterhorn-1000",
+   "title": "Matterhorn 1000 Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "Matterhorn 1000 Series",
+   "extraModels": [
+    "Matterhorn 1002"
+   ],
+   "url": "https://www.manualslib.com/manual/3223622/Atmosair-Matterhorn-1000.html"
+  },
+  {
+   "manualId": "1897403",
+   "slug": "Atmosair-Matterhorn-1000-Series",
+   "title": "Matterhorn 1000 Series Installation, operation, maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "Matterhorn 1000 Series",
+   "extraModels": [
+    "Matterhorn 1002"
+   ],
+   "url": "https://www.manualslib.com/manual/1897403/Atmosair-Matterhorn-1000-Series.html"
+  },
+  {
+   "manualId": "2182329",
+   "slug": "Atmosair-Matterhorn-880",
+   "title": "Matterhorn 880 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 15,
+   "productModel": "Matterhorn 880",
+   "extraModels": [
+    "Matterhorn 882"
+   ],
+   "url": "https://www.manualslib.com/manual/2182329/Atmosair-Matterhorn-880.html"
+  },
+  {
+   "manualId": "3433093",
+   "slug": "Atmosair-Matterhorn-Series",
+   "title": "Matterhorn 880 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "Matterhorn 880",
+   "extraModels": [
+    "Matterhorn 880",
+    "Matterhorn 882",
+    "Matterhorn 1000 Series",
+    "Matterhorn 1002"
+   ],
+   "url": "https://www.manualslib.com/manual/3433093/Atmosair-Matterhorn-Series.html"
+  },
+  {
+   "manualId": "2102937",
+   "slug": "Atmosair-Matterhorn-Series",
+   "title": "Matterhorn Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "Matterhorn Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2102937/Atmosair-Matterhorn-Series.html"
+  },
+  {
+   "manualId": "2166422",
+   "slug": "Atmosair-Rainier-Summit-R1",
+   "title": "Rainier Summit R1 User manual & General Maintenance",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "Rainier Summit R1",
+   "extraModels": [
+    "Rainier Summit R2",
+    "Rainier Summit Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2166422/Atmosair-Rainier-Summit-R1.html"
+  },
+  {
+   "manualId": "1720874",
+   "slug": "Atmosair-T400",
+   "title": "Replacement instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1720874/Atmosair-T400.html"
+  },
+  {
+   "manualId": "2950683",
+   "slug": "Atmosair-Ria-Safeguard",
+   "title": "RIA SafeGuard Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 10,
+   "productModel": "RIA SafeGuard",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2950683/Atmosair-Ria-Safeguard.html"
+  },
+  {
+   "manualId": "1024253",
+   "slug": "Atmosair-P2000",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1024253/Atmosair-P2000.html"
+  },
+  {
+   "manualId": "2354324",
+   "slug": "Atmosair-P2002",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2354324/Atmosair-P2002.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4243750",
+   "slug": "atmosair-fc-400-series-air-ionization-system-manual",
+   "title": "AtmosAir FC-400 Series Air Ionization System Manual"
+  },
+  {
+   "manualId": "4239887",
+   "slug": "atmosair-matterhorn-1000-series-air-purifier-user-guide",
+   "title": "AtmosAir Matterhorn 1000 Series Air Purifier User Guide"
+  }
+ ],
+ "techDirectIds": [
+  "atmosair"
+ ]
+}

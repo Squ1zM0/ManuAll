@@ -1,0 +1,535 @@
+{
+ "brand": "Airthings",
+ "brandSlug": "airthings",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/airthings/"
+ ],
+ "slugUsed": "airthings",
+ "capturedAt": "2026-10-28T06:23:11.890314+00:00",
+ "typePages": [
+  {
+   "path": "/brand/airthings/air-cleaner.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/airthings/gas-detectors.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/airthings/gasdetektorer.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/airthings/gassdetektorer.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/airthings/kotiautomaatio.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/airthings/m-leinstrumenter.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/airthings/measuring-instruments.html",
+   "manuals": 27,
+   "status": 200
+  },
+  {
+   "path": "/brand/airthings/mittalaitteet-ja-mittausv-lineet.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/airthings/monitor.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/airthings/security-sensors.html",
+   "manuals": 23,
+   "status": 200
+  },
+  {
+   "path": "/brand/airthings/smarthus.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/airthings/switch.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2586036",
+   "slug": "Airthings-2403",
+   "title": "2403 Manual",
+   "type": "Other",
+   "pages": 47,
+   "productModel": "2403",
+   "extraModels": [
+    "2460"
+   ],
+   "url": "https://www.manualslib.com/manual/2586036/Airthings-2403.html"
+  },
+  {
+   "manualId": "4586702",
+   "slug": "Airthings-2810",
+   "title": "2810 Bruksanvisning",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "2810",
+   "extraModels": [
+    "2820"
+   ],
+   "url": "https://www.manualslib.com/manual/4586702/Airthings-2810.html"
+  },
+  {
+   "manualId": "4577359",
+   "slug": "Airthings-2810",
+   "title": "2810 Kayttoohje",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "2810",
+   "extraModels": [
+    "2820",
+    "2920",
+    "2930",
+    "2950"
+   ],
+   "url": "https://www.manualslib.com/manual/4577359/Airthings-2810.html"
+  },
+  {
+   "manualId": "3865119",
+   "slug": "Airthings-2930",
+   "title": "2930 user manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "2930",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3865119/Airthings-2930.html"
+  },
+  {
+   "manualId": "3865120",
+   "slug": "Airthings-2950",
+   "title": "2950 user manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "2950",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3865120/Airthings-2950.html"
+  },
+  {
+   "manualId": "4054875",
+   "slug": "Airthings-Corentium-Home-2-At-325",
+   "title": "3250 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "3250",
+   "extraModels": [
+    "3250"
+   ],
+   "url": "https://www.manualslib.com/manual/4054875/Airthings-Corentium-Home-2-At-325.html"
+  },
+  {
+   "manualId": "3776337",
+   "slug": "airthings-view-series-manual",
+   "title": "Airthings View Series Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3776337/airthings-view-series-manual.html"
+  },
+  {
+   "manualId": "3619527",
+   "slug": "airthings-wave-mini-manual",
+   "title": "Airthings Wave Mini Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3619527/airthings-wave-mini-manual.html"
+  },
+  {
+   "manualId": "4578092",
+   "slug": "Airthings-Wave",
+   "title": "Betjeningsvejledning",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4578092/Airthings-Wave.html"
+  },
+  {
+   "manualId": "4586705",
+   "slug": "Airthings-Wave",
+   "title": "Bruksanvisning",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4586705/Airthings-Wave.html"
+  },
+  {
+   "manualId": "4414815",
+   "slug": "corentium-digital-radon-monitor-user-manual",
+   "title": "Corentium Digital Radon Monitor User Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4414815/corentium-digital-radon-monitor-user-manual.html"
+  },
+  {
+   "manualId": "1398782",
+   "slug": "Airthings-Corentium-Home",
+   "title": "corentium HOME user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "corentium HOME",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1398782/Airthings-Corentium-Home.html"
+  },
+  {
+   "manualId": "1947655",
+   "slug": "Airthings-Corentium-Pro",
+   "title": "Corentium Pro Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "Corentium Pro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1947655/Airthings-Corentium-Pro.html"
+  },
+  {
+   "manualId": "2141941",
+   "slug": "Airthings-Corentium-Pro",
+   "title": "Corentium Pro quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Corentium Pro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2141941/Airthings-Corentium-Pro.html"
+  },
+  {
+   "manualId": "4317549",
+   "slug": "Airthings-Corentium-Pro",
+   "title": "Corentium Pro Startup manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "Corentium Pro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4317549/Airthings-Corentium-Pro.html"
+  },
+  {
+   "manualId": "1439808",
+   "slug": "Airthings-Corentium",
+   "title": "CORENTIUM user manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": "CORENTIUM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1439808/Airthings-Corentium.html"
+  },
+  {
+   "manualId": "4573109",
+   "slug": "Airthings-Wave",
+   "title": "Kayttoohje",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4573109/Airthings-Wave.html"
+  },
+  {
+   "manualId": "1346886",
+   "slug": "Airthings-Corentium-Pro",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": null,
+   "extraModels": [
+    "Corentium Home",
+    "Corentium Plus"
+   ],
+   "url": "https://www.manualslib.com/manual/1346886/Airthings-Corentium-Pro.html"
+  },
+  {
+   "manualId": "1409077",
+   "slug": "Airthings-Wave",
+   "title": "operating manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1409077/Airthings-Wave.html"
+  },
+  {
+   "manualId": "1564959",
+   "slug": "Airthings-Wave",
+   "title": "operating manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1564959/Airthings-Wave.html"
+  },
+  {
+   "manualId": "2331494",
+   "slug": "Airthings-281",
+   "title": "operating manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2331494/Airthings-281.html"
+  },
+  {
+   "manualId": "4019317",
+   "slug": "Airthings-At-325",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4019317/Airthings-At-325.html"
+  },
+  {
+   "manualId": "3380960",
+   "slug": "Airthings-Renew-Ap-1",
+   "title": "RENEW AP-1 user manual",
+   "type": "User / Owner",
+   "pages": 57,
+   "productModel": "RENEW AP-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3380960/Airthings-Renew-Ap-1.html"
+  },
+  {
+   "manualId": "1406216",
+   "slug": "Airthings-Wave",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1406216/Airthings-Wave.html"
+  },
+  {
+   "manualId": "3003684",
+   "slug": "Airthings-Corentium-Home",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3003684/Airthings-Corentium-Home.html"
+  },
+  {
+   "manualId": "4576625",
+   "slug": "Airthings-Wave-2nd-Gen",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4576625/Airthings-Wave-2nd-Gen.html"
+  },
+  {
+   "manualId": "2561664",
+   "slug": "Airthings-View-Series",
+   "title": "View Series quick start manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "View Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2561664/Airthings-View-Series.html"
+  },
+  {
+   "manualId": "2839297",
+   "slug": "Airthings-View-Series",
+   "title": "View Series quick start manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "View Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2839297/Airthings-View-Series.html"
+  },
+  {
+   "manualId": "2780507",
+   "slug": "Airthings-View-Series",
+   "title": "View Series user manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "View Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2780507/Airthings-View-Series.html"
+  },
+  {
+   "manualId": "2950616",
+   "slug": "Airthings-View-Series",
+   "title": "View Series user manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "View Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2950616/Airthings-View-Series.html"
+  },
+  {
+   "manualId": "3382548",
+   "slug": "Airthings-View-Series",
+   "title": "View Series user manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "View Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3382548/Airthings-View-Series.html"
+  },
+  {
+   "manualId": "3135276",
+   "slug": "Airthings-Wave-Enhance-At-321",
+   "title": "Wave Enhance AT-321 quick start manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "Wave Enhance AT-321",
+   "extraModels": [
+    "Wave Enhance AT-322"
+   ],
+   "url": "https://www.manualslib.com/manual/3135276/Airthings-Wave-Enhance-At-321.html"
+  },
+  {
+   "manualId": "1956933",
+   "slug": "Airthings-Wave-Mini",
+   "title": "Wave Mini operating manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "Wave Mini",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1956933/Airthings-Wave-Mini.html"
+  },
+  {
+   "manualId": "1892120",
+   "slug": "Airthings-Wave-Mini",
+   "title": "Wave Mini user manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "Wave Mini",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1892120/Airthings-Wave-Mini.html"
+  },
+  {
+   "manualId": "3566452",
+   "slug": "Airthings-Wave-Mini",
+   "title": "Wave Mini user manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "Wave Mini",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3566452/Airthings-Wave-Mini.html"
+  },
+  {
+   "manualId": "3618367",
+   "slug": "Airthings-Wave-Mini",
+   "title": "Wave Mini user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Wave Mini",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3618367/Airthings-Wave-Mini.html"
+  },
+  {
+   "manualId": "4583627",
+   "slug": "Airthings-Wave",
+   "title": "Wave Plus Bruksanvisning",
+   "type": "Other",
+   "pages": 7,
+   "productModel": "Wave Plus",
+   "extraModels": [
+    "Wave Plus"
+   ],
+   "url": "https://www.manualslib.com/manual/4583627/Airthings-Wave.html"
+  },
+  {
+   "manualId": "4583980",
+   "slug": "Airthings-Wave-Plus",
+   "title": "Wave Plus Kayttoohje",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "Wave Plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4583980/Airthings-Wave-Plus.html"
+  },
+  {
+   "manualId": "1451477",
+   "slug": "Airthings-Wave-Plus",
+   "title": "Wave Plus operating manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Wave Plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1451477/Airthings-Wave-Plus.html"
+  },
+  {
+   "manualId": "1806121",
+   "slug": "Airthings-House-Kit",
+   "title": "Wave Plus user manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "Wave Plus",
+   "extraModels": [
+    "Wave Plus",
+    "2810",
+    "2820",
+    "2920",
+    "Hub",
+    "Hub Cellular",
+    "Wave 2",
+    "Wave Mini"
+   ],
+   "url": "https://www.manualslib.com/manual/1806121/Airthings-House-Kit.html"
+  },
+  {
+   "manualId": "4320953",
+   "slug": "Airthings-Wave-Plus",
+   "title": "Wave Plus user manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "Wave Plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4320953/Airthings-Wave-Plus.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "3776337",
+   "slug": "airthings-view-series-manual",
+   "title": "Airthings View Series Manual"
+  },
+  {
+   "manualId": "4414815",
+   "slug": "corentium-digital-radon-monitor-user-manual",
+   "title": "Corentium Digital Radon Monitor User Manual"
+  },
+  {
+   "manualId": "3619527",
+   "slug": "airthings-wave-mini-manual",
+   "title": "Airthings Wave Mini Manual"
+  }
+ ],
+ "techDirectIds": [
+  "airthings"
+ ]
+}

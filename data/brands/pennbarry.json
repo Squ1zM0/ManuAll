@@ -1,0 +1,361 @@
+{
+ "brand": "PennBarry",
+ "brandSlug": "pennbarry",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/pennbarry/"
+ ],
+ "slugUsed": "pennbarry",
+ "capturedAt": "2026-10-28T09:06:26.726169+00:00",
+ "typePages": [
+  {
+   "path": "/brand/pennbarry/fan.html",
+   "manuals": 94,
+   "status": 200
+  },
+  {
+   "path": "/brand/pennbarry/industrial-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/pennbarry/laboratory-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/pennbarry/test-equipment.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/pennbarry/ventilation-hood.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3397787",
+   "slug": "Pennbarry-Awx",
+   "title": "AWX Operation and maintenance manual",
+   "type": "Service",
+   "pages": 22,
+   "productModel": "AWX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3397787/Pennbarry-Awx.html"
+  },
+  {
+   "manualId": "1546913",
+   "slug": "Pennbarry-Breezeway-Bx",
+   "title": "Breezeway BC User Operation & Maintenance Manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "Breezeway BC",
+   "extraModels": [
+    "Breezeway BC",
+    "Breezeway BCH",
+    "Breezeway BHH",
+    "Breezeway BHM",
+    "Breezeway BLL",
+    "Breezeway P"
+   ],
+   "url": "https://www.manualslib.com/manual/1546913/Pennbarry-Breezeway-Bx.html"
+  },
+  {
+   "manualId": "830665",
+   "slug": "Pennbarry-Breezeway",
+   "title": "Breezeway user manual",
+   "type": "User / Owner",
+   "pages": 47,
+   "productModel": "Breezeway",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/830665/Pennbarry-Breezeway.html"
+  },
+  {
+   "manualId": "2157277",
+   "slug": "Pennbarry-Bx12q",
+   "title": "BX12Q Operation & maintenance manual",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "BX12Q",
+   "extraModels": [
+    "BX14Q",
+    "BX16Q",
+    "BX16T",
+    "BX18Q",
+    "BX18T",
+    "BX20Q",
+    "BX20T",
+    "BX24Q",
+    "BX24T"
+   ],
+   "url": "https://www.manualslib.com/manual/2157277/Pennbarry-Bx12q.html"
+  },
+  {
+   "manualId": "1260541",
+   "slug": "Pennbarry-C25",
+   "title": "C25 installation instructions manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "C25",
+   "extraModels": [
+    "C45",
+    "C75",
+    "MV250",
+    "MV450",
+    "MV750"
+   ],
+   "url": "https://www.manualslib.com/manual/1260541/Pennbarry-C25.html"
+  },
+  {
+   "manualId": "2791961",
+   "slug": "Pennbarry-Domex",
+   "title": "Domex Operation & maintenance manual",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "Domex",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2791961/Pennbarry-Domex.html"
+  },
+  {
+   "manualId": "2065266",
+   "slug": "Pennbarry-Dynamo",
+   "title": "DYNAMO Operation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "DYNAMO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2065266/Pennbarry-Dynamo.html"
+  },
+  {
+   "manualId": "1902096",
+   "slug": "Pennbarry-Esa",
+   "title": "ESA Operation & maintenance manual",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "ESA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1902096/Pennbarry-Esa.html"
+  },
+  {
+   "manualId": "1472473",
+   "slug": "Pennbarry-Fumex",
+   "title": "Fumex Product manual",
+   "type": "Other",
+   "pages": 19,
+   "productModel": "Fumex",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1472473/Pennbarry-Fumex.html"
+  },
+  {
+   "manualId": "2202088",
+   "slug": "Pennbarry-Zq105",
+   "title": "instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2202088/Pennbarry-Zq105.html"
+  },
+  {
+   "manualId": "2994516",
+   "slug": "Pennbarry-Iplume",
+   "title": "iPlume Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "iPlume",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2994516/Pennbarry-Iplume.html"
+  },
+  {
+   "manualId": "2386673",
+   "slug": "Pennbarry-Zq405",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2386673/Pennbarry-Zq405.html"
+  },
+  {
+   "manualId": "4024924",
+   "slug": "Pennbarry-Zq75",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4024924/Pennbarry-Zq75.html"
+  },
+  {
+   "manualId": "1510697",
+   "slug": "Pennbarry-Muffan-Fs",
+   "title": "Muffan FS Operation & maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "Muffan FS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1510697/Pennbarry-Muffan-Fs.html"
+  },
+  {
+   "manualId": "1837248",
+   "slug": "Pennbarry-Mxi-Series",
+   "title": "MXI Series Operation & maintenance manual",
+   "type": "Service",
+   "pages": 19,
+   "productModel": "MXI Series",
+   "extraModels": [
+    "MXI-122",
+    "MXI-135",
+    "MXI-150",
+    "MXI-165",
+    "MXI-182",
+    "MXI-200",
+    "MXI-222",
+    "MXI-245",
+    "MXI-270",
+    "MXI-300",
+    "MXI-330",
+    "MXI-365",
+    "MXI-402",
+    "MXI-445",
+    "MXI-490",
+    "MXI-542",
+    "MXI-600"
+   ],
+   "url": "https://www.manualslib.com/manual/1837248/Pennbarry-Mxi-Series.html"
+  },
+  {
+   "manualId": "845381",
+   "slug": "Pennbarry-Zephyrette",
+   "title": "Operation & maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/845381/Pennbarry-Zephyrette.html"
+  },
+  {
+   "manualId": "863381",
+   "slug": "Pennbarry-Zephyrzl1",
+   "title": "Operation & maintenance manual",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/863381/Pennbarry-Zephyrzl1.html"
+  },
+  {
+   "manualId": "798146",
+   "slug": "Pennbarry-Zephyr-Z1",
+   "title": "Operation & maintenance manualoperation & maintenance manual",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/798146/Pennbarry-Zephyr-Z1.html"
+  },
+  {
+   "manualId": "3580878",
+   "slug": "Pennbarry-Prd-Pru",
+   "title": "PRD-PRU Operation and maintenance manual",
+   "type": "Service",
+   "pages": 46,
+   "productModel": "PRD-PRU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3580878/Pennbarry-Prd-Pru.html"
+  },
+  {
+   "manualId": "2286810",
+   "slug": "Pennbarry-Zq165",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2286810/Pennbarry-Zq165.html"
+  },
+  {
+   "manualId": "3037771",
+   "slug": "Pennbarry-Zq2005n",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3037771/Pennbarry-Zq2005n.html"
+  },
+  {
+   "manualId": "2321306",
+   "slug": "Pennbarry-Rau",
+   "title": "RAU Operation and maintenance manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "RAU",
+   "extraModels": [
+    "RAUMO"
+   ],
+   "url": "https://www.manualslib.com/manual/2321306/Pennbarry-Rau.html"
+  },
+  {
+   "manualId": "1508648",
+   "slug": "Pennbarry-Round-Centrex",
+   "title": "ROUND CENTREX Operation & maintenance manual",
+   "type": "Service",
+   "pages": 10,
+   "productModel": "ROUND CENTREX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1508648/Pennbarry-Round-Centrex.html"
+  },
+  {
+   "manualId": "1516017",
+   "slug": "Pennbarry-Swp-Series",
+   "title": "SWP series Operation & maintenance manual",
+   "type": "Service",
+   "pages": 15,
+   "productModel": "SWP series",
+   "extraModels": [
+    "SWP08",
+    "SWP10",
+    "SWP12",
+    "SWP14",
+    "SWP16",
+    "SWP18",
+    "SWP20"
+   ],
+   "url": "https://www.manualslib.com/manual/1516017/Pennbarry-Swp-Series.html"
+  },
+  {
+   "manualId": "4136033",
+   "slug": "Pennbarry-Uvs-Series",
+   "title": "UVS Series Operation and maintenance manual",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "UVS Series",
+   "extraModels": [
+    "UVS1",
+    "UVS2"
+   ],
+   "url": "https://www.manualslib.com/manual/4136033/Pennbarry-Uvs-Series.html"
+  },
+  {
+   "manualId": "3455236",
+   "slug": "Pennbarry-Zq85",
+   "title": "ZQ85 installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "ZQ85",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3455236/Pennbarry-Zq85.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "pennbarry"
+ ]
+}

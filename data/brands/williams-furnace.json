@@ -1,0 +1,3568 @@
+{
+ "brand": "Williams",
+ "brandSlug": "williams-furnace",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/williams-furnace/"
+ ],
+ "slugUsed": "williams-furnace",
+ "capturedAt": "2026-10-28T09:58:55.416118+00:00",
+ "typePages": [
+  {
+   "path": "/brand/williams/air-conditioner.html",
+   "manuals": 17,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/freezer.html",
+   "manuals": 128,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/refrigerator.html",
+   "manuals": 59,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/accessories.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/adapter.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/air-handlers.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/amplifier.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/arcade-game-machines.html",
+   "manuals": 50,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/boat.html",
+   "manuals": 49,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/camera-accessories.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/chiller.html",
+   "manuals": 124,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/commercial-food-equipment.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/control-unit.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/dehumidifier.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/digital-photo-frame.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/electric-heater.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/electronic-keyboard.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/furnace.html",
+   "manuals": 539,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/furnace-accessories.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/game.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/gas-heater.html",
+   "manuals": 356,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/heat-pump.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/heater.html",
+   "manuals": 345,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/indoor-fireplace.html",
+   "manuals": 73,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/industrial-equipment.html",
+   "manuals": 26,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/jacks.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/light-bulbs.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/light-fixture.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/lighting-equipment.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/monitor.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/musical-instrument.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/other.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/patio-heater.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/pinball-machine.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/power-tool.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/racks-and-stands.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/spreader.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/test-equipment.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/tools.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/toy.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/wall-furnaces.html",
+   "manuals": 219,
+   "status": 200
+  },
+  {
+   "path": "/brand/williams/water-pump.html",
+   "manuals": 4,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4106852",
+   "slug": "Williams-0556542",
+   "title": "0556541 Installation & operating instruction manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "0556541",
+   "extraModels": [
+    "0556541",
+    "1556511",
+    "1556541",
+    "1856512",
+    "1856542",
+    "2556511",
+    "2556541",
+    "3056512",
+    "3056542"
+   ],
+   "url": "https://www.manualslib.com/manual/4106852/Williams-0556542.html"
+  },
+  {
+   "manualId": "634818",
+   "slug": "Williams-0656542-9",
+   "title": "0656541.9 owner's manual",
+   "type": "User / Owner",
+   "pages": 29,
+   "productModel": "0656541.9",
+   "extraModels": [
+    "0656541.9",
+    "1056511.9",
+    "1056512.9",
+    "1056541.9",
+    "1056542.9, 2056512.9",
+    "2056511.9",
+    "2056512.9",
+    "3056511.9",
+    "3056512.9"
+   ],
+   "url": "https://www.manualslib.com/manual/634818/Williams-0656542-9.html"
+  },
+  {
+   "manualId": "2550318",
+   "slug": "Williams-0743512",
+   "title": "0743511 owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "0743511",
+   "extraModels": [
+    "0743511"
+   ],
+   "url": "https://www.manualslib.com/manual/2550318/Williams-0743512.html"
+  },
+  {
+   "manualId": "797245",
+   "slug": "Williams-1096513-9",
+   "title": "1096513.9 owner's manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "1096513.9",
+   "extraModels": [
+    "2096513.9",
+    "3096513.9"
+   ],
+   "url": "https://www.manualslib.com/manual/797245/Williams-1096513-9.html"
+  },
+  {
+   "manualId": "783668",
+   "slug": "Williams-696542",
+   "title": "1096541 OWNER'S OPERATION AND INSTALLATION MANUAL",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "1096541",
+   "extraModels": [
+    "1096541",
+    "1096542",
+    "3096542",
+    "696541"
+   ],
+   "url": "https://www.manualslib.com/manual/783668/Williams-696542.html"
+  },
+  {
+   "manualId": "1013771",
+   "slug": "Williams-1286513",
+   "title": "1286513 user manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "1286513",
+   "extraModels": [
+    "1286543",
+    "2086513",
+    "3086513"
+   ],
+   "url": "https://www.manualslib.com/manual/1013771/Williams-1286513.html"
+  },
+  {
+   "manualId": "512154",
+   "slug": "Williams-1403621-05",
+   "title": "1403621.05 owner's manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "1403621.05",
+   "extraModels": [
+    "3003621.05"
+   ],
+   "url": "https://www.manualslib.com/manual/512154/Williams-1403621-05.html"
+  },
+  {
+   "manualId": "3192317",
+   "slug": "Williams-1403821",
+   "title": "1403821 owner's manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "1403821",
+   "extraModels": [
+    "1413821",
+    "1433821",
+    "1453821",
+    "14H3822",
+    "2203821",
+    "2213821",
+    "2233821",
+    "2253821",
+    "3003821",
+    "3013821",
+    "3033821",
+    "3053821"
+   ],
+   "url": "https://www.manualslib.com/manual/3192317/Williams-1403821.html"
+  },
+  {
+   "manualId": "770318",
+   "slug": "Williams-1403622",
+   "title": "1403821 owner's manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "1403821",
+   "extraModels": [
+    "1403821",
+    "1403822",
+    "1413821",
+    "1413822",
+    "1433621",
+    "1433622",
+    "1433821",
+    "1433822",
+    "1453621",
+    "1453622",
+    "1453821",
+    "1453822",
+    "2203821",
+    "2203822",
+    "2213821",
+    "2213822",
+    "2233621",
+    "2233622",
+    "2233821",
+    "2233822",
+    "2253621",
+    "2253622",
+    "2253821",
+    "2253822",
+    "3033621",
+    "3033622",
+    "3053621",
+    "3053622",
+    "Gravity 1403621",
+    "Gravity 2203621",
+    "Gravity 2203622",
+    "Gravity 3003621",
+    "Gravity 3003622"
+   ],
+   "url": "https://www.manualslib.com/manual/770318/Williams-1403622.html"
+  },
+  {
+   "manualId": "4071744",
+   "slug": "Williams-1403622",
+   "title": "1433621 Installation & operating instruction manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "1433621",
+   "extraModels": [
+    "1433621",
+    "1433622",
+    "1453621",
+    "1453622",
+    "2233621",
+    "2233622",
+    "2253621",
+    "2253622",
+    "3033621",
+    "3033622",
+    "3053621",
+    "3053622",
+    "Gravity 1403621",
+    "Gravity 2203621",
+    "Gravity 2203622",
+    "Gravity 3003621",
+    "Gravity 3003622",
+    "1403621.5",
+    "3003621.5"
+   ],
+   "url": "https://www.manualslib.com/manual/4071744/Williams-1403622.html"
+  },
+  {
+   "manualId": "3657671",
+   "slug": "Williams-1686511",
+   "title": "1686511 Safety information and installation manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "1686511",
+   "extraModels": [
+    "1686541",
+    "1886512",
+    "1886542",
+    "2686511",
+    "2686541",
+    "3086512",
+    "3086542"
+   ],
+   "url": "https://www.manualslib.com/manual/3657671/Williams-1686511.html"
+  },
+  {
+   "manualId": "1225216",
+   "slug": "Williams-1753012",
+   "title": "1753012 owner's manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "1753012",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1225216/Williams-1753012.html"
+  },
+  {
+   "manualId": "194725",
+   "slug": "Williams-7435",
+   "title": "1773511 Brochure & Specs",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "1773511",
+   "extraModels": [
+    "1773511",
+    "1773512",
+    "2903511",
+    "2903512"
+   ],
+   "url": "https://www.manualslib.com/manual/194725/Williams-7435.html"
+  },
+  {
+   "manualId": "1057320",
+   "slug": "Williams-1773512",
+   "title": "1773511 Installation instructions and owner's manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "1773511",
+   "extraModels": [
+    "1773511"
+   ],
+   "url": "https://www.manualslib.com/manual/1057320/Williams-1773512.html"
+  },
+  {
+   "manualId": "194728",
+   "slug": "Williams-1773512",
+   "title": "1773511 Installation instructions and owner's manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "1773511",
+   "extraModels": [
+    "1773511"
+   ],
+   "url": "https://www.manualslib.com/manual/194728/Williams-1773512.html"
+  },
+  {
+   "manualId": "3377902",
+   "slug": "Williams-1773512",
+   "title": "1773511 owner's manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "1773511",
+   "extraModels": [
+    "1773511"
+   ],
+   "url": "https://www.manualslib.com/manual/3377902/Williams-1773512.html"
+  },
+  {
+   "manualId": "919583",
+   "slug": "Williams-19-Raster",
+   "title": "19\" Raster Instruction Manual Supplement",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "19\" Raster",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/919583/Williams-19-Raster.html"
+  },
+  {
+   "manualId": "512155",
+   "slug": "Williams-5001922",
+   "title": "2001611 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "2001611",
+   "extraModels": [
+    "2001611",
+    "2001612",
+    "2001621",
+    "2001622",
+    "3501511",
+    "3501512",
+    "3501521",
+    "3501522",
+    "3501911",
+    "3501912",
+    "3501921",
+    "3501922",
+    "5001511",
+    "5001512",
+    "5001521",
+    "5001522",
+    "5001911",
+    "5001912",
+    "5001921",
+    "6501511",
+    "6501512",
+    "6501521",
+    "6501522",
+    "6501911",
+    "6501912",
+    "6501921",
+    "6501922"
+   ],
+   "url": "https://www.manualslib.com/manual/512155/Williams-5001922.html"
+  },
+  {
+   "manualId": "194743",
+   "slug": "Williams-2001621",
+   "title": "2001621 Brochure & Specs",
+   "type": "Other",
+   "pages": 3,
+   "productModel": "2001621",
+   "extraModels": [
+    "2001622",
+    "2001622.3",
+    "3501521",
+    "3501522",
+    "3501921",
+    "3501922",
+    "3502521",
+    "3502522",
+    "3502921",
+    "3502922",
+    "5001521",
+    "5001522",
+    "5001921",
+    "5001922",
+    "5002521",
+    "5002522",
+    "5002921",
+    "5002922",
+    "6501521",
+    "6501522",
+    "6501921",
+    "6501922",
+    "6502521",
+    "6502522",
+    "6502921",
+    "6502922"
+   ],
+   "url": "https://www.manualslib.com/manual/194743/Williams-2001621.html"
+  },
+  {
+   "manualId": "2550811",
+   "slug": "Williams-2001622",
+   "title": "2001621 Installation & operating instruction manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "2001621",
+   "extraModels": [
+    "2001621",
+    "2001622.3",
+    "3501521",
+    "3501522",
+    "3501921",
+    "3501922",
+    "3502521",
+    "3502522",
+    "3502921",
+    "3502922",
+    "5001521",
+    "5001522",
+    "5001921",
+    "5001922",
+    "5002521",
+    "5002522",
+    "5002921",
+    "5002922",
+    "6501521",
+    "6501522",
+    "6501921",
+    "6501922",
+    "6502521",
+    "6502522",
+    "6502921",
+    "6502922",
+    "2031621",
+    "2031622",
+    "2031622.3",
+    "2051621",
+    "2051622",
+    "2051622.3",
+    "3501522.3",
+    "3531521",
+    "3531522",
+    "3531522.3",
+    "3531921",
+    "3531922",
+    "3532521",
+    "3532522",
+    "3532921",
+    "3532922",
+    "3551521",
+    "3551522",
+    "3551522.3",
+    "3551921",
+    "3551922",
+    "3552521",
+    "3552522",
+    "3552921",
+    "3552922",
+    "5031521",
+    "5031522",
+    "5031921",
+    "5031922",
+    "5032521",
+    "5032522",
+    "5032921",
+    "5032922",
+    "5051521",
+    "5051522",
+    "5051921",
+    "5051922",
+    "5052521",
+    "5052522",
+    "5052921",
+    "5052922",
+    "6531521",
+    "6531522",
+    "6531921",
+    "6531922",
+    "6532521",
+    "6532522",
+    "6532921",
+    "6532922",
+    "6551521",
+    "6551522",
+    "6551921",
+    "6551922",
+    "6552521",
+    "6552522",
+    "6552921",
+    "6552922"
+   ],
+   "url": "https://www.manualslib.com/manual/2550811/Williams-2001622.html"
+  },
+  {
+   "manualId": "3080310",
+   "slug": "Williams-3501522a",
+   "title": "2001621A owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "2001621A",
+   "extraModels": [
+    "2001621A",
+    "2001622A",
+    "3501521A",
+    "3501921A",
+    "3501922A",
+    "3502521A",
+    "3502522A",
+    "3502921A",
+    "3502922A",
+    "5001521A",
+    "5001522A",
+    "5001921A",
+    "5001922A",
+    "5002521A",
+    "5002522A",
+    "5002921A",
+    "5002922A",
+    "6501521A",
+    "6501522A",
+    "6501921A",
+    "6501922A",
+    "6502521A",
+    "6502522A",
+    "6502921A",
+    "6502922A",
+    "ENCLOSED FRONT",
+    "FIREPLACE FRONT"
+   ],
+   "url": "https://www.manualslib.com/manual/3080310/Williams-3501522a.html"
+  },
+  {
+   "manualId": "622960",
+   "slug": "Williams-2001622a",
+   "title": "2001621A owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "2001621A",
+   "extraModels": [
+    "2001621A",
+    "2011621A",
+    "2011622A",
+    "2031621A",
+    "2031622A",
+    "2051621A",
+    "2051622A",
+    "3501521A",
+    "3501522A",
+    "3501921A",
+    "3501922A",
+    "3502521A",
+    "3502522A",
+    "3502921A",
+    "3502922A",
+    "3511521A",
+    "3511522A",
+    "3511921A",
+    "3511922A",
+    "3512521A",
+    "3512921A",
+    "3512922A",
+    "3531521A",
+    "3531522A",
+    "3531921A",
+    "3531922A",
+    "3532521A",
+    "3532522A",
+    "3532921A",
+    "3532922A",
+    "3551521A",
+    "3551522A",
+    "3551921A",
+    "3551922A",
+    "3552521A",
+    "3552522A",
+    "3552921A",
+    "3552922A",
+    "5001521A",
+    "5001522A",
+    "5001921A",
+    "5001922A",
+    "5002521A",
+    "5002522A",
+    "5002921A",
+    "5002922A",
+    "5011521A",
+    "5011522A",
+    "5011921A",
+    "5011922A",
+    "5012521A",
+    "5012522A",
+    "5012922A",
+    "5031521A",
+    "5031522A",
+    "5031921A",
+    "5031922A",
+    "5032521A",
+    "5032522A",
+    "5032921A",
+    "5032922A",
+    "5051521A",
+    "5051522A",
+    "5051921A",
+    "5051922A",
+    "5052521A",
+    "5052522A",
+    "5052921A",
+    "5052922A",
+    "6501521A",
+    "6501522A",
+    "6501921A",
+    "6501922A",
+    "6502521A",
+    "6502522A",
+    "6502921A",
+    "6502922A",
+    "6511521A",
+    "6511522A",
+    "6511921A",
+    "6511922A",
+    "6512521A",
+    "6512522A",
+    "6512921A",
+    "6512922A",
+    "6531521A",
+    "6531522A",
+    "6531921A",
+    "6531922A",
+    "6532521A",
+    "6532522A",
+    "6532921A",
+    "6532922A",
+    "6551521A",
+    "6551522A",
+    "6551921A",
+    "6551922A",
+    "6552521A",
+    "6552522A",
+    "6552921A",
+    "6552922A"
+   ],
+   "url": "https://www.manualslib.com/manual/622960/Williams-2001622a.html"
+  },
+  {
+   "manualId": "194744",
+   "slug": "Williams-2503531",
+   "title": "2503531 OWNER'S OPERATION AND INSTALLATION MANUAL",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "2503531",
+   "extraModels": [
+    "4003531"
+   ],
+   "url": "https://www.manualslib.com/manual/194744/Williams-2503531.html"
+  },
+  {
+   "manualId": "194745",
+   "slug": "Williams-2503532",
+   "title": "2503532 OWNER'S OPERATION AND INSTALLATION MANUAL",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "2503532",
+   "extraModels": [
+    "4003532"
+   ],
+   "url": "https://www.manualslib.com/manual/194745/Williams-2503532.html"
+  },
+  {
+   "manualId": "520711",
+   "slug": "Williams-4003532",
+   "title": "2503532 OWNER'S OPERATION AND INSTALLATION MANUAL",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "2503532",
+   "extraModels": [
+    "2503532"
+   ],
+   "url": "https://www.manualslib.com/manual/520711/Williams-4003532.html"
+  },
+  {
+   "manualId": "4079313",
+   "slug": "Williams-2509622",
+   "title": "2509621 Installation & operating instruction manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "2509621",
+   "extraModels": [
+    "2509621",
+    "2539621",
+    "2539622",
+    "2559621",
+    "2559622",
+    "3509621",
+    "3509622",
+    "3539621",
+    "3539622",
+    "3559621",
+    "3559622",
+    "5009621",
+    "5009622",
+    "5039621",
+    "5039622",
+    "5059621",
+    "5059622"
+   ],
+   "url": "https://www.manualslib.com/manual/4079313/Williams-2509622.html"
+  },
+  {
+   "manualId": "512158",
+   "slug": "Williams-2509621",
+   "title": "2509621 Installation & operating instruction manual",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "2509621",
+   "extraModels": [
+    "2509622",
+    "3509621",
+    "3509622",
+    "5009621",
+    "5009622",
+    "2509611",
+    "2509612",
+    "3509611",
+    "3509612",
+    "5009611",
+    "5009612"
+   ],
+   "url": "https://www.manualslib.com/manual/512158/Williams-2509621.html"
+  },
+  {
+   "manualId": "722613",
+   "slug": "Williams-2509622",
+   "title": "2509621 owner's manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "2509621",
+   "extraModels": [
+    "2509621",
+    "2509621A",
+    "2509622A",
+    "2509821",
+    "2509822",
+    "2519621",
+    "2519621A",
+    "2519622",
+    "2519622A",
+    "2519821",
+    "2519822",
+    "2539621",
+    "2539621A",
+    "2539622",
+    "2539622A",
+    "2539821",
+    "2539822",
+    "2559621",
+    "2559621A",
+    "2559622",
+    "2559622A",
+    "2559821",
+    "2559822",
+    "3509621",
+    "3509621A",
+    "3509622",
+    "3509622A",
+    "3509821",
+    "3509822",
+    "3519621",
+    "3519621A",
+    "3519622",
+    "3519622A",
+    "3519821",
+    "3519822",
+    "3519822:3539822",
+    "3539621",
+    "3539621A",
+    "3539622",
+    "3539622A",
+    "3539821",
+    "3539822",
+    "3559621",
+    "3559621A",
+    "3559622",
+    "3559622A",
+    "3559821",
+    "3559822",
+    "5009621",
+    "5009621A",
+    "5009622",
+    "5009622A",
+    "5009821",
+    "5009822",
+    "5019621",
+    "5019621A",
+    "5019622",
+    "5019622A",
+    "5019821",
+    "5019822",
+    "5039621",
+    "5039621A",
+    "5039622",
+    "5039622A",
+    "5039821",
+    "5039822",
+    "5059621",
+    "5059621A",
+    "5059622",
+    "5059622A",
+    "5059821",
+    "5059822"
+   ],
+   "url": "https://www.manualslib.com/manual/722613/Williams-2509622.html"
+  },
+  {
+   "manualId": "758438",
+   "slug": "Williams-2509822",
+   "title": "2509821 owner's manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "2509821",
+   "extraModels": [
+    "2509821",
+    "2519821",
+    "2519822",
+    "2539821",
+    "2539822",
+    "2559821",
+    "2559822",
+    "3509821",
+    "3509822",
+    "3519821",
+    "3519822",
+    "3519822:3539822",
+    "3539821",
+    "3539822",
+    "3559821",
+    "3559822",
+    "5009821",
+    "5009822",
+    "5019821",
+    "5019822",
+    "5039821",
+    "5039822",
+    "5059821",
+    "5059822"
+   ],
+   "url": "https://www.manualslib.com/manual/758438/Williams-2509822.html"
+  },
+  {
+   "manualId": "2349310",
+   "slug": "Williams-2509822a",
+   "title": "2519822 owner's manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "2519822",
+   "extraModels": [
+    "2519822",
+    "2559822",
+    "3519821",
+    "3519822",
+    "3539821",
+    "3539822",
+    "3559821",
+    "3559822",
+    "5019821",
+    "5019822",
+    "5039821",
+    "5059821",
+    "5059822",
+    "2509821A",
+    "3509821A",
+    "3509822A",
+    "5009821A",
+    "5009822A",
+    "6039822",
+    "MONTEREY PLUS"
+   ],
+   "url": "https://www.manualslib.com/manual/2349310/Williams-2509822a.html"
+  },
+  {
+   "manualId": "955418",
+   "slug": "Williams-2696541",
+   "title": "2696541 OWNER'S OPERATION AND INSTALLATION MANUAL",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "2696541",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/955418/Williams-2696541.html"
+  },
+  {
+   "manualId": "194736",
+   "slug": "Williams-2903511",
+   "title": "2903511 Installation instructions and owner's manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "2903511",
+   "extraModels": [
+    "2903512"
+   ],
+   "url": "https://www.manualslib.com/manual/194736/Williams-2903511.html"
+  },
+  {
+   "manualId": "922123",
+   "slug": "Williams-2903512",
+   "title": "2903511 Installation instructions and owner's manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "2903511",
+   "extraModels": [
+    "2903511"
+   ],
+   "url": "https://www.manualslib.com/manual/922123/Williams-2903512.html"
+  },
+  {
+   "manualId": "3488044",
+   "slug": "Williams-3005622",
+   "title": "3005622 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "3005622",
+   "extraModels": [
+    "5005622",
+    "6205622"
+   ],
+   "url": "https://www.manualslib.com/manual/3488044/Williams-3005622.html"
+  },
+  {
+   "manualId": "622906",
+   "slug": "Williams-3508232",
+   "title": "31 owner's manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "31",
+   "extraModels": [
+    "31",
+    "3508231",
+    "3508631",
+    "3508632",
+    "3518231",
+    "3518232",
+    "3518631",
+    "3518632",
+    "3538231",
+    "3538232",
+    "3538631",
+    "3538632",
+    "3558231",
+    "3558232",
+    "3558631",
+    "3558632",
+    "5008631",
+    "5008632",
+    "5018631",
+    "5018632",
+    "5038631",
+    "5038632",
+    "5058631",
+    "5058632",
+    "5508231",
+    "5508232",
+    "5518231",
+    "5518232",
+    "5538231",
+    "5538232",
+    "5558231",
+    "5558232",
+    "6508631",
+    "6508632",
+    "6518631",
+    "6518632",
+    "6538631",
+    "6538632",
+    "6558631",
+    "6558632"
+   ],
+   "url": "https://www.manualslib.com/manual/622906/Williams-3508232.html"
+  },
+  {
+   "manualId": "194735",
+   "slug": "Williams-3508331",
+   "title": "3144030 Brochure & specs",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "3144030",
+   "extraModels": [
+    "3144030",
+    "3508332",
+    "3508731",
+    "3508732",
+    "4007331",
+    "4007332",
+    "4007731",
+    "4007732",
+    "5008731",
+    "5008732",
+    "5507331",
+    "5507332",
+    "5508331",
+    "5508332",
+    "6008531",
+    "6008532",
+    "6257731",
+    "6257732",
+    "6508731",
+    "6508732"
+   ],
+   "url": "https://www.manualslib.com/manual/194735/Williams-3508331.html"
+  },
+  {
+   "manualId": "194740",
+   "slug": "Williams-6501",
+   "title": "3144030 Brochure & specs",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "3144030",
+   "extraModels": [
+    "3144030"
+   ],
+   "url": "https://www.manualslib.com/manual/194740/Williams-6501.html"
+  },
+  {
+   "manualId": "520708",
+   "slug": "Williams-3144030",
+   "title": "3144030 owner's manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "3144030",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/520708/Williams-3144030.html"
+  },
+  {
+   "manualId": "622966",
+   "slug": "Williams-3144030",
+   "title": "3144030 owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "3144030",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/622966/Williams-3144030.html"
+  },
+  {
+   "manualId": "1012150",
+   "slug": "Williams-3502512-3",
+   "title": "3502511.3 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "3502511.3",
+   "extraModels": [
+    "3502511.3",
+    "3502521.3",
+    "3502522.3",
+    "3502911.3",
+    "3502912.3",
+    "3502921.3",
+    "3502922.3",
+    "5002511.3",
+    "5002512.3",
+    "5002521.3",
+    "5002522.3",
+    "5002911.3",
+    "5002912.3",
+    "5002921.3",
+    "5002922.3",
+    "6502511.3",
+    "6502512.3",
+    "6502521.3",
+    "6502522.3",
+    "6502911.3",
+    "6502912.3",
+    "6502921.3",
+    "6502922.3"
+   ],
+   "url": "https://www.manualslib.com/manual/1012150/Williams-3502512-3.html"
+  },
+  {
+   "manualId": "3737025",
+   "slug": "Williams-Forsaire-3508632",
+   "title": "3508231 owner's manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "3508231",
+   "extraModels": [
+    "3508231",
+    "3508232",
+    "3508631",
+    "3518231",
+    "3518232",
+    "3518631",
+    "3538231",
+    "3538232",
+    "3538631",
+    "3538632",
+    "3558231",
+    "3558232",
+    "3558631",
+    "3558632",
+    "5008631",
+    "5008632",
+    "5508231",
+    "5508232",
+    "5518231",
+    "5518232",
+    "5538231",
+    "5538232",
+    "5558232",
+    "6508631",
+    "6508632",
+    "6518631",
+    "6518632",
+    "6538631",
+    "6538632",
+    "6558631",
+    "6558632",
+    "FORSAIRE 35186232",
+    "FORSAIRE 5588231",
+    "FORSAIRE 6518231",
+    "FORSAIRE 6518232",
+    "FORSAIRE 6538231",
+    "FORSAIRE 6538232",
+    "FORSAIRE 6558231",
+    "FORSAIRE 6558232"
+   ],
+   "url": "https://www.manualslib.com/manual/3737025/Williams-Forsaire-3508632.html"
+  },
+  {
+   "manualId": "512156",
+   "slug": "Williams-5508332",
+   "title": "3508331 owner's manual",
+   "type": "User / Owner",
+   "pages": 49,
+   "productModel": "3508331",
+   "extraModels": [
+    "3508331",
+    "3508332",
+    "3508731",
+    "3508732",
+    "5008731",
+    "5008732",
+    "5508331",
+    "6508731",
+    "6508732"
+   ],
+   "url": "https://www.manualslib.com/manual/512156/Williams-5508332.html"
+  },
+  {
+   "manualId": "896180",
+   "slug": "Williams-3508732",
+   "title": "3508331 user manual",
+   "type": "User / Owner",
+   "pages": 46,
+   "productModel": "3508331",
+   "extraModels": [
+    "3508331",
+    "3508332",
+    "3508731",
+    "5008731",
+    "5008732",
+    "5508331",
+    "5508332",
+    "6508731",
+    "6508732"
+   ],
+   "url": "https://www.manualslib.com/manual/896180/Williams-3508732.html"
+  },
+  {
+   "manualId": "2339588",
+   "slug": "Williams-3m05t75",
+   "title": "3M05T150 Owner's/operator's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "3M05T150",
+   "extraModels": [
+    "3M05T150",
+    "3M10T160",
+    "3M20T160"
+   ],
+   "url": "https://www.manualslib.com/manual/2339588/Williams-3m05t75.html"
+  },
+  {
+   "manualId": "2377490",
+   "slug": "Williams-3t12tv",
+   "title": "3S12TV Owner's/operator's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "3S12TV",
+   "extraModels": [
+    "3S12TV",
+    "3S20T",
+    "3T20TV"
+   ],
+   "url": "https://www.manualslib.com/manual/2377490/Williams-3t12tv.html"
+  },
+  {
+   "manualId": "194738",
+   "slug": "Williams-4318",
+   "title": "4007331 Brochure & specs",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "4007331",
+   "extraModels": [
+    "4007331",
+    "4007332",
+    "4007731",
+    "4007732",
+    "5507331",
+    "5507332",
+    "6257731",
+    "6257732",
+    "Gravity 1403621",
+    "Gravity 1403622",
+    "Gravity 2203621",
+    "Gravity 2203622",
+    "Gravity 3003621",
+    "Gravity 3003622"
+   ],
+   "url": "https://www.manualslib.com/manual/194738/Williams-4318.html"
+  },
+  {
+   "manualId": "2639713",
+   "slug": "Williams-Forsaire-4007332",
+   "title": "4007331 owner's manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "4007331",
+   "extraModels": [
+    "4007331",
+    "4007731",
+    "4007732",
+    "5507331",
+    "5507332",
+    "6007731",
+    "6007732"
+   ],
+   "url": "https://www.manualslib.com/manual/2639713/Williams-Forsaire-4007332.html"
+  },
+  {
+   "manualId": "512157",
+   "slug": "Williams-6257731",
+   "title": "4007331 owner's manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "4007331",
+   "extraModels": [
+    "4007331",
+    "4007332",
+    "4007731",
+    "4007732",
+    "5507331",
+    "5507332",
+    "6257732"
+   ],
+   "url": "https://www.manualslib.com/manual/512157/Williams-6257731.html"
+  },
+  {
+   "manualId": "673050",
+   "slug": "Williams-4007332",
+   "title": "4007331 owner's manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "4007331",
+   "extraModels": [
+    "4007331",
+    "4007731",
+    "4007732",
+    "5507331",
+    "5507332",
+    "6007731",
+    "6007732"
+   ],
+   "url": "https://www.manualslib.com/manual/673050/Williams-4007332.html"
+  },
+  {
+   "manualId": "512152",
+   "slug": "Williams-6500741-6",
+   "title": "4500741.6 and Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "4500741.6 and",
+   "extraModels": [
+    "4500741.6 and",
+    "4500741.7 and",
+    "4500741.8 and",
+    "5500741.6 and",
+    "5500741.7 and",
+    "5500741.8 and",
+    "6500741.6 and",
+    "6500741.7 and",
+    "6500741.8 and",
+    "6500742.6 and",
+    "6500742.7 and",
+    "6500742.8 and",
+    "7400742.6 and",
+    "7400742.7 and",
+    "7400742.8 and",
+    "9600742.6 and",
+    "9600742.7 and",
+    "9600742.8 and"
+   ],
+   "url": "https://www.manualslib.com/manual/512152/Williams-6500741-6.html"
+  },
+  {
+   "manualId": "194739",
+   "slug": "Williams-4505621",
+   "title": "4505621 Brochure & specs",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "4505621",
+   "extraModels": [
+    "6005621",
+    "NOS 4505622",
+    "NOS 6005622"
+   ],
+   "url": "https://www.manualslib.com/manual/194739/Williams-4505621.html"
+  },
+  {
+   "manualId": "4369275",
+   "slug": "Williams-4505622",
+   "title": "4505621 Installation & operating instruction manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "4505621",
+   "extraModels": [
+    "4505621",
+    "6005621",
+    "6005622"
+   ],
+   "url": "https://www.manualslib.com/manual/4369275/Williams-4505622.html"
+  },
+  {
+   "manualId": "491876",
+   "slug": "Williams-Nos-4505622",
+   "title": "4505621 Installation & operating instruction manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "4505621",
+   "extraModels": [
+    "4505621",
+    "6005621",
+    "NOS 6005622"
+   ],
+   "url": "https://www.manualslib.com/manual/491876/Williams-Nos-4505622.html"
+  },
+  {
+   "manualId": "520705",
+   "slug": "Williams-4505621",
+   "title": "4505621 Installation & operating instruction manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "4505621",
+   "extraModels": [
+    "6005621",
+    "NOS 4505622",
+    "NOS 6005622"
+   ],
+   "url": "https://www.manualslib.com/manual/520705/Williams-4505621.html"
+  },
+  {
+   "manualId": "3377921",
+   "slug": "Williams-4505622a",
+   "title": "4505621A owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "4505621A",
+   "extraModels": [
+    "4505621A",
+    "6005621A",
+    "6005622A"
+   ],
+   "url": "https://www.manualslib.com/manual/3377921/Williams-4505622a.html"
+  },
+  {
+   "manualId": "741043",
+   "slug": "Williams-4505622a",
+   "title": "4505621A owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "4505621A",
+   "extraModels": [
+    "4505621A",
+    "6005621A",
+    "6005622A"
+   ],
+   "url": "https://www.manualslib.com/manual/741043/Williams-4505622a.html"
+  },
+  {
+   "manualId": "2546486",
+   "slug": "Williams-4m04t",
+   "title": "4M010T Owner's/operator's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "4M010T",
+   "extraModels": [
+    "4M010T"
+   ],
+   "url": "https://www.manualslib.com/manual/2546486/Williams-4m04t.html"
+  },
+  {
+   "manualId": "2727134",
+   "slug": "Williams-5g55h5g",
+   "title": "5G102H5G Owner's/operator's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "5G102H5G",
+   "extraModels": [
+    "5G102H5G"
+   ],
+   "url": "https://www.manualslib.com/manual/2727134/Williams-5g55h5g.html"
+  },
+  {
+   "manualId": "2726645",
+   "slug": "Williams-5hs2s35",
+   "title": "5HS2S100 Owner's/operator's manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "5HS2S100",
+   "extraModels": [
+    "5HS2S100"
+   ],
+   "url": "https://www.manualslib.com/manual/2726645/Williams-5hs2s35.html"
+  },
+  {
+   "manualId": "654495",
+   "slug": "Williams-6008532",
+   "title": "6008531 owner's manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "6008531",
+   "extraModels": [
+    "6008531",
+    "6008831",
+    "6008832",
+    "6008531A",
+    "6008532A",
+    "6018531A",
+    "6018532A",
+    "6018831",
+    "6018832",
+    "6038531",
+    "6038531A",
+    "6038532",
+    "6038532A",
+    "6038831",
+    "6038832",
+    "6058531",
+    "6058531A",
+    "6058532",
+    "6058532A",
+    "6058831",
+    "6058832"
+   ],
+   "url": "https://www.manualslib.com/manual/654495/Williams-6008532.html"
+  },
+  {
+   "manualId": "3377918",
+   "slug": "Williams-Magnum-Forsaire-6008832",
+   "title": "6008831 owner's manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "6008831",
+   "extraModels": [
+    "6008831"
+   ],
+   "url": "https://www.manualslib.com/manual/3377918/Williams-Magnum-Forsaire-6008832.html"
+  },
+  {
+   "manualId": "2299656",
+   "slug": "Williams-6cf05t03",
+   "title": "6CF05T03 Owner's/operator's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "6CF05T03",
+   "extraModels": [
+    "6CF10T05",
+    "6CF20T05",
+    "6CF30T05",
+    "6CF50T05"
+   ],
+   "url": "https://www.manualslib.com/manual/2299656/Williams-6cf05t03.html"
+  },
+  {
+   "manualId": "3261940",
+   "slug": "Williams-6ch12t03",
+   "title": "6CH12T03 Operator's manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "6CH12T03",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3261940/Williams-6ch12t03.html"
+  },
+  {
+   "manualId": "2740071",
+   "slug": "Williams-6s-5t03",
+   "title": "6S.5T03 Owner's/operator's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "6S.5T03",
+   "extraModels": [
+    "6S01T03"
+   ],
+   "url": "https://www.manualslib.com/manual/2740071/Williams-6s-5t03.html"
+  },
+  {
+   "manualId": "194726",
+   "slug": "Williams-743511",
+   "title": "743511 Installation and owner's manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "743511",
+   "extraModels": [
+    "743512"
+   ],
+   "url": "https://www.manualslib.com/manual/194726/Williams-743511.html"
+  },
+  {
+   "manualId": "4214512",
+   "slug": "Williams-Joust",
+   "title": "A-5343-09961-A instruction manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "A-5343-09961-A",
+   "extraModels": [
+    "A-5343-09961-A",
+    "A-5343-09962-A",
+    "A-5343-09963-A",
+    "A-5343-09964-A",
+    "A-5343-09965-A",
+    "A-5343-09966-A",
+    "A-5343-09967-A",
+    "A-5343-09968-A",
+    "A-5343-09969-A",
+    "A-5343-09970-A",
+    "A-5343-09971-A",
+    "A-5343-09972-A",
+    "JOUST 10A",
+    "JOUST 11A",
+    "JOUST 12A",
+    "JOUST 1A",
+    "JOUST 2A",
+    "JOUST 3A",
+    "JOUST 4A",
+    "JOUST 5A",
+    "JOUST 6A",
+    "JOUST 7A",
+    "JOUST 8A",
+    "JOUST 9A"
+   ],
+   "url": "https://www.manualslib.com/manual/4214512/Williams-Joust.html"
+  },
+  {
+   "manualId": "238911",
+   "slug": "Williams-Genius-Touch-Get2021",
+   "title": "A135 Equipment manual",
+   "type": "Other",
+   "pages": 31,
+   "productModel": "A135",
+   "extraModels": [
+    "A135",
+    "A280",
+    "A400",
+    "Aztra 10CT",
+    "Aztra 5CT",
+    "Aztra 5UC",
+    "Banqueting Series",
+    "BW600",
+    "BW900",
+    "CC2-18U",
+    "CC2-400U",
+    "CC3-400U",
+    "Emerald Series",
+    "G2101",
+    "G2625",
+    "Garnet Series",
+    "Genius Touch GET611",
+    "Jade Series",
+    "Joker B",
+    "Onyx Series",
+    "Opal Series",
+    "Sapphire Series",
+    "SU10",
+    "SU15",
+    "SU5",
+    "TW15",
+    "TW18",
+    "TW9",
+    "UBC20",
+    "UBC5",
+    "UBC7",
+    "WGC1100",
+    "WGC1800",
+    "WGC4500",
+    "WGC7500",
+    "Zircon Series"
+   ],
+   "url": "https://www.manualslib.com/manual/238911/Williams-Genius-Touch-Get2021.html"
+  },
+  {
+   "manualId": "1863942",
+   "slug": "Williams-Ac2030",
+   "title": "AC2030 owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "AC2030",
+   "extraModels": [
+    "AC2030TN"
+   ],
+   "url": "https://www.manualslib.com/manual/1863942/Williams-Ac2030.html"
+  },
+  {
+   "manualId": "2376765",
+   "slug": "Williams-Ac2030t",
+   "title": "AC2030T Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "AC2030T",
+   "extraModels": [
+    "AC3040T"
+   ],
+   "url": "https://www.manualslib.com/manual/2376765/Williams-Ac2030t.html"
+  },
+  {
+   "manualId": "2114744",
+   "slug": "Williams-Ac2030t",
+   "title": "AC2030TN owner's manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "AC2030TN",
+   "extraModels": [
+    "AC2030TN",
+    "AC2030TP",
+    "AC3040T",
+    "AC3040TN",
+    "AC3040TP"
+   ],
+   "url": "https://www.manualslib.com/manual/2114744/Williams-Ac2030t.html"
+  },
+  {
+   "manualId": "2179395",
+   "slug": "Williams-Ah",
+   "title": "AH Installation, Operating, & Maintenance Instructions",
+   "type": "Service",
+   "pages": 15,
+   "productModel": "AH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2179395/Williams-Ah.html"
+  },
+  {
+   "manualId": "975704",
+   "slug": "Williams-Allegro-2",
+   "title": "ALLEGRO 2 owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "ALLEGRO 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/975704/Williams-Allegro-2.html"
+  },
+  {
+   "manualId": "1522518",
+   "slug": "Williams-Allegro-Iii",
+   "title": "Allegro III owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "Allegro III",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1522518/Williams-Allegro-Iii.html"
+  },
+  {
+   "manualId": "4053187",
+   "slug": "Williams-Allegro-Iv",
+   "title": "ALLEGRO IV Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "ALLEGRO IV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4053187/Williams-Allegro-Iv.html"
+  },
+  {
+   "manualId": "4222242",
+   "slug": "Williams-Arcade-S-Greatest-Hits",
+   "title": "ARCADE'S GREATEST HITS user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "ARCADE'S GREATEST HITS",
+   "extraModels": [
+    "SLES-00323"
+   ],
+   "url": "https://www.manualslib.com/manual/4222242/Williams-Arcade-S-Greatest-Hits.html"
+  },
+  {
+   "manualId": "4601553",
+   "slug": "Williams-Arcade-S-Greatest-Hits",
+   "title": "ARCADE'S GREATEST HITS user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "ARCADE'S GREATEST HITS",
+   "extraModels": [
+    "SLES-00323"
+   ],
+   "url": "https://www.manualslib.com/manual/4601553/Williams-Arcade-S-Greatest-Hits.html"
+  },
+  {
+   "manualId": "2320506",
+   "slug": "Williams-Allegro-Iii-In-Home-Pack",
+   "title": "Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2320506/Williams-Allegro-Iii-In-Home-Pack.html"
+  },
+  {
+   "manualId": "3878906",
+   "slug": "Williams-Av",
+   "title": "AV Installation, Operating, & Maintenance Instructions",
+   "type": "Service",
+   "pages": 15,
+   "productModel": "AV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878906/Williams-Av.html"
+  },
+  {
+   "manualId": "4579689",
+   "slug": "Williams-Ball-Park",
+   "title": "BALL PARK instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "BALL PARK",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4579689/Williams-Ball-Park.html"
+  },
+  {
+   "manualId": "3579735",
+   "slug": "Williams-Blaster",
+   "title": "BLASTER Service manual",
+   "type": "Service",
+   "pages": 50,
+   "productModel": "BLASTER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3579735/Williams-Blaster.html"
+  },
+  {
+   "manualId": "4147061",
+   "slug": "Williams-Blaster",
+   "title": "BLASTER Service manual",
+   "type": "Service",
+   "pages": 51,
+   "productModel": "BLASTER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4147061/Williams-Blaster.html"
+  },
+  {
+   "manualId": "194727",
+   "slug": "Williams-14036",
+   "title": "Brochure & Specs",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [
+    "Gravity 1403621",
+    "Gravity 1403622",
+    "Gravity 2203621",
+    "Gravity 2203622",
+    "Gravity 3003621",
+    "Gravity 3003622"
+   ],
+   "url": "https://www.manualslib.com/manual/194727/Williams-14036.html"
+  },
+  {
+   "manualId": "194730",
+   "slug": "Williams-2100541",
+   "title": "Brochure & Specs",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/194730/Williams-2100541.html"
+  },
+  {
+   "manualId": "194737",
+   "slug": "Williams-4222",
+   "title": "Brochure & Specs",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/194737/Williams-4222.html"
+  },
+  {
+   "manualId": "194742",
+   "slug": "Williams-556541",
+   "title": "Brochure & Specs",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "0656541.9",
+    "1056511.9",
+    "1056512.9",
+    "1056541.9",
+    "1556511",
+    "1556541",
+    "1856512",
+    "1856542",
+    "2056512.9",
+    "2556511",
+    "3056511.9",
+    "3056512",
+    "3056512.9",
+    "3056542"
+   ],
+   "url": "https://www.manualslib.com/manual/194742/Williams-556541.html"
+  },
+  {
+   "manualId": "3750009",
+   "slug": "Williams-Bubbles",
+   "title": "BUBBLES instruction manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "BUBBLES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3750009/Williams-Bubbles.html"
+  },
+  {
+   "manualId": "4071388",
+   "slug": "Williams-Bubbles",
+   "title": "BUBBLES instruction manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "BUBBLES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4071388/Williams-Bubbles.html"
+  },
+  {
+   "manualId": "3987417",
+   "slug": "Williams-Cape-Cod",
+   "title": "CAPE COD instruction manual",
+   "type": "User / Owner",
+   "pages": 38,
+   "productModel": "CAPE COD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3987417/Williams-Cape-Cod.html"
+  },
+  {
+   "manualId": "3209310",
+   "slug": "Williams-Carmel-Ac2030tna",
+   "title": "CARMEL AC2030TNA owner's manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "CARMEL AC2030TNA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3209310/Williams-Carmel-Ac2030tna.html"
+  },
+  {
+   "manualId": "3215704",
+   "slug": "Williams-Carmel-Tg2030tn",
+   "title": "CARMEL TG2030TN owner's manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "CARMEL TG2030TN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3215704/Williams-Carmel-Tg2030tn.html"
+  },
+  {
+   "manualId": "3986095",
+   "slug": "Williams-Civic-Center",
+   "title": "CIVIC CENTER instruction manual",
+   "type": "User / Owner",
+   "pages": 38,
+   "productModel": "CIVIC CENTER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3986095/Williams-Civic-Center.html"
+  },
+  {
+   "manualId": "4157210",
+   "slug": "Williams-Comet",
+   "title": "COMET instruction manual",
+   "type": "User / Owner",
+   "pages": 42,
+   "productModel": "COMET",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4157210/Williams-Comet.html"
+  },
+  {
+   "manualId": "338341",
+   "slug": "Williams-Concerto",
+   "title": "Concerto user manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "Concerto",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/338341/Williams-Concerto.html"
+  },
+  {
+   "manualId": "3795553",
+   "slug": "Williams-Congo-The-Movie",
+   "title": "CONGO THE MOVIE Operation manual",
+   "type": "Other",
+   "pages": 143,
+   "productModel": "CONGO THE MOVIE",
+   "extraModels": [
+    "CONGO THE MOVIE"
+   ],
+   "url": "https://www.manualslib.com/manual/3795553/Williams-Congo-The-Movie.html"
+  },
+  {
+   "manualId": "1447105",
+   "slug": "Williams-Dh70",
+   "title": "DH125 Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "DH125",
+   "extraModels": [
+    "DH125",
+    "DH90"
+   ],
+   "url": "https://www.manualslib.com/manual/1447105/Williams-Dh70.html"
+  },
+  {
+   "manualId": "4043794",
+   "slug": "Williams-Minijet-2025",
+   "title": "DIESELJET 2025 quick start manual",
+   "type": "Other",
+   "pages": 26,
+   "productModel": "DIESELJET 2025",
+   "extraModels": [
+    "DIESELJET 2025",
+    "EVOJET 2025",
+    "SPORTJET 2025",
+    "TURBOJET 2025"
+   ],
+   "url": "https://www.manualslib.com/manual/4043794/Williams-Minijet-2025.html"
+  },
+  {
+   "manualId": "1123276",
+   "slug": "Williams-Dieseljet-445",
+   "title": "DieselJet 445 Owner's handbook manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "DieselJet 445",
+   "extraModels": [
+    "DieselJet 505",
+    "DieselJet 565",
+    "DieselJet 625"
+   ],
+   "url": "https://www.manualslib.com/manual/1123276/Williams-Dieseljet-445.html"
+  },
+  {
+   "manualId": "1123803",
+   "slug": "Williams-Dieseljet-445",
+   "title": "DieselJet 445 Owner's handbook manual",
+   "type": "User / Owner",
+   "pages": 58,
+   "productModel": "DieselJet 445",
+   "extraModels": [
+    "DieselJet 505",
+    "DieselJet 565",
+    "DieselJet 625"
+   ],
+   "url": "https://www.manualslib.com/manual/1123803/Williams-Dieseljet-445.html"
+  },
+  {
+   "manualId": "1126949",
+   "slug": "Williams-Dieseljet-445",
+   "title": "DieselJet 445 Owner's handbook manual",
+   "type": "User / Owner",
+   "pages": 58,
+   "productModel": "DieselJet 445",
+   "extraModels": [
+    "DieselJet 505",
+    "DieselJet 565",
+    "DieselJet 625"
+   ],
+   "url": "https://www.manualslib.com/manual/1126949/Williams-Dieseljet-445.html"
+  },
+  {
+   "manualId": "2907988",
+   "slug": "Williams-Dieseljet",
+   "title": "DIESELJET Owner's handbook manual",
+   "type": "User / Owner",
+   "pages": 134,
+   "productModel": "DIESELJET",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2907988/Williams-Dieseljet.html"
+  },
+  {
+   "manualId": "4069929",
+   "slug": "Williams-Dv14n21",
+   "title": "DV14N21 owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "DV14N21",
+   "extraModels": [
+    "DV14N22",
+    "DV22N21",
+    "DV22N22",
+    "DV30N21",
+    "DV30N22"
+   ],
+   "url": "https://www.manualslib.com/manual/4069929/Williams-Dv14n21.html"
+  },
+  {
+   "manualId": "3783542",
+   "slug": "Williams-Dv14n22",
+   "title": "DV14N22 owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "DV14N22",
+   "extraModels": [
+    "DV22N22",
+    "DV30N22",
+    "DV14P21",
+    "DV22P21",
+    "DV30P21"
+   ],
+   "url": "https://www.manualslib.com/manual/3783542/Williams-Dv14n22.html"
+  },
+  {
+   "manualId": "338337",
+   "slug": "Williams-Encore",
+   "title": "Encore install manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "Encore",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/338337/Williams-Encore.html"
+  },
+  {
+   "manualId": "756889",
+   "slug": "Williams-Es026",
+   "title": "ES026 Installation, Operating And Maintenance Instructions",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "ES026",
+   "extraModels": [
+    "ES036",
+    "ES042",
+    "ES048",
+    "ES060",
+    "ES072"
+   ],
+   "url": "https://www.manualslib.com/manual/756889/Williams-Es026.html"
+  },
+  {
+   "manualId": "338338",
+   "slug": "Williams-Etude",
+   "title": "Etude user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Etude",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/338338/Williams-Etude.html"
+  },
+  {
+   "manualId": "3001169",
+   "slug": "Williams-Evo-Jet",
+   "title": "EVO JET Owner's handbook manual",
+   "type": "User / Owner",
+   "pages": 144,
+   "productModel": "EVO JET",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3001169/Williams-Evo-Jet.html"
+  },
+  {
+   "manualId": "4600752",
+   "slug": "Williams-F-14-Tomcat",
+   "title": "F-14 TOMCAT instruction manual",
+   "type": "User / Owner",
+   "pages": 55,
+   "productModel": "F-14 TOMCAT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4600752/Williams-F-14-Tomcat.html"
+  },
+  {
+   "manualId": "4120462",
+   "slug": "Williams-Flash",
+   "title": "Flash Service manual",
+   "type": "Service",
+   "pages": 62,
+   "productModel": "Flash",
+   "extraModels": [
+    "Game No. 486"
+   ],
+   "url": "https://www.manualslib.com/manual/4120462/Williams-Flash.html"
+  },
+  {
+   "manualId": "4181324",
+   "slug": "Williams-Jade-Lj500u-Sa",
+   "title": "Garnet LG1T-SA operating manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Garnet LG1T-SA",
+   "extraModels": [
+    "Garnet LG1T-SA",
+    "Garnet LG2T-SS",
+    "Jade HJ500U-SA"
+   ],
+   "url": "https://www.manualslib.com/manual/4181324/Williams-Jade-Lj500u-Sa.html"
+  },
+  {
+   "manualId": "3724289",
+   "slug": "Williams-Gem-R-Series",
+   "title": "GEM G Series operating manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "GEM G Series",
+   "extraModels": [
+    "GEM G Series",
+    "GEM M Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3724289/Williams-Gem-R-Series.html"
+  },
+  {
+   "manualId": "194741",
+   "slug": "Williams-Gravity-1403622",
+   "title": "GRAVITY 1403611 owner's manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "GRAVITY 1403611",
+   "extraModels": [
+    "GRAVITY 1403611",
+    "GRAVITY 1403612",
+    "Gravity 1403621",
+    "GRAVITY 2203611",
+    "GRAVITY 2203612",
+    "Gravity 2203621",
+    "Gravity 2203622",
+    "GRAVITY 3003611",
+    "GRAVITY 3003612",
+    "Gravity 3003621",
+    "Gravity 3003622"
+   ],
+   "url": "https://www.manualslib.com/manual/194741/Williams-Gravity-1403622.html"
+  },
+  {
+   "manualId": "1477038",
+   "slug": "Williams-Lx4rt",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1477038/Williams-Lx4rt.html"
+  },
+  {
+   "manualId": "1483347",
+   "slug": "Williams-Ax2-Led-Series",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1483347/Williams-Ax2-Led-Series.html"
+  },
+  {
+   "manualId": "1826504",
+   "slug": "Williams-96-Led-Series",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1826504/Williams-96-Led-Series.html"
+  },
+  {
+   "manualId": "1926686",
+   "slug": "Williams-Lp-Series",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1926686/Williams-Lp-Series.html"
+  },
+  {
+   "manualId": "2774817",
+   "slug": "Williams-8dr-Led-Series",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2774817/Williams-8dr-Led-Series.html"
+  },
+  {
+   "manualId": "3340282",
+   "slug": "Williams-96-Series",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3340282/Williams-96-Series.html"
+  },
+  {
+   "manualId": "3749886",
+   "slug": "Williams-Emer-W",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3749886/Williams-Emer-W.html"
+  },
+  {
+   "manualId": "4028433",
+   "slug": "Williams-Emer-S",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4028433/Williams-Emer-S.html"
+  },
+  {
+   "manualId": "4603181",
+   "slug": "Williams-Exit-Em-W",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4603181/Williams-Exit-Em-W.html"
+  },
+  {
+   "manualId": "1881249",
+   "slug": "Williams-Gn1200bt",
+   "title": "Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1881249/Williams-Gn1200bt.html"
+  },
+  {
+   "manualId": "4317898",
+   "slug": "Williams-Make-Trax",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4317898/Williams-Make-Trax.html"
+  },
+  {
+   "manualId": "4329515",
+   "slug": "Williams-Make-Trax",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4329515/Williams-Make-Trax.html"
+  },
+  {
+   "manualId": "512153",
+   "slug": "Williams-7691",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/512153/Williams-7691.html"
+  },
+  {
+   "manualId": "1815375",
+   "slug": "Williams-8901",
+   "title": "instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1815375/Williams-8901.html"
+  },
+  {
+   "manualId": "1910458",
+   "slug": "Williams-Wbc10",
+   "title": "J1BC OPERATING & ENGINEERS MANUAL",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "J1BC",
+   "extraModels": [
+    "J1BC",
+    "WBC20",
+    "WBC30",
+    "WBC40",
+    "WBC50",
+    "WBC70",
+    "WBCF10 WMBC90",
+    "WBCF20",
+    "WBCF30",
+    "WBCF40",
+    "WBCF50",
+    "WBCF50 WMBC240",
+    "WMBC120",
+    "WMBC160",
+    "WMBC200",
+    "WMBC320",
+    "WMBC90",
+    "WMBCF120",
+    "WMBCF160",
+    "WMBCF200",
+    "WMBCF240",
+    "WMBCF320",
+    "WMBCF90",
+    "WMBF100",
+    "WMBF200"
+   ],
+   "url": "https://www.manualslib.com/manual/1910458/Williams-Wbc10.html"
+  },
+  {
+   "manualId": "2331463",
+   "slug": "Williams-Wbc10",
+   "title": "J1BC OPERATING & ENGINEERS MANUAL",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "J1BC",
+   "extraModels": [
+    "J1BC",
+    "WBC/WBCF10",
+    "WBC/WBCF20",
+    "WBC/WBCF30",
+    "WBC/WBCF40",
+    "WBC/WBCF50",
+    "WBC20",
+    "WBC30",
+    "WBC40",
+    "WBC40RN",
+    "WBC50",
+    "WBC70",
+    "WBCF10 WMBC90",
+    "WBCF20",
+    "WBCF30",
+    "WBCF40",
+    "WBCF50",
+    "WBCF50 WMBC240",
+    "WDTBC70",
+    "WMBC/WMBCF120",
+    "WMBC/WMBCF160",
+    "WMBC/WMBCF200",
+    "WMBC/WMBCF240",
+    "WMBC/WMBCF320",
+    "WMBC/WMBCF90",
+    "WMBC120",
+    "WMBC160",
+    "WMBC200",
+    "WMBC320",
+    "WMBC90",
+    "WMBCF120",
+    "WMBCF160",
+    "WMBCF200",
+    "WMBCF240",
+    "WMBCF320",
+    "WMBCF90",
+    "WMBF100",
+    "WMBF200"
+   ],
+   "url": "https://www.manualslib.com/manual/2331463/Williams-Wbc10.html"
+  },
+  {
+   "manualId": "2405538",
+   "slug": "Williams-Wbc10",
+   "title": "J1BC OPERATING & ENGINEERS MANUAL",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "J1BC",
+   "extraModels": [
+    "J1BC",
+    "WBC20",
+    "WBC30",
+    "WBC40",
+    "WBC40RN",
+    "WBC50",
+    "WBC70",
+    "WBCF10 WMBC90",
+    "WBCF20",
+    "WBCF30",
+    "WBCF40",
+    "WBCF50",
+    "WBCF50 WMBC240",
+    "WMBC120",
+    "WMBC160",
+    "WMBC200",
+    "WMBC320",
+    "WMBC90",
+    "WMBCF120",
+    "WMBCF160",
+    "WMBCF200",
+    "WMBCF240",
+    "WMBCF320",
+    "WMBCF90",
+    "WMBF100",
+    "WMBF200"
+   ],
+   "url": "https://www.manualslib.com/manual/2405538/Williams-Wbc10.html"
+  },
+  {
+   "manualId": "892655",
+   "slug": "Williams-Wbc10",
+   "title": "J1BC operating manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "J1BC",
+   "extraModels": [
+    "J1BC",
+    "WBC20",
+    "WBC30",
+    "WBC40",
+    "WBC50",
+    "WBC70",
+    "WBCF10 WMBC90",
+    "WBCF20",
+    "WBCF30",
+    "WBCF40",
+    "WBCF50",
+    "WBCF50 WMBC240",
+    "WMBC120",
+    "WMBC160",
+    "WMBC200",
+    "WMBC320",
+    "WMBC90",
+    "WMBCF120",
+    "WMBCF160",
+    "WMBCF200",
+    "WMBCF240",
+    "WMBCF320",
+    "WMBCF90",
+    "WMBF100",
+    "WMBF200"
+   ],
+   "url": "https://www.manualslib.com/manual/892655/Williams-Wbc10.html"
+  },
+  {
+   "manualId": "4378438",
+   "slug": "Williams-Jet-285",
+   "title": "JET 285 Owner's handbook manual",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "JET 285",
+   "extraModels": [
+    "Turbojet 325",
+    "Turbojet 385",
+    "Turbojet 445"
+   ],
+   "url": "https://www.manualslib.com/manual/4378438/Williams-Jet-285.html"
+  },
+  {
+   "manualId": "3063154",
+   "slug": "Williams-Jhwdtcmm240-0",
+   "title": "JHWDTC10M300-I Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "JHWDTC10M300-I",
+   "extraModels": [
+    "JHWDTC10M300-I",
+    "JHWDTC27M1500-F",
+    "JHWDTC27M800-F",
+    "JHWDTCMM100-1",
+    "JHWDTCSF300-F"
+   ],
+   "url": "https://www.manualslib.com/manual/3063154/Williams-Jhwdtcmm240-0.html"
+  },
+  {
+   "manualId": "4223027",
+   "slug": "Williams-Joust",
+   "title": "JOUST instruction manual",
+   "type": "User / Owner",
+   "pages": 49,
+   "productModel": "JOUST",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4223027/Williams-Joust.html"
+  },
+  {
+   "manualId": "4137456",
+   "slug": "Williams-Jungle-Lord",
+   "title": "JUNGLE LORD Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "JUNGLE LORD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4137456/Williams-Jungle-Lord.html"
+  },
+  {
+   "manualId": "3168469",
+   "slug": "Williams-Ktech026",
+   "title": "KTECH026 Installation, Operating And Maintenance Instructions",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "KTECH026",
+   "extraModels": [
+    "KTECH036",
+    "KTECH042",
+    "KTECH048",
+    "KTECH060",
+    "KTECH072",
+    "KTECH084",
+    "KTECH096",
+    "KTECH108",
+    "KTECH120",
+    "KTECH144"
+   ],
+   "url": "https://www.manualslib.com/manual/3168469/Williams-Ktech026.html"
+  },
+  {
+   "manualId": "1456875",
+   "slug": "Williams-Legato-Iii",
+   "title": "Legato III owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Legato III",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1456875/Williams-Legato-Iii.html"
+  },
+  {
+   "manualId": "3315853",
+   "slug": "Williams-Legato-Iv",
+   "title": "LEGATO IV owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "LEGATO IV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3315853/Williams-Legato-Iv.html"
+  },
+  {
+   "manualId": "807863",
+   "slug": "Williams-Legato",
+   "title": "LEGATO owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "LEGATO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/807863/Williams-Legato.html"
+  },
+  {
+   "manualId": "1499880",
+   "slug": "Williams-2275",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1499880/Williams-2275.html"
+  },
+  {
+   "manualId": "3136560",
+   "slug": "Williams-Mar1",
+   "title": "MAR1 operating manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "MAR1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3136560/Williams-Mar1.html"
+  },
+  {
+   "manualId": "4323995",
+   "slug": "Williams-MediPlus-Hwmp620",
+   "title": "Medi+ HWMP523 operating manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Medi+ HWMP523",
+   "extraModels": [
+    "Medi+ HWMP523"
+   ],
+   "url": "https://www.manualslib.com/manual/4323995/Williams-MediPlus-Hwmp620.html"
+  },
+  {
+   "manualId": "2157587",
+   "slug": "Williams-MediPlus-Lwmp620",
+   "title": "Medi+ LWMP620 operating manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Medi+ LWMP620",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2157587/Williams-MediPlus-Lwmp620.html"
+  },
+  {
+   "manualId": "2586107",
+   "slug": "Williams-Mhc10",
+   "title": "MHC10 operating manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "MHC10",
+   "extraModels": [
+    "MHC16"
+   ],
+   "url": "https://www.manualslib.com/manual/2586107/Williams-Mhc10.html"
+  },
+  {
+   "manualId": "2854173",
+   "slug": "Williams-Mhc10",
+   "title": "MHC10 operating manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "MHC10",
+   "extraModels": [
+    "MHC16"
+   ],
+   "url": "https://www.manualslib.com/manual/2854173/Williams-Mhc10.html"
+  },
+  {
+   "manualId": "4191662",
+   "slug": "Williams-Millionaire",
+   "title": "MILLIONAIRE instruction manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "MILLIONAIRE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4191662/Williams-Millionaire.html"
+  },
+  {
+   "manualId": "1400310",
+   "slug": "Williams-Minijet-280",
+   "title": "Minijet 280 Owner's handbook manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Minijet 280",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1400310/Williams-Minijet-280.html"
+  },
+  {
+   "manualId": "2508014",
+   "slug": "Williams-Minijet",
+   "title": "Minijet Owner's handbook manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Minijet",
+   "extraModels": [
+    "Minijet 280"
+   ],
+   "url": "https://www.manualslib.com/manual/2508014/Williams-Minijet.html"
+  },
+  {
+   "manualId": "3506854",
+   "slug": "Williams-Monster-Bash",
+   "title": "Monster Bash Operation manual",
+   "type": "Other",
+   "pages": 158,
+   "productModel": "Monster Bash",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3506854/Williams-Monster-Bash.html"
+  },
+  {
+   "manualId": "3709131",
+   "slug": "Williams-Montara-Hp003",
+   "title": "MONTARA HP003 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "MONTARA HP003",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3709131/Williams-Montara-Hp003.html"
+  },
+  {
+   "manualId": "4069926",
+   "slug": "Williams-Monterey-Tv25n22",
+   "title": "MONTEREY TV25N22 owner's manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "MONTEREY TV25N22",
+   "extraModels": [
+    "MONTEREY TV25P21",
+    "MONTEREY TV35N22",
+    "MONTEREY TV35P21",
+    "MONTEREY TV50N22",
+    "MONTEREY TV50P21"
+   ],
+   "url": "https://www.manualslib.com/manual/4069926/Williams-Monterey-Tv25n22.html"
+  },
+  {
+   "manualId": "3251365",
+   "slug": "Williams-Mrc10",
+   "title": "MRC10 operating manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "MRC10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3251365/Williams-Mrc10.html"
+  },
+  {
+   "manualId": "3925977",
+   "slug": "Williams-Mrc16",
+   "title": "MRC16 operating manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "MRC16",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3925977/Williams-Mrc16.html"
+  },
+  {
+   "manualId": "4346170",
+   "slug": "Williams-Mystic-Marathon",
+   "title": "MYSTIC MARATHON instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "MYSTIC MARATHON",
+   "extraModels": [
+    "MYSTIC MARATHON K-1",
+    "MYSTIC MARATHON K-2",
+    "MYSTIC MARATHON K-3"
+   ],
+   "url": "https://www.manualslib.com/manual/4346170/Williams-Mystic-Marathon.html"
+  },
+  {
+   "manualId": "4137056",
+   "slug": "Williams-Teachlogic-Ovation",
+   "title": "OA-50-1880 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "OA-50-1880",
+   "extraModels": [
+    "OA-50-1880"
+   ],
+   "url": "https://www.manualslib.com/manual/4137056/Williams-Teachlogic-Ovation.html"
+  },
+  {
+   "manualId": "1452088",
+   "slug": "Williams-Sc900",
+   "title": "operating manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1452088/Williams-Sc900.html"
+  },
+  {
+   "manualId": "1722088",
+   "slug": "Williams-Coral-Series",
+   "title": "operating manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1722088/Williams-Coral-Series.html"
+  },
+  {
+   "manualId": "3065169",
+   "slug": "Williams-Tm-290",
+   "title": "operating manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3065169/Williams-Tm-290.html"
+  },
+  {
+   "manualId": "2545265",
+   "slug": "Williams-Pre-Set",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2545265/Williams-Pre-Set.html"
+  },
+  {
+   "manualId": "2576294",
+   "slug": "Williams-61smw",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2576294/Williams-61smw.html"
+  },
+  {
+   "manualId": "2387812",
+   "slug": "Williams-8fc38f",
+   "title": "Operator's manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2387812/Williams-8fc38f.html"
+  },
+  {
+   "manualId": "3262024",
+   "slug": "Williams-8fg38mf",
+   "title": "Operator's manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3262024/Williams-8fg38mf.html"
+  },
+  {
+   "manualId": "4197071",
+   "slug": "Williams-8v38r",
+   "title": "Operator's manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4197071/Williams-8v38r.html"
+  },
+  {
+   "manualId": "969183",
+   "slug": "Williams-Overture-2",
+   "title": "OVERTURE 2 owner's manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "OVERTURE 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/969183/Williams-Overture-2.html"
+  },
+  {
+   "manualId": "2373231",
+   "slug": "Williams-Overture-Iii",
+   "title": "OVERTURE III owner's manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "OVERTURE III",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2373231/Williams-Overture-Iii.html"
+  },
+  {
+   "manualId": "3473409",
+   "slug": "Williams-Saratoga-Ph1500",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3473409/Williams-Saratoga-Ph1500.html"
+  },
+  {
+   "manualId": "3553295",
+   "slug": "Williams-Mirada-Hm040",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3553295/Williams-Mirada-Hm040.html"
+  },
+  {
+   "manualId": "3767263",
+   "slug": "Williams-Saratoga-Tp01",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3767263/Williams-Saratoga-Tp01.html"
+  },
+  {
+   "manualId": "3376706",
+   "slug": "Williams-Mirada-Lk0480",
+   "title": "Owner's Manual And Installation Instructions",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3376706/Williams-Mirada-Lk0480.html"
+  },
+  {
+   "manualId": "2447819",
+   "slug": "Williams-6cl10t01",
+   "title": "Owner's/operator's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2447819/Williams-6cl10t01.html"
+  },
+  {
+   "manualId": "2483658",
+   "slug": "Williams-6ca30t02",
+   "title": "Owner's/operator's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2483658/Williams-6ca30t02.html"
+  },
+  {
+   "manualId": "2744914",
+   "slug": "Williams-8fb25f38m",
+   "title": "Owner's/operator's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2744914/Williams-8fb25f38m.html"
+  },
+  {
+   "manualId": "1612077",
+   "slug": "Williams-Pin-Bot",
+   "title": "PIN-BOT instruction manual",
+   "type": "User / Owner",
+   "pages": 79,
+   "productModel": "PIN-BOT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1612077/Williams-Pin-Bot.html"
+  },
+  {
+   "manualId": "1915294",
+   "slug": "Williams-Pinball-2000-Star-Wars-Episode-I",
+   "title": "Pinball 2000 Star Wars Episode I Operation manual",
+   "type": "Other",
+   "pages": 152,
+   "productModel": "Pinball 2000 Star Wars Episode I",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1915294/Williams-Pinball-2000-Star-Wars-Episode-I.html"
+  },
+  {
+   "manualId": "4120477",
+   "slug": "Williams-Pit-Stop",
+   "title": "PIT STOP instruction manual",
+   "type": "User / Owner",
+   "pages": 29,
+   "productModel": "PIT STOP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4120477/Williams-Pit-Stop.html"
+  },
+  {
+   "manualId": "955942",
+   "slug": "Williams-Rhapsody-2",
+   "title": "RHAPSODY 2 owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "RHAPSODY 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/955942/Williams-Rhapsody-2.html"
+  },
+  {
+   "manualId": "2320499",
+   "slug": "Williams-Rhapsody-Iii",
+   "title": "RHAPSODY III owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "RHAPSODY III",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2320499/Williams-Rhapsody-Iii.html"
+  },
+  {
+   "manualId": "643514",
+   "slug": "Williams-Rhapsody",
+   "title": "Rhapsody owner's manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "Rhapsody",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/643514/Williams-Rhapsody.html"
+  },
+  {
+   "manualId": "3986857",
+   "slug": "Williams-Ringer",
+   "title": "RINGER instruction manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "RINGER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3986857/Williams-Ringer.html"
+  },
+  {
+   "manualId": "2542342",
+   "slug": "Williams-Rmr1t",
+   "title": "RMR1T Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "RMR1T",
+   "extraModels": [
+    "RMR2T",
+    "RMR3T"
+   ],
+   "url": "https://www.manualslib.com/manual/2542342/Williams-Rmr1t.html"
+  },
+  {
+   "manualId": "622952",
+   "slug": "Williams-Serenade",
+   "title": "Serenade owner's manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "Serenade",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/622952/Williams-Serenade.html"
+  },
+  {
+   "manualId": "1467774",
+   "slug": "Williams-Sinistar",
+   "title": "Sinistar instruction manual",
+   "type": "User / Owner",
+   "pages": 29,
+   "productModel": "Sinistar",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1467774/Williams-Sinistar.html"
+  },
+  {
+   "manualId": "3185520",
+   "slug": "Williams-Slim-Tech-Series",
+   "title": "Slim Tech Series Installation, operating and maintenance instructions",
+   "type": "Service",
+   "pages": 10,
+   "productModel": "Slim Tech Series",
+   "extraModels": [
+    "SLIMT026",
+    "SLIMT036",
+    "SLIMT042",
+    "SLIMT048",
+    "SLIMT060",
+    "SLIMT072",
+    "SLIMT084",
+    "SLIMT096",
+    "SLIMT108",
+    "SLIMT120",
+    "SLIMT144"
+   ],
+   "url": "https://www.manualslib.com/manual/3185520/Williams-Slim-Tech-Series.html"
+  },
+  {
+   "manualId": "3511848",
+   "slug": "Williams-Solana-3144030bg",
+   "title": "SOLANA 3144030BG owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "SOLANA 3144030BG",
+   "extraModels": [
+    "SOLANA 3144030IG",
+    "SOLANA 3144030RG",
+    "SOLANA 3144030WG"
+   ],
+   "url": "https://www.manualslib.com/manual/3511848/Williams-Solana-3144030bg.html"
+  },
+  {
+   "manualId": "194756",
+   "slug": "Williams-Sonata-88",
+   "title": "Sonata 88 user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Sonata 88",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/194756/Williams-Sonata-88.html"
+  },
+  {
+   "manualId": "3381594",
+   "slug": "Williams-Space-Shuttle",
+   "title": "SPACE SHUTTLE instruction manual",
+   "type": "User / Owner",
+   "pages": 33,
+   "productModel": "SPACE SHUTTLE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3381594/Williams-Space-Shuttle.html"
+  },
+  {
+   "manualId": "539223",
+   "slug": "Williams-Direct-Vent-Furnaces",
+   "title": "specification",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "Gravity 1403621",
+    "Gravity 1403622",
+    "Gravity 2203621",
+    "Gravity 2203622",
+    "Gravity 3003621",
+    "Gravity 3003622"
+   ],
+   "url": "https://www.manualslib.com/manual/539223/Williams-Direct-Vent-Furnaces.html"
+  },
+  {
+   "manualId": "194724",
+   "slug": "Williams-Airsponge-Hd16",
+   "title": "Specification Sheet",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/194724/Williams-Airsponge-Hd16.html"
+  },
+  {
+   "manualId": "194731",
+   "slug": "Williams-250-Series",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "2503531",
+    "2503532",
+    "4003531",
+    "4003532"
+   ],
+   "url": "https://www.manualslib.com/manual/194731/Williams-250-Series.html"
+  },
+  {
+   "manualId": "713758",
+   "slug": "Williams-Wh-18r",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/713758/Williams-Wh-18r.html"
+  },
+  {
+   "manualId": "1455736",
+   "slug": "Williams-Sportjet-345",
+   "title": "SportJet 345 Owner's handbook manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "SportJet 345",
+   "extraModels": [
+    "SportJet 395",
+    "SportJet 460",
+    "SportJet 520"
+   ],
+   "url": "https://www.manualslib.com/manual/1455736/Williams-Sportjet-345.html"
+  },
+  {
+   "manualId": "3850575",
+   "slug": "Williams-Sportjet-435",
+   "title": "SportJet 435 Owner's handbook manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "SportJet 435",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3850575/Williams-Sportjet-435.html"
+  },
+  {
+   "manualId": "1100882",
+   "slug": "Williams-Sportjet-460",
+   "title": "SportJet 460 Owner's handbook manual",
+   "type": "User / Owner",
+   "pages": 46,
+   "productModel": "SportJet 460",
+   "extraModels": [
+    "SportJet 520"
+   ],
+   "url": "https://www.manualslib.com/manual/1100882/Williams-Sportjet-460.html"
+  },
+  {
+   "manualId": "1130707",
+   "slug": "Williams-Sportjet",
+   "title": "sportjet Owner's handbook manual",
+   "type": "User / Owner",
+   "pages": 46,
+   "productModel": "sportjet",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1130707/Williams-Sportjet.html"
+  },
+  {
+   "manualId": "2907239",
+   "slug": "Williams-Sportjet",
+   "title": "sportjet Owner's handbook manual",
+   "type": "User / Owner",
+   "pages": 134,
+   "productModel": "sportjet",
+   "extraModels": [
+    "SportJet 345",
+    "SportJet 395",
+    "SportJet 435",
+    "SportJet 460",
+    "SportJet 520"
+   ],
+   "url": "https://www.manualslib.com/manual/2907239/Williams-Sportjet.html"
+  },
+  {
+   "manualId": "4336547",
+   "slug": "Williams-Symphony-Concert",
+   "title": "SYMPHONY CONCERT owner's manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "SYMPHONY CONCERT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4336547/Williams-Symphony-Concert.html"
+  },
+  {
+   "manualId": "2126058",
+   "slug": "Williams-Symphony-Grand-Ii",
+   "title": "SYMPHONY GRAND II owner's manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "SYMPHONY GRAND II",
+   "extraModels": [
+    "SYMPHONY GRAND II"
+   ],
+   "url": "https://www.manualslib.com/manual/2126058/Williams-Symphony-Grand-Ii.html"
+  },
+  {
+   "manualId": "338344",
+   "slug": "Williams-Symphony",
+   "title": "Symphony install manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "Symphony",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/338344/Williams-Symphony.html"
+  },
+  {
+   "manualId": "1065315",
+   "slug": "Williams-Symphony-Grand",
+   "title": "Symphony owner's manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "Symphony",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1065315/Williams-Symphony-Grand.html"
+  },
+  {
+   "manualId": "1126945",
+   "slug": "Williams-Turbojet-285",
+   "title": "Turbojet 285 Owner's handbook manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "Turbojet 285",
+   "extraModels": [
+    "Turbojet 285s",
+    "Turbojet 325",
+    "Turbojet 325s",
+    "Turbojet 385",
+    "Turbojet 385s",
+    "Turbojet 445",
+    "Turbojet 445s"
+   ],
+   "url": "https://www.manualslib.com/manual/1126945/Williams-Turbojet-285.html"
+  },
+  {
+   "manualId": "1036521",
+   "slug": "Williams-Turbojet-J-T-285",
+   "title": "Turbojet J/T 285 Owner's handbook manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Turbojet J/T 285",
+   "extraModels": [
+    "Turbojet T 325",
+    "Turbojet T 385",
+    "Turbojet T 445"
+   ],
+   "url": "https://www.manualslib.com/manual/1036521/Williams-Turbojet-J-T-285.html"
+  },
+  {
+   "manualId": "1133149",
+   "slug": "Williams-Turbojet",
+   "title": "TurboJet Owner's handbook manual",
+   "type": "User / Owner",
+   "pages": 58,
+   "productModel": "TurboJet",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1133149/Williams-Turbojet.html"
+  },
+  {
+   "manualId": "3927161",
+   "slug": "Williams-Vrwcd1",
+   "title": "VRWCD1 operating manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "VRWCD1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3927161/Williams-Vrwcd1.html"
+  },
+  {
+   "manualId": "3276147",
+   "slug": "Williams-Vswcd1s",
+   "title": "VRWCD1S operating manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "VRWCD1S",
+   "extraModels": [
+    "VRWCD1S"
+   ],
+   "url": "https://www.manualslib.com/manual/3276147/Williams-Vswcd1s.html"
+  },
+  {
+   "manualId": "2574827",
+   "slug": "Williams-Wbc10",
+   "title": "WBC10 Operator's manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "WBC10",
+   "extraModels": [
+    "WBC20",
+    "WBC30",
+    "WBC40",
+    "WBC50",
+    "WBCF10 WMBC90",
+    "WBCF20",
+    "WBCF30",
+    "WBCF40",
+    "WBCF50"
+   ],
+   "url": "https://www.manualslib.com/manual/2574827/Williams-Wbc10.html"
+  },
+  {
+   "manualId": "194732",
+   "slug": "Williams-2509621",
+   "title": "Williams 2509621 Brochure & Specs",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [
+    "2509622",
+    "3509621",
+    "3509622",
+    "5009621",
+    "5009622"
+   ],
+   "url": "https://www.manualslib.com/manual/194732/Williams-2509621.html"
+  },
+  {
+   "manualId": "2332989",
+   "slug": "Williams-509622a",
+   "title": "Williams 509622A Owner's Manual & Installation Instructions",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": null,
+   "extraModels": [
+    "2509621A",
+    "2509622A",
+    "2519621A",
+    "2519622A",
+    "2539621A",
+    "2539622A",
+    "2559621A",
+    "2559622A",
+    "3509621A",
+    "3509622A",
+    "3519621A",
+    "3519622A",
+    "3536221A",
+    "3539622A",
+    "355622A",
+    "3559621A",
+    "5009621A",
+    "5009622A",
+    "5019621A",
+    "5019622A",
+    "5039621A",
+    "5039622A",
+    "5059621A",
+    "5059622A"
+   ],
+   "url": "https://www.manualslib.com/manual/2332989/Williams-509622a.html"
+  },
+  {
+   "manualId": "4062155",
+   "slug": "williams-allegro-iv-manual",
+   "title": "Williams ALLEGRO IV Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4062155/williams-allegro-iv-manual.html"
+  },
+  {
+   "manualId": "4025240",
+   "slug": "Williams-World-Cup-Solid-State",
+   "title": "WORLD CUP SOLID STATE instruction manual",
+   "type": "User / Owner",
+   "pages": 39,
+   "productModel": "WORLD CUP SOLID STATE",
+   "extraModels": [
+    "WORLD CUP SOLID STATE"
+   ],
+   "url": "https://www.manualslib.com/manual/4025240/Williams-World-Cup-Solid-State.html"
+  },
+  {
+   "manualId": "3887957",
+   "slug": "Williams-Wtbc70",
+   "title": "WTBC70 OPERATING & ENGINEERS MANUAL",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "WTBC70",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3887957/Williams-Wtbc70.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4062155",
+   "slug": "williams-allegro-iv-manual",
+   "title": "Williams ALLEGRO IV Manual"
+  }
+ ],
+ "techDirectIds": [
+  "williams-furnace"
+ ]
+}

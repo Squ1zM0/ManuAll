@@ -1,0 +1,966 @@
+{
+ "brand": "NAVAC",
+ "brandSlug": "navac",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/navac/"
+ ],
+ "slugUsed": "navac",
+ "capturedAt": "2026-10-28T08:45:04.355126+00:00",
+ "typePages": [
+  {
+   "path": "/brand/navac/battery-charger.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/navac/control-unit.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/navac/heating-system.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/navac/measuring-instruments.html",
+   "manuals": 65,
+   "status": 200
+  },
+  {
+   "path": "/brand/navac/power-tool.html",
+   "manuals": 17,
+   "status": 200
+  },
+  {
+   "path": "/brand/navac/scales.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/navac/security-sensors.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/navac/service-equipment.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/navac/test-equipment.html",
+   "manuals": 15,
+   "status": 200
+  },
+  {
+   "path": "/brand/navac/thermal-cameras.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/navac/tools.html",
+   "manuals": 19,
+   "status": 200
+  },
+  {
+   "path": "/brand/navac/water-pump.html",
+   "manuals": 85,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4571301",
+   "slug": "Navac-Bd100",
+   "title": "BD100 operating manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "BD100",
+   "extraModels": [
+    "BD600"
+   ],
+   "url": "https://www.manualslib.com/manual/4571301/Navac-Bd100.html"
+  },
+  {
+   "manualId": "3636325",
+   "slug": "Navac-Breakfree-Ntb7l",
+   "title": "BreakFree NTB7L user manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "BreakFree NTB7L",
+   "extraModels": [
+    "NEF6LM"
+   ],
+   "url": "https://www.manualslib.com/manual/3636325/Navac-Breakfree-Ntb7l.html"
+  },
+  {
+   "manualId": "3637492",
+   "slug": "Navac-Breakfree-Nte11l",
+   "title": "BreakFree NTB7L user manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "BreakFree NTB7L",
+   "extraModels": [
+    "BreakFree NTB7L",
+    "NEF6LM",
+    "BreakFree NTBRK"
+   ],
+   "url": "https://www.manualslib.com/manual/3637492/Navac-Breakfree-Nte11l.html"
+  },
+  {
+   "manualId": "3785490",
+   "slug": "Navac-Breakfree-Ntb7l",
+   "title": "BreakFree NTB7L user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "BreakFree NTB7L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3785490/Navac-Breakfree-Ntb7l.html"
+  },
+  {
+   "manualId": "3995010",
+   "slug": "Navac-Breakfree-Ntb7l",
+   "title": "BreakFree NTB7L user manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "BreakFree NTB7L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3995010/Navac-Breakfree-Ntb7l.html"
+  },
+  {
+   "manualId": "4052155",
+   "slug": "Navac-Breakfree-Nte11l",
+   "title": "BreakFree NTE11L user manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "BreakFree NTE11L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4052155/Navac-Breakfree-Nte11l.html"
+  },
+  {
+   "manualId": "4361036",
+   "slug": "Navac-Hd8",
+   "title": "HD20 operating manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "HD20",
+   "extraModels": [
+    "HD20",
+    "HD40"
+   ],
+   "url": "https://www.manualslib.com/manual/4361036/Navac-Hd8.html"
+  },
+  {
+   "manualId": "2766848",
+   "slug": "Navac-Master-Series",
+   "title": "Master NP2DLM user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "Master NP2DLM",
+   "extraModels": [
+    "Master NP2DLM"
+   ],
+   "url": "https://www.manualslib.com/manual/2766848/Navac-Master-Series.html"
+  },
+  {
+   "manualId": "3992056",
+   "slug": "Navac-Np2dlm",
+   "title": "Master NP2DLM user manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "Master NP2DLM",
+   "extraModels": [
+    "NP4DLM"
+   ],
+   "url": "https://www.manualslib.com/manual/3992056/Navac-Np2dlm.html"
+  },
+  {
+   "manualId": "4170291",
+   "slug": "Navac-Np2dlm",
+   "title": "Master NP2DLM user manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "Master NP2DLM",
+   "extraModels": [
+    "NP4DLM"
+   ],
+   "url": "https://www.manualslib.com/manual/4170291/Navac-Np2dlm.html"
+  },
+  {
+   "manualId": "4207095",
+   "slug": "Navac-Master-Np8ds",
+   "title": "MASTER NP8DS user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "MASTER NP8DS",
+   "extraModels": [
+    "MASTER NP8DSV"
+   ],
+   "url": "https://www.manualslib.com/manual/4207095/Navac-Master-Np8ds.html"
+  },
+  {
+   "manualId": "2060597",
+   "slug": "Navac-Master-Series",
+   "title": "Master NRDDF user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Master NRDDF",
+   "extraModels": [
+    "Master NRDDF"
+   ],
+   "url": "https://www.manualslib.com/manual/2060597/Navac-Master-Series.html"
+  },
+  {
+   "manualId": "2309107",
+   "slug": "Navac-Nrddf",
+   "title": "Master NRDDF user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Master NRDDF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2309107/Navac-Nrddf.html"
+  },
+  {
+   "manualId": "4112131",
+   "slug": "Navac-Nrddf",
+   "title": "Master NRDDF user manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "Master NRDDF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4112131/Navac-Nrddf.html"
+  },
+  {
+   "manualId": "4256174",
+   "slug": "navac-breakfree-nef6lm-tube-flaring-tool-operating-manual",
+   "title": "NAVAC BreakFree NEF6LM Tube Flaring Tool Operating Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4256174/navac-breakfree-nef6lm-tube-flaring-tool-operating-manual.html"
+  },
+  {
+   "manualId": "4245053",
+   "slug": "navac-ntb7l-tube-bender-operating-manual",
+   "title": "NAVAC NTB7L tube bender Operating Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4245053/navac-ntb7l-tube-bender-operating-manual.html"
+  },
+  {
+   "manualId": "2061020",
+   "slug": "Navac-Nef6lm",
+   "title": "NEF6LM user manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "NEF6LM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2061020/Navac-Nef6lm.html"
+  },
+  {
+   "manualId": "3583442",
+   "slug": "Navac-Breakfree-Nef6lm",
+   "title": "NEF6LM user manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "NEF6LM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3583442/Navac-Breakfree-Nef6lm.html"
+  },
+  {
+   "manualId": "4069491",
+   "slug": "Navac-Breakfree-Nef6lm",
+   "title": "NEF6LM user manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "NEF6LM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4069491/Navac-Breakfree-Nef6lm.html"
+  },
+  {
+   "manualId": "3724703",
+   "slug": "Navac-Nmt1000",
+   "title": "NMT1000 user manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "NMT1000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3724703/Navac-Nmt1000.html"
+  },
+  {
+   "manualId": "3658629",
+   "slug": "Navac-Nmt1200",
+   "title": "NMT1200 user manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "NMT1200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3658629/Navac-Nmt1200.html"
+  },
+  {
+   "manualId": "4207446",
+   "slug": "Navac-Pro-Np5dp2",
+   "title": "NP7DP2 user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "NP7DP2",
+   "extraModels": [
+    "NP7DP2"
+   ],
+   "url": "https://www.manualslib.com/manual/4207446/Navac-Pro-Np5dp2.html"
+  },
+  {
+   "manualId": "2491016",
+   "slug": "Navac-Nrc62d",
+   "title": "NRC62D user manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "NRC62D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2491016/Navac-Nrc62d.html"
+  },
+  {
+   "manualId": "4110984",
+   "slug": "Navac-Nrdd",
+   "title": "NRDD user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "NRDD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4110984/Navac-Nrdd.html"
+  },
+  {
+   "manualId": "2289039",
+   "slug": "Navac-Nrp6di",
+   "title": "NRP6Di user manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "NRP6Di",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2289039/Navac-Nrp6di.html"
+  },
+  {
+   "manualId": "3299374",
+   "slug": "Navac-Master-Nrp8di",
+   "title": "NRP6Di user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "NRP6Di",
+   "extraModels": [
+    "NRP6Di"
+   ],
+   "url": "https://www.manualslib.com/manual/3299374/Navac-Master-Nrp8di.html"
+  },
+  {
+   "manualId": "3882186",
+   "slug": "Navac-Nrp8di",
+   "title": "NRP8Di user manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "NRP8Di",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3882186/Navac-Nrp8di.html"
+  },
+  {
+   "manualId": "4253142",
+   "slug": "Navac-Nrs-Series",
+   "title": "NRS Series user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "NRS Series",
+   "extraModels": [
+    "NRS100",
+    "NRS160",
+    "NRS20",
+    "NRS200",
+    "NRS22",
+    "NRS28",
+    "NRS300",
+    "NRS40",
+    "NRS65"
+   ],
+   "url": "https://www.manualslib.com/manual/4253142/Navac-Nrs-Series.html"
+  },
+  {
+   "manualId": "4508076",
+   "slug": "Navac-Nsm1",
+   "title": "NSM1 user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "NSM1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4508076/Navac-Nsm1.html"
+  },
+  {
+   "manualId": "3695025",
+   "slug": "Navac-Nsp1",
+   "title": "NSP1 user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "NSP1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3695025/Navac-Nsp1.html"
+  },
+  {
+   "manualId": "4644193",
+   "slug": "Navac-Nsp1",
+   "title": "NSP1 user manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "NSP1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4644193/Navac-Nsp1.html"
+  },
+  {
+   "manualId": "2024287",
+   "slug": "Navac-Ntw1",
+   "title": "NTW1 owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "NTW1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2024287/Navac-Ntw1.html"
+  },
+  {
+   "manualId": "4189280",
+   "slug": "Navac-Ntw1",
+   "title": "NTW1 owner's manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "NTW1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4189280/Navac-Ntw1.html"
+  },
+  {
+   "manualId": "4163993",
+   "slug": "Navac-Nx1",
+   "title": "NX1 user manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "NX1",
+   "extraModels": [
+    "NX1V"
+   ],
+   "url": "https://www.manualslib.com/manual/4163993/Navac-Nx1.html"
+  },
+  {
+   "manualId": "2140232",
+   "slug": "Navac-Pro-Series",
+   "title": "PRO Series user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "PRO Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2140232/Navac-Pro-Series.html"
+  },
+  {
+   "manualId": "3096704",
+   "slug": "Navac-Np7dp2",
+   "title": "PRO Series user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "PRO Series",
+   "extraModels": [
+    "PRO Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3096704/Navac-Np7dp2.html"
+  },
+  {
+   "manualId": "3999024",
+   "slug": "Navac-Pro-Series",
+   "title": "PRO Series user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "PRO Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3999024/Navac-Pro-Series.html"
+  },
+  {
+   "manualId": "4317718",
+   "slug": "Navac-Pro-Series",
+   "title": "PRO Series user manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "PRO Series",
+   "extraModels": [
+    "NP7DP2"
+   ],
+   "url": "https://www.manualslib.com/manual/4317718/Navac-Pro-Series.html"
+  },
+  {
+   "manualId": "1882574",
+   "slug": "Navac-Mater-Series",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1882574/Navac-Mater-Series.html"
+  },
+  {
+   "manualId": "2140056",
+   "slug": "Navac-Nrrd",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2140056/Navac-Nrrd.html"
+  },
+  {
+   "manualId": "2286800",
+   "slug": "Navac-Master-Series",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2286800/Navac-Master-Series.html"
+  },
+  {
+   "manualId": "2472719",
+   "slug": "Navac-Nrd-Series",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2472719/Navac-Nrd-Series.html"
+  },
+  {
+   "manualId": "2479392",
+   "slug": "Navac-Nml1",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2479392/Navac-Nml1.html"
+  },
+  {
+   "manualId": "2546353",
+   "slug": "Navac-N2a4a",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2546353/Navac-N2a4a.html"
+  },
+  {
+   "manualId": "2566698",
+   "slug": "Navac-Nrs2i01",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2566698/Navac-Nrs2i01.html"
+  },
+  {
+   "manualId": "2855439",
+   "slug": "Navac-N2a4",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2855439/Navac-N2a4.html"
+  },
+  {
+   "manualId": "3160286",
+   "slug": "Navac-Ntf67d",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3160286/Navac-Ntf67d.html"
+  },
+  {
+   "manualId": "3556306",
+   "slug": "Navac-Pro-Np7dpf",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3556306/Navac-Pro-Np7dpf.html"
+  },
+  {
+   "manualId": "3574056",
+   "slug": "Navac-Np12da1",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3574056/Navac-Np12da1.html"
+  },
+  {
+   "manualId": "3575453",
+   "slug": "Navac-Pro-Series",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3575453/Navac-Pro-Series.html"
+  },
+  {
+   "manualId": "3576001",
+   "slug": "Navac-Nmv1s",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3576001/Navac-Nmv1s.html"
+  },
+  {
+   "manualId": "3638800",
+   "slug": "Navac-Nmv1",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3638800/Navac-Nmv1.html"
+  },
+  {
+   "manualId": "3651702",
+   "slug": "Navac-ProPlus-Series",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3651702/Navac-ProPlus-Series.html"
+  },
+  {
+   "manualId": "3654018",
+   "slug": "Navac-N4a4h",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3654018/Navac-N4a4h.html"
+  },
+  {
+   "manualId": "3679419",
+   "slug": "Navac-Nstl",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3679419/Navac-Nstl.html"
+  },
+  {
+   "manualId": "3687782",
+   "slug": "Navac-Nrs2a",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3687782/Navac-Nrs2a.html"
+  },
+  {
+   "manualId": "3697676",
+   "slug": "Navac-Nsv1",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3697676/Navac-Nsv1.html"
+  },
+  {
+   "manualId": "3707942",
+   "slug": "Navac-Nsh1",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3707942/Navac-Nsh1.html"
+  },
+  {
+   "manualId": "3723583",
+   "slug": "Navac-Nmv1",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3723583/Navac-Nmv1.html"
+  },
+  {
+   "manualId": "3726401",
+   "slug": "Navac-Nmv1s",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3726401/Navac-Nmv1s.html"
+  },
+  {
+   "manualId": "3738771",
+   "slug": "Navac-Master-Series",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "NRDD"
+   ],
+   "url": "https://www.manualslib.com/manual/3738771/Navac-Master-Series.html"
+  },
+  {
+   "manualId": "3748642",
+   "slug": "Navac-N2dx",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3748642/Navac-N2dx.html"
+  },
+  {
+   "manualId": "3994158",
+   "slug": "Navac-Nrm1d01-Series",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3994158/Navac-Nrm1d01-Series.html"
+  },
+  {
+   "manualId": "4002438",
+   "slug": "Navac-N2a4a",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4002438/Navac-N2a4a.html"
+  },
+  {
+   "manualId": "4042091",
+   "slug": "Navac-Nef6li",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4042091/Navac-Nef6li.html"
+  },
+  {
+   "manualId": "4043220",
+   "slug": "Navac-ProPlus-Series",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4043220/Navac-ProPlus-Series.html"
+  },
+  {
+   "manualId": "4048979",
+   "slug": "Navac-Np12dm",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4048979/Navac-Np12dm.html"
+  },
+  {
+   "manualId": "4059344",
+   "slug": "Navac-Pro-Np5dp",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4059344/Navac-Pro-Np5dp.html"
+  },
+  {
+   "manualId": "4066528",
+   "slug": "Navac-Nrm2b-Series",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4066528/Navac-Nrm2b-Series.html"
+  },
+  {
+   "manualId": "4079546",
+   "slug": "Navac-Nst1",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4079546/Navac-Nst1.html"
+  },
+  {
+   "manualId": "4080496",
+   "slug": "Navac-Master-Series",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4080496/Navac-Master-Series.html"
+  },
+  {
+   "manualId": "4082768",
+   "slug": "Navac-Ntf66",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4082768/Navac-Ntf66.html"
+  },
+  {
+   "manualId": "4101482",
+   "slug": "Navac-Ntb7",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4101482/Navac-Ntb7.html"
+  },
+  {
+   "manualId": "4142077",
+   "slug": "Navac-Pro-Nr7",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4142077/Navac-Pro-Nr7.html"
+  },
+  {
+   "manualId": "4156128",
+   "slug": "Navac-Pro-Series",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4156128/Navac-Pro-Series.html"
+  },
+  {
+   "manualId": "4166142",
+   "slug": "Navac-Master-Np12dm",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4166142/Navac-Master-Np12dm.html"
+  },
+  {
+   "manualId": "4170111",
+   "slug": "Navac-Nrc62i",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4170111/Navac-Nrc62i.html"
+  },
+  {
+   "manualId": "4253901",
+   "slug": "Navac-Breakfree-Ntb7l2",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4253901/Navac-Breakfree-Ntb7l2.html"
+  },
+  {
+   "manualId": "4356983",
+   "slug": "Navac-Ncb10",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4356983/Navac-Ncb10.html"
+  },
+  {
+   "manualId": "4362114",
+   "slug": "Navac-Nca10",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4362114/Navac-Nca10.html"
+  },
+  {
+   "manualId": "4380889",
+   "slug": "Navac-Nte11l2",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4380889/Navac-Nte11l2.html"
+  },
+  {
+   "manualId": "4507552",
+   "slug": "Navac-Nct145",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4507552/Navac-Nct145.html"
+  },
+  {
+   "manualId": "4507917",
+   "slug": "Navac-N1dx",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4507917/Navac-N1dx.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4256174",
+   "slug": "navac-breakfree-nef6lm-tube-flaring-tool-operating-manual",
+   "title": "NAVAC BreakFree NEF6LM Tube Flaring Tool Operating Manual"
+  },
+  {
+   "manualId": "4245053",
+   "slug": "navac-ntb7l-tube-bender-operating-manual",
+   "title": "NAVAC NTB7L tube bender Operating Manual"
+  }
+ ],
+ "techDirectIds": [
+  "navac"
+ ]
+}

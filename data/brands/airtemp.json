@@ -1,0 +1,110 @@
+{
+ "brand": "Airtemp",
+ "brandSlug": "airtemp",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/airtemp/"
+ ],
+ "slugUsed": "airtemp",
+ "capturedAt": "2026-10-28T06:22:56.818234+00:00",
+ "typePages": [
+  {
+   "path": "/brand/airtemp/air-conditioner.html",
+   "manuals": 14,
+   "status": 200
+  },
+  {
+   "path": "/brand/airtemp/furnace.html",
+   "manuals": 5,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "239059",
+   "slug": "Airtemp-B3x05f2a",
+   "title": "B3X05F2A Installation and operation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "B3X05F2A",
+   "extraModels": [
+    "B3X05F2C",
+    "B6X08F2A",
+    "B7X05F2B",
+    "B7X06F2A"
+   ],
+   "url": "https://www.manualslib.com/manual/239059/Airtemp-B3x05f2a.html"
+  },
+  {
+   "manualId": "239062",
+   "slug": "Airtemp-B6k32e7a",
+   "title": "B6K32E7A Installation and operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "B6K32E7A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/239062/Airtemp-B6k32e7a.html"
+  },
+  {
+   "manualId": "239060",
+   "slug": "Airtemp-B6q10f2a",
+   "title": "B6Q10F2A Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "B6Q10F2A",
+   "extraModels": [
+    "B7Q08F2A"
+   ],
+   "url": "https://www.manualslib.com/manual/239060/Airtemp-B6q10f2a.html"
+  },
+  {
+   "manualId": "239063",
+   "slug": "Airtemp-B6y12f2a",
+   "title": "B6Y12F2A Installation and operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "B6Y12F2A",
+   "extraModels": [
+    "B6Y18F7A",
+    "B7Y10F2A",
+    "B7Y12F2A",
+    "B7Y15F2A"
+   ],
+   "url": "https://www.manualslib.com/manual/239063/Airtemp-B6y12f2a.html"
+  },
+  {
+   "manualId": "3758541",
+   "slug": "Airtemp-Rl16f-Bbp",
+   "title": "RC16F-BBP Installation and operation manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "RC16F-BBP",
+   "extraModels": [
+    "RC16F-BBP",
+    "RC16R-BBP",
+    "RL16R-BBP"
+   ],
+   "url": "https://www.manualslib.com/manual/3758541/Airtemp-Rl16f-Bbp.html"
+  },
+  {
+   "manualId": "500515",
+   "slug": "Airtemp-Room-Air-Conditioners",
+   "title": "Room Air Conditioners s Installation & operation manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "Room Air Conditioners s",
+   "extraModels": [
+    "Room Air Conditioners s"
+   ],
+   "url": "https://www.manualslib.com/manual/500515/Airtemp-Room-Air-Conditioners.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "airtemp"
+ ]
+}

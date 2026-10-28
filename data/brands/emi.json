@@ -1,0 +1,919 @@
+{
+ "brand": "EMI",
+ "brandSlug": "emi",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/emi/"
+ ],
+ "slugUsed": "emi",
+ "capturedAt": "2026-10-28T07:04:47.880319+00:00",
+ "typePages": [
+  {
+   "path": "/brand/emi/air-conditioner.html",
+   "manuals": 278,
+   "status": 200
+  },
+  {
+   "path": "/brand/emi/air-cleaner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/emi/air-conditioner-accessories.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/emi/air-handlers.html",
+   "manuals": 17,
+   "status": 200
+  },
+  {
+   "path": "/brand/emi/controller.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/emi/gate-opener.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/emi/heat-pump.html",
+   "manuals": 104,
+   "status": 200
+  },
+  {
+   "path": "/brand/emi/humidifier.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/emi/indoor-furnishing.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/emi/inverter.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/emi/keypad.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/emi/music-mixer.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/emi/recording-equipment.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/emi/remote-control.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/emi/scooter.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/emi/split-system.html",
+   "manuals": 11,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1322633",
+   "slug": "Emi-420e-2",
+   "title": "420E-2 owner's manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "420E-2",
+   "extraModels": [
+    "500E-3",
+    "700E"
+   ],
+   "url": "https://www.manualslib.com/manual/1322633/Emi-420e-2.html"
+  },
+  {
+   "manualId": "3094135",
+   "slug": "Emi-Adwal-Series",
+   "title": "ADWAL Series owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "ADWAL Series",
+   "extraModels": [
+    "MHCAS09DA",
+    "MHCAS12DA",
+    "MHCAS18DA"
+   ],
+   "url": "https://www.manualslib.com/manual/3094135/Emi-Adwal-Series.html"
+  },
+  {
+   "manualId": "2639572",
+   "slug": "Emi-Americaseries-Llc-09",
+   "title": "AmericaSeries LLC-09 quick start manual",
+   "type": "Other",
+   "pages": 25,
+   "productModel": "AmericaSeries LLC-09",
+   "extraModels": [
+    "AmericaSeries LLC-12",
+    "AmericaSeries LLC-15",
+    "AmericaSeries LLC-18",
+    "AmericaSeries LLC-24",
+    "AmericaSeries MC-09",
+    "AmericaSeries MC-12",
+    "AmericaSeries MC-15",
+    "AmericaSeries MC-18",
+    "AmericaSeries MC-24",
+    "AmericaSeries MC-30",
+    "AmericaSeries MH-09",
+    "AmericaSeries MH-12",
+    "AmericaSeries MH-15",
+    "AmericaSeries MH-18",
+    "AmericaSeries MH-24",
+    "AmericaSeries MH-30",
+    "AmericaSeries SCC-42",
+    "AmericaSeries SCC-48",
+    "AmericaSeries SHC-42",
+    "AmericaSeries SHC-48",
+    "SCC 09",
+    "SCC 12",
+    "SCC 15",
+    "SCC 18",
+    "SCC 24",
+    "SCC 30",
+    "SCC 36",
+    "SHC 09",
+    "SHC 12",
+    "SHC 15",
+    "SHC 18",
+    "SHC 24",
+    "SHC 30",
+    "SHC 36"
+   ],
+   "url": "https://www.manualslib.com/manual/2639572/Emi-Americaseries-Llc-09.html"
+  },
+  {
+   "manualId": "255307",
+   "slug": "Emi-Volts-Hz-Ph",
+   "title": "AmericaSeries S1C2 Installation & operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "AmericaSeries S1C2",
+   "extraModels": [
+    "AmericaSeries S1C2",
+    "AmericaSeries S1C3",
+    "AmericaSeries S1C4",
+    "AmericaSeries S1C6",
+    "AmericaSeries S1C8",
+    "AmericaSeries S1C9",
+    "AmericaSeries S1H2A",
+    "AmericaSeries S1H2D",
+    "AmericaSeries S1H4D",
+    "AmericaSeries S1H8D",
+    "AmericaSeries S1H9A",
+    "AmericaSeries S1H9D",
+    "AmericaSeries S2C22",
+    "AmericaSeries S2C92",
+    "AmericaSeries S2C99"
+   ],
+   "url": "https://www.manualslib.com/manual/255307/Emi-Volts-Hz-Ph.html"
+  },
+  {
+   "manualId": "2391417",
+   "slug": "Emi-Wlh09",
+   "title": "AmericaSeries WLC30 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "AmericaSeries WLC30",
+   "extraModels": [
+    "AmericaSeries WLC30",
+    "AmericaSeries WLC36",
+    "AmericaSeries WLH12",
+    "AmericaSeries WLH24"
+   ],
+   "url": "https://www.manualslib.com/manual/2391417/Emi-Wlh09.html"
+  },
+  {
+   "manualId": "255305",
+   "slug": "Emi-High-Wall-Evaporator-Wlc-Wlh",
+   "title": "AmericaSeries WLC30 Specifications And Performance",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "AmericaSeries WLC30",
+   "extraModels": [
+    "AmericaSeries WLC30",
+    "AmericaSeries WLC36",
+    "AmericaSeries WLH09",
+    "AmericaSeries WLH12",
+    "AmericaSeries WLH24"
+   ],
+   "url": "https://www.manualslib.com/manual/255305/Emi-High-Wall-Evaporator-Wlc-Wlh.html"
+  },
+  {
+   "manualId": "47388",
+   "slug": "Emi-S1h2a",
+   "title": "AmericaSeries WLH12 Specification Sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "AmericaSeries WLH12",
+   "extraModels": [
+    "AmericaSeries WLH12",
+    "AmericaSeries S1H2D"
+   ],
+   "url": "https://www.manualslib.com/manual/47388/Emi-S1h2a.html"
+  },
+  {
+   "manualId": "1922301",
+   "slug": "Emi-Pantry-H-1800-2200",
+   "title": "Assembling Instruction",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1922301/Emi-Pantry-H-1800-2200.html"
+  },
+  {
+   "manualId": "47394",
+   "slug": "Emi-Cac",
+   "title": "CAC Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 33,
+   "productModel": "CAC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/47394/Emi-Cac.html"
+  },
+  {
+   "manualId": "1370038",
+   "slug": "Emi-S1ca9000",
+   "title": "CAC_36 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 53,
+   "productModel": "CAC_36",
+   "extraModels": [
+    "CAC_36",
+    "CAH_12",
+    "CAH_24",
+    "S1CA2000",
+    "S1CA3000",
+    "S1CA4000",
+    "S1CA6000",
+    "S1CA8000",
+    "S1HA2000",
+    "S1HA4000",
+    "S1HA8000",
+    "S1HA9000",
+    "S2CA2200",
+    "S2CA9200",
+    "S2CA9900",
+    "S2HA2200",
+    "S2HA9200",
+    "S2HA9900",
+    "T2CA2400",
+    "T2CA4400",
+    "T2CA8400",
+    "T2CA8800",
+    "T2CA9800",
+    "T2HA2400",
+    "T2HA4400",
+    "T2HA8400",
+    "T2HA8800",
+    "T2HA9800",
+    "T3CA2220",
+    "T3CA2240",
+    "T3CA2280",
+    "T3CA9220",
+    "T3CA9240",
+    "T3CA9280",
+    "T3CA9920",
+    "T3CA9940",
+    "T3CA9980",
+    "T3CA9990",
+    "T3HA2220",
+    "T3HA2240",
+    "T3HA2280",
+    "T3HA9220",
+    "T3HA9240",
+    "T3HA9280",
+    "T3HA9920",
+    "T3HA9940",
+    "T3HA9980",
+    "T4CA2222",
+    "T4CA9222",
+    "T4CA9922",
+    "T4CA9992",
+    "T4CA9999",
+    "T4HA2222",
+    "T4HA9222",
+    "T4HA9922",
+    "T4HA9992",
+    "T4HA9999"
+   ],
+   "url": "https://www.manualslib.com/manual/1370038/Emi-S1ca9000.html"
+  },
+  {
+   "manualId": "1070246",
+   "slug": "Emi-Cahg09",
+   "title": "CAHG09 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "CAHG09",
+   "extraModels": [
+    "CAHG12",
+    "CAHG24",
+    "CAHH09",
+    "CAHH12",
+    "CAHH24"
+   ],
+   "url": "https://www.manualslib.com/manual/1070246/Emi-Cahg09.html"
+  },
+  {
+   "manualId": "1224207",
+   "slug": "Emi-Cahv09",
+   "title": "CAHV09 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "CAHV09",
+   "extraModels": [
+    "CAHV12",
+    "CAHV18",
+    "CAHV24"
+   ],
+   "url": "https://www.manualslib.com/manual/1224207/Emi-Cahv09.html"
+  },
+  {
+   "manualId": "1118068",
+   "slug": "Emi-Fcp-Fhp",
+   "title": "CCP/CHP Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "CCP/CHP",
+   "extraModels": [
+    "CCP/CHP",
+    "WCP/WHP"
+   ],
+   "url": "https://www.manualslib.com/manual/1118068/Emi-Fcp-Fhp.html"
+  },
+  {
+   "manualId": "3836896",
+   "slug": "Emi-Cnr",
+   "title": "CNR Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "CNR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3836896/Emi-Cnr.html"
+  },
+  {
+   "manualId": "1979199",
+   "slug": "Emi-Comfortwave-Caw-Series",
+   "title": "ComfortWave CAW Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "ComfortWave CAW Series",
+   "extraModels": [
+    "ComfortWave CAW08",
+    "ComfortWave CAW12",
+    "ComfortWave CAW18",
+    "ComfortWave CAW20",
+    "ComfortWave CAW33",
+    "ComfortWave CAW36"
+   ],
+   "url": "https://www.manualslib.com/manual/1979199/Emi-Comfortwave-Caw-Series.html"
+  },
+  {
+   "manualId": "1615819",
+   "slug": "Emi-Comfortwave-Wcp-Series",
+   "title": "ComfortWave CCP Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "ComfortWave CCP Series",
+   "extraModels": [
+    "ComfortWave CCP Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1615819/Emi-Comfortwave-Wcp-Series.html"
+  },
+  {
+   "manualId": "47389",
+   "slug": "Emi-Emi-Corp",
+   "title": "Corp Manual",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "Corp",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/47389/Emi-Emi-Corp.html"
+  },
+  {
+   "manualId": "2154250",
+   "slug": "Emi-E-Verter-Wlhv09",
+   "title": "E Verter WLHV09 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "E Verter WLHV09",
+   "extraModels": [
+    "E Verter WLHV12",
+    "E Verter WLHV18",
+    "E Verter WLHV24",
+    "E Verter WLHV30",
+    "E Verter WLHV36"
+   ],
+   "url": "https://www.manualslib.com/manual/2154250/Emi-E-Verter-Wlhv09.html"
+  },
+  {
+   "manualId": "494777",
+   "slug": "Emi-Scc-Series",
+   "title": "Emi SCC Series Specifications",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [
+    "CAH_12",
+    "CAH_24",
+    "CNR Series s",
+    "MC2 Series s",
+    "MC4 Series s",
+    "MH2 Series s",
+    "MH4 Series s",
+    "SCC 09",
+    "SCC 12",
+    "SCC 15",
+    "SCC 18",
+    "SCC 24",
+    "SCC 30",
+    "SCC 36",
+    "SHC 09",
+    "SHC 12",
+    "SHC 15",
+    "SHC 18",
+    "SHC 24",
+    "SHC 30",
+    "SHC 36"
+   ],
+   "url": "https://www.manualslib.com/manual/494777/Emi-Scc-Series.html"
+  },
+  {
+   "manualId": "3838975",
+   "slug": "Emi-Enviroair-12000-Btu",
+   "title": "enviroair 12000 Btu Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "enviroair 12000 Btu",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3838975/Emi-Enviroair-12000-Btu.html"
+  },
+  {
+   "manualId": "3838974",
+   "slug": "Emi-Enviroair-18000-Btu",
+   "title": "enviroair 18000 Btu Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "enviroair 18000 Btu",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3838974/Emi-Enviroair-18000-Btu.html"
+  },
+  {
+   "manualId": "3838976",
+   "slug": "Emi-Enviroair-24000-Btu",
+   "title": "enviroair 24000 btu Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "enviroair 24000 btu",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3838976/Emi-Enviroair-24000-Btu.html"
+  },
+  {
+   "manualId": "1181935",
+   "slug": "Emi-Enviroair-9000-Btu",
+   "title": "enviroair 9000 Btu Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "enviroair 9000 Btu",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1181935/Emi-Enviroair-9000-Btu.html"
+  },
+  {
+   "manualId": "3311785",
+   "slug": "Emi-Enviroair-Szi-Series",
+   "title": "ENVIROair SZI Series Installation, operation & manintenance manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "ENVIROair SZI Series",
+   "extraModels": [
+    "ENVIROair ZHA30D00",
+    "ENVIROair ZHA36D00",
+    "ENVIROair ZWHA30D0",
+    "ENVIROair ZWHA36D0"
+   ],
+   "url": "https://www.manualslib.com/manual/3311785/Emi-Enviroair-Szi-Series.html"
+  },
+  {
+   "manualId": "925652",
+   "slug": "Emi-Enviroair-Szi-Zwha",
+   "title": "enviroair szi ZHA Operation manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "enviroair szi ZHA",
+   "extraModels": [
+    "enviroair szi ZHA",
+    "enviroair szi ZHB",
+    "enviroair szi ZWHB"
+   ],
+   "url": "https://www.manualslib.com/manual/925652/Emi-Enviroair-Szi-Zwha.html"
+  },
+  {
+   "manualId": "1526016",
+   "slug": "Emi-S1cv",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1526016/Emi-S1cv.html"
+  },
+  {
+   "manualId": "1873437",
+   "slug": "Emi-550000565",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1873437/Emi-550000565.html"
+  },
+  {
+   "manualId": "1150652",
+   "slug": "Emi-Vch-Series",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1150652/Emi-Vch-Series.html"
+  },
+  {
+   "manualId": "1224243",
+   "slug": "Emi-Vpac30",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1224243/Emi-Vpac30.html"
+  },
+  {
+   "manualId": "552174",
+   "slug": "Emi-Kwca09ao",
+   "title": "K1CA2000A00 Installation, operating and maintanance manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "K1CA2000A00",
+   "extraModels": [
+    "K1CA2000A00",
+    "K1CA4000D00",
+    "K1CA8000D00",
+    "K1CA9000A00",
+    "K1HA2000A00",
+    "K1HA4000D00",
+    "K1HA8000D00",
+    "K1HA9000A00",
+    "KWC24DO",
+    "KWCA09A0",
+    "KWCA12A0",
+    "KWCA12AO",
+    "KWCA18D0",
+    "KWCA18DO",
+    "KWCA24D0",
+    "KWHA09A0",
+    "KWHA09AO",
+    "KWHA12A0",
+    "KWHA12AO",
+    "KWHA18D0",
+    "KWHA18DO",
+    "KWHA24D0",
+    "KWHA24DO"
+   ],
+   "url": "https://www.manualslib.com/manual/552174/Emi-Kwca09ao.html"
+  },
+  {
+   "manualId": "4323669",
+   "slug": "Emi-L4-Series",
+   "title": "L4 Series instruction manual",
+   "type": "User / Owner",
+   "pages": 61,
+   "productModel": "L4 Series",
+   "extraModels": [
+    "L4A",
+    "L4B",
+    "L4C",
+    "L4D"
+   ],
+   "url": "https://www.manualslib.com/manual/4323669/Emi-L4-Series.html"
+  },
+  {
+   "manualId": "1193524",
+   "slug": "Emi-Scc",
+   "title": "MC2 Series s Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "MC2 Series s",
+   "extraModels": [
+    "MC2 Series s",
+    "MC4 Series s",
+    "MH2 Series s",
+    "MH4 Series s",
+    "SHC"
+   ],
+   "url": "https://www.manualslib.com/manual/1193524/Emi-Scc.html"
+  },
+  {
+   "manualId": "4138601",
+   "slug": "Emi-Porta-Kis100",
+   "title": "PORTA KIS100 installation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "PORTA KIS100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4138601/Emi-Porta-Kis100.html"
+  },
+  {
+   "manualId": "3743590",
+   "slug": "Emi-Rg10r-M2s-Bgefu1",
+   "title": "RG10R M2S BGEFU1 owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "RG10R M2S BGEFU1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3743590/Emi-Rg10r-M2s-Bgefu1.html"
+  },
+  {
+   "manualId": "255303",
+   "slug": "Emi-Wlha",
+   "title": "S1C Installation & operation manual",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "S1C",
+   "extraModels": [
+    "S1C",
+    "AmericaSeries WLCA30",
+    "AmericaSeries WLCA36",
+    "AmericaSeries WLHA09",
+    "AmericaSeries WLHA12",
+    "AmericaSeries WLHA24"
+   ],
+   "url": "https://www.manualslib.com/manual/255303/Emi-Wlha.html"
+  },
+  {
+   "manualId": "1224425",
+   "slug": "Emi-S1c",
+   "title": "S1C Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "S1C",
+   "extraModels": [
+    "S1H",
+    "S2C"
+   ],
+   "url": "https://www.manualslib.com/manual/1224425/Emi-S1c.html"
+  },
+  {
+   "manualId": "1072257",
+   "slug": "Emi-S1cg",
+   "title": "S1CG Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "S1CG",
+   "extraModels": [
+    "S2CG",
+    "S2HG"
+   ],
+   "url": "https://www.manualslib.com/manual/1072257/Emi-S1cg.html"
+  },
+  {
+   "manualId": "1224208",
+   "slug": "Emi-S1cv",
+   "title": "S1CV Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "S1CV",
+   "extraModels": [
+    "S1HV"
+   ],
+   "url": "https://www.manualslib.com/manual/1224208/Emi-S1cv.html"
+  },
+  {
+   "manualId": "3835446",
+   "slug": "Emi-S1hg",
+   "title": "S1HG Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "S1HG",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3835446/Emi-S1hg.html"
+  },
+  {
+   "manualId": "47391",
+   "slug": "Emi-S2ha",
+   "title": "S2HA Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "S2HA",
+   "extraModels": [
+    "T2HA",
+    "T3HA",
+    "T4HA"
+   ],
+   "url": "https://www.manualslib.com/manual/47391/Emi-S2ha.html"
+  },
+  {
+   "manualId": "255304",
+   "slug": "Emi-S2hb",
+   "title": "S2HB Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "S2HB",
+   "extraModels": [
+    "T2HB",
+    "T3HB",
+    "T4HB"
+   ],
+   "url": "https://www.manualslib.com/manual/255304/Emi-S2hb.html"
+  },
+  {
+   "manualId": "2892055",
+   "slug": "Emi-C200",
+   "title": "Setup manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2892055/Emi-C200.html"
+  },
+  {
+   "manualId": "47384",
+   "slug": "Emi-Dfph093-Fhp12-Shc09",
+   "title": "specification",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/47384/Emi-Dfph093-Fhp12-Shc09.html"
+  },
+  {
+   "manualId": "47385",
+   "slug": "Emi-Dwph365-Whp36-Shc36",
+   "title": "specification",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/47385/Emi-Dwph365-Whp36-Shc36.html"
+  },
+  {
+   "manualId": "47383",
+   "slug": "Emi-High-Wall-Air-Handler-Wcp",
+   "title": "Specification Sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/47383/Emi-High-Wall-Air-Handler-Wcp.html"
+  },
+  {
+   "manualId": "47390",
+   "slug": "Emi-S2h",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/47390/Emi-S2h.html"
+  },
+  {
+   "manualId": "47393",
+   "slug": "Emi-Chilled-Water-Cassette-Evaporator-Caf",
+   "title": "Specification Sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/47393/Emi-Chilled-Water-Cassette-Evaporator-Caf.html"
+  },
+  {
+   "manualId": "47392",
+   "slug": "Emi-Unh-T2h-T3h-T4h",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/47392/Emi-Unh-T2h-T3h-T4h.html"
+  },
+  {
+   "manualId": "255306",
+   "slug": "Emi-Ductless-Split-System-Single-Zone-S1c-30-36",
+   "title": "Specifications And Performance",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "AmericaSeries S1H2A",
+    "AmericaSeries S1H2D",
+    "AmericaSeries S1H4D",
+    "AmericaSeries S1H9A",
+    "AmericaSeries S1H9D"
+   ],
+   "url": "https://www.manualslib.com/manual/255306/Emi-Ductless-Split-System-Single-Zone-S1c-30-36.html"
+  },
+  {
+   "manualId": "769744",
+   "slug": "Emi-Tg-12345-Mk-Ii",
+   "title": "TG 12345 Mk.II Handbook",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "TG 12345 Mk.II",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/769744/Emi-Tg-12345-Mk-Ii.html"
+  },
+  {
+   "manualId": "1177245",
+   "slug": "Emi-Unhg09",
+   "title": "UNCG-30 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "UNCG-30",
+   "extraModels": [
+    "UNCG-30",
+    "UNHG12",
+    "UNHG18",
+    "UNHG24"
+   ],
+   "url": "https://www.manualslib.com/manual/1177245/Emi-Unhg09.html"
+  },
+  {
+   "manualId": "1224205",
+   "slug": "Emi-Unhv09",
+   "title": "UNHV09 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "UNHV09",
+   "extraModels": [
+    "UNHV12",
+    "UNHV18",
+    "UNHV24"
+   ],
+   "url": "https://www.manualslib.com/manual/1224205/Emi-Unhv09.html"
+  },
+  {
+   "manualId": "1224246",
+   "slug": "Emi-Vpac",
+   "title": "VPAC Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "VPAC",
+   "extraModels": [
+    "VPHP"
+   ],
+   "url": "https://www.manualslib.com/manual/1224246/Emi-Vpac.html"
+  },
+  {
+   "manualId": "47387",
+   "slug": "Emi-Wlca",
+   "title": "WLCA operation instruction manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "WLCA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/47387/Emi-Wlca.html"
+  },
+  {
+   "manualId": "1072258",
+   "slug": "Emi-Wlhg09",
+   "title": "WLHG09 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "WLHG09",
+   "extraModels": [
+    "WLHG12",
+    "WLHG24"
+   ],
+   "url": "https://www.manualslib.com/manual/1072258/Emi-Wlhg09.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "emi"
+ ]
+}

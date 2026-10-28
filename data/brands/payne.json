@@ -1,0 +1,1879 @@
+{
+ "brand": "Payne",
+ "brandSlug": "payne",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/payne/"
+ ],
+ "slugUsed": "payne",
+ "capturedAt": "2026-10-28T08:47:26.336955+00:00",
+ "typePages": [
+  {
+   "path": "/brand/payne/air-conditioner.html",
+   "manuals": 229,
+   "status": 200
+  },
+  {
+   "path": "/brand/payne/controller.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/payne/fan.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/payne/furnace.html",
+   "manuals": 197,
+   "status": 200
+  },
+  {
+   "path": "/brand/payne/heat-pump.html",
+   "manuals": 145,
+   "status": 200
+  },
+  {
+   "path": "/brand/payne/heating-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/payne/lifting-systems.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/payne/thermostat.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "466197",
+   "slug": "Payne-Ph10",
+   "title": "018-060 PH13 User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "018-060 PH13",
+   "extraModels": [
+    "018-060 PH13"
+   ],
+   "url": "https://www.manualslib.com/manual/466197/Payne-Ph10.html"
+  },
+  {
+   "manualId": "2325142",
+   "slug": "Payne-C-Series",
+   "title": "030040 Installation, Start-Up, Operating And Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 85,
+   "productModel": "030040",
+   "extraModels": [
+    "030040",
+    "048060",
+    "048080",
+    "048100",
+    "060080",
+    "060100",
+    "060120",
+    "B Series",
+    "PG92SBS",
+    "PG92SCS"
+   ],
+   "url": "https://www.manualslib.com/manual/2325142/Payne-C-Series.html"
+  },
+  {
+   "manualId": "3597158",
+   "slug": "Payne-18tbp",
+   "title": "18TB Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "18TB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3597158/Payne-18tbp.html"
+  },
+  {
+   "manualId": "576621",
+   "slug": "Payne-394g",
+   "title": "394G installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "394G",
+   "extraModels": [
+    "394G048125"
+   ],
+   "url": "https://www.manualslib.com/manual/576621/Payne-394g.html"
+  },
+  {
+   "manualId": "2324348",
+   "slug": "Payne-F-Series",
+   "title": "480BAV Upflow Installation, start-up, and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "480BAV Upflow",
+   "extraModels": [
+    "480BAV Upflow"
+   ],
+   "url": "https://www.manualslib.com/manual/2324348/Payne-F-Series.html"
+  },
+  {
+   "manualId": "891452",
+   "slug": "Payne-480bav-Upflow",
+   "title": "480BAV Upflow User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "480BAV Upflow",
+   "extraModels": [
+    "481BAV Downflow/Horizontal"
+   ],
+   "url": "https://www.manualslib.com/manual/891452/Payne-480bav-Upflow.html"
+  },
+  {
+   "manualId": "562509",
+   "slug": "Payne-541b",
+   "title": "541B Series owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "541B Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/562509/Payne-541b.html"
+  },
+  {
+   "manualId": "3226923",
+   "slug": "Payne-A-Series",
+   "title": "A Series Installation, Start-Up, Operating And Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 86,
+   "productModel": "A Series",
+   "extraModels": [
+    "B Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3226923/Payne-A-Series.html"
+  },
+  {
+   "manualId": "628485",
+   "slug": "Payne-Condensing-Gas-Furnace",
+   "title": "A11300 owner's manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "A11300",
+   "extraModels": [
+    "A11300",
+    "A11303",
+    "A11304",
+    "CONDENSING GAS FURNACE",
+    "PG92S"
+   ],
+   "url": "https://www.manualslib.com/manual/628485/Payne-Condensing-Gas-Furnace.html"
+  },
+  {
+   "manualId": "3128384",
+   "slug": "Payne-C-Series",
+   "title": "C Series Installation, Start-up, Operating, Service and Maintenance Instructions",
+   "type": "Service",
+   "pages": 49,
+   "productModel": "C Series",
+   "extraModels": [
+    "PG8J",
+    "PG8M"
+   ],
+   "url": "https://www.manualslib.com/manual/3128384/Payne-C-Series.html"
+  },
+  {
+   "manualId": "4113527",
+   "slug": "Payne-D5mvha-Series",
+   "title": "D5MVHA Series Product Data",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "D5MVHA Series",
+   "extraModels": [
+    "D5MVHAQ09XC1",
+    "D5MVHAQ09XC3",
+    "D5MVHAQ12XC1",
+    "D5MVHAQ12XC3",
+    "D5MVHAQ18XC3",
+    "D5MVHAQ24XC3"
+   ],
+   "url": "https://www.manualslib.com/manual/4113527/Payne-D5mvha-Series.html"
+  },
+  {
+   "manualId": "474321",
+   "slug": "Payne-Gas-Furnace",
+   "title": "Gas Furnace Installation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "Gas Furnace",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/474321/Payne-Gas-Furnace.html"
+  },
+  {
+   "manualId": "708317",
+   "slug": "Payne-Gas-Furnace",
+   "title": "Gas Furnace owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Gas Furnace",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/708317/Payne-Gas-Furnace.html"
+  },
+  {
+   "manualId": "485568",
+   "slug": "Payne-Gas-Furnace",
+   "title": "Gas Furnace User's information manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Gas Furnace",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/485568/Payne-Gas-Furnace.html"
+  },
+  {
+   "manualId": "488359",
+   "slug": "Payne-Heat-Pump",
+   "title": "Heat Pump owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "Heat Pump",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/488359/Payne-Heat-Pump.html"
+  },
+  {
+   "manualId": "629269",
+   "slug": "Payne-Heat-Pump",
+   "title": "Heat Pump owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "Heat Pump",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/629269/Payne-Heat-Pump.html"
+  },
+  {
+   "manualId": "507290",
+   "slug": "Payne-Og-Payacr410-01",
+   "title": "Homeowner's information",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507290/Payne-Og-Payacr410-01.html"
+  },
+  {
+   "manualId": "573322",
+   "slug": "Payne-Tstat",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/573322/Payne-Tstat.html"
+  },
+  {
+   "manualId": "643025",
+   "slug": "Payne-Pa10ja042000aa",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/643025/Payne-Pa10ja042000aa.html"
+  },
+  {
+   "manualId": "749614",
+   "slug": "Payne-018-060-Pa10",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/749614/Payne-018-060-Pa10.html"
+  },
+  {
+   "manualId": "593275",
+   "slug": "Payne-Og-Pg9m-07",
+   "title": "OG-PG9M-07 User's information manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "OG-PG9M-07",
+   "extraModels": [
+    "PG9MAB"
+   ],
+   "url": "https://www.manualslib.com/manual/593275/Payne-Og-Pg9m-07.html"
+  },
+  {
+   "manualId": "2769029",
+   "slug": "Payne-Pa4g",
+   "title": "Owner's information manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2769029/Payne-Pa4g.html"
+  },
+  {
+   "manualId": "485567",
+   "slug": "Payne-Ph3p",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/485567/Payne-Ph3p.html"
+  },
+  {
+   "manualId": "485569",
+   "slug": "Payne-Pa5g",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/485569/Payne-Pa5g.html"
+  },
+  {
+   "manualId": "485570",
+   "slug": "Payne-Ph5g",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/485570/Payne-Ph5g.html"
+  },
+  {
+   "manualId": "507284",
+   "slug": "Payne-Pg9yaa",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507284/Payne-Pg9yaa.html"
+  },
+  {
+   "manualId": "507292",
+   "slug": "Payne-Pa3g-Series",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507292/Payne-Pa3g-Series.html"
+  },
+  {
+   "manualId": "507298",
+   "slug": "Payne-Ph10",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507298/Payne-Ph10.html"
+  },
+  {
+   "manualId": "507303",
+   "slug": "Payne-Ph3g",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507303/Payne-Ph3g.html"
+  },
+  {
+   "manualId": "507309",
+   "slug": "Payne-Pa3p",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "PA3P042",
+    "PA3P060"
+   ],
+   "url": "https://www.manualslib.com/manual/507309/Payne-Pa3p.html"
+  },
+  {
+   "manualId": "507310",
+   "slug": "Payne-Pa13",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507310/Payne-Pa13.html"
+  },
+  {
+   "manualId": "628456",
+   "slug": "Payne-018-060-Pa13",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/628456/Payne-018-060-Pa13.html"
+  },
+  {
+   "manualId": "628502",
+   "slug": "Payne-Induced-Combustion-Gas-Furnace",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "PG8M"
+   ],
+   "url": "https://www.manualslib.com/manual/628502/Payne-Induced-Combustion-Gas-Furnace.html"
+  },
+  {
+   "manualId": "905304",
+   "slug": "Payne-Tstat",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/905304/Payne-Tstat.html"
+  },
+  {
+   "manualId": "796477",
+   "slug": "Payne-Pa10",
+   "title": "PA10 Series User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "PA10 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/796477/Payne-Pa10.html"
+  },
+  {
+   "manualId": "905897",
+   "slug": "Payne-Pa13a-Pw3ca",
+   "title": "PA13A/ PW3CA installation instructions manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "PA13A/ PW3CA",
+   "extraModels": [
+    "PA13N/ PW3CN",
+    "PH13A/ PW3HA HP",
+    "PH13N/ PW3HN HP"
+   ],
+   "url": "https://www.manualslib.com/manual/905897/Payne-Pa13a-Pw3ca.html"
+  },
+  {
+   "manualId": "643029",
+   "slug": "Payne-Pa13nr018",
+   "title": "PA13NR018 installation instructions manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "PA13NR018",
+   "extraModels": [
+    "PA13NR042"
+   ],
+   "url": "https://www.manualslib.com/manual/643029/Payne-Pa13nr018.html"
+  },
+  {
+   "manualId": "3819817",
+   "slug": "Payne-Pa13nr024",
+   "title": "PA13NR024 installation instructions manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "PA13NR024",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3819817/Payne-Pa13nr024.html"
+  },
+  {
+   "manualId": "3819819",
+   "slug": "Payne-Pa13nr030",
+   "title": "PA13NR030 installation instructions manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "PA13NR030",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3819819/Payne-Pa13nr030.html"
+  },
+  {
+   "manualId": "3819818",
+   "slug": "Payne-Pa13nr036",
+   "title": "PA13NR036 installation instructions manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "PA13NR036",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3819818/Payne-Pa13nr036.html"
+  },
+  {
+   "manualId": "3819820",
+   "slug": "Payne-Pa13nr048",
+   "title": "PA13NR048 installation instructions manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "PA13NR048",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3819820/Payne-Pa13nr048.html"
+  },
+  {
+   "manualId": "3819821",
+   "slug": "Payne-Pa13nr060",
+   "title": "PA13NR060 installation instructions manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "PA13NR060",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3819821/Payne-Pa13nr060.html"
+  },
+  {
+   "manualId": "860999",
+   "slug": "Payne-Pa17na",
+   "title": "PA17NA installation instructions manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "PA17NA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/860999/Payne-Pa17na.html"
+  },
+  {
+   "manualId": "642982",
+   "slug": "Payne-Pa1p048",
+   "title": "PA1P018 Installation & start-up instructions",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "PA1P018",
+   "extraModels": [
+    "PA1P018",
+    "PA1P024",
+    "PA1P042",
+    "PA1P060",
+    "PA2P024",
+    "PA2P030",
+    "PA2P036",
+    "PA2P042",
+    "PA2P048",
+    "PA2P060",
+    "PAIP030",
+    "PAIP036"
+   ],
+   "url": "https://www.manualslib.com/manual/642982/Payne-Pa1p048.html"
+  },
+  {
+   "manualId": "1836563",
+   "slug": "Payne-Pa1r-Series",
+   "title": "PA1R Series Installation, Start-Up and Service Instructions manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "PA1R Series",
+   "extraModels": [
+    "PA1R036",
+    "PA1R048",
+    "PA1R060",
+    "PA1R072"
+   ],
+   "url": "https://www.manualslib.com/manual/1836563/Payne-Pa1r-Series.html"
+  },
+  {
+   "manualId": "2619637",
+   "slug": "Payne-Pa1z",
+   "title": "PA1Z Series Installation, Start-Up and Service Instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "PA1Z Series",
+   "extraModels": [
+    "PA1Z024",
+    "PA1Z030",
+    "PA1Z036",
+    "PA1Z042",
+    "PA1Z048",
+    "PA1Z060"
+   ],
+   "url": "https://www.manualslib.com/manual/2619637/Payne-Pa1z.html"
+  },
+  {
+   "manualId": "507286",
+   "slug": "Payne-Pa1z-Series",
+   "title": "PA1Z Series User's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "PA1Z Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507286/Payne-Pa1z-Series.html"
+  },
+  {
+   "manualId": "551946",
+   "slug": "Payne-Pa1z",
+   "title": "PA1Z Series User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "PA1Z Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/551946/Payne-Pa1z.html"
+  },
+  {
+   "manualId": "642988",
+   "slug": "Payne-Pa1z030",
+   "title": "PA1Z024 Installation, Start-Up and Service Instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "PA1Z024",
+   "extraModels": [
+    "PA1Z024",
+    "PA1Z036",
+    "PA1Z042",
+    "PA1Z048",
+    "PA1Z060"
+   ],
+   "url": "https://www.manualslib.com/manual/642988/Payne-Pa1z030.html"
+  },
+  {
+   "manualId": "839438",
+   "slug": "Payne-Pa1p-B",
+   "title": "PA2P024 user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "PA2P024",
+   "extraModels": [
+    "PA2P024",
+    "PA2P030",
+    "PA2P036",
+    "PA2P042",
+    "PA2P060"
+   ],
+   "url": "https://www.manualslib.com/manual/839438/Payne-Pa1p-B.html"
+  },
+  {
+   "manualId": "756137",
+   "slug": "Payne-Pa3a",
+   "title": "PA3A installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "PA3A",
+   "extraModels": [
+    "PA4A",
+    "R-22 PA4R"
+   ],
+   "url": "https://www.manualslib.com/manual/756137/Payne-Pa3a.html"
+  },
+  {
+   "manualId": "1235712",
+   "slug": "Payne-Pa3p048",
+   "title": "PA3P042 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "PA3P042",
+   "extraModels": [
+    "PA3P042",
+    "PA3P060"
+   ],
+   "url": "https://www.manualslib.com/manual/1235712/Payne-Pa3p048.html"
+  },
+  {
+   "manualId": "808840",
+   "slug": "Payne-Pa3z",
+   "title": "PA3Z installation instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "PA3Z",
+   "extraModels": [
+    "PA3Z024",
+    "PA3Z030",
+    "PA3Z036",
+    "PA3Z042",
+    "PA3Z048",
+    "PA3Z049",
+    "PA3Z060"
+   ],
+   "url": "https://www.manualslib.com/manual/808840/Payne-Pa3z.html"
+  },
+  {
+   "manualId": "1228155",
+   "slug": "Payne-Pa3z",
+   "title": "PA3Z installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "PA3Z",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1228155/Payne-Pa3z.html"
+  },
+  {
+   "manualId": "507296",
+   "slug": "Payne-Pa3z",
+   "title": "PA3Z Owner's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "PA3Z",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507296/Payne-Pa3z.html"
+  },
+  {
+   "manualId": "474212",
+   "slug": "Payne-Pa3z",
+   "title": "PA3Z owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "PA3Z",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/474212/Payne-Pa3z.html"
+  },
+  {
+   "manualId": "1287362",
+   "slug": "Payne-Pa5gxxa-Series",
+   "title": "PA5GXXA series Installation instruction",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "PA5GXXA series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1287362/Payne-Pa5gxxa-Series.html"
+  },
+  {
+   "manualId": "3689528",
+   "slug": "Payne-Pa7t",
+   "title": "PA7T installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "PA7T",
+   "extraModels": [
+    "PA7TAN42400W",
+    "PA7TAN44800W",
+    "PA7TAN46000W"
+   ],
+   "url": "https://www.manualslib.com/manual/3689528/Payne-Pa7t.html"
+  },
+  {
+   "manualId": "1976930",
+   "slug": "Payne-Pallet-Retriever",
+   "title": "Pallet Retriever Operator's manual",
+   "type": "Other",
+   "pages": 29,
+   "productModel": "Pallet Retriever",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1976930/Payne-Pallet-Retriever.html"
+  },
+  {
+   "manualId": "4033390",
+   "slug": "Payne-59tp7a",
+   "title": "Payne 59TP7A Installation, Start-Up, Operating And Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 78,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4033390/Payne-59tp7a.html"
+  },
+  {
+   "manualId": "4040605",
+   "slug": "Payne-F97vtn",
+   "title": "Payne F97VTN Installation, Start-Up, Operating And Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 76,
+   "productModel": null,
+   "extraModels": [
+    "G97VTN"
+   ],
+   "url": "https://www.manualslib.com/manual/4040605/Payne-F97vtn.html"
+  },
+  {
+   "manualId": "750989",
+   "slug": "Payne-Pa10-Series",
+   "title": "Payne PA10 Series Product Data",
+   "type": "Other",
+   "pages": 13,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/750989/Payne-Pa10-Series.html"
+  },
+  {
+   "manualId": "1077980",
+   "slug": "Payne-Pa13naz",
+   "title": "Payne PA13NAZ Product Data",
+   "type": "Other",
+   "pages": 30,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1077980/Payne-Pa13naz.html"
+  },
+  {
+   "manualId": "3117111",
+   "slug": "Payne-Pg80esaa",
+   "title": "Payne PG80ESAA Installation, Start-Up, Operating And Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 48,
+   "productModel": null,
+   "extraModels": [
+    "PG80ESLA"
+   ],
+   "url": "https://www.manualslib.com/manual/3117111/Payne-Pg80esaa.html"
+  },
+  {
+   "manualId": "1176593",
+   "slug": "Payne-Pg8maa-Series-G",
+   "title": "Payne PG8MAA Series G Installation, Start-Up, Operating And Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 52,
+   "productModel": null,
+   "extraModels": [
+    "PG8JAA Series G"
+   ],
+   "url": "https://www.manualslib.com/manual/1176593/Payne-Pg8maa-Series-G.html"
+  },
+  {
+   "manualId": "4244718",
+   "slug": "payne-pg92esaa-gas-furnace-installation-and-operation-manual",
+   "title": "Payne PG92ESAA Gas Furnace Installation & Operation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4244718/payne-pg92esaa-gas-furnace-installation-and-operation-manual.html"
+  },
+  {
+   "manualId": "1201760",
+   "slug": "Payne-Pg92scs",
+   "title": "Payne PG92SCS Product Data",
+   "type": "Other",
+   "pages": 17,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1201760/Payne-Pg92scs.html"
+  },
+  {
+   "manualId": "3092965",
+   "slug": "Payne-Pg95",
+   "title": "Payne PG95 Installation, Start-Up, Operating And Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 86,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3092965/Payne-Pg95.html"
+  },
+  {
+   "manualId": "2343447",
+   "slug": "Payne-Pg95esa",
+   "title": "Payne PG95ESA Installation, Start-Up, Operating And Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 87,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2343447/Payne-Pg95esa.html"
+  },
+  {
+   "manualId": "750393",
+   "slug": "Payne-Pg95xat",
+   "title": "Payne PG95XAT Product Data",
+   "type": "Other",
+   "pages": 15,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/750393/Payne-Pg95xat.html"
+  },
+  {
+   "manualId": "2314998",
+   "slug": "Payne-Pg96vat",
+   "title": "Payne PG96VAT Installation, Start-Up, Operating And Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 90,
+   "productModel": null,
+   "extraModels": [
+    "60080",
+    "60100",
+    "66120"
+   ],
+   "url": "https://www.manualslib.com/manual/2314998/Payne-Pg96vat.html"
+  },
+  {
+   "manualId": "2324608",
+   "slug": "Payne-Pg96vta",
+   "title": "Payne PG96VTA Installation, Start-Up, Operating And Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 93,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2324608/Payne-Pg96vta.html"
+  },
+  {
+   "manualId": "507302",
+   "slug": "Payne-Ph13",
+   "title": "Payne PH13 Homeowner's Information",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507302/Payne-Ph13.html"
+  },
+  {
+   "manualId": "507301",
+   "slug": "Payne-Ph13nr",
+   "title": "Payne PH13NR Homeowner's Information",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507301/Payne-Ph13nr.html"
+  },
+  {
+   "manualId": "2901146",
+   "slug": "Payne-Ph14-B-Series",
+   "title": "Payne PH14 B Series Wiring Diagram",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2901146/Payne-Ph14-B-Series.html"
+  },
+  {
+   "manualId": "774428",
+   "slug": "Payne-Ph3g-A",
+   "title": "Payne PH3G----A Product Data",
+   "type": "Other",
+   "pages": 33,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/774428/Payne-Ph3g-A.html"
+  },
+  {
+   "manualId": "772016",
+   "slug": "Payne-Py3g-Series",
+   "title": "Payne PY3G Series Product Data",
+   "type": "Other",
+   "pages": 34,
+   "productModel": null,
+   "extraModels": [
+    "PY3G024040",
+    "PY3G024060",
+    "PY3G030040",
+    "PY3G030060",
+    "PY3G036060",
+    "PY3G036090",
+    "PY3G042060",
+    "PY3G042090",
+    "PY3G048090",
+    "PY3G048115",
+    "PY3G048130",
+    "PY3G060090",
+    "PY3G060115",
+    "PY3G060130"
+   ],
+   "url": "https://www.manualslib.com/manual/772016/Payne-Py3g-Series.html"
+  },
+  {
+   "manualId": "788074",
+   "slug": "Payne-Ph1s",
+   "title": "PF1B Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "PF1B",
+   "extraModels": [
+    "PF1B"
+   ],
+   "url": "https://www.manualslib.com/manual/788074/Payne-Ph1s.html"
+  },
+  {
+   "manualId": "2443893",
+   "slug": "Payne-Pf4mna",
+   "title": "PF4MNA installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "PF4MNA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2443893/Payne-Pf4mna.html"
+  },
+  {
+   "manualId": "3368070",
+   "slug": "Payne-Pf4mnb",
+   "title": "PF4MNB installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "PF4MNB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3368070/Payne-Pf4mnb.html"
+  },
+  {
+   "manualId": "643015",
+   "slug": "Payne-Pg8jaa042090aaja",
+   "title": "PG8 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "PG8",
+   "extraModels": [
+    "PG8JAA036045AAJA",
+    "PG8JAA036070AAJA",
+    "PG8JAA048070AAJA",
+    "PG8JAA066110AAJA",
+    "PG8JAA066135AAJA",
+    "PG8MAA024070AAJA",
+    "PG8MAA036045AAJA",
+    "PG8MAA036070AAJA",
+    "PG8MAA048070AAJA",
+    "PG8MAA048090AAJA",
+    "PG8MAA048110AAJA",
+    "PG8MAA066110AAJA",
+    "PG8MAA066135AAJA"
+   ],
+   "url": "https://www.manualslib.com/manual/643015/Payne-Pg8jaa042090aaja.html"
+  },
+  {
+   "manualId": "792135",
+   "slug": "Payne-Pg8uaa",
+   "title": "PG8DAA Operation and maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "PG8DAA",
+   "extraModels": [
+    "PG8DAA"
+   ],
+   "url": "https://www.manualslib.com/manual/792135/Payne-Pg8uaa.html"
+  },
+  {
+   "manualId": "1003186",
+   "slug": "Payne-Pg8daa",
+   "title": "PG8DAA Service manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "PG8DAA",
+   "extraModels": [
+    "PG8UAA"
+   ],
+   "url": "https://www.manualslib.com/manual/1003186/Payne-Pg8daa.html"
+  },
+  {
+   "manualId": "567145",
+   "slug": "Payne-Pg8haa",
+   "title": "PG8HAA Service manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "PG8HAA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/567145/Payne-Pg8haa.html"
+  },
+  {
+   "manualId": "747744",
+   "slug": "Payne-Pg8haa",
+   "title": "PG8HAA User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "PG8HAA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/747744/Payne-Pg8haa.html"
+  },
+  {
+   "manualId": "869749",
+   "slug": "Payne-Pg8j",
+   "title": "PG8J installation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "PG8J",
+   "extraModels": [
+    "PG8M"
+   ],
+   "url": "https://www.manualslib.com/manual/869749/Payne-Pg8j.html"
+  },
+  {
+   "manualId": "947752",
+   "slug": "Payne-Pg8m",
+   "title": "PG8J Installation, Start-Up and Service Instructions manual",
+   "type": "Service",
+   "pages": 45,
+   "productModel": "PG8J",
+   "extraModels": [
+    "PG8J"
+   ],
+   "url": "https://www.manualslib.com/manual/947752/Payne-Pg8m.html"
+  },
+  {
+   "manualId": "642771",
+   "slug": "Payne-Pg8maa",
+   "title": "PG8JAA Series G Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 53,
+   "productModel": "PG8JAA Series G",
+   "extraModels": [
+    "PG8JAA Series G"
+   ],
+   "url": "https://www.manualslib.com/manual/642771/Payne-Pg8maa.html"
+  },
+  {
+   "manualId": "600573",
+   "slug": "Payne-Pg8mva",
+   "title": "PG8JVA installation instructions manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "PG8JVA",
+   "extraModels": [
+    "PG8JVA"
+   ],
+   "url": "https://www.manualslib.com/manual/600573/Payne-Pg8mva.html"
+  },
+  {
+   "manualId": "507306",
+   "slug": "Payne-Pg8m",
+   "title": "PG8M owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "PG8M",
+   "extraModels": [
+    "PG8MAA Series G",
+    "PG8MAA024045",
+    "PG8MAA024070",
+    "PG8MAA024070AAJA",
+    "PG8MAA036045",
+    "PG8MAA036045AAJA",
+    "PG8MAA036070",
+    "PG8MAA036070AAJA",
+    "PG8MAA036110",
+    "PG8MAA042",
+    "PG8MAA042090",
+    "PG8MAA048070",
+    "PG8MAA048070AAJA",
+    "PG8MAA048090",
+    "PG8MAA048110",
+    "PG8MAA048110AAJA",
+    "PG8MAA048135",
+    "PG8MAA060090",
+    "PG8MAA060155",
+    "PG8MAA066110",
+    "PG8MAA066110AAJA",
+    "PG8MAA066135",
+    "PG8MEA060110"
+   ],
+   "url": "https://www.manualslib.com/manual/507306/Payne-Pg8m.html"
+  },
+  {
+   "manualId": "2322410",
+   "slug": "Payne-Pg92esa",
+   "title": "PG92ESA Installation, start-up, operating and service and maintenance instructions",
+   "type": "Service",
+   "pages": 86,
+   "productModel": "PG92ESA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2322410/Payne-Pg92esa.html"
+  },
+  {
+   "manualId": "3420414",
+   "slug": "Payne-Pg92esaa",
+   "title": "PG92ESAA Product Data",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "PG92ESAA",
+   "extraModels": [
+    "PG92ESAA30040A",
+    "PG92ESAA36040B",
+    "PG92ESAA36060A",
+    "PG92ESAA42060B",
+    "PG92ESAA48080B",
+    "PG92ESAA48080C",
+    "PG92ESAA60100C",
+    "PG92ESAA60120D"
+   ],
+   "url": "https://www.manualslib.com/manual/3420414/Payne-Pg92esaa.html"
+  },
+  {
+   "manualId": "3883553",
+   "slug": "Payne-Pg92s-S-Series",
+   "title": "PG92S S Series Installation, start-up, operating and service and maintenance instructions",
+   "type": "Service",
+   "pages": 85,
+   "productModel": "PG92S S Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3883553/Payne-Pg92s-S-Series.html"
+  },
+  {
+   "manualId": "3318571",
+   "slug": "Payne-Pg95s",
+   "title": "PG95S Installation, start-up, operating and service and maintenance instructions",
+   "type": "Service",
+   "pages": 87,
+   "productModel": "PG95S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3318571/Payne-Pg95s.html"
+  },
+  {
+   "manualId": "3924653",
+   "slug": "Payne-Pg95sas",
+   "title": "PG95SAS Installation, start-up, operating and service and maintenance instructions",
+   "type": "Service",
+   "pages": 86,
+   "productModel": "PG95SAS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3924653/Payne-Pg95sas.html"
+  },
+  {
+   "manualId": "518941",
+   "slug": "Payne-Pg95xat42060",
+   "title": "PG95XAT30040 owner's manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "PG95XAT30040",
+   "extraModels": [
+    "PG95XAT30040",
+    "PG95XAT48080",
+    "PG95XAT48100",
+    "PG95XAT66120"
+   ],
+   "url": "https://www.manualslib.com/manual/518941/Payne-Pg95xat42060.html"
+  },
+  {
+   "manualId": "758965",
+   "slug": "Payne-Pg96vat",
+   "title": "PG96VAT Product data",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "PG96VAT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/758965/Payne-Pg96vat.html"
+  },
+  {
+   "manualId": "2327008",
+   "slug": "Payne-Pg96xat",
+   "title": "PG96XAT Installation, start-up, operating and service and maintenance instructions",
+   "type": "Service",
+   "pages": 86,
+   "productModel": "PG96XAT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2327008/Payne-Pg96xat.html"
+  },
+  {
+   "manualId": "3757650",
+   "slug": "Payne-Pg97vta",
+   "title": "PG97VTA Installation, Start-Up, Operating And Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "PG97VTA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3757650/Payne-Pg97vta.html"
+  },
+  {
+   "manualId": "1064524",
+   "slug": "Payne-Pg9maa",
+   "title": "PG9MAA installation manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "PG9MAA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1064524/Payne-Pg9maa.html"
+  },
+  {
+   "manualId": "1079586",
+   "slug": "Payne-Pg9maa",
+   "title": "PG9MAA installation manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "PG9MAA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1079586/Payne-Pg9maa.html"
+  },
+  {
+   "manualId": "518949",
+   "slug": "Payne-Pg9maa",
+   "title": "PG9MAA specification",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "PG9MAA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/518949/Payne-Pg9maa.html"
+  },
+  {
+   "manualId": "760258",
+   "slug": "Payne-Pg9maa",
+   "title": "PG9MAA User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "PG9MAA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/760258/Payne-Pg9maa.html"
+  },
+  {
+   "manualId": "804013",
+   "slug": "Payne-Pg9maa",
+   "title": "PG9MAA User's information manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "PG9MAA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/804013/Payne-Pg9maa.html"
+  },
+  {
+   "manualId": "749499",
+   "slug": "Payne-Pg9mab-Series-A",
+   "title": "PG9MAB installation manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "PG9MAB",
+   "extraModels": [
+    "PG9MAB024040",
+    "PG9MAB024060",
+    "PG9MAB036040",
+    "PG9MAB036060",
+    "PG9MAB036080",
+    "PG9MAB048060",
+    "PG9MAB048080",
+    "PG9MAB048100",
+    "PG9MAB060080",
+    "PG9MAB060100",
+    "PG9MAB060120",
+    "PG9MAB060140"
+   ],
+   "url": "https://www.manualslib.com/manual/749499/Payne-Pg9mab-Series-A.html"
+  },
+  {
+   "manualId": "628493",
+   "slug": "Payne-Pg9mab",
+   "title": "PG9MAB owner's manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "PG9MAB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/628493/Payne-Pg9mab.html"
+  },
+  {
+   "manualId": "732811",
+   "slug": "Payne-Deluxe-Pg9mab",
+   "title": "PG9MAB Service and maintenance instructions",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "PG9MAB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/732811/Payne-Deluxe-Pg9mab.html"
+  },
+  {
+   "manualId": "630573",
+   "slug": "Payne-Pg9mtav",
+   "title": "PG9MTAV owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "PG9MTAV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/630573/Payne-Pg9mtav.html"
+  },
+  {
+   "manualId": "730636",
+   "slug": "Payne-Pg9mtav",
+   "title": "PG9MTAV Service manual",
+   "type": "Service",
+   "pages": 23,
+   "productModel": "PG9MTAV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/730636/Payne-Pg9mtav.html"
+  },
+  {
+   "manualId": "976999",
+   "slug": "Payne-Pg9mxa",
+   "title": "PG9MXA Series Installation, start-up, and operating instructions manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "PG9MXA Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/976999/Payne-Pg9mxa.html"
+  },
+  {
+   "manualId": "507312",
+   "slug": "Payne-Pg9mxa-Series",
+   "title": "PG9MXA Series owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "PG9MXA Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507312/Payne-Pg9mxa-Series.html"
+  },
+  {
+   "manualId": "1448808",
+   "slug": "Payne-Pg9yaa036060",
+   "title": "PG9YAA036060 installation instructions manual",
+   "type": "Installation",
+   "pages": 42,
+   "productModel": "PG9YAA036060",
+   "extraModels": [
+    "PG9YAA036080",
+    "PG9YAA048080",
+    "PG9YAA060100"
+   ],
+   "url": "https://www.manualslib.com/manual/1448808/Payne-Pg9yaa036060.html"
+  },
+  {
+   "manualId": "507314",
+   "slug": "Payne-Pg9yab-Series",
+   "title": "PG9YAB Series Owner's Manual & Installation Instructions",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "PG9YAB Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507314/Payne-Pg9yab-Series.html"
+  },
+  {
+   "manualId": "2052750",
+   "slug": "Payne-Ph10",
+   "title": "PH10 installation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "PH10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2052750/Payne-Ph10.html"
+  },
+  {
+   "manualId": "748026",
+   "slug": "Payne-Ph10ja",
+   "title": "PH10JA installation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "PH10JA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/748026/Payne-Ph10ja.html"
+  },
+  {
+   "manualId": "4541150",
+   "slug": "Payne-Ph13nb",
+   "title": "PH13NB installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "PH13NB",
+   "extraModels": [
+    "PH14NB",
+    "PH15NB"
+   ],
+   "url": "https://www.manualslib.com/manual/4541150/Payne-Ph13nb.html"
+  },
+  {
+   "manualId": "4039343",
+   "slug": "Payne-Ph15nb",
+   "title": "PH14 B Series installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "PH14 B Series",
+   "extraModels": [
+    "PH14 B Series",
+    "PH14NB",
+    "PH16NC"
+   ],
+   "url": "https://www.manualslib.com/manual/4039343/Payne-Ph15nb.html"
+  },
+  {
+   "manualId": "3979486",
+   "slug": "Payne-Ph14a",
+   "title": "PH14A installation instructions manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "PH14A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3979486/Payne-Ph14a.html"
+  },
+  {
+   "manualId": "1521987",
+   "slug": "Payne-Ph16na",
+   "title": "PH16NA installation instructions manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "PH16NA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1521987/Payne-Ph16na.html"
+  },
+  {
+   "manualId": "642985",
+   "slug": "Payne-Ph1p018",
+   "title": "PH1P018 Installation & start-up instructions",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "PH1P018",
+   "extraModels": [
+    "PH1P024",
+    "PH1P030",
+    "PH1P036",
+    "PH1P042",
+    "PH2P024",
+    "PH2P030",
+    "PH2P036"
+   ],
+   "url": "https://www.manualslib.com/manual/642985/Payne-Ph1p018.html"
+  },
+  {
+   "manualId": "642990",
+   "slug": "Payne-Ph1z024",
+   "title": "PH1Z024 installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "PH1Z024",
+   "extraModels": [
+    "PN1Z030",
+    "PN1Z036",
+    "PN1Z042",
+    "PN1Z048",
+    "PN1Z060"
+   ],
+   "url": "https://www.manualslib.com/manual/642990/Payne-Ph1z024.html"
+  },
+  {
+   "manualId": "821893",
+   "slug": "Payne-Ph3a",
+   "title": "PH3A installation instructions manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "PH3A",
+   "extraModels": [
+    "PH4A"
+   ],
+   "url": "https://www.manualslib.com/manual/821893/Payne-Ph3a.html"
+  },
+  {
+   "manualId": "3399297",
+   "slug": "Payne-Ph3g-A",
+   "title": "PH3G----A installation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "PH3G----A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3399297/Payne-Ph3g-A.html"
+  },
+  {
+   "manualId": "3378313",
+   "slug": "Payne-Ph3z",
+   "title": "PH3Z Series installation instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "PH3Z Series",
+   "extraModels": [
+    "PH3Z024",
+    "PH3Z030",
+    "PH3Z036",
+    "PH3Z042",
+    "PH3Z048",
+    "PH3Z060"
+   ],
+   "url": "https://www.manualslib.com/manual/3378313/Payne-Ph3z.html"
+  },
+  {
+   "manualId": "507313",
+   "slug": "Payne-Ph3z-Series",
+   "title": "PH3Z Series Owner's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "PH3Z Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507313/Payne-Ph3z-Series.html"
+  },
+  {
+   "manualId": "474397",
+   "slug": "Payne-Ph3z",
+   "title": "PH3Z Series owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "PH3Z Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/474397/Payne-Ph3z.html"
+  },
+  {
+   "manualId": "628461",
+   "slug": "Payne-Ph3z",
+   "title": "PH3Z Series owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "PH3Z Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/628461/Payne-Ph3z.html"
+  },
+  {
+   "manualId": "642992",
+   "slug": "Payne-Ph3z024",
+   "title": "PH3Z024 installation instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "PH3Z024",
+   "extraModels": [
+    "PH3Z030",
+    "PH3Z036",
+    "PH3Z042",
+    "PH3Z048",
+    "PH3Z060"
+   ],
+   "url": "https://www.manualslib.com/manual/642992/Payne-Ph3z024.html"
+  },
+  {
+   "manualId": "2366556",
+   "slug": "Payne-Ph4g-B-Series",
+   "title": "PH4G B Series installation instructions manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "PH4G B Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2366556/Payne-Ph4g-B-Series.html"
+  },
+  {
+   "manualId": "2376086",
+   "slug": "Payne-Ph4gnab24000aa",
+   "title": "PH4G B Series installation instructions manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "PH4G B Series",
+   "extraModels": [
+    "PH4G B Series",
+    "PH4GEAB36000AA",
+    "PH4GEAB42000AA",
+    "PH4GEAB48000AA",
+    "PH4GEAB60000AA",
+    "PH4GNAB30000AA",
+    "PH4GNAB36000AA",
+    "PH4GNAB42000AA",
+    "PH4GNAB48000AA",
+    "PH4GNAB60000AA",
+    "PH4GPAB36000AA",
+    "PH4GPAB42000AA",
+    "PH4GPAB48000AA",
+    "PH4GPAB60000AA"
+   ],
+   "url": "https://www.manualslib.com/manual/2376086/Payne-Ph4gnab24000aa.html"
+  },
+  {
+   "manualId": "2711183",
+   "slug": "Payne-Ph4gnab48000-Tp",
+   "title": "PH4G B Series owner's manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "PH4G B Series",
+   "extraModels": [
+    "PH4G B Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2711183/Payne-Ph4gnab48000-Tp.html"
+  },
+  {
+   "manualId": "3646720",
+   "slug": "Payne-Ph5g-A-Series",
+   "title": "PH5G A Series installation instructions manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "PH5G A Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3646720/Payne-Ph5g-A-Series.html"
+  },
+  {
+   "manualId": "1639567",
+   "slug": "Payne-Py1p",
+   "title": "PY1P User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "PY1P",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1639567/Payne-Py1p.html"
+  },
+  {
+   "manualId": "642986",
+   "slug": "Payne-Pyip180040",
+   "title": "PY1P024040 Installation, Start-Up and Service Instructions manual",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "PY1P024040",
+   "extraModels": [
+    "PY1P024040",
+    "PY1P024060",
+    "PY1P030040",
+    "PY1P030060",
+    "PY1P030080",
+    "PY1P036060",
+    "PY1P036080",
+    "PY1P036100",
+    "PY1P036120",
+    "PY1P042100",
+    "PY1P042120",
+    "PYIP018040",
+    "PYIP024060",
+    "PYIP030060",
+    "PYIP030080",
+    "PYIP036060",
+    "PYIP036080",
+    "PYIP036100",
+    "PYIP036120",
+    "PYIP042060",
+    "PYIP042080",
+    "PYIP042100",
+    "PYIP042120"
+   ],
+   "url": "https://www.manualslib.com/manual/642986/Payne-Pyip180040.html"
+  },
+  {
+   "manualId": "507297",
+   "slug": "Payne-Py3g-Series",
+   "title": "PY3G Series owner's manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "PY3G Series",
+   "extraModels": [
+    "PY3G024",
+    "PY3G030",
+    "PY3G036",
+    "PY3G042",
+    "PY3G060"
+   ],
+   "url": "https://www.manualslib.com/manual/507297/Payne-Py3g-Series.html"
+  },
+  {
+   "manualId": "567151",
+   "slug": "Payne-Py3g-Series",
+   "title": "PY3G Series owner's manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "PY3G Series",
+   "extraModels": [
+    "PY3G024",
+    "PY3G030",
+    "PY3G036",
+    "PY3G042",
+    "PY3G060"
+   ],
+   "url": "https://www.manualslib.com/manual/567151/Payne-Py3g-Series.html"
+  },
+  {
+   "manualId": "518956",
+   "slug": "Payne-Py3p",
+   "title": "PY3P owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "PY3P",
+   "extraModels": [
+    "PY3P024",
+    "PY3P036",
+    "PY3P042",
+    "PY3P060"
+   ],
+   "url": "https://www.manualslib.com/manual/518956/Payne-Py3p.html"
+  },
+  {
+   "manualId": "2373103",
+   "slug": "Payne-Py4g-B-Series",
+   "title": "PY4G B Series installation instructions manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "PY4G B Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2373103/Payne-Py4g-B-Series.html"
+  },
+  {
+   "manualId": "3697942",
+   "slug": "Payne-Py5g-B-Series",
+   "title": "PY5G B Series installation instructions manual",
+   "type": "Installation",
+   "pages": 42,
+   "productModel": "PY5G B Series",
+   "extraModels": [
+    "PY5GNAB24040U",
+    "PY5GNAB24060U",
+    "PY5GNAB30040U",
+    "PY5GNAB30060U",
+    "PY5GNAB36060U",
+    "PY5GNAB42060U",
+    "PY5GNAB42090U",
+    "PY5GNAB48090U",
+    "PY5GNAB60090U"
+   ],
+   "url": "https://www.manualslib.com/manual/3697942/Payne-Py5g-B-Series.html"
+  },
+  {
+   "manualId": "485573",
+   "slug": "Payne-Py5g",
+   "title": "PY5G owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "PY5G",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/485573/Payne-Py5g.html"
+  },
+  {
+   "manualId": "578031",
+   "slug": "Payne-349faz",
+   "title": "Quick manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/578031/Payne-349faz.html"
+  },
+  {
+   "manualId": "2726930",
+   "slug": "Payne-R95esn",
+   "title": "R95ESN installation instructions manual",
+   "type": "Installation",
+   "pages": 86,
+   "productModel": "R95ESN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2726930/Payne-R95esn.html"
+  },
+  {
+   "manualId": "3005682",
+   "slug": "Payne-Si",
+   "title": "Si Operator's manual",
+   "type": "Other",
+   "pages": 37,
+   "productModel": "Si",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3005682/Payne-Si.html"
+  },
+  {
+   "manualId": "567143",
+   "slug": "Payne-394gad",
+   "title": "specification",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/567143/Payne-394gad.html"
+  },
+  {
+   "manualId": "507287",
+   "slug": "Payne-Ph1z-Series",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507287/Payne-Ph1z-Series.html"
+  },
+  {
+   "manualId": "507288",
+   "slug": "Payne-Ph2p-B-Series",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "PH2P024",
+    "PH2P030",
+    "PH2P036"
+   ],
+   "url": "https://www.manualslib.com/manual/507288/Payne-Ph2p-B-Series.html"
+  },
+  {
+   "manualId": "507291",
+   "slug": "Payne-Py1p-B-Series",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507291/Payne-Py1p-B-Series.html"
+  },
+  {
+   "manualId": "507304",
+   "slug": "Payne-Ph10ja018000",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507304/Payne-Ph10ja018000.html"
+  },
+  {
+   "manualId": "507307",
+   "slug": "Payne-Pa2pnb030000aa",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/507307/Payne-Pa2pnb030000aa.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4244718",
+   "slug": "payne-pg92esaa-gas-furnace-installation-and-operation-manual",
+   "title": "Payne PG92ESAA Gas Furnace Installation & Operation Manual"
+  }
+ ],
+ "techDirectIds": [
+  "payne"
+ ]
+}

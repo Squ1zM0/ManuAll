@@ -1,0 +1,2165 @@
+{
+ "brand": "Uponor",
+ "brandSlug": "uponor",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/uponor/"
+ ],
+ "slugUsed": "uponor",
+ "capturedAt": "2026-10-28T09:33:43.307380+00:00",
+ "typePages": [
+  {
+   "path": "/brand/uponor/plumbing-product.html",
+   "manuals": 64,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/accessories.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/adapter.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/battery-charger.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/cables-and-connectors.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/control-systems.html",
+   "manuals": 27,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/control-unit.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/controller.html",
+   "manuals": 59,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/extender.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/floor-heating-systems.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/gateway.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/heat-pump.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/heater.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/heating-system.html",
+   "manuals": 30,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/home-automation.html",
+   "manuals": 20,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/industrial-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/irrigation-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/locks.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/ohjausj-rjestelm-t.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/power-tool.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/recording-equipment.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/remote-control.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/safety-equipment.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/security-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/styrsystem.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/switch.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/temperature-controller.html",
+   "manuals": 30,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/termostaatit.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/termostater.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/thermostat.html",
+   "manuals": 105,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/timer.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/tools.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/vandsystemer.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/vannsystemer.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/v-rmesystem.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/vattensystem.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/vesij-rjestelm-t.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/vvs-produkter.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/water-filtration-systems.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/water-heater.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/water-pump.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/uponor/water-system.html",
+   "manuals": 7,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2841723",
+   "slug": "Uponor-1015764",
+   "title": "1015764 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "1015764",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2841723/Uponor-1015764.html"
+  },
+  {
+   "manualId": "2427733",
+   "slug": "Uponor-Kamo-Combi-Port-Pro-Xu",
+   "title": "102628 Installation and operation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "102628",
+   "extraModels": [
+    "102628"
+   ],
+   "url": "https://www.manualslib.com/manual/2427733/Uponor-Kamo-Combi-Port-Pro-Xu.html"
+  },
+  {
+   "manualId": "3051401",
+   "slug": "Uponor-Clean-Ii",
+   "title": "1133828 operating manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "1133828",
+   "extraModels": [
+    "1133828"
+   ],
+   "url": "https://www.manualslib.com/manual/3051401/Uponor-Clean-Ii.html"
+  },
+  {
+   "manualId": "4587864",
+   "slug": "Uponor-Slamavskiller-4-5m3",
+   "title": "1136581 Monteringsanvisning",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "1136581",
+   "extraModels": [
+    "1136581",
+    "1136582"
+   ],
+   "url": "https://www.manualslib.com/manual/4587864/Uponor-Slamavskiller-4-5m3.html"
+  },
+  {
+   "manualId": "1826013",
+   "slug": "Uponor-324702",
+   "title": "324702 Installation Instruction",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "324702",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1826013/Uponor-324702.html"
+  },
+  {
+   "manualId": "2497123",
+   "slug": "Uponor-5618243",
+   "title": "5610465 Installation Instruction",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "5610465",
+   "extraModels": [
+    "5610465",
+    "5618203",
+    "5618205",
+    "5618433"
+   ],
+   "url": "https://www.manualslib.com/manual/2497123/Uponor-5618243.html"
+  },
+  {
+   "manualId": "1377505",
+   "slug": "Uponor-X-163",
+   "title": "A-1XX quick manual",
+   "type": "Other",
+   "pages": 256,
+   "productModel": "A-1XX",
+   "extraModels": [
+    "A-1XX",
+    "I-163",
+    "Smatrix Wave A-165",
+    "Smatrix Wave M-160",
+    "Smatrix Wave M-161",
+    "Smatrix Wave T-163",
+    "Smatrix Wave T-165",
+    "Smatrix Wave T-166",
+    "Smatrix Wave T-168"
+   ],
+   "url": "https://www.manualslib.com/manual/1377505/Uponor-X-163.html"
+  },
+  {
+   "manualId": "1421651",
+   "slug": "Uponor-A3040654",
+   "title": "A3040095 Installation and operation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "A3040095",
+   "extraModels": [
+    "A3040095",
+    "A3040090"
+   ],
+   "url": "https://www.manualslib.com/manual/1421651/Uponor-A3040654.html"
+  },
+  {
+   "manualId": "1262214",
+   "slug": "Uponor-A3040095",
+   "title": "A3040095 installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "A3040095",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1262214/Uponor-A3040095.html"
+  },
+  {
+   "manualId": "1446082",
+   "slug": "Uponor-A3041501",
+   "title": "A3041501 Installation & operation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "A3041501",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1446082/Uponor-A3041501.html"
+  },
+  {
+   "manualId": "1425442",
+   "slug": "Uponor-Climate-Control-Zoning-System-Ii",
+   "title": "A3800165 Installation and operation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "A3800165",
+   "extraModels": [
+    "A3800165",
+    "A3800167",
+    "A3801160",
+    "A3801165",
+    "Smatrix Wave X-165",
+    "Smatrix Wave M-160",
+    "Smatrix Wave T-165",
+    "A3010100",
+    "A3080301",
+    "Climate Control Zoning System II"
+   ],
+   "url": "https://www.manualslib.com/manual/1425442/Uponor-Climate-Control-Zoning-System-Ii.html"
+  },
+  {
+   "manualId": "1437254",
+   "slug": "Uponor-A3800165",
+   "title": "A3800165 Instruction Sheet",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "A3800165",
+   "extraModels": [
+    "A3800167",
+    "A3801160",
+    "A3801165"
+   ],
+   "url": "https://www.manualslib.com/manual/1437254/Uponor-A3800165.html"
+  },
+  {
+   "manualId": "3407140",
+   "slug": "Uponor-Aqua-Port-M-Ins",
+   "title": "Aqua Port M-INS quick start manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "Aqua Port M-INS",
+   "extraModels": [
+    "Combi Port E-INS",
+    "Combi Port M-INS"
+   ],
+   "url": "https://www.manualslib.com/manual/3407140/Uponor-Aqua-Port-M-Ins.html"
+  },
+  {
+   "manualId": "3459676",
+   "slug": "Uponor-Aqua-Combi-Port-M-Ins",
+   "title": "Aqua/Combi Port M-INS Installation and operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Aqua/Combi Port M-INS",
+   "extraModels": [
+    "Combi Port E-INS"
+   ],
+   "url": "https://www.manualslib.com/manual/3459676/Uponor-Aqua-Combi-Port-M-Ins.html"
+  },
+  {
+   "manualId": "3053695",
+   "slug": "Uponor-Aquaport-Xp0300100",
+   "title": "AquaPort XP0300100 Installation and operation manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "AquaPort XP0300100",
+   "extraModels": [
+    "AquaPort XP0525180"
+   ],
+   "url": "https://www.manualslib.com/manual/3053695/Uponor-Aquaport-Xp0300100.html"
+  },
+  {
+   "manualId": "2564926",
+   "slug": "Uponor-Aquasafe",
+   "title": "AquaSAFE installation manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "AquaSAFE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2564926/Uponor-Aquasafe.html"
+  },
+  {
+   "manualId": "2206294",
+   "slug": "Uponor-Aquasafe",
+   "title": "AquaSAFE Quick reference manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "AquaSAFE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2206294/Uponor-Aquasafe.html"
+  },
+  {
+   "manualId": "4592338",
+   "slug": "Uponor-1054692",
+   "title": "Asennusohjeet",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4592338/Uponor-1054692.html"
+  },
+  {
+   "manualId": "2836903",
+   "slug": "Uponor-Base-Flexiboard-X-24-230v",
+   "title": "Base flexiboard X-24 230V Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "Base flexiboard X-24 230V",
+   "extraModels": [
+    "Base flexiboard X-27 230V"
+   ],
+   "url": "https://www.manualslib.com/manual/2836903/Uponor-Base-Flexiboard-X-24-230v.html"
+  },
+  {
+   "manualId": "3906855",
+   "slug": "Uponor-Base-Flexiboard-X-25-230v",
+   "title": "Base flexiboard X-25 230V Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "Base flexiboard X-25 230V",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3906855/Uponor-Base-Flexiboard-X-25-230v.html"
+  },
+  {
+   "manualId": "3906856",
+   "slug": "Uponor-Base-Flexiboard-X-26-230v",
+   "title": "Base flexiboard X-26 230V Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "Base flexiboard X-26 230V",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3906856/Uponor-Base-Flexiboard-X-26-230v.html"
+  },
+  {
+   "manualId": "1103312",
+   "slug": "Uponor-Bt-Dp-01",
+   "title": "BT DP-01 user manual",
+   "type": "User / Owner",
+   "pages": 111,
+   "productModel": "BT DP-01",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1103312/Uponor-Bt-Dp-01.html"
+  },
+  {
+   "manualId": "1969975",
+   "slug": "Uponor-C-33",
+   "title": "C-33 quick manual",
+   "type": "Other",
+   "pages": 100,
+   "productModel": "C-33",
+   "extraModels": [
+    "C-35",
+    "T-33",
+    "T-35",
+    "T-36",
+    "T-37",
+    "T-38"
+   ],
+   "url": "https://www.manualslib.com/manual/1969975/Uponor-C-33.html"
+  },
+  {
+   "manualId": "878055",
+   "slug": "Uponor-C-46",
+   "title": "C-46 Installation and operation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "C-46",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/878055/Uponor-C-46.html"
+  },
+  {
+   "manualId": "3839438",
+   "slug": "Uponor-C-55",
+   "title": "C-55 installation manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "C-55",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3839438/Uponor-C-55.html"
+  },
+  {
+   "manualId": "866988",
+   "slug": "Uponor-Climate-Control-Zoning-System",
+   "title": "C-55 installation manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "C-55",
+   "extraModels": [
+    "C-55",
+    "I-75",
+    "T-75",
+    "Climate Control Zoning System"
+   ],
+   "url": "https://www.manualslib.com/manual/866988/Uponor-Climate-Control-Zoning-System.html"
+  },
+  {
+   "manualId": "962001",
+   "slug": "Uponor-C56",
+   "title": "c56 Installation and operation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "c56",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/962001/Uponor-C56.html"
+  },
+  {
+   "manualId": "727813",
+   "slug": "Uponor-Climate-Control",
+   "title": "Climate Control Installation and operation manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "Climate Control",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/727813/Uponor-Climate-Control.html"
+  },
+  {
+   "manualId": "1631827",
+   "slug": "Uponor-Climate-Control",
+   "title": "Climate Control Manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "Climate Control",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1631827/Uponor-Climate-Control.html"
+  },
+  {
+   "manualId": "713370",
+   "slug": "Uponor-Climate-Control",
+   "title": "Climate Control user manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "Climate Control",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/713370/Uponor-Climate-Control.html"
+  },
+  {
+   "manualId": "1194434",
+   "slug": "Uponor-Climate-Control-Multifunction",
+   "title": "Climate Control-Multifunction installation manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "Climate Control-Multifunction",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1194434/Uponor-Climate-Control-Multifunction.html"
+  },
+  {
+   "manualId": "4069374",
+   "slug": "Uponor-Combi-Port-E",
+   "title": "Combi Port E quick manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "Combi Port E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4069374/Uponor-Combi-Port-E.html"
+  },
+  {
+   "manualId": "4108592",
+   "slug": "Uponor-Combi-Port-E-Hybrid",
+   "title": "Combi Port E-Hybrid Installation and operation manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "Combi Port E-Hybrid",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4108592/Uponor-Combi-Port-E-Hybrid.html"
+  },
+  {
+   "manualId": "4184231",
+   "slug": "Uponor-Combi-Port-E-Hybrid",
+   "title": "Combi Port E-Hybrid quick manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Combi Port E-Hybrid",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4184231/Uponor-Combi-Port-E-Hybrid.html"
+  },
+  {
+   "manualId": "3481309",
+   "slug": "Uponor-Combi-Port-E-Pro",
+   "title": "Combi Port E-Pro quick manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "Combi Port E-Pro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3481309/Uponor-Combi-Port-E-Pro.html"
+  },
+  {
+   "manualId": "3540996",
+   "slug": "Uponor-Combi-Port-E-Pro-Series",
+   "title": "Combi Port E-Pro RC Installation and operation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Combi Port E-Pro RC",
+   "extraModels": [
+    "Combi Port E-Pro RC",
+    "Combi Port E-Pro UFH",
+    "Combi Port E-Pro X"
+   ],
+   "url": "https://www.manualslib.com/manual/3540996/Uponor-Combi-Port-E-Pro-Series.html"
+  },
+  {
+   "manualId": "3732365",
+   "slug": "Uponor-Combi-Port-M-Hybrid",
+   "title": "Combi Port M-Hybrid quick manual",
+   "type": "Other",
+   "pages": 37,
+   "productModel": "Combi Port M-Hybrid",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3732365/Uponor-Combi-Port-M-Hybrid.html"
+  },
+  {
+   "manualId": "3394469",
+   "slug": "Uponor-Combi-Port-M-Pro",
+   "title": "Combi Port M-Pro Installation and operation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Combi Port M-Pro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3394469/Uponor-Combi-Port-M-Pro.html"
+  },
+  {
+   "manualId": "3407158",
+   "slug": "Uponor-Combi-Port-M-Xs",
+   "title": "Combi Port M-XS Installation and operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Combi Port M-XS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3407158/Uponor-Combi-Port-M-Xs.html"
+  },
+  {
+   "manualId": "3407130",
+   "slug": "Uponor-Combi-Port-M-Xs",
+   "title": "Combi Port M-XS quick start manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "Combi Port M-XS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3407130/Uponor-Combi-Port-M-Xs.html"
+  },
+  {
+   "manualId": "2585971",
+   "slug": "Uponor-Combi-Port-Xs",
+   "title": "Combi Port XS Installation and operation manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "Combi Port XS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2585971/Uponor-Combi-Port-Xs.html"
+  },
+  {
+   "manualId": "1698817",
+   "slug": "Uponor-Comfort-E-T-87if",
+   "title": "Comfort E T-87IF Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "Comfort E T-87IF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1698817/Uponor-Comfort-E-T-87if.html"
+  },
+  {
+   "manualId": "1698819",
+   "slug": "Uponor-Comfort-E-T-87if",
+   "title": "Comfort E T-87IF User and installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Comfort E T-87IF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1698819/Uponor-Comfort-E-T-87if.html"
+  },
+  {
+   "manualId": "4227034",
+   "slug": "Uponor-Comfort-Port",
+   "title": "Comfort Port Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Comfort Port",
+   "extraModels": [
+    "Comfort Port IW 110",
+    "Comfort Port IW 80",
+    "Comfort Port OW 140"
+   ],
+   "url": "https://www.manualslib.com/manual/4227034/Uponor-Comfort-Port.html"
+  },
+  {
+   "manualId": "4227089",
+   "slug": "Uponor-Comfort-Port-Nordic",
+   "title": "Comfort Port Nordic Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Comfort Port Nordic",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4227089/Uponor-Comfort-Port-Nordic.html"
+  },
+  {
+   "manualId": "1369303",
+   "slug": "Uponor-Comfort-E",
+   "title": "Comfort-E Installation and operation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "Comfort-E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1369303/Uponor-Comfort-E.html"
+  },
+  {
+   "manualId": "829329",
+   "slug": "Uponor-Uponorcontrol-System",
+   "title": "Control System Installation and operation manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "Control System",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/829329/Uponor-Uponorcontrol-System.html"
+  },
+  {
+   "manualId": "4577373",
+   "slug": "Uponor-Control-System",
+   "title": "Control System Kayttoohje",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "Control System",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4577373/Uponor-Control-System.html"
+  },
+  {
+   "manualId": "1876716",
+   "slug": "Uponor-Cpg",
+   "title": "CPG Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "CPG",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1876716/Uponor-Cpg.html"
+  },
+  {
+   "manualId": "3471116",
+   "slug": "Uponor-Ecoflex",
+   "title": "Ecoflex Operation manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "Ecoflex",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3471116/Uponor-Ecoflex.html"
+  },
+  {
+   "manualId": "1994804",
+   "slug": "Uponor-Ecoflex-Supra-Plus-Cable-Set-S1",
+   "title": "Ecoflex Supra PLUS cable set S1 Mounting Instruction",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Ecoflex Supra PLUS cable set S1",
+   "extraModels": [
+    "Ecoflex Supra PLUS cable set S1"
+   ],
+   "url": "https://www.manualslib.com/manual/1994804/Uponor-Ecoflex-Supra-Plus-Cable-Set-S1.html"
+  },
+  {
+   "manualId": "2422251",
+   "slug": "Uponor-Ecoflex-Supra-Plus",
+   "title": "Ecoflex Supra PLUS installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "Ecoflex Supra PLUS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2422251/Uponor-Ecoflex-Supra-Plus.html"
+  },
+  {
+   "manualId": "1928278",
+   "slug": "Uponor-Ecoflex-Supra-Plus",
+   "title": "Ecoflex Supra PLUS Mounting Instruction",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Ecoflex Supra PLUS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1928278/Uponor-Ecoflex-Supra-Plus.html"
+  },
+  {
+   "manualId": "2539098",
+   "slug": "Uponor-Ecoflex-Supra-Standard-Etn4",
+   "title": "Ecoflex Supra Standard ETN4 Installation and operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Ecoflex Supra Standard ETN4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2539098/Uponor-Ecoflex-Supra-Standard-Etn4.html"
+  },
+  {
+   "manualId": "3556976",
+   "slug": "Uponor-Fluvia-Move-Ppg-30-A-W",
+   "title": "Fluvia Move PPG-30-A-W Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Fluvia Move PPG-30-A-W",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3556976/Uponor-Fluvia-Move-Ppg-30-A-W.html"
+  },
+  {
+   "manualId": "1825514",
+   "slug": "Uponor-Fluvia-T-Push-12-Ch-G",
+   "title": "Fluvia T Push-12 CH-G Installation and operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Fluvia T Push-12 CH-G",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1825514/Uponor-Fluvia-T-Push-12-Ch-G.html"
+  },
+  {
+   "manualId": "1447429",
+   "slug": "Uponor-Heat-Only-Thermostat",
+   "title": "Heat-only Thermostat Installation and operation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Heat-only Thermostat",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1447429/Uponor-Heat-Only-Thermostat.html"
+  },
+  {
+   "manualId": "1383147",
+   "slug": "Uponor-I-35",
+   "title": "I-35 Manual",
+   "type": "Other",
+   "pages": 46,
+   "productModel": "I-35",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1383147/Uponor-I-35.html"
+  },
+  {
+   "manualId": "1194255",
+   "slug": "Uponor-I-75",
+   "title": "I-75 installation manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "I-75",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1194255/Uponor-I-75.html"
+  },
+  {
+   "manualId": "4327007",
+   "slug": "Uponor-I-Shower",
+   "title": "I-Shower quick manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "I-Shower",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4327007/Uponor-I-Shower.html"
+  },
+  {
+   "manualId": "1837669",
+   "slug": "Uponor-Vario-Iw-Series",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1837669/Uponor-Vario-Iw-Series.html"
+  },
+  {
+   "manualId": "1909916",
+   "slug": "Uponor-Push-45u",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1909916/Uponor-Push-45u.html"
+  },
+  {
+   "manualId": "1418760",
+   "slug": "Uponor-T-54",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1418760/Uponor-T-54.html"
+  },
+  {
+   "manualId": "1532033",
+   "slug": "Uponor-Propex",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1532033/Uponor-Propex.html"
+  },
+  {
+   "manualId": "4582449",
+   "slug": "Uponor-Regnbadd",
+   "title": "Installationsanvisning",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4582449/Uponor-Regnbadd.html"
+  },
+  {
+   "manualId": "1370668",
+   "slug": "Uponor-A3030102",
+   "title": "Instruction Sheet",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1370668/Uponor-A3030102.html"
+  },
+  {
+   "manualId": "1454787",
+   "slug": "Uponor-Climate-Control-A9012010",
+   "title": "Instruction Sheet",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1454787/Uponor-Climate-Control-A9012010.html"
+  },
+  {
+   "manualId": "1463162",
+   "slug": "Uponor-A3030003",
+   "title": "Instruction Sheet",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1463162/Uponor-A3030003.html"
+  },
+  {
+   "manualId": "2846132",
+   "slug": "Uponor-Select-Uncoiler",
+   "title": "Instruction Sheet",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2846132/Uponor-Select-Uncoiler.html"
+  },
+  {
+   "manualId": "691131",
+   "slug": "Uponor-A3030101",
+   "title": "Instruction Sheet",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/691131/Uponor-A3030101.html"
+  },
+  {
+   "manualId": "2444508",
+   "slug": "Uponor-Kamo-Combi-Port-Base",
+   "title": "KaMo Combi Port Base Installation and operation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "KaMo Combi Port Base",
+   "extraModels": [
+    "Combi Port PRO",
+    "KaMo Combi Port PRO"
+   ],
+   "url": "https://www.manualslib.com/manual/2444508/Uponor-Kamo-Combi-Port-Base.html"
+  },
+  {
+   "manualId": "1884242",
+   "slug": "Uponor-Kamo-Combi-Port-Base",
+   "title": "KaMo Combi Port Base quick manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "KaMo Combi Port Base",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1884242/Uponor-Kamo-Combi-Port-Base.html"
+  },
+  {
+   "manualId": "2444511",
+   "slug": "Uponor-Kamo-Combi-Port-Base-Xu",
+   "title": "KaMo Combi Port BASE XU Installation and operation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "KaMo Combi Port BASE XU",
+   "extraModels": [
+    "KaMo Combi Port BASE XU"
+   ],
+   "url": "https://www.manualslib.com/manual/2444511/Uponor-Kamo-Combi-Port-Base-Xu.html"
+  },
+  {
+   "manualId": "2047179",
+   "slug": "Uponor-Kamo-Combi-Port-E",
+   "title": "KaMo Combi Port E Installation and operation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "KaMo Combi Port E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2047179/Uponor-Kamo-Combi-Port-E.html"
+  },
+  {
+   "manualId": "1850750",
+   "slug": "Uponor-Kamo-Combi-Port-E",
+   "title": "KaMo Combi Port E quick manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "KaMo Combi Port E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1850750/Uponor-Kamo-Combi-Port-E.html"
+  },
+  {
+   "manualId": "4588582",
+   "slug": "Uponor-Wehofloor-Rf-Lcd-868mhz",
+   "title": "Kayttoohje",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4588582/Uponor-Wehofloor-Rf-Lcd-868mhz.html"
+  },
+  {
+   "manualId": "2014956",
+   "slug": "Uponor-Krs-6",
+   "title": "KRS 6 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "KRS 6",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2014956/Uponor-Krs-6.html"
+  },
+  {
+   "manualId": "1917655",
+   "slug": "Uponor-QAnde-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1917655/Uponor-QAnde-Series.html"
+  },
+  {
+   "manualId": "3668721",
+   "slug": "Uponor-Vario-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3668721/Uponor-Vario-Series.html"
+  },
+  {
+   "manualId": "3676669",
+   "slug": "Uponor-Vario-S-Fm",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3676669/Uponor-Vario-S-Fm.html"
+  },
+  {
+   "manualId": "4139007",
+   "slug": "Uponor-Vario-C-Fm",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4139007/Uponor-Vario-C-Fm.html"
+  },
+  {
+   "manualId": "1448267",
+   "slug": "Uponor-Mini-Press-Battery-Tool",
+   "title": "Mini-Press Battery Tool Operation manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "Mini-Press Battery Tool",
+   "extraModels": [
+    "Mini-Press Battery Tool"
+   ],
+   "url": "https://www.manualslib.com/manual/1448267/Uponor-Mini-Press-Battery-Tool.html"
+  },
+  {
+   "manualId": "1136112",
+   "slug": "Uponor-Mini2",
+   "title": "Mini2 instruction manual",
+   "type": "User / Owner",
+   "pages": 144,
+   "productModel": "Mini2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1136112/Uponor-Mini2.html"
+  },
+  {
+   "manualId": "1631309",
+   "slug": "Uponor-Mlc-Riser-System",
+   "title": "MLC Riser system Mounting instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "MLC Riser system",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1631309/Uponor-Mlc-Riser-System.html"
+  },
+  {
+   "manualId": "4573382",
+   "slug": "Uponor-System-17",
+   "title": "Monteringsanvisning",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4573382/Uponor-System-17.html"
+  },
+  {
+   "manualId": "4577636",
+   "slug": "Uponor-Vattentat-Lucka-Med-Schonox-Wsf",
+   "title": "Monteringsanvisning",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4577636/Uponor-Vattentat-Lucka-Med-Schonox-Wsf.html"
+  },
+  {
+   "manualId": "1914424",
+   "slug": "Uponor-Pumpgroup-Push-12-Ac",
+   "title": "Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1914424/Uponor-Pumpgroup-Push-12-Ac.html"
+  },
+  {
+   "manualId": "2233756",
+   "slug": "Uponor-Mlc-S",
+   "title": "Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2233756/Uponor-Mlc-S.html"
+  },
+  {
+   "manualId": "4111527",
+   "slug": "Uponor-110",
+   "title": "Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4111527/Uponor-110.html"
+  },
+  {
+   "manualId": "4225251",
+   "slug": "Uponor-Tpg-30-Th",
+   "title": "Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4225251/Uponor-Tpg-30-Th.html"
+  },
+  {
+   "manualId": "1744885",
+   "slug": "Uponor-Phyn",
+   "title": "Phyn Homeowner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "Phyn",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1744885/Uponor-Phyn.html"
+  },
+  {
+   "manualId": "4577388",
+   "slug": "Uponor-C-23",
+   "title": "Pikaopas",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4577388/Uponor-C-23.html"
+  },
+  {
+   "manualId": "1972677",
+   "slug": "Uponor-Ppg-30",
+   "title": "PPG-30 Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "PPG-30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1972677/Uponor-Ppg-30.html"
+  },
+  {
+   "manualId": "1530669",
+   "slug": "Uponor-Propex-200",
+   "title": "ProPEX 200 Operation manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "ProPEX 200",
+   "extraModels": [
+    "Q6262000"
+   ],
+   "url": "https://www.manualslib.com/manual/1530669/Uponor-Propex-200.html"
+  },
+  {
+   "manualId": "1509270",
+   "slug": "Uponor-Propex-201",
+   "title": "ProPEX 201 Operation manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "ProPEX 201",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1509270/Uponor-Propex-201.html"
+  },
+  {
+   "manualId": "2239355",
+   "slug": "Uponor-QAnde",
+   "title": "Q&E Fitting instructions manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "Q&E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2239355/Uponor-QAnde.html"
+  },
+  {
+   "manualId": "1552228",
+   "slug": "Uponor-Smatrix-Move-Pro-Spi-Sensor-Snow-S-158",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1552228/Uponor-Smatrix-Move-Pro-Spi-Sensor-Snow-S-158.html"
+  },
+  {
+   "manualId": "1603233",
+   "slug": "Uponor-M-76",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1603233/Uponor-M-76.html"
+  },
+  {
+   "manualId": "2038509",
+   "slug": "Uponor-T-23",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2038509/Uponor-T-23.html"
+  },
+  {
+   "manualId": "2140409",
+   "slug": "Uponor-C-23",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2140409/Uponor-C-23.html"
+  },
+  {
+   "manualId": "2687956",
+   "slug": "Uponor-Smatrix-Pulse-Controller",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2687956/Uponor-Smatrix-Pulse-Controller.html"
+  },
+  {
+   "manualId": "2887279",
+   "slug": "Uponor-T-25",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2887279/Uponor-T-25.html"
+  },
+  {
+   "manualId": "3792307",
+   "slug": "Uponor-T-23",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3792307/Uponor-T-23.html"
+  },
+  {
+   "manualId": "1931026",
+   "slug": "Uponor-R-56",
+   "title": "R-56 Installation and operation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "R-56",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1931026/Uponor-R-56.html"
+  },
+  {
+   "manualId": "2216178",
+   "slug": "Uponor-1121082",
+   "title": "Safety Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2216178/Uponor-1121082.html"
+  },
+  {
+   "manualId": "748173",
+   "slug": "Uponor-Setpoint-501",
+   "title": "SetPoint 501 Installation and operation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "SetPoint 501",
+   "extraModels": [
+    "SetPoint 501s"
+   ],
+   "url": "https://www.manualslib.com/manual/748173/Uponor-Setpoint-501.html"
+  },
+  {
+   "manualId": "1446420",
+   "slug": "Uponor-Setpoint-511s",
+   "title": "SETPOINT 511S Installation and operation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "SETPOINT 511S",
+   "extraModels": [
+    "SETPOINT 512"
+   ],
+   "url": "https://www.manualslib.com/manual/1446420/Uponor-Setpoint-511s.html"
+  },
+  {
+   "manualId": "1445964",
+   "slug": "Uponor-Setpoint-521",
+   "title": "SetPoint 521 Installation and operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "SetPoint 521",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1445964/Uponor-Setpoint-521.html"
+  },
+  {
+   "manualId": "1372041",
+   "slug": "Uponor-Setpoint-521",
+   "title": "SetPoint 521 instruction sheet",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "SetPoint 521",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1372041/Uponor-Setpoint-521.html"
+  },
+  {
+   "manualId": "1264012",
+   "slug": "Uponor-Setpoint-521",
+   "title": "SetPoint 521 user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "SetPoint 521",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1264012/Uponor-Setpoint-521.html"
+  },
+  {
+   "manualId": "3850253",
+   "slug": "Uponor-Smatrix-A-1-Series",
+   "title": "Smatrix A-1 Series quick manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "Smatrix A-1 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3850253/Uponor-Smatrix-A-1-Series.html"
+  },
+  {
+   "manualId": "2165417",
+   "slug": "Uponor-Smatrix-Base-Pro-Controller-X-147",
+   "title": "Smatrix Base PRO Controller X-147 installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Smatrix Base PRO Controller X-147",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2165417/Uponor-Smatrix-Base-Pro-Controller-X-147.html"
+  },
+  {
+   "manualId": "2470718",
+   "slug": "Uponor-Smatrix-Base-Pro",
+   "title": "Smatrix Base Pro quick manual",
+   "type": "Other",
+   "pages": 224,
+   "productModel": "Smatrix Base Pro",
+   "extraModels": [
+    "Smatrix Base Pro"
+   ],
+   "url": "https://www.manualslib.com/manual/2470718/Uponor-Smatrix-Base-Pro.html"
+  },
+  {
+   "manualId": "1478514",
+   "slug": "Uponor-Smatrix-Base-Pro",
+   "title": "Smatrix Base Pro Quick Manuals",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "Smatrix Base Pro",
+   "extraModels": [
+    "Smatrix Base Pro"
+   ],
+   "url": "https://www.manualslib.com/manual/1478514/Uponor-Smatrix-Base-Pro.html"
+  },
+  {
+   "manualId": "1606266",
+   "slug": "Uponor-Smatrix-Base-Pro-R-147-Knx",
+   "title": "Smatrix Base PRO R-147 KNX Installation and operation manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "Smatrix Base PRO R-147 KNX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1606266/Uponor-Smatrix-Base-Pro-R-147-Knx.html"
+  },
+  {
+   "manualId": "4067383",
+   "slug": "Uponor-Smatrix-Base-Pro-R-147-Knx",
+   "title": "Smatrix Base PRO R-147 KNX Installation and operation manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "Smatrix Base PRO R-147 KNX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4067383/Uponor-Smatrix-Base-Pro-R-147-Knx.html"
+  },
+  {
+   "manualId": "2078310",
+   "slug": "Uponor-Smatrix-Base-Pro-X-147",
+   "title": "Smatrix Base PRO X-147 installation manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "Smatrix Base PRO X-147",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2078310/Uponor-Smatrix-Base-Pro-X-147.html"
+  },
+  {
+   "manualId": "2671686",
+   "slug": "Uponor-Smatrix-Base-Pro-X-148",
+   "title": "Smatrix Base PRO X-148 installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Smatrix Base PRO X-148",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2671686/Uponor-Smatrix-Base-Pro-X-148.html"
+  },
+  {
+   "manualId": "1721573",
+   "slug": "Uponor-Smatrix-Base-Pulse",
+   "title": "Smatrix Base PULSE Installation and operation manual",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "Smatrix Base PULSE",
+   "extraModels": [
+    "Smatrix Base PULSE",
+    "X-245"
+   ],
+   "url": "https://www.manualslib.com/manual/1721573/Uponor-Smatrix-Base-Pulse.html"
+  },
+  {
+   "manualId": "1779865",
+   "slug": "Uponor-Smatrix-Wave-Pulse",
+   "title": "Smatrix Base PULSE Installation and operation manual",
+   "type": "Installation",
+   "pages": 120,
+   "productModel": "Smatrix Base PULSE",
+   "extraModels": [
+    "Smatrix Base PULSE"
+   ],
+   "url": "https://www.manualslib.com/manual/1779865/Uponor-Smatrix-Wave-Pulse.html"
+  },
+  {
+   "manualId": "2887037",
+   "slug": "Uponor-Smatrix-Pulse",
+   "title": "Smatrix Base PULSE Installation and operation manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "Smatrix Base PULSE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2887037/Uponor-Smatrix-Pulse.html"
+  },
+  {
+   "manualId": "1675275",
+   "slug": "Uponor-Smatrix-Base-Pulse",
+   "title": "Smatrix Base PULSE quick manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "Smatrix Base PULSE",
+   "extraModels": [
+    "Smatrix Base PULSE"
+   ],
+   "url": "https://www.manualslib.com/manual/1675275/Uponor-Smatrix-Base-Pulse.html"
+  },
+  {
+   "manualId": "3674882",
+   "slug": "Uponor-Smatrix-DPlusrh-T-247-Bus",
+   "title": "Smatrix D+RH T-247 BUS Operation manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "Smatrix D+RH T-247 BUS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3674882/Uponor-Smatrix-DPlusrh-T-247-Bus.html"
+  },
+  {
+   "manualId": "1455570",
+   "slug": "Uponor-Smatrix-Move",
+   "title": "Smatrix Move Installation and operation manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "Smatrix Move",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1455570/Uponor-Smatrix-Move.html"
+  },
+  {
+   "manualId": "1358730",
+   "slug": "Uponor-Smatrix-Move-Plus",
+   "title": "Smatrix Move PLUS quick manual",
+   "type": "Other",
+   "pages": 300,
+   "productModel": "Smatrix Move PLUS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1358730/Uponor-Smatrix-Move-Plus.html"
+  },
+  {
+   "manualId": "1360637",
+   "slug": "Uponor-Smatrix-Move-Pro",
+   "title": "Smatrix Move PRO Installation and operation manual",
+   "type": "Installation",
+   "pages": 160,
+   "productModel": "Smatrix Move PRO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1360637/Uponor-Smatrix-Move-Pro.html"
+  },
+  {
+   "manualId": "1840659",
+   "slug": "Uponor-Smatrix-Move",
+   "title": "Smatrix Move quick manual",
+   "type": "Other",
+   "pages": 216,
+   "productModel": "Smatrix Move",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1840659/Uponor-Smatrix-Move.html"
+  },
+  {
+   "manualId": "2377358",
+   "slug": "Uponor-Smatrix-Move",
+   "title": "Smatrix Move quick manual",
+   "type": "Other",
+   "pages": 268,
+   "productModel": "Smatrix Move",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2377358/Uponor-Smatrix-Move.html"
+  },
+  {
+   "manualId": "1041568",
+   "slug": "Uponor-Smatrix-Space",
+   "title": "smatrix space Installation and operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "smatrix space",
+   "extraModels": [
+    "smatrix space plus"
+   ],
+   "url": "https://www.manualslib.com/manual/1041568/Uponor-Smatrix-Space.html"
+  },
+  {
+   "manualId": "4592614",
+   "slug": "Uponor-Smatrix-Wave-Termostat-DPlusrh-T-267",
+   "title": "Smatrix Wave D+RH T-267 Bruksanvisning",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "Smatrix Wave D+RH T-267",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4592614/Uponor-Smatrix-Wave-Termostat-DPlusrh-T-267.html"
+  },
+  {
+   "manualId": "3718256",
+   "slug": "Uponor-Smatrix-Wave-DPlusrh-T-267",
+   "title": "Smatrix Wave D+RH T-267 Operation manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Smatrix Wave D+RH T-267",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3718256/Uponor-Smatrix-Wave-DPlusrh-T-267.html"
+  },
+  {
+   "manualId": "3850252",
+   "slug": "Uponor-Smatrix-Wave-I-167",
+   "title": "Smatrix Wave I-167 quick manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "Smatrix Wave I-167",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3850252/Uponor-Smatrix-Wave-I-167.html"
+  },
+  {
+   "manualId": "1215533",
+   "slug": "Uponor-Smatrix-Wave",
+   "title": "Smatrix Wave Installation and operation manual",
+   "type": "Installation",
+   "pages": 102,
+   "productModel": "Smatrix Wave",
+   "extraModels": [
+    "Smatrix Wave PLUS"
+   ],
+   "url": "https://www.manualslib.com/manual/1215533/Uponor-Smatrix-Wave.html"
+  },
+  {
+   "manualId": "1373061",
+   "slug": "Uponor-Smatrix-Base",
+   "title": "Smatrix Wave Installation and operation manual",
+   "type": "Installation",
+   "pages": 132,
+   "productModel": "Smatrix Wave",
+   "extraModels": [
+    "Smatrix Base Pro"
+   ],
+   "url": "https://www.manualslib.com/manual/1373061/Uponor-Smatrix-Base.html"
+  },
+  {
+   "manualId": "1541945",
+   "slug": "Uponor-Smatrix-Wave-Plus",
+   "title": "Smatrix Wave PLUS quick manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "Smatrix Wave PLUS",
+   "extraModels": [
+    "Smatrix Wave PLUS"
+   ],
+   "url": "https://www.manualslib.com/manual/1541945/Uponor-Smatrix-Wave-Plus.html"
+  },
+  {
+   "manualId": "1191029",
+   "slug": "Uponor-Smatrix-Wave-Plus-U-Home-R-167",
+   "title": "Smatrix Wave Plus Uahome Module R-167 Installation and operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Smatrix Wave Plus Uahome Module R-167",
+   "extraModels": [
+    "Smatrix Wave Plus Uahome Module R-167"
+   ],
+   "url": "https://www.manualslib.com/manual/1191029/Uponor-Smatrix-Wave-Plus-U-Home-R-167.html"
+  },
+  {
+   "manualId": "1038393",
+   "slug": "Uponor-Smatrix-Wave-Plus-Uahome-Module-R-167",
+   "title": "Smatrix Wave Plus Uahome Module R-167 quick manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Smatrix Wave Plus Uahome Module R-167",
+   "extraModels": [
+    "Smatrix Wave Plus Uahome Module R-167"
+   ],
+   "url": "https://www.manualslib.com/manual/1038393/Uponor-Smatrix-Wave-Plus-Uahome-Module-R-167.html"
+  },
+  {
+   "manualId": "2105865",
+   "slug": "Uponor-Smatrix-Base",
+   "title": "Smatrix Wave quick manual",
+   "type": "Other",
+   "pages": 224,
+   "productModel": "Smatrix Wave",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2105865/Uponor-Smatrix-Base.html"
+  },
+  {
+   "manualId": "3020245",
+   "slug": "Uponor-Smatrix-Wave",
+   "title": "Smatrix Wave quick manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "Smatrix Wave",
+   "extraModels": [
+    "Smatrix Base Pro",
+    "Smatrix Wave PLUS"
+   ],
+   "url": "https://www.manualslib.com/manual/3020245/Uponor-Smatrix-Wave.html"
+  },
+  {
+   "manualId": "4253704",
+   "slug": "Uponor-Smatrix-Wave",
+   "title": "Smatrix Wave quick manual",
+   "type": "Other",
+   "pages": 268,
+   "productModel": "Smatrix Wave",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4253704/Uponor-Smatrix-Wave.html"
+  },
+  {
+   "manualId": "3850255",
+   "slug": "Uponor-Smatrix-Wave-T-161",
+   "title": "Smatrix Wave T-161 quick manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "Smatrix Wave T-161",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3850255/Uponor-Smatrix-Wave-T-161.html"
+  },
+  {
+   "manualId": "1446838",
+   "slug": "Uponor-Smatrix-Wave-X-165",
+   "title": "Smatrix Wave T-162 quick manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "Smatrix Wave T-162",
+   "extraModels": [
+    "Smatrix Wave T-162",
+    "Smatrix Wave A-165",
+    "Smatrix Wave M-160",
+    "Smatrix Wave M-161",
+    "Smatrix Wave T-163",
+    "Smatrix Wave T-165",
+    "Smatrix Wave T-166",
+    "Smatrix Wave T-168"
+   ],
+   "url": "https://www.manualslib.com/manual/1446838/Uponor-Smatrix-Wave-X-165.html"
+  },
+  {
+   "manualId": "1615010",
+   "slug": "Uponor-Smatrix-Wave-T-162",
+   "title": "Smatrix Wave T-162 quick manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "Smatrix Wave T-162",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1615010/Uponor-Smatrix-Wave-T-162.html"
+  },
+  {
+   "manualId": "3850254",
+   "slug": "Uponor-Smatrix-Wave-T-169",
+   "title": "Smatrix Wave T-169 quick manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "Smatrix Wave T-169",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3850254/Uponor-Smatrix-Wave-T-169.html"
+  },
+  {
+   "manualId": "1236492",
+   "slug": "Uponor-Smatrixmove",
+   "title": "SmatrixMove Installation and operaion manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "SmatrixMove",
+   "extraModels": [
+    "SmatrixMove PLUS"
+   ],
+   "url": "https://www.manualslib.com/manual/1236492/Uponor-Smatrixmove.html"
+  },
+  {
+   "manualId": "4592579",
+   "slug": "Uponor-1057366",
+   "title": "Snabbstartsmanual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4592579/Uponor-1057366.html"
+  },
+  {
+   "manualId": "1493267",
+   "slug": "Uponor-Systempro-311",
+   "title": "SYSTEMpro 311 installation manual",
+   "type": "Installation",
+   "pages": 107,
+   "productModel": "SYSTEMpro 311",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1493267/Uponor-Systempro-311.html"
+  },
+  {
+   "manualId": "3847370",
+   "slug": "Uponor-T-165-Pod",
+   "title": "T-165 POD quick manual",
+   "type": "Other",
+   "pages": 256,
+   "productModel": "T-165 POD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3847370/Uponor-T-165-Pod.html"
+  },
+  {
+   "manualId": "3849590",
+   "slug": "Uponor-T-167",
+   "title": "T-167 Installation and operation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "T-167",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3849590/Uponor-T-167.html"
+  },
+  {
+   "manualId": "1036145",
+   "slug": "Uponor-T-26-230-V",
+   "title": "T-26 230 V quick manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "T-26 230 V",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1036145/Uponor-T-26-230-V.html"
+  },
+  {
+   "manualId": "2139147",
+   "slug": "Uponor-T-26",
+   "title": "T-26 quick manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "T-26",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2139147/Uponor-T-26.html"
+  },
+  {
+   "manualId": "2589797",
+   "slug": "Uponor-T-26",
+   "title": "T-26 quick manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "T-26",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2589797/Uponor-T-26.html"
+  },
+  {
+   "manualId": "4584096",
+   "slug": "Uponor-T-27-230v",
+   "title": "T-27 Asennus- Ja Käyttöopas",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "T-27",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4584096/Uponor-T-27-230v.html"
+  },
+  {
+   "manualId": "2367232",
+   "slug": "Uponor-T-27",
+   "title": "T-27 Installation and operation manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "T-27",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2367232/Uponor-T-27.html"
+  },
+  {
+   "manualId": "3229123",
+   "slug": "Uponor-T-27",
+   "title": "T-27 Installation and operation manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "T-27",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3229123/Uponor-T-27.html"
+  },
+  {
+   "manualId": "4573358",
+   "slug": "Uponor-T-35",
+   "title": "T-33 Bruksanvisning",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "T-33",
+   "extraModels": [
+    "T-33",
+    "T-37"
+   ],
+   "url": "https://www.manualslib.com/manual/4573358/Uponor-T-35.html"
+  },
+  {
+   "manualId": "4573281",
+   "slug": "Uponor-T-75",
+   "title": "T-53 Bruksanvisning",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "T-53",
+   "extraModels": [
+    "T-53",
+    "T-55"
+   ],
+   "url": "https://www.manualslib.com/manual/4573281/Uponor-T-75.html"
+  },
+  {
+   "manualId": "3839439",
+   "slug": "Uponor-T-75",
+   "title": "T-75 installation manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "T-75",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3839439/Uponor-T-75.html"
+  },
+  {
+   "manualId": "1449832",
+   "slug": "Uponor-T-85",
+   "title": "T-85 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "T-85",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1449832/Uponor-T-85.html"
+  },
+  {
+   "manualId": "1499971",
+   "slug": "Uponor-T-87if",
+   "title": "T-87IF User and installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "T-87IF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1499971/Uponor-T-87if.html"
+  },
+  {
+   "manualId": "2517715",
+   "slug": "Uponor-Unipipe-Up-75",
+   "title": "Unipipe UP 75 instruction manual",
+   "type": "User / Owner",
+   "pages": 76,
+   "productModel": "Unipipe UP 75",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2517715/Uponor-Unipipe-Up-75.html"
+  },
+  {
+   "manualId": "1201369",
+   "slug": "Uponor-Up-75-El",
+   "title": "UP 75 EL instruction manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "UP 75 EL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1201369/Uponor-Up-75-El.html"
+  },
+  {
+   "manualId": "1602778",
+   "slug": "Uponor-Comfort-Port-Eu",
+   "title": "Uponor Comfort Port EU Technical Information",
+   "type": "Other",
+   "pages": 24,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1602778/Uponor-Comfort-Port-Eu.html"
+  },
+  {
+   "manualId": "2541657",
+   "slug": "Uponor-Contec-Ts",
+   "title": "Uponor Contec TS Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2541657/Uponor-Contec-Ts.html"
+  },
+  {
+   "manualId": "3614370",
+   "slug": "uponor-ecoflex-manual",
+   "title": "Uponor Ecoflex Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3614370/uponor-ecoflex-manual.html"
+  },
+  {
+   "manualId": "1946870",
+   "slug": "Uponor-Provario",
+   "title": "Uponor Provario Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1946870/Uponor-Provario.html"
+  },
+  {
+   "manualId": "1896539",
+   "slug": "Uponor-Smatrix-Wave-X-165",
+   "title": "Uponor Smatrix Wave X-165 Software Upgrade",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1896539/Uponor-Smatrix-Wave-X-165.html"
+  },
+  {
+   "manualId": "1463734",
+   "slug": "Uponor-Wipex",
+   "title": "Uponor WIPEX Instruction Sheet",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1463734/Uponor-Wipex.html"
+  },
+  {
+   "manualId": "3461883",
+   "slug": "Uponor-X-23",
+   "title": "Uponor X-23 Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3461883/Uponor-X-23.html"
+  },
+  {
+   "manualId": "4268326",
+   "slug": "Uponor-X-28",
+   "title": "Uponor X-28 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4268326/Uponor-X-28.html"
+  },
+  {
+   "manualId": "4243674",
+   "slug": "uponor-x-60-base-controller-installation-and-operation-manual",
+   "title": "Uponor X-60 Base controller Installation & Operation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4243674/uponor-x-60-base-controller-installation-and-operation-manual.html"
+  },
+  {
+   "manualId": "1192874",
+   "slug": "Uponor-Setpoint-500-Series",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1192874/Uponor-Setpoint-500-Series.html"
+  },
+  {
+   "manualId": "3365294",
+   "slug": "Uponor-Vault",
+   "title": "Vault installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Vault",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3365294/Uponor-Vault.html"
+  },
+  {
+   "manualId": "4581752",
+   "slug": "Uponor-Wehomini-10-30pe",
+   "title": "WehoMini 10-30PE Installationsvejledning",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "WehoMini 10-30PE",
+   "extraModels": [
+    "WehoMini 10PE"
+   ],
+   "url": "https://www.manualslib.com/manual/4581752/Uponor-Wehomini-10-30pe.html"
+  },
+  {
+   "manualId": "1871842",
+   "slug": "Uponor-Wehoputs-Series",
+   "title": "WehoPuts 10 Installation and operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "WehoPuts 10",
+   "extraModels": [
+    "WehoPuts 10",
+    "WehoPuts 5"
+   ],
+   "url": "https://www.manualslib.com/manual/1871842/Uponor-Wehoputs-Series.html"
+  },
+  {
+   "manualId": "1724731",
+   "slug": "Uponor-Wipex-Series",
+   "title": "WIPEX Series installation instructions manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "WIPEX Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1724731/Uponor-Wipex-Series.html"
+  },
+  {
+   "manualId": "1639215",
+   "slug": "Uponor-Wirsbo-Propex-Q6301000",
+   "title": "Wirsbo ProPEX Q6301000 installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "Wirsbo ProPEX Q6301000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1639215/Uponor-Wirsbo-Propex-Q6301000.html"
+  },
+  {
+   "manualId": "3330820",
+   "slug": "Uponor-X-60",
+   "title": "X-60 Operation manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "X-60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3330820/Uponor-X-60.html"
+  },
+  {
+   "manualId": "3330822",
+   "slug": "Uponor-X-80",
+   "title": "X-80 Operation manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "X-80",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3330822/Uponor-X-80.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "3614370",
+   "slug": "uponor-ecoflex-manual",
+   "title": "Uponor Ecoflex Manual"
+  },
+  {
+   "manualId": "4243674",
+   "slug": "uponor-x-60-base-controller-installation-and-operation-manual",
+   "title": "Uponor X-60 Base controller Installation & Operation Manual"
+  }
+ ],
+ "techDirectIds": [
+  "uponor"
+ ]
+}

@@ -1,0 +1,665 @@
+{
+ "brand": "Adp",
+ "brandSlug": "adp",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/adp/"
+ ],
+ "slugUsed": "adp",
+ "capturedAt": "2026-10-28T06:22:23.823618+00:00",
+ "typePages": [
+  {
+   "path": "/brand/adp/air-handlers.html",
+   "manuals": 47,
+   "status": 200
+  },
+  {
+   "path": "/brand/adp/bathtubs.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/adp/blower.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/adp/camera-accessories.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/adp/clock.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/adp/furnace.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/adp/heater.html",
+   "manuals": 105,
+   "status": 200
+  },
+  {
+   "path": "/brand/adp/indoor-furnishing.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/adp/industrial-equipment.html",
+   "manuals": 24,
+   "status": 200
+  },
+  {
+   "path": "/brand/adp/ip-phone.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/adp/modem.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/adp/security-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/adp/test-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/adp/time-clocks.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/adp/touch-terminals.html",
+   "manuals": 4,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "877654",
+   "slug": "Adp-14-4kbps",
+   "title": "14.4Kbps installation manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "14.4Kbps",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/877654/Adp-14-4kbps.html"
+  },
+  {
+   "manualId": "828208",
+   "slug": "Adp-Series-4000",
+   "title": "40000 Series installation manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "40000 Series",
+   "extraModels": [
+    "40000 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/828208/Adp-Series-4000.html"
+  },
+  {
+   "manualId": "2058391",
+   "slug": "Adp-4500",
+   "title": "4500 Troubleshooting Hosted",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "4500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2058391/Adp-4500.html"
+  },
+  {
+   "manualId": "3364070",
+   "slug": "Adp-508mt",
+   "title": "508MT user manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "508MT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3364070/Adp-508mt.html"
+  },
+  {
+   "manualId": "1371987",
+   "slug": "Adp-700",
+   "title": "700 Setup manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1371987/Adp-700.html"
+  },
+  {
+   "manualId": "3731640",
+   "slug": "Adp-B-Series",
+   "title": "B Series installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "B Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3731640/Adp-B-Series.html"
+  },
+  {
+   "manualId": "4360274",
+   "slug": "Adp-B-Series",
+   "title": "B Series installation instructions manual",
+   "type": "Installation",
+   "pages": 74,
+   "productModel": "B Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4360274/Adp-B-Series.html"
+  },
+  {
+   "manualId": "3648512",
+   "slug": "Adp-Cp18",
+   "title": "CE18 installation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "CE18",
+   "extraModels": [
+    "CE18",
+    "CE19",
+    "CE23",
+    "CE24",
+    "CE25",
+    "CE29",
+    "CE30",
+    "CP19",
+    "CP23",
+    "CP24",
+    "CP25",
+    "CP29",
+    "CP30"
+   ],
+   "url": "https://www.manualslib.com/manual/3648512/Adp-Cp18.html"
+  },
+  {
+   "manualId": "3663444",
+   "slug": "Adp-Cp18",
+   "title": "CE18 installation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "CE18",
+   "extraModels": [
+    "CE18",
+    "CE19",
+    "CE25",
+    "CE30",
+    "CP19",
+    "CP23",
+    "CP24",
+    "CP25",
+    "CP29",
+    "CP30"
+   ],
+   "url": "https://www.manualslib.com/manual/3663444/Adp-Cp18.html"
+  },
+  {
+   "manualId": "3656899",
+   "slug": "Adp-Compact-Front-Return",
+   "title": "Compact Front Return installation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Compact Front Return",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3656899/Adp-Compact-Front-Return.html"
+  },
+  {
+   "manualId": "3652666",
+   "slug": "Adp-F-Series",
+   "title": "F Series installation instructions manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "F Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3652666/Adp-F-Series.html"
+  },
+  {
+   "manualId": "1501242",
+   "slug": "Adp-Foa-Series",
+   "title": "Foa Series installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "Foa Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1501242/Adp-Foa-Series.html"
+  },
+  {
+   "manualId": "1080644",
+   "slug": "Adp-Fsan-Series",
+   "title": "FSAN Series installation instructions manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "FSAN Series",
+   "extraModels": [
+    "FSAP Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1080644/Adp-Fsan-Series.html"
+  },
+  {
+   "manualId": "1342290",
+   "slug": "Adp-Handpunch",
+   "title": "HandPunch Quick installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "HandPunch",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1342290/Adp-Handpunch.html"
+  },
+  {
+   "manualId": "3006833",
+   "slug": "Adp-Full-Handpunch",
+   "title": "HandPunch Quick installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "HandPunch",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3006833/Adp-Full-Handpunch.html"
+  },
+  {
+   "manualId": "3442225",
+   "slug": "Adp-He-Series",
+   "title": "HD Series installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "HD Series",
+   "extraModels": [
+    "HD Series",
+    "HH Series",
+    "V Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3442225/Adp-He-Series.html"
+  },
+  {
+   "manualId": "2396145",
+   "slug": "Adp-Hed-Series",
+   "title": "HED Series installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "HED Series",
+   "extraModels": [
+    "HED-100",
+    "HED-100A",
+    "HED-100S",
+    "HED-125",
+    "HED-125A",
+    "HED-125S",
+    "HED-150",
+    "HED-150A",
+    "HED-150S",
+    "HED-200",
+    "HED-200A",
+    "HED-200S",
+    "HED-250",
+    "HED-250A",
+    "HED-250S",
+    "HED-300",
+    "HED-300A",
+    "HED-300S",
+    "HED-75",
+    "HED-75A",
+    "HED-75S"
+   ],
+   "url": "https://www.manualslib.com/manual/2396145/Adp-Hed-Series.html"
+  },
+  {
+   "manualId": "3054026",
+   "slug": "Adp-Michel-Bench",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3054026/Adp-Michel-Bench.html"
+  },
+  {
+   "manualId": "3472628",
+   "slug": "Adp-Placido-Freestanding-Bath-1590mm",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3472628/Adp-Placido-Freestanding-Bath-1590mm.html"
+  },
+  {
+   "manualId": "4226847",
+   "slug": "Adp-Shaving-Cabinet",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4226847/Adp-Shaving-Cabinet.html"
+  },
+  {
+   "manualId": "1953594",
+   "slug": "Adp-Antonio-Metal-Frame-Vanity",
+   "title": "Installation Instructions Care & Maintenance",
+   "type": "Service",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1953594/Adp-Antonio-Metal-Frame-Vanity.html"
+  },
+  {
+   "manualId": "1419202",
+   "slug": "Adp-Quickpunch",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1419202/Adp-Quickpunch.html"
+  },
+  {
+   "manualId": "2315945",
+   "slug": "Adp-Quickpunch-Plus",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2315945/Adp-Quickpunch-Plus.html"
+  },
+  {
+   "manualId": "2630108",
+   "slug": "Adp-Ats-700",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2630108/Adp-Ats-700.html"
+  },
+  {
+   "manualId": "3463418",
+   "slug": "Adp-Harper",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3463418/Adp-Harper.html"
+  },
+  {
+   "manualId": "3119234",
+   "slug": "Adp-Lf25-Series",
+   "title": "LF25 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "LF25 Series",
+   "extraModels": [
+    "LF25-030/105",
+    "LF25-125/200",
+    "LF25-250/400"
+   ],
+   "url": "https://www.manualslib.com/manual/3119234/Adp-Lf25-Series.html"
+  },
+  {
+   "manualId": "3332620",
+   "slug": "Adp-Moduleflex-Efurnace-Aef3a-Series",
+   "title": "Moduleflex eFurnace AEF3A Series installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Moduleflex eFurnace AEF3A Series",
+   "extraModels": [
+    "Moduleflex eFurnace AEF4B Series",
+    "Moduleflex eFurnace AEF5C Series",
+    "Moduleflex eFurnace AEF5D Series",
+    "Moduleflex eFurnace AEFE3A",
+    "Moduleflex eFurnace AEFE4B",
+    "Moduleflex eFurnace AEFE5C",
+    "Moduleflex eFurnace AEFE5D"
+   ],
+   "url": "https://www.manualslib.com/manual/3332620/Adp-Moduleflex-Efurnace-Aef3a-Series.html"
+  },
+  {
+   "manualId": "3755849",
+   "slug": "Adp-Moduleflex-Mx-Series",
+   "title": "ModuleFlex MX Series installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "ModuleFlex MX Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3755849/Adp-Moduleflex-Mx-Series.html"
+  },
+  {
+   "manualId": "2085754",
+   "slug": "Adp-Mx-Series",
+   "title": "MX Series installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "MX Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2085754/Adp-Mx-Series.html"
+  },
+  {
+   "manualId": "3436993",
+   "slug": "Adp-Pl-Series",
+   "title": "PL Series installation instructions manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "PL Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3436993/Adp-Pl-Series.html"
+  },
+  {
+   "manualId": "4208013",
+   "slug": "Adp-Bloom-Rhtr-900",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4208013/Adp-Bloom-Rhtr-900.html"
+  },
+  {
+   "manualId": "3437753",
+   "slug": "Adp-S-Series",
+   "title": "S Series installation instructions manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "S Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3437753/Adp-S-Series.html"
+  },
+  {
+   "manualId": "3618945",
+   "slug": "Adp-Sep",
+   "title": "SEP installation instructions manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "SEP",
+   "extraModels": [
+    "SEP-100",
+    "SEP-115",
+    "SEP-145",
+    "SEP-175",
+    "SEP-200",
+    "SEP-230",
+    "SEP-250",
+    "SEP-300",
+    "SEP-345",
+    "SEP-400"
+   ],
+   "url": "https://www.manualslib.com/manual/3618945/Adp-Sep.html"
+  },
+  {
+   "manualId": "1182245",
+   "slug": "Adp-Sep-100",
+   "title": "SEP-100 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "SEP-100",
+   "extraModels": [
+    "SEP-115",
+    "SEP-145",
+    "SEP-175",
+    "SEP-200",
+    "SEP-230",
+    "SEP-250",
+    "SEP-300",
+    "SEP-345",
+    "SEP-350",
+    "SEP-400"
+   ],
+   "url": "https://www.manualslib.com/manual/1182245/Adp-Sep-100.html"
+  },
+  {
+   "manualId": "854241",
+   "slug": "Adp-4000-Series",
+   "title": "Series 4000 installation manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "Series 4000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/854241/Adp-4000-Series.html"
+  },
+  {
+   "manualId": "4414485",
+   "slug": "setting-up-and-wiring-an-adp-700-timeclock",
+   "title": "Setting up and Wiring an ADP 700 Timeclock",
+   "type": "Parts & Wiring",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4414485/setting-up-and-wiring-an-adp-700-timeclock.html"
+  },
+  {
+   "manualId": "1649566",
+   "slug": "Adp-Uhrs-Series",
+   "title": "UH Series installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "UH Series",
+   "extraModels": [
+    "UH Series",
+    "UHCM-125",
+    "UHCM-150",
+    "UHCM-175",
+    "UHCM-200",
+    "UHCM-250",
+    "UHCM-300",
+    "UHCM-350",
+    "UHCM-400",
+    "UHRS-030A",
+    "UHRS-045A",
+    "UHRS-060A",
+    "UHRS-075A",
+    "UHRS-090A",
+    "UHRS-105A"
+   ],
+   "url": "https://www.manualslib.com/manual/1649566/Adp-Uhrs-Series.html"
+  },
+  {
+   "manualId": "3239364",
+   "slug": "Adp-Uh-Series",
+   "title": "UH Series installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "UH Series",
+   "extraModels": [
+    "UHCM125NA1",
+    "UHRS-030A",
+    "UHRS-045A",
+    "UHRS-060A",
+    "UHRS-075A",
+    "UHRS-090A",
+    "UHRS-105A"
+   ],
+   "url": "https://www.manualslib.com/manual/3239364/Adp-Uh-Series.html"
+  },
+  {
+   "manualId": "3860046",
+   "slug": "Adp-Uhcm-Series",
+   "title": "UHCM Series installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "UHCM Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3860046/Adp-Uhcm-Series.html"
+  },
+  {
+   "manualId": "2548290",
+   "slug": "Adp-Uhrs-030",
+   "title": "UHCM-125 installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "UHCM-125",
+   "extraModels": [
+    "UHCM-125",
+    "UHCM-150",
+    "UHCM-175",
+    "UHCM-200",
+    "UHCM-250",
+    "UHCM-300",
+    "UHCM-350",
+    "UHCM-400",
+    "UHRS-030A",
+    "UHRS-045A",
+    "UHRS-060A",
+    "UHRS-075A",
+    "UHRS-090A",
+    "UHRS-105",
+    "UHRS-105A"
+   ],
+   "url": "https://www.manualslib.com/manual/2548290/Adp-Uhrs-030.html"
+  },
+  {
+   "manualId": "2451468",
+   "slug": "Adp-Uhrs-030a",
+   "title": "UHRS-030A installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "UHRS-030A",
+   "extraModels": [
+    "UHRS-045A",
+    "UHRS-060A",
+    "UHRS-075A",
+    "UHRS-090A",
+    "UHRS-105A"
+   ],
+   "url": "https://www.manualslib.com/manual/2451468/Adp-Uhrs-030a.html"
+  },
+  {
+   "manualId": "3016137",
+   "slug": "Adp-W-Series",
+   "title": "W 18 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "W 18",
+   "extraModels": [
+    "W 18",
+    "W 24",
+    "W 30",
+    "W 31",
+    "W 36",
+    "W 42"
+   ],
+   "url": "https://www.manualslib.com/manual/3016137/Adp-W-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4414485",
+   "slug": "setting-up-and-wiring-an-adp-700-timeclock",
+   "title": "Setting up and Wiring an ADP 700 Timeclock"
+  }
+ ],
+ "techDirectIds": [
+  "adp-advanced-distributor-products"
+ ]
+}

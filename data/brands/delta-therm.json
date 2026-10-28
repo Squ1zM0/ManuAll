@@ -1,0 +1,157 @@
+{
+ "brand": "Delta-Therm",
+ "brandSlug": "delta-therm",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/delta-therm/"
+ ],
+ "slugUsed": "delta-therm",
+ "capturedAt": "2026-10-28T06:50:59.620326+00:00",
+ "typePages": [
+  {
+   "path": "/brand/delta-therm/cables-and-connectors.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/delta-therm/controller.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/delta-therm/measuring-instruments.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/delta-therm/thermostat.html",
+   "manuals": 3,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3565862",
+   "slug": "Delta-Therm-Powertrace-Etc1",
+   "title": "ETC-120 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "ETC-120",
+   "extraModels": [
+    "ETC-120",
+    "ETC-208",
+    "ETC-240",
+    "ETC-277"
+   ],
+   "url": "https://www.manualslib.com/manual/3565862/Delta-Therm-Powertrace-Etc1.html"
+  },
+  {
+   "manualId": "1934874",
+   "slug": "Delta-Therm-Pck-C6",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1934874/Delta-Therm-Pck-C6.html"
+  },
+  {
+   "manualId": "1936626",
+   "slug": "Delta-Therm-Tt-Series",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1936626/Delta-Therm-Tt-Series.html"
+  },
+  {
+   "manualId": "3584243",
+   "slug": "Delta-Therm-Dtc-110",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3584243/Delta-Therm-Dtc-110.html"
+  },
+  {
+   "manualId": "4017289",
+   "slug": "Delta-Therm-Dtc-40",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4017289/Delta-Therm-Dtc-40.html"
+  },
+  {
+   "manualId": "859841",
+   "slug": "Delta-Therm-Udg-4999",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/859841/Delta-Therm-Udg-4999.html"
+  },
+  {
+   "manualId": "1330997",
+   "slug": "Delta-Therm-Dtc120-G",
+   "title": "Quick install manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1330997/Delta-Therm-Dtc120-G.html"
+  },
+  {
+   "manualId": "1524828",
+   "slug": "Delta-Therm-Dtc120-S",
+   "title": "Quick install manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1524828/Delta-Therm-Dtc120-S.html"
+  },
+  {
+   "manualId": "2014214",
+   "slug": "Delta-Therm-Pck-Rg",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2014214/Delta-Therm-Pck-Rg.html"
+  },
+  {
+   "manualId": "2014216",
+   "slug": "Delta-Therm-Pck-Rgp",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2014216/Delta-Therm-Pck-Rgp.html"
+  },
+  {
+   "manualId": "2165274",
+   "slug": "Delta-Therm-Dtc-24-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2165274/Delta-Therm-Dtc-24-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "delta-therm"
+ ]
+}

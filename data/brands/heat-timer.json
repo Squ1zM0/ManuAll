@@ -1,0 +1,680 @@
+{
+ "brand": "heat-timer",
+ "brandSlug": "heat-timer",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/heat-timer/"
+ ],
+ "slugUsed": "heat-timer",
+ "capturedAt": "2026-10-28T07:26:59.366909+00:00",
+ "typePages": [
+  {
+   "path": "/brand/heat-timer/control-panel.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-timer/control-systems.html",
+   "manuals": 77,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-timer/control-unit.html",
+   "manuals": 27,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-timer/controller.html",
+   "manuals": 29,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-timer/enclosure.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-timer/gateway.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-timer/monitor.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-timer/network-router.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-timer/repeater.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-timer/security-sensors.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-timer/transceiver.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/heat-timer/transducer.html",
+   "manuals": 5,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3719108",
+   "slug": "Heat-Timer-904316-00",
+   "title": "904310-00 Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "904310-00",
+   "extraModels": [
+    "904310-00",
+    "904312-00",
+    "904313-00",
+    "904317-00"
+   ],
+   "url": "https://www.manualslib.com/manual/3719108/Heat-Timer-904316-00.html"
+  },
+  {
+   "manualId": "2566457",
+   "slug": "Heat-Timer-928051-50-Vm",
+   "title": "928051-50-VM Installation and operation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "928051-50-VM",
+   "extraModels": [
+    "928052-00-VM",
+    "928052-50-VM",
+    "928053-00-VM",
+    "928054-00-VM",
+    "928055-00-VM",
+    "928056-00-VM",
+    "928058-00-VM",
+    "928060-00-VM"
+   ],
+   "url": "https://www.manualslib.com/manual/2566457/Heat-Timer-928051-50-Vm.html"
+  },
+  {
+   "manualId": "2931142",
+   "slug": "Heat-Timer-928072-Series",
+   "title": "928072 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "928072 Series",
+   "extraModels": [
+    "928073 Series",
+    "928074 Series",
+    "928075 Series",
+    "928076 Series",
+    "928078 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2931142/Heat-Timer-928072-Series.html"
+  },
+  {
+   "manualId": "3406501",
+   "slug": "Heat-Timer-Mini-Mig",
+   "title": "Assembly, Installation And Operation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3406501/Heat-Timer-Mini-Mig.html"
+  },
+  {
+   "manualId": "2571675",
+   "slug": "Heat-Timer-Dhw-Energy-Saver",
+   "title": "DHW Energy Saver Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "DHW Energy Saver",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2571675/Heat-Timer-Dhw-Energy-Saver.html"
+  },
+  {
+   "manualId": "2666049",
+   "slug": "Heat-Timer-Digi-Elite-Seq-3",
+   "title": "DIGI-Elite SEQ-3 Assembly, Installation And Operation Instructions",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "DIGI-Elite SEQ-3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2666049/Heat-Timer-Digi-Elite-Seq-3.html"
+  },
+  {
+   "manualId": "2889927",
+   "slug": "Heat-Timer-Digi-Span-Tsc-Pressure",
+   "title": "Digi-Span COC Pressure Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Digi-Span COC Pressure",
+   "extraModels": [
+    "Digi-Span COC Pressure",
+    "Digi-Span TSR Pressure"
+   ],
+   "url": "https://www.manualslib.com/manual/2889927/Heat-Timer-Digi-Span-Tsc-Pressure.html"
+  },
+  {
+   "manualId": "3377961",
+   "slug": "Heat-Timer-Digi-Span-Elite-Mc-Series",
+   "title": "DIGI-SPAN Elite MC Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "DIGI-SPAN Elite MC Series",
+   "extraModels": [
+    "DIGI-SPAN Elite MCA",
+    "DIGI-SPAN Elite MCF",
+    "DIGI-SPAN Elite MCP",
+    "MC ELITE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3377961/Heat-Timer-Digi-Span-Elite-Mc-Series.html"
+  },
+  {
+   "manualId": "2342134",
+   "slug": "Heat-Timer-Digi-Span-Elite-Series",
+   "title": "DiGi-SPAN Elite Series Assembly, Installation And Operation Instructions",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "DiGi-SPAN Elite Series",
+   "extraModels": [
+    "DiGi-SPAN HWE-MOV DIGI-Elite"
+   ],
+   "url": "https://www.manualslib.com/manual/2342134/Heat-Timer-Digi-Span-Elite-Series.html"
+  },
+  {
+   "manualId": "4157330",
+   "slug": "Heat-Timer-Digi-Span-Elite-Series",
+   "title": "DiGi-SPAN Elite Series Assembly, Installation And Operation Instructions",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "DiGi-SPAN Elite Series",
+   "extraModels": [
+    "HWE-SS DIGI-ELITE"
+   ],
+   "url": "https://www.manualslib.com/manual/4157330/Heat-Timer-Digi-Span-Elite-Series.html"
+  },
+  {
+   "manualId": "932056",
+   "slug": "Heat-Timer-Digi-Span-Elite-Series-Hwe-Ss",
+   "title": "Digi-Span Elite Series HWE-SS Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Digi-Span Elite Series HWE-SS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/932056/Heat-Timer-Digi-Span-Elite-Series-Hwe-Ss.html"
+  },
+  {
+   "manualId": "2586657",
+   "slug": "Heat-Timer-Digi-Span-Elite-Series",
+   "title": "DiGi-SPAN Elite Series Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "DiGi-SPAN Elite Series",
+   "extraModels": [
+    "RSM DIGI-ELITE"
+   ],
+   "url": "https://www.manualslib.com/manual/2586657/Heat-Timer-Digi-Span-Elite-Series.html"
+  },
+  {
+   "manualId": "1588445",
+   "slug": "Heat-Timer-Digi-Span-Elite-Series",
+   "title": "DiGi-SPAN Elite Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "DiGi-SPAN Elite Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1588445/Heat-Timer-Digi-Span-Elite-Series.html"
+  },
+  {
+   "manualId": "1628805",
+   "slug": "Heat-Timer-Digi-Span-Elite-Series",
+   "title": "DiGi-SPAN Elite Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "DiGi-SPAN Elite Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1628805/Heat-Timer-Digi-Span-Elite-Series.html"
+  },
+  {
+   "manualId": "1386182",
+   "slug": "Heat-Timer-Digi-Span-Vsp-Elite",
+   "title": "DIGI-SPAN VSP Elite Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "DIGI-SPAN VSP Elite",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1386182/Heat-Timer-Digi-Span-Vsp-Elite.html"
+  },
+  {
+   "manualId": "1791172",
+   "slug": "Heat-Timer-Epu-D",
+   "title": "EPU-D Installation and operation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "EPU-D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1791172/Heat-Timer-Epu-D.html"
+  },
+  {
+   "manualId": "2903940",
+   "slug": "Heat-Timer-Ets",
+   "title": "ETS Installation and operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "ETS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2903940/Heat-Timer-Ets.html"
+  },
+  {
+   "manualId": "2857841",
+   "slug": "Heat-Timer-Ets-Lt",
+   "title": "ETS-100 Installation and operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "ETS-100",
+   "extraModels": [
+    "ETS-100",
+    "ETS-125",
+    "ETS-75"
+   ],
+   "url": "https://www.manualslib.com/manual/2857841/Heat-Timer-Ets-Lt.html"
+  },
+  {
+   "manualId": "1520295",
+   "slug": "Heat-Timer-Etv-Platinum-Plus",
+   "title": "ETV Platinum Plus Installation and operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "ETV Platinum Plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1520295/Heat-Timer-Etv-Platinum-Plus.html"
+  },
+  {
+   "manualId": "2366803",
+   "slug": "Heat-Timer-Etv-Platinum-Plus",
+   "title": "ETV Platinum Plus Installation and operation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "ETV Platinum Plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2366803/Heat-Timer-Etv-Platinum-Plus.html"
+  },
+  {
+   "manualId": "3060968",
+   "slug": "Heat-Timer-Etv-Platinum-Plus",
+   "title": "ETV Platinum Plus Installation and operation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "ETV Platinum Plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3060968/Heat-Timer-Etv-Platinum-Plus.html"
+  },
+  {
+   "manualId": "3580949",
+   "slug": "Heat-Timer-Etv-Series",
+   "title": "ETV Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "ETV Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3580949/Heat-Timer-Etv-Series.html"
+  },
+  {
+   "manualId": "1295725",
+   "slug": "Heat-Timer-Mini-Mod-Cnc",
+   "title": "Extension Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Extension",
+   "extraModels": [
+    "Extension"
+   ],
+   "url": "https://www.manualslib.com/manual/1295725/Heat-Timer-Mini-Mod-Cnc.html"
+  },
+  {
+   "manualId": "2872504",
+   "slug": "Heat-Timer-Genesis",
+   "title": "Genesis Installation and operation manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "Genesis",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2872504/Heat-Timer-Genesis.html"
+  },
+  {
+   "manualId": "2578688",
+   "slug": "Heat-Timer-Mpcq-Platinum",
+   "title": "Heat-Timer MPCQ Platinum Installation And Operation Instructions For",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2578688/Heat-Timer-Mpcq-Platinum.html"
+  },
+  {
+   "manualId": "2876451",
+   "slug": "Heat-Timer-Htc",
+   "title": "HTC Installation and operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "HTC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2876451/Heat-Timer-Htc.html"
+  },
+  {
+   "manualId": "4083843",
+   "slug": "Heat-Timer-Hwr-Platinum",
+   "title": "HWR PLATINUM Installation and operation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "HWR PLATINUM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4083843/Heat-Timer-Hwr-Platinum.html"
+  },
+  {
+   "manualId": "3395584",
+   "slug": "Heat-Timer-Hwrq-Platinum",
+   "title": "HWRQ Platinum Installation and operation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "HWRQ Platinum",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3395584/Heat-Timer-Hwrq-Platinum.html"
+  },
+  {
+   "manualId": "915232",
+   "slug": "Heat-Timer-Digi-Span-Spc-Temp",
+   "title": "Installation & Operating Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/915232/Heat-Timer-Digi-Span-Spc-Temp.html"
+  },
+  {
+   "manualId": "2585082",
+   "slug": "Heat-Timer-Digi-Span-Elite-Series",
+   "title": "Installation and operation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2585082/Heat-Timer-Digi-Span-Elite-Series.html"
+  },
+  {
+   "manualId": "2643752",
+   "slug": "Heat-Timer-Nm",
+   "title": "Installation and operation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "TRV"
+   ],
+   "url": "https://www.manualslib.com/manual/2643752/Heat-Timer-Nm.html"
+  },
+  {
+   "manualId": "2887851",
+   "slug": "Heat-Timer-Tr1000",
+   "title": "Installation and operation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2887851/Heat-Timer-Tr1000.html"
+  },
+  {
+   "manualId": "3421466",
+   "slug": "Heat-Timer-Lr-Ii",
+   "title": "LR-II Installation and operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "LR-II",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3421466/Heat-Timer-Lr-Ii.html"
+  },
+  {
+   "manualId": "3441090",
+   "slug": "Heat-Timer-Lr-Ii",
+   "title": "LR-II Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "LR-II",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3441090/Heat-Timer-Lr-Ii.html"
+  },
+  {
+   "manualId": "3642689",
+   "slug": "Heat-Timer-Mini-Mod-Cnc",
+   "title": "Mini-Extension Installation and operation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "Mini-Extension",
+   "extraModels": [
+    "Mini-Extension",
+    "926712-00",
+    "926741-00",
+    "926743-00"
+   ],
+   "url": "https://www.manualslib.com/manual/3642689/Heat-Timer-Mini-Mod-Cnc.html"
+  },
+  {
+   "manualId": "1462933",
+   "slug": "Heat-Timer-Mini-Extension",
+   "title": "Mini-Extension Installation And Operations",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Mini-Extension",
+   "extraModels": [
+    "Mini-MOD"
+   ],
+   "url": "https://www.manualslib.com/manual/1462933/Heat-Timer-Mini-Extension.html"
+  },
+  {
+   "manualId": "2366450",
+   "slug": "Heat-Timer-Mini-Mod",
+   "title": "Mini-Extension Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "Mini-Extension",
+   "extraModels": [
+    "Mini-Extension"
+   ],
+   "url": "https://www.manualslib.com/manual/2366450/Heat-Timer-Mini-Mod.html"
+  },
+  {
+   "manualId": "2538120",
+   "slug": "Heat-Timer-Mini-Mod",
+   "title": "Mini-MOD Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Mini-MOD",
+   "extraModels": [
+    "Mini-MOD Extension"
+   ],
+   "url": "https://www.manualslib.com/manual/2538120/Heat-Timer-Mini-Mod.html"
+  },
+  {
+   "manualId": "2584334",
+   "slug": "Heat-Timer-Modbus-Rtu-Rs485",
+   "title": "MODBUS RTU RS485 Installation and operation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "MODBUS RTU RS485",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2584334/Heat-Timer-Modbus-Rtu-Rs485.html"
+  },
+  {
+   "manualId": "1567272",
+   "slug": "Heat-Timer-Mpc-Platinum",
+   "title": "MPC Platinum Installation and operation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "MPC Platinum",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1567272/Heat-Timer-Mpc-Platinum.html"
+  },
+  {
+   "manualId": "3406547",
+   "slug": "Heat-Timer-Msi-Otm",
+   "title": "MSI OTM Installation and operation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "MSI OTM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3406547/Heat-Timer-Msi-Otm.html"
+  },
+  {
+   "manualId": "1614502",
+   "slug": "Heat-Timer-Multi-Mod-Platinum",
+   "title": "Multi-MOD Platinum Installation and operation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Multi-MOD Platinum",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1614502/Heat-Timer-Multi-Mod-Platinum.html"
+  },
+  {
+   "manualId": "1588442",
+   "slug": "Heat-Timer-Pll",
+   "title": "PLL Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "PLL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1588442/Heat-Timer-Pll.html"
+  },
+  {
+   "manualId": "829015",
+   "slug": "Heat-Timer-Rsm",
+   "title": "RSM Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "RSM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/829015/Heat-Timer-Rsm.html"
+  },
+  {
+   "manualId": "2587700",
+   "slug": "Heat-Timer-Smc",
+   "title": "SMC Installation & Operation Manuals",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "SMC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2587700/Heat-Timer-Smc.html"
+  },
+  {
+   "manualId": "3592173",
+   "slug": "Heat-Timer-Elite-Series",
+   "title": "SMC User's installation and operation manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "SMC",
+   "extraModels": [
+    "SMC",
+    "904011-00",
+    "904198-00",
+    "904200-00",
+    "904220-00",
+    "926820-00"
+   ],
+   "url": "https://www.manualslib.com/manual/3592173/Heat-Timer-Elite-Series.html"
+  },
+  {
+   "manualId": "4502609",
+   "slug": "Heat-Timer-Spc-Digi-Span-Elite-Series",
+   "title": "SPC DIGI-SPAN ELITE Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "SPC DIGI-SPAN ELITE Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4502609/Heat-Timer-Spc-Digi-Span-Elite-Series.html"
+  },
+  {
+   "manualId": "2571229",
+   "slug": "Heat-Timer-Sq-Elite-8s",
+   "title": "SQ-Elite-8S Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "SQ-Elite-8S",
+   "extraModels": [
+    "SQ-Elite-EXt"
+   ],
+   "url": "https://www.manualslib.com/manual/2571229/Heat-Timer-Sq-Elite-8s.html"
+  },
+  {
+   "manualId": "2625648",
+   "slug": "Heat-Timer-Sq-Elite-8t",
+   "title": "SQ-Elite-8T Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "SQ-Elite-8T",
+   "extraModels": [
+    "SQ-Elite-EXt"
+   ],
+   "url": "https://www.manualslib.com/manual/2625648/Heat-Timer-Sq-Elite-8t.html"
+  },
+  {
+   "manualId": "2924878",
+   "slug": "Heat-Timer-Sq-Elite-8t",
+   "title": "SQ-Elite-8T Installation and operation manual",
+   "type": "Installation",
+   "pages": 65,
+   "productModel": "SQ-Elite-8T",
+   "extraModels": [
+    "SQ-Elite-EXt"
+   ],
+   "url": "https://www.manualslib.com/manual/2924878/Heat-Timer-Sq-Elite-8t.html"
+  },
+  {
+   "manualId": "2571233",
+   "slug": "Heat-Timer-Sq-Elite-Mv",
+   "title": "SQ-Elite-EXt Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "SQ-Elite-EXt",
+   "extraModels": [
+    "SQ-Elite-EXt"
+   ],
+   "url": "https://www.manualslib.com/manual/2571233/Heat-Timer-Sq-Elite-Mv.html"
+  },
+  {
+   "manualId": "3408616",
+   "slug": "Heat-Timer-Trv",
+   "title": "TRV Installation and operation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "TRV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3408616/Heat-Timer-Trv.html"
+  },
+  {
+   "manualId": "2593338",
+   "slug": "Heat-Timer-Vsp",
+   "title": "VSP Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "VSP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2593338/Heat-Timer-Vsp.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "heat-timer"
+ ]
+}

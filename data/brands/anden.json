@@ -1,0 +1,367 @@
+{
+ "brand": "Anden",
+ "brandSlug": "anden",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/anden/"
+ ],
+ "slugUsed": "anden",
+ "capturedAt": "2026-10-28T06:25:20.850732+00:00",
+ "typePages": [
+  {
+   "path": "/brand/anden/control-unit.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/anden/controller.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/anden/dehumidifier.html",
+   "manuals": 56,
+   "status": 200
+  },
+  {
+   "path": "/brand/anden/humidifier.html",
+   "manuals": 6,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2377037",
+   "slug": "Anden-A100",
+   "title": "A100 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "A100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2377037/Anden-A100.html"
+  },
+  {
+   "manualId": "2374389",
+   "slug": "Anden-A100f",
+   "title": "A100F Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "A100F",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2374389/Anden-A100f.html"
+  },
+  {
+   "manualId": "1563193",
+   "slug": "Anden-A130",
+   "title": "A130 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "A130",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1563193/Anden-A130.html"
+  },
+  {
+   "manualId": "3958751",
+   "slug": "Anden-A130",
+   "title": "A130 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "A130",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3958751/Anden-A130.html"
+  },
+  {
+   "manualId": "2373038",
+   "slug": "Anden-A130f",
+   "title": "A130F Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "A130F",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2373038/Anden-A130f.html"
+  },
+  {
+   "manualId": "1642039",
+   "slug": "Anden-A200v1",
+   "title": "A200V1 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "A200V1",
+   "extraModels": [
+    "A300V3"
+   ],
+   "url": "https://www.manualslib.com/manual/1642039/Anden-A200v1.html"
+  },
+  {
+   "manualId": "1525520",
+   "slug": "Anden-A320v1",
+   "title": "A210V1 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "A210V1",
+   "extraModels": [
+    "A210V1",
+    "A320V3"
+   ],
+   "url": "https://www.manualslib.com/manual/1525520/Anden-A320v1.html"
+  },
+  {
+   "manualId": "2563409",
+   "slug": "Anden-A210v1",
+   "title": "A210V1 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "A210V1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2563409/Anden-A210v1.html"
+  },
+  {
+   "manualId": "2623433",
+   "slug": "Anden-A210v1",
+   "title": "A210V1 quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "A210V1",
+   "extraModels": [
+    "A320V1",
+    "A320V3"
+   ],
+   "url": "https://www.manualslib.com/manual/2623433/Anden-A210v1.html"
+  },
+  {
+   "manualId": "2909256",
+   "slug": "Anden-A210v1",
+   "title": "A210V1 quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "A210V1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2909256/Anden-A210v1.html"
+  },
+  {
+   "manualId": "3859654",
+   "slug": "Anden-A300v1",
+   "title": "A300V1 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "A300V1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3859654/Anden-A300v1.html"
+  },
+  {
+   "manualId": "2608216",
+   "slug": "Anden-A320v1",
+   "title": "A320V1 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "A320V1",
+   "extraModels": [
+    "A320V3"
+   ],
+   "url": "https://www.manualslib.com/manual/2608216/Anden-A320v1.html"
+  },
+  {
+   "manualId": "4394601",
+   "slug": "Anden-A320v1",
+   "title": "A320V1 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "A320V1",
+   "extraModels": [
+    "A320V3"
+   ],
+   "url": "https://www.manualslib.com/manual/4394601/Anden-A320v1.html"
+  },
+  {
+   "manualId": "2642143",
+   "slug": "Anden-A320v1",
+   "title": "A320V1 Specification Sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "A320V1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2642143/Anden-A320v1.html"
+  },
+  {
+   "manualId": "4055537",
+   "slug": "Anden-A710v1",
+   "title": "A710V1 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "A710V1",
+   "extraModels": [
+    "A710V3"
+   ],
+   "url": "https://www.manualslib.com/manual/4055537/Anden-A710v1.html"
+  },
+  {
+   "manualId": "4392575",
+   "slug": "Anden-A710v1",
+   "title": "A710V1 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "A710V1",
+   "extraModels": [
+    "A710V3"
+   ],
+   "url": "https://www.manualslib.com/manual/4392575/Anden-A710v1.html"
+  },
+  {
+   "manualId": "2218625",
+   "slug": "Anden-A710v1",
+   "title": "A710V1 quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "A710V1",
+   "extraModels": [
+    "A710V3"
+   ],
+   "url": "https://www.manualslib.com/manual/2218625/Anden-A710v1.html"
+  },
+  {
+   "manualId": "2182091",
+   "slug": "Anden-A77",
+   "title": "A77 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "A77",
+   "extraModels": [
+    "DH55A77"
+   ],
+   "url": "https://www.manualslib.com/manual/2182091/Anden-A77.html"
+  },
+  {
+   "manualId": "2669621",
+   "slug": "Anden-A95f",
+   "title": "A95F Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "A95F",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2669621/Anden-A95f.html"
+  },
+  {
+   "manualId": "2217298",
+   "slug": "Anden-As150",
+   "title": "AS150 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "AS150",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2217298/Anden-As150.html"
+  },
+  {
+   "manualId": "2561967",
+   "slug": "Anden-5859",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2561967/Anden-5859.html"
+  },
+  {
+   "manualId": "2995301",
+   "slug": "Anden-A65",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2995301/Anden-A65.html"
+  },
+  {
+   "manualId": "3131250",
+   "slug": "Anden-As35-Series",
+   "title": "Maintenance Instruction",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3131250/Anden-As35-Series.html"
+  },
+  {
+   "manualId": "2518616",
+   "slug": "Anden-A76",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2518616/Anden-A76.html"
+  },
+  {
+   "manualId": "2182113",
+   "slug": "Anden-As35",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2182113/Anden-As35.html"
+  },
+  {
+   "manualId": "2855464",
+   "slug": "Anden-A710v1-V3",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2855464/Anden-A710v1-V3.html"
+  },
+  {
+   "manualId": "2876735",
+   "slug": "Anden-As35fp",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2876735/Anden-As35fp.html"
+  },
+  {
+   "manualId": "2284999",
+   "slug": "Anden-Surna-S210v1",
+   "title": "Surna S210V1 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Surna S210V1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2284999/Anden-Surna-S210v1.html"
+  },
+  {
+   "manualId": "2919145",
+   "slug": "Anden-Surna-S210v1",
+   "title": "Surna S210V1 quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Surna S210V1",
+   "extraModels": [
+    "SURNA S320V1",
+    "SURNA S320V3"
+   ],
+   "url": "https://www.manualslib.com/manual/2919145/Anden-Surna-S210v1.html"
+  },
+  {
+   "manualId": "2742430",
+   "slug": "Anden-Surna-S320v1",
+   "title": "SURNA S320V1 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "SURNA S320V1",
+   "extraModels": [
+    "SURNA S320V3"
+   ],
+   "url": "https://www.manualslib.com/manual/2742430/Anden-Surna-S320v1.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "anden"
+ ]
+}

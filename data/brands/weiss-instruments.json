@@ -1,0 +1,67 @@
+{
+ "brand": "Weiss Instruments",
+ "brandSlug": "weiss-instruments",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/weiss-instruments/"
+ ],
+ "slugUsed": "weiss-instruments",
+ "capturedAt": "2026-10-28T09:52:46.074506+00:00",
+ "typePages": [
+  {
+   "path": "/brand/weiss-instruments/controller.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/weiss-instruments/thermometer.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/weiss-instruments/thermostat.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1569862",
+   "slug": "Weiss-Instruments-Vari-Angle-Dvu",
+   "title": "Installation, Operating And Maintenance Instructions",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1569862/Weiss-Instruments-Vari-Angle-Dvu.html"
+  },
+  {
+   "manualId": "1642289",
+   "slug": "Weiss-Instruments-Dixell-Xr03cx",
+   "title": "operating manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1642289/Weiss-Instruments-Dixell-Xr03cx.html"
+  },
+  {
+   "manualId": "665578",
+   "slug": "Weiss-Instruments-Istat-Pro",
+   "title": "Owner & user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/665578/Weiss-Instruments-Istat-Pro.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "weiss-instruments"
+ ]
+}

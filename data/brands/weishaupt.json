@@ -1,0 +1,1274 @@
+{
+ "brand": "Weishaupt",
+ "brandSlug": "weishaupt",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/weishaupt/"
+ ],
+ "slugUsed": "weishaupt",
+ "capturedAt": "2026-10-28T09:52:42.536074+00:00",
+ "typePages": [
+  {
+   "path": "/brand/weishaupt/air-conditioner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/boiler.html",
+   "manuals": 21,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/boiler-supplies.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/burner.html",
+   "manuals": 75,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/control-systems.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/control-unit.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/controller.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/gateway.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/heat-pump.html",
+   "manuals": 24,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/heater.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/indoor-fireplace.html",
+   "manuals": 15,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/remote-control.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/solar-panel.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/storage.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/styreenheder.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/styreenheter.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/thermostat.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/varmepumper.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/water-heater.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/weishaupt/water-system.html",
+   "manuals": 24,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3007775",
+   "slug": "Weishaupt-Em3-2",
+   "title": "EM3/2 Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "EM3/2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3007775/Weishaupt-Em3-2.html"
+  },
+  {
+   "manualId": "3080688",
+   "slug": "Weishaupt-Em3-3",
+   "title": "EM3/3 Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "EM3/3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3080688/Weishaupt-Em3-3.html"
+  },
+  {
+   "manualId": "1076241",
+   "slug": "Weishaupt-Wtc-Ow-15-A",
+   "title": "operating instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1076241/Weishaupt-Wtc-Ow-15-A.html"
+  },
+  {
+   "manualId": "2572455",
+   "slug": "Weishaupt-Purflam-Wl5-Pb-H",
+   "title": "purflam WL5-PB-H Manual",
+   "type": "Other",
+   "pages": 76,
+   "productModel": "purflam WL5-PB-H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2572455/Weishaupt-Purflam-Wl5-Pb-H.html"
+  },
+  {
+   "manualId": "4219847",
+   "slug": "Weishaupt-Solar-Station-Whi-Sol-Heat-60-3",
+   "title": "Solar station WHI sol-aqua 60 #3 Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "Solar station WHI sol-aqua 60 #3",
+   "extraModels": [
+    "Solar station WHI sol-aqua 60 #3"
+   ],
+   "url": "https://www.manualslib.com/manual/4219847/Weishaupt-Solar-Station-Whi-Sol-Heat-60-3.html"
+  },
+  {
+   "manualId": "1105557",
+   "slug": "Weishaupt-Thermo-Condens-Wtc-15-A",
+   "title": "thermo condens WTC 15-A Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 94,
+   "productModel": "thermo condens WTC 15-A",
+   "extraModels": [
+    "thermo condens WTC 25-A",
+    "thermo condens WTC 32-A"
+   ],
+   "url": "https://www.manualslib.com/manual/1105557/Weishaupt-Thermo-Condens-Wtc-15-A.html"
+  },
+  {
+   "manualId": "1062319",
+   "slug": "Weishaupt-Wtc-15-A",
+   "title": "thermo condens WTC 15-A operating instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "thermo condens WTC 15-A",
+   "extraModels": [
+    "thermo condens WTC 25-A",
+    "thermo condens WTC 32-A"
+   ],
+   "url": "https://www.manualslib.com/manual/1062319/Weishaupt-Wtc-15-A.html"
+  },
+  {
+   "manualId": "1641788",
+   "slug": "Weishaupt-W-Fm-100",
+   "title": "W-FM 100 Installation And Operating Instruction",
+   "type": "Installation",
+   "pages": 229,
+   "productModel": "W-FM 100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1641788/Weishaupt-W-Fm-100.html"
+  },
+  {
+   "manualId": "3859652",
+   "slug": "Weishaupt-W-Fm-200",
+   "title": "W-FM 200 Installation And Operating Instruction",
+   "type": "Installation",
+   "pages": 229,
+   "productModel": "W-FM 200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3859652/Weishaupt-W-Fm-200.html"
+  },
+  {
+   "manualId": "2987955",
+   "slug": "Weishaupt-W-Fm-25",
+   "title": "W-FM 25 Installation And Operating Instruction",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "W-FM 25",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2987955/Weishaupt-W-Fm-25.html"
+  },
+  {
+   "manualId": "1654102",
+   "slug": "Weishaupt-W-Fm-25",
+   "title": "W-FM 25 Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "W-FM 25",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1654102/Weishaupt-W-Fm-25.html"
+  },
+  {
+   "manualId": "1646824",
+   "slug": "Weishaupt-W-Fm-50",
+   "title": "W-FM 50 Installation and operating instruction manual",
+   "type": "Installation",
+   "pages": 112,
+   "productModel": "W-FM 50",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1646824/Weishaupt-W-Fm-50.html"
+  },
+  {
+   "manualId": "4020036",
+   "slug": "Weishaupt-Was-800",
+   "title": "WAS 1000 Manual",
+   "type": "Other",
+   "pages": 22,
+   "productModel": "WAS 1000",
+   "extraModels": [
+    "WAS 1000"
+   ],
+   "url": "https://www.manualslib.com/manual/4020036/Weishaupt-Was-800.html"
+  },
+  {
+   "manualId": "2868166",
+   "slug": "Weishaupt-Wcm-Com-1-0-Home",
+   "title": "WCM-COM 1.0 home Installation And Operating Instruction",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "WCM-COM 1.0 home",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2868166/Weishaupt-Wcm-Com-1-0-Home.html"
+  },
+  {
+   "manualId": "2418054",
+   "slug": "Weishaupt-Wcm-Fs-2-0",
+   "title": "WCM-EM 2.1 Installation And Operating Instruction",
+   "type": "Installation",
+   "pages": 108,
+   "productModel": "WCM-EM 2.1",
+   "extraModels": [
+    "WCM-EM 2.1"
+   ],
+   "url": "https://www.manualslib.com/manual/2418054/Weishaupt-Wcm-Fs-2-0.html"
+  },
+  {
+   "manualId": "4586417",
+   "slug": "Weishaupt-Wcm-Fs-2-0",
+   "title": "WCM-FS 2.0 Betjeningsvejledning",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "WCM-FS 2.0",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4586417/Weishaupt-Wcm-Fs-2-0.html"
+  },
+  {
+   "manualId": "4145210",
+   "slug": "Weishaupt-Wcm-Fs-2-0",
+   "title": "WCM-FS 2.0 Installation And Operating Instruction",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "WCM-FS 2.0",
+   "extraModels": [
+    "WCM-SOL 1.0 home"
+   ],
+   "url": "https://www.manualslib.com/manual/4145210/Weishaupt-Wcm-Fs-2-0.html"
+  },
+  {
+   "manualId": "3056733",
+   "slug": "Weishaupt-Wcm-Fs-2-0",
+   "title": "WCM-FS 2.0 Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "WCM-FS 2.0",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3056733/Weishaupt-Wcm-Fs-2-0.html"
+  },
+  {
+   "manualId": "3696499",
+   "slug": "Weishaupt-Wcm-Fs-2-0",
+   "title": "WCM-FS 2.0 Operating Instruction",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "WCM-FS 2.0",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3696499/Weishaupt-Wcm-Fs-2-0.html"
+  },
+  {
+   "manualId": "3892551",
+   "slug": "Weishaupt-Wg40f-1-A-Zm-Ln",
+   "title": "Weishaupt WG40F/1-A ZM-LN Manual",
+   "type": "Other",
+   "pages": 128,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3892551/Weishaupt-Wg40f-1-A-Zm-Ln.html"
+  },
+  {
+   "manualId": "2922431",
+   "slug": "Weishaupt-Wgl40-1-A-Zm",
+   "title": "Weishaupt WGL40/1-A ZM Manual",
+   "type": "Other",
+   "pages": 148,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2922431/Weishaupt-Wgl40-1-A-Zm.html"
+  },
+  {
+   "manualId": "3952221",
+   "slug": "Weishaupt-Wl10-D-Z-Series",
+   "title": "Weishaupt WL10 -D Z Series Manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": null,
+   "extraModels": [
+    "WL10/1-D Z",
+    "WL10/2-D Z",
+    "WL10/3-D Z",
+    "WL20 -C Z Series",
+    "WL20/1-C Z",
+    "WL20/1-C Z-1LN",
+    "WL20/2-C Z"
+   ],
+   "url": "https://www.manualslib.com/manual/3952221/Weishaupt-Wl10-D-Z-Series.html"
+  },
+  {
+   "manualId": "3230260",
+   "slug": "Weishaupt-Wl10-2-D-Z",
+   "title": "Weishaupt WL10/2-D Z Manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3230260/Weishaupt-Wl10-2-D-Z.html"
+  },
+  {
+   "manualId": "2454076",
+   "slug": "Weishaupt-Wl10-3-D-Z",
+   "title": "Weishaupt WL10/3-D Z Installation And Operating Instruction",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2454076/Weishaupt-Wl10-3-D-Z.html"
+  },
+  {
+   "manualId": "2471110",
+   "slug": "Weishaupt-Wl20-1-C-Z-1ln",
+   "title": "Weishaupt WL20/1-C Z-1LN Manual",
+   "type": "Other",
+   "pages": 84,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2471110/Weishaupt-Wl20-1-C-Z-1ln.html"
+  },
+  {
+   "manualId": "2988262",
+   "slug": "Weishaupt-Wl30-1-C-Z-1ln-A",
+   "title": "Weishaupt WL30/1-C Z-1LN-A Installation And Operating Instruction",
+   "type": "Installation",
+   "pages": 112,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2988262/Weishaupt-Wl30-1-C-Z-1ln-A.html"
+  },
+  {
+   "manualId": "2447991",
+   "slug": "Weishaupt-Wl30z-C",
+   "title": "Weishaupt WL30Z-C Manual",
+   "type": "Other",
+   "pages": 112,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2447991/Weishaupt-Wl30z-C.html"
+  },
+  {
+   "manualId": "2320716",
+   "slug": "Weishaupt-Wl40-1-A-Z-1ln-A",
+   "title": "Weishaupt WL40/1-A Z-1LN-A Installation And Operating Instruction",
+   "type": "Installation",
+   "pages": 116,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2320716/Weishaupt-Wl40-1-A-Z-1ln-A.html"
+  },
+  {
+   "manualId": "2505338",
+   "slug": "Weishaupt-Wl5-1-B-H",
+   "title": "Weishaupt WL5/1-B H Manual",
+   "type": "Other",
+   "pages": 76,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2505338/Weishaupt-Wl5-1-B-H.html"
+  },
+  {
+   "manualId": "2507470",
+   "slug": "Weishaupt-Wl5-2-B",
+   "title": "Weishaupt WL5/2-B Manual",
+   "type": "Other",
+   "pages": 76,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2507470/Weishaupt-Wl5-2-B.html"
+  },
+  {
+   "manualId": "2093027",
+   "slug": "Weishaupt-Wm-L20-2-A-R",
+   "title": "Weishaupt WM-L20/2-A R Manual",
+   "type": "Other",
+   "pages": 84,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2093027/Weishaupt-Wm-L20-2-A-R.html"
+  },
+  {
+   "manualId": "2514254",
+   "slug": "Weishaupt-Wem-Knx",
+   "title": "WEM-KNX Installation and operating manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "WEM-KNX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2514254/Weishaupt-Wem-Knx.html"
+  },
+  {
+   "manualId": "1722246",
+   "slug": "Weishaupt-Wem-Rg1",
+   "title": "WEM-RG1 Installation and operating instruction manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "WEM-RG1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1722246/Weishaupt-Wem-Rg1.html"
+  },
+  {
+   "manualId": "1721133",
+   "slug": "Weishaupt-Wem-Rg2",
+   "title": "WEM-RG2 Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "WEM-RG2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1721133/Weishaupt-Wem-Rg2.html"
+  },
+  {
+   "manualId": "4565343",
+   "slug": "Weishaupt-Wes-800-Cas-R-B",
+   "title": "WES 1000 Cas-R / B Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "WES 1000 Cas-R / B",
+   "extraModels": [
+    "WES 1000 Cas-R / B",
+    "WES 1000 WP / B",
+    "WES 1250 Cas-R / B",
+    "WES 1500 Cas-R / B",
+    "WES 2000 Cas-R / B",
+    "WES 3000 Cas-R / B"
+   ],
+   "url": "https://www.manualslib.com/manual/4565343/Weishaupt-Wes-800-Cas-R-B.html"
+  },
+  {
+   "manualId": "4218031",
+   "slug": "Weishaupt-Wg10-0-D-Zm-Ln-Series",
+   "title": "WG10 /0-D ZM-LN Series Manual",
+   "type": "Other",
+   "pages": 124,
+   "productModel": "WG10 /0-D ZM-LN Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4218031/Weishaupt-Wg10-0-D-Zm-Ln-Series.html"
+  },
+  {
+   "manualId": "3382667",
+   "slug": "Weishaupt-Wg10-0-D-Zmi-Series",
+   "title": "WG10 0-D ZMI Series Installation and operating instruction manual",
+   "type": "Installation",
+   "pages": 124,
+   "productModel": "WG10 0-D ZMI Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3382667/Weishaupt-Wg10-0-D-Zmi-Series.html"
+  },
+  {
+   "manualId": "2539030",
+   "slug": "Weishaupt-Wg10-1-C-Series",
+   "title": "WG10 1-C Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "WG10 1-C Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2539030/Weishaupt-Wg10-1-C-Series.html"
+  },
+  {
+   "manualId": "3714368",
+   "slug": "Weishaupt-Wg10-1-D-Ln-Series",
+   "title": "WG10 1-D LN Series Installation And Operating Instruction",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "WG10 1-D LN Series",
+   "extraModels": [
+    "WG10N/-1D LN"
+   ],
+   "url": "https://www.manualslib.com/manual/3714368/Weishaupt-Wg10-1-D-Ln-Series.html"
+  },
+  {
+   "manualId": "4042190",
+   "slug": "Weishaupt-Wg10-1-D-Zm-Ln-Series",
+   "title": "WG10 1-D LN Series Installation And Operating Instruction",
+   "type": "Installation",
+   "pages": 124,
+   "productModel": "WG10 1-D LN Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4042190/Weishaupt-Wg10-1-D-Zm-Ln-Series.html"
+  },
+  {
+   "manualId": "2536916",
+   "slug": "Weishaupt-Wg10-Series",
+   "title": "WG10 Series Manual",
+   "type": "Other",
+   "pages": 112,
+   "productModel": "WG10 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2536916/Weishaupt-Wg10-Series.html"
+  },
+  {
+   "manualId": "3239044",
+   "slug": "Weishaupt-Wg10-1-D-Z-Ln-Series",
+   "title": "WG10/1-D Z-LN Series Installation And Operating Instruction",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "WG10/1-D Z-LN Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3239044/Weishaupt-Wg10-1-D-Z-Ln-Series.html"
+  },
+  {
+   "manualId": "3692976",
+   "slug": "Weishaupt-Wg10-1-D-Zm-Ln-Series",
+   "title": "WG10/1-D Z-LN Series Installation and operating instruction manual",
+   "type": "Installation",
+   "pages": 112,
+   "productModel": "WG10/1-D Z-LN Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3692976/Weishaupt-Wg10-1-D-Zm-Ln-Series.html"
+  },
+  {
+   "manualId": "2365302",
+   "slug": "Weishaupt-Wg20-1-C-Ln-Series",
+   "title": "WG20 /1-C LN Series Manual",
+   "type": "Other",
+   "pages": 96,
+   "productModel": "WG20 /1-C LN Series",
+   "extraModels": [
+    "WG5/1-A LN Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2365302/Weishaupt-Wg20-1-C-Ln-Series.html"
+  },
+  {
+   "manualId": "2525885",
+   "slug": "Weishaupt-Wg40n-1-A-Zm-Ln",
+   "title": "WG20 1-C Z-LN Series Manual",
+   "type": "Other",
+   "pages": 128,
+   "productModel": "WG20 1-C Z-LN Series",
+   "extraModels": [
+    "WG20 1-C Z-LN Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2525885/Weishaupt-Wg40n-1-A-Zm-Ln.html"
+  },
+  {
+   "manualId": "2544375",
+   "slug": "Weishaupt-Wg20-1-C-Z-Ln-Series",
+   "title": "WG20 1-C Z-LN Series Manual",
+   "type": "Other",
+   "pages": 96,
+   "productModel": "WG20 1-C Z-LN Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2544375/Weishaupt-Wg20-1-C-Z-Ln-Series.html"
+  },
+  {
+   "manualId": "2753120",
+   "slug": "Weishaupt-Wg20-Series",
+   "title": "WG20 Series Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "WG20 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2753120/Weishaupt-Wg20-Series.html"
+  },
+  {
+   "manualId": "3709360",
+   "slug": "Weishaupt-Wg20-1-C-Zm-Ln-Series",
+   "title": "WG20/1-C ZM-LN Series Manual",
+   "type": "Other",
+   "pages": 116,
+   "productModel": "WG20/1-C ZM-LN Series",
+   "extraModels": [
+    "WG20N/1-C ZM-LN"
+   ],
+   "url": "https://www.manualslib.com/manual/3709360/Weishaupt-Wg20-1-C-Zm-Ln-Series.html"
+  },
+  {
+   "manualId": "2532744",
+   "slug": "Weishaupt-Wg30-1-C-Zm-Ln-Series",
+   "title": "WG30 1-C ZM-LN Series Manual",
+   "type": "Other",
+   "pages": 124,
+   "productModel": "WG30 1-C ZM-LN Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2532744/Weishaupt-Wg30-1-C-Zm-Ln-Series.html"
+  },
+  {
+   "manualId": "3099441",
+   "slug": "Weishaupt-Wg40-3-A-Zm-Pln-Series",
+   "title": "WG40 /3-A ZM-PLN Series Installation and operating instruction",
+   "type": "Installation",
+   "pages": 136,
+   "productModel": "WG40 /3-A ZM-PLN Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3099441/Weishaupt-Wg40-3-A-Zm-Pln-Series.html"
+  },
+  {
+   "manualId": "4647877",
+   "slug": "Weishaupt-Wg40-1-A-Zm-Ln-Series",
+   "title": "WG40 1-A ZM-LN Series Manual",
+   "type": "Other",
+   "pages": 136,
+   "productModel": "WG40 1-A ZM-LN Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4647877/Weishaupt-Wg40-1-A-Zm-Ln-Series.html"
+  },
+  {
+   "manualId": "3188159",
+   "slug": "Weishaupt-Wg40-2-A-Zm-Pln-Series",
+   "title": "WG40 2-A ZM-PLN Series Installation and operating instruction",
+   "type": "Installation",
+   "pages": 128,
+   "productModel": "WG40 2-A ZM-PLN Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3188159/Weishaupt-Wg40-2-A-Zm-Pln-Series.html"
+  },
+  {
+   "manualId": "3704077",
+   "slug": "Weishaupt-Wg5-1-A-Ln-Series",
+   "title": "WG5/1-A LN Series Installation and operating instruction manual",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "WG5/1-A LN Series",
+   "extraModels": [
+    "WG5N/-1A LN"
+   ],
+   "url": "https://www.manualslib.com/manual/3704077/Weishaupt-Wg5-1-A-Ln-Series.html"
+  },
+  {
+   "manualId": "2597830",
+   "slug": "Weishaupt-Wgl30-1-C-Zm",
+   "title": "WGL30/1-C ZM Installation and operating instruction",
+   "type": "Installation",
+   "pages": 144,
+   "productModel": "WGL30/1-C ZM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2597830/Weishaupt-Wgl30-1-C-Zm.html"
+  },
+  {
+   "manualId": "4221361",
+   "slug": "Weishaupt-Whi-Apartment-12",
+   "title": "WHI apartment 12 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "WHI apartment 12",
+   "extraModels": [
+    "WHI apartment 18",
+    "WHI apartment 25"
+   ],
+   "url": "https://www.manualslib.com/manual/4221361/Weishaupt-Whi-Apartment-12.html"
+  },
+  {
+   "manualId": "3637786",
+   "slug": "Weishaupt-Whi-Circuload-9",
+   "title": "WHI circuload 9 Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "WHI circuload 9",
+   "extraModels": [
+    "40900015152",
+    "40900015162",
+    "40900019062",
+    "40900019072",
+    "WHI circuload 9 1",
+    "WHI circuload 9 2",
+    "WHI circuload 9 3",
+    "WHI circuload 9 4"
+   ],
+   "url": "https://www.manualslib.com/manual/3637786/Weishaupt-Whi-Circuload-9.html"
+  },
+  {
+   "manualId": "1571821",
+   "slug": "Weishaupt-Whi-Freshaqua-22-1",
+   "title": "WHI freshaqua 22 #1 Mounting and operating instructions",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "WHI freshaqua 22 #1",
+   "extraModels": [
+    "WHI freshaqua 22 #2",
+    "WHI freshaqua 22 #3",
+    "WHI freshaqua 22 #4"
+   ],
+   "url": "https://www.manualslib.com/manual/1571821/Weishaupt-Whi-Freshaqua-22-1.html"
+  },
+  {
+   "manualId": "1633922",
+   "slug": "Weishaupt-Whi-Freshaqua-44",
+   "title": "WHI freshaqua 44 Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "WHI freshaqua 44",
+   "extraModels": [
+    "WHI freshaqua 55"
+   ],
+   "url": "https://www.manualslib.com/manual/1633922/Weishaupt-Whi-Freshaqua-44.html"
+  },
+  {
+   "manualId": "2531410",
+   "slug": "Weishaupt-Whi-Circuload-9-1",
+   "title": "WHI load-E 90 #1 Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "WHI load-E 90 #1",
+   "extraModels": [
+    "WHI load-E 90 #1",
+    "WHI circuload 9 2",
+    "WHI load-E 125 #1"
+   ],
+   "url": "https://www.manualslib.com/manual/2531410/Weishaupt-Whi-Circuload-9-1.html"
+  },
+  {
+   "manualId": "4565345",
+   "slug": "Weishaupt-Whi-Load-E-90-1",
+   "title": "WHI load-E 90 #1 Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "WHI load-E 90 #1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4565345/Weishaupt-Whi-Load-E-90-1.html"
+  },
+  {
+   "manualId": "3959702",
+   "slug": "Weishaupt-Whi-Sol-Heat-20-2",
+   "title": "WHI sol-aqua 20 #2 Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "WHI sol-aqua 20 #2",
+   "extraModels": [
+    "WHI sol-aqua 20 #2",
+    "WHI sol-aqua 40 #2",
+    "WHI sol-heat 40 #3"
+   ],
+   "url": "https://www.manualslib.com/manual/3959702/Weishaupt-Whi-Sol-Heat-20-2.html"
+  },
+  {
+   "manualId": "2548581",
+   "slug": "Weishaupt-Whi-Sol-Heat-20-1",
+   "title": "WHI sol/aqua 20 1 Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "WHI sol/aqua 20 1",
+   "extraModels": [
+    "WHI sol/aqua 20 1",
+    "WHI sol/aqua 40 1",
+    "WHI sol/heat 40 1"
+   ],
+   "url": "https://www.manualslib.com/manual/2548581/Weishaupt-Whi-Sol-Heat-20-1.html"
+  },
+  {
+   "manualId": "3778920",
+   "slug": "Weishaupt-Whi-Sol-Heat-60",
+   "title": "WHI sol/heat 60 Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "WHI sol/heat 60",
+   "extraModels": [
+    "WHI sol/aqua 60"
+   ],
+   "url": "https://www.manualslib.com/manual/3778920/Weishaupt-Whi-Sol-Heat-60.html"
+  },
+  {
+   "manualId": "4037106",
+   "slug": "Weishaupt-Wl10-40-Series",
+   "title": "WL10 40 Series Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "WL10 40 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4037106/Weishaupt-Wl10-40-Series.html"
+  },
+  {
+   "manualId": "2513690",
+   "slug": "Weishaupt-Wl10-1-D-1ln",
+   "title": "WL10/1-D 1LN Manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "WL10/1-D 1LN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2513690/Weishaupt-Wl10-1-D-1ln.html"
+  },
+  {
+   "manualId": "4022295",
+   "slug": "Weishaupt-Wl10-1-D-Z",
+   "title": "WL10/1-D Z Installation and operating instruction",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "WL10/1-D Z",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4022295/Weishaupt-Wl10-1-D-Z.html"
+  },
+  {
+   "manualId": "2469956",
+   "slug": "Weishaupt-Wl10-2-C-Z",
+   "title": "WL10/2-C Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "WL10/2-C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2469956/Weishaupt-Wl10-2-C-Z.html"
+  },
+  {
+   "manualId": "4115749",
+   "slug": "Weishaupt-Wl10-2-D-1ln",
+   "title": "WL10/2-D 1LN Manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "WL10/2-D 1LN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4115749/Weishaupt-Wl10-2-D-1ln.html"
+  },
+  {
+   "manualId": "2388027",
+   "slug": "Weishaupt-Wl10-2-D",
+   "title": "WL10/2-D Installation and operating instruction",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "WL10/2-D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2388027/Weishaupt-Wl10-2-D.html"
+  },
+  {
+   "manualId": "2671742",
+   "slug": "Weishaupt-Wl10-3-D",
+   "title": "WL10/3-D Manual",
+   "type": "Other",
+   "pages": 76,
+   "productModel": "WL10/3-D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2671742/Weishaupt-Wl10-3-D.html"
+  },
+  {
+   "manualId": "3253464",
+   "slug": "Weishaupt-Wl20-1-C",
+   "title": "WL20/1-C Manual",
+   "type": "Other",
+   "pages": 76,
+   "productModel": "WL20/1-C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3253464/Weishaupt-Wl20-1-C.html"
+  },
+  {
+   "manualId": "2476295",
+   "slug": "Weishaupt-Wl20-1-C-Z",
+   "title": "WL20/1-C Z Manual",
+   "type": "Other",
+   "pages": 84,
+   "productModel": "WL20/1-C Z",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2476295/Weishaupt-Wl20-1-C-Z.html"
+  },
+  {
+   "manualId": "2331832",
+   "slug": "Weishaupt-Wl20-2-C",
+   "title": "WL20/2-C Installation and operating instruction",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "WL20/2-C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2331832/Weishaupt-Wl20-2-C.html"
+  },
+  {
+   "manualId": "2416599",
+   "slug": "Weishaupt-Wl20-2-C-Z",
+   "title": "WL20/2-C Z Installation and operating instruction",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "WL20/2-C Z",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2416599/Weishaupt-Wl20-2-C-Z.html"
+  },
+  {
+   "manualId": "3265676",
+   "slug": "Weishaupt-Wl30z-C-4ln",
+   "title": "WL30Z-C 4LN Manual",
+   "type": "Other",
+   "pages": 112,
+   "productModel": "WL30Z-C 4LN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3265676/Weishaupt-Wl30z-C-4ln.html"
+  },
+  {
+   "manualId": "2513681",
+   "slug": "Weishaupt-Wl40z-A-1ln",
+   "title": "WL40Z-A 1LN Manual",
+   "type": "Other",
+   "pages": 112,
+   "productModel": "WL40Z-A 1LN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2513681/Weishaupt-Wl40z-A-1ln.html"
+  },
+  {
+   "manualId": "2476296",
+   "slug": "Weishaupt-Wl40z-A",
+   "title": "WL40Z-A Manual",
+   "type": "Other",
+   "pages": 112,
+   "productModel": "WL40Z-A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2476296/Weishaupt-Wl40z-A.html"
+  },
+  {
+   "manualId": "2505335",
+   "slug": "Weishaupt-Wl5-1-B-H-2ln",
+   "title": "WL5/1-B H-2LN Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "WL5/1-B H-2LN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2505335/Weishaupt-Wl5-1-B-H-2ln.html"
+  },
+  {
+   "manualId": "2504810",
+   "slug": "Weishaupt-Wl5-1-B",
+   "title": "WL5/1-B Manual",
+   "type": "Other",
+   "pages": 76,
+   "productModel": "WL5/1-B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2504810/Weishaupt-Wl5-1-B.html"
+  },
+  {
+   "manualId": "4576395",
+   "slug": "Weishaupt-Wpm-5-0",
+   "title": "WPM 5.0 Instruksjonsbok",
+   "type": "Other",
+   "pages": 76,
+   "productModel": "WPM 5.0",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4576395/Weishaupt-Wpm-5-0.html"
+  },
+  {
+   "manualId": "4583022",
+   "slug": "Weishaupt-Wpm-6-0",
+   "title": "WPM 6.0 Monterings- Og Bruksanvisning",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "WPM 6.0",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4583022/Weishaupt-Wpm-6-0.html"
+  },
+  {
+   "manualId": "2387882",
+   "slug": "Weishaupt-Wrs",
+   "title": "WRS Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "WRS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2387882/Weishaupt-Wrs.html"
+  },
+  {
+   "manualId": "2582743",
+   "slug": "Weishaupt-Wrsol-1-0",
+   "title": "WRSol 1.0 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "WRSol 1.0",
+   "extraModels": [
+    "WRSol 2.0"
+   ],
+   "url": "https://www.manualslib.com/manual/2582743/Weishaupt-Wrsol-1-0.html"
+  },
+  {
+   "manualId": "2519099",
+   "slug": "Weishaupt-Wrsol-1-0",
+   "title": "WRSol 1.0 Manual",
+   "type": "Other",
+   "pages": 98,
+   "productModel": "WRSol 1.0",
+   "extraModels": [
+    "WRSol 2.0"
+   ],
+   "url": "https://www.manualslib.com/manual/2519099/Weishaupt-Wrsol-1-0.html"
+  },
+  {
+   "manualId": "3704474",
+   "slug": "Weishaupt-Wrsol-1-1",
+   "title": "WRSol 1.1 Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "WRSol 1.1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3704474/Weishaupt-Wrsol-1-1.html"
+  },
+  {
+   "manualId": "4640675",
+   "slug": "Weishaupt-Wrsol-2-1",
+   "title": "WRSol 2.1 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 144,
+   "productModel": "WRSol 2.1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4640675/Weishaupt-Wrsol-2-1.html"
+  },
+  {
+   "manualId": "832991",
+   "slug": "Weishaupt-Wtc-45-A",
+   "title": "WTC 45-A Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 90,
+   "productModel": "WTC 45-A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/832991/Weishaupt-Wtc-45-A.html"
+  },
+  {
+   "manualId": "3826349",
+   "slug": "Weishaupt-Wtc-60-A",
+   "title": "WTC 60-A Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 90,
+   "productModel": "WTC 60-A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3826349/Weishaupt-Wtc-60-A.html"
+  },
+  {
+   "manualId": "2066978",
+   "slug": "Weishaupt-Wtc-G-15-Series",
+   "title": "WTC-G 15 Series Operating Notes",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "WTC-G 15 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2066978/Weishaupt-Wtc-G-15-Series.html"
+  },
+  {
+   "manualId": "3707895",
+   "slug": "Weishaupt-Wtc-Gb-120-A",
+   "title": "WTC-GB 120-A Installation and operating instruction",
+   "type": "Installation",
+   "pages": 108,
+   "productModel": "WTC-GB 120-A",
+   "extraModels": [
+    "WTC-GB 170-A",
+    "WTC-GB 210-A",
+    "WTC-GB 250-A",
+    "WTC-GB 300-A",
+    "WTC-GB 90-A"
+   ],
+   "url": "https://www.manualslib.com/manual/3707895/Weishaupt-Wtc-Gb-120-A.html"
+  },
+  {
+   "manualId": "1646273",
+   "slug": "Weishaupt-Wtc-Gb-15-B-Compact",
+   "title": "WTC-GB 15-B Compact Installation And Operating Instruction",
+   "type": "Installation",
+   "pages": 196,
+   "productModel": "WTC-GB 15-B Compact",
+   "extraModels": [
+    "WTC-GB 25-B Compact"
+   ],
+   "url": "https://www.manualslib.com/manual/1646273/Weishaupt-Wtc-Gb-15-B-Compact.html"
+  },
+  {
+   "manualId": "1185658",
+   "slug": "Weishaupt-Wtc-Gb-90-A",
+   "title": "WTC-GB 90-A Installation and operating instruction",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "WTC-GB 90-A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1185658/Weishaupt-Wtc-Gb-90-A.html"
+  },
+  {
+   "manualId": "2506913",
+   "slug": "Weishaupt-Wtc-Ob-18-B",
+   "title": "WTC-OB 18-B Manual",
+   "type": "Other",
+   "pages": 132,
+   "productModel": "WTC-OB 18-B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2506913/Weishaupt-Wtc-Ob-18-B.html"
+  },
+  {
+   "manualId": "1175077",
+   "slug": "Weishaupt-Wwp-L-7",
+   "title": "WWP L 10 Installation And Operating Instruction",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "WWP L 10",
+   "extraModels": [
+    "WWP L 10",
+    "WWP L 11",
+    "WWP L 12",
+    "WWP L 13",
+    "WWP L 14",
+    "WWP L 15",
+    "WWP L 8",
+    "WWP L 9"
+   ],
+   "url": "https://www.manualslib.com/manual/1175077/Weishaupt-Wwp-L-7.html"
+  },
+  {
+   "manualId": "1267345",
+   "slug": "Weishaupt-Wwp-L-15-Ars",
+   "title": "WWP L 15 ARS Installation And Operating Instruction",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "WWP L 15 ARS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1267345/Weishaupt-Wwp-L-15-Ars.html"
+  },
+  {
+   "manualId": "4587928",
+   "slug": "Weishaupt-Wwp-L-8-Ik-2",
+   "title": "WWP L 8 IK-2 Monterings- Og Bruksanvisning",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "WWP L 8 IK-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4587928/Weishaupt-Wwp-L-8-Ik-2.html"
+  },
+  {
+   "manualId": "4578405",
+   "slug": "Weishaupt-Wwp-La-6-A",
+   "title": "WWP LA 6-A Monterings- Og Bruksanvisning",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "WWP LA 6-A",
+   "extraModels": [
+    "WWP LA 6-AR"
+   ],
+   "url": "https://www.manualslib.com/manual/4578405/Weishaupt-Wwp-La-6-A.html"
+  },
+  {
+   "manualId": "2990380",
+   "slug": "Weishaupt-Wwp-La-60-A-R",
+   "title": "WWP LA 60-A R Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "WWP LA 60-A R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2990380/Weishaupt-Wwp-La-60-A-R.html"
+  },
+  {
+   "manualId": "3045040",
+   "slug": "Weishaupt-Wwp-Li-16-A-R",
+   "title": "WWP LI 16-A R Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "WWP LI 16-A R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3045040/Weishaupt-Wwp-Li-16-A-R.html"
+  },
+  {
+   "manualId": "4101504",
+   "slug": "Weishaupt-Wwp-Li-22-A-R",
+   "title": "WWP LI 22-A R Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "WWP LI 22-A R",
+   "extraModels": [
+    "WWP LI 26-A R"
+   ],
+   "url": "https://www.manualslib.com/manual/4101504/Weishaupt-Wwp-Li-22-A-R.html"
+  },
+  {
+   "manualId": "3859863",
+   "slug": "Weishaupt-Wwp-Ls-10-B-R-He",
+   "title": "WWP LS 10-B R HE Installation and operating instruction",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "WWP LS 10-B R HE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3859863/Weishaupt-Wwp-Ls-10-B-R-He.html"
+  },
+  {
+   "manualId": "1646275",
+   "slug": "Weishaupt-Wwp-Ls-8-B-R-E-He",
+   "title": "WWP LS 10-B R-E HE Installation and operating instruction",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "WWP LS 10-B R-E HE",
+   "extraModels": [
+    "WWP LS 10-B R-E HE",
+    "WWP LS 13-B R HE",
+    "WWP LS 13-B R-E HE"
+   ],
+   "url": "https://www.manualslib.com/manual/1646275/Weishaupt-Wwp-Ls-8-B-R-E-He.html"
+  },
+  {
+   "manualId": "3859862",
+   "slug": "Weishaupt-Wwp-Ls-16-B-R-He",
+   "title": "WWP LS 16-B R HE Installation and operating instruction",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "WWP LS 16-B R HE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3859862/Weishaupt-Wwp-Ls-16-B-R-He.html"
+  },
+  {
+   "manualId": "3454006",
+   "slug": "Weishaupt-Wwp-S-26-Id",
+   "title": "WWP S 26 ID Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "WWP S 26 ID",
+   "extraModels": [
+    "WWP S 35 ID"
+   ],
+   "url": "https://www.manualslib.com/manual/3454006/Weishaupt-Wwp-S-26-Id.html"
+  },
+  {
+   "manualId": "2784094",
+   "slug": "Weishaupt-Wwp-Rg1",
+   "title": "WWP-RG1 Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "WWP-RG1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2784094/Weishaupt-Wwp-Rg1.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "weishaupt"
+ ]
+}

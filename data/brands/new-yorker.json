@@ -1,0 +1,923 @@
+{
+ "brand": "New Yorker",
+ "brandSlug": "new-yorker",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/new-yorker/"
+ ],
+ "slugUsed": "new-yorker",
+ "capturedAt": "2026-10-28T08:45:28.699039+00:00",
+ "typePages": [
+  {
+   "path": "/brand/new-yorker/boiler.html",
+   "manuals": 361,
+   "status": 200
+  },
+  {
+   "path": "/brand/new-yorker/water-heater.html",
+   "manuals": 8,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "791682",
+   "slug": "New-Yorker-Ap-U-Series",
+   "title": "AP-490U Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "AP-490U",
+   "extraModels": [
+    "AP-490U",
+    "AP-590U",
+    "AP-690U",
+    "AP-790U"
+   ],
+   "url": "https://www.manualslib.com/manual/791682/New-Yorker-Ap-U-Series.html"
+  },
+  {
+   "manualId": "984788",
+   "slug": "New-Yorker-Ap-490u",
+   "title": "AP-490U Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "AP-490U",
+   "extraModels": [
+    "AP-590U",
+    "AP-690U",
+    "AP-790U"
+   ],
+   "url": "https://www.manualslib.com/manual/984788/New-Yorker-Ap-490u.html"
+  },
+  {
+   "manualId": "1633452",
+   "slug": "New-Yorker-Ap-U-Series",
+   "title": "AP-490U Installation, Operation And Service Instructions",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "AP-490U",
+   "extraModels": [
+    "AP-490U",
+    "AP-590U",
+    "AP-690U",
+    "AP-790U"
+   ],
+   "url": "https://www.manualslib.com/manual/1633452/New-Yorker-Ap-U-Series.html"
+  },
+  {
+   "manualId": "2308525",
+   "slug": "New-Yorker-Ap-U-Ap-110u-N",
+   "title": "AP-U AP-110U-N Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "AP-U AP-110U-N",
+   "extraModels": [
+    "AP-U AP-110U-T",
+    "AP-U AP-154U-N"
+   ],
+   "url": "https://www.manualslib.com/manual/2308525/New-Yorker-Ap-U-Ap-110u-N.html"
+  },
+  {
+   "manualId": "3882721",
+   "slug": "New-Yorker-Ap-U-Ap-154u-T",
+   "title": "AP-U AP-154U-T Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "AP-U AP-154U-T",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3882721/New-Yorker-Ap-U-Ap-154u-T.html"
+  },
+  {
+   "manualId": "791127",
+   "slug": "New-Yorker-Cg-C-Series",
+   "title": "CG-C Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "CG-C Series",
+   "extraModels": [
+    "CG100C",
+    "CG20C",
+    "CG30C",
+    "CG40C",
+    "CG50C",
+    "CG60C",
+    "CG70C",
+    "CG80C",
+    "CG90C"
+   ],
+   "url": "https://www.manualslib.com/manual/791127/New-Yorker-Cg-C-Series.html"
+  },
+  {
+   "manualId": "906640",
+   "slug": "New-Yorker-Cg-C-Series",
+   "title": "CG-C Series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "CG-C Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/906640/New-Yorker-Cg-C-Series.html"
+  },
+  {
+   "manualId": "705739",
+   "slug": "New-Yorker-Cg20d",
+   "title": "CG-D 100 Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "CG-D 100",
+   "extraModels": [
+    "CG-D 100",
+    "CG-D 20",
+    "CG-D 30",
+    "CG-D 40",
+    "CG-D 50",
+    "CG-D 60",
+    "CG-D 70",
+    "CG-D 80",
+    "CG-D 90",
+    "CG-D Se",
+    "CG-D SERIES",
+    "CG100D",
+    "CG30D",
+    "CG40D",
+    "CG50D",
+    "CG60D",
+    "CG70D",
+    "CG80D",
+    "CG90D"
+   ],
+   "url": "https://www.manualslib.com/manual/705739/New-Yorker-Cg20d.html"
+  },
+  {
+   "manualId": "3274584",
+   "slug": "New-Yorker-Cg20f",
+   "title": "CG20F Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "CG20F",
+   "extraModels": [
+    "CG-F Series",
+    "CG30F",
+    "CG40F",
+    "CG50F",
+    "CG60F",
+    "CG70F",
+    "CG80F",
+    "CG90F"
+   ],
+   "url": "https://www.manualslib.com/manual/3274584/New-Yorker-Cg20f.html"
+  },
+  {
+   "manualId": "3210101",
+   "slug": "New-Yorker-Cg30e-Series",
+   "title": "CG30E Series Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "CG30E Series",
+   "extraModels": [
+    "CG50E Series",
+    "CG60E Series",
+    "CG70E Series",
+    "CG80E Series",
+    "CG90E Series",
+    "NCG30ENT",
+    "NCG30EPT",
+    "NCG40ENT",
+    "NCG40EPT",
+    "NCG50ENT",
+    "NCG50EPT",
+    "NCG60ENT",
+    "NCG60EPT",
+    "NCG70ENT",
+    "NCG70EPT",
+    "NCG80ENT",
+    "NCG80EPT",
+    "NCG90ENT"
+   ],
+   "url": "https://www.manualslib.com/manual/3210101/New-Yorker-Cg30e-Series.html"
+  },
+  {
+   "manualId": "3923658",
+   "slug": "New-Yorker-Cg40e-Series",
+   "title": "CG40E Series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "CG40E Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3923658/New-Yorker-Cg40e-Series.html"
+  },
+  {
+   "manualId": "4325802",
+   "slug": "New-Yorker-Cgs-A-Series",
+   "title": "CGS 0A Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "CGS 0A",
+   "extraModels": [
+    "CGS 0A",
+    "CGS-30",
+    "CGS-40",
+    "CGS-50",
+    "CGS-60",
+    "CGS-70",
+    "CGS-80"
+   ],
+   "url": "https://www.manualslib.com/manual/4325802/New-Yorker-Cgs-A-Series.html"
+  },
+  {
+   "manualId": "894586",
+   "slug": "New-Yorker-Cgs-A-Series",
+   "title": "CGS-A Series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "CGS-A Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/894586/New-Yorker-Cgs-A-Series.html"
+  },
+  {
+   "manualId": "3540227",
+   "slug": "New-Yorker-Cgs30c",
+   "title": "CGS30C Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "CGS30C",
+   "extraModels": [
+    "CGS-C Series",
+    "CGS50C",
+    "CGS60C",
+    "CGS70C",
+    "CGS80C"
+   ],
+   "url": "https://www.manualslib.com/manual/3540227/New-Yorker-Cgs30c.html"
+  },
+  {
+   "manualId": "3939401",
+   "slug": "New-Yorker-Cgs40c",
+   "title": "CGS40C Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "CGS40C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3939401/New-Yorker-Cgs40c.html"
+  },
+  {
+   "manualId": "1604381",
+   "slug": "New-Yorker-Ci-Hgs-Series",
+   "title": "CI-HGS Series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "CI-HGS Series",
+   "extraModels": [
+    "CI-HGS-101",
+    "CI-HGS-127",
+    "CI-HGS-163",
+    "CI-HGS-72"
+   ],
+   "url": "https://www.manualslib.com/manual/1604381/New-Yorker-Ci-Hgs-Series.html"
+  },
+  {
+   "manualId": "2727442",
+   "slug": "New-Yorker-Ci-Hgs-B-Series",
+   "title": "CI-HGS-101B Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "CI-HGS-101B",
+   "extraModels": [
+    "CI-HGS-101B",
+    "CI-HGS-101B-LB",
+    "CI-HGS-129B",
+    "CI-HGS-129B-LB",
+    "CI-HGS-129B-LL",
+    "CI-HGS-167B",
+    "CI-HGS-167B-LB",
+    "CI-HGS-167B-LL",
+    "CI-HGS-74B",
+    "CI-HGS-74B-LB"
+   ],
+   "url": "https://www.manualslib.com/manual/2727442/New-Yorker-Ci-Hgs-B-Series.html"
+  },
+  {
+   "manualId": "2330684",
+   "slug": "New-Yorker-Ci-Hgs-E",
+   "title": "CI-HGS-101E Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "CI-HGS-101E",
+   "extraModels": [
+    "CI-HGS-101E",
+    "CI-HGS-123E",
+    "CI-HGS-160E",
+    "CI-HGS-74E"
+   ],
+   "url": "https://www.manualslib.com/manual/2330684/New-Yorker-Ci-Hgs-E.html"
+  },
+  {
+   "manualId": "2012326",
+   "slug": "New-Yorker-Cl-Water-Series",
+   "title": "CL3 Water Series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "CL3 Water Series",
+   "extraModels": [
+    "CL3 Water Series",
+    "CL3-105WE-T",
+    "CL3-140WE",
+    "CL3-140WE-T",
+    "CL4 Water Series",
+    "CL4-168WE",
+    "CL4-168WE-T",
+    "CL4-210WE",
+    "CL4-210WE-T",
+    "CL5 Water Series",
+    "CL5-245WE",
+    "CL5-245WE-T",
+    "CL5-266WE",
+    "CL5-266WE-T",
+    "New Yorker CL Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2012326/New-Yorker-Cl-Water-Series.html"
+  },
+  {
+   "manualId": "2012329",
+   "slug": "New-Yorker-Cl-Steam-Series",
+   "title": "CL3 Water Series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "CL3 Water Series",
+   "extraModels": [
+    "CL3 Water Series",
+    "CL3-105SE",
+    "CL3-105SET",
+    "CL3-140SE",
+    "CL3-140SET",
+    "CL4 Water Series",
+    "CL4-168SE",
+    "CL4-168SET",
+    "CL4-210SE",
+    "CL4-210SET",
+    "CL5 Water Series",
+    "CL5-245SE",
+    "CL5-245SET",
+    "CL5-266SE",
+    "CL5-266SET",
+    "New Yorker CL Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2012329/New-Yorker-Cl-Steam-Series.html"
+  },
+  {
+   "manualId": "47631",
+   "slug": "New-Yorker-New-Yorker-Cl-Series",
+   "title": "CL3-091 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "CL3-091",
+   "extraModels": [
+    "CL3-091",
+    "CL3-105",
+    "CL3-140",
+    "CL4-126",
+    "CL4-175",
+    "CL4-210",
+    "CL5-168",
+    "CL5-245",
+    "CL5-280",
+    "New Yorker F3",
+    "New Yorker F5",
+    "Riello 40 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/47631/New-Yorker-New-Yorker-Cl-Series.html"
+  },
+  {
+   "manualId": "3873010",
+   "slug": "New-Yorker-Cl3-105we",
+   "title": "CL3-105WE Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "CL3-105WE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3873010/New-Yorker-Cl3-105we.html"
+  },
+  {
+   "manualId": "3829853",
+   "slug": "New-Yorker-Cl3-140",
+   "title": "CL3-140 Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "CL3-140",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3829853/New-Yorker-Cl3-140.html"
+  },
+  {
+   "manualId": "3829854",
+   "slug": "New-Yorker-Cl4-210",
+   "title": "CL4-210 Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "CL4-210",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3829854/New-Yorker-Cl4-210.html"
+  },
+  {
+   "manualId": "967616",
+   "slug": "New-Yorker-Classic-Cgs-A-Series",
+   "title": "Classic CGS-A Series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Classic CGS-A Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/967616/New-Yorker-Classic-Cgs-A-Series.html"
+  },
+  {
+   "manualId": "2393583",
+   "slug": "New-Yorker-Cls-Series",
+   "title": "CLS SERIES Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "CLS SERIES",
+   "extraModels": [
+    "CLS-3",
+    "CLS-4",
+    "CLS-5",
+    "CLS-6",
+    "CLS-7",
+    "CLS-8"
+   ],
+   "url": "https://www.manualslib.com/manual/2393583/New-Yorker-Cls-Series.html"
+  },
+  {
+   "manualId": "810277",
+   "slug": "New-Yorker-Cls-Series",
+   "title": "CLS SERIES Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "CLS SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/810277/New-Yorker-Cls-Series.html"
+  },
+  {
+   "manualId": "912603",
+   "slug": "New-Yorker-Fr-Series",
+   "title": "FR SERIES operating instructions manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "FR SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/912603/New-Yorker-Fr-Series.html"
+  },
+  {
+   "manualId": "2416399",
+   "slug": "New-Yorker-Fr-Hgs-Series",
+   "title": "FR-205 Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "FR-205",
+   "extraModels": [
+    "FR-205",
+    "FR122E",
+    "FR122E-T",
+    "FR173E",
+    "FR173E-T",
+    "FR232E",
+    "FR232E-T",
+    "FRHGSL",
+    "R205"
+   ],
+   "url": "https://www.manualslib.com/manual/2416399/New-Yorker-Fr-Hgs-Series.html"
+  },
+  {
+   "manualId": "3035486",
+   "slug": "New-Yorker-Ghe-Ii",
+   "title": "GHE II Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 100,
+   "productModel": "GHE II",
+   "extraModels": [
+    "GHE136CBII",
+    "GHE200CBII"
+   ],
+   "url": "https://www.manualslib.com/manual/3035486/New-Yorker-Ghe-Ii.html"
+  },
+  {
+   "manualId": "3035500",
+   "slug": "New-Yorker-Ghe120hbii",
+   "title": "GHE II Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 100,
+   "productModel": "GHE II",
+   "extraModels": [
+    "GHE II",
+    "GHE150HBII",
+    "GHE180HBII"
+   ],
+   "url": "https://www.manualslib.com/manual/3035500/New-Yorker-Ghe120hbii.html"
+  },
+  {
+   "manualId": "3039033",
+   "slug": "New-Yorker-Ghe2c-136b",
+   "title": "GHE II Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 104,
+   "productModel": "GHE II",
+   "extraModels": [
+    "GHE II",
+    "GHE2C-200"
+   ],
+   "url": "https://www.manualslib.com/manual/3039033/New-Yorker-Ghe2c-136b.html"
+  },
+  {
+   "manualId": "3039049",
+   "slug": "New-Yorker-Ghe2-080",
+   "title": "GHE II Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 104,
+   "productModel": "GHE II",
+   "extraModels": [
+    "GHE II",
+    "GHE2-120",
+    "GHE2-120B",
+    "GHE2-150",
+    "GHE2-180"
+   ],
+   "url": "https://www.manualslib.com/manual/3039049/New-Yorker-Ghe2-080.html"
+  },
+  {
+   "manualId": "3033769",
+   "slug": "New-Yorker-Ghe-Ii-Series",
+   "title": "GHE II Series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 104,
+   "productModel": "GHE II Series",
+   "extraModels": [
+    "GHE2C-136",
+    "GHE2C-200"
+   ],
+   "url": "https://www.manualslib.com/manual/3033769/New-Yorker-Ghe-Ii-Series.html"
+  },
+  {
+   "manualId": "3033779",
+   "slug": "New-Yorker-Ghe2-120",
+   "title": "GHE II Series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 104,
+   "productModel": "GHE II Series",
+   "extraModels": [
+    "GHE II Series",
+    "GHE2-150",
+    "GHE2-180"
+   ],
+   "url": "https://www.manualslib.com/manual/3033779/New-Yorker-Ghe2-120.html"
+  },
+  {
+   "manualId": "2715685",
+   "slug": "New-Yorker-Ghe-Series",
+   "title": "GHE Series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 104,
+   "productModel": "GHE Series",
+   "extraModels": [
+    "GHE080A-4L02",
+    "GHE100",
+    "GHE100A-4L02",
+    "GHE120",
+    "GHE120A-4L02",
+    "GHE150",
+    "GHE150A-4L02",
+    "GHE180",
+    "GHE180A-4L02",
+    "GHE80"
+   ],
+   "url": "https://www.manualslib.com/manual/2715685/New-Yorker-Ghe-Series.html"
+  },
+  {
+   "manualId": "906650",
+   "slug": "New-Yorker-Link-Ny27sl",
+   "title": "Link NY119SL Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "Link NY119SL",
+   "extraModels": [
+    "Link NY119SL",
+    "Link NY35SL",
+    "Link NY50SL",
+    "Link NY70SL"
+   ],
+   "url": "https://www.manualslib.com/manual/906650/New-Yorker-Link-Ny27sl.html"
+  },
+  {
+   "manualId": "4172946",
+   "slug": "New-Yorker-Link-Sl-Ny35sl",
+   "title": "Link NY35SL Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "Link NY35SL",
+   "extraModels": [
+    "Link NY50SL",
+    "Link NY70SL"
+   ],
+   "url": "https://www.manualslib.com/manual/4172946/New-Yorker-Link-Sl-Ny35sl.html"
+  },
+  {
+   "manualId": "728019",
+   "slug": "New-Yorker-M",
+   "title": "M Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "M",
+   "extraModels": [
+    "microTEK3",
+    "microTEK3-1",
+    "microTEK3-2"
+   ],
+   "url": "https://www.manualslib.com/manual/728019/New-Yorker-M.html"
+  },
+  {
+   "manualId": "839110",
+   "slug": "New-Yorker-Microtekdv",
+   "title": "microTEKDV Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "microTEKDV",
+   "extraModels": [
+    "microTEKDV Series",
+    "microTEKDV1",
+    "microTEKDV2",
+    "microTEKDV3"
+   ],
+   "url": "https://www.manualslib.com/manual/839110/New-Yorker-Microtekdv.html"
+  },
+  {
+   "manualId": "1243912",
+   "slug": "New-Yorker-Cg-E-Series",
+   "title": "New Yorker CG-E SERIES Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 41,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1243912/New-Yorker-Cg-E-Series.html"
+  },
+  {
+   "manualId": "3259269",
+   "slug": "New-Yorker-Cg-F-Series",
+   "title": "New Yorker CG-F Series Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 52,
+   "productModel": null,
+   "extraModels": [
+    "CG30F",
+    "CG40F",
+    "CG50F",
+    "CG60F",
+    "CG70F",
+    "CG80F",
+    "CG90F"
+   ],
+   "url": "https://www.manualslib.com/manual/3259269/New-Yorker-Cg-F-Series.html"
+  },
+  {
+   "manualId": "4036953",
+   "slug": "New-Yorker-Cg30f",
+   "title": "New Yorker CG30F Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 56,
+   "productModel": null,
+   "extraModels": [
+    "CG-F Series",
+    "CG20F",
+    "CG40F",
+    "CG50F",
+    "CG60F",
+    "CG70F",
+    "CG80F",
+    "CG90F"
+   ],
+   "url": "https://www.manualslib.com/manual/4036953/New-Yorker-Cg30f.html"
+  },
+  {
+   "manualId": "928471",
+   "slug": "New-Yorker-Cgs-C-Series",
+   "title": "New Yorker CGS-C Series Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 53,
+   "productModel": null,
+   "extraModels": [
+    "CGS30C",
+    "CGS40C",
+    "CGS50C",
+    "CGS60C",
+    "CGS70C",
+    "CGS80C"
+   ],
+   "url": "https://www.manualslib.com/manual/928471/New-Yorker-Cgs-C-Series.html"
+  },
+  {
+   "manualId": "924504",
+   "slug": "New-Yorker-Cl3-105",
+   "title": "New Yorker CL3-105 Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 64,
+   "productModel": null,
+   "extraModels": [
+    "CL4-126",
+    "CL4-175",
+    "CL5-168",
+    "CL5-245",
+    "CL5-280"
+   ],
+   "url": "https://www.manualslib.com/manual/924504/New-Yorker-Cl3-105.html"
+  },
+  {
+   "manualId": "1495094",
+   "slug": "New-Yorker-Classic-Cg-A-Series",
+   "title": "New Yorker CLASSIC CG-A SERIES Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 28,
+   "productModel": null,
+   "extraModels": [
+    "CG-A 30",
+    "CG-A 40",
+    "CG-A 50",
+    "CG-A 60",
+    "CG-A 70",
+    "CG-A 80"
+   ],
+   "url": "https://www.manualslib.com/manual/1495094/New-Yorker-Classic-Cg-A-Series.html"
+  },
+  {
+   "manualId": "1489141",
+   "slug": "New-Yorker-Clw-Series",
+   "title": "New Yorker CLW Series Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 29,
+   "productModel": null,
+   "extraModels": [
+    "CLW-3",
+    "CLW-4",
+    "CLW-5",
+    "CLW-6"
+   ],
+   "url": "https://www.manualslib.com/manual/1489141/New-Yorker-Clw-Series.html"
+  },
+  {
+   "manualId": "727750",
+   "slug": "New-Yorker-Fr-Series",
+   "title": "New Yorker FR SERIES Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 40,
+   "productModel": null,
+   "extraModels": [
+    "FR-122",
+    "FR-147",
+    "FR-173",
+    "FR-205",
+    "FR-232",
+    "FR-265",
+    "FR-305",
+    "FR-350",
+    "FR-400",
+    "FR-462",
+    "FR-98",
+    "FR-HGS",
+    "FR-HGSII"
+   ],
+   "url": "https://www.manualslib.com/manual/727750/New-Yorker-Fr-Series.html"
+  },
+  {
+   "manualId": "815416",
+   "slug": "New-Yorker-Fr-Series",
+   "title": "New Yorker FR SERIES Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 56,
+   "productModel": null,
+   "extraModels": [
+    "FR- 122",
+    "FR-122",
+    "FR-147",
+    "FR-173",
+    "FR-205",
+    "FR-232",
+    "FR-265",
+    "FR-305",
+    "FR-350",
+    "FR-400",
+    "FR-462",
+    "FR-98",
+    "FR-HGS",
+    "FR-HGSII"
+   ],
+   "url": "https://www.manualslib.com/manual/815416/New-Yorker-Fr-Series.html"
+  },
+  {
+   "manualId": "3888531",
+   "slug": "New-Yorker-Fr-147",
+   "title": "New Yorker FR-147 Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 52,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3888531/New-Yorker-Fr-147.html"
+  },
+  {
+   "manualId": "900454",
+   "slug": "New-Yorker-Pvcg-A",
+   "title": "New Yorker PVCG-A Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 68,
+   "productModel": null,
+   "extraModels": [
+    "PVCG30B",
+    "PVCG40B",
+    "PVCG50B",
+    "PVCG60B",
+    "PVCG70B",
+    "PVCG80B",
+    "PVCG90B"
+   ],
+   "url": "https://www.manualslib.com/manual/900454/New-Yorker-Pvcg-A.html"
+  },
+  {
+   "manualId": "3091127",
+   "slug": "New-Yorker-Pvcg-C-Series",
+   "title": "New Yorker PVCG-C Series Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 72,
+   "productModel": null,
+   "extraModels": [
+    "PVCG30CN",
+    "PVCG30CP",
+    "PVCG40CN",
+    "PVCG40CP",
+    "PVCG50CN",
+    "PVCG50CP",
+    "PVCG60CN",
+    "PVCG60CP",
+    "PVCG70CN",
+    "PVCG70CP",
+    "PVCG80CN",
+    "PVCG80CP"
+   ],
+   "url": "https://www.manualslib.com/manual/3091127/New-Yorker-Pvcg-C-Series.html"
+  },
+  {
+   "manualId": "1143932",
+   "slug": "New-Yorker-Pvcg-Series",
+   "title": "PVCG SERIES Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "PVCG SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1143932/New-Yorker-Pvcg-Series.html"
+  },
+  {
+   "manualId": "703646",
+   "slug": "New-Yorker-Pvcg-Series",
+   "title": "PVCG SERIES Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "PVCG SERIES",
+   "extraModels": [
+    "PVCG30",
+    "PVCG40",
+    "PVCG50",
+    "PVCG60"
+   ],
+   "url": "https://www.manualslib.com/manual/703646/New-Yorker-Pvcg-Series.html"
+  },
+  {
+   "manualId": "2709448",
+   "slug": "New-Yorker-Pvcg-B-Series",
+   "title": "PVCG-B Series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "PVCG-B Series",
+   "extraModels": [
+    "PVCG30B",
+    "PVCG40B",
+    "PVCG50B",
+    "PVCG60B",
+    "PVCG70B",
+    "PVCG80B",
+    "PVCG90B"
+   ],
+   "url": "https://www.manualslib.com/manual/2709448/New-Yorker-Pvcg-B-Series.html"
+  },
+  {
+   "manualId": "4337364",
+   "slug": "New-Yorker-Wc-90",
+   "title": "WC-130 Installation and operating instruction manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "WC-130",
+   "extraModels": [
+    "WC-130"
+   ],
+   "url": "https://www.manualslib.com/manual/4337364/New-Yorker-Wc-90.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "new-yorker-boiler"
+ ]
+}

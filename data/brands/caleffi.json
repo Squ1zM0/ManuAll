@@ -1,0 +1,3757 @@
+{
+ "brand": "CALEFFI",
+ "brandSlug": "caleffi",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/caleffi/"
+ ],
+ "slugUsed": "caleffi",
+ "capturedAt": "2026-10-28T06:33:06.503643+00:00",
+ "typePages": [
+  {
+   "path": "/brand/caleffi/plumbing-product.html",
+   "manuals": 235,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/accessories.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/audio-and-video-accessories.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/bathroom-fixtures.html",
+   "manuals": 30,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/control-panel.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/control-systems.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/control-unit.html",
+   "manuals": 1095,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/controller.html",
+   "manuals": 91,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/data-loggers.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/digital-manifolds.html",
+   "manuals": 27,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/fan.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/gateway.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/heater.html",
+   "manuals": 20,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/heating-system.html",
+   "manuals": 39,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/measuring-instruments.html",
+   "manuals": 22,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/music-mixer.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/power-supply.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/recording-equipment.html",
+   "manuals": 43,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/relays.html",
+   "manuals": 20,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/remote-control.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/repeater.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/switch.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/temperature-controller.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/thermostat.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/water-dispenser.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/water-filtration-systems.html",
+   "manuals": 234,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/water-pump.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/caleffi/water-system.html",
+   "manuals": 22,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1758267",
+   "slug": "Caleffi-113-Series",
+   "title": "113 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "113 Series",
+   "extraModels": [
+    "113001",
+    "113621",
+    "113631"
+   ],
+   "url": "https://www.manualslib.com/manual/1758267/Caleffi-113-Series.html"
+  },
+  {
+   "manualId": "1982229",
+   "slug": "Caleffi-115-Series",
+   "title": "115 Series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "115 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1982229/Caleffi-115-Series.html"
+  },
+  {
+   "manualId": "1974987",
+   "slug": "Caleffi-Ge-130-Series",
+   "title": "130010 Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "130010",
+   "extraModels": [
+    "130010"
+   ],
+   "url": "https://www.manualslib.com/manual/1974987/Caleffi-Ge-130-Series.html"
+  },
+  {
+   "manualId": "3256859",
+   "slug": "Caleffi-142-Series",
+   "title": "142 Series Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "142 Series",
+   "extraModels": [
+    "142241A",
+    "142251A",
+    "142261A",
+    "142271A",
+    "142281A",
+    "142291A",
+    "CBN142241A",
+    "CBN142251A",
+    "CBN142261A",
+    "CBN142271A",
+    "CBN142281A"
+   ],
+   "url": "https://www.manualslib.com/manual/3256859/Caleffi-142-Series.html"
+  },
+  {
+   "manualId": "2875582",
+   "slug": "Caleffi-145-Series",
+   "title": "145 Series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "145 Series",
+   "extraModels": [
+    "145017"
+   ],
+   "url": "https://www.manualslib.com/manual/2875582/Caleffi-145-Series.html"
+  },
+  {
+   "manualId": "3058833",
+   "slug": "Caleffi-146-Series",
+   "title": "146 Series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "146 Series",
+   "extraModels": [
+    "146060",
+    "146080",
+    "146100",
+    "146120",
+    "146150",
+    "PI06516",
+    "PI08016",
+    "PI10016",
+    "PI12516",
+    "PI15016"
+   ],
+   "url": "https://www.manualslib.com/manual/3058833/Caleffi-146-Series.html"
+  },
+  {
+   "manualId": "4024880",
+   "slug": "Caleffi-146-Series",
+   "title": "146 Series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "146 Series",
+   "extraModels": [
+    "146060",
+    "146080",
+    "146100",
+    "146120",
+    "146150"
+   ],
+   "url": "https://www.manualslib.com/manual/4024880/Caleffi-146-Series.html"
+  },
+  {
+   "manualId": "1974461",
+   "slug": "Caleffi-152-Series",
+   "title": "152 Series quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "152 Series",
+   "extraModels": [
+    "152650",
+    "152651"
+   ],
+   "url": "https://www.manualslib.com/manual/1974461/Caleffi-152-Series.html"
+  },
+  {
+   "manualId": "1771589",
+   "slug": "Caleffi-161010",
+   "title": "161010 Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "161010",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1771589/Caleffi-161010.html"
+  },
+  {
+   "manualId": "3095153",
+   "slug": "Caleffi-200-Series",
+   "title": "200 Series Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "200 Series",
+   "extraModels": [
+    "200000",
+    "200001",
+    "201000",
+    "209 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3095153/Caleffi-200-Series.html"
+  },
+  {
+   "manualId": "3917297",
+   "slug": "Caleffi-201-Series",
+   "title": "201 Series Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "201 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3917297/Caleffi-201-Series.html"
+  },
+  {
+   "manualId": "1982336",
+   "slug": "Caleffi-202-Series",
+   "title": "202 Series Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "202 Series",
+   "extraModels": [
+    "202000"
+   ],
+   "url": "https://www.manualslib.com/manual/1982336/Caleffi-202-Series.html"
+  },
+  {
+   "manualId": "1700732",
+   "slug": "Caleffi-210510",
+   "title": "210 Series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 97,
+   "productModel": "210 Series",
+   "extraModels": [
+    "210001",
+    "210004",
+    "210005",
+    "210006",
+    "210010",
+    "210011",
+    "210100"
+   ],
+   "url": "https://www.manualslib.com/manual/1700732/Caleffi-210510.html"
+  },
+  {
+   "manualId": "1981570",
+   "slug": "Caleffi-210-Series",
+   "title": "210 Series Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "210 Series",
+   "extraModels": [
+    "210006"
+   ],
+   "url": "https://www.manualslib.com/manual/1981570/Caleffi-210-Series.html"
+  },
+  {
+   "manualId": "1981954",
+   "slug": "Caleffi-210-Series",
+   "title": "210 Series Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "210 Series",
+   "extraModels": [
+    "210004"
+   ],
+   "url": "https://www.manualslib.com/manual/1981954/Caleffi-210-Series.html"
+  },
+  {
+   "manualId": "3245456",
+   "slug": "Caleffi-252169a",
+   "title": "2521 Series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "2521 Series",
+   "extraModels": [
+    "252158A"
+   ],
+   "url": "https://www.manualslib.com/manual/3245456/Caleffi-252169a.html"
+  },
+  {
+   "manualId": "1476939",
+   "slug": "Caleffi-2521-Series",
+   "title": "2521 Series Installation, commissioning and servicing instructions",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "2521 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1476939/Caleffi-2521-Series.html"
+  },
+  {
+   "manualId": "2793195",
+   "slug": "Caleffi-Isolar-Plus",
+   "title": "257260A Manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "257260A",
+   "extraModels": [
+    "257260A",
+    "257260A CAL"
+   ],
+   "url": "https://www.manualslib.com/manual/2793195/Caleffi-Isolar-Plus.html"
+  },
+  {
+   "manualId": "2407895",
+   "slug": "Caleffi-311-Series",
+   "title": "311 Series Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "311 Series",
+   "extraModels": [
+    "3124 Series",
+    "3134 Series",
+    "313432",
+    "3135 Series",
+    "313532",
+    "3144 Series",
+    "314432",
+    "314462",
+    "513 Series",
+    "5134 Series",
+    "5136 Series",
+    "5137 Series",
+    "514 Series",
+    "5144 Series",
+    "527 Series",
+    "5274 Series",
+    "5275 Series",
+    "5276 Series",
+    "5277 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2407895/Caleffi-311-Series.html"
+  },
+  {
+   "manualId": "3888060",
+   "slug": "Caleffi-3114-Series",
+   "title": "3114 Series Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "3114 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3888060/Caleffi-3114-Series.html"
+  },
+  {
+   "manualId": "3888061",
+   "slug": "Caleffi-3115-Series",
+   "title": "3115 Series Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "3115 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3888061/Caleffi-3115-Series.html"
+  },
+  {
+   "manualId": "3888057",
+   "slug": "Caleffi-312-Series",
+   "title": "312 Series Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "312 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3888057/Caleffi-312-Series.html"
+  },
+  {
+   "manualId": "3888058",
+   "slug": "Caleffi-313-Series",
+   "title": "313 Series Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "313 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3888058/Caleffi-313-Series.html"
+  },
+  {
+   "manualId": "3888059",
+   "slug": "Caleffi-314-Series",
+   "title": "314 Series Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "314 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3888059/Caleffi-314-Series.html"
+  },
+  {
+   "manualId": "1798010",
+   "slug": "Caleffi-5261-Series",
+   "title": "319 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "319 Series",
+   "extraModels": [
+    "319 Series",
+    "319601",
+    "526142",
+    "526150",
+    "526151",
+    "526152",
+    "526153",
+    "526163",
+    "6509 Series",
+    "650972"
+   ],
+   "url": "https://www.manualslib.com/manual/1798010/Caleffi-5261-Series.html"
+  },
+  {
+   "manualId": "1827995",
+   "slug": "Caleffi-5261-Series",
+   "title": "319 Series Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "319 Series",
+   "extraModels": [
+    "319 Series",
+    "319601",
+    "526142",
+    "526150",
+    "526151",
+    "526152",
+    "526153",
+    "526163",
+    "6509 Series",
+    "650972"
+   ],
+   "url": "https://www.manualslib.com/manual/1827995/Caleffi-5261-Series.html"
+  },
+  {
+   "manualId": "1993538",
+   "slug": "Caleffi-5265-Series",
+   "title": "319 Series quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "319 Series",
+   "extraModels": [
+    "319 Series",
+    "319601",
+    "526554",
+    "B531003"
+   ],
+   "url": "https://www.manualslib.com/manual/1993538/Caleffi-5265-Series.html"
+  },
+  {
+   "manualId": "1974417",
+   "slug": "Caleffi-359-Series",
+   "title": "359 Series Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "359 Series",
+   "extraModels": [
+    "359410",
+    "359410 001",
+    "359510",
+    "359510 001"
+   ],
+   "url": "https://www.manualslib.com/manual/1974417/Caleffi-359-Series.html"
+  },
+  {
+   "manualId": "1732856",
+   "slug": "Caleffi-455-Series",
+   "title": "455 Series Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "455 Series",
+   "extraModels": [
+    "455400",
+    "455500",
+    "455600",
+    "455601"
+   ],
+   "url": "https://www.manualslib.com/manual/1732856/Caleffi-455-Series.html"
+  },
+  {
+   "manualId": "1976098",
+   "slug": "Caleffi-513-Series",
+   "title": "513 Series Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "513 Series",
+   "extraModels": [
+    "5134 Series",
+    "5136 Series",
+    "5137 Series",
+    "514 Series",
+    "5144 Series",
+    "527 Series",
+    "5274 Series",
+    "5275 Series",
+    "5276 Series",
+    "5277 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1976098/Caleffi-513-Series.html"
+  },
+  {
+   "manualId": "1975915",
+   "slug": "Caleffi-5200-Series",
+   "title": "5200 Series Manual",
+   "type": "Other",
+   "pages": 22,
+   "productModel": "5200 Series",
+   "extraModels": [
+    "520040",
+    "520041",
+    "520050",
+    "520051",
+    "520060",
+    "520061"
+   ],
+   "url": "https://www.manualslib.com/manual/1975915/Caleffi-5200-Series.html"
+  },
+  {
+   "manualId": "2407882",
+   "slug": "Caleffi-5201-Series",
+   "title": "520005 Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "520005",
+   "extraModels": [
+    "520005",
+    "520150",
+    "520155",
+    "520160"
+   ],
+   "url": "https://www.manualslib.com/manual/2407882/Caleffi-5201-Series.html"
+  },
+  {
+   "manualId": "4094156",
+   "slug": "Caleffi-Anglemix-520-Series",
+   "title": "520516A installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "520516A",
+   "extraModels": [
+    "520516A",
+    "520516AC",
+    "520519A",
+    "520519AC",
+    "AngleMix 520 A Series",
+    "AngleMix 520 AC Series",
+    "AngleMix 520410A",
+    "AngleMix 520414A",
+    "AngleMix 520414AC",
+    "AngleMix 520415A",
+    "AngleMix 520415AC",
+    "AngleMix 520416A",
+    "AngleMix 520419A",
+    "AngleMix 520510A",
+    "AngleMix 520514A",
+    "AngleMix 520514AC",
+    "AngleMix 520515A",
+    "AngleMix 520515AC",
+    "AngleMix 5206 A 001 Series",
+    "AngleMix 5206 AC 001 Series",
+    "AngleMix 520610A 001",
+    "AngleMix 520610AC 001",
+    "AngleMix 520614A 001",
+    "AngleMix 520614AC 001",
+    "AngleMix 520615A 001",
+    "AngleMix 520615AC 001",
+    "AngleMix 520616A 001",
+    "AngleMix 520616AC 001",
+    "AngleMix 520619A 001",
+    "AngleMix 520619AC 001",
+    "AngleMix DL 520410AC",
+    "AngleMix DL 520416AC",
+    "AngleMix DL 520419AC",
+    "AngleMix DL 520510AC",
+    "AngleMix+ 520610A",
+    "AngleMix+ 520610AC",
+    "AngleMix+ 520614A",
+    "AngleMix+ 520614AC",
+    "AngleMix+ 520615A",
+    "AngleMix+ 520615AC",
+    "AngleMix+ 520616A",
+    "AngleMix+ 520616AC",
+    "AngleMix+ 520619A",
+    "AngleMix+ 520619AC"
+   ],
+   "url": "https://www.manualslib.com/manual/4094156/Caleffi-Anglemix-520-Series.html"
+  },
+  {
+   "manualId": "3227917",
+   "slug": "Caleffi-521201",
+   "title": "521201 Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "521201",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3227917/Caleffi-521201.html"
+  },
+  {
+   "manualId": "3341313",
+   "slug": "Caleffi-521201-Ntr",
+   "title": "521201 NTR Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "521201 NTR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3341313/Caleffi-521201-Ntr.html"
+  },
+  {
+   "manualId": "2403508",
+   "slug": "Caleffi-Sinkmixer",
+   "title": "521201AP Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "521201AP",
+   "extraModels": [
+    "521201AP",
+    "SinkMixer 521201A"
+   ],
+   "url": "https://www.manualslib.com/manual/2403508/Caleffi-Sinkmixer.html"
+  },
+  {
+   "manualId": "1616835",
+   "slug": "Caleffi-521352a",
+   "title": "5213 Series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "5213 Series",
+   "extraModels": [
+    "521333A",
+    "521342A",
+    "521347A",
+    "521349A",
+    "521357A",
+    "521359A",
+    "521362A",
+    "521367A",
+    "521369A"
+   ],
+   "url": "https://www.manualslib.com/manual/1616835/Caleffi-521352a.html"
+  },
+  {
+   "manualId": "1574923",
+   "slug": "Caleffi-5213-Series",
+   "title": "5213 Series Installation, comissioning and servicing instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "5213 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1574923/Caleffi-5213-Series.html"
+  },
+  {
+   "manualId": "1756882",
+   "slug": "Caleffi-5213-Series",
+   "title": "5213 Series Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "5213 Series",
+   "extraModels": [
+    "521303",
+    "521304"
+   ],
+   "url": "https://www.manualslib.com/manual/1756882/Caleffi-5213-Series.html"
+  },
+  {
+   "manualId": "1549418",
+   "slug": "Caleffi-5213tm-Series",
+   "title": "521312TM Installation, commissioning and servicing instructions",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "521312TM",
+   "extraModels": [
+    "521312TM",
+    "521319TM"
+   ],
+   "url": "https://www.manualslib.com/manual/1549418/Caleffi-5213tm-Series.html"
+  },
+  {
+   "manualId": "1676054",
+   "slug": "Caleffi-5218-Series",
+   "title": "5218 Series Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "5218 Series",
+   "extraModels": [
+    "521814",
+    "521815",
+    "521816"
+   ],
+   "url": "https://www.manualslib.com/manual/1676054/Caleffi-5218-Series.html"
+  },
+  {
+   "manualId": "3349946",
+   "slug": "Caleffi-5230-Series",
+   "title": "5230 Series Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "5230 Series",
+   "extraModels": [
+    "523005",
+    "523006",
+    "523040",
+    "523043",
+    "523050",
+    "523052",
+    "523053",
+    "523060",
+    "523062",
+    "523063",
+    "523070",
+    "523073",
+    "523080",
+    "523090"
+   ],
+   "url": "https://www.manualslib.com/manual/3349946/Caleffi-5230-Series.html"
+  },
+  {
+   "manualId": "1640282",
+   "slug": "Caleffi-5231-Series",
+   "title": "5231 Series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "5231 Series",
+   "extraModels": [
+    "523160A",
+    "523168A",
+    "523170A",
+    "523177A",
+    "523178A",
+    "523180A",
+    "523188A",
+    "523190A",
+    "523198A"
+   ],
+   "url": "https://www.manualslib.com/manual/1640282/Caleffi-5231-Series.html"
+  },
+  {
+   "manualId": "1463270",
+   "slug": "Caleffi-523160a",
+   "title": "523160A Installation, commissioning and service instructions",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "523160A",
+   "extraModels": [
+    "523168A",
+    "523170A",
+    "523177A",
+    "523178A",
+    "523179A",
+    "523180A",
+    "523188A",
+    "523190A",
+    "523198A",
+    "523199A"
+   ],
+   "url": "https://www.manualslib.com/manual/1463270/Caleffi-523160a.html"
+  },
+  {
+   "manualId": "1729096",
+   "slug": "Caleffi-524-Series",
+   "title": "524 Series Installation, operating and maintenance",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "524 Series",
+   "extraModels": [
+    "524004",
+    "524005",
+    "524006",
+    "524007",
+    "524008",
+    "524009",
+    "524400",
+    "524500",
+    "524600",
+    "524700",
+    "524800",
+    "524900"
+   ],
+   "url": "https://www.manualslib.com/manual/1729096/Caleffi-524-Series.html"
+  },
+  {
+   "manualId": "2131963",
+   "slug": "Caleffi-528-Series",
+   "title": "528 Series instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "528 Series",
+   "extraModels": [
+    "528041",
+    "528046",
+    "528048",
+    "528051",
+    "528056",
+    "528058",
+    "528151",
+    "528156",
+    "528158",
+    "528161",
+    "528166",
+    "528168"
+   ],
+   "url": "https://www.manualslib.com/manual/2131963/Caleffi-528-Series.html"
+  },
+  {
+   "manualId": "1982010",
+   "slug": "Caleffi-528-Series",
+   "title": "528 Series Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "528 Series",
+   "extraModels": [
+    "528518",
+    "528540",
+    "528547",
+    "528548"
+   ],
+   "url": "https://www.manualslib.com/manual/1982010/Caleffi-528-Series.html"
+  },
+  {
+   "manualId": "2300542",
+   "slug": "Caleffi-5350-H-Series",
+   "title": "5350 H Series instruction manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "5350 H Series",
+   "extraModels": [
+    "535015H",
+    "535022H",
+    "535028H",
+    "535040/1H",
+    "535050/1H",
+    "535060/1H",
+    "535070/1H",
+    "535080/1H",
+    "535090/1H"
+   ],
+   "url": "https://www.manualslib.com/manual/2300542/Caleffi-5350-H-Series.html"
+  },
+  {
+   "manualId": "1959637",
+   "slug": "Caleffi-5350-Series",
+   "title": "5350 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "5350 Series",
+   "extraModels": [
+    "535022",
+    "535040/1",
+    "535050/1",
+    "535060/1",
+    "535070/1",
+    "535074/5",
+    "535080/1",
+    "535090/1",
+    "535140/1",
+    "535150/1",
+    "535160/1"
+   ],
+   "url": "https://www.manualslib.com/manual/1959637/Caleffi-5350-Series.html"
+  },
+  {
+   "manualId": "3871060",
+   "slug": "Caleffi-5351-Series",
+   "title": "5351 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "5351 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3871060/Caleffi-5351-Series.html"
+  },
+  {
+   "manualId": "3417020",
+   "slug": "Caleffi-Prescal-5353h-Series",
+   "title": "5353H Series Installation, commissioning and servicing instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "5353H Series",
+   "extraModels": [
+    "5356H Series",
+    "5357H Series",
+    "5359H Series",
+    "PresCal 5355H Series",
+    "PresCal NA5398H Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3417020/Caleffi-Prescal-5353h-Series.html"
+  },
+  {
+   "manualId": "1975392",
+   "slug": "Caleffi-5360-Series",
+   "title": "5360 Series Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "5360 Series",
+   "extraModels": [
+    "53604",
+    "53605",
+    "53606",
+    "53607",
+    "53608",
+    "5362 Series",
+    "53624",
+    "53625",
+    "53626",
+    "5365 Series",
+    "53658",
+    "53659",
+    "5366 Series",
+    "536660"
+   ],
+   "url": "https://www.manualslib.com/manual/1975392/Caleffi-5360-Series.html"
+  },
+  {
+   "manualId": "2224096",
+   "slug": "Caleffi-5360-Series",
+   "title": "5360 Series Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "5360 Series",
+   "extraModels": [
+    "53604",
+    "53605",
+    "53606",
+    "53607",
+    "53608",
+    "5362 Series",
+    "53624",
+    "53625",
+    "53626",
+    "5365 Series",
+    "53658",
+    "53659",
+    "5366 Series",
+    "536660"
+   ],
+   "url": "https://www.manualslib.com/manual/2224096/Caleffi-5360-Series.html"
+  },
+  {
+   "manualId": "1974462",
+   "slug": "Caleffi-543-Series",
+   "title": "543 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "543 Series",
+   "extraModels": [
+    "543503",
+    "543513"
+   ],
+   "url": "https://www.manualslib.com/manual/1974462/Caleffi-543-Series.html"
+  },
+  {
+   "manualId": "1621273",
+   "slug": "Caleffi-543-Series",
+   "title": "543 Series quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "543 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1621273/Caleffi-543-Series.html"
+  },
+  {
+   "manualId": "1982062",
+   "slug": "Caleffi-5709-Series",
+   "title": "5709 Series Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "5709 Series",
+   "extraModels": [
+    "570921",
+    "570931",
+    "570941",
+    "570951",
+    "570961"
+   ],
+   "url": "https://www.manualslib.com/manual/1982062/Caleffi-5709-Series.html"
+  },
+  {
+   "manualId": "2005837",
+   "slug": "Caleffi-5709-Series",
+   "title": "5709 Series Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "5709 Series",
+   "extraModels": [
+    "570920",
+    "570930",
+    "570940",
+    "570950",
+    "570960"
+   ],
+   "url": "https://www.manualslib.com/manual/2005837/Caleffi-5709-Series.html"
+  },
+  {
+   "manualId": "3331467",
+   "slug": "Caleffi-573-Series",
+   "title": "573 Series quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "573 Series",
+   "extraModels": [
+    "FlowShield DuC-AV"
+   ],
+   "url": "https://www.manualslib.com/manual/3331467/Caleffi-573-Series.html"
+  },
+  {
+   "manualId": "3982708",
+   "slug": "Caleffi-574-Series",
+   "title": "574 series instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "574 series",
+   "extraModels": [
+    "574005",
+    "574006",
+    "574008",
+    "574040",
+    "574050",
+    "574600",
+    "574700",
+    "574800",
+    "574900",
+    "575 Series",
+    "575005",
+    "575006",
+    "575008",
+    "575010"
+   ],
+   "url": "https://www.manualslib.com/manual/3982708/Caleffi-574-Series.html"
+  },
+  {
+   "manualId": "1975463",
+   "slug": "Caleffi-574-Series",
+   "title": "574 series Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "574 series",
+   "extraModels": [
+    "574005",
+    "574006",
+    "574040",
+    "574050",
+    "574600",
+    "574700",
+    "574800",
+    "574900",
+    "575 Series",
+    "575005",
+    "575006",
+    "575008",
+    "575010"
+   ],
+   "url": "https://www.manualslib.com/manual/1975463/Caleffi-574-Series.html"
+  },
+  {
+   "manualId": "1981372",
+   "slug": "Caleffi-574-Series",
+   "title": "574 series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "574 series",
+   "extraModels": [
+    "574004A",
+    "574050A",
+    "574056A",
+    "574064A"
+   ],
+   "url": "https://www.manualslib.com/manual/1981372/Caleffi-574-Series.html"
+  },
+  {
+   "manualId": "2104996",
+   "slug": "Caleffi-574-Series",
+   "title": "574 series Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "574 series",
+   "extraModels": [
+    "574005",
+    "574006",
+    "574040",
+    "574050",
+    "574600",
+    "574700",
+    "574800",
+    "574900",
+    "575 Series",
+    "575005",
+    "575006",
+    "575008",
+    "575010"
+   ],
+   "url": "https://www.manualslib.com/manual/2104996/Caleffi-574-Series.html"
+  },
+  {
+   "manualId": "1841272",
+   "slug": "Caleffi-5790-Series",
+   "title": "5790 Series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "5790 Series",
+   "extraModels": [
+    "579001"
+   ],
+   "url": "https://www.manualslib.com/manual/1841272/Caleffi-5790-Series.html"
+  },
+  {
+   "manualId": "4265002",
+   "slug": "Caleffi-580-Series",
+   "title": "580 Series Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "580 Series",
+   "extraModels": [
+    "580040",
+    "580050",
+    "580060",
+    "580070",
+    "580150",
+    "580240",
+    "580250"
+   ],
+   "url": "https://www.manualslib.com/manual/4265002/Caleffi-580-Series.html"
+  },
+  {
+   "manualId": "4365219",
+   "slug": "Caleffi-580-Series",
+   "title": "580 Series Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "580 Series",
+   "extraModels": [
+    "580020"
+   ],
+   "url": "https://www.manualslib.com/manual/4365219/Caleffi-580-Series.html"
+  },
+  {
+   "manualId": "2276902",
+   "slug": "Caleffi-580010",
+   "title": "580010 Manual",
+   "type": "Other",
+   "pages": 23,
+   "productModel": "580010",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2276902/Caleffi-580010.html"
+  },
+  {
+   "manualId": "1974426",
+   "slug": "Caleffi-580011",
+   "title": "580011 Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "580011",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1974426/Caleffi-580011.html"
+  },
+  {
+   "manualId": "1816199",
+   "slug": "Caleffi-580020",
+   "title": "580020 Programming manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": "580020",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1816199/Caleffi-580020.html"
+  },
+  {
+   "manualId": "3386564",
+   "slug": "Caleffi-626-Series",
+   "title": "626 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "626 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3386564/Caleffi-626-Series.html"
+  },
+  {
+   "manualId": "1723418",
+   "slug": "Caleffi-626-Series",
+   "title": "626 Series Operation",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "626 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1723418/Caleffi-626-Series.html"
+  },
+  {
+   "manualId": "2942352",
+   "slug": "Caleffi-Uni-Switch-626-Series",
+   "title": "626 Series quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "626 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2942352/Caleffi-Uni-Switch-626-Series.html"
+  },
+  {
+   "manualId": "2505815",
+   "slug": "Caleffi-626601",
+   "title": "626601 quick start manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "626601",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2505815/Caleffi-626601.html"
+  },
+  {
+   "manualId": "1696404",
+   "slug": "Caleffi-630-Series",
+   "title": "630 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "630 Series",
+   "extraModels": [
+    "630002",
+    "630004",
+    "630012",
+    "630014",
+    "630102",
+    "630104",
+    "630112",
+    "630114",
+    "632400",
+    "632500",
+    "632600",
+    "633400",
+    "633500",
+    "633600",
+    "635 Series",
+    "635440",
+    "635460",
+    "635480",
+    "635540",
+    "635560",
+    "635580",
+    "635640",
+    "635660",
+    "635680"
+   ],
+   "url": "https://www.manualslib.com/manual/1696404/Caleffi-630-Series.html"
+  },
+  {
+   "manualId": "3861748",
+   "slug": "Caleffi-632-Series",
+   "title": "632 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "632 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3861748/Caleffi-632-Series.html"
+  },
+  {
+   "manualId": "3861749",
+   "slug": "Caleffi-633-Series",
+   "title": "633 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "633 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3861749/Caleffi-633-Series.html"
+  },
+  {
+   "manualId": "1999216",
+   "slug": "Caleffi-636-Series",
+   "title": "636 series Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "636 series",
+   "extraModels": [
+    "636060",
+    "636080",
+    "636100",
+    "636120",
+    "636150"
+   ],
+   "url": "https://www.manualslib.com/manual/1999216/Caleffi-636-Series.html"
+  },
+  {
+   "manualId": "3503286",
+   "slug": "Caleffi-636-Series",
+   "title": "636 series Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "636 series",
+   "extraModels": [
+    "636002",
+    "636004",
+    "636014",
+    "636400",
+    "636410",
+    "636500",
+    "636510",
+    "636600",
+    "636610",
+    "636700",
+    "636710",
+    "636800",
+    "636810",
+    "636900",
+    "636910",
+    "AVM105SF132",
+    "AVM115F120",
+    "AVM115SF132"
+   ],
+   "url": "https://www.manualslib.com/manual/3503286/Caleffi-636-Series.html"
+  },
+  {
+   "manualId": "1723428",
+   "slug": "Caleffi-642-Series",
+   "title": "642 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "642 Series",
+   "extraModels": [
+    "642042",
+    "642052",
+    "642062",
+    "643042",
+    "643052",
+    "643062"
+   ],
+   "url": "https://www.manualslib.com/manual/1723428/Caleffi-642-Series.html"
+  },
+  {
+   "manualId": "1849471",
+   "slug": "Caleffi-642-Series",
+   "title": "642 Series Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "642 Series",
+   "extraModels": [
+    "642522",
+    "642523",
+    "642622"
+   ],
+   "url": "https://www.manualslib.com/manual/1849471/Caleffi-642-Series.html"
+  },
+  {
+   "manualId": "3862483",
+   "slug": "Caleffi-643-Series",
+   "title": "643 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "643 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3862483/Caleffi-643-Series.html"
+  },
+  {
+   "manualId": "3871593",
+   "slug": "Caleffi-6470-Series",
+   "title": "6470 Series Manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "6470 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3871593/Caleffi-6470-Series.html"
+  },
+  {
+   "manualId": "3871594",
+   "slug": "Caleffi-6480-Series",
+   "title": "6480 Series Manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "6480 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3871594/Caleffi-6480-Series.html"
+  },
+  {
+   "manualId": "4116289",
+   "slug": "Caleffi-6560-Series",
+   "title": "6560 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "6560 Series",
+   "extraModels": [
+    "6561 Series",
+    "656102",
+    "656104",
+    "656112",
+    "656114",
+    "6563 Series",
+    "656302",
+    "656304",
+    "656312",
+    "656314",
+    "656002",
+    "656004"
+   ],
+   "url": "https://www.manualslib.com/manual/4116289/Caleffi-6560-Series.html"
+  },
+  {
+   "manualId": "1975907",
+   "slug": "Caleffi-676-Seies",
+   "title": "6561 Series Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "6561 Series",
+   "extraModels": [
+    "6561 Series",
+    "656102",
+    "656104",
+    "656112",
+    "656114",
+    "6563 Series",
+    "656302",
+    "656304",
+    "656312",
+    "656314",
+    "676500"
+   ],
+   "url": "https://www.manualslib.com/manual/1975907/Caleffi-676-Seies.html"
+  },
+  {
+   "manualId": "2407880",
+   "slug": "Caleffi-676-Series",
+   "title": "6561 Series Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "6561 Series",
+   "extraModels": [
+    "6561 Series",
+    "656102",
+    "656104",
+    "656112",
+    "656114",
+    "6563 Series",
+    "656302",
+    "656304",
+    "656312",
+    "656314",
+    "676040",
+    "676050",
+    "676060",
+    "677 Series",
+    "677040",
+    "677050",
+    "677060",
+    "678 Series",
+    "678040",
+    "678050",
+    "678060"
+   ],
+   "url": "https://www.manualslib.com/manual/2407880/Caleffi-676-Series.html"
+  },
+  {
+   "manualId": "3148872",
+   "slug": "Caleffi-677-Series",
+   "title": "656102 Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "656102",
+   "extraModels": [
+    "656102",
+    "656104",
+    "656112",
+    "656114",
+    "656302",
+    "656304",
+    "656312",
+    "656314",
+    "676 Series",
+    "676040",
+    "676050",
+    "676060",
+    "677040",
+    "677050",
+    "677060",
+    "678 Series",
+    "67800",
+    "678040",
+    "678050"
+   ],
+   "url": "https://www.manualslib.com/manual/3148872/Caleffi-677-Series.html"
+  },
+  {
+   "manualId": "1758249",
+   "slug": "Caleffi-664-Series",
+   "title": "664 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "664 Series",
+   "extraModels": [
+    "6646B1",
+    "6646C1",
+    "6646D1",
+    "6646E1",
+    "6646F1",
+    "6646G1",
+    "6646H1",
+    "6646I1",
+    "6646L1",
+    "6646M1",
+    "6646N1",
+    "6646O1"
+   ],
+   "url": "https://www.manualslib.com/manual/1758249/Caleffi-664-Series.html"
+  },
+  {
+   "manualId": "3211250",
+   "slug": "Caleffi-664-Series",
+   "title": "664 Series Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "664 Series",
+   "extraModels": [
+    "6646B1",
+    "6646C1",
+    "6646D1",
+    "6646E1",
+    "6646F1",
+    "6646G1",
+    "6646H1",
+    "6646I1",
+    "6646L1",
+    "6646M1",
+    "6646N1",
+    "6646O1"
+   ],
+   "url": "https://www.manualslib.com/manual/3211250/Caleffi-664-Series.html"
+  },
+  {
+   "manualId": "2015940",
+   "slug": "Caleffi-7200-Series",
+   "title": "7200 Series OPERATING STEPS - INSTALLATION MANUAL",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "7200 Series",
+   "extraModels": [
+    "720020",
+    "720025",
+    "720030",
+    "MONITOR 2.0 PULSE"
+   ],
+   "url": "https://www.manualslib.com/manual/2015940/Caleffi-7200-Series.html"
+  },
+  {
+   "manualId": "2005755",
+   "slug": "Caleffi-738",
+   "title": "738 Manual",
+   "type": "Other",
+   "pages": 84,
+   "productModel": "738",
+   "extraModels": [
+    "738427"
+   ],
+   "url": "https://www.manualslib.com/manual/2005755/Caleffi-738.html"
+  },
+  {
+   "manualId": "3349955",
+   "slug": "Caleffi-Conteca-Easy-Ultra",
+   "title": "750704 Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "750704",
+   "extraModels": [
+    "750704",
+    "750705",
+    "750706",
+    "750707",
+    "750708",
+    "750709",
+    "750710",
+    "750711",
+    "750712",
+    "750713",
+    "750714",
+    "750715"
+   ],
+   "url": "https://www.manualslib.com/manual/3349955/Caleffi-Conteca-Easy-Ultra.html"
+  },
+  {
+   "manualId": "3296450",
+   "slug": "Caleffi-755052-Series",
+   "title": "755052 Series Startup manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "755052 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3296450/Caleffi-755052-Series.html"
+  },
+  {
+   "manualId": "3623172",
+   "slug": "Caleffi-Msa-Fieldserver-Fpc-N54",
+   "title": "755052 Series Startup manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "755052 Series",
+   "extraModels": [
+    "755052 Series",
+    "MSA fieldserver FPC-N54-1861"
+   ],
+   "url": "https://www.manualslib.com/manual/3623172/Caleffi-Msa-Fieldserver-Fpc-N54.html"
+  },
+  {
+   "manualId": "2497891",
+   "slug": "Caleffi-Air190002",
+   "title": "AIR190002 quick start manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "AIR190002",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2497891/Caleffi-Air190002.html"
+  },
+  {
+   "manualId": "2446776",
+   "slug": "Caleffi-Air190013",
+   "title": "AIR190013 Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "AIR190013",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2446776/Caleffi-Air190013.html"
+  },
+  {
+   "manualId": "2152765",
+   "slug": "Caleffi-Altecnic-Satk102",
+   "title": "altecnic SATK102 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "altecnic SATK102",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2152765/Caleffi-Altecnic-Satk102.html"
+  },
+  {
+   "manualId": "1877307",
+   "slug": "Caleffi-Altecnic-Satk20",
+   "title": "Altecnic SATK20 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "Altecnic SATK20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1877307/Caleffi-Altecnic-Satk20.html"
+  },
+  {
+   "manualId": "1616789",
+   "slug": "Caleffi-Altecnic-Satk22-Series",
+   "title": "Altecnic SATK22 Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "Altecnic SATK22 Series",
+   "extraModels": [
+    "Altecnic SATK22103",
+    "Altecnic SATK22105",
+    "Altecnic SATK22203",
+    "Altecnic SATK22205",
+    "Altecnic SATK22305",
+    "Altecnic SATK22403",
+    "Altecnic SATK22405"
+   ],
+   "url": "https://www.manualslib.com/manual/1616789/Caleffi-Altecnic-Satk22-Series.html"
+  },
+  {
+   "manualId": "2697559",
+   "slug": "Caleffi-Satk22107",
+   "title": "Altecnic SATK22 Series Instructions For Installation, Commissioning And Maintenance",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "Altecnic SATK22 Series",
+   "extraModels": [
+    "Altecnic SATK22103",
+    "Altecnic SATK22105",
+    "Altecnic SATK22203",
+    "Altecnic SATK22205",
+    "Altecnic SATK22305",
+    "Altecnic SATK22403",
+    "Altecnic SATK22405",
+    "SATK Series",
+    "SATK22207",
+    "SATK22303",
+    "SATK22307",
+    "SATK22407"
+   ],
+   "url": "https://www.manualslib.com/manual/2697559/Caleffi-Satk22107.html"
+  },
+  {
+   "manualId": "2951253",
+   "slug": "Caleffi-Altecnic-Satk22",
+   "title": "Altecnic SATK22 Series Programmer's manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "Altecnic SATK22 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2951253/Caleffi-Altecnic-Satk22.html"
+  },
+  {
+   "manualId": "3867605",
+   "slug": "Caleffi-Altecnic-Satk30",
+   "title": "Altecnic SATK30 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "Altecnic SATK30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3867605/Caleffi-Altecnic-Satk30.html"
+  },
+  {
+   "manualId": "3910992",
+   "slug": "Caleffi-Altecnic-Satk32-Hiu",
+   "title": "Altecnic SATK32 HIU Programmer's manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "Altecnic SATK32 HIU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3910992/Caleffi-Altecnic-Satk32-Hiu.html"
+  },
+  {
+   "manualId": "1941797",
+   "slug": "Caleffi-Altecnic-Satk40103",
+   "title": "Altecnic SATK40103 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "Altecnic SATK40103",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1941797/Caleffi-Altecnic-Satk40103.html"
+  },
+  {
+   "manualId": "3435480",
+   "slug": "Caleffi-Anglemix-Dl-520-Series",
+   "title": "AngleMix DL 520 Series Manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "AngleMix DL 520 Series",
+   "extraModels": [
+    "520516AC",
+    "520519AC",
+    "AngleMix DL 520410AC",
+    "AngleMix DL 520416AC",
+    "AngleMix DL 520419AC",
+    "AngleMix DL 520510AC"
+   ],
+   "url": "https://www.manualslib.com/manual/3435480/Caleffi-Anglemix-Dl-520-Series.html"
+  },
+  {
+   "manualId": "2874777",
+   "slug": "Caleffi-Biomass-Optimiser-1522-Series",
+   "title": "BIOMASS OPTIMISER 1522 Series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "BIOMASS OPTIMISER 1522 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2874777/Caleffi-Biomass-Optimiser-1522-Series.html"
+  },
+  {
+   "manualId": "1594285",
+   "slug": "Caleffi-535h-Series",
+   "title": "Caleffi 535H Series Installation, Commissioning And Servicing Instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": null,
+   "extraModels": [
+    "5353H Series",
+    "5356H Series",
+    "5357H Series",
+    "5359H Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1594285/Caleffi-535h-Series.html"
+  },
+  {
+   "manualId": "2036222",
+   "slug": "Caleffi-546-Series",
+   "title": "Caleffi 546 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": null,
+   "extraModels": [
+    "546002",
+    "546005",
+    "546006",
+    "546007",
+    "546050",
+    "546051",
+    "546052",
+    "546053",
+    "546060",
+    "546061",
+    "546062",
+    "546063",
+    "546080",
+    "546081",
+    "546082",
+    "546083",
+    "546100",
+    "546101",
+    "546102",
+    "546103",
+    "546105",
+    "546106",
+    "546107",
+    "546120",
+    "546121",
+    "546122",
+    "546123",
+    "546150",
+    "546151",
+    "546152",
+    "546153",
+    "546200",
+    "546250",
+    "546300"
+   ],
+   "url": "https://www.manualslib.com/manual/2036222/Caleffi-546-Series.html"
+  },
+  {
+   "manualId": "1959382",
+   "slug": "Caleffi-548-Series",
+   "title": "Caleffi 548 Series Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": null,
+   "extraModels": [
+    "548006",
+    "548007",
+    "548008",
+    "548009",
+    "548052",
+    "548062",
+    "548082",
+    "548102",
+    "548122",
+    "548152",
+    "548200",
+    "548250",
+    "548300"
+   ],
+   "url": "https://www.manualslib.com/manual/1959382/Caleffi-548-Series.html"
+  },
+  {
+   "manualId": "1972345",
+   "slug": "Caleffi-5495-Series",
+   "title": "Caleffi 5495 Series Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [
+    "5495 SEP4",
+    "549506",
+    "549507",
+    "549508",
+    "549509"
+   ],
+   "url": "https://www.manualslib.com/manual/1972345/Caleffi-5495-Series.html"
+  },
+  {
+   "manualId": "2044602",
+   "slug": "Caleffi-553-Series",
+   "title": "Caleffi 553 Series Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": null,
+   "extraModels": [
+    "553542A",
+    "553549A",
+    "553642A",
+    "553649A"
+   ],
+   "url": "https://www.manualslib.com/manual/2044602/Caleffi-553-Series.html"
+  },
+  {
+   "manualId": "3262509",
+   "slug": "Caleffi-573-Series",
+   "title": "Caleffi 573 Series Installation, Commissioning And Servicing Instructions",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3262509/Caleffi-573-Series.html"
+  },
+  {
+   "manualId": "1962602",
+   "slug": "Caleffi-574-Series",
+   "title": "Caleffi 574 series Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [
+    "574004"
+   ],
+   "url": "https://www.manualslib.com/manual/1962602/Caleffi-574-Series.html"
+  },
+  {
+   "manualId": "1973977",
+   "slug": "Caleffi-574011",
+   "title": "Caleffi 574011 Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1973977/Caleffi-574011.html"
+  },
+  {
+   "manualId": "3348222",
+   "slug": "Caleffi-577-Series",
+   "title": "Caleffi 577 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": null,
+   "extraModels": [
+    "577660A",
+    "577666A",
+    "577669A",
+    "577870A",
+    "577876A",
+    "577879A",
+    "577980A",
+    "577986A",
+    "577989A"
+   ],
+   "url": "https://www.manualslib.com/manual/3348222/Caleffi-577-Series.html"
+  },
+  {
+   "manualId": "1975431",
+   "slug": "Caleffi-6460-Series",
+   "title": "Caleffi 6460 Series Manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": null,
+   "extraModels": [
+    "646002",
+    "646004",
+    "647040",
+    "647050",
+    "647060",
+    "647070",
+    "648040",
+    "648050",
+    "648060",
+    "648070",
+    "6489 Series",
+    "6490 Series",
+    "64904 Series",
+    "64905 Series",
+    "64906 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1975431/Caleffi-6460-Series.html"
+  },
+  {
+   "manualId": "1675647",
+   "slug": "Caleffi-Anglemix-520-Series",
+   "title": "Caleffi AngleMix 520 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": null,
+   "extraModels": [
+    "520516A",
+    "520516AC",
+    "520519A",
+    "520519AC"
+   ],
+   "url": "https://www.manualslib.com/manual/1675647/Caleffi-Anglemix-520-Series.html"
+  },
+  {
+   "manualId": "1560026",
+   "slug": "Caleffi-Dirtcal-5462-Series",
+   "title": "Caleffi DIRTCAL 5462 Series Installation, Commissioning And Servicing Instructions",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1560026/Caleffi-Dirtcal-5462-Series.html"
+  },
+  {
+   "manualId": "1710628",
+   "slug": "Caleffi-Dirtmag-Na5453-Series",
+   "title": "Caleffi DIRTMAG NA5453 Series Installation, Commissioning And Servicing Instructions",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1710628/Caleffi-Dirtmag-Na5453-Series.html"
+  },
+  {
+   "manualId": "3294670",
+   "slug": "Caleffi-Dirtmag-Pro-5463am-Series",
+   "title": "Caleffi DIRTMAG PRO 5463AM Series Installation, Commissioning And Servicing Instructions",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": null,
+   "extraModels": [
+    "DIRTMAG PRO 546306AM",
+    "DIRTMAG PRO 546307AM",
+    "DIRTMAG PRO 546308AM",
+    "DIRTMAG PRO 546309AM",
+    "DIRTMAG PRO 546328AM",
+    "DIRTMAG PRO 546335AM",
+    "DIRTMAG PRO 546341AM",
+    "DIRTMAG PRO 546354AM"
+   ],
+   "url": "https://www.manualslib.com/manual/3294670/Caleffi-Dirtmag-Pro-5463am-Series.html"
+  },
+  {
+   "manualId": "1972347",
+   "slug": "Caleffi-Discal-551-Series",
+   "title": "Caleffi DISCAL 551 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": null,
+   "extraModels": [
+    "DISCAL 551002",
+    "DISCAL 551003",
+    "DISCAL 551005",
+    "DISCAL 551006",
+    "DISCAL 551007",
+    "DISCAL 551008",
+    "DISCAL 551009",
+    "DISCAL 551052",
+    "DISCAL 551053",
+    "DISCAL 551062",
+    "DISCAL 551063",
+    "DISCAL 551082",
+    "DISCAL 551083",
+    "DISCAL 551102",
+    "DISCAL 551103",
+    "DISCAL 551122",
+    "DISCAL 551123",
+    "DISCAL 551152",
+    "DISCAL 551153",
+    "DISCAL 551200",
+    "DISCAL 551250",
+    "DISCAL 551300",
+    "DISCAL 551902",
+    "DISCAL 551905",
+    "DISCAL 551906"
+   ],
+   "url": "https://www.manualslib.com/manual/1972347/Caleffi-Discal-551-Series.html"
+  },
+  {
+   "manualId": "3171818",
+   "slug": "Caleffi-Na548-Series",
+   "title": "Caleffi NA548 Series Installation, Commissioning And Servicing Instructions",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3171818/Caleffi-Na548-Series.html"
+  },
+  {
+   "manualId": "1974989",
+   "slug": "Caleffi-Satk16315",
+   "title": "Caleffi SATK16315 Instructions For Installation, Commissioning And Maintenance",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1974989/Caleffi-Satk16315.html"
+  },
+  {
+   "manualId": "2000864",
+   "slug": "Caleffi-Sep4-5495-Series",
+   "title": "Caleffi SEP4 5495 Series Installation, Commissioning And Servicing Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "5495 SEP4"
+   ],
+   "url": "https://www.manualslib.com/manual/2000864/Caleffi-Sep4-5495-Series.html"
+  },
+  {
+   "manualId": "3242226",
+   "slug": "Caleffi-Sep4-5495-Series",
+   "title": "Caleffi SEP4 5495 Series Installation, Commissioning And Servicing Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "5495 SEP4"
+   ],
+   "url": "https://www.manualslib.com/manual/3242226/Caleffi-Sep4-5495-Series.html"
+  },
+  {
+   "manualId": "1954863",
+   "slug": "Caleffi-Sepcoll-559-Series",
+   "title": "Caleffi SEPCOLL 559 Series Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [
+    "SEPCOLL 559021",
+    "SEPCOLL 559022",
+    "SEPCOLL 559031",
+    "SEPCOLL 559121",
+    "SEPCOLL 559220",
+    "SEPCOLL 559221",
+    "SEPCOLL 559222",
+    "SEPCOLL 559231",
+    "SEPCOLL 559320",
+    "SEPCOLL 559331"
+   ],
+   "url": "https://www.manualslib.com/manual/1954863/Caleffi-Sepcoll-559-Series.html"
+  },
+  {
+   "manualId": "4537356",
+   "slug": "Caleffi-Data-Easy-750351-001",
+   "title": "DATA EASY 750351 001 Instruction and installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "DATA EASY 750351 001",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4537356/Caleffi-Data-Easy-750351-001.html"
+  },
+  {
+   "manualId": "1991646",
+   "slug": "Caleffi-Data-Easy",
+   "title": "DATA EASY quick manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "DATA EASY",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1991646/Caleffi-Data-Easy.html"
+  },
+  {
+   "manualId": "1982156",
+   "slug": "Caleffi-Deltasol-268-Series",
+   "title": "DeltaSol 268050 Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "DeltaSol 268050",
+   "extraModels": [
+    "DeltaSol 268050",
+    "DeltaSol 268250",
+    "DeltaSol 269050",
+    "DeltaSol 269250",
+    "DeltaSol 269 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1982156/Caleffi-Deltasol-268-Series.html"
+  },
+  {
+   "manualId": "2204297",
+   "slug": "Caleffi-Deltasol-CPlus",
+   "title": "DeltaSol 268050 Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "DeltaSol 268050",
+   "extraModels": [
+    "DeltaSol 268050",
+    "DeltaSol 268250",
+    "DeltaSol 269050",
+    "DeltaSol 269250"
+   ],
+   "url": "https://www.manualslib.com/manual/2204297/Caleffi-Deltasol-CPlus.html"
+  },
+  {
+   "manualId": "1975573",
+   "slug": "Caleffi-266-Series",
+   "title": "DeltaSol C+ Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 53,
+   "productModel": "DeltaSol C+",
+   "extraModels": [
+    "DeltaSol C+",
+    "266050",
+    "266052",
+    "266054",
+    "266250",
+    "266252",
+    "266254",
+    "267 Series",
+    "267050",
+    "267052",
+    "267054",
+    "267250",
+    "267254"
+   ],
+   "url": "https://www.manualslib.com/manual/1975573/Caleffi-266-Series.html"
+  },
+  {
+   "manualId": "1981685",
+   "slug": "Caleffi-Dirtmagclean-579-Series",
+   "title": "DIRTMAGCLEAN 579 Series Programming manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "DIRTMAGCLEAN 579 Series",
+   "extraModels": [
+    "DIRTMAGCLEAN 5790"
+   ],
+   "url": "https://www.manualslib.com/manual/1981685/Caleffi-Dirtmagclean-579-Series.html"
+  },
+  {
+   "manualId": "1637384",
+   "slug": "Caleffi-Dirtmagclean",
+   "title": "DIRTMAGCLEAN Use and maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "DIRTMAGCLEAN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1637384/Caleffi-Dirtmagclean.html"
+  },
+  {
+   "manualId": "1701353",
+   "slug": "Caleffi-Discal-Na551-Series",
+   "title": "DISCAL 551 Series Installation, commissioning and servicing instructions",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "DISCAL 551 Series",
+   "extraModels": [
+    "DISCAL 551003A Series",
+    "DISCAL 551005A Series",
+    "DISCAL 551006A Series",
+    "DISCAL 551007A Series",
+    "DISCAL 551008A Series",
+    "DISCAL 551009A Series",
+    "DISCAL 551022A Series",
+    "DISCAL 551028A Series",
+    "DISCAL 551035A Series",
+    "DISCAL 551041A Series",
+    "DISCAL 551054A Series",
+    "DISCAL 551066A Series",
+    "DISCAL 551067A Series",
+    "DISCAL 551068A Series",
+    "DISCAL 551069A Series",
+    "DISCAL 5517 Series",
+    "DISCAL 551705A",
+    "DISCAL 551706A",
+    "DISCAL 551716 Series",
+    "DISCAL 551765A",
+    "DISCAL 551766A",
+    "DISCAL 551795A",
+    "DISCAL 551796A",
+    "DISCAL NA551120A",
+    "DISCAL NA551150A",
+    "DISCAL NA551200A",
+    "DISCAL NA551250A",
+    "DISCAL NA551300A"
+   ],
+   "url": "https://www.manualslib.com/manual/1701353/Caleffi-Discal-Na551-Series.html"
+  },
+  {
+   "manualId": "2889437",
+   "slug": "Caleffi-Discal-5517-Series",
+   "title": "DISCAL 551 Series Installation, commissioning and servicing instructions",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "DISCAL 551 Series",
+   "extraModels": [
+    "DISCAL 551003A Series",
+    "DISCAL 551005A Series",
+    "DISCAL 551006A Series",
+    "DISCAL 551006AC",
+    "DISCAL 551007A Series",
+    "DISCAL 551008A Series",
+    "DISCAL 551008AC",
+    "DISCAL 551009A Series",
+    "DISCAL 551022A Series",
+    "DISCAL 551022AC",
+    "DISCAL 551028A Series",
+    "DISCAL 551028AC",
+    "DISCAL 551035A Series",
+    "DISCAL 551035AC",
+    "DISCAL 551041A Series",
+    "DISCAL 551054A Series",
+    "DISCAL 551066A Series",
+    "DISCAL 551067A Series",
+    "DISCAL 551068A Series",
+    "DISCAL 551069A Series",
+    "DISCAL 551080A",
+    "DISCAL 551705A",
+    "DISCAL 551706A",
+    "DISCAL 551716 Series",
+    "DISCAL 551765A",
+    "DISCAL 551766A",
+    "DISCAL 551795A",
+    "DISCAL 551796A",
+    "DISCAL NA551 Series",
+    "DISCAL NA551060A",
+    "DISCAL NA551100A"
+   ],
+   "url": "https://www.manualslib.com/manual/2889437/Caleffi-Discal-5517-Series.html"
+  },
+  {
+   "manualId": "3119795",
+   "slug": "Caleffi-Discal-551-Series",
+   "title": "DISCAL 551 Series Installation, commissioning and servicing instructions",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "DISCAL 551 Series",
+   "extraModels": [
+    "DISCAL NA519 Series",
+    "DISCAL NA551 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3119795/Caleffi-Discal-551-Series.html"
+  },
+  {
+   "manualId": "4390806",
+   "slug": "Caleffi-Flowshield-Rp-5751-Series",
+   "title": "FlowShield RP 5751 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "FlowShield RP 5751 Series",
+   "extraModels": [
+    "FlowShield RP 575105A",
+    "FlowShield RP 575106A",
+    "FlowShield RP 575108A",
+    "FlowShield RP 575110A"
+   ],
+   "url": "https://www.manualslib.com/manual/4390806/Caleffi-Flowshield-Rp-5751-Series.html"
+  },
+  {
+   "manualId": "1839829",
+   "slug": "Caleffi-Fpc-N34-1618",
+   "title": "FPC-N34-1618 Instruction Sheet",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "FPC-N34-1618",
+   "extraModels": [
+    "NA10520"
+   ],
+   "url": "https://www.manualslib.com/manual/1839829/Caleffi-Fpc-N34-1618.html"
+  },
+  {
+   "manualId": "1905273",
+   "slug": "Caleffi-Geo-110-Series",
+   "title": "GEO 110 Series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "GEO 110 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1905273/Caleffi-Geo-110-Series.html"
+  },
+  {
+   "manualId": "1967928",
+   "slug": "Caleffi-579-Series",
+   "title": "Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1967928/Caleffi-579-Series.html"
+  },
+  {
+   "manualId": "1544077",
+   "slug": "Caleffi-5026-Series",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1544077/Caleffi-5026-Series.html"
+  },
+  {
+   "manualId": "1647020",
+   "slug": "Caleffi-Legiomix-6000as-Series",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1647020/Caleffi-Legiomix-6000as-Series.html"
+  },
+  {
+   "manualId": "2067346",
+   "slug": "Caleffi-Satk-Series-Hius",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2067346/Caleffi-Satk-Series-Hius.html"
+  },
+  {
+   "manualId": "3190139",
+   "slug": "Caleffi-Legiomix-6000as-Series",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3190139/Caleffi-Legiomix-6000as-Series.html"
+  },
+  {
+   "manualId": "1553060",
+   "slug": "Caleffi-5335-Series",
+   "title": "Installation, commissioning and servicing instructions",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1553060/Caleffi-5335-Series.html"
+  },
+  {
+   "manualId": "1976639",
+   "slug": "Caleffi-Autofill-5350-Series",
+   "title": "Installation, commissioning and servicing instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1976639/Caleffi-Autofill-5350-Series.html"
+  },
+  {
+   "manualId": "3670517",
+   "slug": "Caleffi-510-Series",
+   "title": "Installation, Commissioning And Servicing Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3670517/Caleffi-510-Series.html"
+  },
+  {
+   "manualId": "2943647",
+   "slug": "Caleffi-Altecnic-201-2001",
+   "title": "Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2943647/Caleffi-Altecnic-201-2001.html"
+  },
+  {
+   "manualId": "3069513",
+   "slug": "Caleffi-Satk15313-Abc",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3069513/Caleffi-Satk15313-Abc.html"
+  },
+  {
+   "manualId": "1468456",
+   "slug": "Caleffi-624",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1468456/Caleffi-624.html"
+  },
+  {
+   "manualId": "1982053",
+   "slug": "Caleffi-720082",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1982053/Caleffi-720082.html"
+  },
+  {
+   "manualId": "3516234",
+   "slug": "Caleffi-Flowshield-Duc-Av-573-Series",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3516234/Caleffi-Flowshield-Duc-Av-573-Series.html"
+  },
+  {
+   "manualId": "2739979",
+   "slug": "Caleffi-Satk60-Series",
+   "title": "instruction sheet",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2739979/Caleffi-Satk60-Series.html"
+  },
+  {
+   "manualId": "1695428",
+   "slug": "Caleffi-Plumbvent-Na502640a",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1695428/Caleffi-Plumbvent-Na502640a.html"
+  },
+  {
+   "manualId": "1822034",
+   "slug": "Caleffi-Satk12313",
+   "title": "INSTRUCTIONS FOR INSTALLATION, COMMISSIONING AND MAINTENANCE",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1822034/Caleffi-Satk12313.html"
+  },
+  {
+   "manualId": "2492675",
+   "slug": "Caleffi-639042",
+   "title": "INSTRUCTIONS FOR INSTALLATION, COMMISSIONING AND MAINTENANCE",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2492675/Caleffi-639042.html"
+  },
+  {
+   "manualId": "2973053",
+   "slug": "Caleffi-639042",
+   "title": "INSTRUCTIONS FOR INSTALLATION, COMMISSIONING AND MAINTENANCE",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2973053/Caleffi-639042.html"
+  },
+  {
+   "manualId": "3954288",
+   "slug": "Caleffi-130-Series",
+   "title": "Instructions For Installation, Commissioning And Maintenance",
+   "type": "Service",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3954288/Caleffi-130-Series.html"
+  },
+  {
+   "manualId": "3663547",
+   "slug": "Caleffi-Tankmixer-Combi-520-Series",
+   "title": "KIT520516AX Manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "KIT520516AX",
+   "extraModels": [
+    "KIT520516AX",
+    "KIT520517AX",
+    "KIT520518AX",
+    "KIT520519AX",
+    "PivotMixer 520510AP",
+    "PivotMixer 520516AP",
+    "PivotMixer 520519AP"
+   ],
+   "url": "https://www.manualslib.com/manual/3663547/Caleffi-Tankmixer-Combi-520-Series.html"
+  },
+  {
+   "manualId": "1604305",
+   "slug": "Caleffi-6000-Series",
+   "title": "Legiomix 2.0 Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Legiomix 2.0",
+   "extraModels": [
+    "Legiomix 2.0"
+   ],
+   "url": "https://www.manualslib.com/manual/1604305/Caleffi-6000-Series.html"
+  },
+  {
+   "manualId": "2014636",
+   "slug": "Caleffi-Legiomix-2-0",
+   "title": "Legiomix 2.0 Software instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Legiomix 2.0",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2014636/Caleffi-Legiomix-2-0.html"
+  },
+  {
+   "manualId": "1570397",
+   "slug": "Caleffi-Legiomix-6000-Series",
+   "title": "LEGIOMIX 6000 series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "LEGIOMIX 6000 series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1570397/Caleffi-Legiomix-6000-Series.html"
+  },
+  {
+   "manualId": "1958865",
+   "slug": "Caleffi-6000-Series",
+   "title": "LEGIOMIX 6000 series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "LEGIOMIX 6000 series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1958865/Caleffi-6000-Series.html"
+  },
+  {
+   "manualId": "3074927",
+   "slug": "Caleffi-Legiomix-600094a",
+   "title": "LEGIOMIX 6000 series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "LEGIOMIX 6000 series",
+   "extraModels": [
+    "LEGIOMIX 600076A"
+   ],
+   "url": "https://www.manualslib.com/manual/3074927/Caleffi-Legiomix-600094a.html"
+  },
+  {
+   "manualId": "1625285",
+   "slug": "Caleffi-Legiomix-6000-Series",
+   "title": "LEGIOMIX 6000 series Programming manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "LEGIOMIX 6000 series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1625285/Caleffi-Legiomix-6000-Series.html"
+  },
+  {
+   "manualId": "1994274",
+   "slug": "Caleffi-Legiomix-6000-Series",
+   "title": "LEGIOMIX 6000 series quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "LEGIOMIX 6000 series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1994274/Caleffi-Legiomix-6000-Series.html"
+  },
+  {
+   "manualId": "4053106",
+   "slug": "Caleffi-Legiomix-Evo-6003-1-Series",
+   "title": "LEGIOMIX evo 6003 1 Series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "LEGIOMIX evo 6003 1 Series",
+   "extraModels": [
+    "LEGIOMIX evo 600316",
+    "LEGIOMIX evo 600318",
+    "LEGIOMIX evo 600336",
+    "LEGIOMIX evo 600338",
+    "LEGIOMIX evo 600351",
+    "LEGIOMIX evo 600353",
+    "LEGIOMIX evo 600354",
+    "LEGIOMIX evo 600356",
+    "LEGIOMIX evo 600358",
+    "LEGIOMIX evo 600361",
+    "LEGIOMIX evo 600363",
+    "LEGIOMIX evo 600364",
+    "LEGIOMIX evo 600371",
+    "LEGIOMIX evo 600373",
+    "LEGIOMIX evo 600374",
+    "LEGIOMIX evo 600381",
+    "LEGIOMIX evo 600383",
+    "LEGIOMIX evo 600384",
+    "LEGIOMIX evo 600391",
+    "LEGIOMIX evo 600393",
+    "LEGIOMIX evo 600394"
+   ],
+   "url": "https://www.manualslib.com/manual/4053106/Caleffi-Legiomix-Evo-6003-1-Series.html"
+  },
+  {
+   "manualId": "4053086",
+   "slug": "Caleffi-Legiomix-Evo-6003-3-Series",
+   "title": "LEGIOMIX evo 6003 3 Series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "LEGIOMIX evo 6003 3 Series",
+   "extraModels": [
+    "LEGIOMIX evo 6003 4 Series",
+    "LEGIOMIX evo 60035 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4053086/Caleffi-Legiomix-Evo-6003-3-Series.html"
+  },
+  {
+   "manualId": "4053090",
+   "slug": "Caleffi-Legiomix-Evo-6003-Series",
+   "title": "LEGIOMIX evo 600316 Programming manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "LEGIOMIX evo 600316",
+   "extraModels": [
+    "LEGIOMIX evo 600316",
+    "LEGIOMIX evo 600318",
+    "LEGIOMIX evo 600336",
+    "LEGIOMIX evo 600338",
+    "LEGIOMIX evo 600356",
+    "LEGIOMIX evo 600358"
+   ],
+   "url": "https://www.manualslib.com/manual/4053090/Caleffi-Legiomix-Evo-6003-Series.html"
+  },
+  {
+   "manualId": "1716232",
+   "slug": "Caleffi-425-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [
+    "200000",
+    "201000",
+    "202000",
+    "656112",
+    "656114"
+   ],
+   "url": "https://www.manualslib.com/manual/1716232/Caleffi-425-Series.html"
+  },
+  {
+   "manualId": "1745489",
+   "slug": "Caleffi-544-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1745489/Caleffi-544-Series.html"
+  },
+  {
+   "manualId": "1759390",
+   "slug": "Caleffi-2527-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1759390/Caleffi-2527-Series.html"
+  },
+  {
+   "manualId": "1798642",
+   "slug": "Caleffi-161020",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1798642/Caleffi-161020.html"
+  },
+  {
+   "manualId": "1924901",
+   "slug": "Caleffi-Thermobloc-281-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1924901/Caleffi-Thermobloc-281-Series.html"
+  },
+  {
+   "manualId": "1974425",
+   "slug": "Caleffi-Quicksetter-132-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1974425/Caleffi-Quicksetter-132-Series.html"
+  },
+  {
+   "manualId": "1975989",
+   "slug": "Caleffi-5370-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1975989/Caleffi-5370-Series.html"
+  },
+  {
+   "manualId": "1976007",
+   "slug": "Caleffi-Flowcal-127-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1976007/Caleffi-Flowcal-127-Series.html"
+  },
+  {
+   "manualId": "1976017",
+   "slug": "Caleffi-501-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1976017/Caleffi-501-Series.html"
+  },
+  {
+   "manualId": "1976412",
+   "slug": "Caleffi-359902",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1976412/Caleffi-359902.html"
+  },
+  {
+   "manualId": "1981493",
+   "slug": "Caleffi-Hydrolink-559921a",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1981493/Caleffi-Hydrolink-559921a.html"
+  },
+  {
+   "manualId": "2020937",
+   "slug": "Caleffi-Z-One-Z1-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2020937/Caleffi-Z-One-Z1-Series.html"
+  },
+  {
+   "manualId": "2038013",
+   "slug": "Caleffi-Discalair-551-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2038013/Caleffi-Discalair-551-Series.html"
+  },
+  {
+   "manualId": "2540756",
+   "slug": "Caleffi-Air190001",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2540756/Caleffi-Air190001.html"
+  },
+  {
+   "manualId": "3143246",
+   "slug": "Caleffi-3048-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3143246/Caleffi-3048-Series.html"
+  },
+  {
+   "manualId": "3198253",
+   "slug": "Caleffi-Na51-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3198253/Caleffi-Na51-Series.html"
+  },
+  {
+   "manualId": "3475448",
+   "slug": "Caleffi-638-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3475448/Caleffi-638-Series.html"
+  },
+  {
+   "manualId": "3524809",
+   "slug": "Caleffi-Flowcal-127369af-1g7",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3524809/Caleffi-Flowcal-127369af-1g7.html"
+  },
+  {
+   "manualId": "2451504",
+   "slug": "Caleffi-Mixcal-521-Series",
+   "title": "MixCal 521 Series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "MixCal 521 Series",
+   "extraModels": [
+    "MixCal 521416A",
+    "MixCal 521516A",
+    "MixCal 521519A",
+    "MixCal 521616A"
+   ],
+   "url": "https://www.manualslib.com/manual/2451504/Caleffi-Mixcal-521-Series.html"
+  },
+  {
+   "manualId": "2680697",
+   "slug": "Caleffi-Mixcal-521410-A-Series",
+   "title": "MixCal 521 Series Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "MixCal 521 Series",
+   "extraModels": [
+    "MixCal 521400A",
+    "MixCal 521400AC",
+    "Mixcal 521406A",
+    "Mixcal 521407A",
+    "Mixcal 521407AC",
+    "MixCal 521409A",
+    "MixCal 521409AC",
+    "MixCal 521410AC",
+    "MixCal 521416A",
+    "Mixcal 521417A Series",
+    "Mixcal 521417AC Series",
+    "MixCal 521419A",
+    "MixCal 521419AC",
+    "MixCal 521500A",
+    "MixCal 521500AC",
+    "MixCal 521506A",
+    "Mixcal 521506AC",
+    "Mixcal 521507A",
+    "Mixcal 521507AC",
+    "MixCal 521509A",
+    "Mixcal 52150AC",
+    "MixCal 521510A",
+    "MixCal 521510AC",
+    "MixCal 521516A",
+    "Mixcal 521516AC Series",
+    "Mixcal 521517A Series",
+    "MixCal 521517AC",
+    "MixCal 521519A",
+    "MixCal 521519AC",
+    "MixCal 521600A",
+    "MixCal 521600AC",
+    "Mixcal 521606A",
+    "Mixcal 521607A",
+    "Mixcal 521607AC",
+    "MixCal 521609A",
+    "MixCal 521609AC",
+    "MixCal 521610A",
+    "MixCal 521610AC",
+    "MixCal 521616A",
+    "Mixcal 521617A Series",
+    "Mixcal 521617AC Series",
+    "MixCal 521619A",
+    "MixCal 521619AC"
+   ],
+   "url": "https://www.manualslib.com/manual/2680697/Caleffi-Mixcal-521410-A-Series.html"
+  },
+  {
+   "manualId": "1454744",
+   "slug": "Caleffi-Mixcal-521400a",
+   "title": "MixCal 521 Series Installation, commissioning and service instructions",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "MixCal 521 Series",
+   "extraModels": [
+    "MixCal 521400AC",
+    "MixCal 521409A",
+    "MixCal 521409AC",
+    "MixCal 521410A",
+    "MixCal 521410AC",
+    "MixCal 521419A",
+    "MixCal 521419AC",
+    "MixCal 521500A",
+    "MixCal 521500AC",
+    "MixCal 521506A",
+    "MixCal 521509A",
+    "MixCal 521509AC",
+    "MixCal 521510A",
+    "MixCal 521510AC",
+    "MixCal 521516A",
+    "MixCal 521519A",
+    "MixCal 521519AC",
+    "MixCal 521600A",
+    "MixCal 521600AC",
+    "MixCal 521609A",
+    "MixCal 521609AC",
+    "MixCal 521610A",
+    "MixCal 521610AC",
+    "MixCal 521619A",
+    "MixCal 521619AC",
+    "MixCal 521A Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1454744/Caleffi-Mixcal-521400a.html"
+  },
+  {
+   "manualId": "3873153",
+   "slug": "Caleffi-Monitor-2-0-E",
+   "title": "MONITOR 2.0 E OPERATING STEPS - INSTALLATION MANUAL",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "MONITOR 2.0 E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3873153/Caleffi-Monitor-2-0-E.html"
+  },
+  {
+   "manualId": "3577321",
+   "slug": "Caleffi-145019",
+   "title": "Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3577321/Caleffi-145019.html"
+  },
+  {
+   "manualId": "3469641",
+   "slug": "Caleffi-Pivotmixer-520-Series",
+   "title": "PivotMixer 520 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "PivotMixer 520 Series",
+   "extraModels": [
+    "PivotMixer 52051 AP Series",
+    "PivotMixer 520510AP",
+    "PivotMixer 520516AP",
+    "PivotMixer 520519AP"
+   ],
+   "url": "https://www.manualslib.com/manual/3469641/Caleffi-Pivotmixer-520-Series.html"
+  },
+  {
+   "manualId": "3711533",
+   "slug": "Caleffi-Plurimod-7008-Series",
+   "title": "PLURIMOD 7008 Series instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "PLURIMOD 7008 Series",
+   "extraModels": [
+    "PLURIMOD 700815",
+    "PLURIMOD 700815 001",
+    "PLURIMOD 700815 007",
+    "PLURIMOD 700816",
+    "PLURIMOD 700816 001",
+    "PLURIMOD 700816 007"
+   ],
+   "url": "https://www.manualslib.com/manual/3711533/Caleffi-Plurimod-7008-Series.html"
+  },
+  {
+   "manualId": "3191634",
+   "slug": "Caleffi-Prescal-5355h-Series",
+   "title": "PresCal 5355H Series Installation, commissioning and servicing instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "PresCal 5355H Series",
+   "extraModels": [
+    "PresCal 535650HA",
+    "PresCal 535660HA"
+   ],
+   "url": "https://www.manualslib.com/manual/3191634/Caleffi-Prescal-5355h-Series.html"
+  },
+  {
+   "manualId": "1621272",
+   "slug": "Caleffi-309-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1621272/Caleffi-309-Series.html"
+  },
+  {
+   "manualId": "1964220",
+   "slug": "Caleffi-Prescal-Compact-533h-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1964220/Caleffi-Prescal-Compact-533h-Series.html"
+  },
+  {
+   "manualId": "1973547",
+   "slug": "Caleffi-Dirtcal-5462-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1973547/Caleffi-Dirtcal-5462-Series.html"
+  },
+  {
+   "manualId": "1973552",
+   "slug": "Caleffi-Satk50-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1973552/Caleffi-Satk50-Series.html"
+  },
+  {
+   "manualId": "1974600",
+   "slug": "Caleffi-Flowcal-121-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1974600/Caleffi-Flowcal-121-Series.html"
+  },
+  {
+   "manualId": "1974650",
+   "slug": "Caleffi-255-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1974650/Caleffi-255-Series.html"
+  },
+  {
+   "manualId": "1975133",
+   "slug": "Caleffi-508013a",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1975133/Caleffi-508013a.html"
+  },
+  {
+   "manualId": "2127999",
+   "slug": "Caleffi-510-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2127999/Caleffi-510-Series.html"
+  },
+  {
+   "manualId": "2498196",
+   "slug": "Caleffi-603-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2498196/Caleffi-603-Series.html"
+  },
+  {
+   "manualId": "3045792",
+   "slug": "Caleffi-519-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3045792/Caleffi-519-Series.html"
+  },
+  {
+   "manualId": "4039616",
+   "slug": "Caleffi-QuicksetterPlus-132afc-Series",
+   "title": "QuickSetter+ 132 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "QuickSetter+ 132 Series",
+   "extraModels": [
+    "QuickSetter+ 132430AFC",
+    "QuickSetter+ 132431AFC",
+    "QuickSetter+ 132432AFC",
+    "QuickSetter+ 132433AFC",
+    "QuickSetter+ 132434AFC",
+    "QuickSetter+ 132435AFC",
+    "QuickSetter+ 132436AFC",
+    "QuickSetter+ 132437AFC",
+    "QuickSetter+ 132438AFC",
+    "QuickSetter+ 132439AFC",
+    "QuickSetter+ 132450AFC",
+    "QuickSetter+ 132451AFC",
+    "QuickSetter+ 132452AFC",
+    "QuickSetter+ 132453AFC",
+    "QuickSetter+ 132454AFC",
+    "QuickSetter+ 132455AFC",
+    "QuickSetter+ 132456AFC",
+    "QuickSetter+ 132457AFC",
+    "QuickSetter+ 132458AFC",
+    "QuickSetter+ 132459AFC",
+    "QuickSetter+ 132530AFC",
+    "QuickSetter+ 132531AFC",
+    "QuickSetter+ 132532AFC",
+    "QuickSetter+ 132533AFC",
+    "QuickSetter+ 132534AFC",
+    "QuickSetter+ 132535AFC",
+    "QuickSetter+ 132536AFC",
+    "QuickSetter+ 132537AFC",
+    "QuickSetter+ 132538AFC",
+    "QuickSetter+ 132539AFC",
+    "QuickSetter+ 132550AFC",
+    "QuickSetter+ 132551AFC",
+    "QuickSetter+ 132552AFC",
+    "QuickSetter+ 132553AFC",
+    "QuickSetter+ 132554AFC",
+    "QuickSetter+ 132555AFC",
+    "QuickSetter+ 132556AFC",
+    "QuickSetter+ 132557AFC",
+    "QuickSetter+ 132558AFC",
+    "QuickSetter+ 132559AFC",
+    "QuickSetter+ 132630AFC",
+    "QuickSetter+ 132631AFC",
+    "QuickSetter+ 132632AFC",
+    "QuickSetter+ 132633AFC",
+    "QuickSetter+ 132634AFC",
+    "QuickSetter+ 132635AFC",
+    "QuickSetter+ 132636AFC",
+    "QuickSetter+ 132637AFC",
+    "QuickSetter+ 132638AFC",
+    "QuickSetter+ 132639AFC",
+    "QuickSetter+ 132650AFC",
+    "QuickSetter+ 132651AFC",
+    "QuickSetter+ 132652AFC",
+    "QuickSetter+ 132653AFC",
+    "QuickSetter+ 132654AFC",
+    "QuickSetter+ 132655AFC",
+    "QuickSetter+ 132656AFC",
+    "QuickSetter+ 132657AFC",
+    "QuickSetter+ 132658AFC",
+    "QuickSetter+ 132659AFC"
+   ],
+   "url": "https://www.manualslib.com/manual/4039616/Caleffi-QuicksetterPlus-132afc-Series.html"
+  },
+  {
+   "manualId": "1981373",
+   "slug": "Caleffi-QuicksetterPlus-132-Series",
+   "title": "QuickSetter+ 132 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "QuickSetter+ 132 Series",
+   "extraModels": [
+    "QuickSetter+ 132434AFC",
+    "QuickSetter+ 132435AFC",
+    "QuickSetter+ 132438AFC",
+    "QuickSetter+ 132439AFC",
+    "QuickSetter+ 132454AFC",
+    "QuickSetter+ 132455AFC",
+    "QuickSetter+ 132458AFC",
+    "QuickSetter+ 132459AFC",
+    "QuickSetter+ 132534AFC",
+    "QuickSetter+ 132535AFC",
+    "QuickSetter+ 132536AFC",
+    "QuickSetter+ 132537AFC",
+    "QuickSetter+ 132538AFC",
+    "QuickSetter+ 132539AFC",
+    "QuickSetter+ 132554AFC",
+    "QuickSetter+ 132555AFC",
+    "QuickSetter+ 132556AFC",
+    "QuickSetter+ 132557AFC",
+    "QuickSetter+ 132558AFC",
+    "QuickSetter+ 132559AFC",
+    "QuickSetter+ 132634AFC",
+    "QuickSetter+ 132635AFC",
+    "QuickSetter+ 132638AFC",
+    "QuickSetter+ 132639AFC",
+    "QuickSetter+ 132654AFC",
+    "QuickSetter+ 132655AFC",
+    "QuickSetter+ 132658AFC",
+    "QuickSetter+ 132659AFC"
+   ],
+   "url": "https://www.manualslib.com/manual/1981373/Caleffi-QuicksetterPlus-132-Series.html"
+  },
+  {
+   "manualId": "1630582",
+   "slug": "Caleffi-QuicksetterPlus-132-Series",
+   "title": "QuickSetter+ 132 Series user manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "QuickSetter+ 132 Series",
+   "extraModels": [
+    "QuickSetter+ 132438AFC",
+    "QuickSetter+ 132439AFC",
+    "QuickSetter+ 132458AFC",
+    "QuickSetter+ 132459AFC",
+    "QuickSetter+ 132536AFC",
+    "QuickSetter+ 132537AFC",
+    "QuickSetter+ 132538AFC",
+    "QuickSetter+ 132539AFC",
+    "QuickSetter+ 132556AFC",
+    "QuickSetter+ 132557AFC",
+    "QuickSetter+ 132558AFC",
+    "QuickSetter+ 132559AFC",
+    "QuickSetter+ 132638AFC",
+    "QuickSetter+ 132639AFC",
+    "QuickSetter+ 132658AFC",
+    "QuickSetter+ 132659AFC"
+   ],
+   "url": "https://www.manualslib.com/manual/1630582/Caleffi-QuicksetterPlus-132-Series.html"
+  },
+  {
+   "manualId": "3693418",
+   "slug": "Caleffi-Z-One-Z2-Series",
+   "title": "Replacement instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3693418/Caleffi-Z-One-Z2-Series.html"
+  },
+  {
+   "manualId": "1824577",
+   "slug": "Caleffi-Satk-Series",
+   "title": "SATK Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": "SATK Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1824577/Caleffi-Satk-Series.html"
+  },
+  {
+   "manualId": "3354465",
+   "slug": "Caleffi-Satk-Series",
+   "title": "SATK Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "SATK Series",
+   "extraModels": [
+    "SATK15 Series",
+    "SATK15324 ABC",
+    "SATK15324 DPCV",
+    "SATK15325 ABC",
+    "SATK15325 DPCV"
+   ],
+   "url": "https://www.manualslib.com/manual/3354465/Caleffi-Satk-Series.html"
+  },
+  {
+   "manualId": "1809445",
+   "slug": "Caleffi-Satk-Series",
+   "title": "SATK Series instruction manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "SATK Series",
+   "extraModels": [
+    "SATK",
+    "SATKF2000"
+   ],
+   "url": "https://www.manualslib.com/manual/1809445/Caleffi-Satk-Series.html"
+  },
+  {
+   "manualId": "1665978",
+   "slug": "Caleffi-Satk30-Series",
+   "title": "SATK Series Instructions For Installation, Commissioning And Maintenance",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "SATK Series",
+   "extraModels": [
+    "SATK Series",
+    "SATK30103HE",
+    "SATK30105HE"
+   ],
+   "url": "https://www.manualslib.com/manual/1665978/Caleffi-Satk30-Series.html"
+  },
+  {
+   "manualId": "3446928",
+   "slug": "Caleffi-Satk32107-Series",
+   "title": "SATK Series instructions manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "SATK Series",
+   "extraModels": [
+    "SATK Series",
+    "SATK32103",
+    "SATK32105"
+   ],
+   "url": "https://www.manualslib.com/manual/3446928/Caleffi-Satk32107-Series.html"
+  },
+  {
+   "manualId": "1691447",
+   "slug": "Caleffi-Satk20-Series",
+   "title": "SATK20 Series INSTRUCTIONS FOR INSTALLATION, COMMISSIONING AND MAINTENANCE",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "SATK20 Series",
+   "extraModels": [
+    "SATK20103HE",
+    "SATK20305",
+    "SATK20403HE"
+   ],
+   "url": "https://www.manualslib.com/manual/1691447/Caleffi-Satk20-Series.html"
+  },
+  {
+   "manualId": "3861617",
+   "slug": "Caleffi-Satk20203he",
+   "title": "SATK20203HE INSTRUCTIONS FOR INSTALLATION, COMMISSIONING AND MAINTENANCE",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "SATK20203HE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3861617/Caleffi-Satk20203he.html"
+  },
+  {
+   "manualId": "3861618",
+   "slug": "Caleffi-Satk20303",
+   "title": "SATK20303 INSTRUCTIONS FOR INSTALLATION, COMMISSIONING AND MAINTENANCE",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "SATK20303",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3861618/Caleffi-Satk20303.html"
+  },
+  {
+   "manualId": "1645659",
+   "slug": "Caleffi-Satk32105",
+   "title": "SATK32 Series INSTRUCTIONS FOR INSTALLATION, COMMISSIONING AND MAINTENANCE",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "SATK32 Series",
+   "extraModels": [
+    "SATK32103"
+   ],
+   "url": "https://www.manualslib.com/manual/1645659/Caleffi-Satk32105.html"
+  },
+  {
+   "manualId": "1756586",
+   "slug": "Caleffi-Satk40-Series",
+   "title": "SATK40 Series INSTRUCTIONS FOR INSTALLATION, COMMISSIONING AND MAINTENANCE",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "SATK40 Series",
+   "extraModels": [
+    "SATK40103HE"
+   ],
+   "url": "https://www.manualslib.com/manual/1756586/Caleffi-Satk40-Series.html"
+  },
+  {
+   "manualId": "1818219",
+   "slug": "Caleffi-Sensonical-Ultra-Cal19185m-Series",
+   "title": "SENSONICAL ULTRA CAL19185M Series Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "SENSONICAL ULTRA CAL19185M Series",
+   "extraModels": [
+    "SENSONICAL ULTRA CAL19185MI",
+    "SENSONICAL ULTRA CAL19185MU"
+   ],
+   "url": "https://www.manualslib.com/manual/1818219/Caleffi-Sensonical-Ultra-Cal19185m-Series.html"
+  },
+  {
+   "manualId": "1824573",
+   "slug": "Caleffi-Sinkmixer-521201a",
+   "title": "SinkMixer 521201A Installation and commissioning manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "SinkMixer 521201A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1824573/Caleffi-Sinkmixer-521201a.html"
+  },
+  {
+   "manualId": "3696013",
+   "slug": "Caleffi-Tankmixer-520-Series",
+   "title": "TankMixer 520 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "TankMixer 520 Series",
+   "extraModels": [
+    "TankMixer 520500AX",
+    "TankMixer 520506AX",
+    "TankMixer 520509AX",
+    "TankMixer 52050_AX Series",
+    "TankMixer 520510AX",
+    "TankMixer 520516AX",
+    "TankMixer 520519AX",
+    "TankMixer 52051_AX Series",
+    "TankMixer Compact 520 Series",
+    "TankMixer Compact 52051 AP Series",
+    "TankMixer Compact 520510AP",
+    "TankMixer Compact 520516AP",
+    "TankMixer Compact 520519AP"
+   ],
+   "url": "https://www.manualslib.com/manual/3696013/Caleffi-Tankmixer-520-Series.html"
+  },
+  {
+   "manualId": "4340977",
+   "slug": "Caleffi-Tankmixer-520-Series",
+   "title": "TankMixer 520 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "TankMixer 520 Series",
+   "extraModels": [
+    "TankMixer 520500AX",
+    "TankMixer 520506AX",
+    "TankMixer 520509AX",
+    "TankMixer 52050_AX Series",
+    "TankMixer 520510AX",
+    "TankMixer 520516AX",
+    "TankMixer 520519AX",
+    "TankMixer 52051_AX Series",
+    "TankMixer 520051A"
+   ],
+   "url": "https://www.manualslib.com/manual/4340977/Caleffi-Tankmixer-520-Series.html"
+  },
+  {
+   "manualId": "1755279",
+   "slug": "Caleffi-Tankmixer-520-Series",
+   "title": "TankMixer 520 Series quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "TankMixer 520 Series",
+   "extraModels": [
+    "TankMixer 52050_AX Series",
+    "TankMixer 52051_AX Series",
+    "TankMixer 520051A"
+   ],
+   "url": "https://www.manualslib.com/manual/1755279/Caleffi-Tankmixer-520-Series.html"
+  },
+  {
+   "manualId": "2404578",
+   "slug": "Caleffi-Thermosetter-116-Series",
+   "title": "ThermoSetter 116 Series Installation, commissioning and servicing instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "ThermoSetter 116 Series",
+   "extraModels": [
+    "ThermoSetter 1161 Series",
+    "ThermoSetter 116140A",
+    "ThermoSetter 116140AC",
+    "ThermoSetter 116141A",
+    "ThermoSetter 116141AC",
+    "ThermoSetter 116150A",
+    "ThermoSetter 116150AC",
+    "ThermoSetter 116151A",
+    "ThermoSetter 116151AC",
+    "ThermoSetter 1162 Series",
+    "ThermoSetter 116240A",
+    "ThermoSetter 116240AC",
+    "ThermoSetter 116250A",
+    "ThermoSetter 116250AC",
+    "ThermoSetter 1163 Series",
+    "ThermoSetter 116340A",
+    "ThermoSetter 116340AC",
+    "ThermoSetter 116350A",
+    "ThermoSetter 116350AC"
+   ],
+   "url": "https://www.manualslib.com/manual/2404578/Caleffi-Thermosetter-116-Series.html"
+  },
+  {
+   "manualId": "1873952",
+   "slug": "Caleffi-Thermosetter-116-Series",
+   "title": "ThermoSetter 116 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "ThermoSetter 116 Series",
+   "extraModels": [
+    "ThermoSetter 1161 Series",
+    "ThermoSetter 116140A",
+    "ThermoSetter 116140AC",
+    "ThermoSetter 116141A",
+    "ThermoSetter 116141AC",
+    "ThermoSetter 1161450AC",
+    "ThermoSetter 116151A",
+    "ThermoSetter 116151AC",
+    "ThermoSetter 1161550A",
+    "ThermoSetter 1162 Series",
+    "ThermoSetter 1163 Series",
+    "ThermoSetter 116340A",
+    "ThermoSetter 116340AC",
+    "ThermoSetter 116350A",
+    "ThermoSetter 116350AC",
+    "ThermoSetter 1166 Series",
+    "ThermoSetter 116D40A",
+    "ThermoSetter 116D40AC",
+    "ThermoSetter 116D50A",
+    "ThermoSetter 116D50AC"
+   ],
+   "url": "https://www.manualslib.com/manual/1873952/Caleffi-Thermosetter-116-Series.html"
+  },
+  {
+   "manualId": "2404576",
+   "slug": "Caleffi-Thermosetter-1164-Series",
+   "title": "ThermoSetter 116010 Installation, commissioning and servicing instructions",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "ThermoSetter 116010",
+   "extraModels": [
+    "ThermoSetter 116010",
+    "ThermoSetter 11614 AC Series",
+    "ThermoSetter 1164 A Series",
+    "ThermoSetter 116440A",
+    "ThermoSetter 116440AC",
+    "ThermoSetter 116441A",
+    "ThermoSetter 116441AC",
+    "ThermoSetter 116450A",
+    "ThermoSetter 116450AC",
+    "ThermoSetter 116451A",
+    "ThermoSetter 116451AC"
+   ],
+   "url": "https://www.manualslib.com/manual/2404576/Caleffi-Thermosetter-1164-Series.html"
+  },
+  {
+   "manualId": "2404574",
+   "slug": "Caleffi-Thermosetter-1164-Series",
+   "title": "ThermoSetter 116140A Installation, commissioning and servicing instructions",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "ThermoSetter 116140A",
+   "extraModels": [
+    "ThermoSetter 116140A",
+    "ThermoSetter 116140AC",
+    "ThermoSetter 116141A",
+    "ThermoSetter 116141AC",
+    "ThermoSetter 116150A",
+    "ThermoSetter 116150AC",
+    "ThermoSetter 116151A",
+    "ThermoSetter 116151AC"
+   ],
+   "url": "https://www.manualslib.com/manual/2404574/Caleffi-Thermosetter-1164-Series.html"
+  },
+  {
+   "manualId": "2767613",
+   "slug": "Caleffi-Uni-Switch-626-Series",
+   "title": "Uni-Switch 626 Series Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "Uni-Switch 626 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2767613/Caleffi-Uni-Switch-626-Series.html"
+  },
+  {
+   "manualId": "3076219",
+   "slug": "Caleffi-5022-Series",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3076219/Caleffi-5022-Series.html"
+  },
+  {
+   "manualId": "2650440",
+   "slug": "Caleffi-Z-One-Zvr103",
+   "title": "Z-one ZSR101 Series Manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "Z-one ZSR101 Series",
+   "extraModels": [
+    "Z-one ZSR101 Series",
+    "Z-one ZVR104",
+    "Z-one ZVR106",
+    "Z-one ZVR10X Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2650440/Caleffi-Z-One-Zvr103.html"
+  },
+  {
+   "manualId": "1562666",
+   "slug": "Caleffi-Z-One-Zsr101-Series",
+   "title": "Z-one ZSR101 Series Wiring manual",
+   "type": "Parts & Wiring",
+   "pages": 52,
+   "productModel": "Z-one ZSR101 Series",
+   "extraModels": [
+    "Z-one ZSR103",
+    "Z-one ZSR104",
+    "Z-one ZSR106",
+    "Z-one ZVR103",
+    "Z-one ZVR104",
+    "Z-one ZVR106"
+   ],
+   "url": "https://www.manualslib.com/manual/1562666/Caleffi-Z-One-Zsr101-Series.html"
+  },
+  {
+   "manualId": "2342217",
+   "slug": "Caleffi-Z-One-Zsr10x-Series",
+   "title": "Z-one ZSR103 Manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "Z-one ZSR103",
+   "extraModels": [
+    "Z-one ZSR103",
+    "Z-one ZSR104",
+    "Z-one ZSR106"
+   ],
+   "url": "https://www.manualslib.com/manual/2342217/Caleffi-Z-One-Zsr10x-Series.html"
+  },
+  {
+   "manualId": "2677444",
+   "slug": "Caleffi-Z-One-Zsr10-Series",
+   "title": "Z-one ZSR103 Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "Z-one ZSR103",
+   "extraModels": [
+    "Z-one ZSR103",
+    "Z-one ZSR104",
+    "Z-one ZSR106"
+   ],
+   "url": "https://www.manualslib.com/manual/2677444/Caleffi-Z-One-Zsr10-Series.html"
+  },
+  {
+   "manualId": "2014159",
+   "slug": "Caleffi-Z-One-Zvr10-Series",
+   "title": "Z-one ZVR103 Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "Z-one ZVR103",
+   "extraModels": [
+    "Z-one ZVR103",
+    "Z-one ZVR104",
+    "Z-one ZVR106"
+   ],
+   "url": "https://www.manualslib.com/manual/2014159/Caleffi-Z-One-Zvr10-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "caleffi"
+ ]
+}

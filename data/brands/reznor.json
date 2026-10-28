@@ -1,0 +1,4077 @@
+{
+ "brand": "Reznor",
+ "brandSlug": "reznor",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/reznor/"
+ ],
+ "slugUsed": "reznor",
+ "capturedAt": "2026-10-28T09:17:34.149971+00:00",
+ "typePages": [
+  {
+   "path": "/brand/reznor/air-conditioner.html",
+   "manuals": 77,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/adapter.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/air-cleaner.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/air-handlers.html",
+   "manuals": 103,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/blower.html",
+   "manuals": 49,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/boiler.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/computer-hardware.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/control-panel.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/control-unit.html",
+   "manuals": 14,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/controller.html",
+   "manuals": 14,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/electric-heater.html",
+   "manuals": 35,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/engine.html",
+   "manuals": 30,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/fan.html",
+   "manuals": 147,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/floor-heating-systems.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/furnace.html",
+   "manuals": 73,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/gas-heater.html",
+   "manuals": 319,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/heat-pump.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/heater.html",
+   "manuals": 754,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/heating-system.html",
+   "manuals": 120,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/indoor-fireplace.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/industrial-equipment.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/inverter.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/relays.html",
+   "manuals": 80,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/switch.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/thermostat.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/transformer.html",
+   "manuals": 39,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/ventilation-hood.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/reznor/water-heater-accessories.html",
+   "manuals": 15,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4586068",
+   "slug": "Reznor-092135",
+   "title": "092135 installation instructions manual",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "092135",
+   "extraModels": [
+    "092136",
+    "092137",
+    "092138",
+    "092139",
+    "092140",
+    "092141",
+    "092142",
+    "092143",
+    "092144",
+    "092145",
+    "092146",
+    "092147",
+    "092148",
+    "093033",
+    "100525",
+    "100526",
+    "100527",
+    "100528",
+    "100529",
+    "100530",
+    "100531",
+    "100532",
+    "1006137",
+    "1012212",
+    "1013076",
+    "1021115",
+    "1021116",
+    "102280",
+    "102281",
+    "102348",
+    "102349",
+    "102350",
+    "1024614",
+    "1033741R",
+    "1036360",
+    "1036361",
+    "1036362",
+    "1041258",
+    "112974",
+    "132377",
+    "132378",
+    "146268",
+    "146318",
+    "146319",
+    "159877",
+    "163195",
+    "163196",
+    "163197",
+    "165986",
+    "177633",
+    "193806",
+    "193807",
+    "193808",
+    "193809",
+    "193810",
+    "193811",
+    "193812",
+    "193813",
+    "196653",
+    "196654",
+    "201667",
+    "201668",
+    "201669",
+    "201670",
+    "201671",
+    "201672",
+    "208474",
+    "208475",
+    "209184",
+    "209187",
+    "209211",
+    "209423",
+    "209754",
+    "209755",
+    "209756",
+    "209757",
+    "209758",
+    "209759",
+    "209760",
+    "209761",
+    "209762",
+    "216970",
+    "221093",
+    "221112",
+    "221113",
+    "221114",
+    "221115",
+    "221116",
+    "221117",
+    "221214",
+    "221634",
+    "222037",
+    "235658",
+    "257472",
+    "257473",
+    "257531",
+    "258251",
+    "259521",
+    "262375",
+    "262971",
+    "263527",
+    "263528",
+    "263529",
+    "263530",
+    "263931",
+    "263932",
+    "263933",
+    "263934",
+    "268301",
+    "268302"
+   ],
+   "url": "https://www.manualslib.com/manual/4586068/Reznor-092135.html"
+  },
+  {
+   "manualId": "1668896",
+   "slug": "Reznor-12",
+   "title": "100 Installation Commissioning Servicing & User Instructions",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "100",
+   "extraModels": [
+    "100",
+    "120",
+    "35",
+    "45",
+    "145",
+    "LCSA-4 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1668896/Reznor-12.html"
+  },
+  {
+   "manualId": "3426215",
+   "slug": "Reznor-Photon-Series",
+   "title": "100 Installation, commissioning and servicing instruction manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "100",
+   "extraModels": [
+    "100",
+    "120",
+    "35",
+    "45",
+    "PHOTON 10",
+    "PHOTON 20",
+    "PHOTON 25",
+    "PHOTON 55",
+    "PHOTON 65",
+    "PHOTON 70"
+   ],
+   "url": "https://www.manualslib.com/manual/3426215/Reznor-Photon-Series.html"
+  },
+  {
+   "manualId": "4039690",
+   "slug": "Reznor-Sc1",
+   "title": "1043105 installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "1043105",
+   "extraModels": [
+    "1043105",
+    "1043106",
+    "1043107"
+   ],
+   "url": "https://www.manualslib.com/manual/4039690/Reznor-Sc1.html"
+  },
+  {
+   "manualId": "3861017",
+   "slug": "Reznor-20",
+   "title": "20 Installation Commissioning Servicing & User Instructions",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3861017/Reznor-20.html"
+  },
+  {
+   "manualId": "3685812",
+   "slug": "Reznor-Ldap",
+   "title": "209211 Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "209211",
+   "extraModels": [
+    "209211"
+   ],
+   "url": "https://www.manualslib.com/manual/3685812/Reznor-Ldap.html"
+  },
+  {
+   "manualId": "3861018",
+   "slug": "Reznor-30",
+   "title": "30 Installation Commissioning Servicing & User Instructions",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3861018/Reznor-30.html"
+  },
+  {
+   "manualId": "4057418",
+   "slug": "Reznor-Euro-H-30000-S",
+   "title": "30067 S Installation Commissioning Servicing & User Instructions",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "30067 S",
+   "extraModels": [
+    "30067 S",
+    "30087 S",
+    "30107 S",
+    "35067 S",
+    "35087 S",
+    "35107 S",
+    "EURO-H 35000 S"
+   ],
+   "url": "https://www.manualslib.com/manual/4057418/Reznor-Euro-H-30000-S.html"
+  },
+  {
+   "manualId": "4266407",
+   "slug": "Reznor-45-000-Btu",
+   "title": "45,000 BTU Installation operation & maintenance",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "45,000 BTU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4266407/Reznor-45-000-Btu.html"
+  },
+  {
+   "manualId": "3861020",
+   "slug": "Reznor-50",
+   "title": "50 Installation commissioning servicing & user instructions",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "50",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3861020/Reznor-50.html"
+  },
+  {
+   "manualId": "3861019",
+   "slug": "Reznor-60",
+   "title": "60 Installation commissioning servicing & user instructions",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3861019/Reznor-60.html"
+  },
+  {
+   "manualId": "3861021",
+   "slug": "Reznor-75",
+   "title": "75 Installation commissioning servicing & user instructions",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "75",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3861021/Reznor-75.html"
+  },
+  {
+   "manualId": "885683",
+   "slug": "Reznor-Rhc-8000-M-Rjl",
+   "title": "8030 06 Installation, comissioning and servicing instructions",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "8030 06",
+   "extraModels": [
+    "8030 06",
+    "8045 09",
+    "8050 06",
+    "8060 12",
+    "8075 09",
+    "8075 15",
+    "8090 19",
+    "8100 12",
+    "8125M.15",
+    "8150M.18",
+    "8175M.21",
+    "8200M.24"
+   ],
+   "url": "https://www.manualslib.com/manual/885683/Reznor-Rhc-8000-M-Rjl.html"
+  },
+  {
+   "manualId": "1838624",
+   "slug": "Reznor-Ab-2-Series",
+   "title": "AB-2 Series Installation & service manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "AB-2 Series",
+   "extraModels": [
+    "AB175-2",
+    "AB225-2"
+   ],
+   "url": "https://www.manualslib.com/manual/1838624/Reznor-Ab-2-Series.html"
+  },
+  {
+   "manualId": "2328972",
+   "slug": "Reznor-Ab-2",
+   "title": "AB-2 Series Installation and operating manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "AB-2 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2328972/Reznor-Ab-2.html"
+  },
+  {
+   "manualId": "2997081",
+   "slug": "Reznor-Ab-175-2",
+   "title": "AB175-2 Installation and operating manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "AB175-2",
+   "extraModels": [
+    "AB225-2"
+   ],
+   "url": "https://www.manualslib.com/manual/2997081/Reznor-Ab-175-2.html"
+  },
+  {
+   "manualId": "1598930",
+   "slug": "Reznor-Acr1000se6-1ph",
+   "title": "ACR Series Installation and operating manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "ACR Series",
+   "extraModels": [
+    "ACR Series",
+    "ACR1000SA",
+    "ACR1000SE9",
+    "ACR1000SW9",
+    "ACR1200HA",
+    "ACR1200HE12",
+    "ACR1200HW12",
+    "ACR1500SA",
+    "ACR1500SE12",
+    "ACR1500SE6-1PH",
+    "ACR1500SW12",
+    "ACR1800HA",
+    "ACR1800HE18",
+    "ACR1800HW18",
+    "ACR2000HA",
+    "ACR2000HE18",
+    "ACR2000HW18",
+    "ACR2000SA",
+    "ACR2000SE18",
+    "ACR2000SE9-1PH",
+    "ACR2000SW18"
+   ],
+   "url": "https://www.manualslib.com/manual/1598930/Reznor-Acr1000se6-1ph.html"
+  },
+  {
+   "manualId": "2317603",
+   "slug": "Reznor-Act03",
+   "title": "ACT03 Installation and operating manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "ACT03",
+   "extraModels": [
+    "ACT04",
+    "ACT06"
+   ],
+   "url": "https://www.manualslib.com/manual/2317603/Reznor-Act03.html"
+  },
+  {
+   "manualId": "3856462",
+   "slug": "Reznor-Adf-Series",
+   "title": "ADF Series Installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "ADF Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3856462/Reznor-Adf-Series.html"
+  },
+  {
+   "manualId": "3856461",
+   "slug": "Reznor-Adf300",
+   "title": "ADF300 Installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "ADF300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3856461/Reznor-Adf300.html"
+  },
+  {
+   "manualId": "1586676",
+   "slug": "Reznor-Adfh-Series",
+   "title": "ADF500 Installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "ADF500",
+   "extraModels": [
+    "ADF500",
+    "ADFH300",
+    "ADFH500"
+   ],
+   "url": "https://www.manualslib.com/manual/1586676/Reznor-Adfh-Series.html"
+  },
+  {
+   "manualId": "1901275",
+   "slug": "Reznor-Airbloc-Ac-Series",
+   "title": "AirBloc AC Series Installation and operating manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "AirBloc AC Series",
+   "extraModels": [
+    "AirBloc AC1000HAW",
+    "AirBloc AC1000HE12",
+    "AirBloc AC1000HW12",
+    "AirBloc AC1000SAW",
+    "AirBloc AC1000SE09",
+    "AirBloc AC1000SW09",
+    "AirBloc AC1500HAW",
+    "AirBloc AC1500HE18",
+    "AirBloc AC1500HW18",
+    "AirBloc AC1500SAW",
+    "AirBloc AC1500SE12",
+    "AirBloc AC1500SW12",
+    "AirBloc AC2000HAW",
+    "AirBloc AC2000HE24",
+    "AirBloc AC2000HW24",
+    "AirBloc AC2000SAW",
+    "AirBloc AC2000SE18",
+    "AirBloc AC2000SW18"
+   ],
+   "url": "https://www.manualslib.com/manual/1901275/Reznor-Airbloc-Ac-Series.html"
+  },
+  {
+   "manualId": "1587199",
+   "slug": "Reznor-Ldap",
+   "title": "APD installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "APD",
+   "extraModels": [
+    "APD",
+    "UDAP",
+    "UDAS",
+    "UDBP",
+    "UDBS",
+    "B",
+    "F",
+    "UEAS"
+   ],
+   "url": "https://www.manualslib.com/manual/1587199/Reznor-Ldap.html"
+  },
+  {
+   "manualId": "1766367",
+   "slug": "Reznor-Uda-Series",
+   "title": "APD Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "APD",
+   "extraModels": [
+    "APD",
+    "UDAP",
+    "UDBP",
+    "UDBS",
+    "APD Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1766367/Reznor-Uda-Series.html"
+  },
+  {
+   "manualId": "4585009",
+   "slug": "Reznor-Apd",
+   "title": "APD instructions manual",
+   "type": "User / Owner",
+   "pages": 38,
+   "productModel": "APD",
+   "extraModels": [
+    "UDAP",
+    "UDAS",
+    "UDBP",
+    "UDBS"
+   ],
+   "url": "https://www.manualslib.com/manual/4585009/Reznor-Apd.html"
+  },
+  {
+   "manualId": "2948606",
+   "slug": "Reznor-As3",
+   "title": "AS3 Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "AS3",
+   "extraModels": [
+    "AS4",
+    "AS5",
+    "AS8"
+   ],
+   "url": "https://www.manualslib.com/manual/2948606/Reznor-As3.html"
+  },
+  {
+   "manualId": "1587200",
+   "slug": "Reznor-Be",
+   "title": "B Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "B",
+   "extraModels": [
+    "F",
+    "FE"
+   ],
+   "url": "https://www.manualslib.com/manual/1587200/Reznor-Be.html"
+  },
+  {
+   "manualId": "1633541",
+   "slug": "Reznor-Be-Series",
+   "title": "BE Series Manual",
+   "type": "Other",
+   "pages": 29,
+   "productModel": "BE Series",
+   "extraModels": [
+    "FE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1633541/Reznor-Be-Series.html"
+  },
+  {
+   "manualId": "2557692",
+   "slug": "Reznor-Ca1",
+   "title": "CA1 Installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "CA1",
+   "extraModels": [
+    "CA2",
+    "CA3"
+   ],
+   "url": "https://www.manualslib.com/manual/2557692/Reznor-Ca1.html"
+  },
+  {
+   "manualId": "1586679",
+   "slug": "Reznor-Caua-Series",
+   "title": "CAUA 150 instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "CAUA 150",
+   "extraModels": [
+    "CAUA 150",
+    "CAUA 200",
+    "CAUA 250",
+    "CAUA 300",
+    "CAUA 350",
+    "CAUA 400"
+   ],
+   "url": "https://www.manualslib.com/manual/1586679/Reznor-Caua-Series.html"
+  },
+  {
+   "manualId": "2586468",
+   "slug": "Reznor-Ahca",
+   "title": "CAUA Installation",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "CAUA",
+   "extraModels": [
+    "CAUA",
+    "RBL",
+    "RPB",
+    "RPBL",
+    "SSCBL",
+    "SCE"
+   ],
+   "url": "https://www.manualslib.com/manual/2586468/Reznor-Ahca.html"
+  },
+  {
+   "manualId": "2939310",
+   "slug": "Reznor-Caua",
+   "title": "CAUA Installation",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "CAUA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2939310/Reznor-Caua.html"
+  },
+  {
+   "manualId": "2939190",
+   "slug": "Reznor-Caua",
+   "title": "CAUA installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "CAUA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2939190/Reznor-Caua.html"
+  },
+  {
+   "manualId": "2567519",
+   "slug": "Reznor-Caua",
+   "title": "CAUA Installation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "CAUA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2567519/Reznor-Caua.html"
+  },
+  {
+   "manualId": "2769887",
+   "slug": "Reznor-Caua",
+   "title": "CAUA Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "CAUA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2769887/Reznor-Caua.html"
+  },
+  {
+   "manualId": "2434537",
+   "slug": "Reznor-Caua",
+   "title": "CAUA Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "CAUA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2434537/Reznor-Caua.html"
+  },
+  {
+   "manualId": "2967323",
+   "slug": "Reznor-Caua",
+   "title": "CAUA Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "CAUA",
+   "extraModels": [
+    "CW10",
+    "CW11",
+    "CW12",
+    "CW13",
+    "CW14",
+    "CW15",
+    "CW16",
+    "CW4",
+    "CW5",
+    "CW6",
+    "CW7",
+    "CW8",
+    "CW9"
+   ],
+   "url": "https://www.manualslib.com/manual/2967323/Reznor-Caua.html"
+  },
+  {
+   "manualId": "2967326",
+   "slug": "Reznor-Caua",
+   "title": "CAUA quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "CAUA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2967326/Reznor-Caua.html"
+  },
+  {
+   "manualId": "3028065",
+   "slug": "Reznor-Cd2",
+   "title": "CD2 Installation",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "CD2",
+   "extraModels": [
+    "CD3",
+    "CD4",
+    "CD5"
+   ],
+   "url": "https://www.manualslib.com/manual/3028065/Reznor-Cd2.html"
+  },
+  {
+   "manualId": "4124835",
+   "slug": "Reznor-Cd2",
+   "title": "CD2 Installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "CD2",
+   "extraModels": [
+    "CD3",
+    "CD4",
+    "CD5"
+   ],
+   "url": "https://www.manualslib.com/manual/4124835/Reznor-Cd2.html"
+  },
+  {
+   "manualId": "2981657",
+   "slug": "Reznor-Cl31",
+   "title": "CL31 Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "CL31",
+   "extraModels": [
+    "CL32"
+   ],
+   "url": "https://www.manualslib.com/manual/2981657/Reznor-Cl31.html"
+  },
+  {
+   "manualId": "3638525",
+   "slug": "Reznor-Cl31",
+   "title": "CL31 installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "CL31",
+   "extraModels": [
+    "CL32"
+   ],
+   "url": "https://www.manualslib.com/manual/3638525/Reznor-Cl31.html"
+  },
+  {
+   "manualId": "3249321",
+   "slug": "Reznor-Cl31",
+   "title": "CL31 Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "CL31",
+   "extraModels": [
+    "CL32"
+   ],
+   "url": "https://www.manualslib.com/manual/3249321/Reznor-Cl31.html"
+  },
+  {
+   "manualId": "3787008",
+   "slug": "Reznor-Cl32",
+   "title": "CL32 Installation",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "CL32",
+   "extraModels": [
+    "CL31"
+   ],
+   "url": "https://www.manualslib.com/manual/3787008/Reznor-Cl32.html"
+  },
+  {
+   "manualId": "2354226",
+   "slug": "Reznor-Coldair-Wa-Series",
+   "title": "COLDAIR RA Series Installation & service manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "COLDAIR RA Series",
+   "extraModels": [
+    "COLDAIR RA Series",
+    "COLDAIR RC Series",
+    "RA150",
+    "RA200",
+    "RC100",
+    "RC200",
+    "WA100",
+    "WA150"
+   ],
+   "url": "https://www.manualslib.com/manual/2354226/Reznor-Coldair-Wa-Series.html"
+  },
+  {
+   "manualId": "3031809",
+   "slug": "Reznor-CometPlus",
+   "title": "Comet+ user manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "Comet+",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3031809/Reznor-CometPlus.html"
+  },
+  {
+   "manualId": "3882560",
+   "slug": "Reznor-Crgb-Series",
+   "title": "CRGB Series Assemblies",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "CRGB Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3882560/Reznor-Crgb-Series.html"
+  },
+  {
+   "manualId": "2997831",
+   "slug": "Reznor-Xl30",
+   "title": "CX100 Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "CX100",
+   "extraModels": [
+    "CX100",
+    "CX125",
+    "CX175",
+    "CX225",
+    "CX250",
+    "CX300",
+    "CX350",
+    "CX400",
+    "CX75",
+    "CXE100",
+    "CXE125",
+    "CXE175",
+    "CXE225",
+    "CXE250",
+    "CXE300",
+    "CXE350",
+    "CXE400",
+    "CXE75",
+    "CXL105",
+    "CXL140",
+    "CXL150",
+    "CXL170",
+    "CXL200",
+    "CXL225",
+    "CXL250",
+    "CXL30",
+    "CXL300",
+    "CXL350",
+    "CXL400",
+    "CXL45",
+    "CXL60",
+    "CXLB105",
+    "CXLB140",
+    "CXLB150",
+    "CXLB170",
+    "CXLB200",
+    "CXLB225",
+    "CXLB250",
+    "CXLB30",
+    "CXLB300",
+    "CXLB350",
+    "CXLB400",
+    "CXLB45",
+    "CXLB60",
+    "DX300",
+    "X100",
+    "X125",
+    "X150",
+    "X170",
+    "X200",
+    "X225",
+    "X250",
+    "X300",
+    "X350",
+    "X400",
+    "X75",
+    "XE100",
+    "XE125",
+    "XE150",
+    "XE170",
+    "XE200",
+    "XE225",
+    "XE250",
+    "XE300",
+    "XE350",
+    "XE400",
+    "XE75",
+    "XL105",
+    "XL125",
+    "XL140",
+    "XL150",
+    "XL170",
+    "XL200",
+    "XL225",
+    "XL250",
+    "XL300",
+    "XL350",
+    "XL400",
+    "XL45",
+    "XL60",
+    "XLB105",
+    "XLB125",
+    "XLB140",
+    "XLB150",
+    "XLB170",
+    "XLB200",
+    "XLB225",
+    "XLB250",
+    "XLB30",
+    "XLB300",
+    "XLB350",
+    "XLB400",
+    "XLB45",
+    "XLB60"
+   ],
+   "url": "https://www.manualslib.com/manual/2997831/Reznor-Xl30.html"
+  },
+  {
+   "manualId": "2534404",
+   "slug": "Reznor-Eedu",
+   "title": "EEDU Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "EEDU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2534404/Reznor-Eedu.html"
+  },
+  {
+   "manualId": "934509",
+   "slug": "Reznor-Eedu",
+   "title": "EEDU Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "EEDU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/934509/Reznor-Eedu.html"
+  },
+  {
+   "manualId": "4644993",
+   "slug": "Reznor-Eedu",
+   "title": "EEDU Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "EEDU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4644993/Reznor-Eedu.html"
+  },
+  {
+   "manualId": "1016116",
+   "slug": "Reznor-Efma",
+   "title": "EFMA installation manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "EFMA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1016116/Reznor-Efma.html"
+  },
+  {
+   "manualId": "3408140",
+   "slug": "Reznor-Euh",
+   "title": "EUH Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "EUH",
+   "extraModels": [
+    "EUH Series",
+    "EUH-20",
+    "EUH-IOM 1042454-0",
+    "EUH-IOM 1042454-A"
+   ],
+   "url": "https://www.manualslib.com/manual/3408140/Reznor-Euh.html"
+  },
+  {
+   "manualId": "4196963",
+   "slug": "Reznor-Euhc-Series",
+   "title": "EUHC 10 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "EUHC 10",
+   "extraModels": [
+    "EUHC 10",
+    "EUHC 15",
+    "EUHC 20",
+    "EUHC 3",
+    "EUHC 5",
+    "EUHC 7"
+   ],
+   "url": "https://www.manualslib.com/manual/4196963/Reznor-Euhc-Series.html"
+  },
+  {
+   "manualId": "4086262",
+   "slug": "Reznor-Euhc",
+   "title": "EUHC Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "EUHC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4086262/Reznor-Euhc.html"
+  },
+  {
+   "manualId": "3961938",
+   "slug": "Reznor-Euro-TPlus-030",
+   "title": "EURO T+ 030 user manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "EURO T+ 030",
+   "extraModels": [
+    "EURO T+ 045",
+    "EURO T+ 060",
+    "EURO T+ 090",
+    "EURO T+ 120",
+    "EURO T+ 150",
+    "EURO T+ 200"
+   ],
+   "url": "https://www.manualslib.com/manual/3961938/Reznor-Euro-TPlus-030.html"
+  },
+  {
+   "manualId": "2105210",
+   "slug": "Reznor-Euro-C-4000-Rjl",
+   "title": "EURO-C 4000 DJL Application Instructions",
+   "type": "User / Owner",
+   "pages": 31,
+   "productModel": "EURO-C 4000 DJL",
+   "extraModels": [
+    "EURO-C 4000 DJL",
+    "EURO-C 4011 DJL",
+    "EURO-C 4011 RJL",
+    "EURO-C 4015 DJL",
+    "EURO-C 4015 RJL",
+    "EURO-C 4018 DJL",
+    "EURO-C 4018 RJL",
+    "EURO-C 4024 DJL",
+    "EURO-C 4024 RJL",
+    "EURO-C 4030 DJL",
+    "EURO-C 4030 RJL",
+    "EURO-C 4036 DJL",
+    "EURO-C 4036 RJL",
+    "EURO-C 4047 DJL",
+    "EURO-C 4047 RJL",
+    "EURO-C 4060 DJL",
+    "EURO-C 4060 RJL",
+    "EURO-C 4072 DJL",
+    "EURO-C 4072 RJL",
+    "EURO-C 4100 DJL",
+    "EURO-C 4100 RJL"
+   ],
+   "url": "https://www.manualslib.com/manual/2105210/Reznor-Euro-C-4000-Rjl.html"
+  },
+  {
+   "manualId": "2102375",
+   "slug": "Reznor-Euro-C-4000-Rjl",
+   "title": "EURO-C 4000 RJL Instruction document",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "EURO-C 4000 RJL",
+   "extraModels": [
+    "EURO-C 4011 RJL",
+    "EURO-C 4015 RJL",
+    "EURO-C 4018 RJL",
+    "EURO-C 4024 RJL",
+    "EURO-C 4030 RJL",
+    "EURO-C 4036 RJL",
+    "EURO-C 4047 RJL",
+    "EURO-C 4060 RJL",
+    "EURO-C 4072 RJL",
+    "EURO-C 4100 RJL"
+   ],
+   "url": "https://www.manualslib.com/manual/2102375/Reznor-Euro-C-4000-Rjl.html"
+  },
+  {
+   "manualId": "4131201",
+   "slug": "Reznor-Euro-H-30000-B",
+   "title": "EURO-H 30000 B Installation commissioning servicing & user instructions",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "EURO-H 30000 B",
+   "extraModels": [
+    "EURO-H 30067 B",
+    "EURO-H 30087 B",
+    "EURO-H 30107 B",
+    "EURO-H 35067 B",
+    "EURO-H 35087 B",
+    "EURO-H 35107 B"
+   ],
+   "url": "https://www.manualslib.com/manual/4131201/Reznor-Euro-H-30000-B.html"
+  },
+  {
+   "manualId": "4050047",
+   "slug": "Reznor-Euro-H-30000-E",
+   "title": "EURO-H 30000 E Installation commissioning servicing & user instructions",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "EURO-H 30000 E",
+   "extraModels": [
+    "EURO-H 30067 E",
+    "EURO-H 30087 E",
+    "EURO-H 30107 E",
+    "EURO-H 35067 E",
+    "EURO-H 35087 E",
+    "EURO-H 35107 E"
+   ],
+   "url": "https://www.manualslib.com/manual/4050047/Reznor-Euro-H-30000-E.html"
+  },
+  {
+   "manualId": "4100160",
+   "slug": "Reznor-Euro-T-2000-A",
+   "title": "EURO-T 2000 A Installation, Commissioning, Servicing And User Instructions",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "EURO-T 2000 A",
+   "extraModels": [
+    "EURO-T 2025 A",
+    "EURO-T 2030 A",
+    "EURO-T 2045 A",
+    "EURO-T 2055 A",
+    "EURO-T 2075 A",
+    "EURO-T 2095 A"
+   ],
+   "url": "https://www.manualslib.com/manual/4100160/Reznor-Euro-T-2000-A.html"
+  },
+  {
+   "manualId": "763237",
+   "slug": "Reznor-Gas-Fired-Air-Heaters",
+   "title": "Euro-T 2025D Installation commisioning servicing & user instructions",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "Euro-T 2025D",
+   "extraModels": [
+    "Euro-T 2025D",
+    "Euro-T 2026D",
+    "Euro-T 2030D",
+    "Euro-T 2031D",
+    "Euro-T 2035D",
+    "Euro-T 2036D",
+    "Euro-T 2045D",
+    "Euro-T 2046D",
+    "Euro-T 2055D",
+    "Euro-T 2056D",
+    "Euro-T 2075D",
+    "Euro-T 2076D",
+    "Euro-T 2095D",
+    "Euro-T 2096D",
+    "Euro-T 2525D",
+    "Euro-T 2526D",
+    "Euro-T 2530D",
+    "Euro-T 2531D",
+    "Euro-T 2535D",
+    "Euro-T 2536D",
+    "Euro-T 2545D",
+    "Euro-T 2546D",
+    "Euro-T 2555D",
+    "Euro-T 2556D",
+    "Euro-T 2575D",
+    "Euro-T 2576D",
+    "Euro-T 2595D",
+    "Euro-T 2596D",
+    "Gas Fired Air Heaters"
+   ],
+   "url": "https://www.manualslib.com/manual/763237/Reznor-Gas-Fired-Air-Heaters.html"
+  },
+  {
+   "manualId": "2101828",
+   "slug": "Reznor-Euro-X-1000-D",
+   "title": "EURO-X 1000 D Manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "EURO-X 1000 D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2101828/Reznor-Euro-X-1000-D.html"
+  },
+  {
+   "manualId": "4128589",
+   "slug": "Reznor-Ewhb",
+   "title": "EWHB Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "EWHB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4128589/Reznor-Ewhb.html"
+  },
+  {
+   "manualId": "3755679",
+   "slug": "Reznor-Ewhb",
+   "title": "EWHB Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "EWHB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3755679/Reznor-Ewhb.html"
+  },
+  {
+   "manualId": "762535",
+   "slug": "Reznor-Ewhb",
+   "title": "EWHB owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "EWHB",
+   "extraModels": [
+    "EWHB Series"
+   ],
+   "url": "https://www.manualslib.com/manual/762535/Reznor-Ewhb.html"
+  },
+  {
+   "manualId": "3749164",
+   "slug": "Reznor-Exub",
+   "title": "EXUB Installation and Maintenance manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "EXUB",
+   "extraModels": [
+    "EXUB10AK3E",
+    "EXUB10AK5",
+    "EXUB10AK6E",
+    "EXUB10AK7E",
+    "EXUB10AK8E",
+    "EXUB15AK5",
+    "EXUB15AK6E",
+    "EXUB15AK7E",
+    "EXUB15AK8E",
+    "EXUB20AK7E",
+    "EXUB20AK8E",
+    "EXUB25AK7E",
+    "EXUB25AK8E",
+    "EXUB30AK7E",
+    "EXUB30AK8E",
+    "EXUB35AK7E",
+    "EXUB35AK8E",
+    "EXUB3AK2",
+    "EXUB3AK3E",
+    "EXUB3AK5",
+    "EXUB3AK6E",
+    "EXUB3AK7E",
+    "EXUB3AK8E",
+    "EXUB5AK2",
+    "EXUB5AK3E",
+    "EXUB5AK5",
+    "EXUB5AK6E",
+    "EXUB5AK7E",
+    "EXUB5AK8E",
+    "EXUB7AK2",
+    "EXUB7AK3E",
+    "EXUB7AK5",
+    "EXUB7AK6E",
+    "EXUB7AK7E",
+    "EXUB7AK8E"
+   ],
+   "url": "https://www.manualslib.com/manual/3749164/Reznor-Exub.html"
+  },
+  {
+   "manualId": "4268028",
+   "slug": "Reznor-F75",
+   "title": "F75 instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "F75",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4268028/Reznor-F75.html"
+  },
+  {
+   "manualId": "762009",
+   "slug": "Reznor-Flamrad",
+   "title": "Flamrad Installation, servicing and operating instructions",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Flamrad",
+   "extraModels": [
+    "Flamrad RZ 506 MN",
+    "Flamrad RZ 506 MP",
+    "Flamrad RZ 514 MN",
+    "Flamrad RZ 514 MP",
+    "Flamrad RZ 703 AN",
+    "Flamrad RZ 703 AP",
+    "Flamrad RZ 703 MP",
+    "Flamrad RZ 707 AN",
+    "Flamrad RZ 707 AP",
+    "Flamrad RZ 707 MN",
+    "Flamrad RZ 707 MP",
+    "Flamrad RZ 711 AN",
+    "Flamrad RZ 711 AP",
+    "Flamrad RZ 711 MN",
+    "Flamrad RZ 711 MP",
+    "Flamrad RZ 713 AN",
+    "Flamrad RZ 713 AP",
+    "Flamrad RZ 713 MN",
+    "Flamrad RZ 713 MP",
+    "Flamrad RZ 721 AN",
+    "Flamrad RZ 721 AP",
+    "Flamrad RZ 721 MN",
+    "Flamrad RZ 721 MP",
+    "Flamrad RZ 727 AN",
+    "Flamrad RZ 727 AP",
+    "Flamrad RZ 727 MN",
+    "Flamrad RZ 727 MP"
+   ],
+   "url": "https://www.manualslib.com/manual/762009/Reznor-Flamrad.html"
+  },
+  {
+   "manualId": "1529312",
+   "slug": "Reznor-Fse-Series",
+   "title": "FSE 100 Installation & operating manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "FSE 100",
+   "extraModels": [
+    "FSE 100",
+    "FSE 145",
+    "FSE 175",
+    "FSE 225",
+    "FSE 300",
+    "FSE 40",
+    "FSE 60",
+    "FSE 75"
+   ],
+   "url": "https://www.manualslib.com/manual/1529312/Reznor-Fse-Series.html"
+  },
+  {
+   "manualId": "730483",
+   "slug": "Reznor-Fsv",
+   "title": "FSH Installation servicing & operating instructions",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "FSH",
+   "extraModels": [
+    "FSH",
+    "FSH Mk 2",
+    "FSV Mk 2"
+   ],
+   "url": "https://www.manualslib.com/manual/730483/Reznor-Fsv.html"
+  },
+  {
+   "manualId": "1586693",
+   "slug": "Reznor-Ft-Series",
+   "title": "FT 250 instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "FT 250",
+   "extraModels": [
+    "FT 250",
+    "FT 300",
+    "RGM 432-GC",
+    "RGM 433-GC",
+    "SFT 250",
+    "SFT 300",
+    "SFT Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1586693/Reznor-Ft-Series.html"
+  },
+  {
+   "manualId": "1349888",
+   "slug": "Reznor-Ft30-Cv",
+   "title": "FT30-CV installation operation service maintenance",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "FT30-CV",
+   "extraModels": [
+    "FT45-CV"
+   ],
+   "url": "https://www.manualslib.com/manual/1349888/Reznor-Ft30-Cv.html"
+  },
+  {
+   "manualId": "2158056",
+   "slug": "Reznor-Fx05",
+   "title": "FX05 Application And Instructions",
+   "type": "User / Owner",
+   "pages": 29,
+   "productModel": "FX05",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2158056/Reznor-Fx05.html"
+  },
+  {
+   "manualId": "2939290",
+   "slug": "Reznor-Ga1",
+   "title": "GA1 Installation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "GA1",
+   "extraModels": [
+    "GA2",
+    "GA3",
+    "GA4",
+    "GA5",
+    "GA6",
+    "GA7",
+    "GA8",
+    "GA9"
+   ],
+   "url": "https://www.manualslib.com/manual/2939290/Reznor-Ga1.html"
+  },
+  {
+   "manualId": "4202682",
+   "slug": "Reznor-Guardian-Ec",
+   "title": "GUARDIAN EC installation manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "GUARDIAN EC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4202682/Reznor-Guardian-Ec.html"
+  },
+  {
+   "manualId": "2425849",
+   "slug": "Reznor-Guardian-Gb-1500",
+   "title": "GUARDIAN GB 1000 installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "GUARDIAN GB 1000",
+   "extraModels": [
+    "GUARDIAN GB 1000",
+    "GUARDIAN GB 2000",
+    "GUARDIAN GR 1000",
+    "GUARDIAN GR 1500",
+    "GUARDIAN GR 2000",
+    "GUARDIAN GS 1000",
+    "GUARDIAN GS 1500",
+    "GUARDIAN GS 2000"
+   ],
+   "url": "https://www.manualslib.com/manual/2425849/Reznor-Guardian-Gb-1500.html"
+  },
+  {
+   "manualId": "2381134",
+   "slug": "Reznor-Guardian-Gb",
+   "title": "GUARDIAN GB installation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "GUARDIAN GB",
+   "extraModels": [
+    "GUARDIAN GR",
+    "GUARDIAN GS"
+   ],
+   "url": "https://www.manualslib.com/manual/2381134/Reznor-Guardian-Gb.html"
+  },
+  {
+   "manualId": "2419475",
+   "slug": "Reznor-Rp",
+   "title": "HRPD Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "HRPD",
+   "extraModels": [
+    "HRPD"
+   ],
+   "url": "https://www.manualslib.com/manual/2419475/Reznor-Rp.html"
+  },
+  {
+   "manualId": "929270",
+   "slug": "Reznor-Rp",
+   "title": "HRPD Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "HRPD",
+   "extraModels": [
+    "HRPD"
+   ],
+   "url": "https://www.manualslib.com/manual/929270/Reznor-Rp.html"
+  },
+  {
+   "manualId": "2864967",
+   "slug": "Reznor-Rp",
+   "title": "HRPD Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "HRPD",
+   "extraModels": [
+    "HRPD"
+   ],
+   "url": "https://www.manualslib.com/manual/2864967/Reznor-Rp.html"
+  },
+  {
+   "manualId": "3245170",
+   "slug": "Reznor-Rp-125",
+   "title": "HRPD Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "HRPD",
+   "extraModels": [
+    "HRPD",
+    "HRPD 250",
+    "HRPD 300",
+    "HRPD 350",
+    "HRPD 400",
+    "HRPD 500",
+    "HRPD 600",
+    "HRPD 700",
+    "HRPD 800",
+    "RP 150",
+    "RP 175",
+    "RP 200",
+    "RP 225",
+    "RP 250"
+   ],
+   "url": "https://www.manualslib.com/manual/3245170/Reznor-Rp-125.html"
+  },
+  {
+   "manualId": "4595742",
+   "slug": "Reznor-Rp",
+   "title": "HRPD Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "HRPD",
+   "extraModels": [
+    "HRPD",
+    "HRPD 250",
+    "HRPD 300",
+    "HRPD 350",
+    "HRPD 400",
+    "HRPD 500",
+    "HRPD 600",
+    "HRPD 700",
+    "HRPD 800",
+    "RP 125",
+    "RP 150",
+    "RP 175",
+    "RP 200",
+    "RP 225",
+    "RP 250",
+    "RP 300",
+    "RP 350",
+    "RP 400"
+   ],
+   "url": "https://www.manualslib.com/manual/4595742/Reznor-Rp.html"
+  },
+  {
+   "manualId": "3594563",
+   "slug": "Reznor-Huracan-Series",
+   "title": "HURACAN HAC Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "HURACAN HAC",
+   "extraModels": [
+    "HURACAN HAC",
+    "HURACAN HACE"
+   ],
+   "url": "https://www.manualslib.com/manual/3594563/Reznor-Huracan-Series.html"
+  },
+  {
+   "manualId": "727867",
+   "slug": "Reznor-Hydronic-Unit-Heaters",
+   "title": "HYDRONIC UNIT HEATERS Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 15,
+   "productModel": "HYDRONIC UNIT HEATERS",
+   "extraModels": [
+    "HYDRONIC UNIT HEATERS"
+   ],
+   "url": "https://www.manualslib.com/manual/727867/Reznor-Hydronic-Unit-Heaters.html"
+  },
+  {
+   "manualId": "2570419",
+   "slug": "Reznor-Infra-Rez-Tr",
+   "title": "INFRA-REZ TR Operation, maintenance and service manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "INFRA-REZ TR",
+   "extraModels": [
+    "INFRA-REZ TR-H"
+   ],
+   "url": "https://www.manualslib.com/manual/2570419/Reznor-Infra-Rez-Tr.html"
+  },
+  {
+   "manualId": "2569178",
+   "slug": "Reznor-43254",
+   "title": "Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "SC"
+   ],
+   "url": "https://www.manualslib.com/manual/2569178/Reznor-43254.html"
+  },
+  {
+   "manualId": "2884584",
+   "slug": "Reznor-Options-Cd57",
+   "title": "Installation",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2884584/Reznor-Options-Cd57.html"
+  },
+  {
+   "manualId": "2940153",
+   "slug": "Reznor-Ck11",
+   "title": "Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2940153/Reznor-Ck11.html"
+  },
+  {
+   "manualId": "2940162",
+   "slug": "Reznor-270615",
+   "title": "Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2940162/Reznor-270615.html"
+  },
+  {
+   "manualId": "2940197",
+   "slug": "Reznor-De1",
+   "title": "Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2940197/Reznor-De1.html"
+  },
+  {
+   "manualId": "4086267",
+   "slug": "Reznor-It18",
+   "title": "Installation",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4086267/Reznor-It18.html"
+  },
+  {
+   "manualId": "4124343",
+   "slug": "Reznor-Cd10",
+   "title": "Installation",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4124343/Reznor-Cd10.html"
+  },
+  {
+   "manualId": "2510121",
+   "slug": "Reznor-Nor-Ray-Vac",
+   "title": "Installation & operating manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2510121/Reznor-Nor-Ray-Vac.html"
+  },
+  {
+   "manualId": "1008937",
+   "slug": "Reznor-Ebhb",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1008937/Reznor-Ebhb.html"
+  },
+  {
+   "manualId": "1015684",
+   "slug": "Reznor-Ehl",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1015684/Reznor-Ehl.html"
+  },
+  {
+   "manualId": "1531302",
+   "slug": "Reznor-Ft",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1531302/Reznor-Ft.html"
+  },
+  {
+   "manualId": "1687840",
+   "slug": "Reznor-Eghb-Series",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1687840/Reznor-Eghb-Series.html"
+  },
+  {
+   "manualId": "3770571",
+   "slug": "Reznor-Rpb-Rpbl-Sscbl-Au2",
+   "title": "Installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3770571/Reznor-Rpb-Rpbl-Sscbl-Au2.html"
+  },
+  {
+   "manualId": "4122666",
+   "slug": "Reznor-Cg1",
+   "title": "Installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4122666/Reznor-Cg1.html"
+  },
+  {
+   "manualId": "4562769",
+   "slug": "Reznor-De1",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4562769/Reznor-De1.html"
+  },
+  {
+   "manualId": "3007717",
+   "slug": "Reznor-Huracan-H25-Series",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3007717/Reznor-Huracan-H25-Series.html"
+  },
+  {
+   "manualId": "1008871",
+   "slug": "Reznor-Ehl",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1008871/Reznor-Ehl.html"
+  },
+  {
+   "manualId": "1687837",
+   "slug": "Reznor-Emc-Series",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1687837/Reznor-Emc-Series.html"
+  },
+  {
+   "manualId": "2603306",
+   "slug": "Reznor-Egp",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2603306/Reznor-Egp.html"
+  },
+  {
+   "manualId": "4025851",
+   "slug": "Reznor-Eha",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4025851/Reznor-Eha.html"
+  },
+  {
+   "manualId": "1683296",
+   "slug": "Reznor-Ebhb",
+   "title": "Instructions & installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1683296/Reznor-Ebhb.html"
+  },
+  {
+   "manualId": "1687835",
+   "slug": "Reznor-Eghb-Series",
+   "title": "Instructions & Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1687835/Reznor-Eghb-Series.html"
+  },
+  {
+   "manualId": "1779108",
+   "slug": "Reznor-Egw-Series",
+   "title": "Instructions & installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1779108/Reznor-Egw-Series.html"
+  },
+  {
+   "manualId": "1586686",
+   "slug": "Reznor-Sc-Series",
+   "title": "Instructions For Installing",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1586686/Reznor-Sc-Series.html"
+  },
+  {
+   "manualId": "2030219",
+   "slug": "Reznor-Kronos-Ga11",
+   "title": "Kronos GA11 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Kronos GA11",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2030219/Reznor-Kronos-Ga11.html"
+  },
+  {
+   "manualId": "3575123",
+   "slug": "Reznor-Lcsa-3",
+   "title": "LCSA-3 Installation Commissioning Servicing & User Instructions",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "LCSA-3",
+   "extraModels": [
+    "LCSA 100-3",
+    "LCSA 12-3",
+    "LCSA 120-3",
+    "LCSA 145-3",
+    "LCSA 20-3",
+    "LCSA 30-3",
+    "LCSA 35-3",
+    "LCSA 45-3",
+    "LCSA 60-3",
+    "LCSA 75-3"
+   ],
+   "url": "https://www.manualslib.com/manual/3575123/Reznor-Lcsa-3.html"
+  },
+  {
+   "manualId": "2737384",
+   "slug": "Reznor-Lcsbd-4",
+   "title": "LCSBD-4 Installation commissioning servicing & user instructions",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "LCSBD-4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2737384/Reznor-Lcsbd-4.html"
+  },
+  {
+   "manualId": "2578463",
+   "slug": "Reznor-Ldap",
+   "title": "LDAP Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "LDAP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2578463/Reznor-Ldap.html"
+  },
+  {
+   "manualId": "1586707",
+   "slug": "Reznor-Ldap",
+   "title": "LDAP Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "LDAP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1586707/Reznor-Ldap.html"
+  },
+  {
+   "manualId": "4101522",
+   "slug": "Reznor-Lira-Series",
+   "title": "LIRA AIR Installation, commissioning and servicing instruction manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "LIRA AIR",
+   "extraModels": [
+    "LIRA AIR COLD",
+    "LIRA AIR PLUS"
+   ],
+   "url": "https://www.manualslib.com/manual/4101522/Reznor-Lira-Series.html"
+  },
+  {
+   "manualId": "2132613",
+   "slug": "Reznor-S6bq-090-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2132613/Reznor-S6bq-090-Series.html"
+  },
+  {
+   "manualId": "2527890",
+   "slug": "Reznor-Apd",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2527890/Reznor-Apd.html"
+  },
+  {
+   "manualId": "3048777",
+   "slug": "Reznor-Option-Ch1",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3048777/Reznor-Option-Ch1.html"
+  },
+  {
+   "manualId": "3770481",
+   "slug": "Reznor-Ubxc-Cd11",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3770481/Reznor-Ubxc-Cd11.html"
+  },
+  {
+   "manualId": "4541485",
+   "slug": "Reznor-Eph",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4541485/Reznor-Eph.html"
+  },
+  {
+   "manualId": "4589848",
+   "slug": "Reznor-Maps-Ii-Rca-Series",
+   "title": "MAPS II RCA Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 92,
+   "productModel": "MAPS II RCA Series",
+   "extraModels": [
+    "MAPS II RDA Series",
+    "MAPS II RDCA Series",
+    "MAPS II RDDA Series",
+    "MAPS II RECA Series",
+    "MAPS II REDA Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4589848/Reznor-Maps-Ii-Rca-Series.html"
+  },
+  {
+   "manualId": "3031755",
+   "slug": "Reznor-Maps-Iii",
+   "title": "MAPS III Installation manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "MAPS III",
+   "extraModels": [
+    "MAPS IV",
+    "RCB Series",
+    "RCC Series",
+    "RDB Series",
+    "RDC Series",
+    "RDCB",
+    "RDCC",
+    "RDDB",
+    "RDDC"
+   ],
+   "url": "https://www.manualslib.com/manual/3031755/Reznor-Maps-Iii.html"
+  },
+  {
+   "manualId": "4585288",
+   "slug": "Reznor-Maps-Iii-Rcb",
+   "title": "MAPS III RCB Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 159,
+   "productModel": "MAPS III RCB",
+   "extraModels": [
+    "MAPS III RDB",
+    "MAPS III RDCB",
+    "MAPS III RDDB",
+    "MAPS III RECB",
+    "MAPS III REDB",
+    "MAPS IV RCC",
+    "MAPS IV RDC",
+    "MAPS IV RDCC",
+    "MAPS IV RDDC",
+    "MAPS IV RECC",
+    "MAPS IV REDC"
+   ],
+   "url": "https://www.manualslib.com/manual/4585288/Reznor-Maps-Iii-Rcb.html"
+  },
+  {
+   "manualId": "3031761",
+   "slug": "Reznor-Maps-Rcb",
+   "title": "MAPS RCB Operation manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "MAPS RCB",
+   "extraModels": [
+    "MAPS RDB",
+    "MAPS RDCB",
+    "MAPS RDDB",
+    "MAPS RECB",
+    "MAPS REDB"
+   ],
+   "url": "https://www.manualslib.com/manual/3031761/Reznor-Maps-Rcb.html"
+  },
+  {
+   "manualId": "3031764",
+   "slug": "Reznor-Maps-Series",
+   "title": "MAPS Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "MAPS Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3031764/Reznor-Maps-Series.html"
+  },
+  {
+   "manualId": "3083463",
+   "slug": "Reznor-Masa",
+   "title": "MASA Installation operation & maintenance",
+   "type": "Service",
+   "pages": 50,
+   "productModel": "MASA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3083463/Reznor-Masa.html"
+  },
+  {
+   "manualId": "2106331",
+   "slug": "Reznor-Ml-1511",
+   "title": "ML 1511 INSTALLATION, COMMISSIONING, SERVICE AND USER INSTRUCTIONS",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "ML 1511",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2106331/Reznor-Ml-1511.html"
+  },
+  {
+   "manualId": "3876659",
+   "slug": "Reznor-Ml-1515",
+   "title": "ML 1515 INSTALLATION, COMMISSIONING, SERVICE AND USER INSTRUCTIONS",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "ML 1515",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876659/Reznor-Ml-1515.html"
+  },
+  {
+   "manualId": "3876660",
+   "slug": "Reznor-Ml-1520",
+   "title": "ML 1520 INSTALLATION, COMMISSIONING, SERVICE AND USER INSTRUCTIONS",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "ML 1520",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876660/Reznor-Ml-1520.html"
+  },
+  {
+   "manualId": "3649492",
+   "slug": "Reznor-Nortek-Udsa-4e",
+   "title": "NORTEK UDSA-4E Installation Commissioning Servicing & User Instructions",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "NORTEK UDSA-4E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3649492/Reznor-Nortek-Udsa-4e.html"
+  },
+  {
+   "manualId": "762498",
+   "slug": "Reznor-Oh",
+   "title": "OH Installation & operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "OH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/762498/Reznor-Oh.html"
+  },
+  {
+   "manualId": "2571578",
+   "slug": "Reznor-Oh",
+   "title": "OH Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "OH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2571578/Reznor-Oh.html"
+  },
+  {
+   "manualId": "4044629",
+   "slug": "Reznor-Op33e-Mk-2-3",
+   "title": "OP33E Mk.2.3 Installation and user instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "OP33E Mk.2.3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4044629/Reznor-Op33e-Mk-2-3.html"
+  },
+  {
+   "manualId": "2102420",
+   "slug": "Reznor-Ouh-Series",
+   "title": "OUH 100 Installation and operating manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "OUH 100",
+   "extraModels": [
+    "OUH 100",
+    "OUH 40",
+    "OUH 60",
+    "OUH 70",
+    "OUH 90"
+   ],
+   "url": "https://www.manualslib.com/manual/2102420/Reznor-Ouh-Series.html"
+  },
+  {
+   "manualId": "2359804",
+   "slug": "Reznor-Photon-P",
+   "title": "PHOTON-P Installation instruction",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "PHOTON-P",
+   "extraModels": [
+    "PHOTON100-P",
+    "PHOTON120-P",
+    "PHOTON25-P",
+    "PHOTON35-P",
+    "PHOTON45-P",
+    "PHOTON55-P",
+    "PHOTON65-P",
+    "PHOTON70-P"
+   ],
+   "url": "https://www.manualslib.com/manual/2359804/Reznor-Photon-P.html"
+  },
+  {
+   "manualId": "4582345",
+   "slug": "Reznor-Preeva-Pdh",
+   "title": "PREEVA PDH Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 180,
+   "productModel": "PREEVA PDH",
+   "extraModels": [
+    "PREEVA PEH",
+    "PREEVA PXH",
+    "PREEVA RDH",
+    "PREEVA REH",
+    "PREEVA RHH",
+    "PREEVA RXH",
+    "PREEVA SDH",
+    "PREEVA SHH"
+   ],
+   "url": "https://www.manualslib.com/manual/4582345/Reznor-Preeva-Pdh.html"
+  },
+  {
+   "manualId": "1852108",
+   "slug": "Reznor-Ck11",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1852108/Reznor-Ck11.html"
+  },
+  {
+   "manualId": "4059072",
+   "slug": "Reznor-Energymizor",
+   "title": "Quick reference manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4059072/Reznor-Energymizor.html"
+  },
+  {
+   "manualId": "2225860",
+   "slug": "Reznor-Cd1",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2225860/Reznor-Cd1.html"
+  },
+  {
+   "manualId": "4148160",
+   "slug": "Reznor-Eghb",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4148160/Reznor-Eghb.html"
+  },
+  {
+   "manualId": "4335681",
+   "slug": "Reznor-Eha",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4335681/Reznor-Eha.html"
+  },
+  {
+   "manualId": "730504",
+   "slug": "Reznor-Ra-140",
+   "title": "RA 140 Installation and reference manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "RA 140",
+   "extraModels": [
+    "RA 235",
+    "RAD 140",
+    "RAD 235"
+   ],
+   "url": "https://www.manualslib.com/manual/730504/Reznor-Ra-140.html"
+  },
+  {
+   "manualId": "4600076",
+   "slug": "Reznor-Ra-Series",
+   "title": "RA 140 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 163,
+   "productModel": "RA 140",
+   "extraModels": [
+    "RA 140",
+    "RA 235",
+    "RA 250",
+    "RA 350",
+    "RA 500",
+    "RA150",
+    "RAD 140",
+    "RAD 150",
+    "RAD 235",
+    "RAD 250",
+    "RAD 350",
+    "RAD 500",
+    "RAD Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4600076/Reznor-Ra-Series.html"
+  },
+  {
+   "manualId": "1127129",
+   "slug": "Reznor-Ra-140",
+   "title": "RA 140 Installation/operation/maintenance manual and reference manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "RA 140",
+   "extraModels": [
+    "RA 235",
+    "RAD 140",
+    "RAD 235"
+   ],
+   "url": "https://www.manualslib.com/manual/1127129/Reznor-Ra-140.html"
+  },
+  {
+   "manualId": "3926427",
+   "slug": "Reznor-Ra-250",
+   "title": "RA 250 Installation/operation/maintenance manual and reference manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "RA 250",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3926427/Reznor-Ra-250.html"
+  },
+  {
+   "manualId": "3259657",
+   "slug": "Reznor-Ra-150",
+   "title": "RA150 Installation/operation/maintenance manual and reference manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "RA150",
+   "extraModels": [
+    "RAD 150",
+    "RAD 250"
+   ],
+   "url": "https://www.manualslib.com/manual/3259657/Reznor-Ra-150.html"
+  },
+  {
+   "manualId": "1340515",
+   "slug": "Reznor-Rab-140",
+   "title": "RAB Installation and reference manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "RAB",
+   "extraModels": [
+    "RAB 235",
+    "RAB 350",
+    "RAB 500"
+   ],
+   "url": "https://www.manualslib.com/manual/1340515/Reznor-Rab-140.html"
+  },
+  {
+   "manualId": "3334823",
+   "slug": "Reznor-Rbl",
+   "title": "RBL Installation & operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "RBL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3334823/Reznor-Rbl.html"
+  },
+  {
+   "manualId": "1586714",
+   "slug": "Reznor-Rcb",
+   "title": "RCB Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "RCB",
+   "extraModels": [
+    "RDB",
+    "RDCB",
+    "RDDB",
+    "RECB",
+    "REDB"
+   ],
+   "url": "https://www.manualslib.com/manual/1586714/Reznor-Rcb.html"
+  },
+  {
+   "manualId": "3031759",
+   "slug": "Reznor-Rcb",
+   "title": "RCB Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "RCB",
+   "extraModels": [
+    "RDB",
+    "RDCB",
+    "RDDB",
+    "RECB",
+    "REDB"
+   ],
+   "url": "https://www.manualslib.com/manual/3031759/Reznor-Rcb.html"
+  },
+  {
+   "manualId": "1174525",
+   "slug": "Reznor-Rdf-1-20-3",
+   "title": "RDF 1-20-3 Manual",
+   "type": "Other",
+   "pages": 29,
+   "productModel": "RDF 1-20-3",
+   "extraModels": [
+    "RDF 1-40-3",
+    "RDF 1-50-3",
+    "RDF 1-65-3",
+    "RDF 2-120-3",
+    "RDF 2-80-3",
+    "RDF 3-180-33-260-3"
+   ],
+   "url": "https://www.manualslib.com/manual/1174525/Reznor-Rdf-1-20-3.html"
+  },
+  {
+   "manualId": "4584995",
+   "slug": "Reznor-Rdf-3-Series",
+   "title": "RDF 3 Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "RDF 3 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4584995/Reznor-Rdf-3-Series.html"
+  },
+  {
+   "manualId": "947180",
+   "slug": "Reznor-Rdf-Series",
+   "title": "RDF Series Operating/technical manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "RDF Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/947180/Reznor-Rdf-Series.html"
+  },
+  {
+   "manualId": "1836217",
+   "slug": "Reznor-Sdh-Series",
+   "title": "RDH 025 Installation, commissioning, servicing",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "RDH 025",
+   "extraModels": [
+    "RDH 025",
+    "RDH 030",
+    "RDH 035",
+    "RDH 043",
+    "RDH 55",
+    "RDH 73",
+    "SDH 025",
+    "SDH 030",
+    "SDH 035",
+    "SDH 043",
+    "SDH 100",
+    "SDH 55",
+    "SDH 73"
+   ],
+   "url": "https://www.manualslib.com/manual/1836217/Reznor-Sdh-Series.html"
+  },
+  {
+   "manualId": "3866207",
+   "slug": "Reznor-Rdh-100",
+   "title": "RDH 100 Installation, commissioning, servicing",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "RDH 100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3866207/Reznor-Rdh-100.html"
+  },
+  {
+   "manualId": "3866206",
+   "slug": "Reznor-Rdh-Series",
+   "title": "RDH Series Installation, commissioning, servicing",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "RDH Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3866206/Reznor-Rdh-Series.html"
+  },
+  {
+   "manualId": "1587344",
+   "slug": "Reznor-Rec-Series",
+   "title": "REC 180 Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "REC 180",
+   "extraModels": [
+    "REC 180",
+    "REC 360",
+    "REC 40",
+    "REC 50",
+    "REC 60",
+    "REC 70",
+    "REC 80",
+    "REC 90"
+   ],
+   "url": "https://www.manualslib.com/manual/1587344/Reznor-Rec-Series.html"
+  },
+  {
+   "manualId": "4245834",
+   "slug": "reznor-cl31-multiple-unit-control-kit-installation-manual",
+   "title": "Reznor CL31 Multiple Unit Control Kit Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4245834/reznor-cl31-multiple-unit-control-kit-installation-manual.html"
+  },
+  {
+   "manualId": "4239255",
+   "slug": "reznor-euh-electric-unit-heater-installation-and-operation-manual",
+   "title": "Reznor EUH Electric Unit Heater Installation & Operation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4239255/reznor-euh-electric-unit-heater-installation-and-operation-manual.html"
+  },
+  {
+   "manualId": "4272177",
+   "slug": "reznor-huracan-series-air-curtain-installation-and-operation-manual",
+   "title": "Reznor HURACAN Series Air Curtain Installation and Operation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4272177/reznor-huracan-series-air-curtain-installation-and-operation-manual.html"
+  },
+  {
+   "manualId": "1657715",
+   "slug": "Reznor-Lcsc-3e-30",
+   "title": "Reznor LCSC-3E 30 Installation, Commissioning, Servicing And User Instructions",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": null,
+   "extraModels": [
+    "LCSC-3E 100",
+    "LCSC-3E 20",
+    "LCSC-3E 45",
+    "LCSC-3E 60",
+    "LCSC-3E 75"
+   ],
+   "url": "https://www.manualslib.com/manual/1657715/Reznor-Lcsc-3e-30.html"
+  },
+  {
+   "manualId": "4442182",
+   "slug": "reznor-model-euhc-compact-electric-unit-heater-manual",
+   "title": "Reznor Model EUHC Compact Electric Unit Heater Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4442182/reznor-model-euhc-compact-electric-unit-heater-manual.html"
+  },
+  {
+   "manualId": "1660861",
+   "slug": "Reznor-Rhc-Djl-4000-Series",
+   "title": "Reznor RHC DJL 4000 Series Installation, Commissioning, Servicing",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": null,
+   "extraModels": [
+    "RHC DJL 4024-05",
+    "RHC DJL 4030-06",
+    "RHC DJL 4036-08",
+    "RHC DJL 4050-06",
+    "RHC DJL 4060-07",
+    "RHC DJL 4075-09",
+    "RHC DJL 4100-12",
+    "RHC DJL 4125M15",
+    "RHC DJL 4150M18"
+   ],
+   "url": "https://www.manualslib.com/manual/1660861/Reznor-Rhc-Djl-4000-Series.html"
+  },
+  {
+   "manualId": "1767168",
+   "slug": "Reznor-Vr-Series",
+   "title": "Reznor VR Series Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 48,
+   "productModel": null,
+   "extraModels": [
+    "GVR 100",
+    "GVR 125",
+    "GVR 150",
+    "GVR 175",
+    "GVR 200",
+    "GVR 50",
+    "GVR 75",
+    "GVR Series",
+    "VR 100",
+    "VR 125",
+    "VR 150",
+    "VR 175",
+    "VR 200",
+    "VR 50",
+    "VR 75"
+   ],
+   "url": "https://www.manualslib.com/manual/1767168/Reznor-Vr-Series.html"
+  },
+  {
+   "manualId": "1978083",
+   "slug": "Reznor-Rg-Series",
+   "title": "RG Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "RG Series",
+   "extraModels": [
+    "RX Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1978083/Reznor-Rg-Series.html"
+  },
+  {
+   "manualId": "1904376",
+   "slug": "Reznor-Rhc-4000-Rjl-Series",
+   "title": "RHC 4000 DJL Series Application Instructions",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "RHC 4000 DJL Series",
+   "extraModels": [
+    "RHC 4000 DJL Series",
+    "RHC 4000 M DJL Series",
+    "RHC 4000 M RJL Series",
+    "RHC 4050 06 DJL",
+    "RHC 4050 06 RJL",
+    "RHC 4060 07 DJL",
+    "RHC 4060 07 RJL",
+    "RHC 4075 09 DJL",
+    "RHC 4075 09 RJL",
+    "RHC 4100 12 DJL",
+    "RHC 4100 12 RJL",
+    "RHC 4110M.13 DJL",
+    "RHC 4110M.13 RJL",
+    "RHC 4125M.15 DJL",
+    "RHC 4125M.15 RJL",
+    "RHC 4150M.18 DJL",
+    "RHC 4150M.18 RJL",
+    "RHC 4175M.21 DJL",
+    "RHC 4175M.21 RJL",
+    "RHC 4200M.24 DJL",
+    "RHC 4200M.24 RJL"
+   ],
+   "url": "https://www.manualslib.com/manual/1904376/Reznor-Rhc-4000-Rjl-Series.html"
+  },
+  {
+   "manualId": "1942008",
+   "slug": "Reznor-Rhc-8000-Rjl",
+   "title": "RHC 8000 DJL Application Instructions",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "RHC 8000 DJL",
+   "extraModels": [
+    "RHC 8000 DJL",
+    "RHC 8000M DJL",
+    "RHC 8000M RJL"
+   ],
+   "url": "https://www.manualslib.com/manual/1942008/Reznor-Rhc-8000-Rjl.html"
+  },
+  {
+   "manualId": "2545467",
+   "slug": "Reznor-Rhc21-4000",
+   "title": "RHC21 4000 Installation, commissioning, servicing",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "RHC21 4000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2545467/Reznor-Rhc21-4000.html"
+  },
+  {
+   "manualId": "1663770",
+   "slug": "Reznor-Rhcln",
+   "title": "RHCLN Installation, commissioning, servicing",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "RHCLN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1663770/Reznor-Rhcln.html"
+  },
+  {
+   "manualId": "4513920",
+   "slug": "Reznor-Rieh30240b",
+   "title": "RIEH15120B Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "RIEH15120B",
+   "extraModels": [
+    "RIEH15120B"
+   ],
+   "url": "https://www.manualslib.com/manual/4513920/Reznor-Rieh30240b.html"
+  },
+  {
+   "manualId": "4503745",
+   "slug": "Reznor-Riehglass30240b",
+   "title": "RIEHGLASS30240B Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "RIEHGLASS30240B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4503745/Reznor-Riehglass30240b.html"
+  },
+  {
+   "manualId": "1586655",
+   "slug": "Reznor-Rih-Series",
+   "title": "RIH Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "RIH Series",
+   "extraModels": [
+    "RIHL 50",
+    "RIHN 60",
+    "RIHV Series",
+    "RIHVL 120",
+    "RIHVL 90",
+    "RIHVL Series",
+    "RIHVN 150",
+    "RIHVN 160",
+    "RIHVN 200",
+    "RIHVN Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1586655/Reznor-Rih-Series.html"
+  },
+  {
+   "manualId": "2149941",
+   "slug": "Reznor-Rihl",
+   "title": "RIHL Installation operation & maintenance",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "RIHL",
+   "extraModels": [
+    "RIHN",
+    "RIHVL",
+    "RIHVN"
+   ],
+   "url": "https://www.manualslib.com/manual/2149941/Reznor-Rihl.html"
+  },
+  {
+   "manualId": "3744562",
+   "slug": "Reznor-Rihn",
+   "title": "RIHL Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "RIHL",
+   "extraModels": [
+    "RIHL",
+    "RIHVL",
+    "RIHVN"
+   ],
+   "url": "https://www.manualslib.com/manual/3744562/Reznor-Rihn.html"
+  },
+  {
+   "manualId": "3856458",
+   "slug": "Reznor-Rihn-30",
+   "title": "RIHN 30 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "RIHN 30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3856458/Reznor-Rihn-30.html"
+  },
+  {
+   "manualId": "1237578",
+   "slug": "Reznor-Rih",
+   "title": "RIHVL Installation operation & maintenance",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "RIHVL",
+   "extraModels": [
+    "RIHVL",
+    "RIHVN",
+    "RIHV"
+   ],
+   "url": "https://www.manualslib.com/manual/1237578/Reznor-Rih.html"
+  },
+  {
+   "manualId": "3856459",
+   "slug": "Reznor-Rihvn-100",
+   "title": "RIHVN 100 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "RIHVN 100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3856459/Reznor-Rihvn-100.html"
+  },
+  {
+   "manualId": "3925651",
+   "slug": "Reznor-Rp-300",
+   "title": "RP 300 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "RP 300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3925651/Reznor-Rp-300.html"
+  },
+  {
+   "manualId": "3925652",
+   "slug": "Reznor-Rp-350",
+   "title": "RP 350 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "RP 350",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3925652/Reznor-Rp-350.html"
+  },
+  {
+   "manualId": "3925653",
+   "slug": "Reznor-Rp-400",
+   "title": "RP 400 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "RP 400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3925653/Reznor-Rp-400.html"
+  },
+  {
+   "manualId": "2625662",
+   "slug": "Reznor-Rpb",
+   "title": "RPB Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "RPB",
+   "extraModels": [
+    "RPB Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2625662/Reznor-Rpb.html"
+  },
+  {
+   "manualId": "2428636",
+   "slug": "Reznor-Rpb",
+   "title": "RPB Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "RPB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2428636/Reznor-Rpb.html"
+  },
+  {
+   "manualId": "3776006",
+   "slug": "Reznor-Rpb",
+   "title": "RPB quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "RPB",
+   "extraModels": [
+    "RPBL",
+    "SSCBL"
+   ],
+   "url": "https://www.manualslib.com/manual/3776006/Reznor-Rpb.html"
+  },
+  {
+   "manualId": "2302589",
+   "slug": "Reznor-Xe-Series",
+   "title": "RPB Series Assemblies",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "RPB Series",
+   "extraModels": [
+    "RPB Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2302589/Reznor-Xe-Series.html"
+  },
+  {
+   "manualId": "4390674",
+   "slug": "Reznor-Pgbl-Series",
+   "title": "RPBL 1050 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "RPBL 1050",
+   "extraModels": [
+    "RPBL 1050",
+    "RPBL 1200",
+    "RPBL 400",
+    "RPBL 500",
+    "RPBL 600",
+    "RPBL 700",
+    "RPBL 800",
+    "RPBL Series",
+    "CRGBL 1050",
+    "CRGBL 1200",
+    "CRGBL 400",
+    "CRGBL 500",
+    "CRGBL 600",
+    "CRGBL 700",
+    "CRGBL 800",
+    "CRGBL Series",
+    "PGBL 1200",
+    "PGBL 400",
+    "PGBL 800",
+    "RPDBL 1000",
+    "RPDBL 1200",
+    "RPDBL 1400",
+    "RPDBL 1600",
+    "RPDBL Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4390674/Reznor-Pgbl-Series.html"
+  },
+  {
+   "manualId": "1614185",
+   "slug": "Reznor-Sscbl-Series",
+   "title": "RPBL 1050 Installation, operation and maintanance manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "RPBL 1050",
+   "extraModels": [
+    "RPBL 1050",
+    "RPBL 1200",
+    "RPBL 400",
+    "RPBL 500",
+    "RPBL 600",
+    "RPBL 700",
+    "RPBL 800",
+    "RPBL Series",
+    "SSCBL 1050",
+    "SSCBL 1200",
+    "SSCBL 400",
+    "SSCBL 500",
+    "SSCBL 600",
+    "SSCBL 700",
+    "SSCBL 800"
+   ],
+   "url": "https://www.manualslib.com/manual/1614185/Reznor-Sscbl-Series.html"
+  },
+  {
+   "manualId": "2931733",
+   "slug": "Reznor-Sscbl",
+   "title": "RPBL Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "RPBL",
+   "extraModels": [
+    "RPBL"
+   ],
+   "url": "https://www.manualslib.com/manual/2931733/Reznor-Sscbl.html"
+  },
+  {
+   "manualId": "3749021",
+   "slug": "Reznor-Rpb-Series",
+   "title": "RPBL Series Installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "RPBL Series",
+   "extraModels": [
+    "RPBL Series",
+    "CJ1",
+    "CJ2"
+   ],
+   "url": "https://www.manualslib.com/manual/3749021/Reznor-Rpb-Series.html"
+  },
+  {
+   "manualId": "1204511",
+   "slug": "Reznor-Rpv-2000",
+   "title": "RPV 2000 Installation commissioning servicing & user instructions",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "RPV 2000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1204511/Reznor-Rpv-2000.html"
+  },
+  {
+   "manualId": "3871696",
+   "slug": "Reznor-Rpv-Series",
+   "title": "RPV Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "RPV Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3871696/Reznor-Rpv-Series.html"
+  },
+  {
+   "manualId": "4197123",
+   "slug": "Reznor-Ubxc-Series",
+   "title": "RZUDXC100 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "RZUDXC100",
+   "extraModels": [
+    "RZUDXC100",
+    "RZUDXC150",
+    "RZUDXC30",
+    "RZUDXC45",
+    "RZUDXC60",
+    "UBXC 100",
+    "UBXC 125",
+    "UBXC 150",
+    "UBXC 30",
+    "UBXC 45",
+    "UBXC 60",
+    "UBXC 75",
+    "UDXC 100",
+    "UDXC 125",
+    "UDXC 150",
+    "UDXC 30",
+    "UDXC 45",
+    "UDXC 60",
+    "UDXC 75",
+    "UDXC Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4197123/Reznor-Ubxc-Series.html"
+  },
+  {
+   "manualId": "2515723",
+   "slug": "Reznor-Sce",
+   "title": "SC Installation operation & maintenance",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "SC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2515723/Reznor-Sce.html"
+  },
+  {
+   "manualId": "4548883",
+   "slug": "Reznor-Sc-100",
+   "title": "SC Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "SC Series",
+   "extraModels": [
+    "SC Series",
+    "SC-125",
+    "SC-150",
+    "SC-175",
+    "SC-200",
+    "SC-225",
+    "SC-250",
+    "SC-300",
+    "SC-350",
+    "SC-400"
+   ],
+   "url": "https://www.manualslib.com/manual/4548883/Reznor-Sc-100.html"
+  },
+  {
+   "manualId": "3222957",
+   "slug": "Reznor-Sc",
+   "title": "SC Technical specifications",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "SC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3222957/Reznor-Sc.html"
+  },
+  {
+   "manualId": "1596715",
+   "slug": "Reznor-Sce-Series",
+   "title": "SCE 125 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "SCE 125",
+   "extraModels": [
+    "SCE 125",
+    "SCE 150",
+    "SCE 175",
+    "SCE 200",
+    "SCE 225",
+    "SCE 250",
+    "SCE 300",
+    "SCE 350",
+    "SCE 400"
+   ],
+   "url": "https://www.manualslib.com/manual/1596715/Reznor-Sce-Series.html"
+  },
+  {
+   "manualId": "4583854",
+   "slug": "Reznor-Shh-130",
+   "title": "SHH 130 instructions manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "SHH 130",
+   "extraModels": [
+    "SHH 180",
+    "SHH 260",
+    "SHH 350"
+   ],
+   "url": "https://www.manualslib.com/manual/4583854/Reznor-Shh-130.html"
+  },
+  {
+   "manualId": "2393271",
+   "slug": "Reznor-St-2-Series",
+   "title": "ST 100-2 INSTALLATION, COMMISSIONING, SERVICEING & USER INSTRUCTIONS",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "ST 100-2",
+   "extraModels": [
+    "ST 100-2",
+    "ST 125-2",
+    "ST 150-2",
+    "ST 175-2",
+    "ST 225-2",
+    "ST 300-2",
+    "ST 400-2"
+   ],
+   "url": "https://www.manualslib.com/manual/2393271/Reznor-St-2-Series.html"
+  },
+  {
+   "manualId": "3766724",
+   "slug": "Reznor-Thomas-And-Betts-Udap-30",
+   "title": "Thomas & Betts UDAP 150 instructions manual",
+   "type": "User / Owner",
+   "pages": 49,
+   "productModel": "Thomas & Betts UDAP 150",
+   "extraModels": [
+    "Thomas & Betts UDAP 150",
+    "Thomas & Betts UDAP 175",
+    "Thomas & Betts UDAP 200",
+    "Thomas & Betts UDAP 225",
+    "Thomas & Betts UDAP 250",
+    "Thomas & Betts UDAP 300",
+    "Thomas & Betts UDAP 350",
+    "Thomas & Betts UDAP 400",
+    "Thomas & Betts UDBP 100",
+    "Thomas & Betts UDBP 125",
+    "Thomas & Betts UDBP 150",
+    "Thomas & Betts UDBP 175",
+    "Thomas & Betts UDBP 200",
+    "Thomas & Betts UDBP 225",
+    "Thomas & Betts UDBP 250",
+    "Thomas & Betts UDBP 30",
+    "Thomas & Betts UDBP 300",
+    "Thomas & Betts UDBP 350",
+    "Thomas & Betts UDBP 400",
+    "Thomas & Betts UDBP 45",
+    "Thomas & Betts UDBP 60",
+    "Thomas & Betts UDBP 75",
+    "UDAP 100",
+    "UDAP 125",
+    "UDAP 45",
+    "UDAP 60",
+    "UDAP 75"
+   ],
+   "url": "https://www.manualslib.com/manual/3766724/Reznor-Thomas-And-Betts-Udap-30.html"
+  },
+  {
+   "manualId": "2803292",
+   "slug": "Reznor-Ubx",
+   "title": "UBX Installation",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "UBX",
+   "extraModels": [
+    "UBZ",
+    "UDX",
+    "UDZ",
+    "UEZ"
+   ],
+   "url": "https://www.manualslib.com/manual/2803292/Reznor-Ubx.html"
+  },
+  {
+   "manualId": "2054081",
+   "slug": "Reznor-Ubx",
+   "title": "UBX Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "UBX",
+   "extraModels": [
+    "UBZ",
+    "UDX",
+    "UDZ"
+   ],
+   "url": "https://www.manualslib.com/manual/2054081/Reznor-Ubx.html"
+  },
+  {
+   "manualId": "3368551",
+   "slug": "Reznor-Udz",
+   "title": "UBX Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "UBX",
+   "extraModels": [
+    "UBX",
+    "UBZ",
+    "UDX",
+    "UDZ175"
+   ],
+   "url": "https://www.manualslib.com/manual/3368551/Reznor-Udz.html"
+  },
+  {
+   "manualId": "3267298",
+   "slug": "Reznor-Udx",
+   "title": "UBX Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "UBX",
+   "extraModels": [
+    "UBX",
+    "UBZ",
+    "UDZ",
+    "NUDX150",
+    "NUDX200",
+    "NUDX250",
+    "NUDX30",
+    "NUDX300",
+    "NUDX350",
+    "NUDX45",
+    "NUDX75",
+    "UDX75"
+   ],
+   "url": "https://www.manualslib.com/manual/3267298/Reznor-Udx.html"
+  },
+  {
+   "manualId": "2574946",
+   "slug": "Reznor-Ubx",
+   "title": "UBX Kit Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "UBX",
+   "extraModels": [
+    "UBZ",
+    "UDX",
+    "UDZ"
+   ],
+   "url": "https://www.manualslib.com/manual/2574946/Reznor-Ubx.html"
+  },
+  {
+   "manualId": "3222122",
+   "slug": "Reznor-Ubx-Series",
+   "title": "UBX Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "UBX Series",
+   "extraModels": [
+    "UBZ Series",
+    "UDX Series",
+    "UDZ Series",
+    "UDZ125",
+    "UDZ30",
+    "UDZ45",
+    "UDZ60"
+   ],
+   "url": "https://www.manualslib.com/manual/3222122/Reznor-Ubx-Series.html"
+  },
+  {
+   "manualId": "3383959",
+   "slug": "Reznor-Ubxc",
+   "title": "UBXC Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "UBXC",
+   "extraModels": [
+    "UDXC"
+   ],
+   "url": "https://www.manualslib.com/manual/3383959/Reznor-Ubxc.html"
+  },
+  {
+   "manualId": "3604365",
+   "slug": "Reznor-Udxc",
+   "title": "UBXC Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "UBXC",
+   "extraModels": [
+    "UBXC",
+    "UBXC-125",
+    "UBXC-350",
+    "UBXC-45",
+    "UDXC-30",
+    "UDXC-350",
+    "UDXC-60"
+   ],
+   "url": "https://www.manualslib.com/manual/3604365/Reznor-Udxc.html"
+  },
+  {
+   "manualId": "3942599",
+   "slug": "Reznor-Ubxc-175",
+   "title": "UBXC-175 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "UBXC-175",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3942599/Reznor-Ubxc-175.html"
+  },
+  {
+   "manualId": "3942601",
+   "slug": "Reznor-Ubxc-250",
+   "title": "UBXC-250 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "UBXC-250",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3942601/Reznor-Ubxc-250.html"
+  },
+  {
+   "manualId": "3942602",
+   "slug": "Reznor-Ubxc-300",
+   "title": "UBXC-300 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "UBXC-300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3942602/Reznor-Ubxc-300.html"
+  },
+  {
+   "manualId": "3942600",
+   "slug": "Reznor-Ubxc-75",
+   "title": "UBXC-75 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "UBXC-75",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3942600/Reznor-Ubxc-75.html"
+  },
+  {
+   "manualId": "2471717",
+   "slug": "Reznor-Ubz",
+   "title": "UBZ instructions manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "UBZ",
+   "extraModels": [
+    "UDZ"
+   ],
+   "url": "https://www.manualslib.com/manual/2471717/Reznor-Ubz.html"
+  },
+  {
+   "manualId": "3224249",
+   "slug": "Reznor-V3-Series",
+   "title": "UDAP Installation & operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "UDAP",
+   "extraModels": [
+    "UDAP",
+    "UDAS"
+   ],
+   "url": "https://www.manualslib.com/manual/3224249/Reznor-V3-Series.html"
+  },
+  {
+   "manualId": "761966",
+   "slug": "Reznor-Udap",
+   "title": "UDAP Installation & operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "UDAP",
+   "extraModels": [
+    "UDAS"
+   ],
+   "url": "https://www.manualslib.com/manual/761966/Reznor-Udap.html"
+  },
+  {
+   "manualId": "803279",
+   "slug": "Reznor-Udap",
+   "title": "UDAP Installation & operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "UDAP",
+   "extraModels": [
+    "UDAP 100",
+    "UDAP 125",
+    "UDAP 30",
+    "UDAP 45",
+    "UDAP 60",
+    "UDAP 75",
+    "UDAS",
+    "UDAS 100",
+    "UDAS 125",
+    "UDAS 30",
+    "UDAS 45",
+    "UDAS 60",
+    "UDAS 75"
+   ],
+   "url": "https://www.manualslib.com/manual/803279/Reznor-Udap.html"
+  },
+  {
+   "manualId": "3924479",
+   "slug": "Reznor-Udap-125",
+   "title": "UDAP-125 Installation & operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "UDAP-125",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3924479/Reznor-Udap-125.html"
+  },
+  {
+   "manualId": "3924483",
+   "slug": "Reznor-Udap-350",
+   "title": "UDAP-350 Installation & operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "UDAP-350",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3924483/Reznor-Udap-350.html"
+  },
+  {
+   "manualId": "3924481",
+   "slug": "Reznor-Udap-60",
+   "title": "UDAP-60 Installation & operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "UDAP-60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3924481/Reznor-Udap-60.html"
+  },
+  {
+   "manualId": "3924482",
+   "slug": "Reznor-Udap-75",
+   "title": "UDAP-75 Installation & operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "UDAP-75",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3924482/Reznor-Udap-75.html"
+  },
+  {
+   "manualId": "3924480",
+   "slug": "Reznor-Udas-100",
+   "title": "UDAS-100 Installation & operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "UDAS-100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3924480/Reznor-Udas-100.html"
+  },
+  {
+   "manualId": "1044599",
+   "slug": "Reznor-Udbp",
+   "title": "UDBP Installation & operation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "UDBP",
+   "extraModels": [
+    "UDBS"
+   ],
+   "url": "https://www.manualslib.com/manual/1044599/Reznor-Udbp.html"
+  },
+  {
+   "manualId": "762030",
+   "slug": "Reznor-Udsa-008-2",
+   "title": "UDSA 008-2 Installation and servicing manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "UDSA 008-2",
+   "extraModels": [
+    "UDSA 011-2",
+    "UDSA 015-2",
+    "UDSA 020-2",
+    "UDSA 025-2",
+    "UDSA 030-2",
+    "UDSA 035-2",
+    "UDSA 043-2",
+    "UDSA 050-2",
+    "UDSA 055-2",
+    "UDSA 064-2",
+    "UDSA 073-2",
+    "UDSA 085-2"
+   ],
+   "url": "https://www.manualslib.com/manual/762030/Reznor-Udsa-008-2.html"
+  },
+  {
+   "manualId": "3823579",
+   "slug": "Reznor-Udsa-100-2",
+   "title": "UDSA 100-2 Installation and servicing manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "UDSA 100-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3823579/Reznor-Udsa-100-2.html"
+  },
+  {
+   "manualId": "1691813",
+   "slug": "Reznor-Udsbd-4e",
+   "title": "UDSBD-4E Installation, commissioning, servicing",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "UDSBD-4E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1691813/Reznor-Udsbd-4e.html"
+  },
+  {
+   "manualId": "688508",
+   "slug": "Reznor-Ueas",
+   "title": "UEAS Installation & operation instruction",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "UEAS",
+   "extraModels": [
+    "UEAS 130",
+    "UEAS 180",
+    "UEAS 260",
+    "UEAS 310"
+   ],
+   "url": "https://www.manualslib.com/manual/688508/Reznor-Ueas.html"
+  },
+  {
+   "manualId": "807291",
+   "slug": "Reznor-Ueas",
+   "title": "UEAS Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "UEAS",
+   "extraModels": [
+    "UEAS 130",
+    "UEAS 180",
+    "UEAS 260",
+    "UEAS 310"
+   ],
+   "url": "https://www.manualslib.com/manual/807291/Reznor-Ueas.html"
+  },
+  {
+   "manualId": "762319",
+   "slug": "Reznor-Uesa",
+   "title": "UESA Installation and operation manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "UESA",
+   "extraModels": [
+    "UESA 035",
+    "UESA 055",
+    "UESA 083",
+    "UESA 102",
+    "UESA Series"
+   ],
+   "url": "https://www.manualslib.com/manual/762319/Reznor-Uesa.html"
+  },
+  {
+   "manualId": "3146891",
+   "slug": "Reznor-Uesa-3",
+   "title": "UESA-3 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "UESA-3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3146891/Reznor-Uesa-3.html"
+  },
+  {
+   "manualId": "3223913",
+   "slug": "Reznor-Uez",
+   "title": "UEZ Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "UEZ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3223913/Reznor-Uez.html"
+  },
+  {
+   "manualId": "2560040",
+   "slug": "Reznor-Uez",
+   "title": "UEZ Manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": "UEZ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2560040/Reznor-Uez.html"
+  },
+  {
+   "manualId": "4209285",
+   "slug": "Reznor-Uez-Series",
+   "title": "UEZ Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "UEZ Series",
+   "extraModels": [
+    "UEZ-110",
+    "UEZ-130",
+    "UEZ-180",
+    "UEZ-260",
+    "UEZ-310",
+    "UEZ-55",
+    "UEZ-85"
+   ],
+   "url": "https://www.manualslib.com/manual/4209285/Reznor-Uez-Series.html"
+  },
+  {
+   "manualId": "1259374",
+   "slug": "Reznor-Ulsa-035-Ec",
+   "title": "ULSA 025(EC) Installation commisioning servicing & user instructions",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "ULSA 025(EC)",
+   "extraModels": [
+    "ULSA 025(EC)",
+    "ULSA 050(EC)",
+    "ULSA 075(EC)",
+    "ULSA 100(EC)"
+   ],
+   "url": "https://www.manualslib.com/manual/1259374/Reznor-Ulsa-035-Ec.html"
+  },
+  {
+   "manualId": "1580369",
+   "slug": "Reznor-Ds-3-Series",
+   "title": "User instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1580369/Reznor-Ds-3-Series.html"
+  },
+  {
+   "manualId": "3547379",
+   "slug": "Reznor-Uws",
+   "title": "UWS Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "UWS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3547379/Reznor-Uws.html"
+  },
+  {
+   "manualId": "4203545",
+   "slug": "Reznor-Uws-Series",
+   "title": "UWS Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "UWS Series",
+   "extraModels": [
+    "UWS10/15",
+    "UWS110/137",
+    "UWS15/21",
+    "UWS159/191",
+    "UWS22/31",
+    "UWS32/45",
+    "UWS44/62",
+    "UWS62/77",
+    "UWS83/104"
+   ],
+   "url": "https://www.manualslib.com/manual/4203545/Reznor-Uws-Series.html"
+  },
+  {
+   "manualId": "3086781",
+   "slug": "Reznor-Vcs",
+   "title": "VCS Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "VCS",
+   "extraModels": [
+    "VPS"
+   ],
+   "url": "https://www.manualslib.com/manual/3086781/Reznor-Vcs.html"
+  },
+  {
+   "manualId": "4585558",
+   "slug": "Reznor-Vcs",
+   "title": "VCS Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "VCS",
+   "extraModels": [
+    "VCT",
+    "VPS",
+    "VPT"
+   ],
+   "url": "https://www.manualslib.com/manual/4585558/Reznor-Vcs.html"
+  },
+  {
+   "manualId": "3864487",
+   "slug": "Reznor-Vcs-Series",
+   "title": "VCS Series PROPANE CONVERSION INSTRUCTIONS",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "VCS Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3864487/Reznor-Vcs-Series.html"
+  },
+  {
+   "manualId": "1789879",
+   "slug": "Reznor-Vps-Series",
+   "title": "VCS100 PROPANE CONVERSION INSTRUCTIONS",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "VCS100",
+   "extraModels": [
+    "VCS100",
+    "VCS125",
+    "VCS150",
+    "VCS170",
+    "VCS200",
+    "VCS60",
+    "VCS80",
+    "VCT100",
+    "VCT125",
+    "VCT150",
+    "VCT170",
+    "VCT200",
+    "VCT60",
+    "VCT80",
+    "VPS 100",
+    "VPS 125",
+    "VPS 150",
+    "VPS 170",
+    "VPS 200",
+    "VPS 60",
+    "VPS 80",
+    "VPT100",
+    "VPT125",
+    "VPT150",
+    "VPT170",
+    "VPT200",
+    "VPT60",
+    "VPT80"
+   ],
+   "url": "https://www.manualslib.com/manual/1789879/Reznor-Vps-Series.html"
+  },
+  {
+   "manualId": "3916844",
+   "slug": "Reznor-Vct",
+   "title": "VCT Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "VCT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3916844/Reznor-Vct.html"
+  },
+  {
+   "manualId": "3864488",
+   "slug": "Reznor-Vct-Series",
+   "title": "VCT Series PROPANE CONVERSION INSTRUCTIONS",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "VCT Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3864488/Reznor-Vct-Series.html"
+  },
+  {
+   "manualId": "762034",
+   "slug": "Reznor-Vps",
+   "title": "VPS Installation & operation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "VPS",
+   "extraModels": [
+    "VPS 100",
+    "VPS 125",
+    "VPS 150",
+    "VPS 170",
+    "VPS 200",
+    "VPS 60",
+    "VPS 80"
+   ],
+   "url": "https://www.manualslib.com/manual/762034/Reznor-Vps.html"
+  },
+  {
+   "manualId": "3916845",
+   "slug": "Reznor-Vpt",
+   "title": "VPT Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "VPT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3916845/Reznor-Vpt.html"
+  },
+  {
+   "manualId": "3864489",
+   "slug": "Reznor-Vpt-Series",
+   "title": "VPT Series PROPANE CONVERSION INSTRUCTIONS",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "VPT Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3864489/Reznor-Vpt-Series.html"
+  },
+  {
+   "manualId": "1492917",
+   "slug": "Reznor-Vsute-Series",
+   "title": "VS15LHE8 Installation & operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "VS15LHE8",
+   "extraModels": [
+    "VS15LHE8",
+    "VS15LHE8/DLE16",
+    "VS15LIE8",
+    "VS15UHE",
+    "VS15UTE",
+    "VS20LHE10-5",
+    "VS20LHE10-5/DLE21",
+    "VS20LIE10-5",
+    "VS20UHE",
+    "VS20UTE",
+    "VS25DLE21",
+    "VS25LHE10-5",
+    "VS25LHE10-5/DLE21",
+    "VS25LHE8",
+    "VS25LHE8/DLE16",
+    "VS25LIE10-5",
+    "VS25LIE8",
+    "VS25UHE",
+    "VS25UTE",
+    "VS30DLE21",
+    "VS30DLE27",
+    "VS30LHE10-5",
+    "VS30LHE10-5/DLE21",
+    "VS30LHE13-5",
+    "VS30LHE13-5/DLE27",
+    "VS30LIE10-5",
+    "VS30LIE13-5",
+    "VS30UHE",
+    "VS30UTE",
+    "VS35DLE21",
+    "VS35DLE27",
+    "VS35DLE32",
+    "VS35LHE10-5",
+    "VS35LHE10-5/DLE21",
+    "VS35LHE13-5",
+    "VS35LHE13-5/DLE27",
+    "VS35LHE16",
+    "VS35LHE16/DLE32",
+    "VS35LIE10-5",
+    "VS35LIE13-5",
+    "VS35LIE16",
+    "VS35UHE",
+    "VS35UTE",
+    "VS40DLE27",
+    "VS40DLE32",
+    "VS40LHE13-5",
+    "VS40LHE13-5/DLE27",
+    "VS40LHE16",
+    "VS40LHE16/DLE32",
+    "VS40LIE13-5",
+    "VS40LIE16",
+    "VS40UHE",
+    "VS40UTE",
+    "VS45DLE27",
+    "VS45DLE32",
+    "VS45LHE13-5",
+    "VS45LHE13-5/DLE27",
+    "VS45LHE16",
+    "VS45LHE16/DLE32",
+    "VS45LIE13-5",
+    "VS45LIE16",
+    "VS45UHE",
+    "VS45UTE",
+    "VS50DLE27",
+    "VS50DLE32",
+    "VS50LHE13-5",
+    "VS50LHE13-5/DLE27",
+    "VS50LHE16",
+    "VS50LHE16/DLE32",
+    "VS50LIE13-5",
+    "VS50LIE16",
+    "VS50UHE",
+    "VS50UTE",
+    "VSDLE series",
+    "VSLHE series",
+    "VSLIE series",
+    "VSUHE series"
+   ],
+   "url": "https://www.manualslib.com/manual/1492917/Reznor-Vsute-Series.html"
+  },
+  {
+   "manualId": "4196934",
+   "slug": "Reznor-Vz-Series",
+   "title": "VZ 100 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "VZ 100",
+   "extraModels": [
+    "VZ 100",
+    "VZ 115",
+    "VZ 125",
+    "VZ 140",
+    "VZ 150",
+    "VZ 175",
+    "VZ 200",
+    "VZ 40",
+    "VZ 60",
+    "VZ 80",
+    "VZH 100",
+    "VZH 115",
+    "VZH 125",
+    "VZH 140",
+    "VZH 150",
+    "VZH 175",
+    "VZH 200",
+    "VZH 40",
+    "VZH 60",
+    "VZH 80",
+    "VZH Series",
+    "VZT 100",
+    "VZT 115",
+    "VZT 125",
+    "VZT 140",
+    "VZT 150",
+    "VZT 175",
+    "VZT 200",
+    "VZT 40",
+    "VZT 60",
+    "VZT 80",
+    "VZT Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4196934/Reznor-Vz-Series.html"
+  },
+  {
+   "manualId": "3585336",
+   "slug": "Reznor-Vz",
+   "title": "VZ Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "VZ",
+   "extraModels": [
+    "VZH",
+    "VZT"
+   ],
+   "url": "https://www.manualslib.com/manual/3585336/Reznor-Vz.html"
+  },
+  {
+   "manualId": "4017465",
+   "slug": "Reznor-Wmgd",
+   "title": "WMG VR Installation, commissioning, service & user instructions",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "WMG VR",
+   "extraModels": [
+    "WMG VR",
+    "WMG VRL",
+    "WMGDD",
+    "WMGDDL",
+    "WMGDL",
+    "WMGED",
+    "WMGEDL",
+    "WMGFD",
+    "WMGFDL",
+    "WMGHD",
+    "WMGHDL",
+    "WMGND",
+    "WMGNDL"
+   ],
+   "url": "https://www.manualslib.com/manual/4017465/Reznor-Wmgd.html"
+  },
+  {
+   "manualId": "2945339",
+   "slug": "Reznor-Ws",
+   "title": "WS Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "WS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2945339/Reznor-Ws.html"
+  },
+  {
+   "manualId": "983039",
+   "slug": "Reznor-X",
+   "title": "X Installation operation & maintenance",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/983039/Reznor-X.html"
+  },
+  {
+   "manualId": "4579880",
+   "slug": "Reznor-X",
+   "title": "X Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4579880/Reznor-X.html"
+  },
+  {
+   "manualId": "1181252",
+   "slug": "Reznor-Xbws11",
+   "title": "XBWS11 installation instructions manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "XBWS11",
+   "extraModels": [
+    "XBWS20",
+    "XBWS28",
+    "XBWS36",
+    "XBWS46",
+    "XBWS62"
+   ],
+   "url": "https://www.manualslib.com/manual/1181252/Reznor-Xbws11.html"
+  },
+  {
+   "manualId": "4585297",
+   "slug": "Reznor-Ydha",
+   "title": "YDHA Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 142,
+   "productModel": "YDHA",
+   "extraModels": [
+    "YDMA",
+    "YDSA",
+    "YWMA"
+   ],
+   "url": "https://www.manualslib.com/manual/4585297/Reznor-Ydha.html"
+  },
+  {
+   "manualId": "3538086",
+   "slug": "Reznor-Ydha",
+   "title": "YDHA OPERATION, MAINTENANCE & SERVICE MANUAL",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "YDHA",
+   "extraModels": [
+    "YDHA 060",
+    "YDHA 090",
+    "YDHA 120",
+    "YDHA 150",
+    "YDHA 180",
+    "YDHA 210",
+    "YDHA 240",
+    "YDHA 300",
+    "YDHA 360",
+    "YDMA",
+    "YDMA 060",
+    "YDMA 090",
+    "YDMA 150",
+    "YDMA 180",
+    "YDMA 210",
+    "YDMA 240",
+    "YDMA 300",
+    "YDMA 360",
+    "YDSA",
+    "YDSA 120",
+    "YDSA 150",
+    "YDSA 180",
+    "YDSA 210"
+   ],
+   "url": "https://www.manualslib.com/manual/3538086/Reznor-Ydha.html"
+  },
+  {
+   "manualId": "3939293",
+   "slug": "Reznor-Ydma-120",
+   "title": "YDMA 120 OPERATION, MAINTENANCE & SERVICE MANUAL",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "YDMA 120",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3939293/Reznor-Ydma-120.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4239255",
+   "slug": "reznor-euh-electric-unit-heater-installation-and-operation-manual",
+   "title": "Reznor EUH Electric Unit Heater Installation & Operation Manual"
+  },
+  {
+   "manualId": "4442182",
+   "slug": "reznor-model-euhc-compact-electric-unit-heater-manual",
+   "title": "Reznor Model EUHC Compact Electric Unit Heater Manual"
+  },
+  {
+   "manualId": "4272177",
+   "slug": "reznor-huracan-series-air-curtain-installation-and-operation-manual",
+   "title": "Reznor HURACAN Series Air Curtain Installation and Operation Manual"
+  },
+  {
+   "manualId": "4245834",
+   "slug": "reznor-cl31-multiple-unit-control-kit-installation-manual",
+   "title": "Reznor CL31 Multiple Unit Control Kit Installation Manual"
+  }
+ ],
+ "techDirectIds": [
+  "reznor"
+ ]
+}

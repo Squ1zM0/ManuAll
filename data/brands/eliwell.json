@@ -1,0 +1,889 @@
+{
+ "brand": "Eliwell",
+ "brandSlug": "eliwell",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/eliwell/"
+ ],
+ "slugUsed": "eliwell",
+ "capturedAt": "2026-10-28T07:04:27.343410+00:00",
+ "typePages": [
+  {
+   "path": "/brand/eliwell/control-unit.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/eliwell/controller.html",
+   "manuals": 139,
+   "status": 200
+  },
+  {
+   "path": "/brand/eliwell/data-loggers.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/eliwell/dc-drives.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/eliwell/keyboard.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/eliwell/measuring-instruments.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/eliwell/network-hardware.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/eliwell/recording-equipment.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/eliwell/temperature-controller.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/eliwell/thermostat.html",
+   "manuals": 5,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1654461",
+   "slug": "Eliwell-210-L-Series",
+   "title": "210 L Series Manual",
+   "type": "Other",
+   "pages": 25,
+   "productModel": "210 L Series",
+   "extraModels": [
+    "211 L Series",
+    "220 R Series",
+    "220 W Series",
+    "221 R Series",
+    "221 W Series",
+    "223 W Series",
+    "410 L Series",
+    "420 R Series",
+    "420 W Series",
+    "FC BASIC Series",
+    "U12 L Series",
+    "U22 R Series",
+    "U22 W Series",
+    "U23 W Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1654461/Eliwell-210-L-Series.html"
+  },
+  {
+   "manualId": "1777651",
+   "slug": "Eliwell-Id-983lx-Haccp",
+   "title": "983LX/CK HACCP Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "983LX/CK HACCP",
+   "extraModels": [
+    "983LX/CK HACCP",
+    "ID 983LX/C HACCP",
+    "ID 985LX HACCP",
+    "ID 985LX/CK HACCP"
+   ],
+   "url": "https://www.manualslib.com/manual/1777651/Eliwell-Id-983lx-Haccp.html"
+  },
+  {
+   "manualId": "1582620",
+   "slug": "Eliwell-Coldface-Ewht800lx-Series",
+   "title": "Coldface EWHT800LX Series Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Coldface EWHT800LX Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1582620/Eliwell-Coldface-Ewht800lx-Series.html"
+  },
+  {
+   "manualId": "1342192",
+   "slug": "Eliwell-Ech-200bd-Adaptive",
+   "title": "Eliwell ECH 200BD ",
+   "type": "Other",
+   "pages": 76,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1342192/Eliwell-Ech-200bd-Adaptive.html"
+  },
+  {
+   "manualId": "3861630",
+   "slug": "Eliwell-Ew974",
+   "title": "Eliwell EW974 Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3861630/Eliwell-Ew974.html"
+  },
+  {
+   "manualId": "4416775",
+   "slug": "eliwell-ewpc-902-s-temperature-controller-user-manual",
+   "title": "Eliwell EWPC 902/S Temperature Controller User Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4416775/eliwell-ewpc-902-s-temperature-controller-user-manual.html"
+  },
+  {
+   "manualId": "1589088",
+   "slug": "Eliwell-Ewplus-971",
+   "title": "Eliwell EWPlus 971 Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "EWPlus 961",
+    "EWPlus 974"
+   ],
+   "url": "https://www.manualslib.com/manual/1589088/Eliwell-Ewplus-971.html"
+  },
+  {
+   "manualId": "1385687",
+   "slug": "Eliwell-Icplus-902",
+   "title": "Eliwell ICPlus 902 Manual",
+   "type": "Other",
+   "pages": 25,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1385687/Eliwell-Icplus-902.html"
+  },
+  {
+   "manualId": "2259691",
+   "slug": "Eliwell-Icplus-915",
+   "title": "Eliwell ICPlus 915 Manual",
+   "type": "Other",
+   "pages": 29,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2259691/Eliwell-Icplus-915.html"
+  },
+  {
+   "manualId": "1786968",
+   "slug": "Eliwell-Id-985-Lx",
+   "title": "Eliwell ID 985 LX Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1786968/Eliwell-Id-985-Lx.html"
+  },
+  {
+   "manualId": "1464654",
+   "slug": "Eliwell-Idplus-902",
+   "title": "Eliwell IDplus 902 Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": null,
+   "extraModels": [
+    "IDplus 961",
+    "IDplus 971",
+    "IDplus 974"
+   ],
+   "url": "https://www.manualslib.com/manual/1464654/Eliwell-Idplus-902.html"
+  },
+  {
+   "manualId": "1691693",
+   "slug": "Eliwell-Idplus-961",
+   "title": "Eliwell IDPlus 961 Manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": null,
+   "extraModels": [
+    "IDplus 971",
+    "IDplus 974"
+   ],
+   "url": "https://www.manualslib.com/manual/1691693/Eliwell-Idplus-961.html"
+  },
+  {
+   "manualId": "1618934",
+   "slug": "Eliwell-Ew-4800",
+   "title": "EW 4800 Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "EW 4800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1618934/Eliwell-Ew-4800.html"
+  },
+  {
+   "manualId": "1691694",
+   "slug": "Eliwell-Ew961",
+   "title": "EW961 Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "EW961",
+   "extraModels": [
+    "EW971"
+   ],
+   "url": "https://www.manualslib.com/manual/1691694/Eliwell-Ew961.html"
+  },
+  {
+   "manualId": "1368408",
+   "slug": "Eliwell-Ewcfw-08",
+   "title": "EWCFW-08 user manual",
+   "type": "User / Owner",
+   "pages": 211,
+   "productModel": "EWCFW-08",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1368408/Eliwell-Ewcfw-08.html"
+  },
+  {
+   "manualId": "1621365",
+   "slug": "Eliwell-Ewcm-4120",
+   "title": "EWCM 4120 Manual",
+   "type": "Other",
+   "pages": 75,
+   "productModel": "EWCM 4120",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1621365/Eliwell-Ewcm-4120.html"
+  },
+  {
+   "manualId": "3858549",
+   "slug": "Eliwell-Ewcm-4150",
+   "title": "EWCM 4150 Manual",
+   "type": "Other",
+   "pages": 75,
+   "productModel": "EWCM 4150",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3858549/Eliwell-Ewcm-4150.html"
+  },
+  {
+   "manualId": "3858548",
+   "slug": "Eliwell-Ewcm-4180",
+   "title": "EWCM 4180 Manual",
+   "type": "Other",
+   "pages": 75,
+   "productModel": "EWCM 4180",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3858548/Eliwell-Ewcm-4180.html"
+  },
+  {
+   "manualId": "1584756",
+   "slug": "Eliwell-Ewdr-981",
+   "title": "EWDR 981 Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "EWDR 981",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1584756/Eliwell-Ewdr-981.html"
+  },
+  {
+   "manualId": "1723785",
+   "slug": "Eliwell-Ewdr-983-Cs",
+   "title": "EWDR 983/CS Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "EWDR 983/CS",
+   "extraModels": [
+    "EWDR 983/CS LX",
+    "EWDR 985/CS",
+    "EWDR 985/CS LX",
+    "EWDR 985/CSK",
+    "EWDR 985/CSK LX"
+   ],
+   "url": "https://www.manualslib.com/manual/1723785/Eliwell-Ewdr-983-Cs.html"
+  },
+  {
+   "manualId": "1743356",
+   "slug": "Eliwell-Ewht-1800lx",
+   "title": "EWHT 1800LX Manual",
+   "type": "Other",
+   "pages": 142,
+   "productModel": "EWHT 1800LX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1743356/Eliwell-Ewht-1800lx.html"
+  },
+  {
+   "manualId": "1475369",
+   "slug": "Eliwell-Ewkplus-978",
+   "title": "EWKPlus 978 user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "EWKPlus 978",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1475369/Eliwell-Ewkplus-978.html"
+  },
+  {
+   "manualId": "1556421",
+   "slug": "Eliwell-Ewplus-902",
+   "title": "EWPlus 902 installation manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "EWPlus 902",
+   "extraModels": [
+    "EWPlus 961",
+    "EWPlus 971",
+    "EWPlus 974"
+   ],
+   "url": "https://www.manualslib.com/manual/1556421/Eliwell-Ewplus-902.html"
+  },
+  {
+   "manualId": "3851291",
+   "slug": "Eliwell-Ewplus-978",
+   "title": "EWPlus 978 user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "EWPlus 978",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3851291/Eliwell-Ewplus-978.html"
+  },
+  {
+   "manualId": "1541919",
+   "slug": "Eliwell-Ewrc-300-Nt",
+   "title": "EWRC 300 NT Series quick start manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "EWRC 300 NT Series",
+   "extraModels": [
+    "EWRC 500 NT Series",
+    "EWRC 5000 NT Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1541919/Eliwell-Ewrc-300-Nt.html"
+  },
+  {
+   "manualId": "1590714",
+   "slug": "Eliwell-Ewrc-500-Nt",
+   "title": "EWRC 300 NT Series quick start manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "EWRC 300 NT Series",
+   "extraModels": [
+    "EWRC 300 NT Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1590714/Eliwell-Ewrc-500-Nt.html"
+  },
+  {
+   "manualId": "1417856",
+   "slug": "Eliwell-Ewrc-300-Nt",
+   "title": "EWRC 300 NT Series user manual",
+   "type": "User / Owner",
+   "pages": 89,
+   "productModel": "EWRC 300 NT Series",
+   "extraModels": [
+    "EWRC 500 NT Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1417856/Eliwell-Ewrc-300-Nt.html"
+  },
+  {
+   "manualId": "1605086",
+   "slug": "Eliwell-Ewrc-300-Nt-Series",
+   "title": "EWRC 300 NT Series user manual",
+   "type": "User / Owner",
+   "pages": 107,
+   "productModel": "EWRC 300 NT Series",
+   "extraModels": [
+    "EWRC 500 NT 4DIN",
+    "EWRC 500 NT BREAKER",
+    "EWRC 500 NT HACCP",
+    "EWRC 500 NT Series",
+    "EWRC 5000 NT HACCP",
+    "EWRC 5000 NT Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1605086/Eliwell-Ewrc-300-Nt-Series.html"
+  },
+  {
+   "manualId": "1702923",
+   "slug": "Eliwell-Ewtq-905",
+   "title": "EWTQ 905 Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "EWTQ 905",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1702923/Eliwell-Ewtq-905.html"
+  },
+  {
+   "manualId": "1599782",
+   "slug": "Eliwell-Ez-Ht",
+   "title": "EZ-HT Manual",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "EZ-HT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1599782/Eliwell-Ez-Ht.html"
+  },
+  {
+   "manualId": "3857333",
+   "slug": "Eliwell-Ez-Lt",
+   "title": "EZ-LT Manual",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "EZ-LT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857333/Eliwell-Ez-Lt.html"
+  },
+  {
+   "manualId": "3857332",
+   "slug": "Eliwell-Ez-Mt",
+   "title": "EZ-MT Manual",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "EZ-MT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857332/Eliwell-Ez-Mt.html"
+  },
+  {
+   "manualId": "1297875",
+   "slug": "Eliwell-Free-Panel-Evp-3300-C",
+   "title": "FREE Panel EVP 3300/C installation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "FREE Panel EVP 3300/C",
+   "extraModels": [
+    "FREE Panel EVP 3500/C/R"
+   ],
+   "url": "https://www.manualslib.com/manual/1297875/Eliwell-Free-Panel-Evp-3300-C.html"
+  },
+  {
+   "manualId": "2340294",
+   "slug": "Eliwell-Ic-901",
+   "title": "IC 901 Manual",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "IC 901",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2340294/Eliwell-Ic-901.html"
+  },
+  {
+   "manualId": "1786970",
+   "slug": "Eliwell-Ic-912-Lx-Pt100-R",
+   "title": "IC 912 LX Pt100 R Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "IC 912 LX Pt100 R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1786970/Eliwell-Ic-912-Lx-Pt100-R.html"
+  },
+  {
+   "manualId": "1569437",
+   "slug": "Eliwell-Ic-915",
+   "title": "IC 915 LX user manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "IC 915 LX",
+   "extraModels": [
+    "IC 915 LX"
+   ],
+   "url": "https://www.manualslib.com/manual/1569437/Eliwell-Ic-915.html"
+  },
+  {
+   "manualId": "1762591",
+   "slug": "Eliwell-Ic-915-Ntc-Ptc",
+   "title": "IC 915 NTC/PTC Manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": "IC 915 NTC/PTC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1762591/Eliwell-Ic-915-Ntc-Ptc.html"
+  },
+  {
+   "manualId": "2296539",
+   "slug": "Eliwell-Id-400",
+   "title": "ID 400 Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "ID 400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2296539/Eliwell-Id-400.html"
+  },
+  {
+   "manualId": "1724257",
+   "slug": "Eliwell-Id-985-E",
+   "title": "ID 985 E Manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "ID 985 E",
+   "extraModels": [
+    "ID 985LX HACCP"
+   ],
+   "url": "https://www.manualslib.com/manual/1724257/Eliwell-Id-985-E.html"
+  },
+  {
+   "manualId": "2401146",
+   "slug": "Eliwell-Id-985",
+   "title": "ID 985 Manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "ID 985",
+   "extraModels": [
+    "ID 985 LX",
+    "ID 985CK",
+    "ID 985E",
+    "ID 985E LX",
+    "ID 985S"
+   ],
+   "url": "https://www.manualslib.com/manual/2401146/Eliwell-Id-985.html"
+  },
+  {
+   "manualId": "1341322",
+   "slug": "Eliwell-Id-985",
+   "title": "ID 985 user manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "ID 985",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1341322/Eliwell-Id-985.html"
+  },
+  {
+   "manualId": "3864029",
+   "slug": "Eliwell-Id-985lx-C-Haccp",
+   "title": "ID 985LX/C HACCP Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "ID 985LX/C HACCP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3864029/Eliwell-Id-985lx-C-Haccp.html"
+  },
+  {
+   "manualId": "1419440",
+   "slug": "Eliwell-Ewcm-8900",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1419440/Eliwell-Ewcm-8900.html"
+  },
+  {
+   "manualId": "1715125",
+   "slug": "Eliwell-Iwp-740",
+   "title": "IWP 740 Manual",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "IWP 740",
+   "extraModels": [
+    "IWP 740 LX"
+   ],
+   "url": "https://www.manualslib.com/manual/1715125/Eliwell-Iwp-740.html"
+  },
+  {
+   "manualId": "1744116",
+   "slug": "Eliwell-Iwp-760-Lx",
+   "title": "IWP 760 LX Manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "IWP 760 LX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1744116/Eliwell-Iwp-760-Lx.html"
+  },
+  {
+   "manualId": "1216360",
+   "slug": "Eliwell-Em300",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1216360/Eliwell-Em300.html"
+  },
+  {
+   "manualId": "1226432",
+   "slug": "Eliwell-Ic-912",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1226432/Eliwell-Ic-912.html"
+  },
+  {
+   "manualId": "1393971",
+   "slug": "Eliwell-Id-961-Lx",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1393971/Eliwell-Id-961-Lx.html"
+  },
+  {
+   "manualId": "1436458",
+   "slug": "Eliwell-Id-961",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1436458/Eliwell-Id-961.html"
+  },
+  {
+   "manualId": "1465826",
+   "slug": "Eliwell-Ic-901",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1465826/Eliwell-Ic-901.html"
+  },
+  {
+   "manualId": "1552812",
+   "slug": "Eliwell-Televis-Ewcm-809-Nh3-S",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1552812/Eliwell-Televis-Ewcm-809-Nh3-S.html"
+  },
+  {
+   "manualId": "1565912",
+   "slug": "Eliwell-Ewpc-961-S",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1565912/Eliwell-Ewpc-961-S.html"
+  },
+  {
+   "manualId": "1570485",
+   "slug": "Eliwell-Ewdb-111",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1570485/Eliwell-Ewdb-111.html"
+  },
+  {
+   "manualId": "1597235",
+   "slug": "Eliwell-Busadapter-150",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1597235/Eliwell-Busadapter-150.html"
+  },
+  {
+   "manualId": "1612898",
+   "slug": "Eliwell-Ewtr-910",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1612898/Eliwell-Ewtr-910.html"
+  },
+  {
+   "manualId": "1619859",
+   "slug": "Eliwell-Televisout",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1619859/Eliwell-Televisout.html"
+  },
+  {
+   "manualId": "1647261",
+   "slug": "Eliwell-Id-974",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1647261/Eliwell-Id-974.html"
+  },
+  {
+   "manualId": "1756982",
+   "slug": "Eliwell-Iwk-32x74",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1756982/Eliwell-Iwk-32x74.html"
+  },
+  {
+   "manualId": "1762592",
+   "slug": "Eliwell-Ic-912-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1762592/Eliwell-Ic-912-Series.html"
+  },
+  {
+   "manualId": "1794068",
+   "slug": "Eliwell-Ic-912-Pt100-Tc",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1794068/Eliwell-Ic-912-Pt100-Tc.html"
+  },
+  {
+   "manualId": "2259803",
+   "slug": "Eliwell-Id-971",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2259803/Eliwell-Id-971.html"
+  },
+  {
+   "manualId": "2260446",
+   "slug": "Eliwell-Id-970",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2260446/Eliwell-Id-970.html"
+  },
+  {
+   "manualId": "1369771",
+   "slug": "Eliwell-Memory-1000",
+   "title": "Memory 1000 Manual",
+   "type": "Other",
+   "pages": 53,
+   "productModel": "Memory 1000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1369771/Eliwell-Memory-1000.html"
+  },
+  {
+   "manualId": "1582593",
+   "slug": "Eliwell-Ewrc-500-Lx",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1582593/Eliwell-Ewrc-500-Lx.html"
+  },
+  {
+   "manualId": "1643823",
+   "slug": "Eliwell-Ewpc-902-S-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1643823/Eliwell-Ewpc-902-S-Series.html"
+  },
+  {
+   "manualId": "2345212",
+   "slug": "Eliwell-Ewpc-961",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2345212/Eliwell-Ewpc-961.html"
+  },
+  {
+   "manualId": "1455875",
+   "slug": "Eliwell-Radioadapter",
+   "title": "RadioAdapter user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "RadioAdapter",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1455875/Eliwell-Radioadapter.html"
+  },
+  {
+   "manualId": "1650212",
+   "slug": "Eliwell-Rgf-312",
+   "title": "RGF 300 Series Manual",
+   "type": "Other",
+   "pages": 55,
+   "productModel": "RGF 300 Series",
+   "extraModels": [
+    "RGF 300 Series",
+    "RGF 320",
+    "RGF 325",
+    "RGF 340",
+    "RGF 360"
+   ],
+   "url": "https://www.manualslib.com/manual/1650212/Eliwell-Rgf-312.html"
+  },
+  {
+   "manualId": "1338034",
+   "slug": "Eliwell-Televisgo",
+   "title": "TelevisGo user manual",
+   "type": "User / Owner",
+   "pages": 68,
+   "productModel": "TelevisGo",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1338034/Eliwell-Televisgo.html"
+  },
+  {
+   "manualId": "1752629",
+   "slug": "Eliwell-Unicard-Usb-Ttl",
+   "title": "UNICARD USB-TTL Manual",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "UNICARD USB-TTL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1752629/Eliwell-Unicard-Usb-Ttl.html"
+  },
+  {
+   "manualId": "1264860",
+   "slug": "Eliwell-Ic-901-A",
+   "title": "User Interface Reference",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1264860/Eliwell-Ic-901-A.html"
+  },
+  {
+   "manualId": "1133838",
+   "slug": "Eliwell-Ic-902",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1133838/Eliwell-Ic-902.html"
+  },
+  {
+   "manualId": "2775803",
+   "slug": "Eliwell-V800-Series",
+   "title": "V800 Series Manual",
+   "type": "Other",
+   "pages": 100,
+   "productModel": "V800 Series",
+   "extraModels": [
+    "V800/P1",
+    "V800/P2",
+    "V800/P3",
+    "V800/P4"
+   ],
+   "url": "https://www.manualslib.com/manual/2775803/Eliwell-V800-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4416775",
+   "slug": "eliwell-ewpc-902-s-temperature-controller-user-manual",
+   "title": "Eliwell EWPC 902/S Temperature Controller User Manual"
+  }
+ ],
+ "techDirectIds": [
+  "eliwell"
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "brand": "RUSSELL",
+ "brandSlug": "russell",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/russell/"
+ ],
+ "slugUsed": "russell",
+ "capturedAt": "2026-10-28T09:19:49.167912+00:00",
+ "typePages": [
+  {
+   "path": "/brand/russell/freezer.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/russell/greenhouse-kit.html",
+   "manuals": 11,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3450134",
+   "slug": "Russell-Halls-Greenhouses-Bc-Magnum-108",
+   "title": "Assembly",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3450134/Russell-Halls-Greenhouses-Bc-Magnum-108.html"
+  },
+  {
+   "manualId": "3786645",
+   "slug": "Russell-Sierra",
+   "title": "sierra Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "sierra",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3786645/Russell-Sierra.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "russell"
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "brand": "Airease",
+ "brandSlug": "airease",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/airease/"
+ ],
+ "slugUsed": "airease",
+ "capturedAt": "2026-10-28T06:22:46.131754+00:00",
+ "typePages": [
+  {
+   "path": "/brand/airease/air-conditioner.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/airease/air-handlers.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/airease/furnace.html",
+   "manuals": 20,
+   "status": 200
+  },
+  {
+   "path": "/brand/airease/personal-care-products.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2437788",
+   "slug": "Airease-4scu16ls-Series",
+   "title": "4SCU16LS Series installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "4SCU16LS Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2437788/Airease-4scu16ls-Series.html"
+  },
+  {
+   "manualId": "3701972",
+   "slug": "Airease-7ah2av",
+   "title": "7AH2AV installation instructions manual",
+   "type": "Installation",
+   "pages": 53,
+   "productModel": "7AH2AV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3701972/Airease-7ah2av.html"
+  },
+  {
+   "manualId": "1072740",
+   "slug": "Airease-A95df2e",
+   "title": "95G2DFE installation instructions manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "95G2DFE",
+   "extraModels": [
+    "95G2DFE"
+   ],
+   "url": "https://www.manualslib.com/manual/1072740/Airease-A95df2e.html"
+  },
+  {
+   "manualId": "1071087",
+   "slug": "Airease-A95uh2v",
+   "title": "95G2UHV installation instructions manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "95G2UHV",
+   "extraModels": [
+    "95G2UHV"
+   ],
+   "url": "https://www.manualslib.com/manual/1071087/Airease-A95uh2v.html"
+  },
+  {
+   "manualId": "3553877",
+   "slug": "Airease-Air-Wave-Pro",
+   "title": "Air Wave Pro Manual",
+   "type": "Other",
+   "pages": 43,
+   "productModel": "Air Wave Pro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3553877/Airease-Air-Wave-Pro.html"
+  },
+  {
+   "manualId": "1578091",
+   "slug": "Airease-L85uf-Series",
+   "title": "L85BF Series installation instructions manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "L85BF Series",
+   "extraModels": [
+    "L85BF Series",
+    "L85BFC104V20",
+    "L85BFC67V14",
+    "L85BFC87V14",
+    "L85BR Series",
+    "L85BRC104V20",
+    "L85BRC118V20",
+    "L85BRC67V14",
+    "L85BRC87V14",
+    "L85UFC104V20",
+    "L85UFC118V20",
+    "L85UFC87V14",
+    "L885UFC67V14",
+    "LBF85C118V20"
+   ],
+   "url": "https://www.manualslib.com/manual/1578091/Airease-L85uf-Series.html"
+  },
+  {
+   "manualId": "2796225",
+   "slug": "Airease-90Plus-Afue",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2796225/Airease-90Plus-Afue.html"
+  },
+  {
+   "manualId": "4641267",
+   "slug": "Airease-Rpac16-Series",
+   "title": "PRPAC16 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 23,
+   "productModel": "PRPAC16",
+   "extraModels": [
+    "PRPAC16",
+    "RPHP16 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4641267/Airease-Rpac16-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "airease"
+ ]
+}

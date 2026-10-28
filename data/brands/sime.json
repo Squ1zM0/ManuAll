@@ -1,0 +1,6711 @@
+{
+ "brand": "Sime",
+ "brandSlug": "sime",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/sime/"
+ ],
+ "slugUsed": "sime",
+ "capturedAt": "2026-10-28T09:21:48.456986+00:00",
+ "typePages": [
+  {
+   "path": "/brand/sime/air-conditioner.html",
+   "manuals": 21,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/boiler.html",
+   "manuals": 1382,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/burner.html",
+   "manuals": 50,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/chiller.html",
+   "manuals": 47,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/control-unit.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/controller.html",
+   "manuals": 33,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/fan.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/farm-equipment.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/heat-pump.html",
+   "manuals": 43,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/heater.html",
+   "manuals": 21,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/heating-system.html",
+   "manuals": 25,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/industrial-equipment.html",
+   "manuals": 83,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/inverter.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/irrigation-system.html",
+   "manuals": 55,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/pellet-stove.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/portable-generator.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/remote-control.html",
+   "manuals": 20,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/security-sensors.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/set-top-boxes.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/solar-panel.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/temperature-controller.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/water-heater.html",
+   "manuals": 171,
+   "status": 200
+  },
+  {
+   "path": "/brand/sime/water-system.html",
+   "manuals": 13,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2605082",
+   "slug": "Sime-021",
+   "title": "021 Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "021",
+   "extraModels": [
+    "026",
+    "028",
+    "032"
+   ],
+   "url": "https://www.manualslib.com/manual/2605082/Sime-021.html"
+  },
+  {
+   "manualId": "1625401",
+   "slug": "Sime-70-Mk-Ii",
+   "title": "100 Mk.II Installer's Instructions",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "100 Mk.II",
+   "extraModels": [
+    "100 Mk.II",
+    "110 Mk.II",
+    "RMG 100 Mk.II",
+    "RMG 70 Mk.II",
+    "RMG 80 Mk.II",
+    "RMG 90 Mk.II",
+    "80 Mk.II",
+    "90 Mk.II",
+    "RMG 110 Mk.II",
+    "RMG Mk.II Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1625401/Sime-70-Mk-Ii.html"
+  },
+  {
+   "manualId": "2146673",
+   "slug": "Sime-Senior",
+   "title": "10137 INSTALLATION, USE, MAINTENANCE AND SPARE PARTS MANUAL",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "10137",
+   "extraModels": [
+    "10137",
+    "10158",
+    "10307",
+    "AMBO",
+    "DUPLEX",
+    "HIDRA"
+   ],
+   "url": "https://www.manualslib.com/manual/2146673/Sime-Senior.html"
+  },
+  {
+   "manualId": "2160816",
+   "slug": "Sime-Pop-Up-Sportgun",
+   "title": "10442 INSTALLATION, USE, MAINTENANCE AND SPARE PARTS MANUAL",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "10442",
+   "extraModels": [
+    "10442"
+   ],
+   "url": "https://www.manualslib.com/manual/2160816/Sime-Pop-Up-Sportgun.html"
+  },
+  {
+   "manualId": "2172878",
+   "slug": "Sime-Aqua-25-Erp",
+   "title": "1312CQ188R Installer's Instructions",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "1312CQ188R",
+   "extraModels": [
+    "1312CQ188R",
+    "AQUA 35 ErP",
+    "AQUA INOX 25 ErP",
+    "AQUA INOX 35 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2172878/Sime-Aqua-25-Erp.html"
+  },
+  {
+   "manualId": "2210888",
+   "slug": "Sime-Solo-25-Erp-Ln",
+   "title": "1312CQ188R Installer's Instructions",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "1312CQ188R",
+   "extraModels": [
+    "1312CQ188R",
+    "DUETTO 35 ErP",
+    "SOLO 35 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2210888/Sime-Solo-25-Erp-Ln.html"
+  },
+  {
+   "manualId": "1743678",
+   "slug": "Sime-1r-Of-Series",
+   "title": "1R 10 OF Manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "1R 10 OF",
+   "extraModels": [
+    "1R 10 OF",
+    "1R 6 OF",
+    "1R 7 OF",
+    "1R 8 OF",
+    "1R 9 OF",
+    "2R 10 OF",
+    "2R 11 OF",
+    "2R 12 OF",
+    "2R 13 OF",
+    "2R 14 OF",
+    "2R 15 OF",
+    "2R 6 OF",
+    "2R 7 OF",
+    "2R 8 OF",
+    "2R 9 OF",
+    "2R GT 10 OF",
+    "2R GT 10 OF S",
+    "2R GT 12 OF",
+    "2R GT 12 OF S",
+    "2R GT 13 OF",
+    "2R GT 13 OF S",
+    "2R GT 14 OF",
+    "2R GT 14 OF S",
+    "2R GT 15 OF",
+    "2R GT 15 OF S",
+    "2R GT Series",
+    "2R GT11 OF S",
+    "2R GT8 OF S",
+    "2R OF Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1743678/Sime-1r-Of-Series.html"
+  },
+  {
+   "manualId": "1743673",
+   "slug": "Sime-1r-Series",
+   "title": "1R 6 OF Manual",
+   "type": "Other",
+   "pages": 96,
+   "productModel": "1R 6 OF",
+   "extraModels": [
+    "1R 6 OF",
+    "1R 7 OF",
+    "1R 8 OF",
+    "1R 9 OF",
+    "2R 6 OF",
+    "2R 7 OF",
+    "2R 8 OF",
+    "2R 9 OF",
+    "2R GT 10",
+    "2R GT 11",
+    "2R GT 12",
+    "2R GT 13",
+    "2R GT 14",
+    "2R GT 15",
+    "2R GT Series",
+    "2R Series",
+    "2R10",
+    "2R11",
+    "2R12",
+    "2R13",
+    "2R14",
+    "2R15",
+    "2R6 GT",
+    "2R7 GT",
+    "2R8 GT",
+    "2R9 GT"
+   ],
+   "url": "https://www.manualslib.com/manual/1743673/Sime-1r-Series.html"
+  },
+  {
+   "manualId": "1410097",
+   "slug": "Sime-1r6",
+   "title": "1R 6 OF user manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "1R 6 OF",
+   "extraModels": [
+    "1R 7 OF",
+    "1R 8 OF",
+    "1R 9 OF",
+    "2R 6 OF",
+    "2R 7 OF",
+    "2R 8 OF",
+    "2R 9 OF",
+    "2R10",
+    "2R10 GT",
+    "2R11",
+    "2R11 GT",
+    "2R12",
+    "2R12 GT",
+    "2R13",
+    "2R13 GT",
+    "2R14",
+    "2R14 GT",
+    "2R15",
+    "2R15 GT",
+    "2R6 GT",
+    "2R7 GT",
+    "2R8 GT",
+    "2R9 GT"
+   ],
+   "url": "https://www.manualslib.com/manual/1410097/Sime-1r6.html"
+  },
+  {
+   "manualId": "1731585",
+   "slug": "Sime-2r-He-7-Erp",
+   "title": "1R HE 9 ErP Installation and maintenance manual",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "1R HE 9 ErP",
+   "extraModels": [
+    "1R HE 9 ErP",
+    "2R HE 10 ErP",
+    "2R HE 11 ErP",
+    "2R HE 12 ErP",
+    "2R HE 13 ErP",
+    "2R HE 8 ErP",
+    "2R HE 9 ErP",
+    "8099050"
+   ],
+   "url": "https://www.manualslib.com/manual/1731585/Sime-2r-He-7-Erp.html"
+  },
+  {
+   "manualId": "3543463",
+   "slug": "Sime-1r-He-9-Erp",
+   "title": "1R HE 9 ErP Manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "1R HE 9 ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3543463/Sime-1r-He-9-Erp.html"
+  },
+  {
+   "manualId": "2221231",
+   "slug": "Sime-1r-Of",
+   "title": "1R OF Series Manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "1R OF Series",
+   "extraModels": [
+    "2R OF Series",
+    "2R OF/OF",
+    "2R S/GT"
+   ],
+   "url": "https://www.manualslib.com/manual/2221231/Sime-1r-Of.html"
+  },
+  {
+   "manualId": "1721851",
+   "slug": "Sime-1r",
+   "title": "1R Series Manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "1R Series",
+   "extraModels": [
+    "2R Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1721851/Sime-1r.html"
+  },
+  {
+   "manualId": "2099717",
+   "slug": "Sime-Fuel-30-Dt-Bfx",
+   "title": "20096000 Installation, Use And Maintenance Instructions",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "20096000",
+   "extraModels": [
+    "20096000",
+    "3513687"
+   ],
+   "url": "https://www.manualslib.com/manual/2099717/Sime-Fuel-30-Dt-Bfx.html"
+  },
+  {
+   "manualId": "1960819",
+   "slug": "Sime-Fuel-25-Erp",
+   "title": "20119424 Installation, Use And Maintenance Instructions",
+   "type": "Service",
+   "pages": 22,
+   "productModel": "20119424",
+   "extraModels": [
+    "20119424",
+    "20119426",
+    "20131439",
+    "20131442",
+    "FUEL 35 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/1960819/Sime-Fuel-25-Erp.html"
+  },
+  {
+   "manualId": "2297460",
+   "slug": "Sime-Rdb2-2r-Bg2-Blu-25",
+   "title": "20121960 Installation, Use And Maintenance Instructions",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "20121960",
+   "extraModels": [
+    "20121960",
+    "20121961",
+    "RDB2.2R BG3 BLU 35"
+   ],
+   "url": "https://www.manualslib.com/manual/2297460/Sime-Rdb2-2r-Bg2-Blu-25.html"
+  },
+  {
+   "manualId": "3788806",
+   "slug": "Sime-30-Of-S",
+   "title": "25 BF TS Manual",
+   "type": "Other",
+   "pages": 96,
+   "productModel": "25 BF TS",
+   "extraModels": [
+    "25 BF TS",
+    "30 BF TS",
+    "35 BF TS"
+   ],
+   "url": "https://www.manualslib.com/manual/3788806/Sime-30-Of-S.html"
+  },
+  {
+   "manualId": "3252287",
+   "slug": "Sime-25-Erp-Ln",
+   "title": "25 ErP LN Instructions for use manual",
+   "type": "User / Owner",
+   "pages": 96,
+   "productModel": "25 ErP LN",
+   "extraModels": [
+    "25 INOX ErP LN",
+    "35 ErP LN",
+    "35 INOX ErP LN"
+   ],
+   "url": "https://www.manualslib.com/manual/3252287/Sime-25-Erp-Ln.html"
+  },
+  {
+   "manualId": "3183685",
+   "slug": "Sime-Solo",
+   "title": "25-35 BF TS Installer's instructions",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "25-35 BF TS",
+   "extraModels": [
+    "25-35 BF TS",
+    "25-35 TS",
+    "35 BF TS PR",
+    "35 TS PR"
+   ],
+   "url": "https://www.manualslib.com/manual/3183685/Sime-Solo.html"
+  },
+  {
+   "manualId": "3204813",
+   "slug": "Sime-Solo-25-35-Bf-Ts",
+   "title": "25-35 BF TS instructions manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "25-35 BF TS",
+   "extraModels": [
+    "DUETTO 25 BF TS",
+    "DUETTO 35 BF TS",
+    "DUETTO 35 BF TS PR",
+    "SOLO 35 BF TS PR"
+   ],
+   "url": "https://www.manualslib.com/manual/3204813/Sime-Solo-25-35-Bf-Ts.html"
+  },
+  {
+   "manualId": "2500831",
+   "slug": "Sime-2r-He-Erp-Series",
+   "title": "2R HE 10 ErP Original instructions manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "2R HE 10 ErP",
+   "extraModels": [
+    "2R HE 10 ErP",
+    "2R HE 11 ErP",
+    "2R HE 12 ErP",
+    "2R HE 13 ErP",
+    "2R HE 6 ErP",
+    "2R HE 7 ErP",
+    "2R HE 8 ErP",
+    "2R HE 9 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2500831/Sime-2r-He-Erp-Series.html"
+  },
+  {
+   "manualId": "3475361",
+   "slug": "Sime-2r-He-Erp-Series",
+   "title": "2R HE 11 ErP Original instructions manual",
+   "type": "User / Owner",
+   "pages": 76,
+   "productModel": "2R HE 11 ErP",
+   "extraModels": [
+    "2R HE 11 ErP",
+    "2R HE 12 ErP",
+    "2R HE 13 ErP",
+    "2R HE 6 ErP",
+    "2R HE 7 ErP",
+    "2R HE 8 ErP",
+    "2R HE 9 ErP",
+    "2R HE10 ERP"
+   ],
+   "url": "https://www.manualslib.com/manual/3475361/Sime-2r-He-Erp-Series.html"
+  },
+  {
+   "manualId": "876800",
+   "slug": "Sime-25-Bf",
+   "title": "30 BFT Installer's instructions",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "30 BFT",
+   "extraModels": [
+    "30 BFT",
+    "Murelle 25 BFT",
+    "Murelle 30 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/876800/Sime-25-Bf.html"
+  },
+  {
+   "manualId": "2426598",
+   "slug": "Sime-30-Pc",
+   "title": "30 PC Manual",
+   "type": "Other",
+   "pages": 96,
+   "productModel": "30 PC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2426598/Sime-30-Pc.html"
+  },
+  {
+   "manualId": "2511326",
+   "slug": "Sime-300-5-44-S",
+   "title": "300/5.44 S Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "300/5.44 S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2511326/Sime-300-5-44-S.html"
+  },
+  {
+   "manualId": "2288583",
+   "slug": "Sime-Solo-25",
+   "title": "35 Installer's Instructions",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "35",
+   "extraModels": [
+    "35",
+    "DUETTO 25",
+    "DUETTO 25 ErP",
+    "DUETTO 35 ErP",
+    "SOLO 25 ErP",
+    "SOLO 35",
+    "SOLO 35 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2288583/Sime-Solo-25.html"
+  },
+  {
+   "manualId": "958901",
+   "slug": "Sime-Murelle-Ev-He-25",
+   "title": "35 User Instruction",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "35",
+   "extraModels": [
+    "35",
+    "MURELLE EV HE 12 T",
+    "MURELLE EV HE 20 T",
+    "MURELLE EV HE 30"
+   ],
+   "url": "https://www.manualslib.com/manual/958901/Sime-Murelle-Ev-He-25.html"
+  },
+  {
+   "manualId": "2787948",
+   "slug": "Sime-Murelle-Ht-25-Met",
+   "title": "35 User, Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "35",
+   "extraModels": [
+    "35",
+    "8115101",
+    "8115102",
+    "8115103",
+    "8115106",
+    "8115107",
+    "8115108",
+    "MURELLE.HT 25 (GPL)",
+    "MURELLE.HT 30",
+    "MURELLE.HT 30 (GPL)",
+    "MURELLE.HT 30 (MET)",
+    "MURELLE.HT 35 (GPL)",
+    "MURELLE.HT 35 (MET)"
+   ],
+   "url": "https://www.manualslib.com/manual/2787948/Sime-Murelle-Ht-25-Met.html"
+  },
+  {
+   "manualId": "3531886",
+   "slug": "Sime-Murelle-Elite-He-30",
+   "title": "41-283-43 Installation and servicing instruction",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "41-283-43",
+   "extraModels": [
+    "41-283-43",
+    "47-283-55",
+    "47-283-56",
+    "MURELLE EV HE 35",
+    "MURELLE EV HE 35 T"
+   ],
+   "url": "https://www.manualslib.com/manual/3531886/Sime-Murelle-Elite-He-30.html"
+  },
+  {
+   "manualId": "3183679",
+   "slug": "Sime-8099060",
+   "title": "440 T Installation, Use And Maintenance Instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "440 T",
+   "extraModels": [
+    "440 T",
+    "MACK 7"
+   ],
+   "url": "https://www.manualslib.com/manual/3183679/Sime-8099060.html"
+  },
+  {
+   "manualId": "3093929",
+   "slug": "Sime-Murelle-Ev-He-25-55",
+   "title": "47-283-20 User Instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "47-283-20",
+   "extraModels": [
+    "47-283-20",
+    "47-283-21"
+   ],
+   "url": "https://www.manualslib.com/manual/3093929/Sime-Murelle-Ev-He-25-55.html"
+  },
+  {
+   "manualId": "3255713",
+   "slug": "Sime-Meridian-He-25",
+   "title": "47-283-44 Installation and servicing instruction",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "47-283-44",
+   "extraModels": [
+    "47-283-44",
+    "47-283-45",
+    "MERIDIAN HE 30"
+   ],
+   "url": "https://www.manualslib.com/manual/3255713/Sime-Meridian-He-25.html"
+  },
+  {
+   "manualId": "3247820",
+   "slug": "Sime-Mack-5sp",
+   "title": "515 T3 Installation, Use And Maintenance Instructions",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "515 T3",
+   "extraModels": [
+    "515 T3",
+    "515 T5",
+    "MACK 4SP"
+   ],
+   "url": "https://www.manualslib.com/manual/3247820/Sime-Mack-5sp.html"
+  },
+  {
+   "manualId": "3253551",
+   "slug": "Sime-Mini-12-Of-Erp",
+   "title": "6328400 user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "6328400",
+   "extraModels": [
+    "6328400"
+   ],
+   "url": "https://www.manualslib.com/manual/3253551/Sime-Mini-12-Of-Erp.html"
+  },
+  {
+   "manualId": "2175875",
+   "slug": "Sime-Solida-5-Pl",
+   "title": "8058540 Manual",
+   "type": "Other",
+   "pages": 73,
+   "productModel": "8058540",
+   "extraModels": [
+    "8058540",
+    "8075742",
+    "8075950",
+    "8075960",
+    "SOLIDA 8 PL+"
+   ],
+   "url": "https://www.manualslib.com/manual/2175875/Sime-Solida-5-Pl.html"
+  },
+  {
+   "manualId": "2511923",
+   "slug": "Sime-Solida-5-Pl",
+   "title": "8058540 Manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "8058540",
+   "extraModels": [
+    "8058540",
+    "8075742",
+    "SOLIDA 8 PL+"
+   ],
+   "url": "https://www.manualslib.com/manual/2511923/Sime-Solida-5-Pl.html"
+  },
+  {
+   "manualId": "2213887",
+   "slug": "Sime-Solida-5-Pl",
+   "title": "8058541 owner's manual",
+   "type": "User / Owner",
+   "pages": 61,
+   "productModel": "8058541",
+   "extraModels": [
+    "8058541",
+    "8075743",
+    "SOLIDA 8 PL+"
+   ],
+   "url": "https://www.manualslib.com/manual/2213887/Sime-Solida-5-Pl.html"
+  },
+  {
+   "manualId": "2908698",
+   "slug": "Sime-Solida-8-Pl",
+   "title": "8075740 Manual",
+   "type": "Other",
+   "pages": 92,
+   "productModel": "8075740",
+   "extraModels": [
+    "8075740",
+    "8075910",
+    "8075911",
+    "8075912"
+   ],
+   "url": "https://www.manualslib.com/manual/2908698/Sime-Solida-8-Pl.html"
+  },
+  {
+   "manualId": "2234331",
+   "slug": "Sime-Home",
+   "title": "8092280 Installation and use manual",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "8092280",
+   "extraModels": [
+    "8092280"
+   ],
+   "url": "https://www.manualslib.com/manual/2234331/Sime-Home.html"
+  },
+  {
+   "manualId": "3725828",
+   "slug": "Sime-Home-Plus",
+   "title": "8092281 Installation and use manual",
+   "type": "Installation",
+   "pages": 108,
+   "productModel": "8092281",
+   "extraModels": [
+    "8092281"
+   ],
+   "url": "https://www.manualslib.com/manual/3725828/Sime-Home-Plus.html"
+  },
+  {
+   "manualId": "2382958",
+   "slug": "Sime-Home-Plus",
+   "title": "8092282 Installation and use manual",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "8092282",
+   "extraModels": [
+    "8092282"
+   ],
+   "url": "https://www.manualslib.com/manual/2382958/Sime-Home-Plus.html"
+  },
+  {
+   "manualId": "2288035",
+   "slug": "Sime-Home-Plus",
+   "title": "8092283 Installation and use manual",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "8092283",
+   "extraModels": [
+    "8092283"
+   ],
+   "url": "https://www.manualslib.com/manual/2288035/Sime-Home-Plus.html"
+  },
+  {
+   "manualId": "3022927",
+   "slug": "Sime-Home-Plus",
+   "title": "8092284 Installation and use manual",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "8092284",
+   "extraModels": [
+    "8092284"
+   ],
+   "url": "https://www.manualslib.com/manual/3022927/Sime-Home-Plus.html"
+  },
+  {
+   "manualId": "1983071",
+   "slug": "Sime-Mack-3",
+   "title": "8099000 Installation, use and maintenance instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "8099000",
+   "extraModels": [
+    "8099000",
+    "8099010",
+    "8099030"
+   ],
+   "url": "https://www.manualslib.com/manual/1983071/Sime-Mack-3.html"
+  },
+  {
+   "manualId": "2252871",
+   "slug": "Sime-Mack-4sp",
+   "title": "8099020 Installation, use and maintenance instructions",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "8099020",
+   "extraModels": [
+    "8099020",
+    "8099040",
+    "MACK 5SP"
+   ],
+   "url": "https://www.manualslib.com/manual/2252871/Sime-Mack-4sp.html"
+  },
+  {
+   "manualId": "1824769",
+   "slug": "Sime-Mack-6",
+   "title": "8099050 Installation, use and maintenance instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "8099050",
+   "extraModels": [
+    "8099050"
+   ],
+   "url": "https://www.manualslib.com/manual/1824769/Sime-Mack-6.html"
+  },
+  {
+   "manualId": "2538418",
+   "slug": "Sime-Sime-Mack-6-Erp-Be",
+   "title": "8099157 Installation, use and maintenance instructions",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "8099157",
+   "extraModels": [
+    "8099157",
+    "8099158",
+    "SIME MACK 7 ErP BE"
+   ],
+   "url": "https://www.manualslib.com/manual/2538418/Sime-Sime-Mack-6-Erp-Be.html"
+  },
+  {
+   "manualId": "2793599",
+   "slug": "Sime-Fuel-25-Ln",
+   "title": "8099172 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "8099172",
+   "extraModels": [
+    "8099172",
+    "8099173",
+    "FUEL 35 LN"
+   ],
+   "url": "https://www.manualslib.com/manual/2793599/Sime-Fuel-25-Ln.html"
+  },
+  {
+   "manualId": "2011334",
+   "slug": "Sime-Murel-Le-He-Erp-Series",
+   "title": "8102744 Installer's instructions",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "8102744",
+   "extraModels": [
+    "8102744",
+    "8102746",
+    "MUREL LE HE 25/55 ErP",
+    "MUREL LE HE 30/55 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2011334/Sime-Murel-Le-He-Erp-Series.html"
+  },
+  {
+   "manualId": "3200456",
+   "slug": "Sime-Solo-25-Ev",
+   "title": "8103033 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "8103033",
+   "extraModels": [
+    "8103033",
+    "8103133",
+    "SOLO 35 EV"
+   ],
+   "url": "https://www.manualslib.com/manual/3200456/Sime-Solo-25-Ev.html"
+  },
+  {
+   "manualId": "2548737",
+   "slug": "Sime-Solo-He-25-Ev",
+   "title": "8103047 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "8103047",
+   "extraModels": [
+    "8103047",
+    "8103137",
+    "SOLO HE 35 EV"
+   ],
+   "url": "https://www.manualslib.com/manual/2548737/Sime-Solo-He-25-Ev.html"
+  },
+  {
+   "manualId": "2553212",
+   "slug": "Sime-Duetto-He-25-Ev",
+   "title": "8103296 User, Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "8103296",
+   "extraModels": [
+    "8103296",
+    "8103297",
+    "DUETTO HE 35 EV"
+   ],
+   "url": "https://www.manualslib.com/manual/2553212/Sime-Duetto-He-25-Ev.html"
+  },
+  {
+   "manualId": "2787593",
+   "slug": "Sime-Aqua-He-25-Inox-Ev",
+   "title": "8103548 User, Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "8103548",
+   "extraModels": [
+    "8103548",
+    "8103643",
+    "AQUA HE 35 INOX ErP BE",
+    "AQUA 25 INOX EV",
+    "AQUA 35 INOX EV"
+   ],
+   "url": "https://www.manualslib.com/manual/2787593/Sime-Aqua-He-25-Inox-Ev.html"
+  },
+  {
+   "manualId": "2859589",
+   "slug": "Sime-Estelle-4-Erp-Be",
+   "title": "8104340 User operating, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "8104340",
+   "extraModels": [
+    "8104340",
+    "8104341",
+    "8104342",
+    "8104343",
+    "8104360",
+    "8104361",
+    "8104362",
+    "8104363",
+    "ESTELLE 5 ErP BE",
+    "ESTELLE 6 ErP BE",
+    "ESTELLE 7 ErP BE",
+    "RONDO 4 ErP BE",
+    "RONDO 5 ErP BE",
+    "RONDO 6 ErP BE",
+    "RONDO 7 ErP BE"
+   ],
+   "url": "https://www.manualslib.com/manual/2859589/Sime-Estelle-4-Erp-Be.html"
+  },
+  {
+   "manualId": "2957015",
+   "slug": "Sime-Vera-25-Of-Erp",
+   "title": "8110470 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "8110470",
+   "extraModels": [
+    "8110470",
+    "8110471"
+   ],
+   "url": "https://www.manualslib.com/manual/2957015/Sime-Vera-25-Of-Erp.html"
+  },
+  {
+   "manualId": "4145899",
+   "slug": "Sime-Edea-Hybrid-Eco-Ev-25-55",
+   "title": "8110480 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "8110480",
+   "extraModels": [
+    "8110480",
+    "8114480",
+    "8114481",
+    "8114482",
+    "8114483",
+    "8114484",
+    "EDEA HYBRID ECO EV 25/55-10",
+    "EDEA HYBRID ECO EV 25/55-6",
+    "EDEA HYBRID ECO EV 25/55-6A",
+    "EDEA HYBRID ECO EV 25/55-8",
+    "EDEA HYBRID ECO EV 25/55-8A"
+   ],
+   "url": "https://www.manualslib.com/manual/4145899/Sime-Edea-Hybrid-Eco-Ev-25-55.html"
+  },
+  {
+   "manualId": "2143879",
+   "slug": "Sime-Brava-One-Bf",
+   "title": "8112100 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 124,
+   "productModel": "8112100",
+   "extraModels": [
+    "8112100",
+    "8112101",
+    "8112102",
+    "8112103",
+    "Brava One 25 BF",
+    "Brava One 30 BF",
+    "BRAVA ONE BF"
+   ],
+   "url": "https://www.manualslib.com/manual/2143879/Sime-Brava-One-Bf.html"
+  },
+  {
+   "manualId": "2866054",
+   "slug": "Sime-Brava-One-Bf",
+   "title": "8112100 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 132,
+   "productModel": "8112100",
+   "extraModels": [
+    "8112100",
+    "8112101",
+    "8112102",
+    "8112103",
+    "Brava One 25 BF",
+    "Brava One 30 BF",
+    "BRAVA ONE BF"
+   ],
+   "url": "https://www.manualslib.com/manual/2866054/Sime-Brava-One-Bf.html"
+  },
+  {
+   "manualId": "3287573",
+   "slug": "Sime-Brava-One-12-25-Bf",
+   "title": "8112116 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "8112116",
+   "extraModels": [
+    "8112116"
+   ],
+   "url": "https://www.manualslib.com/manual/3287573/Sime-Brava-One-12-25-Bf.html"
+  },
+  {
+   "manualId": "3581436",
+   "slug": "Sime-Brava-One-Of",
+   "title": "8112180 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 116,
+   "productModel": "8112180",
+   "extraModels": [
+    "8112180",
+    "8112181",
+    "Brava One 25 OF ErP",
+    "Brava One OF"
+   ],
+   "url": "https://www.manualslib.com/manual/3581436/Sime-Brava-One-Of.html"
+  },
+  {
+   "manualId": "3445024",
+   "slug": "Sime-Brava-Slim-He-40",
+   "title": "8112263 user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "8112263",
+   "extraModels": [
+    "8112263",
+    "8112264",
+    "Brava Slim HE 40 e",
+    "Brava Slim HE 40 i"
+   ],
+   "url": "https://www.manualslib.com/manual/3445024/Sime-Brava-Slim-He-40.html"
+  },
+  {
+   "manualId": "2878768",
+   "slug": "Sime-Brava-Slim-He-R-Series",
+   "title": "8112265 Operating, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "8112265",
+   "extraModels": [
+    "8112265",
+    "8112266",
+    "8112267",
+    "8112268",
+    "Brava Slim HE 20 R i",
+    "Brava Slim HE 40 R i"
+   ],
+   "url": "https://www.manualslib.com/manual/2878768/Sime-Brava-Slim-He-R-Series.html"
+  },
+  {
+   "manualId": "2958590",
+   "slug": "Sime-Brava-Slim-Bf",
+   "title": "8112500 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 104,
+   "productModel": "8112500",
+   "extraModels": [
+    "8112500",
+    "8112501",
+    "8112502",
+    "8112503",
+    "Brava Slim 25 BF",
+    "Brava Slim 30 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/2958590/Sime-Brava-Slim-Bf.html"
+  },
+  {
+   "manualId": "3011547",
+   "slug": "Sime-Brava-Slim-30-Bfr",
+   "title": "8112540 Design, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "8112540",
+   "extraModels": [
+    "8112540",
+    "8112541",
+    "BRAVA SLIM 30 BFRe",
+    "BRAVA SLIM 30 BFRi"
+   ],
+   "url": "https://www.manualslib.com/manual/3011547/Sime-Brava-Slim-30-Bfr.html"
+  },
+  {
+   "manualId": "3399959",
+   "slug": "Sime-Brava-Slim-30-Bfr",
+   "title": "8112540 user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "8112540",
+   "extraModels": [
+    "8112540",
+    "8112541",
+    "BRAVA SLIM 30 BFRe",
+    "BRAVA SLIM 30 BFRi"
+   ],
+   "url": "https://www.manualslib.com/manual/3399959/Sime-Brava-Slim-30-Bfr.html"
+  },
+  {
+   "manualId": "2548005",
+   "slug": "Sime-Brava-Slim-Bft-Series",
+   "title": "8112547 Supplementary User, Installation and Servicing Instructions",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "8112547",
+   "extraModels": [
+    "8112547",
+    "Brava Slim 40 BFT"
+   ],
+   "url": "https://www.manualslib.com/manual/2548005/Sime-Brava-Slim-Bft-Series.html"
+  },
+  {
+   "manualId": "3524843",
+   "slug": "Sime-Mini-12-Bf-Erp",
+   "title": "8112630 Instructions for use manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "8112630",
+   "extraModels": [
+    "8112630",
+    "8112631",
+    "8112632",
+    "8112633",
+    "MINI 16 BF Er",
+    "MINI 16 BF ErP",
+    "MINI BF ERP"
+   ],
+   "url": "https://www.manualslib.com/manual/3524843/Sime-Mini-12-Bf-Erp.html"
+  },
+  {
+   "manualId": "3543832",
+   "slug": "Sime-Mini-11-Of-Va",
+   "title": "8112638 User, installation, and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "8112638",
+   "extraModels": [
+    "8112638",
+    "8112639",
+    "8112640",
+    "8112641",
+    "MINI 14 OF VA"
+   ],
+   "url": "https://www.manualslib.com/manual/3543832/Sime-Mini-11-Of-Va.html"
+  },
+  {
+   "manualId": "4392570",
+   "slug": "Sime-Mini-11-E",
+   "title": "8112670 User, installation, and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "8112670",
+   "extraModels": [
+    "8112670",
+    "8112671",
+    "8112672",
+    "8112673",
+    "MINI 16 E"
+   ],
+   "url": "https://www.manualslib.com/manual/4392570/Sime-Mini-11-E.html"
+  },
+  {
+   "manualId": "2549070",
+   "slug": "Sime-Brava-Slim-He-25-T-Erp",
+   "title": "8114210 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 128,
+   "productModel": "8114210",
+   "extraModels": [
+    "8114210"
+   ],
+   "url": "https://www.manualslib.com/manual/2549070/Sime-Brava-Slim-He-25-T-Erp.html"
+  },
+  {
+   "manualId": "1885001",
+   "slug": "Sime-Brava-Slim-He-25-55-Erp",
+   "title": "8114216 Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 104,
+   "productModel": "8114216",
+   "extraModels": [
+    "8114216",
+    "8114218",
+    "Brava Slim HE 30/55 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/1885001/Sime-Brava-Slim-He-25-55-Erp.html"
+  },
+  {
+   "manualId": "3661536",
+   "slug": "Sime-Murelle-Pro-He-20-R-Er",
+   "title": "8114242 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "8114242",
+   "extraModels": [
+    "8114242",
+    "8114244",
+    "Murelle Pro HE 30 R ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/3661536/Sime-Murelle-Pro-He-20-R-Er.html"
+  },
+  {
+   "manualId": "3120039",
+   "slug": "Sime-Murelle-Pro-He-25-Ho-Erp",
+   "title": "8114270 User instructions",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "8114270",
+   "extraModels": [
+    "8114270"
+   ],
+   "url": "https://www.manualslib.com/manual/3120039/Sime-Murelle-Pro-He-25-Ho-Erp.html"
+  },
+  {
+   "manualId": "2771700",
+   "slug": "Sime-Vera-He-25",
+   "title": "8115020 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "8115020",
+   "extraModels": [
+    "8115020",
+    "8115022",
+    "VERA HE 30"
+   ],
+   "url": "https://www.manualslib.com/manual/2771700/Sime-Vera-He-25.html"
+  },
+  {
+   "manualId": "2979892",
+   "slug": "Sime-Murelle-Ht-25-T",
+   "title": "8115111 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "8115111",
+   "extraModels": [
+    "8115111",
+    "8115113",
+    "8115116",
+    "8115118"
+   ],
+   "url": "https://www.manualslib.com/manual/2979892/Sime-Murelle-Ht-25-T.html"
+  },
+  {
+   "manualId": "2787935",
+   "slug": "Sime-Estelle-He-3-Erp",
+   "title": "8115300 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 104,
+   "productModel": "8115300",
+   "extraModels": [
+    "8115300",
+    "8115301",
+    "8115302",
+    "8115303",
+    "8115304",
+    "ESTELLE HE 4 ErP",
+    "ESTELLE HE 5 ErP",
+    "ESTELLE HE 6 ErP",
+    "ESTELLE HE 7 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2787935/Sime-Estelle-He-3-Erp.html"
+  },
+  {
+   "manualId": "2787916",
+   "slug": "Sime-Estelle-He-B4-Inox-Erp",
+   "title": "8115350 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "8115350",
+   "extraModels": [
+    "8115350"
+   ],
+   "url": "https://www.manualslib.com/manual/2787916/Sime-Estelle-He-B4-Inox-Erp.html"
+  },
+  {
+   "manualId": "3984286",
+   "slug": "Sime-Lago-50",
+   "title": "8115600 User, installation, and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "8115600",
+   "extraModels": [
+    "8115600",
+    "8115601",
+    "8115602",
+    "8115603",
+    "LAGO 100",
+    "LAGO 150",
+    "LAGO 80"
+   ],
+   "url": "https://www.manualslib.com/manual/3984286/Sime-Lago-50.html"
+  },
+  {
+   "manualId": "2771973",
+   "slug": "Sime-Lago-Ev",
+   "title": "8115610 User, installation and service manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "8115610",
+   "extraModels": [
+    "8115610",
+    "8115611",
+    "8115612",
+    "LAGO EV 0",
+    "LAGO EV 100",
+    "LAGO EV 50"
+   ],
+   "url": "https://www.manualslib.com/manual/2771973/Sime-Lago-Ev.html"
+  },
+  {
+   "manualId": "1831694",
+   "slug": "Sime-Ecomaxi-90-Erp",
+   "title": "8115800 Manual",
+   "type": "Other",
+   "pages": 124,
+   "productModel": "8115800",
+   "extraModels": [
+    "8115800"
+   ],
+   "url": "https://www.manualslib.com/manual/1831694/Sime-Ecomaxi-90-Erp.html"
+  },
+  {
+   "manualId": "4400422",
+   "slug": "Sime-Ecomaxi-Vb-80",
+   "title": "8115840 Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 252,
+   "productModel": "8115840",
+   "extraModels": [
+    "8115840",
+    "8115842",
+    "ECOMAXI VB 120"
+   ],
+   "url": "https://www.manualslib.com/manual/4400422/Sime-Ecomaxi-Vb-80.html"
+  },
+  {
+   "manualId": "4400483",
+   "slug": "Sime-Ecomaxi-Vb-200",
+   "title": "8115843 Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 256,
+   "productModel": "8115843",
+   "extraModels": [
+    "8115843",
+    "8115844",
+    "8115845",
+    "8115846",
+    "ECOMAXI VB 200 S",
+    "ECOMAXI VB 300",
+    "ECOMAXI VB 300 S"
+   ],
+   "url": "https://www.manualslib.com/manual/4400483/Sime-Ecomaxi-Vb-200.html"
+  },
+  {
+   "manualId": "3287350",
+   "slug": "Sime-Go-18-Bf",
+   "title": "8116500 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 150,
+   "productModel": "8116500",
+   "extraModels": [
+    "8116500",
+    "8116501",
+    "8116502",
+    "8116503",
+    "8116504",
+    "8116505",
+    "GO 25 BF",
+    "GO 30 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/3287350/Sime-Go-18-Bf.html"
+  },
+  {
+   "manualId": "3350326",
+   "slug": "Sime-Mia-He-C10",
+   "title": "8116608 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 116,
+   "productModel": "8116608",
+   "extraModels": [
+    "8116608"
+   ],
+   "url": "https://www.manualslib.com/manual/3350326/Sime-Mia-He-C10.html"
+  },
+  {
+   "manualId": "2833895",
+   "slug": "Sime-Edea-T",
+   "title": "8116910 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "8116910",
+   "extraModels": [
+    "8116910",
+    "8116912",
+    "EDEA 25 T",
+    "EDEA 35 T"
+   ],
+   "url": "https://www.manualslib.com/manual/2833895/Sime-Edea-T.html"
+  },
+  {
+   "manualId": "3403331",
+   "slug": "Sime-Edea-Hm-40",
+   "title": "8116940 user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "8116940",
+   "extraModels": [
+    "8116940",
+    "8116941",
+    "EDEA HM 40 e",
+    "EDEA HM 40 i"
+   ],
+   "url": "https://www.manualslib.com/manual/3403331/Sime-Edea-Hm-40.html"
+  },
+  {
+   "manualId": "3382483",
+   "slug": "Sime-Edea-Hm-20-Ri",
+   "title": "8116942 Installation and servicing instruction",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "8116942",
+   "extraModels": [
+    "8116942",
+    "8116943",
+    "8116944",
+    "8116945",
+    "Edea HM 20 Re",
+    "Edea HM 40 Re",
+    "Edea HM 40 Ri"
+   ],
+   "url": "https://www.manualslib.com/manual/3382483/Sime-Edea-Hm-20-Ri.html"
+  },
+  {
+   "manualId": "4199793",
+   "slug": "Sime-Murelle-Equipe-100-Erp",
+   "title": "8117000 Installation and servicing instruction",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "8117000",
+   "extraModels": [
+    "8117000",
+    "8117001",
+    "MURELLE EQUIPE 150 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/4199793/Sime-Murelle-Equipe-100-Erp.html"
+  },
+  {
+   "manualId": "2878461",
+   "slug": "Sime-Open-Hybrid-Mem-Eco-25-6",
+   "title": "8117500 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "8117500",
+   "extraModels": [
+    "8117500",
+    "8117501",
+    "8117502",
+    "8117503",
+    "8117504",
+    "8117505",
+    "8117506",
+    "8117507",
+    "8117508",
+    "8117509",
+    "8117510",
+    "8117511",
+    "8117512",
+    "8117513",
+    "8117514",
+    "8117515",
+    "8117516",
+    "8117517",
+    "8117518",
+    "8117519",
+    "8117520",
+    "8117521",
+    "8117522",
+    "8117523",
+    "8118600",
+    "8118601",
+    "8118604",
+    "8118605",
+    "8118608",
+    "8118609",
+    "8118612",
+    "8118613",
+    "8118616",
+    "8118617",
+    "8118620",
+    "8118621",
+    "OPEN HYBRID MEM ECO 30-12",
+    "OPEN HYBRID MEM ECO 30-12 S",
+    "OPEN HYBRID MEM ECO 30-6 S",
+    "OPEN HYBRID MEM ECO 30-6A",
+    "OPEN HYBRID MEM ECO 30-8",
+    "OPEN HYBRID MEM ECO 30-8 S",
+    "OPEN HYBRID MEM ECO 30-8A",
+    "OPEN HYBRID MEM ECO 35-10",
+    "OPEN HYBRID MEM ECO 35-10 S",
+    "OPEN HYBRID MEM ECO 35-12",
+    "OPEN HYBRID MEM ECO 35-12 S",
+    "OPEN HYBRID MEM ECO 35-6",
+    "OPEN HYBRID MEM ECO 35-6 S",
+    "OPEN HYBRID MEM ECO 35-6A",
+    "OPEN HYBRID MEM ECO 35-8",
+    "OPEN HYBRID MEM ECO 35-8 S",
+    "OPEN HYBRID MEM ECO 35-8A",
+    "OPEN HYBRID MEM-ECO 25-10",
+    "OPEN HYBRID MEM-ECO 25-10 S",
+    "OPEN HYBRID MEM-ECO 25-12 S",
+    "OPEN HYBRID MEM-ECO 25-6 S",
+    "OPEN HYBRID MEM-ECO 25-6A",
+    "OPEN HYBRID MEM-ECO 25-8",
+    "OPEN HYBRID MEM-ECO 25-8 S",
+    "OPEN HYBRID MEM-ECO 25-8A",
+    "OPEN HYBRID MEM-ECO 30-6"
+   ],
+   "url": "https://www.manualslib.com/manual/2878461/Sime-Open-Hybrid-Mem-Eco-25-6.html"
+  },
+  {
+   "manualId": "3242834",
+   "slug": "Sime-Duetto-25-Ev",
+   "title": "8117700 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "8117700",
+   "extraModels": [
+    "8117700",
+    "8117800",
+    "DUETTO 35 EV"
+   ],
+   "url": "https://www.manualslib.com/manual/3242834/Sime-Duetto-25-Ev.html"
+  },
+  {
+   "manualId": "3403786",
+   "slug": "Sime-Edea-Bf-R",
+   "title": "8117920 Installation and servicing instruction",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "8117920",
+   "extraModels": [
+    "8117920",
+    "8117921",
+    "Edea BF 30 Re",
+    "Edea BF 30 Ri"
+   ],
+   "url": "https://www.manualslib.com/manual/3403786/Sime-Edea-Bf-R.html"
+  },
+  {
+   "manualId": "2870083",
+   "slug": "Sime-Smart-Plus",
+   "title": "8118901 Installation and use manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "8118901",
+   "extraModels": [
+    "8118901"
+   ],
+   "url": "https://www.manualslib.com/manual/2870083/Sime-Smart-Plus.html"
+  },
+  {
+   "manualId": "3723756",
+   "slug": "Sime-Smart-Plus",
+   "title": "8118901 Installation and use manual",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "8118901",
+   "extraModels": [
+    "8118901"
+   ],
+   "url": "https://www.manualslib.com/manual/3723756/Sime-Smart-Plus.html"
+  },
+  {
+   "manualId": "3279351",
+   "slug": "Sime-Srs",
+   "title": "8118902 Installation and use manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "8118902",
+   "extraModels": [
+    "8118902"
+   ],
+   "url": "https://www.manualslib.com/manual/3279351/Sime-Srs.html"
+  },
+  {
+   "manualId": "3351113",
+   "slug": "Sime-Linker-Plus",
+   "title": "8118921 Installation and use manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "8118921",
+   "extraModels": [
+    "8118921"
+   ],
+   "url": "https://www.manualslib.com/manual/3351113/Sime-Linker-Plus.html"
+  },
+  {
+   "manualId": "2060474",
+   "slug": "Sime-Natural-160s",
+   "title": "8500240 Manual",
+   "type": "Other",
+   "pages": 29,
+   "productModel": "8500240",
+   "extraModels": [
+    "8500240",
+    "8500250",
+    "8500260",
+    "8500264",
+    "Natural 300/5.2S",
+    "Natural 320S"
+   ],
+   "url": "https://www.manualslib.com/manual/2060474/Sime-Natural-160s.html"
+  },
+  {
+   "manualId": "2983992",
+   "slug": "Sime-Natural-300-5-84-Ev",
+   "title": "8500291 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "8500291",
+   "extraModels": [
+    "8500291",
+    "8500292",
+    "NATURAL 300/7.5 EV"
+   ],
+   "url": "https://www.manualslib.com/manual/2983992/Sime-Natural-300-5-84-Ev.html"
+  },
+  {
+   "manualId": "2940155",
+   "slug": "Sime-Plano-272",
+   "title": "8501546 Installation & servicing instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "8501546",
+   "extraModels": [
+    "8501546",
+    "8501547",
+    "8501548",
+    "8501549",
+    "8501550",
+    "8501551"
+   ],
+   "url": "https://www.manualslib.com/manual/2940155/Sime-Plano-272.html"
+  },
+  {
+   "manualId": "2291568",
+   "slug": "Sime-Afaq-Piroemme",
+   "title": "afaq PIROEMME Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "afaq PIROEMME",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2291568/Sime-Afaq-Piroemme.html"
+  },
+  {
+   "manualId": "3005637",
+   "slug": "Sime-Afaq-Simeconn",
+   "title": "afaq SimeConn Manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "afaq SimeConn",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3005637/Sime-Afaq-Simeconn.html"
+  },
+  {
+   "manualId": "2992706",
+   "slug": "Sime-C-Series",
+   "title": "Albatros RVA 43.222 Manual",
+   "type": "Other",
+   "pages": 112,
+   "productModel": "Albatros RVA 43.222",
+   "extraModels": [
+    "Albatros RVA 43.222"
+   ],
+   "url": "https://www.manualslib.com/manual/2992706/Sime-C-Series.html"
+  },
+  {
+   "manualId": "1428048",
+   "slug": "Sime-Alu-He-80",
+   "title": "ALU HE 116 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "ALU HE 116",
+   "extraModels": [
+    "ALU HE 116",
+    "ALU HE 160",
+    "ALU HE 200",
+    "ALU HE 240",
+    "ALU HE 280"
+   ],
+   "url": "https://www.manualslib.com/manual/1428048/Sime-Alu-He-80.html"
+  },
+  {
+   "manualId": "1652249",
+   "slug": "Sime-Alu-He-Series",
+   "title": "ALU HE 116 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "ALU HE 116",
+   "extraModels": [
+    "ALU HE 116",
+    "ALU HE 160",
+    "ALU HE 200",
+    "ALU HE 240",
+    "ALU HE 280",
+    "ALU HE 80"
+   ],
+   "url": "https://www.manualslib.com/manual/1652249/Sime-Alu-He-Series.html"
+  },
+  {
+   "manualId": "2336565",
+   "slug": "Sime-Alu-He-80",
+   "title": "ALU HE 116 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 124,
+   "productModel": "ALU HE 116",
+   "extraModels": [
+    "ALU HE 116",
+    "ALU HE 160",
+    "ALU HE 200",
+    "ALU HE 240",
+    "ALU HE 280"
+   ],
+   "url": "https://www.manualslib.com/manual/2336565/Sime-Alu-He-80.html"
+  },
+  {
+   "manualId": "3781913",
+   "slug": "Sime-Alu-He-Series",
+   "title": "ALU HE Series Design, Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 132,
+   "productModel": "ALU HE Series",
+   "extraModels": [
+    "ALU HE 116",
+    "ALU HE 160",
+    "ALU HE 200",
+    "ALU HE 240",
+    "ALU HE 280",
+    "ALU HE 80"
+   ],
+   "url": "https://www.manualslib.com/manual/3781913/Sime-Alu-He-Series.html"
+  },
+  {
+   "manualId": "2559607",
+   "slug": "Sime-Alu-He",
+   "title": "ALU HE User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "ALU HE",
+   "extraModels": [
+    "ALU HE 116",
+    "ALU HE 1200",
+    "ALU HE 160",
+    "ALU HE 240",
+    "ALU HE 280",
+    "ALU HE 80"
+   ],
+   "url": "https://www.manualslib.com/manual/2559607/Sime-Alu-He.html"
+  },
+  {
+   "manualId": "2416663",
+   "slug": "Sime-Alu-Plus-He-360",
+   "title": "ALU PLUS HE User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 128,
+   "productModel": "ALU PLUS HE",
+   "extraModels": [
+    "ALU PLUS HE 1100",
+    "ALU PLUS HE 720",
+    "Alu Plus HE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2416663/Sime-Alu-Plus-He-360.html"
+  },
+  {
+   "manualId": "3145086",
+   "slug": "Sime-Alu-Plus-He",
+   "title": "ALU PLUS HE User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "ALU PLUS HE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3145086/Sime-Alu-Plus-He.html"
+  },
+  {
+   "manualId": "2235247",
+   "slug": "Sime-Senior",
+   "title": "AMBO Installation, Use, Maintenance, Spare Parts",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "AMBO",
+   "extraModels": [
+    "AMBO",
+    "DUPLEX",
+    "HIDRA"
+   ],
+   "url": "https://www.manualslib.com/manual/2235247/Sime-Senior.html"
+  },
+  {
+   "manualId": "3171054",
+   "slug": "Sime-Aqua-25-Inox-Bf-Ts",
+   "title": "AQUA 25 INOX BF TS Manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "AQUA 25 INOX BF TS",
+   "extraModels": [
+    "AQUA 35 INOX BF TS",
+    "AQUA 35 INOX BF TS PR"
+   ],
+   "url": "https://www.manualslib.com/manual/3171054/Sime-Aqua-25-Inox-Bf-Ts.html"
+  },
+  {
+   "manualId": "4186987",
+   "slug": "Sime-Aqua-25-Inox-Bf-Tse",
+   "title": "AQUA 25 INOX BF TSE Manual",
+   "type": "Other",
+   "pages": 100,
+   "productModel": "AQUA 25 INOX BF TSE",
+   "extraModels": [
+    "AQUA 25 INOX TSE"
+   ],
+   "url": "https://www.manualslib.com/manual/4186987/Sime-Aqua-25-Inox-Bf-Tse.html"
+  },
+  {
+   "manualId": "3345581",
+   "slug": "Sime-Aqua-25-35-Bf-Ts",
+   "title": "Aqua 25-35 BF TS Manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "Aqua 25-35 BF TS",
+   "extraModels": [
+    "Aqua 25-35 TS",
+    "Aqua 35 BF TS PR",
+    "Aqua 35 TS PR"
+   ],
+   "url": "https://www.manualslib.com/manual/3345581/Sime-Aqua-25-35-Bf-Ts.html"
+  },
+  {
+   "manualId": "1597548",
+   "slug": "Sime-Aqua-30-Of",
+   "title": "AQUA 30 BF INOX Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "AQUA 30 BF INOX",
+   "extraModels": [
+    "AQUA 30 BF INOX",
+    "AQUA 40 BF INOX",
+    "AQUA 40 OF INOX"
+   ],
+   "url": "https://www.manualslib.com/manual/1597548/Sime-Aqua-30-Of.html"
+  },
+  {
+   "manualId": "2173418",
+   "slug": "Sime-Solo-20",
+   "title": "AQUA 30 Instructions for the installer",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "AQUA 30",
+   "extraModels": [
+    "AQUA 30",
+    "AQUA 40",
+    "DUETTO 30",
+    "SOLO 30",
+    "SOLO 40"
+   ],
+   "url": "https://www.manualslib.com/manual/2173418/Sime-Solo-20.html"
+  },
+  {
+   "manualId": "2443662",
+   "slug": "Sime-Aqua-He-25-Erp-Be",
+   "title": "AQUA HE 25 ErP BE Installer's instructions",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "AQUA HE 25 ErP BE",
+   "extraModels": [
+    "AQUA HE 25 INOX ErP BE",
+    "AQUA HE 35 ErP BE",
+    "AQUA HE 35 INOX ErP BE"
+   ],
+   "url": "https://www.manualslib.com/manual/2443662/Sime-Aqua-He-25-Erp-Be.html"
+  },
+  {
+   "manualId": "3239961",
+   "slug": "Sime-Aqua-He-25-25-Inox-Erp-Be",
+   "title": "AQUA HE 25/25 INOX ErP.BE Installer's instructions",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "AQUA HE 25/25 INOX ErP.BE",
+   "extraModels": [
+    "AQUA HE 35/35 INOX ErP BE"
+   ],
+   "url": "https://www.manualslib.com/manual/3239961/Sime-Aqua-He-25-25-Inox-Erp-Be.html"
+  },
+  {
+   "manualId": "3200281",
+   "slug": "Sime-Aqua-Inox-Ev-25",
+   "title": "AQUA INOX EV 25 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "AQUA INOX EV 25",
+   "extraModels": [
+    "AQUA INOX EV 35"
+   ],
+   "url": "https://www.manualslib.com/manual/3200281/Sime-Aqua-Inox-Ev-25.html"
+  },
+  {
+   "manualId": "2155787",
+   "slug": "Sime-Ar",
+   "title": "AR Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "AR",
+   "extraModels": [
+    "AR3",
+    "AR4",
+    "AR5",
+    "ARB",
+    "ARB4",
+    "ARB5"
+   ],
+   "url": "https://www.manualslib.com/manual/2155787/Sime-Ar.html"
+  },
+  {
+   "manualId": "1806610",
+   "slug": "Sime-Ar-Series",
+   "title": "AR Series instruction manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "AR Series",
+   "extraModels": [
+    "AR3",
+    "AR4",
+    "AR5",
+    "ARB Series",
+    "ARB4",
+    "ARB5"
+   ],
+   "url": "https://www.manualslib.com/manual/1806610/Sime-Ar-Series.html"
+  },
+  {
+   "manualId": "1731586",
+   "slug": "Sime-Ar-Series",
+   "title": "AR Series Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "AR Series",
+   "extraModels": [
+    "AR3",
+    "AR4",
+    "AR5"
+   ],
+   "url": "https://www.manualslib.com/manual/1731586/Sime-Ar-Series.html"
+  },
+  {
+   "manualId": "2588080",
+   "slug": "Sime-B-Home-Round-25",
+   "title": "B-Essential Round 50 Manual",
+   "type": "Other",
+   "pages": 121,
+   "productModel": "B-Essential Round 50",
+   "extraModels": [
+    "B-Essential Round 50"
+   ],
+   "url": "https://www.manualslib.com/manual/2588080/Sime-B-Home-Round-25.html"
+  },
+  {
+   "manualId": "2787573",
+   "slug": "Sime-B4-Inox-Erp-Be",
+   "title": "B4 INOX ErP BE Manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "B4 INOX ErP BE",
+   "extraModels": [
+    "B5 INOX ErP BE"
+   ],
+   "url": "https://www.manualslib.com/manual/2787573/Sime-B4-Inox-Erp-Be.html"
+  },
+  {
+   "manualId": "1412286",
+   "slug": "Sime-Benchmark-Friendly-Format",
+   "title": "benchmark FRIENDLY FORMAT Installation and servicing instrucnions",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "benchmark FRIENDLY FORMAT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1412286/Sime-Benchmark-Friendly-Format.html"
+  },
+  {
+   "manualId": "3694257",
+   "slug": "Sime-Benchmark-Planet-Super-4-F-S",
+   "title": "benchmark Planet Super 4 F. S. Installation & servicing instructions manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "benchmark Planet Super 4 F. S.",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3694257/Sime-Benchmark-Planet-Super-4-F-S.html"
+  },
+  {
+   "manualId": "3497805",
+   "slug": "Sime-Super-4-W-M",
+   "title": "benchmark Planet Super 4 W. M. Installation & servicing instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "benchmark Planet Super 4 W. M.",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3497805/Sime-Super-4-W-M.html"
+  },
+  {
+   "manualId": "2259428",
+   "slug": "Sime-Benchmark-Planet-Super-4-W-M",
+   "title": "benchmark Planet Super 4 W. M. User instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "benchmark Planet Super 4 W. M.",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2259428/Sime-Benchmark-Planet-Super-4-W-M.html"
+  },
+  {
+   "manualId": "4081287",
+   "slug": "Sime-Benchmark-Superior-Mk-Ii-Series",
+   "title": "Benchmark Superior 40 Mk.ll Manual",
+   "type": "Other",
+   "pages": 26,
+   "productModel": "Benchmark Superior 40 Mk.ll",
+   "extraModels": [
+    "Benchmark Superior 40 Mk.ll",
+    "Benchmark Superior 50 Mk.ll",
+    "Benchmark Superior 60 Mk.ll",
+    "Benchmark Superior 75 Mk.ll",
+    "Benchmark Superior 90 Mk.ll"
+   ],
+   "url": "https://www.manualslib.com/manual/4081287/Sime-Benchmark-Superior-Mk-Ii-Series.html"
+  },
+  {
+   "manualId": "1519918",
+   "slug": "Sime-Benchmark",
+   "title": "Benchmark User instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Benchmark",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1519918/Sime-Benchmark.html"
+  },
+  {
+   "manualId": "1191460",
+   "slug": "Sime-Meridian-He-30-C",
+   "title": "BRAVA DGT HE 25 Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "BRAVA DGT HE 25",
+   "extraModels": [
+    "BRAVA DGT HE 25",
+    "BRAVA DGT HE 30",
+    "BRAVA DGT HE 35",
+    "MERIDIAN HE 25"
+   ],
+   "url": "https://www.manualslib.com/manual/1191460/Sime-Meridian-He-30-C.html"
+  },
+  {
+   "manualId": "1114253",
+   "slug": "Sime-Brava-Dgt-He-25",
+   "title": "BRAVA DGT HE 25 User instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "BRAVA DGT HE 25",
+   "extraModels": [
+    "BRAVA DGT HE 35"
+   ],
+   "url": "https://www.manualslib.com/manual/1114253/Sime-Brava-Dgt-He-25.html"
+  },
+  {
+   "manualId": "3836761",
+   "slug": "Sime-Brava-Dgt-He-30",
+   "title": "BRAVA DGT HE 30 User instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "BRAVA DGT HE 30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3836761/Sime-Brava-Dgt-He-30.html"
+  },
+  {
+   "manualId": "3304175",
+   "slug": "Sime-Brava-One-18-25-Bf",
+   "title": "BRAVA ONE 18-25 BF Installation and maintenance manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "BRAVA ONE 18-25 BF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3304175/Sime-Brava-One-18-25-Bf.html"
+  },
+  {
+   "manualId": "1591650",
+   "slug": "Sime-Brava-One-25-Bf",
+   "title": "Brava One 25 BF Installation and maintenance manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "Brava One 25 BF",
+   "extraModels": [
+    "Brava One 30 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/1591650/Sime-Brava-One-25-Bf.html"
+  },
+  {
+   "manualId": "2937519",
+   "slug": "Sime-Brava-One-25-Bf",
+   "title": "Brava One 25 BF Installation and maintenance manual",
+   "type": "Service",
+   "pages": 136,
+   "productModel": "Brava One 25 BF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2937519/Sime-Brava-One-25-Bf.html"
+  },
+  {
+   "manualId": "1346187",
+   "slug": "Sime-Brava-One-25-Of-Erp",
+   "title": "Brava One 25 OF ErP Installation and maintenance manual",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "Brava One 25 OF ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1346187/Sime-Brava-One-25-Of-Erp.html"
+  },
+  {
+   "manualId": "2976917",
+   "slug": "Sime-Brava-One-Of-Erp-Series",
+   "title": "Brava One 25 OF ErP Installation and maintenance manual",
+   "type": "Service",
+   "pages": 128,
+   "productModel": "Brava One 25 OF ErP",
+   "extraModels": [
+    "Brava One 25 OF ErP",
+    "Brava One OF ErP Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2976917/Sime-Brava-One-Of-Erp-Series.html"
+  },
+  {
+   "manualId": "2558814",
+   "slug": "Sime-Brava-One-40-Bf",
+   "title": "Brava One 40 BF Installation and maintenance manual",
+   "type": "Service",
+   "pages": 100,
+   "productModel": "Brava One 40 BF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2558814/Sime-Brava-One-40-Bf.html"
+  },
+  {
+   "manualId": "2511224",
+   "slug": "Sime-Brava-One-40-Bf",
+   "title": "Brava One 40 BF user manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "Brava One 40 BF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2511224/Sime-Brava-One-40-Bf.html"
+  },
+  {
+   "manualId": "1115641",
+   "slug": "Sime-Brava-One-Erp",
+   "title": "Brava One ErP user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Brava One ErP",
+   "extraModels": [
+    "Brava One ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/1115641/Sime-Brava-One-Erp.html"
+  },
+  {
+   "manualId": "1782697",
+   "slug": "Sime-Brava-One-He-Erp-Series",
+   "title": "Brava One HE 25 ErP Installation and maintenance manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "Brava One HE 25 ErP",
+   "extraModels": [
+    "Brava One HE 25 ErP",
+    "Brava One HE 30 ErP",
+    "Brava One HE 35 ErP",
+    "Brava One HE 40 ErP",
+    "BRAVA ONE HE ErP Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1782697/Sime-Brava-One-He-Erp-Series.html"
+  },
+  {
+   "manualId": "1122325",
+   "slug": "Sime-Brava-One-He-25",
+   "title": "BRAVA One HE 25 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 108,
+   "productModel": "BRAVA One HE 25",
+   "extraModels": [
+    "BRAVA One HE 25",
+    "BRAVA One HE 30"
+   ],
+   "url": "https://www.manualslib.com/manual/1122325/Sime-Brava-One-He-25.html"
+  },
+  {
+   "manualId": "2339495",
+   "slug": "Sime-Brava-Slim-He-25-Erp",
+   "title": "Brava One HE 40 ErP Installation and maintenance manual",
+   "type": "Service",
+   "pages": 132,
+   "productModel": "Brava One HE 40 ErP",
+   "extraModels": [
+    "Brava One HE 40 ErP",
+    "BRAVA SLIM HE 30 Erp",
+    "BRAVA SLIM HE 35 Erp"
+   ],
+   "url": "https://www.manualslib.com/manual/2339495/Sime-Brava-Slim-He-25-Erp.html"
+  },
+  {
+   "manualId": "2953350",
+   "slug": "Sime-Brava-One-He-Erp",
+   "title": "BRAVA ONE HE ErP Installation and maintenance manual",
+   "type": "Service",
+   "pages": 132,
+   "productModel": "BRAVA ONE HE ErP",
+   "extraModels": [
+    "BRAVA ONE HE ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2953350/Sime-Brava-One-He-Erp.html"
+  },
+  {
+   "manualId": "2937539",
+   "slug": "Sime-Brava-One-Of-Erp",
+   "title": "BRAVA ONE OF ErP Installation and maintenance manual",
+   "type": "Service",
+   "pages": 128,
+   "productModel": "BRAVA ONE OF ErP",
+   "extraModels": [
+    "BRAVA ONE OF ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2937539/Sime-Brava-One-Of-Erp.html"
+  },
+  {
+   "manualId": "1130759",
+   "slug": "Sime-Brava-One",
+   "title": "BRAVA ONE user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "BRAVA ONE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1130759/Sime-Brava-One.html"
+  },
+  {
+   "manualId": "3393704",
+   "slug": "Sime-Brava-One",
+   "title": "BRAVA ONE user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "BRAVA ONE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3393704/Sime-Brava-One.html"
+  },
+  {
+   "manualId": "1241387",
+   "slug": "Sime-Brava-Slim-25-Bf",
+   "title": "Brava Slim 25 BF Installation and maintenance manual",
+   "type": "Service",
+   "pages": 124,
+   "productModel": "Brava Slim 25 BF",
+   "extraModels": [
+    "Brava Slim 30 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/1241387/Sime-Brava-Slim-25-Bf.html"
+  },
+  {
+   "manualId": "1599637",
+   "slug": "Sime-Brava-Slim-30-Bfr",
+   "title": "BRAVA SLIM 30 BFR Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "BRAVA SLIM 30 BFR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1599637/Sime-Brava-Slim-30-Bfr.html"
+  },
+  {
+   "manualId": "2953259",
+   "slug": "Sime-Brava-Slim-40-Bf",
+   "title": "BRAVA SLIM 40 BF Installation and maintenance manual",
+   "type": "Service",
+   "pages": 104,
+   "productModel": "BRAVA SLIM 40 BF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2953259/Sime-Brava-Slim-40-Bf.html"
+  },
+  {
+   "manualId": "1204282",
+   "slug": "Sime-Brava-Slim-Bf",
+   "title": "Brava Slim BF Installation and maintenance manual",
+   "type": "Service",
+   "pages": 132,
+   "productModel": "Brava Slim BF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1204282/Sime-Brava-Slim-Bf.html"
+  },
+  {
+   "manualId": "2953270",
+   "slug": "Sime-Brava-Slim-Bf",
+   "title": "Brava Slim BF User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 132,
+   "productModel": "Brava Slim BF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2953270/Sime-Brava-Slim-Bf.html"
+  },
+  {
+   "manualId": "2447849",
+   "slug": "Sime-Brava-Slim-Erp",
+   "title": "Brava Slim ErP user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Brava Slim ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2447849/Sime-Brava-Slim-Erp.html"
+  },
+  {
+   "manualId": "3545217",
+   "slug": "Sime-Brava-Slim-He-R",
+   "title": "Brava Slim HE 20 R i Installation and servicing instruction",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Brava Slim HE 20 R i",
+   "extraModels": [
+    "Brava Slim HE 20 R i",
+    "Brava Slim HE 40 R i",
+    "BRAVA SLIM HE E"
+   ],
+   "url": "https://www.manualslib.com/manual/3545217/Sime-Brava-Slim-He-R.html"
+  },
+  {
+   "manualId": "1623570",
+   "slug": "Sime-Brava-Slim-He-R-Series",
+   "title": "Brava Slim HE 20 R i Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "Brava Slim HE 20 R i",
+   "extraModels": [
+    "Brava Slim HE 20 R i",
+    "Brava Slim HE 40 R i"
+   ],
+   "url": "https://www.manualslib.com/manual/1623570/Sime-Brava-Slim-He-R-Series.html"
+  },
+  {
+   "manualId": "3545160",
+   "slug": "Sime-Brava-Slim-He-R",
+   "title": "Brava Slim HE 20 R i user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Brava Slim HE 20 R i",
+   "extraModels": [
+    "Brava Slim HE 20 R i",
+    "Brava Slim HE 40 R i",
+    "BRAVA SLIM HE E"
+   ],
+   "url": "https://www.manualslib.com/manual/3545160/Sime-Brava-Slim-He-R.html"
+  },
+  {
+   "manualId": "1307844",
+   "slug": "Sime-Brava-Slim-He-25",
+   "title": "Brava Slim HE 25 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Brava Slim HE 25",
+   "extraModels": [
+    "Brava Slim HE 40"
+   ],
+   "url": "https://www.manualslib.com/manual/1307844/Sime-Brava-Slim-He-25.html"
+  },
+  {
+   "manualId": "1206321",
+   "slug": "Sime-Brava-Slim-He-25-T",
+   "title": "Brava Slim HE 25 T Installation and maintenance manual",
+   "type": "Service",
+   "pages": 116,
+   "productModel": "Brava Slim HE 25 T",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1206321/Sime-Brava-Slim-He-25-T.html"
+  },
+  {
+   "manualId": "3671486",
+   "slug": "Sime-Brava-Slim-He-25-T",
+   "title": "Brava Slim HE 25 T Installation and maintenance manual",
+   "type": "Service",
+   "pages": 124,
+   "productModel": "Brava Slim HE 25 T",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3671486/Sime-Brava-Slim-He-25-T.html"
+  },
+  {
+   "manualId": "3844119",
+   "slug": "Sime-Brava-Slim-He-30",
+   "title": "Brava Slim HE 30 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Brava Slim HE 30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3844119/Sime-Brava-Slim-He-30.html"
+  },
+  {
+   "manualId": "3844120",
+   "slug": "Sime-Brava-Slim-He-35",
+   "title": "Brava Slim HE 35 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Brava Slim HE 35",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3844120/Sime-Brava-Slim-He-35.html"
+  },
+  {
+   "manualId": "3384956",
+   "slug": "Sime-Brava-Slim-He-40",
+   "title": "Brava Slim HE 40 Installation and servicing instruction",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Brava Slim HE 40",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3384956/Sime-Brava-Slim-He-40.html"
+  },
+  {
+   "manualId": "3466767",
+   "slug": "Sime-Brava-Slim-He-40",
+   "title": "Brava Slim HE 40 Installation and servicing instruction",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "Brava Slim HE 40",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3466767/Sime-Brava-Slim-He-40.html"
+  },
+  {
+   "manualId": "2833313",
+   "slug": "Sime-Brava-Slim-Series",
+   "title": "Brava Slim Series user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Brava Slim Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2833313/Sime-Brava-Slim-Series.html"
+  },
+  {
+   "manualId": "1659108",
+   "slug": "Sime-Brava-Slim",
+   "title": "Brava Slim user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Brava Slim",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1659108/Sime-Brava-Slim.html"
+  },
+  {
+   "manualId": "2887696",
+   "slug": "Sime-Bs-1s",
+   "title": "BS 1S installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "BS 1S",
+   "extraModels": [
+    "BS 2S",
+    "BS 2S-C",
+    "BS FAST",
+    "BS PUFF"
+   ],
+   "url": "https://www.manualslib.com/manual/2887696/Sime-Bs-1s.html"
+  },
+  {
+   "manualId": "2218952",
+   "slug": "Sime-Climber",
+   "title": "CLIMBER INSTALLATION, USE, MAINTENANCE AND SPARE PARTS MANUAL",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "CLIMBER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2218952/Sime-Climber.html"
+  },
+  {
+   "manualId": "1127600",
+   "slug": "Sime-Dewy-30-He-Fs",
+   "title": "Dewy 130 HE FS Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Dewy 130 HE FS",
+   "extraModels": [
+    "Dewy 130 HE FS"
+   ],
+   "url": "https://www.manualslib.com/manual/1127600/Sime-Dewy-30-He-Fs.html"
+  },
+  {
+   "manualId": "2359173",
+   "slug": "Sime-Benchmark-Dewy-30-He-Fs",
+   "title": "Dewy 130 HE FS User instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Dewy 130 HE FS",
+   "extraModels": [
+    "Dewy 130 HE FS"
+   ],
+   "url": "https://www.manualslib.com/manual/2359173/Sime-Benchmark-Dewy-30-He-Fs.html"
+  },
+  {
+   "manualId": "1156164",
+   "slug": "Sime-Dewy-30-He-Wm",
+   "title": "Dewy 30 HE WM Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Dewy 30 HE WM",
+   "extraModels": [
+    "Dewy 50 HE WM"
+   ],
+   "url": "https://www.manualslib.com/manual/1156164/Sime-Dewy-30-He-Wm.html"
+  },
+  {
+   "manualId": "3637484",
+   "slug": "Sime-Dewy-50-He-Wm",
+   "title": "Dewy 30 HE WM User instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Dewy 30 HE WM",
+   "extraModels": [
+    "Dewy 30 HE WM"
+   ],
+   "url": "https://www.manualslib.com/manual/3637484/Sime-Dewy-50-He-Wm.html"
+  },
+  {
+   "manualId": "1595819",
+   "slug": "Sime-Dewy-30-130-He-Fs",
+   "title": "Dewy 30/130 HE FS Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Dewy 30/130 HE FS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1595819/Sime-Dewy-30-130-He-Fs.html"
+  },
+  {
+   "manualId": "1625398",
+   "slug": "Sime-Dewy-Series",
+   "title": "DEWY 30/130 Installer's instructions",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "DEWY 30/130",
+   "extraModels": [
+    "DEWY 30/130",
+    "DEWY 30/80"
+   ],
+   "url": "https://www.manualslib.com/manual/1625398/Sime-Dewy-Series.html"
+  },
+  {
+   "manualId": "4198732",
+   "slug": "Sime-Dewy-30-80",
+   "title": "DEWY 30/130 Installer's instructions",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "DEWY 30/130",
+   "extraModels": [
+    "DEWY 30/130"
+   ],
+   "url": "https://www.manualslib.com/manual/4198732/Sime-Dewy-30-80.html"
+  },
+  {
+   "manualId": "2209277",
+   "slug": "Sime-Dewy-30-80",
+   "title": "DEWY 30/80 Manual",
+   "type": "Other",
+   "pages": 112,
+   "productModel": "DEWY 30/80",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2209277/Sime-Dewy-30-80.html"
+  },
+  {
+   "manualId": "2011330",
+   "slug": "Sime-Dewy-Equipe-Box-Series",
+   "title": "DEWY EQUIPE 120 BOX Manual",
+   "type": "Other",
+   "pages": 26,
+   "productModel": "DEWY EQUIPE 120 BOX",
+   "extraModels": [
+    "DEWY EQUIPE 120 BOX",
+    "DEWY EQUIPE 180 BOX",
+    "DEWY EQUIPE 240 BOX",
+    "DEWY EQUIPE 300 BOX",
+    "DEWY EQUIPE 360 BOX",
+    "DEWY EQUIPE 60 BOX",
+    "DEWY EQUIPE BOX Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2011330/Sime-Dewy-Equipe-Box-Series.html"
+  },
+  {
+   "manualId": "2586186",
+   "slug": "Sime-Dewy-Equipe-60-Box",
+   "title": "DEWY EQUIPE 120 BOX Manual",
+   "type": "Other",
+   "pages": 92,
+   "productModel": "DEWY EQUIPE 120 BOX",
+   "extraModels": [
+    "DEWY EQUIPE 120 BOX",
+    "DEWY EQUIPE 180 BOX",
+    "DEWY EQUIPE 240 BOX",
+    "DEWY EQUIPE 300 BOX",
+    "DEWY EQUIPE 360 BOX",
+    "DEWY EQUIPE P120 BOX",
+    "DEWY EQUIPE P60 BOX"
+   ],
+   "url": "https://www.manualslib.com/manual/2586186/Sime-Dewy-Equipe-60-Box.html"
+  },
+  {
+   "manualId": "2070890",
+   "slug": "Sime-Dewy-Equipe-P100-Box",
+   "title": "Dewy Equipe P100 Box Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Dewy Equipe P100 Box",
+   "extraModels": [
+    "Dewy Equipe P200 Box",
+    "Dewy Equipe P300 Box",
+    "Dewy Equipe P400 Box",
+    "Dewy Equipe P500 Box",
+    "Dewy Equipe P600 Box"
+   ],
+   "url": "https://www.manualslib.com/manual/2070890/Sime-Dewy-Equipe-P100-Box.html"
+  },
+  {
+   "manualId": "2422111",
+   "slug": "Sime-Dewy-Equipe-P100-Box",
+   "title": "Dewy Equipe P100 Box Manual",
+   "type": "Other",
+   "pages": 84,
+   "productModel": "Dewy Equipe P100 Box",
+   "extraModels": [
+    "Dewy Equipe P200 Box",
+    "Dewy Equipe P300 Box",
+    "Dewy Equipe P400 Box",
+    "Dewy Equipe P500 Box",
+    "Dewy Equipe P600 Box",
+    "8106700",
+    "8106701",
+    "8106702",
+    "8106703",
+    "8106704",
+    "8106705"
+   ],
+   "url": "https://www.manualslib.com/manual/2422111/Sime-Dewy-Equipe-P100-Box.html"
+  },
+  {
+   "manualId": "2921695",
+   "slug": "Sime-Dewy-Equipe-P100-Box",
+   "title": "Dewy Equipe P100 Box Manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "Dewy Equipe P100 Box",
+   "extraModels": [
+    "Dewy Equipe P200 Box",
+    "Dewy Equipe P300 Box",
+    "Dewy Equipe P400 Box",
+    "Dewy Equipe P500 Box",
+    "Dewy Equipe P600 Box"
+   ],
+   "url": "https://www.manualslib.com/manual/2921695/Sime-Dewy-Equipe-P100-Box.html"
+  },
+  {
+   "manualId": "1650768",
+   "slug": "Sime-Dewy-He-Wm",
+   "title": "Dewy HE WM User instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Dewy HE WM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1650768/Sime-Dewy-He-Wm.html"
+  },
+  {
+   "manualId": "2544848",
+   "slug": "Sime-Solo-Of-Bf",
+   "title": "DUETTO 20 OF Installer's instructions",
+   "type": "Installation",
+   "pages": 148,
+   "productModel": "DUETTO 20 OF",
+   "extraModels": [
+    "DUETTO 20 OF",
+    "DUETTO 20-30-40 OF",
+    "DUETTO 30 BF",
+    "DUETTO 30 OF",
+    "DUETTO 30-40 BF",
+    "DUETTO 40 BF",
+    "DUETTO 40 OF",
+    "Duetto OF-BF",
+    "SOLO 20 OF",
+    "SOLO 30 BF",
+    "SOLO 30 OF",
+    "SOLO 30-40 BF",
+    "SOLO 30-40 OF",
+    "SOLO 40 BF",
+    "SOLO 40 OF"
+   ],
+   "url": "https://www.manualslib.com/manual/2544848/Sime-Solo-Of-Bf.html"
+  },
+  {
+   "manualId": "1577779",
+   "slug": "Sime-Solo-20-Of",
+   "title": "DUETTO 20 OFi Installer's instructions",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "DUETTO 20 OFi",
+   "extraModels": [
+    "DUETTO 20 OFi",
+    "DUETTO 30 BFi",
+    "DUETTO 30 OFi",
+    "DUETTO 40 BFi",
+    "DUETTO 40 OFi",
+    "SOLO 30 BF",
+    "SOLO 30 OF",
+    "SOLO 40 BF",
+    "SOLO 40 OF"
+   ],
+   "url": "https://www.manualslib.com/manual/1577779/Sime-Solo-20-Of.html"
+  },
+  {
+   "manualId": "2422095",
+   "slug": "Sime-Solo-20-Of",
+   "title": "DUETTO 20 OFi Manual",
+   "type": "Other",
+   "pages": 88,
+   "productModel": "DUETTO 20 OFi",
+   "extraModels": [
+    "DUETTO 20 OFi",
+    "DUETTO 30 BFi",
+    "DUETTO 30 OFi",
+    "DUETTO 40-PR 40 BFi",
+    "DUETTO 40-PR 40 OFi",
+    "SOLO 30 BF",
+    "SOLO 30 OF",
+    "SOLO 40-PR 40 OF"
+   ],
+   "url": "https://www.manualslib.com/manual/2422095/Sime-Solo-20-Of.html"
+  },
+  {
+   "manualId": "3162747",
+   "slug": "Sime-Duetto-25-35-Ev",
+   "title": "DUETTO 25 35 EV User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "DUETTO 25 35 EV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3162747/Sime-Duetto-25-35-Ev.html"
+  },
+  {
+   "manualId": "1781732",
+   "slug": "Sime-Solo-25-Bf-Tse",
+   "title": "DUETTO 25 BF TSE Installer's instructions",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "DUETTO 25 BF TSE",
+   "extraModels": [
+    "DUETTO 25 BF TSE"
+   ],
+   "url": "https://www.manualslib.com/manual/1781732/Sime-Solo-25-Bf-Tse.html"
+  },
+  {
+   "manualId": "1982564",
+   "slug": "Sime-Solo-Erp-Series",
+   "title": "DUETTO 25 ErP Installer's instructions",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "DUETTO 25 ErP",
+   "extraModels": [
+    "DUETTO 25 ErP",
+    "DUETTO 35 ErP",
+    "SOLO 25 ErP",
+    "SOLO 35 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/1982564/Sime-Solo-Erp-Series.html"
+  },
+  {
+   "manualId": "2134990",
+   "slug": "Sime-Solo-25-Erp",
+   "title": "DUETTO 25 ErP Installer's instructions",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "DUETTO 25 ErP",
+   "extraModels": [
+    "DUETTO 35 ErP",
+    "SOLO 35 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2134990/Sime-Solo-25-Erp.html"
+  },
+  {
+   "manualId": "2612341",
+   "slug": "Sime-Solo-25-Erp",
+   "title": "DUETTO 25 ErP Manual",
+   "type": "Other",
+   "pages": 88,
+   "productModel": "DUETTO 25 ErP",
+   "extraModels": [
+    "DUETTO 35 ErP",
+    "SOLO 35 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2612341/Sime-Solo-25-Erp.html"
+  },
+  {
+   "manualId": "3871889",
+   "slug": "Sime-Duetto-Erp-Series",
+   "title": "DUETTO ErP Series Installer's instructions",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "DUETTO ErP Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3871889/Sime-Duetto-Erp-Series.html"
+  },
+  {
+   "manualId": "3756492",
+   "slug": "Sime-Solo-He-25-Erp",
+   "title": "DUETTO HE 25 ErP Installer's instructions",
+   "type": "Installation",
+   "pages": 85,
+   "productModel": "DUETTO HE 25 ErP",
+   "extraModels": [
+    "DUETTO HE 25 ErP",
+    "DUETTO HE 35 ErP",
+    "SOLO HE 35 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/3756492/Sime-Solo-He-25-Erp.html"
+  },
+  {
+   "manualId": "3238139",
+   "slug": "Sime-Solo-He-25-Erp-Be",
+   "title": "DUETTO HE 25 ErP.BE Installer's instructions",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "DUETTO HE 25 ErP.BE",
+   "extraModels": [
+    "DUETTO HE 25 ErP.BE",
+    "DUETTO HE 35 ErP BE",
+    "SOLO HE 35 ErP BE"
+   ],
+   "url": "https://www.manualslib.com/manual/3238139/Sime-Solo-He-25-Erp-Be.html"
+  },
+  {
+   "manualId": "3922231",
+   "slug": "Sime-Duetto",
+   "title": "Duetto Installer's instructions",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "Duetto",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3922231/Sime-Duetto.html"
+  },
+  {
+   "manualId": "2807655",
+   "slug": "Sime-Easy-System-1-2-I",
+   "title": "EASY SYSTEM .1-2 FA Design, Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "EASY SYSTEM .1-2 FA",
+   "extraModels": [
+    "EASY SYSTEM .1-2 FA",
+    "EASY SYSTEM .1-2 PR",
+    "EASY SYSTEM .3-4 FA",
+    "EASY SYSTEM .3-4 PR",
+    "EASY SYSTEM .5-6 FA",
+    "EASY SYSTEM .5-6 PR",
+    "EASY SYSTEM 3-4 I",
+    "EASY SYSTEM 5-6 I"
+   ],
+   "url": "https://www.manualslib.com/manual/2807655/Sime-Easy-System-1-2-I.html"
+  },
+  {
+   "manualId": "1743821",
+   "slug": "Sime-Ecomaxi-160-Erp",
+   "title": "ECOMAXI 160 ErP Manual",
+   "type": "Other",
+   "pages": 148,
+   "productModel": "ECOMAXI 160 ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1743821/Sime-Ecomaxi-160-Erp.html"
+  },
+  {
+   "manualId": "1761942",
+   "slug": "Sime-Ecomaxi-260-Erp",
+   "title": "ECOMAXI 260 ErP Manual",
+   "type": "Other",
+   "pages": 160,
+   "productModel": "ECOMAXI 260 ErP",
+   "extraModels": [
+    "ECOMAXI 260 S ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/1761942/Sime-Ecomaxi-260-Erp.html"
+  },
+  {
+   "manualId": "3837217",
+   "slug": "Sime-Ecomfort-30-He",
+   "title": "ECOMFORT 30 HE Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "ECOMFORT 30 HE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3837217/Sime-Ecomfort-30-He.html"
+  },
+  {
+   "manualId": "1127956",
+   "slug": "Sime-Ecomfort-System-25-He",
+   "title": "ECOMFORT 35 HE Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "ECOMFORT 35 HE",
+   "extraModels": [
+    "ECOMFORT 35 HE",
+    "ECOMFORT PLUS 25 HE",
+    "Ecomfort Plus 30 HE",
+    "ECOMFORT SYSTEM 25 HE"
+   ],
+   "url": "https://www.manualslib.com/manual/1127956/Sime-Ecomfort-System-25-He.html"
+  },
+  {
+   "manualId": "1075676",
+   "slug": "Sime-Ecomfort-Plus-30-He",
+   "title": "ECOMFORT PLUS 25 HE Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "ECOMFORT PLUS 25 HE",
+   "extraModels": [
+    "ECOMFORT PLUS 25 HE"
+   ],
+   "url": "https://www.manualslib.com/manual/1075676/Sime-Ecomfort-Plus-30-He.html"
+  },
+  {
+   "manualId": "1663617",
+   "slug": "Sime-Ecomfort-Plus-25-He-Ev",
+   "title": "ECOMFORT PLUS 25 HE Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "ECOMFORT PLUS 25 HE",
+   "extraModels": [
+    "Ecomfort Plus 30 HE"
+   ],
+   "url": "https://www.manualslib.com/manual/1663617/Sime-Ecomfort-Plus-25-He-Ev.html"
+  },
+  {
+   "manualId": "990052",
+   "slug": "Sime-Ecomfort-Plus-25-He",
+   "title": "ECOMFORT PLUS 25 HE Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "ECOMFORT PLUS 25 HE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/990052/Sime-Ecomfort-Plus-25-He.html"
+  },
+  {
+   "manualId": "1118680",
+   "slug": "Sime-Ecomfort-Plus-25-He",
+   "title": "ECOMFORT PLUS 25 HE User instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "ECOMFORT PLUS 25 HE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1118680/Sime-Ecomfort-Plus-25-He.html"
+  },
+  {
+   "manualId": "1192807",
+   "slug": "Sime-Ecomfort-System-Plus-25-He-Ev",
+   "title": "ECOMFORT PLUS 25 HE User instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "ECOMFORT PLUS 25 HE",
+   "extraModels": [
+    "Ecomfort Plus 30 HE"
+   ],
+   "url": "https://www.manualslib.com/manual/1192807/Sime-Ecomfort-System-Plus-25-He-Ev.html"
+  },
+  {
+   "manualId": "2400134",
+   "slug": "Sime-Ecomfort-Plus",
+   "title": "Ecomfort Plus User instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Ecomfort Plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2400134/Sime-Ecomfort-Plus.html"
+  },
+  {
+   "manualId": "1648204",
+   "slug": "Sime-Ecomfort",
+   "title": "Ecomfort User instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Ecomfort",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1648204/Sime-Ecomfort.html"
+  },
+  {
+   "manualId": "3376180",
+   "slug": "Sime-Edea-Bf-30-R",
+   "title": "EDEA BF 30 R user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "EDEA BF 30 R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3376180/Sime-Edea-Bf-30-R.html"
+  },
+  {
+   "manualId": "3386874",
+   "slug": "Sime-Edea-Hm-40",
+   "title": "EDEA HM 40 Design, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "EDEA HM 40",
+   "extraModels": [
+    "EDEA HM 40 e",
+    "EDEA HM 40 i"
+   ],
+   "url": "https://www.manualslib.com/manual/3386874/Sime-Edea-Hm-40.html"
+  },
+  {
+   "manualId": "3579103",
+   "slug": "Sime-Edea-Hybrid-Pro-25",
+   "title": "EDEA HYBRID PRO 25 User, Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "EDEA HYBRID PRO 25",
+   "extraModels": [
+    "EDEA HYBRID PRO 55"
+   ],
+   "url": "https://www.manualslib.com/manual/3579103/Sime-Edea-Hybrid-Pro-25.html"
+  },
+  {
+   "manualId": "1899099",
+   "slug": "Sime-Eko-Of-Series",
+   "title": "EKO 3 OF Installer's instructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "EKO 3 OF",
+   "extraModels": [
+    "EKO 3 OF",
+    "EKO 4 OF",
+    "EKO 5 OF",
+    "EKO 6 OF"
+   ],
+   "url": "https://www.manualslib.com/manual/1899099/Sime-Eko-Of-Series.html"
+  },
+  {
+   "manualId": "4226391",
+   "slug": "Sime-Elektrorain-70",
+   "title": "ELEKTRORAIN 70 Installation, use & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "ELEKTRORAIN 70",
+   "extraModels": [
+    "GREENMAP 85"
+   ],
+   "url": "https://www.manualslib.com/manual/4226391/Sime-Elektrorain-70.html"
+  },
+  {
+   "manualId": "3345656",
+   "slug": "Sime-Rondo-3-Of",
+   "title": "Estelle 3 OF Manual",
+   "type": "Other",
+   "pages": 116,
+   "productModel": "Estelle 3 OF",
+   "extraModels": [
+    "Estelle 3 OF",
+    "Estelle 4 OF",
+    "Estelle 5 OF",
+    "Estelle 6 OF",
+    "Estelle 7 OF",
+    "Estelle 8 OF",
+    "RONDO 4 OF",
+    "RONDO 5 OF",
+    "Rondo 6 OF TS",
+    "Rondo 7 OF TS",
+    "Rondo 8 OF"
+   ],
+   "url": "https://www.manualslib.com/manual/3345656/Sime-Rondo-3-Of.html"
+  },
+  {
+   "manualId": "1769253",
+   "slug": "Sime-Rondo-Of-Ts-Series",
+   "title": "Estelle 4 BF TS Manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "Estelle 4 BF TS",
+   "extraModels": [
+    "Estelle 4 BF TS",
+    "Estelle 5 BF TS",
+    "Estelle 6 OF TS",
+    "Estelle 7 OF TS",
+    "Estelle BF TS Series",
+    "Estelle OF TS Series",
+    "Rondo 6 OF TS",
+    "Rondo 7 OF TS"
+   ],
+   "url": "https://www.manualslib.com/manual/1769253/Sime-Rondo-Of-Ts-Series.html"
+  },
+  {
+   "manualId": "2870013",
+   "slug": "Sime-Estelle-B4-Inox-Bf-Ts",
+   "title": "Estelle B4 INOX BF TS installation manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "Estelle B4 INOX BF TS",
+   "extraModels": [
+    "Estelle B5 INOX BF TS"
+   ],
+   "url": "https://www.manualslib.com/manual/2870013/Sime-Estelle-B4-Inox-Bf-Ts.html"
+  },
+  {
+   "manualId": "3005797",
+   "slug": "Sime-Estelle-B4-Inox-Erp-Be",
+   "title": "ESTELLE B4 INOX ErP BE User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "ESTELLE B4 INOX ErP BE",
+   "extraModels": [
+    "ESTELLE B5 INOX ErP BE"
+   ],
+   "url": "https://www.manualslib.com/manual/3005797/Sime-Estelle-B4-Inox-Erp-Be.html"
+  },
+  {
+   "manualId": "2175914",
+   "slug": "Sime-Estelle-B4-Inox-Erp",
+   "title": "Estelle B4 INOX ErP Manual",
+   "type": "Other",
+   "pages": 88,
+   "productModel": "Estelle B4 INOX ErP",
+   "extraModels": [
+    "Estelle B5 INOX ErP",
+    "Estelle HE B INOX ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2175914/Sime-Estelle-B4-Inox-Erp.html"
+  },
+  {
+   "manualId": "2359101",
+   "slug": "Sime-Estelle-B4-Inox",
+   "title": "Estelle B4 INOX ErP Manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "Estelle B4 INOX ErP",
+   "extraModels": [
+    "Estelle B5 INOX ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2359101/Sime-Estelle-B4-Inox.html"
+  },
+  {
+   "manualId": "2872601",
+   "slug": "Sime-Estelle-B4-Inox",
+   "title": "Estelle B4 INOX ErP Manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "Estelle B4 INOX ErP",
+   "extraModels": [
+    "Estelle B5 INOX ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2872601/Sime-Estelle-B4-Inox.html"
+  },
+  {
+   "manualId": "2401303",
+   "slug": "Sime-Estelle-He-3-Erp",
+   "title": "ESTELLE HE 3 ErP Installation and maintenance manual",
+   "type": "Service",
+   "pages": 100,
+   "productModel": "ESTELLE HE 3 ErP",
+   "extraModels": [
+    "ESTELLE HE 4 ErP",
+    "ESTELLE HE 5 ErP",
+    "ESTELLE HE 6 ErP",
+    "ESTELLE HE 7 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2401303/Sime-Estelle-He-3-Erp.html"
+  },
+  {
+   "manualId": "2344784",
+   "slug": "Sime-Estelle-He-3-Erp",
+   "title": "ESTELLE HE 3 ErP Original instructions manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "ESTELLE HE 3 ErP",
+   "extraModels": [
+    "ESTELLE HE 4 ErP",
+    "ESTELLE HE 5 ErP",
+    "ESTELLE HE 6 ErP",
+    "ESTELLE HE 7 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2344784/Sime-Estelle-He-3-Erp.html"
+  },
+  {
+   "manualId": "1731583",
+   "slug": "Sime-Estelle-He-Series",
+   "title": "Estelle HE 4 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 120,
+   "productModel": "Estelle HE 4",
+   "extraModels": [
+    "Estelle HE 4",
+    "Estelle HE 5"
+   ],
+   "url": "https://www.manualslib.com/manual/1731583/Sime-Estelle-He-Series.html"
+  },
+  {
+   "manualId": "1601023",
+   "slug": "Sime-Estelle-He-B4-Inox-Erp",
+   "title": "Estelle HE B4 INOX ErP Technical leaflet",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "Estelle HE B4 INOX ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1601023/Sime-Estelle-He-B4-Inox-Erp.html"
+  },
+  {
+   "manualId": "2239556",
+   "slug": "Sime-Estelle-He",
+   "title": "ESTELLE HE Manual",
+   "type": "Other",
+   "pages": 120,
+   "productModel": "ESTELLE HE",
+   "extraModels": [
+    "Estelle HE 4",
+    "Estelle HE 5"
+   ],
+   "url": "https://www.manualslib.com/manual/2239556/Sime-Estelle-He.html"
+  },
+  {
+   "manualId": "1697193",
+   "slug": "Sime-Rondo-Series",
+   "title": "ESTELLE Series Manual",
+   "type": "Other",
+   "pages": 120,
+   "productModel": "ESTELLE Series",
+   "extraModels": [
+    "ESTELLE Series",
+    "RONDO 3 OF",
+    "RONDO 4 OF",
+    "RONDO 5 OF",
+    "Rondo 6 OF TS",
+    "Rondo 7 OF TS"
+   ],
+   "url": "https://www.manualslib.com/manual/1697193/Sime-Rondo-Series.html"
+  },
+  {
+   "manualId": "3836542",
+   "slug": "Sime-Estelle",
+   "title": "estelle user manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "estelle",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3836542/Sime-Estelle.html"
+  },
+  {
+   "manualId": "2126052",
+   "slug": "Sime-Explorer",
+   "title": "Explorer INSTALLATION, USE, MAINTENANCE, SPARE PARTS",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "Explorer",
+   "extraModels": [
+    "Kronos 16-46"
+   ],
+   "url": "https://www.manualslib.com/manual/2126052/Sime-Explorer.html"
+  },
+  {
+   "manualId": "2571662",
+   "slug": "Sime-Forced-200",
+   "title": "FORCED 200 Manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "FORCED 200",
+   "extraModels": [
+    "FORCED 300"
+   ],
+   "url": "https://www.manualslib.com/manual/2571662/Sime-Forced-200.html"
+  },
+  {
+   "manualId": "1209575",
+   "slug": "Sime-Format-80-C",
+   "title": "Format 100 C Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Format 100 C",
+   "extraModels": [
+    "Format 100 C",
+    "Format 110 C"
+   ],
+   "url": "https://www.manualslib.com/manual/1209575/Sime-Format-80-C.html"
+  },
+  {
+   "manualId": "2773850",
+   "slug": "Sime-Format-Series",
+   "title": "Format 25 BF TS Installer's instructions",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "Format 25 BF TS",
+   "extraModels": [
+    "Format 25 BF TS",
+    "Format 25 OF C",
+    "Format 30 BF TS",
+    "Format 30 OF C"
+   ],
+   "url": "https://www.manualslib.com/manual/2773850/Sime-Format-Series.html"
+  },
+  {
+   "manualId": "2157070",
+   "slug": "Sime-Format-25",
+   "title": "Format 25 Installer's instructions",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "Format 25",
+   "extraModels": [
+    "Format 25/60 BF",
+    "Format 25/60 OF",
+    "Format 30/60 BF",
+    "Format 60",
+    "Format 60-30"
+   ],
+   "url": "https://www.manualslib.com/manual/2157070/Sime-Format-25.html"
+  },
+  {
+   "manualId": "1083060",
+   "slug": "Sime-Format-25-60-Of",
+   "title": "Format 25/60 BF Installer's instructions",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "Format 25/60 BF",
+   "extraModels": [
+    "Format 25/60 BF",
+    "Format 30/60 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/1083060/Sime-Format-25-60-Of.html"
+  },
+  {
+   "manualId": "2222539",
+   "slug": "Sime-Format-25-60",
+   "title": "Format 25/60 Manual",
+   "type": "Other",
+   "pages": 100,
+   "productModel": "Format 25/60",
+   "extraModels": [
+    "Format 30/60"
+   ],
+   "url": "https://www.manualslib.com/manual/2222539/Sime-Format-25-60.html"
+  },
+  {
+   "manualId": "1042776",
+   "slug": "Sime-Format-30-He",
+   "title": "Format 30 HE Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Format 30 HE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1042776/Sime-Format-30-He.html"
+  },
+  {
+   "manualId": "1195918",
+   "slug": "Sime-Format-30-He",
+   "title": "Format 30 HE Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Format 30 HE",
+   "extraModels": [
+    "Format System 25 HE"
+   ],
+   "url": "https://www.manualslib.com/manual/1195918/Sime-Format-30-He.html"
+  },
+  {
+   "manualId": "1603942",
+   "slug": "Sime-Format-34i-Bf",
+   "title": "FORMAT 34E BF Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "FORMAT 34E BF",
+   "extraModels": [
+    "FORMAT 34E BF"
+   ],
+   "url": "https://www.manualslib.com/manual/1603942/Sime-Format-34i-Bf.html"
+  },
+  {
+   "manualId": "3842462",
+   "slug": "Sime-Format-34e",
+   "title": "Format 34e installation instructions manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "Format 34e",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3842462/Sime-Format-34e.html"
+  },
+  {
+   "manualId": "1270338",
+   "slug": "Sime-Format-34i",
+   "title": "Format 34i installation instructions manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "Format 34i",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1270338/Sime-Format-34i.html"
+  },
+  {
+   "manualId": "1191933",
+   "slug": "Sime-Format-B",
+   "title": "Format B Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "Format B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1191933/Sime-Format-B.html"
+  },
+  {
+   "manualId": "1191934",
+   "slug": "Sime-Format-C",
+   "title": "Format C User instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Format C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1191934/Sime-Format-C.html"
+  },
+  {
+   "manualId": "2972737",
+   "slug": "Sime-Format-Dgt-25-15-Bf",
+   "title": "FORMAT DGT 25/15 BF Installer's instructions",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "FORMAT DGT 25/15 BF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2972737/Sime-Format-Dgt-25-15-Bf.html"
+  },
+  {
+   "manualId": "2572549",
+   "slug": "Sime-Format-Dgt-25-55",
+   "title": "FORMAT DGT 25/55 Manual",
+   "type": "Other",
+   "pages": 88,
+   "productModel": "FORMAT DGT 25/55",
+   "extraModels": [
+    "FORMAT DGT 30/55"
+   ],
+   "url": "https://www.manualslib.com/manual/2572549/Sime-Format-Dgt-25-55.html"
+  },
+  {
+   "manualId": "1300626",
+   "slug": "Sime-Format-Dgt-30i",
+   "title": "FORMAT DGT 30e Installation, user and service instructions",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "FORMAT DGT 30e",
+   "extraModels": [
+    "FORMAT DGT 30e"
+   ],
+   "url": "https://www.manualslib.com/manual/1300626/Sime-Format-Dgt-30i.html"
+  },
+  {
+   "manualId": "1265646",
+   "slug": "Sime-Format-Dgt-30i",
+   "title": "FORMAT DGT 30e Installation, user and servicing instructions",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "FORMAT DGT 30e",
+   "extraModels": [
+    "FORMAT DGT 30e"
+   ],
+   "url": "https://www.manualslib.com/manual/1265646/Sime-Format-Dgt-30i.html"
+  },
+  {
+   "manualId": "1631255",
+   "slug": "Sime-Format-Dgt-He-12",
+   "title": "FORMAT DGT HE 12 Installer's instructions",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "FORMAT DGT HE 12",
+   "extraModels": [
+    "FORMAT DGT HE 20 T",
+    "FORMAT DGT HE 25",
+    "FORMAT DGT HE 30",
+    "FORMAT DGT HE 35"
+   ],
+   "url": "https://www.manualslib.com/manual/1631255/Sime-Format-Dgt-He-12.html"
+  },
+  {
+   "manualId": "3006222",
+   "slug": "Sime-Format-Dgt-He-25",
+   "title": "FORMAT DGT HE 15 Manual",
+   "type": "Other",
+   "pages": 108,
+   "productModel": "FORMAT DGT HE 15",
+   "extraModels": [
+    "FORMAT DGT HE 15"
+   ],
+   "url": "https://www.manualslib.com/manual/3006222/Sime-Format-Dgt-He-25.html"
+  },
+  {
+   "manualId": "1663610",
+   "slug": "Sime-Format-Dgt-He-Series",
+   "title": "FORMAT DGT HE 20 System Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "FORMAT DGT HE 20 System",
+   "extraModels": [
+    "FORMAT DGT HE 20 System",
+    "FORMAT DGT HE 25",
+    "FORMAT DGT HE 30",
+    "FORMAT DGT HE 35"
+   ],
+   "url": "https://www.manualslib.com/manual/1663610/Sime-Format-Dgt-He-Series.html"
+  },
+  {
+   "manualId": "925780",
+   "slug": "Sime-Format-Dgt-He",
+   "title": "FORMAT DGT HE Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "FORMAT DGT HE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/925780/Sime-Format-Dgt-He.html"
+  },
+  {
+   "manualId": "2155796",
+   "slug": "Sime-Format-Dgt-He",
+   "title": "FORMAT DGT HE Installer's instructions",
+   "type": "Installation",
+   "pages": 120,
+   "productModel": "FORMAT DGT HE",
+   "extraModels": [
+    "FORMAT DGT HE 12 T",
+    "FORMAT DGT HE 20 T",
+    "FORMAT DGT HE 25",
+    "FORMAT DGT HE 30",
+    "FORMAT DGT HE 35"
+   ],
+   "url": "https://www.manualslib.com/manual/2155796/Sime-Format-Dgt-He.html"
+  },
+  {
+   "manualId": "1191832",
+   "slug": "Sime-Format-Dgt-He",
+   "title": "FORMAT DGT HE User instructions",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "FORMAT DGT HE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1191832/Sime-Format-Dgt-He.html"
+  },
+  {
+   "manualId": "1102485",
+   "slug": "Sime-Format-System-25-He",
+   "title": "Format System 25 HE Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Format System 25 HE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1102485/Sime-Format-System-25-He.html"
+  },
+  {
+   "manualId": "1193691",
+   "slug": "Sime-Format-System-25-He",
+   "title": "Format System 25 HE Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Format System 25 HE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1193691/Sime-Format-System-25-He.html"
+  },
+  {
+   "manualId": "1191935",
+   "slug": "Sime-Format-System-25-He",
+   "title": "Format System 25 HE User instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Format System 25 HE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1191935/Sime-Format-System-25-He.html"
+  },
+  {
+   "manualId": "2939513",
+   "slug": "Sime-Format-Zip-25-Solar",
+   "title": "FORMAT.zip 25 Solar Installer's instructions",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "FORMAT.zip 25 Solar",
+   "extraModels": [
+    "FORMAT.zip 30 Solar"
+   ],
+   "url": "https://www.manualslib.com/manual/2939513/Sime-Format-Zip-25-Solar.html"
+  },
+  {
+   "manualId": "2624791",
+   "slug": "Sime-Format-Zip-5-25-Bf-Ts",
+   "title": "FORMAT.zip 5 25 BF TS Manual",
+   "type": "Other",
+   "pages": 92,
+   "productModel": "FORMAT.zip 5 25 BF TS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2624791/Sime-Format-Zip-5-25-Bf-Ts.html"
+  },
+  {
+   "manualId": "842960",
+   "slug": "Sime-Format-Zip",
+   "title": "Format.zip Installation instruction and care manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Format.zip",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/842960/Sime-Format-Zip.html"
+  },
+  {
+   "manualId": "852982",
+   "slug": "Sime-Format-Zip",
+   "title": "Format.zip User instruction",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Format.zip",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/852982/Sime-Format-Zip.html"
+  },
+  {
+   "manualId": "1191937",
+   "slug": "Sime-Friendly-Format",
+   "title": "FRIENDLY FORMAT User instructions",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "FRIENDLY FORMAT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1191937/Sime-Friendly-Format.html"
+  },
+  {
+   "manualId": "1155677",
+   "slug": "Sime-Friendly",
+   "title": "FRIENDLY Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "FRIENDLY",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1155677/Sime-Friendly.html"
+  },
+  {
+   "manualId": "1178923",
+   "slug": "Sime-Friendly-E",
+   "title": "FRIENDLY User instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "FRIENDLY",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1178923/Sime-Friendly-E.html"
+  },
+  {
+   "manualId": "2604589",
+   "slug": "Sime-Fuel-Ev",
+   "title": "FUEL EV Manual",
+   "type": "Other",
+   "pages": 100,
+   "productModel": "FUEL EV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2604589/Sime-Fuel-Ev.html"
+  },
+  {
+   "manualId": "2226034",
+   "slug": "Sime-Junior",
+   "title": "FUNNY INSTALLATION, USE, MAINTENANCE, SPARE PARTS",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "FUNNY",
+   "extraModels": [
+    "FUNNY",
+    "IBIS",
+    "JOLLY",
+    "JUMBO",
+    "K1",
+    "KOALA",
+    "SILVER",
+    "SPRING",
+    "ZENITH"
+   ],
+   "url": "https://www.manualslib.com/manual/2226034/Sime-Junior.html"
+  },
+  {
+   "manualId": "2173913",
+   "slug": "Sime-Gemini",
+   "title": "GEMINI Installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "GEMINI",
+   "extraModels": [
+    "MARINER",
+    "SKIPPER"
+   ],
+   "url": "https://www.manualslib.com/manual/2173913/Sime-Gemini.html"
+  },
+  {
+   "manualId": "2195243",
+   "slug": "Sime-Gemini",
+   "title": "GEMINI INSTALLATION, USE, MAINTENANCE AND SPARE PARTS MANUAL",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "GEMINI",
+   "extraModels": [
+    "MARINER",
+    "MARINER 2V",
+    "SKIPPER"
+   ],
+   "url": "https://www.manualslib.com/manual/2195243/Sime-Gemini.html"
+  },
+  {
+   "manualId": "3163231",
+   "slug": "Sime-Giulia-System-25",
+   "title": "GIULIA SYSTEM 25 installation instructions manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "GIULIA SYSTEM 25",
+   "extraModels": [
+    "GIULIA SYSTEM 25"
+   ],
+   "url": "https://www.manualslib.com/manual/3163231/Sime-Giulia-System-25.html"
+  },
+  {
+   "manualId": "3671484",
+   "slug": "Sime-Go-18-Bf",
+   "title": "GO 18 BF User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "GO 18 BF",
+   "extraModels": [
+    "GO 25 BF",
+    "GO 30 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/3671484/Sime-Go-18-Bf.html"
+  },
+  {
+   "manualId": "3671481",
+   "slug": "Sime-Go-40-Bf",
+   "title": "GO 40 BF User, Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 128,
+   "productModel": "GO 40 BF",
+   "extraModels": [
+    "GO BF"
+   ],
+   "url": "https://www.manualslib.com/manual/3671481/Sime-Go-40-Bf.html"
+  },
+  {
+   "manualId": "3958220",
+   "slug": "Sime-Gobf",
+   "title": "GOBF User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 124,
+   "productModel": "GOBF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3958220/Sime-Gobf.html"
+  },
+  {
+   "manualId": "1104059",
+   "slug": "Sime-Green-Planet-I-He-35-Mf",
+   "title": "Green Planet I-HE 35 MF User and installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Green Planet I-HE 35 MF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1104059/Sime-Green-Planet-I-He-35-Mf.html"
+  },
+  {
+   "manualId": "1716285",
+   "slug": "Sime-Home",
+   "title": "HOME Installation and use manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "HOME",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1716285/Sime-Home.html"
+  },
+  {
+   "manualId": "1716284",
+   "slug": "Sime-Home-Plus",
+   "title": "HOME PLUS Installation and use manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "HOME PLUS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1716284/Sime-Home-Plus.html"
+  },
+  {
+   "manualId": "3786655",
+   "slug": "Sime-Hybrid-Revolution-30",
+   "title": "HYBRID REVOLUTION 30 User, Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "HYBRID REVOLUTION 30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3786655/Sime-Hybrid-Revolution-30.html"
+  },
+  {
+   "manualId": "3060075",
+   "slug": "Sime-Eurotrol-2",
+   "title": "Installation And User Instructions",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3060075/Sime-Eurotrol-2.html"
+  },
+  {
+   "manualId": "3761169",
+   "slug": "Sime-Kit-Hybrid",
+   "title": "Kit Hybrid Manual",
+   "type": "Other",
+   "pages": 104,
+   "productModel": "Kit Hybrid",
+   "extraModels": [
+    "8114500"
+   ],
+   "url": "https://www.manualslib.com/manual/3761169/Sime-Kit-Hybrid.html"
+  },
+  {
+   "manualId": "2144892",
+   "slug": "Sime-Klicker",
+   "title": "KLICKER Translation from the original instructions",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "KLICKER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2144892/Sime-Klicker.html"
+  },
+  {
+   "manualId": "4220322",
+   "slug": "Sime-Konkord",
+   "title": "KONKORD user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "KONKORD",
+   "extraModels": [
+    "QUASAR",
+    "RANGER",
+    "ROYAL",
+    "SYNKRO"
+   ],
+   "url": "https://www.manualslib.com/manual/4220322/Sime-Konkord.html"
+  },
+  {
+   "manualId": "1851707",
+   "slug": "Sime-Logo-Of-Ts-Series",
+   "title": "LOGO 22 OF TS Installer's instructions",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "LOGO 22 OF TS",
+   "extraModels": [
+    "LOGO 22 OF TS",
+    "LOGO 32 OF TS",
+    "LOGO 32/50 OF TS",
+    "LOGO 32/80 OF TS",
+    "LOGO BT130",
+    "LOGO BT150"
+   ],
+   "url": "https://www.manualslib.com/manual/1851707/Sime-Logo-Of-Ts-Series.html"
+  },
+  {
+   "manualId": "1890126",
+   "slug": "Sime-Logo-22-Of",
+   "title": "LOGO 22 OF TS Manual",
+   "type": "Other",
+   "pages": 185,
+   "productModel": "LOGO 22 OF TS",
+   "extraModels": [
+    "LOGO 32 OF TS",
+    "LOGO 32/50 OF TS",
+    "LOGO 32/80 OF TS"
+   ],
+   "url": "https://www.manualslib.com/manual/1890126/Sime-Logo-22-Of.html"
+  },
+  {
+   "manualId": "1284427",
+   "slug": "Sime-Mack-1-Ei",
+   "title": "MACK 1 EI Installation, use and maintenance instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "MACK 1 EI",
+   "extraModels": [
+    "MACK 2 EI"
+   ],
+   "url": "https://www.manualslib.com/manual/1284427/Sime-Mack-1-Ei.html"
+  },
+  {
+   "manualId": "3871917",
+   "slug": "Sime-Mack-4",
+   "title": "MACK 4 Installation, use and maintenance instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "MACK 4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3871917/Sime-Mack-4.html"
+  },
+  {
+   "manualId": "3871918",
+   "slug": "Sime-Mack-5",
+   "title": "MACK 5 Installation, use and maintenance instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "MACK 5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3871918/Sime-Mack-5.html"
+  },
+  {
+   "manualId": "931729",
+   "slug": "Sime-Mack-7",
+   "title": "MACK 7 Installation, use and maintenance instructions",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "MACK 7",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/931729/Sime-Mack-7.html"
+  },
+  {
+   "manualId": "2241226",
+   "slug": "Sime-Master",
+   "title": "MASTER Directions for installation, use and maintenance",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "MASTER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2241226/Sime-Master.html"
+  },
+  {
+   "manualId": "2489891",
+   "slug": "Sime-Mercury",
+   "title": "MERCURY Operation, Installation, Maintenance, Spare Parts",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "MERCURY",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2489891/Sime-Mercury.html"
+  },
+  {
+   "manualId": "3601078",
+   "slug": "Sime-Meridian-He-25-30",
+   "title": "MERIDIAN HE 25-30 User instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "MERIDIAN HE 25-30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3601078/Sime-Meridian-He-25-30.html"
+  },
+  {
+   "manualId": "2979124",
+   "slug": "Sime-Metro",
+   "title": "METRO Installer's instructions",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "METRO",
+   "extraModels": [
+    "METRO 25 BF",
+    "METRO 25 OF"
+   ],
+   "url": "https://www.manualslib.com/manual/2979124/Sime-Metro.html"
+  },
+  {
+   "manualId": "2588710",
+   "slug": "Sime-Mia-30",
+   "title": "MIA-30 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "MIA-30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2588710/Sime-Mia-30.html"
+  },
+  {
+   "manualId": "1502822",
+   "slug": "Sime-Mini-12-Bf-Erp",
+   "title": "MINI 12 BF ErP user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "MINI 12 BF ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1502822/Sime-Mini-12-Bf-Erp.html"
+  },
+  {
+   "manualId": "3135148",
+   "slug": "Sime-Mini-16-Bf-Erp",
+   "title": "MINI 12 BF ErP user manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "MINI 12 BF ErP",
+   "extraModels": [
+    "MINI 12 BF ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/3135148/Sime-Mini-16-Bf-Erp.html"
+  },
+  {
+   "manualId": "2865707",
+   "slug": "Sime-Murelle-110-Box-Erp",
+   "title": "MURELLE 110 BOX ErP User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "MURELLE 110 BOX ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2865707/Sime-Murelle-110-Box-Erp.html"
+  },
+  {
+   "manualId": "1573315",
+   "slug": "Sime-Murelle-30-Of",
+   "title": "Murelle 20 BFT Installer's instructions",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "Murelle 20 BFT",
+   "extraModels": [
+    "Murelle 20 BFT",
+    "Murelle 25 BF",
+    "Murelle 25 BFT",
+    "Murelle 25 OF",
+    "Murelle 25 OFT",
+    "Murelle 30 BF",
+    "Murelle 35 BF",
+    "Murelle series"
+   ],
+   "url": "https://www.manualslib.com/manual/1573315/Sime-Murelle-30-Of.html"
+  },
+  {
+   "manualId": "2872642",
+   "slug": "Sime-Murelle-25-Of",
+   "title": "Murelle 20 BFT Manual",
+   "type": "Other",
+   "pages": 108,
+   "productModel": "Murelle 20 BFT",
+   "extraModels": [
+    "Murelle 20 BFT",
+    "Murelle 25 BF",
+    "Murelle 25 BFT",
+    "Murelle 25 OFT",
+    "Murelle 30 BF",
+    "Murelle 30 OF",
+    "Murelle 35 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/2872642/Sime-Murelle-25-Of.html"
+  },
+  {
+   "manualId": "2782059",
+   "slug": "Sime-Murelle-20",
+   "title": "MURELLE 20 User instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "MURELLE 20",
+   "extraModels": [
+    "MURELLE 20 BF",
+    "Murelle 25 BF",
+    "MURELLE REVOLUTION 25"
+   ],
+   "url": "https://www.manualslib.com/manual/2782059/Sime-Murelle-20.html"
+  },
+  {
+   "manualId": "1390948",
+   "slug": "Sime-25-Of",
+   "title": "Murelle 25 BF Installer's instructions",
+   "type": "Installation",
+   "pages": 59,
+   "productModel": "Murelle 25 BF",
+   "extraModels": [
+    "Murelle 25 BF",
+    "Murelle 30 BF",
+    "Murelle 30 OF"
+   ],
+   "url": "https://www.manualslib.com/manual/1390948/Sime-25-Of.html"
+  },
+  {
+   "manualId": "2297551",
+   "slug": "Sime-Planet-Aquaquick-25-Bf",
+   "title": "Murelle 25 BF Installer's instructions",
+   "type": "Installation",
+   "pages": 116,
+   "productModel": "Murelle 25 BF",
+   "extraModels": [
+    "Murelle 30 BF",
+    "Planet AquaQuick 30 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/2297551/Sime-Planet-Aquaquick-25-Bf.html"
+  },
+  {
+   "manualId": "1854221",
+   "slug": "Sime-Murelle-25-Of-Erp",
+   "title": "Murelle 25 OF Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "Murelle 25 OF",
+   "extraModels": [
+    "Murelle 30 OF"
+   ],
+   "url": "https://www.manualslib.com/manual/1854221/Sime-Murelle-25-Of-Erp.html"
+  },
+  {
+   "manualId": "2172981",
+   "slug": "Sime-Murelle-25-55-Of-Erp",
+   "title": "Murelle 25/55 OF ErP Installer's instructions",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "Murelle 25/55 OF ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2172981/Sime-Murelle-25-55-Of-Erp.html"
+  },
+  {
+   "manualId": "3385088",
+   "slug": "Sime-Murelle-70-Box-Erp",
+   "title": "MURELLE 70 BOX ErP User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "MURELLE 70 BOX ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3385088/Sime-Murelle-70-Box-Erp.html"
+  },
+  {
+   "manualId": "3265864",
+   "slug": "Sime-Murelle-Elite-He-35-T-Erp",
+   "title": "MURELLE ELITE HE 35 T ErP User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "MURELLE ELITE HE 35 T ErP",
+   "extraModels": [
+    "MURELLE EV HE 30"
+   ],
+   "url": "https://www.manualslib.com/manual/3265864/Sime-Murelle-Elite-He-35-T-Erp.html"
+  },
+  {
+   "manualId": "2070786",
+   "slug": "Sime-Murelle-Equipe-100-Box-Erp",
+   "title": "MURELLE EQUIPE 100 BOX ErP Manual",
+   "type": "Other",
+   "pages": 39,
+   "productModel": "MURELLE EQUIPE 100 BOX ErP",
+   "extraModels": [
+    "MURELLE EQUIPE 150 BOX ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2070786/Sime-Murelle-Equipe-100-Box-Erp.html"
+  },
+  {
+   "manualId": "2775524",
+   "slug": "Sime-Murelle-Equipe-100-Box-Erp",
+   "title": "MURELLE EQUIPE 100 BOX ErP Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "MURELLE EQUIPE 100 BOX ErP",
+   "extraModels": [
+    "MURELLE EQUIPE 150 BOX ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2775524/Sime-Murelle-Equipe-100-Box-Erp.html"
+  },
+  {
+   "manualId": "3796985",
+   "slug": "Sime-Murelle-Equipe-100-Box-Erp",
+   "title": "MURELLE EQUIPE 100 BOX ErP Original instructions manual",
+   "type": "User / Owner",
+   "pages": 73,
+   "productModel": "MURELLE EQUIPE 100 BOX ErP",
+   "extraModels": [
+    "MURELLE EQUIPE 150 BOX ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/3796985/Sime-Murelle-Equipe-100-Box-Erp.html"
+  },
+  {
+   "manualId": "1663995",
+   "slug": "Sime-Murelle-Equipe-100-Box-Erp",
+   "title": "MURELLE EQUIPE 100 BOX ErP User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "MURELLE EQUIPE 100 BOX ErP",
+   "extraModels": [
+    "MURELLE EQUIPE 150 BOX ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/1663995/Sime-Murelle-Equipe-100-Box-Erp.html"
+  },
+  {
+   "manualId": "1958423",
+   "slug": "Sime-Murelle-Equipe-100-Box-Erp",
+   "title": "MURELLE EQUIPE 100 BOX ErP User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "MURELLE EQUIPE 100 BOX ErP",
+   "extraModels": [
+    "MURELLE EQUIPE 150 BOX ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/1958423/Sime-Murelle-Equipe-100-Box-Erp.html"
+  },
+  {
+   "manualId": "2845079",
+   "slug": "Sime-Murelle-Equipe-140-Box-Erp",
+   "title": "MURELLE EQUIPE 140 BOX ErP Manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "MURELLE EQUIPE 140 BOX ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2845079/Sime-Murelle-Equipe-140-Box-Erp.html"
+  },
+  {
+   "manualId": "3120042",
+   "slug": "Sime-8111235",
+   "title": "MURELLE EQUIPE 140 BOX ErP User, Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "MURELLE EQUIPE 140 BOX ErP",
+   "extraModels": [
+    "MURELLE EQUIPE 140 BOX ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/3120042/Sime-8111235.html"
+  },
+  {
+   "manualId": "3433739",
+   "slug": "Sime-Murelle-Equipe-140-Erp",
+   "title": "MURELLE EQUIPE 140 ErP Installation and servicing instruction",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "MURELLE EQUIPE 140 ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3433739/Sime-Murelle-Equipe-140-Erp.html"
+  },
+  {
+   "manualId": "1660774",
+   "slug": "Sime-Murelle-Equipe-220-Box",
+   "title": "MURELLE EQUIPE 220 BOX Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "MURELLE EQUIPE 220 BOX",
+   "extraModels": [
+    "MURELLE EQUIPE 330 BOX",
+    "MURELLE EQUIPE 440 BOX",
+    "MURELLE EQUIPE 550 BOX"
+   ],
+   "url": "https://www.manualslib.com/manual/1660774/Sime-Murelle-Equipe-220-Box.html"
+  },
+  {
+   "manualId": "1966790",
+   "slug": "Sime-Murelle-Equipe-220-Box-Erp",
+   "title": "MURELLE EQUIPE 220 BOX Manual",
+   "type": "Other",
+   "pages": 45,
+   "productModel": "MURELLE EQUIPE 220 BOX",
+   "extraModels": [
+    "MURELLE EQUIPE 330 BOX",
+    "MURELLE EQUIPE 440 BOX",
+    "MURELLE EQUIPE 550 BOX"
+   ],
+   "url": "https://www.manualslib.com/manual/1966790/Sime-Murelle-Equipe-220-Box-Erp.html"
+  },
+  {
+   "manualId": "2421376",
+   "slug": "Sime-Murelle-Equipe-220-Box-Erp",
+   "title": "MURELLE EQUIPE 220 BOX Manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "MURELLE EQUIPE 220 BOX",
+   "extraModels": [
+    "MURELLE EQUIPE 330 BOX",
+    "MURELLE EQUIPE 440 BOX",
+    "MURELLE EQUIPE 550 BOX"
+   ],
+   "url": "https://www.manualslib.com/manual/2421376/Sime-Murelle-Equipe-220-Box-Erp.html"
+  },
+  {
+   "manualId": "2986919",
+   "slug": "Sime-Murelle-Equipe-220-Box-Erp",
+   "title": "MURELLE EQUIPE 220 BOX Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "MURELLE EQUIPE 220 BOX",
+   "extraModels": [
+    "MURELLE EQUIPE 330 BOX",
+    "MURELLE EQUIPE 440 BOX",
+    "MURELLE EQUIPE 550 BOX",
+    "MURELLE EQUIPE 660 BOX ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2986919/Sime-Murelle-Equipe-220-Box-Erp.html"
+  },
+  {
+   "manualId": "3050711",
+   "slug": "Sime-Murelle-Equipe-220-Box",
+   "title": "MURELLE EQUIPE 220 BOX Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "MURELLE EQUIPE 220 BOX",
+   "extraModels": [
+    "MURELLE EQUIPE 330 BOX",
+    "MURELLE EQUIPE 440 BOX",
+    "MURELLE EQUIPE 550 BOX"
+   ],
+   "url": "https://www.manualslib.com/manual/3050711/Sime-Murelle-Equipe-220-Box.html"
+  },
+  {
+   "manualId": "2986937",
+   "slug": "Sime-Murelle-Equipe-220-Box-Erp",
+   "title": "MURELLE EQUIPE 220 BOX User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "MURELLE EQUIPE 220 BOX",
+   "extraModels": [
+    "MURELLE EQUIPE 330 BOX",
+    "MURELLE EQUIPE 440 BOX",
+    "MURELLE EQUIPE 550 BOX",
+    "MURELLE EQUIPE 660 BOX ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2986937/Sime-Murelle-Equipe-220-Box-Erp.html"
+  },
+  {
+   "manualId": "3433112",
+   "slug": "Sime-Murelle-Equipe-220-Erp",
+   "title": "MURELLE EQUIPE 220 ErP Installation and servicing instruction",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "MURELLE EQUIPE 220 ErP",
+   "extraModels": [
+    "MURELLE EQUIPE 330 ErP",
+    "MURELLE EQUIPE 440 ErP",
+    "MURELLE EQUIPE 550 ErP",
+    "MURELLE EQUIPE 660 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/3433112/Sime-Murelle-Equipe-220-Erp.html"
+  },
+  {
+   "manualId": "1748887",
+   "slug": "Sime-Murelle-Equipe-220-Erp",
+   "title": "MURELLE EQUIPE 220 ErP Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "MURELLE EQUIPE 220 ErP",
+   "extraModels": [
+    "MURELLE EQUIPE 330 ErP",
+    "MURELLE EQUIPE 440 ErP",
+    "MURELLE EQUIPE 550 ErP",
+    "MURELLE EQUIPE 660 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/1748887/Sime-Murelle-Equipe-220-Erp.html"
+  },
+  {
+   "manualId": "4206610",
+   "slug": "Sime-Murelle-Equipe-70-Erp",
+   "title": "MURELLE EQUIPE 70 ErP Installation and servicing instruction",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "MURELLE EQUIPE 70 ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4206610/Sime-Murelle-Equipe-70-Erp.html"
+  },
+  {
+   "manualId": "3231600",
+   "slug": "Sime-Murelle-Equipe-70-105-Box-Erp",
+   "title": "MURELLE EQUIPE 70-105 BOX ErP Original instructions manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "MURELLE EQUIPE 70-105 BOX ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3231600/Sime-Murelle-Equipe-70-105-Box-Erp.html"
+  },
+  {
+   "manualId": "2248900",
+   "slug": "Sime-Murelle-Ev-25-Of",
+   "title": "MURELLE EV 20 BFT Manual",
+   "type": "Other",
+   "pages": 116,
+   "productModel": "MURELLE EV 20 BFT",
+   "extraModels": [
+    "MURELLE EV 20 BFT",
+    "MURELLE EV 25 BF",
+    "MURELLE EV 25 BFT",
+    "MURELLE EV 30 BF",
+    "MURELLE EV 30 OF",
+    "MURELLE EV 35 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/2248900/Sime-Murelle-Ev-25-Of.html"
+  },
+  {
+   "manualId": "2443849",
+   "slug": "Sime-Murelle-Ev-25-55-Of",
+   "title": "MURELLE EV 25/55 BF Manual",
+   "type": "Other",
+   "pages": 108,
+   "productModel": "MURELLE EV 25/55 BF",
+   "extraModels": [
+    "MURELLE EV 25/55 BF",
+    "MURELLE EV 30/55 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/2443849/Sime-Murelle-Ev-25-55-Of.html"
+  },
+  {
+   "manualId": "1106104",
+   "slug": "Sime-Murelle-Ev-He-25",
+   "title": "MURELLE EV HE 12 T Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "MURELLE EV HE 12 T",
+   "extraModels": [
+    "MURELLE EV HE 12 T",
+    "MURELLE EV HE 20 T",
+    "MURELLE EV HE 25 T",
+    "MURELLE EV HE 30",
+    "MURELLE EV HE 30 T",
+    "MURELLE EV HE 35",
+    "MURELLE EV HE 35 T"
+   ],
+   "url": "https://www.manualslib.com/manual/1106104/Sime-Murelle-Ev-He-25.html"
+  },
+  {
+   "manualId": "1664267",
+   "slug": "Sime-Murelle-He-Erp-Series",
+   "title": "MURELLE EV HE 12 T Installer's instructions",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "MURELLE EV HE 12 T",
+   "extraModels": [
+    "MURELLE EV HE 12 T",
+    "MURELLE EV HE 25 T",
+    "MURELLE HE T ErP Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1664267/Sime-Murelle-He-Erp-Series.html"
+  },
+  {
+   "manualId": "1297339",
+   "slug": "Sime-Murelle-He-25-Erp",
+   "title": "MURELLE EV HE 12 T Manual",
+   "type": "Other",
+   "pages": 112,
+   "productModel": "MURELLE EV HE 12 T",
+   "extraModels": [
+    "MURELLE EV HE 12 T",
+    "MURELLE EV HE 25 T",
+    "MURELLE EV HE 30 T",
+    "MURELLE EV HE 35 T",
+    "MURELLE HE 30 ErP",
+    "MURELLE HE 35 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/1297339/Sime-Murelle-He-25-Erp.html"
+  },
+  {
+   "manualId": "2976910",
+   "slug": "Sime-Murelle-He-Erp-Series",
+   "title": "MURELLE EV HE 12 T Manual",
+   "type": "Other",
+   "pages": 120,
+   "productModel": "MURELLE EV HE 12 T",
+   "extraModels": [
+    "MURELLE EV HE 12 T",
+    "MURELLE EV HE 25 T",
+    "MURELLE EV HE 30 T",
+    "MURELLE EV HE 35 T",
+    "MURELLE HE 25 ErP",
+    "MURELLE HE 30 ErP",
+    "MURELLE HE 35 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2976910/Sime-Murelle-He-Erp-Series.html"
+  },
+  {
+   "manualId": "1465169",
+   "slug": "Sime-Murelle-Ev-He-12-System",
+   "title": "MURELLE EV HE 12 T User instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "MURELLE EV HE 12 T",
+   "extraModels": [
+    "MURELLE EV HE 12 T",
+    "MURELLE EV HE 20 T",
+    "MURELLE EV HE 25 T",
+    "MURELLE EV HE 30",
+    "MURELLE EV HE 30 T",
+    "MURELLE EV HE 35",
+    "MURELLE EV HE 35 T",
+    "MURELLE HE 25",
+    "Murelle System HE 20"
+   ],
+   "url": "https://www.manualslib.com/manual/1465169/Sime-Murelle-Ev-He-12-System.html"
+  },
+  {
+   "manualId": "1174297",
+   "slug": "Sime-Murelle-System-He-12",
+   "title": "MURELLE EV HE 30 Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "MURELLE EV HE 30",
+   "extraModels": [
+    "MURELLE EV HE 30",
+    "MURELLE EV HE 35",
+    "MURELLE HE 25",
+    "Murelle System HE 20"
+   ],
+   "url": "https://www.manualslib.com/manual/1174297/Sime-Murelle-System-He-12.html"
+  },
+  {
+   "manualId": "1197616",
+   "slug": "Sime-Murelle-Ev-He-30",
+   "title": "MURELLE EV HE 30 Installation instruction",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "MURELLE EV HE 30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1197616/Sime-Murelle-Ev-He-30.html"
+  },
+  {
+   "manualId": "2583571",
+   "slug": "Sime-Murelle-Elite-He-30",
+   "title": "MURELLE EV HE 30 User instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "MURELLE EV HE 30",
+   "extraModels": [
+    "MURELLE EV HE 35",
+    "MURELLE EV HE 35 T"
+   ],
+   "url": "https://www.manualslib.com/manual/2583571/Sime-Murelle-Elite-He-30.html"
+  },
+  {
+   "manualId": "3917206",
+   "slug": "Sime-Murelle-Ev-He-30-55",
+   "title": "MURELLE EV HE 30/55 User instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "MURELLE EV HE 30/55",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3917206/Sime-Murelle-Ev-He-30-55.html"
+  },
+  {
+   "manualId": "3006192",
+   "slug": "Sime-Murelle-Ev",
+   "title": "MURELLE EV Installer's instructions",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "MURELLE EV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3006192/Sime-Murelle-Ev.html"
+  },
+  {
+   "manualId": "2800009",
+   "slug": "Sime-Murelle-Green-Planet-110-He-I",
+   "title": "Murelle Green Planet 110 HE I Installation, use and service instructions",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "Murelle Green Planet 110 HE I",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2800009/Sime-Murelle-Green-Planet-110-He-I.html"
+  },
+  {
+   "manualId": "2753223",
+   "slug": "Sime-Murelle-Green-Planet-50-He-I",
+   "title": "MURELLE GREEN PLANET 50 HE I Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "MURELLE GREEN PLANET 50 HE I",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2753223/Sime-Murelle-Green-Planet-50-He-I.html"
+  },
+  {
+   "manualId": "3032083",
+   "slug": "Sime-Murelle-He-110-R-I",
+   "title": "MURELLE HE 110 R ErP Installation and service instructions manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "MURELLE HE 110 R ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3032083/Sime-Murelle-He-110-R-I.html"
+  },
+  {
+   "manualId": "2916721",
+   "slug": "Sime-Murelle-He-110-R-Erp",
+   "title": "MURELLE HE 110 R ErP Original instructions manual",
+   "type": "User / Owner",
+   "pages": 88,
+   "productModel": "MURELLE HE 110 R ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2916721/Sime-Murelle-He-110-R-Erp.html"
+  },
+  {
+   "manualId": "3431775",
+   "slug": "Sime-Murelle-He-110-R-Erp",
+   "title": "MURELLE HE 110 R ErP User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "MURELLE HE 110 R ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3431775/Sime-Murelle-He-110-R-Erp.html"
+  },
+  {
+   "manualId": "2332090",
+   "slug": "Sime-Murelle-He-110-R",
+   "title": "MURELLE HE 110 R Manual",
+   "type": "Other",
+   "pages": 100,
+   "productModel": "MURELLE HE 110 R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2332090/Sime-Murelle-He-110-R.html"
+  },
+  {
+   "manualId": "1465176",
+   "slug": "Sime-Murelle-He-110-R-Erp",
+   "title": "MURELLE HE 110 R User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "MURELLE HE 110 R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1465176/Sime-Murelle-He-110-R-Erp.html"
+  },
+  {
+   "manualId": "2803231",
+   "slug": "Sime-Murelle-He-25-Bf",
+   "title": "MURELLE HE 12 BFT Manual",
+   "type": "Other",
+   "pages": 100,
+   "productModel": "MURELLE HE 12 BFT",
+   "extraModels": [
+    "MURELLE HE 12 BFT",
+    "MURELLE HE 20 BFT",
+    "MURELLE HE 25 BFT",
+    "MURELLE HE 30 BF",
+    "MURELLE HE 30 BFT",
+    "MURELLE HE 35 BF",
+    "MURELLE HE 35 BFT"
+   ],
+   "url": "https://www.manualslib.com/manual/2803231/Sime-Murelle-He-25-Bf.html"
+  },
+  {
+   "manualId": "4204178",
+   "slug": "Sime-Murelle-He-150-R-Erp",
+   "title": "MURELLE HE 150 R ErP User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "MURELLE HE 150 R ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4204178/Sime-Murelle-He-150-R-Erp.html"
+  },
+  {
+   "manualId": "1074432",
+   "slug": "Sime-Murelle-He-25",
+   "title": "MURELLE HE 25 Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "MURELLE HE 25",
+   "extraModels": [
+    "MURELLE HE 55",
+    "MURELLE HE 55-30"
+   ],
+   "url": "https://www.manualslib.com/manual/1074432/Sime-Murelle-He-25.html"
+  },
+  {
+   "manualId": "1075651",
+   "slug": "Sime-Murelle-Ev-He-25",
+   "title": "MURELLE HE 25 Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "MURELLE HE 25",
+   "extraModels": [
+    "MURELLE HE 55",
+    "MURELLE HE 55-30"
+   ],
+   "url": "https://www.manualslib.com/manual/1075651/Sime-Murelle-Ev-He-25.html"
+  },
+  {
+   "manualId": "1120001",
+   "slug": "Sime-Murelle-He-25",
+   "title": "MURELLE HE 25 User instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "MURELLE HE 25",
+   "extraModels": [
+    "MURELLE HE 55",
+    "MURELLE HE 55-30"
+   ],
+   "url": "https://www.manualslib.com/manual/1120001/Sime-Murelle-He-25.html"
+  },
+  {
+   "manualId": "2638779",
+   "slug": "Sime-Murelle-He-25-30-Erp",
+   "title": "MURELLE HE 25-30 ErP Original instructions manual",
+   "type": "User / Owner",
+   "pages": 112,
+   "productModel": "MURELLE HE 25-30 ErP",
+   "extraModels": [
+    "MURELLE HE 25-55 ErP",
+    "Murelle HE 30/55 Erp"
+   ],
+   "url": "https://www.manualslib.com/manual/2638779/Sime-Murelle-He-25-30-Erp.html"
+  },
+  {
+   "manualId": "2772900",
+   "slug": "Sime-Murelle-He-25-55-Erp",
+   "title": "MURELLE HE 25-55 ErP Installer's instructions",
+   "type": "Installation",
+   "pages": 104,
+   "productModel": "MURELLE HE 25-55 ErP",
+   "extraModels": [
+    "Murelle HE 30/55 Erp"
+   ],
+   "url": "https://www.manualslib.com/manual/2772900/Sime-Murelle-He-25-55-Erp.html"
+  },
+  {
+   "manualId": "2978833",
+   "slug": "Sime-Murelle-He-3-5-R-Erp",
+   "title": "MURELLE HE 3 5 R ErP Manual",
+   "type": "Other",
+   "pages": 116,
+   "productModel": "MURELLE HE 3 5 R ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2978833/Sime-Murelle-He-3-5-R-Erp.html"
+  },
+  {
+   "manualId": "1281315",
+   "slug": "Sime-Murelle-He-35-R",
+   "title": "murelle HE 35 R Installation and servicing instrucnions",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "murelle HE 35 R",
+   "extraModels": [
+    "murelle HE 35 RM"
+   ],
+   "url": "https://www.manualslib.com/manual/1281315/Sime-Murelle-He-35-R.html"
+  },
+  {
+   "manualId": "1564222",
+   "slug": "Sime-Murelle-Hm-35-R-M",
+   "title": "murelle HE 35 R Installer's instructions",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "murelle HE 35 R",
+   "extraModels": [
+    "murelle HE 35 R"
+   ],
+   "url": "https://www.manualslib.com/manual/1564222/Sime-Murelle-Hm-35-R-M.html"
+  },
+  {
+   "manualId": "2775128",
+   "slug": "Sime-Murelle-He-35-R",
+   "title": "murelle HE 35 R Installer's instructions",
+   "type": "Installation",
+   "pages": 112,
+   "productModel": "murelle HE 35 R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2775128/Sime-Murelle-He-35-R.html"
+  },
+  {
+   "manualId": "2229389",
+   "slug": "Sime-Murelle-He-35-R-Erp",
+   "title": "murelle HE 35 R User instructions",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "murelle HE 35 R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2229389/Sime-Murelle-He-35-R-Erp.html"
+  },
+  {
+   "manualId": "1748400",
+   "slug": "Sime-Murelle-He-70-R-Erp",
+   "title": "murelle HE 35 R User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "murelle HE 35 R",
+   "extraModels": [
+    "murelle HE 35 R",
+    "MURELLE HE 50 R"
+   ],
+   "url": "https://www.manualslib.com/manual/1748400/Sime-Murelle-He-70-R-Erp.html"
+  },
+  {
+   "manualId": "2978451",
+   "slug": "Sime-Murelle-He-35-R-Erp",
+   "title": "murelle HE 35 R User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "murelle HE 35 R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2978451/Sime-Murelle-He-35-R-Erp.html"
+  },
+  {
+   "manualId": "3032056",
+   "slug": "Sime-Murelle-He-50-R-E",
+   "title": "MURELLE HE 50 R E Installation and service instructions manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "MURELLE HE 50 R E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3032056/Sime-Murelle-He-50-R-E.html"
+  },
+  {
+   "manualId": "3702981",
+   "slug": "Sime-Murelle-He-50-R",
+   "title": "MURELLE HE 50 R E Installer's Instructions",
+   "type": "Installation",
+   "pages": 104,
+   "productModel": "MURELLE HE 50 R E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3702981/Sime-Murelle-He-50-R.html"
+  },
+  {
+   "manualId": "3226064",
+   "slug": "Sime-Murelle-He-50-R-Erp",
+   "title": "MURELLE HE 50 R E instructions manual",
+   "type": "User / Owner",
+   "pages": 96,
+   "productModel": "MURELLE HE 50 R E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3226064/Sime-Murelle-He-50-R-Erp.html"
+  },
+  {
+   "manualId": "3433098",
+   "slug": "Sime-Murelle-He-70-R-Erp",
+   "title": "MURELLE HE 50 R E User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "MURELLE HE 50 R E",
+   "extraModels": [
+    "MURELLE HE 50 R E"
+   ],
+   "url": "https://www.manualslib.com/manual/3433098/Sime-Murelle-He-70-R-Erp.html"
+  },
+  {
+   "manualId": "1373044",
+   "slug": "Sime-Murelle-He-50-R-M",
+   "title": "MURELLE HE 50 R Installer's instructions",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "MURELLE HE 50 R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1373044/Sime-Murelle-He-50-R-M.html"
+  },
+  {
+   "manualId": "1224834",
+   "slug": "Sime-Murelle-He-50-R",
+   "title": "MURELLE HE 50 R User instructions",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "MURELLE HE 50 R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1224834/Sime-Murelle-He-50-R.html"
+  },
+  {
+   "manualId": "1681688",
+   "slug": "Sime-Murelle-He-70-R-Erp",
+   "title": "MURELLE HE 70 R ErP Installer's instructions",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "MURELLE HE 70 R ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1681688/Sime-Murelle-He-70-R-Erp.html"
+  },
+  {
+   "manualId": "2646373",
+   "slug": "Sime-Murelle-He-70-R-Erp",
+   "title": "MURELLE HE 70 R ErP Manual",
+   "type": "Other",
+   "pages": 96,
+   "productModel": "MURELLE HE 70 R ErP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2646373/Sime-Murelle-He-70-R-Erp.html"
+  },
+  {
+   "manualId": "1631256",
+   "slug": "Sime-Murelle-Hm-25-Erp",
+   "title": "MURELLE HM 35 T ErP Installer's instructions",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "MURELLE HM 35 T ErP",
+   "extraModels": [
+    "MURELLE HM  35 T ErP",
+    "MURELLE HM 25 T ErP",
+    "MURELLE HM 30 ErP",
+    "MURELLE HM 35 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/1631256/Sime-Murelle-Hm-25-Erp.html"
+  },
+  {
+   "manualId": "2558044",
+   "slug": "Sime-Murelle-Hm-Erp-Series",
+   "title": "MURELLE HM 35 T ErP Manual",
+   "type": "Other",
+   "pages": 128,
+   "productModel": "MURELLE HM 35 T ErP",
+   "extraModels": [
+    "MURELLE HM  35 T ErP",
+    "MURELLE HM 25 ErP",
+    "MURELLE HM 25 T ErP",
+    "MURELLE HM 30 ErP",
+    "MURELLE HM 35 ErP"
+   ],
+   "url": "https://www.manualslib.com/manual/2558044/Sime-Murelle-Hm-Erp-Series.html"
+  },
+  {
+   "manualId": "2207360",
+   "slug": "Sime-Murelle-Hm",
+   "title": "MURELLE HM Manual",
+   "type": "Other",
+   "pages": 120,
+   "productModel": "MURELLE HM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2207360/Sime-Murelle-Hm.html"
+  },
+  {
+   "manualId": "3531685",
+   "slug": "Sime-Murelle-Hr-35-R-M",
+   "title": "MURELLE HR 35 R (M) Installation and servicing instruction",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "MURELLE HR 35 R (M)",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3531685/Sime-Murelle-Hr-35-R-M.html"
+  },
+  {
+   "manualId": "2397017",
+   "slug": "Sime-Murelle-Hr-50-R",
+   "title": "MURELLE HR 50 R Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "MURELLE HR 50 R",
+   "extraModels": [
+    "MURELLE HR 50 RM"
+   ],
+   "url": "https://www.manualslib.com/manual/2397017/Sime-Murelle-Hr-50-R.html"
+  },
+  {
+   "manualId": "1618791",
+   "slug": "Sime-Murelle-Ht-25-Met",
+   "title": "MURELLE HT 25 GPL User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 77,
+   "productModel": "MURELLE HT 25 GPL",
+   "extraModels": [
+    "MURELLE HT 25 GPL",
+    "MURELLE HT 30 GPL",
+    "MURELLE HT 30 MET",
+    "MURELLE HT 35 GPL",
+    "MURELLE HT 35 MET",
+    "MURELLE HT Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1618791/Sime-Murelle-Ht-25-Met.html"
+  },
+  {
+   "manualId": "1156820",
+   "slug": "Sime-Murelle",
+   "title": "MURELLE Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "MURELLE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1156820/Sime-Murelle.html"
+  },
+  {
+   "manualId": "1308360",
+   "slug": "Sime-Murelle-Pro-25-Lpg",
+   "title": "Murelle Pro 25 LPG Use, installation & servicing instructions",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Murelle Pro 25 LPG",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1308360/Sime-Murelle-Pro-25-Lpg.html"
+  },
+  {
+   "manualId": "3163239",
+   "slug": "Sime-Murelle-Pro-He-25-Lpg",
+   "title": "MURELLE PRO HE 25 LPG Installation and servicing instruction",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "MURELLE PRO HE 25 LPG",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3163239/Sime-Murelle-Pro-He-25-Lpg.html"
+  },
+  {
+   "manualId": "1660880",
+   "slug": "Sime-Murelle-Pro-He-Mkii",
+   "title": "MURELLE PRO HE MkII User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "MURELLE PRO HE MkII",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1660880/Sime-Murelle-Pro-He-Mkii.html"
+  },
+  {
+   "manualId": "1358298",
+   "slug": "Sime-Murelle-Revolution-25",
+   "title": "MURELLE REVOLUTION 25 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "MURELLE REVOLUTION 25",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1358298/Sime-Murelle-Revolution-25.html"
+  },
+  {
+   "manualId": "1588588",
+   "slug": "Sime-Murelle-Revolution-30",
+   "title": "MURELLE REVOLUTION 30 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "MURELLE REVOLUTION 30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1588588/Sime-Murelle-Revolution-30.html"
+  },
+  {
+   "manualId": "3137659",
+   "slug": "Sime-Murelle-Revolution-30",
+   "title": "MURELLE REVOLUTION 30 User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "MURELLE REVOLUTION 30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3137659/Sime-Murelle-Revolution-30.html"
+  },
+  {
+   "manualId": "3912084",
+   "slug": "Sime-Murelle-Ht-35-T",
+   "title": "MURELLE.HT 35 T User, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "MURELLE.HT 35 T",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3912084/Sime-Murelle-Ht-35-T.html"
+  },
+  {
+   "manualId": "3874919",
+   "slug": "Sime-Natural-200s",
+   "title": "Natural 200S Manual",
+   "type": "Other",
+   "pages": 29,
+   "productModel": "Natural 200S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3874919/Sime-Natural-200s.html"
+  },
+  {
+   "manualId": "2603324",
+   "slug": "Sime-Natural-300-8-16-S",
+   "title": "NATURAL 300/8.16 S Installation And Servicing Instruction",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "NATURAL 300/8.16 S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2603324/Sime-Natural-300-8-16-S.html"
+  },
+  {
+   "manualId": "3362879",
+   "slug": "Sime-Open-25-Bf-Ts2",
+   "title": "Open 25 BF TS2 Installer's instructions",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "Open 25 BF TS2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3362879/Sime-Open-25-Bf-Ts2.html"
+  },
+  {
+   "manualId": "2346378",
+   "slug": "Sime-Open-Dgt",
+   "title": "OPEN DGT Manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "OPEN DGT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2346378/Sime-Open-Dgt.html"
+  },
+  {
+   "manualId": "1361786",
+   "slug": "Sime-Open-Hybrid-Mem-25-006",
+   "title": "Open Hybrid MEM 25-006 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Open Hybrid MEM 25-006",
+   "extraModels": [
+    "Open Hybrid MEM 25-006 S",
+    "Open Hybrid MEM 25-009",
+    "Open Hybrid MEM 25-009 S",
+    "Open Hybrid MEM 25-012",
+    "Open Hybrid MEM 25-012 S",
+    "Open Hybrid MEM 30-006",
+    "Open Hybrid MEM 30-006 S",
+    "Open Hybrid MEM 30-009",
+    "Open Hybrid MEM 30-009 S",
+    "Open Hybrid MEM 30-012",
+    "Open Hybrid MEM 30-012 S",
+    "Open Hybrid MEM 35-006",
+    "Open Hybrid MEM 35-006 S",
+    "Open Hybrid MEM 35-009",
+    "Open Hybrid MEM 35-009 S",
+    "Open Hybrid MEM 35-012",
+    "Open Hybrid MEM 35-012 S"
+   ],
+   "url": "https://www.manualslib.com/manual/1361786/Sime-Open-Hybrid-Mem-25-006.html"
+  },
+  {
+   "manualId": "3908219",
+   "slug": "Sime-Open-Hybrid-Mem-Eco-30-10",
+   "title": "OPEN HYBRID MEM ECO 30-10 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "OPEN HYBRID MEM ECO 30-10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3908219/Sime-Open-Hybrid-Mem-Eco-30-10.html"
+  },
+  {
+   "manualId": "3908220",
+   "slug": "Sime-Open-Hybrid-Mem-Eco-30-10-S",
+   "title": "OPEN HYBRID MEM ECO 30-10 S Installation and maintenance manual",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "OPEN HYBRID MEM ECO 30-10 S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3908220/Sime-Open-Hybrid-Mem-Eco-30-10-S.html"
+  },
+  {
+   "manualId": "2983267",
+   "slug": "Sime-Open-Hybrid-Mem-Pro",
+   "title": "OPEN HYBRID MEM PRO user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "OPEN HYBRID MEM PRO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2983267/Sime-Open-Hybrid-Mem-Pro.html"
+  },
+  {
+   "manualId": "3908218",
+   "slug": "Sime-Open-Hybrid-Mem-Eco-25-12",
+   "title": "OPEN HYBRID MEM-ECO 25-12 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "OPEN HYBRID MEM-ECO 25-12",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3908218/Sime-Open-Hybrid-Mem-Eco-25-12.html"
+  },
+  {
+   "manualId": "1363748",
+   "slug": "Sime-Open-Hybrid-Smart-25-8",
+   "title": "Open Hybrid SMART 25-10 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "Open Hybrid SMART 25-10",
+   "extraModels": [
+    "Open Hybrid SMART 25-10",
+    "Open Hybrid SMART 25-10 S",
+    "Open Hybrid SMART 25-12",
+    "Open Hybrid SMART 25-12 S",
+    "Open Hybrid SMART 25-6",
+    "Open Hybrid SMART 25-8 S",
+    "Open Hybrid SMART 26-6 S"
+   ],
+   "url": "https://www.manualslib.com/manual/1363748/Sime-Open-Hybrid-Smart-25-8.html"
+  },
+  {
+   "manualId": "2949684",
+   "slug": "Sime-Open-Hybrid-Smart",
+   "title": "OPEN HYBRID SMART user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "OPEN HYBRID SMART",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2949684/Sime-Open-Hybrid-Smart.html"
+  },
+  {
+   "manualId": "2558190",
+   "slug": "Sime-Open-Zip-6-25-Bf",
+   "title": "Open.zip 6 25 BF Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "Open.zip 6 25 BF",
+   "extraModels": [
+    "Open.zip 6 30 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/2558190/Sime-Open-Zip-6-25-Bf.html"
+  },
+  {
+   "manualId": "2773657",
+   "slug": "Sime-Planet-Series",
+   "title": "Planet 25 BF Installer's instructions",
+   "type": "Installation",
+   "pages": 140,
+   "productModel": "Planet 25 BF",
+   "extraModels": [
+    "Planet 25 BF",
+    "Planet 25 BFR",
+    "Planet 25 BFT",
+    "Planet 25 OF",
+    "Planet 30 BF",
+    "Planet 30 OF"
+   ],
+   "url": "https://www.manualslib.com/manual/2773657/Sime-Planet-Series.html"
+  },
+  {
+   "manualId": "2922142",
+   "slug": "Sime-Planet-25-Of-C",
+   "title": "PLANET 25 BFT TS Manual",
+   "type": "Other",
+   "pages": 212,
+   "productModel": "PLANET 25 BFT TS",
+   "extraModels": [
+    "PLANET 25 BFT TS",
+    "PLANET 30 OF C"
+   ],
+   "url": "https://www.manualslib.com/manual/2922142/Sime-Planet-25-Of-C.html"
+  },
+  {
+   "manualId": "1122032",
+   "slug": "Sime-Planet-25-60-Bf",
+   "title": "PLANET 25/60 BF Installer's instructions",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "PLANET 25/60 BF",
+   "extraModels": [
+    "PLANET 30/60 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/1122032/Sime-Planet-25-60-Bf.html"
+  },
+  {
+   "manualId": "2382627",
+   "slug": "Sime-Planet-Dewy-60-Bfr",
+   "title": "Planet Dewy 100 BFR Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Planet Dewy 100 BFR",
+   "extraModels": [
+    "Planet Dewy 100 BFR"
+   ],
+   "url": "https://www.manualslib.com/manual/2382627/Sime-Planet-Dewy-60-Bfr.html"
+  },
+  {
+   "manualId": "1399833",
+   "slug": "Sime-Planet-Dewy-60-Bfr",
+   "title": "Planet Dewy 100 BFR User instructions",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "Planet Dewy 100 BFR",
+   "extraModels": [
+    "Planet Dewy 100 BFR"
+   ],
+   "url": "https://www.manualslib.com/manual/1399833/Sime-Planet-Dewy-60-Bfr.html"
+  },
+  {
+   "manualId": "3832101",
+   "slug": "Sime-Planet-Dewy-100",
+   "title": "PLANET DEWY 100 Installer's instructions",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "PLANET DEWY 100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3832101/Sime-Planet-Dewy-100.html"
+  },
+  {
+   "manualId": "1127958",
+   "slug": "Sime-Planet-Dewy-30-Bf",
+   "title": "PLANET DEWY 30 BF Installer's instructions",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "PLANET DEWY 30 BF",
+   "extraModels": [
+    "Planet Dewy 50 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/1127958/Sime-Planet-Dewy-30-Bf.html"
+  },
+  {
+   "manualId": "1704176",
+   "slug": "Sime-Planet-Dewy-30-Bf",
+   "title": "PLANET DEWY 30 BF User instruction",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "PLANET DEWY 30 BF",
+   "extraModels": [
+    "Planet Dewy 50 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/1704176/Sime-Planet-Dewy-30-Bf.html"
+  },
+  {
+   "manualId": "1123506",
+   "slug": "Sime-Planet-Dewy-30-Bfr",
+   "title": "PLANET DEWY 30 BFR installation manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "PLANET DEWY 30 BFR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1123506/Sime-Planet-Dewy-30-Bfr.html"
+  },
+  {
+   "manualId": "847555",
+   "slug": "Sime-Planet-Dewy-30",
+   "title": "Planet Dewy 30 Installation instruction and care manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "Planet Dewy 30",
+   "extraModels": [
+    "PLANET DEWY 30 BF",
+    "Planet Dewy 30 BFT",
+    "Planet Dewy 50 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/847555/Sime-Planet-Dewy-30.html"
+  },
+  {
+   "manualId": "1143397",
+   "slug": "Sime-Planet-Dewy-60-Bfr",
+   "title": "Planet Dewy 60 BFR Installer's instructions",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "Planet Dewy 60 BFR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1143397/Sime-Planet-Dewy-60-Bfr.html"
+  },
+  {
+   "manualId": "2157066",
+   "slug": "Sime-Planet-Dewy-60-Bfr",
+   "title": "Planet Dewy 60 BFR Installer's instructions",
+   "type": "Installation",
+   "pages": 184,
+   "productModel": "Planet Dewy 60 BFR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2157066/Sime-Planet-Dewy-60-Bfr.html"
+  },
+  {
+   "manualId": "988076",
+   "slug": "Sime-Planet-Dewy-60",
+   "title": "PLANET DEWY 60 Installer's instructions",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "PLANET DEWY 60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/988076/Sime-Planet-Dewy-60.html"
+  },
+  {
+   "manualId": "1782106",
+   "slug": "Sime-Planet-Series",
+   "title": "Planet Series User instructions",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Planet Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1782106/Sime-Planet-Series.html"
+  },
+  {
+   "manualId": "1659591",
+   "slug": "Sime-Planet-Super-4-F-S",
+   "title": "Planet Super 4 F.S. Installation & servicing instructions manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "Planet Super 4 F.S.",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1659591/Sime-Planet-Super-4-F-S.html"
+  },
+  {
+   "manualId": "1367198",
+   "slug": "Sime-Planet-Super-4-F-S",
+   "title": "Planet Super 4 F.S. User instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Planet Super 4 F.S.",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1367198/Sime-Planet-Super-4-F-S.html"
+  },
+  {
+   "manualId": "1195230",
+   "slug": "Sime-Planet-Super-4-Wm",
+   "title": "Planet Super 4 WM Installation & servicing instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Planet Super 4 WM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1195230/Sime-Planet-Super-4-Wm.html"
+  },
+  {
+   "manualId": "1344544",
+   "slug": "Sime-Q1",
+   "title": "Q1 user manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "Q1",
+   "extraModels": [
+    "Smart Q"
+   ],
+   "url": "https://www.manualslib.com/manual/1344544/Sime-Q1.html"
+  },
+  {
+   "manualId": "2533257",
+   "slug": "Sime-Smart",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2533257/Sime-Smart.html"
+  },
+  {
+   "manualId": "3877394",
+   "slug": "Sime-Reflex",
+   "title": "Reflex INSTALLATION, USE, MAINTENANCE, SPARE PARTS",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "Reflex",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877394/Sime-Reflex.html"
+  },
+  {
+   "manualId": "3891316",
+   "slug": "Sime-River",
+   "title": "RIVER Operation, Installation, Maintenance, Spare Parts",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "RIVER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3891316/Sime-River.html"
+  },
+  {
+   "manualId": "1762128",
+   "slug": "Sime-Rmg-Series",
+   "title": "RMG 100 Installer's instructions",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "RMG 100",
+   "extraModels": [
+    "RMG 100",
+    "RMG 70",
+    "RMG 80",
+    "RMG 90"
+   ],
+   "url": "https://www.manualslib.com/manual/1762128/Sime-Rmg-Series.html"
+  },
+  {
+   "manualId": "3366836",
+   "slug": "Sime-Rmg-70-Mk-Ii",
+   "title": "RMG 100 Mk.II installation instructions manual",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "RMG 100 Mk.II",
+   "extraModels": [
+    "RMG 100 Mk.II",
+    "RMG 80 Mk.II",
+    "RMG 90 Mk.II"
+   ],
+   "url": "https://www.manualslib.com/manual/3366836/Sime-Rmg-70-Mk-Ii.html"
+  },
+  {
+   "manualId": "1179640",
+   "slug": "Sime-Rmg-100-Mk-Ii",
+   "title": "RMG 100 Mk.II Installer's Instructions",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "RMG 100 Mk.II",
+   "extraModels": [
+    "RMG 70 Mk.II",
+    "RMG 80 Mk.II",
+    "RMG 90 Mk.II"
+   ],
+   "url": "https://www.manualslib.com/manual/1179640/Sime-Rmg-100-Mk-Ii.html"
+  },
+  {
+   "manualId": "1982803",
+   "slug": "Sime-Rmg-Mk-Ii-Series",
+   "title": "RMG 100 Mk.II Installer's Instructions",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "RMG 100 Mk.II",
+   "extraModels": [
+    "RMG 100 Mk.II",
+    "RMG 70 Mk.II",
+    "RMG 80 Mk.II",
+    "RMG 90 Mk.II",
+    "RMG 110 Mk.II"
+   ],
+   "url": "https://www.manualslib.com/manual/1982803/Sime-Rmg-Mk-Ii-Series.html"
+  },
+  {
+   "manualId": "4646750",
+   "slug": "Sime-Rmg-70-Mk-Ii",
+   "title": "RMG 100 Mk.II Manual",
+   "type": "Other",
+   "pages": 136,
+   "productModel": "RMG 100 Mk.II",
+   "extraModels": [
+    "RMG 100 Mk.II",
+    "RMG 80 Mk.II",
+    "RMG 90 Mk.II",
+    "RMG 110 Mk.II"
+   ],
+   "url": "https://www.manualslib.com/manual/4646750/Sime-Rmg-70-Mk-Ii.html"
+  },
+  {
+   "manualId": "4566554",
+   "slug": "Sime-Rmg-70-Mk-Ii",
+   "title": "RMG 100 Mk.II User'smanual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "RMG 100 Mk.II",
+   "extraModels": [
+    "RMG 100 Mk.II",
+    "RMG 80 Mk.II",
+    "RMG 90 Mk.II",
+    "RMG 110 Mk.II"
+   ],
+   "url": "https://www.manualslib.com/manual/4566554/Sime-Rmg-70-Mk-Ii.html"
+  },
+  {
+   "manualId": "2941155",
+   "slug": "Sime-Rmg-70-P",
+   "title": "RMG 100 P Installer's instructions",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "RMG 100 P",
+   "extraModels": [
+    "RMG 100 P",
+    "RMG 80 P",
+    "RMG 90 P"
+   ],
+   "url": "https://www.manualslib.com/manual/2941155/Sime-Rmg-70-P.html"
+  },
+  {
+   "manualId": "3323795",
+   "slug": "Sime-Rmg-70-P",
+   "title": "RMG 100 P Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "RMG 100 P",
+   "extraModels": [
+    "RMG 100 P",
+    "RMG 110 P",
+    "RMG 80 P",
+    "RMG 90 P"
+   ],
+   "url": "https://www.manualslib.com/manual/3323795/Sime-Rmg-70-P.html"
+  },
+  {
+   "manualId": "2191955",
+   "slug": "Sime-Rondo-B-Series",
+   "title": "Rondo B Series Manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "Rondo B Series",
+   "extraModels": [
+    "Rondo B4",
+    "Rondo B5"
+   ],
+   "url": "https://www.manualslib.com/manual/2191955/Sime-Rondo-B-Series.html"
+  },
+  {
+   "manualId": "1107390",
+   "slug": "Sime-Rondo",
+   "title": "rondo user manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "rondo",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1107390/Sime-Rondo.html"
+  },
+  {
+   "manualId": "2400783",
+   "slug": "Sime-Rondo-Estelle-3-Of",
+   "title": "Rondo/Estelle 3 OF Instruction for installation and maintenance",
+   "type": "Service",
+   "pages": 120,
+   "productModel": "Rondo/Estelle 3 OF",
+   "extraModels": [
+    "Rondo/Estelle 4 OF",
+    "Rondo/Estelle 5 OF",
+    "Rondo/Estelle 6 OF",
+    "Rondo/Estelle 7 OF",
+    "Rondo/Estelle 8 OF"
+   ],
+   "url": "https://www.manualslib.com/manual/2400783/Sime-Rondo-Estelle-3-Of.html"
+  },
+  {
+   "manualId": "1780165",
+   "slug": "Sime-Rs-Series",
+   "title": "RS 10 Installer's instructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "RS 10",
+   "extraModels": [
+    "RS 10",
+    "RS 11",
+    "RS 12",
+    "RS 13",
+    "RS 14",
+    "RS 6",
+    "RS 7",
+    "RS 8",
+    "RS 9"
+   ],
+   "url": "https://www.manualslib.com/manual/1780165/Sime-Rs-Series.html"
+  },
+  {
+   "manualId": "4171747",
+   "slug": "Sime-Rs-107",
+   "title": "RS 107 Installer's instructions",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "RS 107",
+   "extraModels": [
+    "RS 129",
+    "RS 151",
+    "RS 172",
+    "RS 194",
+    "RS 215",
+    "RS 237",
+    "RS 258",
+    "RS 279"
+   ],
+   "url": "https://www.manualslib.com/manual/4171747/Sime-Rs-107.html"
+  },
+  {
+   "manualId": "1756910",
+   "slug": "Sime-Rs-Mk-Ii-Series",
+   "title": "RS 129 Mk.II Installer's instructions",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "RS 129 Mk.II",
+   "extraModels": [
+    "RS 129 Mk.II",
+    "RS 151 Mk.II",
+    "RS 172 Mk.II",
+    "RS 194 Mk.II",
+    "RS 215 Mk.II",
+    "RS 237 Mk.II",
+    "RS 258 Mk.II",
+    "RS 279 Mk.II"
+   ],
+   "url": "https://www.manualslib.com/manual/1756910/Sime-Rs-Mk-Ii-Series.html"
+  },
+  {
+   "manualId": "2967688",
+   "slug": "Sime-Rs-Mk-Ii",
+   "title": "RS MK II Installation and user instructions manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "RS MK II",
+   "extraModels": [
+    "RS MK II 129",
+    "RS MK II 151",
+    "RS MK II 172",
+    "RS MK II 194",
+    "RS MK II 215",
+    "RS MK II 237",
+    "RS MK II 258",
+    "RS MK II 279"
+   ],
+   "url": "https://www.manualslib.com/manual/2967688/Sime-Rs-Mk-Ii.html"
+  },
+  {
+   "manualId": "3673839",
+   "slug": "Sime-Rs-Mk-Ii",
+   "title": "RS MK II Manual",
+   "type": "Other",
+   "pages": 77,
+   "productModel": "RS MK II",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3673839/Sime-Rs-Mk-Ii.html"
+  },
+  {
+   "manualId": "3677022",
+   "slug": "Sime-Rx-19-Ce-Iono-2c",
+   "title": "RX 19 CE IONO 2C Manual",
+   "type": "Other",
+   "pages": 61,
+   "productModel": "RX 19 CE IONO 2C",
+   "extraModels": [
+    "RX 26 CE IONO 2C",
+    "RX 37 CE IONO 2C",
+    "RX 48 CE IONO 2C",
+    "RX 55 CE IONO 2C"
+   ],
+   "url": "https://www.manualslib.com/manual/3677022/Sime-Rx-19-Ce-Iono-2c.html"
+  },
+  {
+   "manualId": "2864981",
+   "slug": "Sime-Rx-19-E",
+   "title": "RX 19 E Installer's instructions",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "RX 19 E",
+   "extraModels": [
+    "RX 26 E",
+    "RX 37 E",
+    "RX 48 E",
+    "RX 55 E"
+   ],
+   "url": "https://www.manualslib.com/manual/2864981/Sime-Rx-19-E.html"
+  },
+  {
+   "manualId": "1381673",
+   "slug": "Sime-Rx-19",
+   "title": "RX 19 Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "RX 19",
+   "extraModels": [
+    "RX 26",
+    "RX 37",
+    "RX 55"
+   ],
+   "url": "https://www.manualslib.com/manual/1381673/Sime-Rx-19.html"
+  },
+  {
+   "manualId": "923805",
+   "slug": "Sime-Rx-19",
+   "title": "RX 19 installation instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "RX 19",
+   "extraModels": [
+    "RX 26",
+    "RX 37",
+    "RX 55",
+    "RX 58"
+   ],
+   "url": "https://www.manualslib.com/manual/923805/Sime-Rx-19.html"
+  },
+  {
+   "manualId": "4397808",
+   "slug": "Sime-Rx-19",
+   "title": "RX 19 Manual",
+   "type": "Other",
+   "pages": 89,
+   "productModel": "RX 19",
+   "extraModels": [
+    "RX 19 CE IONO",
+    "RX 19 PVA CE IONO",
+    "RX 26",
+    "RX 26 CE IONO",
+    "RX 26 PVA CE IONO",
+    "RX 37",
+    "RX 37 CE IONO",
+    "RX 48",
+    "RX 48 CE IONO",
+    "RX 55",
+    "RX 55 CE IONO",
+    "RX TP"
+   ],
+   "url": "https://www.manualslib.com/manual/4397808/Sime-Rx-19.html"
+  },
+  {
+   "manualId": "2568651",
+   "slug": "Sime-Rx-19-Tp",
+   "title": "RX 19 TP Installer's instructions",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "RX 19 TP",
+   "extraModels": [
+    "RX 26 TP",
+    "RX 37 TP",
+    "RX 48 TP",
+    "RX 55 TP"
+   ],
+   "url": "https://www.manualslib.com/manual/2568651/Sime-Rx-19-Tp.html"
+  },
+  {
+   "manualId": "2157057",
+   "slug": "Sime-Rx-19-Tp",
+   "title": "RX 19 TP Instruction for installation and maintenance",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "RX 19 TP",
+   "extraModels": [
+    "RX 26 TP",
+    "RX 37 TP",
+    "RX 48 TP",
+    "RX 55 TP"
+   ],
+   "url": "https://www.manualslib.com/manual/2157057/Sime-Rx-19-Tp.html"
+  },
+  {
+   "manualId": "2787861",
+   "slug": "Sime-Rx-19-Tp",
+   "title": "RX 19 TP Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "RX 19 TP",
+   "extraModels": [
+    "RX 26 TP",
+    "RX 37 TP",
+    "RX 48 TP",
+    "RX 55 TP"
+   ],
+   "url": "https://www.manualslib.com/manual/2787861/Sime-Rx-19-Tp.html"
+  },
+  {
+   "manualId": "1948193",
+   "slug": "Sime-Rx-26-Bf",
+   "title": "RX 26 BF Manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "RX 26 BF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1948193/Sime-Rx-26-Bf.html"
+  },
+  {
+   "manualId": "3847580",
+   "slug": "Sime-Rx-48",
+   "title": "RX 48 Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "RX 48",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3847580/Sime-Rx-48.html"
+  },
+  {
+   "manualId": "1179753",
+   "slug": "Sime-Rx-Series",
+   "title": "RX Series Installer's instructions",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "RX Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1179753/Sime-Rx-Series.html"
+  },
+  {
+   "manualId": "4145836",
+   "slug": "Sime-Sfc-Wall",
+   "title": "SFC WALL installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "SFC WALL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4145836/Sime-Sfc-Wall.html"
+  },
+  {
+   "manualId": "4077839",
+   "slug": "Sime-Sfc-Wall",
+   "title": "SFC WALL owner's manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "SFC WALL",
+   "extraModels": [
+    "SFC WALL 300",
+    "SFC WALL 500"
+   ],
+   "url": "https://www.manualslib.com/manual/4077839/Sime-Sfc-Wall.html"
+  },
+  {
+   "manualId": "3799863",
+   "slug": "Sime-Sfc-Wall-Slim",
+   "title": "SFC WALL SLIM Installation and use manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "SFC WALL SLIM",
+   "extraModels": [
+    "SFC WALL SLIM"
+   ],
+   "url": "https://www.manualslib.com/manual/3799863/Sime-Sfc-Wall-Slim.html"
+  },
+  {
+   "manualId": "3139917",
+   "slug": "Sime-Shp-M-Eco-006a-Ka",
+   "title": "SHP M ECO 006A KA Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "SHP M ECO 006A KA",
+   "extraModels": [
+    "SHP M ECO 008 A SL KA",
+    "SHP M ECO 008A KA",
+    "SHP M ECO 010 KA",
+    "SHP M ECO 010KA T",
+    "SHP M ECO 012 KA",
+    "SHP M ECO 012 SL KA",
+    "SHP M ECO 012KA T",
+    "SHP M ECO 014KA",
+    "SHP M ECO 014KA T",
+    "SHP M ECO 016 SL KA",
+    "SHP M ECO 016KA",
+    "SHP M ECO 016KA T",
+    "SHP M ECO 016SL KA T",
+    "SHP M ECO 018KA"
+   ],
+   "url": "https://www.manualslib.com/manual/3139917/Sime-Shp-M-Eco-006a-Ka.html"
+  },
+  {
+   "manualId": "3465755",
+   "slug": "Sime-Shp-M-Eco-008a",
+   "title": "SHP M ECO 006A Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "SHP M ECO 006A",
+   "extraModels": [
+    "SHP M ECO 006A",
+    "SHP M ECO 010",
+    "SHP M ECO 010T",
+    "SHP M ECO 012",
+    "SHP M ECO 012T",
+    "SHP M ECO 014",
+    "SHP M ECO 014T",
+    "SHP M ECO 016",
+    "SHP M ECO 016T"
+   ],
+   "url": "https://www.manualslib.com/manual/3465755/Sime-Shp-M-Eco-008a.html"
+  },
+  {
+   "manualId": "3149485",
+   "slug": "Sime-Shp-M-Eco-006a",
+   "title": "SHP M ECO 006A User's and installer's manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "SHP M ECO 006A",
+   "extraModels": [
+    "SHP M ECO 008 A SL KA",
+    "SHP M ECO 008A",
+    "SHP M ECO 010",
+    "SHP M ECO 010T",
+    "SHP M ECO 012",
+    "SHP M ECO 012 SL KA",
+    "SHP M ECO 012T",
+    "SHP M ECO 014",
+    "SHP M ECO 014T",
+    "SHP M ECO 016",
+    "SHP M ECO 016 SL KA",
+    "SHP M ECO 016T",
+    "SHP M ECO 018"
+   ],
+   "url": "https://www.manualslib.com/manual/3149485/Sime-Shp-M-Eco-006a.html"
+  },
+  {
+   "manualId": "3287468",
+   "slug": "Sime-Shp-M-Eco-Series",
+   "title": "SHP M ECO 010 Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "SHP M ECO 010",
+   "extraModels": [
+    "SHP M ECO 010",
+    "SHP M ECO 010 KA",
+    "SHP M ECO 012",
+    "SHP M Eco 006",
+    "SHP M Eco 006 KA",
+    "SHP M Eco 008",
+    "SHP M ECO 012 KA",
+    "SHP M ECO 014",
+    "SHP M ECO 014KA",
+    "SHP M ECO 016",
+    "SHP M ECO 016KA",
+    "SHP M Eco 008 KA"
+   ],
+   "url": "https://www.manualslib.com/manual/3287468/Sime-Shp-M-Eco-Series.html"
+  },
+  {
+   "manualId": "4396827",
+   "slug": "Sime-Shp-M-Ht",
+   "title": "SHP M HT Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "SHP M HT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4396827/Sime-Shp-M-Ht.html"
+  },
+  {
+   "manualId": "2610164",
+   "slug": "Sime-Shp-M-Plus-021",
+   "title": "SHP M PLUS installation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "SHP M PLUS",
+   "extraModels": [
+    "SHP M PLUS 026",
+    "SHP M PLUS 028",
+    "SHP M PLUS 032"
+   ],
+   "url": "https://www.manualslib.com/manual/2610164/Sime-Shp-M-Plus-021.html"
+  },
+  {
+   "manualId": "2724892",
+   "slug": "Sime-Shp-M-Pro-010",
+   "title": "SHP M PRO 006 Installation and owner's manual",
+   "type": "Installation",
+   "pages": 273,
+   "productModel": "SHP M PRO 006",
+   "extraModels": [
+    "SHP M PRO 006",
+    "SHP M PRO 008",
+    "SHP M PRO 012",
+    "SHP M PRO 012T",
+    "SHP M PRO 014",
+    "SHP M PRO 014T",
+    "SHP M PRO 016",
+    "SHP M PRO 016T"
+   ],
+   "url": "https://www.manualslib.com/manual/2724892/Sime-Shp-M-Pro-010.html"
+  },
+  {
+   "manualId": "2787891",
+   "slug": "Sime-Shp-M-Pro",
+   "title": "SHP M PRO Operation manual",
+   "type": "Other",
+   "pages": 278,
+   "productModel": "SHP M PRO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2787891/Sime-Shp-M-Pro.html"
+  },
+  {
+   "manualId": "4567119",
+   "slug": "Sime-1r6-Of",
+   "title": "Sime 1R6 OF User'smanual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": null,
+   "extraModels": [
+    "1R10 OF",
+    "1R7 OF",
+    "1R8 OF",
+    "1R9 OF",
+    "2R10 OF",
+    "2R11 OF",
+    "2R12 OF",
+    "2R13 OF",
+    "2R14 OF",
+    "2R15 OF",
+    "2R6 OF",
+    "2R7 OF",
+    "2R8 OF",
+    "2R9 OF"
+   ],
+   "url": "https://www.manualslib.com/manual/4567119/Sime-1r6-Of.html"
+  },
+  {
+   "manualId": "1709990",
+   "slug": "Sime-Sime-Blue-Mack-1",
+   "title": "SIME BLUE MACK 1 Installation, use and maintenance instructions",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "SIME BLUE MACK 1",
+   "extraModels": [
+    "SIME BLUE MACK 2"
+   ],
+   "url": "https://www.manualslib.com/manual/1709990/Sime-Sime-Blue-Mack-1.html"
+  },
+  {
+   "manualId": "3001089",
+   "slug": "Sime-Ecomaxi-Vb-200",
+   "title": "Sime ECOMAXI VB 200 Assembly, Installation And Operation Instructions",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": null,
+   "extraModels": [
+    "8115843",
+    "8115844",
+    "8115845",
+    "ECOMAXI VB 300",
+    "ECOMAXI VB 300 S"
+   ],
+   "url": "https://www.manualslib.com/manual/3001089/Sime-Ecomaxi-Vb-200.html"
+  },
+  {
+   "manualId": "3492865",
+   "slug": "Sime-Ecomaxi-Vb-200-S",
+   "title": "Sime ECOMAXI VB 200 S Manual",
+   "type": "Other",
+   "pages": 184,
+   "productModel": null,
+   "extraModels": [
+    "8115843",
+    "8115844",
+    "8115845",
+    "8115846",
+    "ECOMAXI VB 300",
+    "ECOMAXI VB 300 S"
+   ],
+   "url": "https://www.manualslib.com/manual/3492865/Sime-Ecomaxi-Vb-200-S.html"
+  },
+  {
+   "manualId": "3001102",
+   "slug": "Sime-Ecomaxi-Vb-80",
+   "title": "Sime ECOMAXI VB 80 Assembly, Installation And Operation Instructions",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": null,
+   "extraModels": [
+    "8115840",
+    "8115842",
+    "ECOMAXI VB 120"
+   ],
+   "url": "https://www.manualslib.com/manual/3001102/Sime-Ecomaxi-Vb-80.html"
+  },
+  {
+   "manualId": "4245916",
+   "slug": "sime-edea-bf-30-r-gas-boiler-operating-manual",
+   "title": "Sime EDEA BF 30 R Gas Boiler Operating Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4245916/sime-edea-bf-30-r-gas-boiler-operating-manual.html"
+  },
+  {
+   "manualId": "2833886",
+   "slug": "Sime-Edea",
+   "title": "Sime EDEA User, Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": null,
+   "extraModels": [
+    "8116902",
+    "8116999",
+    "EDEA 30",
+    "EDEA 40"
+   ],
+   "url": "https://www.manualslib.com/manual/2833886/Sime-Edea.html"
+  },
+  {
+   "manualId": "2157067",
+   "slug": "Sime-Format-Dewy-Zip-25-Bf",
+   "title": "Sime FORMAT DEWY.zip 25 BF Installer's Instructions",
+   "type": "Installation",
+   "pages": 116,
+   "productModel": null,
+   "extraModels": [
+    "FORMAT DEWY.zip 30 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/2157067/Sime-Format-Dewy-Zip-25-Bf.html"
+  },
+  {
+   "manualId": "1650800",
+   "slug": "Sime-Format-Dgt-Series",
+   "title": "Sime FORMAT DGT Series Installer's Instructions",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": null,
+   "extraModels": [
+    "FORMAT DGT 25 BF",
+    "FORMAT DGT 25 OF",
+    "FORMAT DGT 30 BF",
+    "METROPOLIS DGT",
+    "Metropolis DGT 25 BF",
+    "METROPOLIS DGT 25 OF",
+    "METROPOLIS DGT 30 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/1650800/Sime-Format-Dgt-Series.html"
+  },
+  {
+   "manualId": "1953626",
+   "slug": "Sime-Format-Zip-25-Of",
+   "title": "Sime Format.zip 25 OF Installer's Instructions",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": null,
+   "extraModels": [
+    "Format.zip 25 BF",
+    "Format.zip 30 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/1953626/Sime-Format-Zip-25-Of.html"
+  },
+  {
+   "manualId": "3205179",
+   "slug": "Sime-Giulia-Combi-30",
+   "title": "Sime GIULIA COMBI 30 Design, Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3205179/Sime-Giulia-Combi-30.html"
+  },
+  {
+   "manualId": "2214437",
+   "slug": "Sime-Go-18-Bf-G20",
+   "title": "Sime GO 18 BF G20 User, Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 124,
+   "productModel": null,
+   "extraModels": [
+    "GO 25 BF G20",
+    "GO 25 BF GPL",
+    "GO 30.BF G20",
+    "GO 30.BF GPL"
+   ],
+   "url": "https://www.manualslib.com/manual/2214437/Sime-Go-18-Bf-G20.html"
+  },
+  {
+   "manualId": "1656405",
+   "slug": "Sime-Metropolis-Dgt-25-Bf",
+   "title": "Sime Metropolis DGT 25 BF User Instructions",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1656405/Sime-Metropolis-Dgt-25-Bf.html"
+  },
+  {
+   "manualId": "2774640",
+   "slug": "Sime-Metropolis-Dgt-25-Of",
+   "title": "Sime METROPOLIS DGT 25 OF Manual",
+   "type": "Other",
+   "pages": 92,
+   "productModel": null,
+   "extraModels": [
+    "Metropolis DGT 25 BF",
+    "METROPOLIS DGT 30 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/2774640/Sime-Metropolis-Dgt-25-Of.html"
+  },
+  {
+   "manualId": "3280508",
+   "slug": "Sime-Mia-He-25-C10",
+   "title": "Sime Mia HE 25 C10 User, Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": null,
+   "extraModels": [
+    "8116630",
+    "8116632",
+    "8116634",
+    "Mia HE 30 C10",
+    "Mia HE 40 C10",
+    "MIA HE C10"
+   ],
+   "url": "https://www.manualslib.com/manual/3280508/Sime-Mia-He-25-C10.html"
+  },
+  {
+   "manualId": "4238694",
+   "slug": "sime-mini-12-of-erp-gas-water-heater-installation-and-operation-manual",
+   "title": "Sime MINI 12 OF Erp gas water heater Installation & Operation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4238694/sime-mini-12-of-erp-gas-water-heater-installation-and-operation-manual.html"
+  },
+  {
+   "manualId": "1116851",
+   "slug": "Sime-Murelle-Advanced-He-Erp",
+   "title": "Sime MURELLE ADVANCED HE ErP User, Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1116851/Sime-Murelle-Advanced-He-Erp.html"
+  },
+  {
+   "manualId": "1668562",
+   "slug": "Sime-Natural-S-Series",
+   "title": "Sime NATURAL S Series Installation, Maintenance & Use Instructions",
+   "type": "Service",
+   "pages": 64,
+   "productModel": null,
+   "extraModels": [
+    "NATURAL S 160",
+    "NATURAL S 200",
+    "NATURAL S 300/5.2",
+    "NATURAL S 320"
+   ],
+   "url": "https://www.manualslib.com/manual/1668562/Sime-Natural-S-Series.html"
+  },
+  {
+   "manualId": "1983816",
+   "slug": "Sime-Open-Zip-25-Bf-Ts",
+   "title": "Sime Open.zip 25 BF TS Installer's Instructions",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": null,
+   "extraModels": [
+    "Open.zip 30 BF TS"
+   ],
+   "url": "https://www.manualslib.com/manual/1983816/Sime-Open-Zip-25-Bf-Ts.html"
+  },
+  {
+   "manualId": "2208025",
+   "slug": "Sime-Planet-25-60bf",
+   "title": "Sime Planet 25-60BF Manual",
+   "type": "Other",
+   "pages": 160,
+   "productModel": null,
+   "extraModels": [
+    "PLANET 30/60 BF"
+   ],
+   "url": "https://www.manualslib.com/manual/2208025/Sime-Planet-25-60bf.html"
+  },
+  {
+   "manualId": "4570800",
+   "slug": "Sime-Rs-Mk-Ii-Series",
+   "title": "Sime RS MK II Series Installer's Instructions",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": null,
+   "extraModels": [
+    "RS 129 MK II",
+    "RS 151 MK II",
+    "RS 172 MK II",
+    "RS 194 MK II",
+    "RS 215 MK II",
+    "RS 237 MK II",
+    "RS 258 MK II",
+    "RS 279 MK II"
+   ],
+   "url": "https://www.manualslib.com/manual/4570800/Sime-Rs-Mk-Ii-Series.html"
+  },
+  {
+   "manualId": "1647972",
+   "slug": "Sime-Sime-Sub-He-Dhw-12-60",
+   "title": "SIME SUB HE/DHW 12/60 Installer's instructions",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "SIME SUB HE/DHW 12/60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1647972/Sime-Sime-Sub-He-Dhw-12-60.html"
+  },
+  {
+   "manualId": "1830885",
+   "slug": "Sime-Vera-He-Series",
+   "title": "Sime VERA HE Series User, Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": null,
+   "extraModels": [
+    "VERA HE 25",
+    "VERA HE 30"
+   ],
+   "url": "https://www.manualslib.com/manual/1830885/Sime-Vera-He-Series.html"
+  },
+  {
+   "manualId": "4537429",
+   "slug": "Sime-Simeconn-Ii",
+   "title": "SimeConn II Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "SimeConn II",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4537429/Sime-Simeconn-Ii.html"
+  },
+  {
+   "manualId": "3553157",
+   "slug": "Sime-Simeplano",
+   "title": "SIMEPLANO Installation And Servicing Instruction",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "SIMEPLANO",
+   "extraModels": [
+    "SIMESOL"
+   ],
+   "url": "https://www.manualslib.com/manual/3553157/Sime-Simeplano.html"
+  },
+  {
+   "manualId": "3766501",
+   "slug": "Sime-Smart-Plus",
+   "title": "SMART PLUS Installation and use manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "SMART PLUS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3766501/Sime-Smart-Plus.html"
+  },
+  {
+   "manualId": "1795107",
+   "slug": "Sime-Solida-Series",
+   "title": "SOLIDA 3 Manual",
+   "type": "Other",
+   "pages": 84,
+   "productModel": "SOLIDA 3",
+   "extraModels": [
+    "SOLIDA 3",
+    "SOLIDA 4",
+    "SOLIDA 5",
+    "SOLIDA 6",
+    "SOLIDA 7",
+    "SOLIDA 8"
+   ],
+   "url": "https://www.manualslib.com/manual/1795107/Sime-Solida-Series.html"
+  },
+  {
+   "manualId": "2011039",
+   "slug": "Sime-Solida-Series",
+   "title": "SOLIDA 5 PL Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "SOLIDA 5 PL",
+   "extraModels": [
+    "SOLIDA 5 PL",
+    "SOLIDA 8 PL+",
+    "SOLIDA 5",
+    "SOLIDA 8"
+   ],
+   "url": "https://www.manualslib.com/manual/2011039/Sime-Solida-Series.html"
+  },
+  {
+   "manualId": "2372873",
+   "slug": "Sime-Solida-5-Pl",
+   "title": "SOLIDA 5 PL Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "SOLIDA 5 PL",
+   "extraModels": [
+    "SOLIDA 8 PL+"
+   ],
+   "url": "https://www.manualslib.com/manual/2372873/Sime-Solida-5-Pl.html"
+  },
+  {
+   "manualId": "2517428",
+   "slug": "Sime-Solida-5-Pl",
+   "title": "SOLIDA 5 PL Manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "SOLIDA 5 PL",
+   "extraModels": [
+    "SOLIDA 8 PL+",
+    "8058541",
+    "8075743",
+    "8075980",
+    "8075981"
+   ],
+   "url": "https://www.manualslib.com/manual/2517428/Sime-Solida-5-Pl.html"
+  },
+  {
+   "manualId": "1621269",
+   "slug": "Sime-Solida-8-Pl",
+   "title": "SOLIDA 8 PL Manual",
+   "type": "Other",
+   "pages": 22,
+   "productModel": "SOLIDA 8 PL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1621269/Sime-Solida-8-Pl.html"
+  },
+  {
+   "manualId": "1716287",
+   "slug": "Sime-Solida-Ev-Series",
+   "title": "SOLIDA EV 3 Instruction for installation and maintenance",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "SOLIDA EV 3",
+   "extraModels": [
+    "SOLIDA EV 3",
+    "SOLIDA EV 4",
+    "SOLIDA EV 5",
+    "SOLIDA EV 6",
+    "SOLIDA EV 7"
+   ],
+   "url": "https://www.manualslib.com/manual/1716287/Sime-Solida-Ev-Series.html"
+  },
+  {
+   "manualId": "3544421",
+   "slug": "Sime-Solida-Ev-Nwb",
+   "title": "SOLIDA EV NWB Manual",
+   "type": "Other",
+   "pages": 96,
+   "productModel": "SOLIDA EV NWB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3544421/Sime-Solida-Ev-Nwb.html"
+  },
+  {
+   "manualId": "1795105",
+   "slug": "Sime-Solida-Ev-Series",
+   "title": "SOLIDA?EV 3 instruction manual",
+   "type": "User / Owner",
+   "pages": 96,
+   "productModel": "SOLIDA?EV 3",
+   "extraModels": [
+    "SOLIDA?EV 3",
+    "SOLIDA?EV 4",
+    "SOLIDA?EV 5",
+    "SOLIDA?EV 6",
+    "SOLIDA?EV 7"
+   ],
+   "url": "https://www.manualslib.com/manual/1795105/Sime-Solida-Ev-Series.html"
+  },
+  {
+   "manualId": "2157444",
+   "slug": "Sime-Solida-Ev-3",
+   "title": "SOLIDA?EV 3 instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "SOLIDA?EV 3",
+   "extraModels": [
+    "SOLIDA?EV 4",
+    "SOLIDA?EV 5",
+    "SOLIDA?EV 6",
+    "SOLIDA?EV 7"
+   ],
+   "url": "https://www.manualslib.com/manual/2157444/Sime-Solida-Ev-3.html"
+  },
+  {
+   "manualId": "2900143",
+   "slug": "Sime-Solo-Duetto-25-Bf-Tse",
+   "title": "SOLO-DUETTO 25 BF TSE installation instructions manual",
+   "type": "Installation",
+   "pages": 104,
+   "productModel": "SOLO-DUETTO 25 BF TSE",
+   "extraModels": [
+    "SOLO-DUETTO 25 TSE"
+   ],
+   "url": "https://www.manualslib.com/manual/2900143/Sime-Solo-Duetto-25-Bf-Tse.html"
+  },
+  {
+   "manualId": "2992760",
+   "slug": "Sime-Solo-Duetto-Of-Bf",
+   "title": "Solo/Duetto OF-BF Manual",
+   "type": "Other",
+   "pages": 149,
+   "productModel": "Solo/Duetto OF-BF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2992760/Sime-Solo-Duetto-Of-Bf.html"
+  },
+  {
+   "manualId": "4565408",
+   "slug": "Sime-Sub-He-Dhw-10-50-Lrt",
+   "title": "Sub HE - DHW 10/50 LRT Manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": "Sub HE - DHW 10/50 LRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4565408/Sime-Sub-He-Dhw-10-50-Lrt.html"
+  },
+  {
+   "manualId": "1566605",
+   "slug": "Sime-Substore-10-110",
+   "title": "SUBSTORE 10/110 Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "SUBSTORE 10/110",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1566605/Sime-Substore-10-110.html"
+  },
+  {
+   "manualId": "3848247",
+   "slug": "Sime-Super-102",
+   "title": "SUPER 102 Installation and servicing instruction",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "SUPER 102",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3848247/Sime-Super-102.html"
+  },
+  {
+   "manualId": "1192541",
+   "slug": "Sime-Super-80",
+   "title": "SUPER 80 Installation and servicing instrucnion",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "SUPER 80",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1192541/Sime-Super-80.html"
+  },
+  {
+   "manualId": "1393911",
+   "slug": "Sime-Super-90",
+   "title": "SUPER 90 Installation and servicing instruction",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "SUPER 90",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1393911/Sime-Super-90.html"
+  },
+  {
+   "manualId": "1239644",
+   "slug": "Sime-Super-Four",
+   "title": "Super four Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Super four",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1239644/Sime-Super-Four.html"
+  },
+  {
+   "manualId": "1171188",
+   "slug": "Sime-Super-Mk-Ii",
+   "title": "super mk.ii Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "super mk.ii",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1171188/Sime-Super-Mk-Ii.html"
+  },
+  {
+   "manualId": "1192855",
+   "slug": "Sime-Super-Mk-Ii",
+   "title": "super mk.ii operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "super mk.ii",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1192855/Sime-Super-Mk-Ii.html"
+  },
+  {
+   "manualId": "850596",
+   "slug": "Sime-Superior-40-Ci",
+   "title": "superior 40 Ci Installation and service instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "superior 40 Ci",
+   "extraModels": [
+    "superior 50 Ci",
+    "superior 60 Ci",
+    "superior 80 Ci"
+   ],
+   "url": "https://www.manualslib.com/manual/850596/Sime-Superior-40-Ci.html"
+  },
+  {
+   "manualId": "1173114",
+   "slug": "Sime-Superior-Ci-Ei",
+   "title": "SUPERIOR Ci EI Installation & user's instructions",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "SUPERIOR Ci EI",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1173114/Sime-Superior-Ci-Ei.html"
+  },
+  {
+   "manualId": "3029389",
+   "slug": "Sime-Uniqa-Revolution-25",
+   "title": "UNIQA REVOLUTION 25 User, Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "UNIQA REVOLUTION 25",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3029389/Sime-Uniqa-Revolution-25.html"
+  },
+  {
+   "manualId": "1441397",
+   "slug": "Sime-Uniqa-Revolution",
+   "title": "UNIQA REVOLUTION Original instructions manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "UNIQA REVOLUTION",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1441397/Sime-Uniqa-Revolution.html"
+  },
+  {
+   "manualId": "1249532",
+   "slug": "Sime-Superior-Ci",
+   "title": "User instruction",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1249532/Sime-Superior-Ci.html"
+  },
+  {
+   "manualId": "1174650",
+   "slug": "Sime-Format-C-Series",
+   "title": "User instructions",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1174650/Sime-Format-C-Series.html"
+  },
+  {
+   "manualId": "1278458",
+   "slug": "Sime-Murelle-He-110-R",
+   "title": "User instructions",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1278458/Sime-Murelle-He-110-R.html"
+  },
+  {
+   "manualId": "1358953",
+   "slug": "Sime-Super-Series",
+   "title": "User instructions",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1358953/Sime-Super-Series.html"
+  },
+  {
+   "manualId": "2243886",
+   "slug": "Sime-Wing",
+   "title": "WING Installation - use - maintenance",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "WING",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2243886/Sime-Wing.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4245916",
+   "slug": "sime-edea-bf-30-r-gas-boiler-operating-manual",
+   "title": "Sime EDEA BF 30 R Gas Boiler Operating Manual"
+  },
+  {
+   "manualId": "4238694",
+   "slug": "sime-mini-12-of-erp-gas-water-heater-installation-and-operation-manual",
+   "title": "Sime MINI 12 OF Erp gas water heater Installation & Operation Manual"
+  }
+ ],
+ "techDirectIds": [
+  "sime"
+ ]
+}

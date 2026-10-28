@@ -1,0 +1,5189 @@
+{
+ "brand": "Weil-McLain",
+ "brandSlug": "weil-mclain",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/weil-mclain/"
+ ],
+ "slugUsed": "weil-mclain",
+ "capturedAt": "2026-10-28T09:52:24.003376+00:00",
+ "typePages": [
+  {
+   "path": "/brand/weil-mclain/air-conditioner.html",
+   "manuals": 26,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/accessories.html",
+   "manuals": 33,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/boiler.html",
+   "manuals": 1599,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/boiler-supplies.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/boilers.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/burner.html",
+   "manuals": 61,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/control-panel.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/control-systems.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/controller.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/electric-heater.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/fan.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/furnace.html",
+   "manuals": 24,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/heat-pump.html",
+   "manuals": 21,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/industrial-equipment.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/relays.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/swimming-pool-heater.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/switch.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/weil-mclain/water-heater.html",
+   "manuals": 134,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "184337",
+   "slug": "Weil-Mclain-105",
+   "title": "-105 Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "-105",
+   "extraModels": [
+    "-230",
+    "80",
+    "Evergreen 155",
+    "ULTRA Ultra-105",
+    "ULTRA Ultra-155",
+    "ULTRA Ultra-230",
+    "ULTRA Ultra-310",
+    "ULTRA ULTRA-80"
+   ],
+   "url": "https://www.manualslib.com/manual/184337/Weil-Mclain-105.html"
+  },
+  {
+   "manualId": "189676",
+   "slug": "Weil-Mclain-78",
+   "title": "1078 Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "1078",
+   "extraModels": [
+    "1078",
+    "1178",
+    "1278",
+    "378",
+    "478",
+    "578",
+    "678",
+    "778",
+    "878",
+    "978"
+   ],
+   "url": "https://www.manualslib.com/manual/189676/Weil-Mclain-78.html"
+  },
+  {
+   "manualId": "2536237",
+   "slug": "Weil-Mclain-78",
+   "title": "1078 S Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "1078 S",
+   "extraModels": [
+    "1078 S",
+    "1078 W",
+    "1178 S",
+    "1178 W",
+    "1278 S",
+    "1278 W",
+    "378 S",
+    "378 W",
+    "478 S",
+    "478 W",
+    "578 S",
+    "578 W",
+    "678 S",
+    "678 W",
+    "778 S",
+    "778 W",
+    "878 S",
+    "878 W",
+    "978 S",
+    "978 W"
+   ],
+   "url": "https://www.manualslib.com/manual/2536237/Weil-Mclain-78.html"
+  },
+  {
+   "manualId": "189601",
+   "slug": "Weil-Mclain-80",
+   "title": "1080 Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "1080",
+   "extraModels": [
+    "1080",
+    "1180",
+    "1280",
+    "380",
+    "480",
+    "580",
+    "680",
+    "780",
+    "880",
+    "980"
+   ],
+   "url": "https://www.manualslib.com/manual/189601/Weil-Mclain-80.html"
+  },
+  {
+   "manualId": "971984",
+   "slug": "Weil-Mclain-380",
+   "title": "1080 user manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "1080",
+   "extraModels": [
+    "1080",
+    "1180",
+    "1280",
+    "480",
+    "580",
+    "680",
+    "780",
+    "880",
+    "980"
+   ],
+   "url": "https://www.manualslib.com/manual/971984/Weil-Mclain-380.html"
+  },
+  {
+   "manualId": "1000113",
+   "slug": "Weil-Mclain-486-Series",
+   "title": "1086 Series instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "1086 Series",
+   "extraModels": [
+    "1086 Series",
+    "1186 Series",
+    "1286 Series",
+    "1386 Series",
+    "1486 Series",
+    "1586 Series",
+    "1686 Series",
+    "586 Series",
+    "686 Series",
+    "786 Series",
+    "886 Series",
+    "986 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1000113/Weil-Mclain-486-Series.html"
+  },
+  {
+   "manualId": "721648",
+   "slug": "Weil-Mclain-88",
+   "title": "1088 Manual",
+   "type": "Other",
+   "pages": 41,
+   "productModel": "1088",
+   "extraModels": [
+    "1088",
+    "1188",
+    "1288",
+    "1388",
+    "1488",
+    "1588",
+    "1688",
+    "1788",
+    "1888",
+    "488",
+    "588",
+    "688",
+    "788",
+    "888",
+    "988"
+   ],
+   "url": "https://www.manualslib.com/manual/721648/Weil-Mclain-88.html"
+  },
+  {
+   "manualId": "762293",
+   "slug": "Weil-Mclain-88",
+   "title": "1088 Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "1088",
+   "extraModels": [
+    "1088",
+    "1188",
+    "1288",
+    "1388",
+    "1488",
+    "1588",
+    "1688",
+    "1788",
+    "1888",
+    "488",
+    "588",
+    "688",
+    "788",
+    "88 2 series",
+    "888",
+    "988"
+   ],
+   "url": "https://www.manualslib.com/manual/762293/Weil-Mclain-88.html"
+  },
+  {
+   "manualId": "1622289",
+   "slug": "Weil-Mclain-94-Series",
+   "title": "1094 Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "1094",
+   "extraModels": [
+    "1094",
+    "1194",
+    "1294",
+    "1394",
+    "1494",
+    "1594",
+    "1694",
+    "1794",
+    "1894",
+    "1994",
+    "2094",
+    "2194",
+    "2294",
+    "2394",
+    "2494",
+    "2594",
+    "894",
+    "994",
+    "HE (Series 3)"
+   ],
+   "url": "https://www.manualslib.com/manual/1622289/Weil-Mclain-94-Series.html"
+  },
+  {
+   "manualId": "3093050",
+   "slug": "Weil-Mclain-4-Series",
+   "title": "1494 Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "1494",
+   "extraModels": [
+    "1494",
+    "1594",
+    "1694",
+    "1794",
+    "1894",
+    "1994"
+   ],
+   "url": "https://www.manualslib.com/manual/3093050/Weil-Mclain-4-Series.html"
+  },
+  {
+   "manualId": "2039363",
+   "slug": "Weil-Mclain-383-500-350",
+   "title": "383-500-350 Supplement manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "383-500-350",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2039363/Weil-Mclain-383-500-350.html"
+  },
+  {
+   "manualId": "1583181",
+   "slug": "Weil-Mclain-4-Series",
+   "title": "383-500-732 Manual",
+   "type": "Other",
+   "pages": 140,
+   "productModel": "383-500-732",
+   "extraModels": [
+    "383-500-732",
+    "383-500-734",
+    "383-500-735",
+    "383-500-736",
+    "383-500-737",
+    "383-500-738",
+    "ULTRA 4 Series",
+    "ULTRA Ultra-105",
+    "ULTRA Ultra-155",
+    "ULTRA Ultra-230",
+    "ULTRA Ultra-310",
+    "ULTRA ULTRA-80"
+   ],
+   "url": "https://www.manualslib.com/manual/1583181/Weil-Mclain-4-Series.html"
+  },
+  {
+   "manualId": "2345250",
+   "slug": "Weil-Mclain-Evergreen-Pro-220",
+   "title": "383900000 User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "383900000",
+   "extraModels": [
+    "383900000",
+    "383900001",
+    "383900002",
+    "Evergreen EVG 110",
+    "Evergreen EVG 155",
+    "Evergreen EVG 220",
+    "Evergreen EVG 299",
+    "Evergreen EVG 399",
+    "Evergreen Pro 299",
+    "Evergreen Pro 300",
+    "Evergreen Pro 399"
+   ],
+   "url": "https://www.manualslib.com/manual/2345250/Weil-Mclain-Evergreen-Pro-220.html"
+  },
+  {
+   "manualId": "3131971",
+   "slug": "Weil-Mclain-5-Series",
+   "title": "5 Series Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "5 Series",
+   "extraModels": [
+    "EG Series",
+    "EG-35-W",
+    "EG-40-S",
+    "EG-45-W",
+    "EG-50-W",
+    "EG-75-S",
+    "EGH Series",
+    "PEG Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3131971/Weil-Mclain-5-Series.html"
+  },
+  {
+   "manualId": "2345824",
+   "slug": "Weil-Mclain-Slimfit-3-Series",
+   "title": "550 MBH Advanced manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": "550 MBH",
+   "extraModels": [
+    "550 MBH",
+    "750 MBH"
+   ],
+   "url": "https://www.manualslib.com/manual/2345824/Weil-Mclain-Slimfit-3-Series.html"
+  },
+  {
+   "manualId": "1170170",
+   "slug": "Weil-Mclain-550-Mbh",
+   "title": "550 MBH Nstallation and operation manual",
+   "type": "Other",
+   "pages": 128,
+   "productModel": "550 MBH",
+   "extraModels": [
+    "750 MBH",
+    "HE (Series 3)",
+    "SlimFit 3 Series",
+    "SlimFit 750",
+    "SlimFit SF 550",
+    "SlimFit SF 750"
+   ],
+   "url": "https://www.manualslib.com/manual/1170170/Weil-Mclain-550-Mbh.html"
+  },
+  {
+   "manualId": "189599",
+   "slug": "Weil-Mclain-550-141-829-1201",
+   "title": "550-141-829/1201 Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "550-141-829/1201",
+   "extraModels": [
+    "SGO Series",
+    "SGO Series 3",
+    "SGO-4",
+    "SGO-5",
+    "SGO-6",
+    "SGO-7",
+    "SGO-8",
+    "SGO-9"
+   ],
+   "url": "https://www.manualslib.com/manual/189599/Weil-Mclain-550-141-829-1201.html"
+  },
+  {
+   "manualId": "189596",
+   "slug": "Weil-Mclain-68",
+   "title": "68 Manual",
+   "type": "Other",
+   "pages": 23,
+   "productModel": "68",
+   "extraModels": [
+    "68V"
+   ],
+   "url": "https://www.manualslib.com/manual/189596/Weil-Mclain-68.html"
+  },
+  {
+   "manualId": "4085454",
+   "slug": "Weil-Mclain-68",
+   "title": "68 Manual",
+   "type": "Other",
+   "pages": 22,
+   "productModel": "68",
+   "extraModels": [
+    "68V"
+   ],
+   "url": "https://www.manualslib.com/manual/4085454/Weil-Mclain-68.html"
+  },
+  {
+   "manualId": "4570957",
+   "slug": "Weil-Mclain-68",
+   "title": "68 Manual",
+   "type": "Other",
+   "pages": 22,
+   "productModel": "68",
+   "extraModels": [
+    "68V"
+   ],
+   "url": "https://www.manualslib.com/manual/4570957/Weil-Mclain-68.html"
+  },
+  {
+   "manualId": "189663",
+   "slug": "Weil-Mclain-Series-7-Pfg",
+   "title": "7 PFG Control supplement",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "7 PFG",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189663/Weil-Mclain-Series-7-Pfg.html"
+  },
+  {
+   "manualId": "1176764",
+   "slug": "Weil-Mclain-78-Series",
+   "title": "78 Series Installation, start-up, parts",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "78 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1176764/Weil-Mclain-78-Series.html"
+  },
+  {
+   "manualId": "3709523",
+   "slug": "Weil-Mclain-8-Series",
+   "title": "8 Series Installation, operation and service manual",
+   "type": "Service",
+   "pages": 19,
+   "productModel": "8 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3709523/Weil-Mclain-8-Series.html"
+  },
+  {
+   "manualId": "189597",
+   "slug": "Weil-Mclain-88",
+   "title": "88 Specification sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "88",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189597/Weil-Mclain-88.html"
+  },
+  {
+   "manualId": "189602",
+   "slug": "Weil-Mclain-A-66e",
+   "title": "A-66E owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "A-66E",
+   "extraModels": [
+    "B-66HE",
+    "P-66HE"
+   ],
+   "url": "https://www.manualslib.com/manual/189602/Weil-Mclain-A-66e.html"
+  },
+  {
+   "manualId": "189603",
+   "slug": "Weil-Mclain-Afg",
+   "title": "AFG instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "AFG",
+   "extraModels": [
+    "GO-2",
+    "GO-3",
+    "GO-4",
+    "GO-5",
+    "GO-6",
+    "GO-7",
+    "GO-8",
+    "GO-9"
+   ],
+   "url": "https://www.manualslib.com/manual/189603/Weil-Mclain-Afg.html"
+  },
+  {
+   "manualId": "4164437",
+   "slug": "Weil-Mclain-Af",
+   "title": "AFG instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "AFG",
+   "extraModels": [
+    "AFG"
+   ],
+   "url": "https://www.manualslib.com/manual/4164437/Weil-Mclain-Af.html"
+  },
+  {
+   "manualId": "69572",
+   "slug": "Weil-Mclain-Series-4",
+   "title": "AHE Series 4 User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "AHE Series 4",
+   "extraModels": [
+    "AHE Series 4"
+   ],
+   "url": "https://www.manualslib.com/manual/69572/Weil-Mclain-Series-4.html"
+  },
+  {
+   "manualId": "2599534",
+   "slug": "Weil-Mclain-Ahe-Series",
+   "title": "AHE Series Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "AHE Series",
+   "extraModels": [
+    "AHE-45",
+    "AHE-60"
+   ],
+   "url": "https://www.manualslib.com/manual/2599534/Weil-Mclain-Ahe-Series.html"
+  },
+  {
+   "manualId": "189680",
+   "slug": "Weil-Mclain-Alumnipex-Radiant-Heater",
+   "title": "AlumniPEX installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "AlumniPEX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189680/Weil-Mclain-Alumnipex-Radiant-Heater.html"
+  },
+  {
+   "manualId": "1364736",
+   "slug": "Weil-Mclain-Aqua-Balance-Wmb-155",
+   "title": "Aqua Balance WMB-120 Manual",
+   "type": "Other",
+   "pages": 132,
+   "productModel": "Aqua Balance WMB-120",
+   "extraModels": [
+    "Aqua Balance WMB-120",
+    "Aqua Balance WMB-80"
+   ],
+   "url": "https://www.manualslib.com/manual/1364736/Weil-Mclain-Aqua-Balance-Wmb-155.html"
+  },
+  {
+   "manualId": "767353",
+   "slug": "Weil-Mclain-Aqua-Logic",
+   "title": "Aqua Logic product manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "Aqua Logic",
+   "extraModels": [
+    "WM97+ Aqua Logic"
+   ],
+   "url": "https://www.manualslib.com/manual/767353/Weil-Mclain-Aqua-Logic.html"
+  },
+  {
+   "manualId": "1008647",
+   "slug": "Weil-Mclain-Aqua-Plus-35",
+   "title": "Aqua Plus 105 product manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "Aqua Plus 105",
+   "extraModels": [
+    "Aqua Plus 105",
+    "Aqua Plus 45",
+    "Aqua Plus 55",
+    "Aqua Plus 85"
+   ],
+   "url": "https://www.manualslib.com/manual/1008647/Weil-Mclain-Aqua-Plus-35.html"
+  },
+  {
+   "manualId": "766061",
+   "slug": "Weil-Mclain-Aqua-Plus-35",
+   "title": "Aqua Plus 105 product manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "Aqua Plus 105",
+   "extraModels": [
+    "Aqua Plus 105",
+    "AQUA PLUS 2 Series",
+    "Aqua Plus 45",
+    "Aqua Plus 55",
+    "Aqua Plus 85"
+   ],
+   "url": "https://www.manualslib.com/manual/766061/Weil-Mclain-Aqua-Plus-35.html"
+  },
+  {
+   "manualId": "3981707",
+   "slug": "Weil-Mclain-Aqua-Pro-30",
+   "title": "AQUA PRO 119 product manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "AQUA PRO 119",
+   "extraModels": [
+    "AQUA PRO 119",
+    "AQUA PRO 55",
+    "AQUA PRO 80"
+   ],
+   "url": "https://www.manualslib.com/manual/3981707/Weil-Mclain-Aqua-Pro-30.html"
+  },
+  {
+   "manualId": "189684",
+   "slug": "Weil-Mclain-Therma-Trim-Electric-Baseboard-Heater",
+   "title": "Assembling Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189684/Weil-Mclain-Therma-Trim-Electric-Baseboard-Heater.html"
+  },
+  {
+   "manualId": "1431715",
+   "slug": "Weil-Mclain-Bcp-3",
+   "title": "BCP-3 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "BCP-3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1431715/Weil-Mclain-Bcp-3.html"
+  },
+  {
+   "manualId": "189604",
+   "slug": "Weil-Mclain-Bcp-3",
+   "title": "BCP-3 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "BCP-3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189604/Weil-Mclain-Bcp-3.html"
+  },
+  {
+   "manualId": "4382113",
+   "slug": "Weil-Mclain-Bcp-8w",
+   "title": "BCP-8W Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "BCP-8W",
+   "extraModels": [
+    "BCP-8X"
+   ],
+   "url": "https://www.manualslib.com/manual/4382113/Weil-Mclain-Bcp-8w.html"
+  },
+  {
+   "manualId": "189605",
+   "slug": "Weil-Mclain-Bcp-8s",
+   "title": "BCP-8X user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "BCP-8X",
+   "extraModels": [
+    "BCP-8X"
+   ],
+   "url": "https://www.manualslib.com/manual/189605/Weil-Mclain-Bcp-8s.html"
+  },
+  {
+   "manualId": "3588724",
+   "slug": "Weil-Mclain-Beckett-Afg",
+   "title": "Beckett AFG instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Beckett AFG",
+   "extraModels": [
+    "Beckett WL 4507C",
+    "Beckett WL-4502C",
+    "Beckett WL-4503C",
+    "Beckett WL-4504C",
+    "Beckett WL-4505C",
+    "Beckett WL-4506C",
+    "Beckett WL-4508C",
+    "Beckett WL-4509C"
+   ],
+   "url": "https://www.manualslib.com/manual/3588724/Weil-Mclain-Beckett-Afg.html"
+  },
+  {
+   "manualId": "189679",
+   "slug": "Weil-Mclain-Nx",
+   "title": "Beckett NX user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "Beckett NX",
+   "extraModels": [
+    "Beckett NX"
+   ],
+   "url": "https://www.manualslib.com/manual/189679/Weil-Mclain-Nx.html"
+  },
+  {
+   "manualId": "189608",
+   "slug": "Weil-Mclain-Bmc",
+   "title": "BMC Install And Operation Instructions",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "BMC",
+   "extraModels": [
+    "BMC-6X"
+   ],
+   "url": "https://www.manualslib.com/manual/189608/Weil-Mclain-Bmc.html"
+  },
+  {
+   "manualId": "189626",
+   "slug": "Weil-Mclain-Gas-Boiler",
+   "title": "Boiler brochure",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Boiler",
+   "extraModels": [
+    "Ultra Electric Water Heater"
+   ],
+   "url": "https://www.manualslib.com/manual/189626/Weil-Mclain-Gas-Boiler.html"
+  },
+  {
+   "manualId": "189606",
+   "slug": "Weil-Mclain-Boiler",
+   "title": "Boiler installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Boiler",
+   "extraModels": [
+    "Ultra Electric Water Heater"
+   ],
+   "url": "https://www.manualslib.com/manual/189606/Weil-Mclain-Boiler.html"
+  },
+  {
+   "manualId": "189591",
+   "slug": "Weil-Mclain-Seer-14",
+   "title": "Brochure & Specs",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189591/Weil-Mclain-Seer-14.html"
+  },
+  {
+   "manualId": "189621",
+   "slug": "Weil-Mclain-Egh-Series-4",
+   "title": "Brochure & specs",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "EGH-105 Series",
+    "EGH-115 Series",
+    "EGH-125 Series",
+    "EGH-85 Series",
+    "EGH-95 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/189621/Weil-Mclain-Egh-Series-4.html"
+  },
+  {
+   "manualId": "189681",
+   "slug": "Weil-Mclain-Btuh",
+   "title": "Brochure & Specs",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189681/Weil-Mclain-Btuh.html"
+  },
+  {
+   "manualId": "2356440",
+   "slug": "Weil-Mclain-Bsc",
+   "title": "BSC Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "BSC",
+   "extraModels": [
+    "BSC-8X",
+    "BSC-BAC"
+   ],
+   "url": "https://www.manualslib.com/manual/2356440/Weil-Mclain-Bsc.html"
+  },
+  {
+   "manualId": "807165",
+   "slug": "Weil-Mclain-Cer-Series-2",
+   "title": "CER Series 2 installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "CER Series 2",
+   "extraModels": [
+    "CER Series 2",
+    "CER-24",
+    "CER-32",
+    "CER-40",
+    "D Gas Series 2"
+   ],
+   "url": "https://www.manualslib.com/manual/807165/Weil-Mclain-Cer-Series-2.html"
+  },
+  {
+   "manualId": "189616",
+   "slug": "Weil-Mclain-Cgm-Series-10",
+   "title": "CG Series 10 owner's manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "CG Series 10",
+   "extraModels": [
+    "CG Series 10",
+    "CGM-25",
+    "CGM-3",
+    "CGM-4",
+    "CGM-5",
+    "CGM-6",
+    "CGM-7",
+    "CGM-8",
+    "P-CG"
+   ],
+   "url": "https://www.manualslib.com/manual/189616/Weil-Mclain-Cgm-Series-10.html"
+  },
+  {
+   "manualId": "189607",
+   "slug": "Weil-Mclain-Cg-Series-10",
+   "title": "CG Series 10 Service maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "CG Series 10",
+   "extraModels": [
+    "CG Series 10",
+    "P-CG-3",
+    "P-CG-4",
+    "P-CG-5",
+    "P-CG-6",
+    "P-CG-7",
+    "P-CG-8",
+    "P-CG-9"
+   ],
+   "url": "https://www.manualslib.com/manual/189607/Weil-Mclain-Cg-Series-10.html"
+  },
+  {
+   "manualId": "189610",
+   "slug": "Weil-Mclain-Cg-Series-11",
+   "title": "CG Series 11 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "CG Series 11",
+   "extraModels": [
+    "CG Series 11",
+    "CGX Series 1"
+   ],
+   "url": "https://www.manualslib.com/manual/189610/Weil-Mclain-Cg-Series-11.html"
+  },
+  {
+   "manualId": "189612",
+   "slug": "Weil-Mclain-Cg-Series-12",
+   "title": "CG Series 12 owner's manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "CG Series 12",
+   "extraModels": [
+    "CG Series 12",
+    "CG-25",
+    "CG-3",
+    "CG-4",
+    "CG-5",
+    "CG-6 series",
+    "CG-7",
+    "CG-8",
+    "CGX Series 2",
+    "CGX-3 series",
+    "CGX-4 series",
+    "CGX-5 series",
+    "CGX-6"
+   ],
+   "url": "https://www.manualslib.com/manual/189612/Weil-Mclain-Cg-Series-12.html"
+  },
+  {
+   "manualId": "798640",
+   "slug": "Weil-Mclain-Gold-Cga",
+   "title": "CGA 2 Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 69,
+   "productModel": "CGA 2 Series",
+   "extraModels": [
+    "CGA 2 Series",
+    "GOLD CGa Series",
+    "GOLD CGa-25",
+    "Gold CGa-25/3",
+    "GOLD CGa-3",
+    "GOLD CGa-4",
+    "GOLD CGa-5",
+    "GOLD CGa-6",
+    "GOLD CGa-7",
+    "GOLD CGa-8"
+   ],
+   "url": "https://www.manualslib.com/manual/798640/Weil-Mclain-Gold-Cga.html"
+  },
+  {
+   "manualId": "806336",
+   "slug": "Weil-Mclain-Cga-2-Series",
+   "title": "CGA 2 Series Installation and maintenance manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "CGA 2 Series",
+   "extraModels": [
+    "GOLD CGa-25",
+    "GOLD CGa-3",
+    "GOLD CGa-4",
+    "GOLD CGa-5",
+    "GOLD CGa-6",
+    "GOLD CGa-7",
+    "GOLD CGa-8"
+   ],
+   "url": "https://www.manualslib.com/manual/806336/Weil-Mclain-Cga-2-Series.html"
+  },
+  {
+   "manualId": "1827020",
+   "slug": "Weil-Mclain-Cga-Series-2",
+   "title": "CGA 2 Series Manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "CGA 2 Series",
+   "extraModels": [
+    "CGA 2 Series",
+    "GOLD CGa-25",
+    "GOLD CGa-5",
+    "GOLD CGa-6",
+    "GOLD CGa-7",
+    "GOLD CGa-8"
+   ],
+   "url": "https://www.manualslib.com/manual/1827020/Weil-Mclain-Cga-Series-2.html"
+  },
+  {
+   "manualId": "1851830",
+   "slug": "Weil-Mclain-Cga-2-Series",
+   "title": "CGA 2 Series Manual",
+   "type": "Other",
+   "pages": 41,
+   "productModel": "CGA 2 Series",
+   "extraModels": [
+    "CP7540456",
+    "Gold CGa-25/3",
+    "GOLD CGa-4",
+    "GOLD CGa-5",
+    "GOLD CGa-6",
+    "GOLD CGa-7",
+    "GOLD CGa-8"
+   ],
+   "url": "https://www.manualslib.com/manual/1851830/Weil-Mclain-Cga-2-Series.html"
+  },
+  {
+   "manualId": "848774",
+   "slug": "Weil-Mclain-Cga-Series-2",
+   "title": "CGA 2 Series User's information manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "CGA 2 Series",
+   "extraModels": [
+    "CGA 2 Series",
+    "CGa 3 Series",
+    "CGa-28",
+    "CGi 4 Series",
+    "CGi Series 3",
+    "EG 5 Series",
+    "EG-30 THRU -75",
+    "EG-50 Series",
+    "EG-55 Series",
+    "EG-75 Series",
+    "EGH 5 Series",
+    "EGH-125 Series",
+    "EGH-85 Series",
+    "GOLD CGa-25",
+    "GOLD CGa-4",
+    "GOLD CGa-6",
+    "GOLD CGa-7",
+    "GOLD CGa-8",
+    "GOLD CGi-6",
+    "GOLD CGi-8",
+    "LGB Series 2",
+    "PEG 5 Series",
+    "PEG-30 THRU -65",
+    "PEG-50",
+    "PEG-55"
+   ],
+   "url": "https://www.manualslib.com/manual/848774/Weil-Mclain-Cga-Series-2.html"
+  },
+  {
+   "manualId": "2945077",
+   "slug": "Weil-Mclain-Cga-3-Series",
+   "title": "CGa 3 Series Manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "CGa 3 Series",
+   "extraModels": [
+    "GOLD CGa-25",
+    "GOLD CGa-4",
+    "GOLD CGa-5",
+    "GOLD CGa-6",
+    "GOLD CGa-7",
+    "GOLD CGa-8"
+   ],
+   "url": "https://www.manualslib.com/manual/2945077/Weil-Mclain-Cga-3-Series.html"
+  },
+  {
+   "manualId": "3011032",
+   "slug": "Weil-Mclain-Cga-Series",
+   "title": "CGA user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "CGA",
+   "extraModels": [
+    "CGa 3 Series",
+    "CGi 4 Series",
+    "CGi Series 3",
+    "EG 6 Series",
+    "EG Series",
+    "EG-30 THRU -75",
+    "EG-50 Series",
+    "EG-75 Series",
+    "GOLD CGa-25",
+    "GOLD CGa-3",
+    "GOLD CGa-4",
+    "GOLD CGa-5",
+    "GOLD CGa-6",
+    "GOLD CGa-7",
+    "GOLD CGa-8",
+    "GOLD CGi-25",
+    "GOLD CGi-4",
+    "GOLD CGi-5",
+    "GOLD CGi-6",
+    "GOLD CGi-7",
+    "GOLD CGi-8",
+    "LGB",
+    "LGB 3 Series",
+    "LGB Series 2",
+    "LGB-10",
+    "LGB-11",
+    "LGB-12",
+    "LGB-14",
+    "LGB-16",
+    "LGB-18",
+    "LGB-20",
+    "LGB-4",
+    "LGB-4R",
+    "LGB-5",
+    "LGB-6",
+    "LGB-7",
+    "LGB-8",
+    "LGB-9",
+    "PEG 6 Series",
+    "PEG Series",
+    "PEG-30 THRU -65",
+    "PEG-50",
+    "PEG-55"
+   ],
+   "url": "https://www.manualslib.com/manual/3011032/Weil-Mclain-Cga-Series.html"
+  },
+  {
+   "manualId": "189611",
+   "slug": "Weil-Mclain-Cga",
+   "title": "CGA User's information manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "CGA",
+   "extraModels": [
+    "CGi",
+    "CGs",
+    "EG",
+    "EGH",
+    "LGB",
+    "PEG",
+    "PFG"
+   ],
+   "url": "https://www.manualslib.com/manual/189611/Weil-Mclain-Cga.html"
+  },
+  {
+   "manualId": "189613",
+   "slug": "Weil-Mclain-Cgi",
+   "title": "CGA User's information manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "CGA",
+   "extraModels": [
+    "CGA",
+    "CGs",
+    "EG",
+    "EGH",
+    "LGB",
+    "PEG",
+    "PFG"
+   ],
+   "url": "https://www.manualslib.com/manual/189613/Weil-Mclain-Cgi.html"
+  },
+  {
+   "manualId": "691320",
+   "slug": "Weil-Mclain-Cga",
+   "title": "CGA User's information manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "CGA",
+   "extraModels": [
+    "CGi",
+    "CGs",
+    "EG",
+    "EGH",
+    "LGB",
+    "PEG",
+    "PFG"
+   ],
+   "url": "https://www.manualslib.com/manual/691320/Weil-Mclain-Cga.html"
+  },
+  {
+   "manualId": "977666",
+   "slug": "Weil-Mclain-Cga",
+   "title": "CGA User's information manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "CGA",
+   "extraModels": [
+    "CGi",
+    "CGs",
+    "EG",
+    "EGH",
+    "LBG",
+    "PEG",
+    "PFG"
+   ],
+   "url": "https://www.manualslib.com/manual/977666/Weil-Mclain-Cga.html"
+  },
+  {
+   "manualId": "3865848",
+   "slug": "Weil-Mclain-Cga-3-Cga-4",
+   "title": "CGa-3 CGa-4 Manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "CGa-3 CGa-4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3865848/Weil-Mclain-Cga-3-Cga-4.html"
+  },
+  {
+   "manualId": "3910733",
+   "slug": "Weil-Mclain-Cga-5pidn",
+   "title": "CGa-5PIDN Manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "CGa-5PIDN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3910733/Weil-Mclain-Cga-5pidn.html"
+  },
+  {
+   "manualId": "3418191",
+   "slug": "Weil-Mclain-Cgi-4-Series",
+   "title": "CGi 4 Series Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "CGi 4 Series",
+   "extraModels": [
+    "CGi Series 3",
+    "GOLD CGi-25",
+    "GOLD CGi-5",
+    "GOLD CGi-6",
+    "GOLD CGi-7",
+    "GOLD CGi-8"
+   ],
+   "url": "https://www.manualslib.com/manual/3418191/Weil-Mclain-Cgi-4-Series.html"
+  },
+  {
+   "manualId": "4130596",
+   "slug": "Weil-Mclain-Cgi-5-Series",
+   "title": "CGi 5 Series Manual",
+   "type": "Other",
+   "pages": 94,
+   "productModel": "CGi 5 Series",
+   "extraModels": [
+    "CGi-25/3",
+    "GOLD CGi-4",
+    "GOLD CGi-6",
+    "GOLD CGi-7",
+    "GOLD CGi-8"
+   ],
+   "url": "https://www.manualslib.com/manual/4130596/Weil-Mclain-Cgi-5-Series.html"
+  },
+  {
+   "manualId": "884786",
+   "slug": "Weil-Mclain-Cgi",
+   "title": "CGi Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "CGi",
+   "extraModels": [
+    "CGi Series 3",
+    "GOLD CGi-25",
+    "GOLD CGi-4",
+    "GOLD CGi-5",
+    "GOLD CGi-6",
+    "GOLD CGi-7",
+    "GOLD CGi-8"
+   ],
+   "url": "https://www.manualslib.com/manual/884786/Weil-Mclain-Cgi.html"
+  },
+  {
+   "manualId": "189609",
+   "slug": "Weil-Mclain-Cgi-Series-2",
+   "title": "CGi Series 2 Brochure & specs",
+   "type": "Other",
+   "pages": 6,
+   "productModel": "CGi Series 2",
+   "extraModels": [
+    "CGi Series 2",
+    "CGi Series 3",
+    "GOLD CGi-25",
+    "GOLD CGi-4",
+    "GOLD CGi-5",
+    "GOLD CGi-6",
+    "GOLD CGi-7",
+    "GOLD CGi-8"
+   ],
+   "url": "https://www.manualslib.com/manual/189609/Weil-Mclain-Cgi-Series-2.html"
+  },
+  {
+   "manualId": "703113",
+   "slug": "Weil-Mclain-Gold-Cgi-2-Series",
+   "title": "CGi Series 2 instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "CGi Series 2",
+   "extraModels": [
+    "GOLD CGi-25",
+    "GOLD CGi-3",
+    "GOLD CGi-4",
+    "GOLD CGi-5",
+    "GOLD CGi-6",
+    "GOLD CGi-7",
+    "GOLD CGi-8"
+   ],
+   "url": "https://www.manualslib.com/manual/703113/Weil-Mclain-Gold-Cgi-2-Series.html"
+  },
+  {
+   "manualId": "491495",
+   "slug": "Weil-Mclain-Gold-Cgi-2-Series",
+   "title": "CGi Series 2 Manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "CGi Series 2",
+   "extraModels": [
+    "GOLD CGi-25",
+    "GOLD CGi-3",
+    "GOLD CGi-4",
+    "GOLD CGi-5",
+    "GOLD CGi-6",
+    "GOLD CGi-7",
+    "GOLD CGi-8"
+   ],
+   "url": "https://www.manualslib.com/manual/491495/Weil-Mclain-Gold-Cgi-2-Series.html"
+  },
+  {
+   "manualId": "799658",
+   "slug": "Weil-Mclain-Gold-Cgi-2-Series",
+   "title": "CGi Series 2 Manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "CGi Series 2",
+   "extraModels": [
+    "GOLD CGi-25",
+    "GOLD CGi-3",
+    "GOLD CGi-4",
+    "GOLD CGi-5",
+    "GOLD CGi-6",
+    "GOLD CGi-7",
+    "GOLD CGi-8"
+   ],
+   "url": "https://www.manualslib.com/manual/799658/Weil-Mclain-Gold-Cgi-2-Series.html"
+  },
+  {
+   "manualId": "811636",
+   "slug": "Weil-Mclain-Gold-Cgi-Series-2",
+   "title": "CGi Series 2 user manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "CGi Series 2",
+   "extraModels": [
+    "CGi Series 2",
+    "GOLD CGi-25",
+    "GOLD CGi-3",
+    "GOLD CGi-4",
+    "GOLD CGi-5",
+    "GOLD CGi-6",
+    "GOLD CGi-7",
+    "GOLD CGi-8"
+   ],
+   "url": "https://www.manualslib.com/manual/811636/Weil-Mclain-Gold-Cgi-Series-2.html"
+  },
+  {
+   "manualId": "809190",
+   "slug": "Weil-Mclain-Cgi-Series-3",
+   "title": "CGi Series 3 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "CGi Series 3",
+   "extraModels": [
+    "CGi Series 3",
+    "GOLD CGi-25",
+    "GOLD CGi-4",
+    "GOLD CGi-5",
+    "GOLD CGi-6",
+    "GOLD CGi-7",
+    "GOLD CGi-8"
+   ],
+   "url": "https://www.manualslib.com/manual/809190/Weil-Mclain-Cgi-Series-3.html"
+  },
+  {
+   "manualId": "4067364",
+   "slug": "Weil-Mclain-Cgi-Series",
+   "title": "CGi Series Installation and service instructions manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "CGi Series",
+   "extraModels": [
+    "CGi Series 3",
+    "GOLD CGi-25",
+    "GOLD CGi-4",
+    "GOLD CGi-5",
+    "GOLD CGi-6",
+    "GOLD CGi-7"
+   ],
+   "url": "https://www.manualslib.com/manual/4067364/Weil-Mclain-Cgi-Series.html"
+  },
+  {
+   "manualId": "3913384",
+   "slug": "Weil-Mclain-Cgi-Series",
+   "title": "CGi Series user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "CGi Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3913384/Weil-Mclain-Cgi-Series.html"
+  },
+  {
+   "manualId": "189614",
+   "slug": "Weil-Mclain-Cgm-Series-7",
+   "title": "CGM (Series 7) installation instructions manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "CGM (Series 7)",
+   "extraModels": [
+    "P-CG-3",
+    "P-CG-4",
+    "P-CG-5",
+    "P-CG-6",
+    "P-CG-7",
+    "P-CG-8"
+   ],
+   "url": "https://www.manualslib.com/manual/189614/Weil-Mclain-Cgm-Series-7.html"
+  },
+  {
+   "manualId": "189618",
+   "slug": "Weil-Mclain-Cgm-Series-9",
+   "title": "CGM (Series 9) owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "CGM (Series 9)",
+   "extraModels": [
+    "CGM-25",
+    "CGM-3",
+    "CGM-4",
+    "CGM-5",
+    "CGM-6",
+    "CGM-7",
+    "CGM-8"
+   ],
+   "url": "https://www.manualslib.com/manual/189618/Weil-Mclain-Cgm-Series-9.html"
+  },
+  {
+   "manualId": "4264317",
+   "slug": "Weil-Mclain-Cgm-10-Series",
+   "title": "CGM 10 Series Manual",
+   "type": "Other",
+   "pages": 25,
+   "productModel": "CGM 10 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4264317/Weil-Mclain-Cgm-10-Series.html"
+  },
+  {
+   "manualId": "4639550",
+   "slug": "Weil-Mclain-Cgm-10-Series",
+   "title": "CGM 10 Series Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "CGM 10 Series",
+   "extraModels": [
+    "CGM-25",
+    "CGM-3",
+    "CGM-4",
+    "CGM-5",
+    "CGM-6",
+    "CGM-7",
+    "CGM-8"
+   ],
+   "url": "https://www.manualslib.com/manual/4639550/Weil-Mclain-Cgm-10-Series.html"
+  },
+  {
+   "manualId": "3947497",
+   "slug": "Weil-Mclain-Cgm",
+   "title": "CGM Installation, operation and service manual",
+   "type": "Service",
+   "pages": 19,
+   "productModel": "CGM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3947497/Weil-Mclain-Cgm.html"
+  },
+  {
+   "manualId": "4018652",
+   "slug": "Weil-Mclain-P-Cg",
+   "title": "CGM-25 Manual",
+   "type": "Other",
+   "pages": 23,
+   "productModel": "CGM-25",
+   "extraModels": [
+    "CGM-25",
+    "CGM-3",
+    "CGM-4",
+    "CGM-5",
+    "CGM-6",
+    "CGM-7",
+    "CGM-8",
+    "P-CG-3"
+   ],
+   "url": "https://www.manualslib.com/manual/4018652/Weil-Mclain-P-Cg.html"
+  },
+  {
+   "manualId": "4104695",
+   "slug": "Weil-Mclain-P-Cg",
+   "title": "CGM-25 Manual",
+   "type": "Other",
+   "pages": 23,
+   "productModel": "CGM-25",
+   "extraModels": [
+    "CGM-25",
+    "CGM-3",
+    "CGM-4",
+    "CGM-5",
+    "CGM-6",
+    "CGM-7",
+    "CGM-8"
+   ],
+   "url": "https://www.manualslib.com/manual/4104695/Weil-Mclain-P-Cg.html"
+  },
+  {
+   "manualId": "189615",
+   "slug": "Weil-Mclain-Cgs-Series",
+   "title": "CGs SERIES Specification sheet",
+   "type": "Other",
+   "pages": 3,
+   "productModel": "CGs SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189615/Weil-Mclain-Cgs-Series.html"
+  },
+  {
+   "manualId": "2098096",
+   "slug": "Weil-Mclain-Cgt-2-Series",
+   "title": "CGt 2 Series Manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "CGt 2 Series",
+   "extraModels": [
+    "CGT-PIN"
+   ],
+   "url": "https://www.manualslib.com/manual/2098096/Weil-Mclain-Cgt-2-Series.html"
+  },
+  {
+   "manualId": "189661",
+   "slug": "Weil-Mclain-Ultra-550-141-951-1002",
+   "title": "Conversion instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189661/Weil-Mclain-Ultra-550-141-951-1002.html"
+  },
+  {
+   "manualId": "2727741",
+   "slug": "Weil-Mclain-Cp7531680",
+   "title": "CP7531680 Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "CP7531680",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2727741/Weil-Mclain-Cp7531680.html"
+  },
+  {
+   "manualId": "189625",
+   "slug": "Weil-Mclain-Egh-105",
+   "title": "CSD-1 Control supplement",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "CSD-1",
+   "extraModels": [
+    "CSD-1",
+    "EGH-115 Series",
+    "EGH-125 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/189625/Weil-Mclain-Egh-105.html"
+  },
+  {
+   "manualId": "189620",
+   "slug": "Weil-Mclain-D-Gas-Series-2",
+   "title": "D Gas Series 2 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "D Gas Series 2",
+   "extraModels": [
+    "D Gas Series 2",
+    "D-10",
+    "D-3",
+    "D-4",
+    "D-6",
+    "D-7",
+    "D-8",
+    "D-9"
+   ],
+   "url": "https://www.manualslib.com/manual/189620/Weil-Mclain-D-Gas-Series-2.html"
+  },
+  {
+   "manualId": "189617",
+   "slug": "Weil-Mclain-Cgt",
+   "title": "datasheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "CGT-PIN"
+   ],
+   "url": "https://www.manualslib.com/manual/189617/Weil-Mclain-Cgt.html"
+  },
+  {
+   "manualId": "705752",
+   "slug": "Weil-Mclain-Eco-70",
+   "title": "ECO 110 Manual",
+   "type": "Other",
+   "pages": 124,
+   "productModel": "ECO 110",
+   "extraModels": [
+    "ECO 110",
+    "ECO 155",
+    "Evergreen 110",
+    "Evergreen 155"
+   ],
+   "url": "https://www.manualslib.com/manual/705752/Weil-Mclain-Eco-70.html"
+  },
+  {
+   "manualId": "1481519",
+   "slug": "Weil-Mclain-Eco-70",
+   "title": "ECO 110 Manual addendum",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "ECO 110",
+   "extraModels": [
+    "ECO 110",
+    "ECO 155"
+   ],
+   "url": "https://www.manualslib.com/manual/1481519/Weil-Mclain-Eco-70.html"
+  },
+  {
+   "manualId": "809229",
+   "slug": "Weil-Mclain-70",
+   "title": "ECO 70 User's information manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "ECO 70",
+   "extraModels": [
+    "ECO 70",
+    "Evergreen 110",
+    "Evergreen 155"
+   ],
+   "url": "https://www.manualslib.com/manual/809229/Weil-Mclain-70.html"
+  },
+  {
+   "manualId": "3690513",
+   "slug": "Weil-Mclain-Eco-Hp-41",
+   "title": "Eco HP 41 Application manual",
+   "type": "Other",
+   "pages": 76,
+   "productModel": "Eco HP 41",
+   "extraModels": [
+    "Eco HP 48",
+    "Eco HP 55"
+   ],
+   "url": "https://www.manualslib.com/manual/3690513/Weil-Mclain-Eco-Hp-41.html"
+  },
+  {
+   "manualId": "3749623",
+   "slug": "Weil-Mclain-Eco-Hp-41-Mbh",
+   "title": "Eco HP 41 MBH product manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "Eco HP 41 MBH",
+   "extraModels": [
+    "Eco HP 48 MBH",
+    "Eco HP 55 MBH"
+   ],
+   "url": "https://www.manualslib.com/manual/3749623/Weil-Mclain-Eco-Hp-41-Mbh.html"
+  },
+  {
+   "manualId": "2803963",
+   "slug": "Weil-Mclain-Eco-Tec-2-Series",
+   "title": "Eco Tec 110 Advanced manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "Eco Tec 110",
+   "extraModels": [
+    "Eco Tec 110",
+    "Eco Tec 150",
+    "Eco Tec 199",
+    "Eco Tec 80"
+   ],
+   "url": "https://www.manualslib.com/manual/2803963/Weil-Mclain-Eco-Tec-2-Series.html"
+  },
+  {
+   "manualId": "2928496",
+   "slug": "Weil-Mclain-Eco-Tec-2-Series",
+   "title": "Eco Tec 110 Manual",
+   "type": "Other",
+   "pages": 180,
+   "productModel": "Eco Tec 110",
+   "extraModels": [
+    "Eco Tec 110",
+    "Eco Tec 150",
+    "Eco Tec 199",
+    "Eco Tec 80"
+   ],
+   "url": "https://www.manualslib.com/manual/2928496/Weil-Mclain-Eco-Tec-2-Series.html"
+  },
+  {
+   "manualId": "4201504",
+   "slug": "Weil-Mclain-Eco-Tec-110",
+   "title": "Eco Tec 110 Manual",
+   "type": "Other",
+   "pages": 180,
+   "productModel": "Eco Tec 110",
+   "extraModels": [
+    "Eco Tec 150",
+    "Eco Tec 199",
+    "ECO Tec 199-C",
+    "ECO Tec 199-H",
+    "Eco Tec 2 Series",
+    "Eco Tec 80",
+    "ECO Tec 80-H"
+   ],
+   "url": "https://www.manualslib.com/manual/4201504/Weil-Mclain-Eco-Tec-110.html"
+  },
+  {
+   "manualId": "1995474",
+   "slug": "Weil-Mclain-Eco-Tec-80",
+   "title": "Eco Tec 110 User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Eco Tec 110",
+   "extraModels": [
+    "Eco Tec 110",
+    "Eco Tec 150"
+   ],
+   "url": "https://www.manualslib.com/manual/1995474/Weil-Mclain-Eco-Tec-80.html"
+  },
+  {
+   "manualId": "4549982",
+   "slug": "Weil-Mclain-Eco-Tec-3-Series",
+   "title": "Eco Tec 110 User's information manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "Eco Tec 110",
+   "extraModels": [
+    "Eco Tec 110",
+    "Eco Tec 150",
+    "Eco Tec 199",
+    "Eco Tec 80"
+   ],
+   "url": "https://www.manualslib.com/manual/4549982/Weil-Mclain-Eco-Tec-3-Series.html"
+  },
+  {
+   "manualId": "2853966",
+   "slug": "Weil-Mclain-Eco-Tec-2-Series",
+   "title": "ECO Tec 110-C instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "ECO Tec 110-C",
+   "extraModels": [
+    "ECO Tec 110-C",
+    "ECO Tec 110-H",
+    "ECO Tec 150-C",
+    "ECO Tec 150-H",
+    "ECO Tec 199-C",
+    "ECO Tec 199-H",
+    "ECO Tec 80-H"
+   ],
+   "url": "https://www.manualslib.com/manual/2853966/Weil-Mclain-Eco-Tec-2-Series.html"
+  },
+  {
+   "manualId": "3215065",
+   "slug": "Weil-Mclain-Eco-Tec-80-H",
+   "title": "ECO Tec 110-C User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "ECO Tec 110-C",
+   "extraModels": [
+    "ECO Tec 110-C",
+    "ECO Tec 110-H",
+    "ECO Tec 150-C",
+    "ECO Tec 150-H",
+    "ECO Tec 199-C",
+    "ECO Tec 199-H",
+    "Eco Tec 2 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3215065/Weil-Mclain-Eco-Tec-80-H.html"
+  },
+  {
+   "manualId": "3872410",
+   "slug": "Weil-Mclain-Eco-Tec199",
+   "title": "Eco Tec199 User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Eco Tec199",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3872410/Weil-Mclain-Eco-Tec199.html"
+  },
+  {
+   "manualId": "3673779",
+   "slug": "Weil-Mclain-Ecohp-Idu-41",
+   "title": "EcoHP IDU 41 product manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "EcoHP IDU 41",
+   "extraModels": [
+    "EcoHP IDU 48",
+    "EcoHP IDU 55"
+   ],
+   "url": "https://www.manualslib.com/manual/3673779/Weil-Mclain-Ecohp-Idu-41.html"
+  },
+  {
+   "manualId": "3874214",
+   "slug": "Weil-Mclain-Ecotec-110",
+   "title": "EcoTec 110 Manual",
+   "type": "Other",
+   "pages": 156,
+   "productModel": "EcoTec 110",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3874214/Weil-Mclain-Ecotec-110.html"
+  },
+  {
+   "manualId": "3874215",
+   "slug": "Weil-Mclain-Ecotec-150",
+   "title": "EcoTec 150 Manual",
+   "type": "Other",
+   "pages": 156,
+   "productModel": "EcoTec 150",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3874215/Weil-Mclain-Ecotec-150.html"
+  },
+  {
+   "manualId": "3874216",
+   "slug": "Weil-Mclain-Ecotec-199",
+   "title": "EcoTec 199 Manual",
+   "type": "Other",
+   "pages": 156,
+   "productModel": "EcoTec 199",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3874216/Weil-Mclain-Ecotec-199.html"
+  },
+  {
+   "manualId": "2042048",
+   "slug": "Weil-Mclain-Ecotec-80",
+   "title": "EcoTec 80 Manual",
+   "type": "Other",
+   "pages": 156,
+   "productModel": "EcoTec 80",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2042048/Weil-Mclain-Ecotec-80.html"
+  },
+  {
+   "manualId": "4147045",
+   "slug": "Weil-Mclain-Eg-3-Series",
+   "title": "EG 3 Series Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "EG 3 Series",
+   "extraModels": [
+    "EG-30 THRU -75",
+    "EG-35 Series",
+    "EG-40 Series",
+    "EG-45 Series",
+    "EG-50 Series",
+    "EG-55 Series",
+    "EG-65 Series",
+    "EG-75 Series",
+    "EGH 3 Series",
+    "EGH-105 Series",
+    "EGH-115 Series",
+    "EGH-125 Series",
+    "EGH-85 Series",
+    "EGH-95 Series",
+    "PEG 3 Series",
+    "PEG-35-S",
+    "PEG-55-S"
+   ],
+   "url": "https://www.manualslib.com/manual/4147045/Weil-Mclain-Eg-3-Series.html"
+  },
+  {
+   "manualId": "704293",
+   "slug": "Weil-Mclain-Eg-5-Series",
+   "title": "EG 30 Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "EG 30",
+   "extraModels": [
+    "EG 30",
+    "EG 35",
+    "EG 40",
+    "EG 45",
+    "EG 50",
+    "EG 55",
+    "EG 65",
+    "EG 75",
+    "EGH 105",
+    "EGH 115",
+    "EGH 125",
+    "EGH 5 Series",
+    "EGH 85",
+    "EGH 95",
+    "PEG 5 Series",
+    "PEG-30 THRU -65",
+    "PEG-35",
+    "PEG-40",
+    "PEG-45",
+    "PEG-50",
+    "PEG-55",
+    "PEG-65"
+   ],
+   "url": "https://www.manualslib.com/manual/704293/Weil-Mclain-Eg-5-Series.html"
+  },
+  {
+   "manualId": "4057894",
+   "slug": "Weil-Mclain-Eg-Series",
+   "title": "EG 30-35 Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "EG 30-35",
+   "extraModels": [
+    "EG 30-35",
+    "EG 40-45",
+    "EG 50-55",
+    "EG 65",
+    "EG 75",
+    "EGH 105-125",
+    "EGH 85-95",
+    "PEG Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4057894/Weil-Mclain-Eg-Series.html"
+  },
+  {
+   "manualId": "2304698",
+   "slug": "Weil-Mclain-Eg-6-Series",
+   "title": "EG 6 Series Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "EG 6 Series",
+   "extraModels": [
+    "EG-30 THRU -75",
+    "EG-35 Series",
+    "EG-40 Series",
+    "EG-45 Series",
+    "EG-50 Series",
+    "EG-55 Series",
+    "EG-65 Series",
+    "EG-75 Series",
+    "EGH 5 Series",
+    "EGH-105 Series",
+    "EGH-115 Series",
+    "EGH-125 Series",
+    "EGH-85 Series",
+    "EGH-95 Series",
+    "PEG 6 Series",
+    "PEG-30 THRU -65",
+    "PEG-35",
+    "PEG-40",
+    "PEG-45",
+    "PEG-50",
+    "PEG-55",
+    "PEG-65"
+   ],
+   "url": "https://www.manualslib.com/manual/2304698/Weil-Mclain-Eg-6-Series.html"
+  },
+  {
+   "manualId": "189622",
+   "slug": "Weil-Mclain-Eg",
+   "title": "EG Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "EG",
+   "extraModels": [
+    "EG-35 Series",
+    "EG-40 Series",
+    "EG-45 Series",
+    "EG-50 Series",
+    "EG-55 Series",
+    "EG-65 Series",
+    "EG-75 Series",
+    "EGH-105 Series",
+    "EGH-115 Series",
+    "EGH-125 Series",
+    "EGH-85 Series",
+    "EGH-95 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/189622/Weil-Mclain-Eg.html"
+  },
+  {
+   "manualId": "688998",
+   "slug": "Weil-Mclain-Eg",
+   "title": "EG Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "EG",
+   "extraModels": [
+    "EG-30 THRU -75",
+    "EG-35 Series",
+    "EG-40 Series",
+    "EG-45 Series",
+    "EG-50 Series",
+    "EG-55 Series",
+    "EG-65 Series",
+    "EG-75 Series",
+    "EGH",
+    "EGH-115 Series",
+    "EGH-125 Series",
+    "EGH-85 Series",
+    "EGH-95 EGH-105",
+    "PEG",
+    "PEG-30 THRU -65",
+    "PEG-35",
+    "PEG-40",
+    "PEG-45",
+    "PEG-50",
+    "PEG-55",
+    "PEG-65"
+   ],
+   "url": "https://www.manualslib.com/manual/688998/Weil-Mclain-Eg.html"
+  },
+  {
+   "manualId": "189619",
+   "slug": "Weil-Mclain-Eg-Series-4",
+   "title": "EG Series 4 Brochure & specs",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "EG Series 4",
+   "extraModels": [
+    "EG Series 4",
+    "EG-35 Series",
+    "EG-40 Series",
+    "EG-45 Series",
+    "EG-50 Series",
+    "EG-55 Series",
+    "EG-65 Series",
+    "EG-75 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/189619/Weil-Mclain-Eg-Series-4.html"
+  },
+  {
+   "manualId": "4194860",
+   "slug": "Weil-Mclain-Eg-Series",
+   "title": "EG Series instruction manual",
+   "type": "User / Owner",
+   "pages": 92,
+   "productModel": "EG Series",
+   "extraModels": [
+    "EG-30 THRU -75",
+    "EG-35 Series",
+    "EG-40 Series",
+    "EG-45 Series",
+    "EG-50 Series",
+    "EG-55 Series",
+    "EG-65 Series",
+    "EG-75 Series",
+    "PEG Series",
+    "PEG-30 THRU -65",
+    "PEG-35",
+    "PEG-40",
+    "PEG-45",
+    "PEG-50",
+    "PEG-55",
+    "PEG-65"
+   ],
+   "url": "https://www.manualslib.com/manual/4194860/Weil-Mclain-Eg-Series.html"
+  },
+  {
+   "manualId": "2037652",
+   "slug": "Weil-Mclain-4-Series",
+   "title": "EG Series Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "EG Series",
+   "extraModels": [
+    "EG Series",
+    "EG-30 THRU -75",
+    "EG-35 Series",
+    "EG-40 Series",
+    "EG-45 Series",
+    "EG-50 Series",
+    "EG-55 Series",
+    "EG-65 Series",
+    "EG-75 Series",
+    "EGH Series",
+    "EGH-105 Series",
+    "EGH-115 Series",
+    "EGH-125 Series",
+    "EGH-85 Series",
+    "EGH-95 Series",
+    "PEG Series",
+    "PEG-30 THRU -65",
+    "PEG-35",
+    "PEG-40",
+    "PEG-45",
+    "PEG-50",
+    "PEG-55",
+    "PEG-65"
+   ],
+   "url": "https://www.manualslib.com/manual/2037652/Weil-Mclain-4-Series.html"
+  },
+  {
+   "manualId": "189624",
+   "slug": "Weil-Mclain-Eg-30-Thru-75",
+   "title": "EG-30 THRU -75 Control supplement",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "EG-30 THRU -75",
+   "extraModels": [
+    "EG-75 Series",
+    "PEG-30 THRU -65",
+    "PEG-65"
+   ],
+   "url": "https://www.manualslib.com/manual/189624/Weil-Mclain-Eg-30-Thru-75.html"
+  },
+  {
+   "manualId": "189623",
+   "slug": "Weil-Mclain-Egh-85",
+   "title": "EGH-85 Series Control supplement",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "EGH-85 Series",
+   "extraModels": [
+    "EGH-95 Series",
+    "PFG 7 Series",
+    "PFG-6"
+   ],
+   "url": "https://www.manualslib.com/manual/189623/Weil-Mclain-Egh-85.html"
+  },
+  {
+   "manualId": "1442591",
+   "slug": "Weil-Mclain-Evergreen-70",
+   "title": "Evergreen 110 User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Evergreen 110",
+   "extraModels": [
+    "Evergreen 110",
+    "Evergreen 155"
+   ],
+   "url": "https://www.manualslib.com/manual/1442591/Weil-Mclain-Evergreen-70.html"
+  },
+  {
+   "manualId": "972107",
+   "slug": "Weil-Mclain-Evergreen-220",
+   "title": "Evergreen 220 Advanced manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "Evergreen 220",
+   "extraModels": [
+    "Evergreen 299",
+    "Evergreen 300",
+    "Evergreen 399"
+   ],
+   "url": "https://www.manualslib.com/manual/972107/Weil-Mclain-Evergreen-220.html"
+  },
+  {
+   "manualId": "1331961",
+   "slug": "Weil-Mclain-Evergreen-220",
+   "title": "Evergreen 220 instructions manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "Evergreen 220",
+   "extraModels": [
+    "Evergreen 299",
+    "Evergreen 300",
+    "Evergreen 399"
+   ],
+   "url": "https://www.manualslib.com/manual/1331961/Weil-Mclain-Evergreen-220.html"
+  },
+  {
+   "manualId": "2236618",
+   "slug": "Weil-Mclain-Evergreen-Pro",
+   "title": "Evergreen 220 Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "Evergreen 220",
+   "extraModels": [
+    "Evergreen 220",
+    "Evergreen 299",
+    "Evergreen 300",
+    "Evergreen 399"
+   ],
+   "url": "https://www.manualslib.com/manual/2236618/Weil-Mclain-Evergreen-Pro.html"
+  },
+  {
+   "manualId": "978468",
+   "slug": "Weil-Mclain-Evergreen-220",
+   "title": "Evergreen 220 user manual",
+   "type": "User / Owner",
+   "pages": 132,
+   "productModel": "Evergreen 220",
+   "extraModels": [
+    "Evergreen 299",
+    "Evergreen 300",
+    "Evergreen 399"
+   ],
+   "url": "https://www.manualslib.com/manual/978468/Weil-Mclain-Evergreen-220.html"
+  },
+  {
+   "manualId": "977220",
+   "slug": "Weil-Mclain-Evergreen-220",
+   "title": "Evergreen 220 User's information manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "Evergreen 220",
+   "extraModels": [
+    "Evergreen 299",
+    "Evergreen 300",
+    "Evergreen 399"
+   ],
+   "url": "https://www.manualslib.com/manual/977220/Weil-Mclain-Evergreen-220.html"
+  },
+  {
+   "manualId": "1338284",
+   "slug": "Weil-Mclain-Evergreen-Evg-70",
+   "title": "Evergreen EVG 110 Manual",
+   "type": "Other",
+   "pages": 144,
+   "productModel": "Evergreen EVG 110",
+   "extraModels": [
+    "Evergreen EVG 110",
+    "Evergreen EVG 155"
+   ],
+   "url": "https://www.manualslib.com/manual/1338284/Weil-Mclain-Evergreen-Evg-70.html"
+  },
+  {
+   "manualId": "3235725",
+   "slug": "Weil-Mclain-Evergreen-Pro-1-Evg-110",
+   "title": "EVERGREEN PRO 1 EVG-110 User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "EVERGREEN PRO 1 EVG-110",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3235725/Weil-Mclain-Evergreen-Pro-1-Evg-110.html"
+  },
+  {
+   "manualId": "3964270",
+   "slug": "Weil-Mclain-Evergreen-Pro-110",
+   "title": "EVERGREEN PRO 110 Advanced manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": "EVERGREEN PRO 110",
+   "extraModels": [
+    "EVERGREEN PRO 155"
+   ],
+   "url": "https://www.manualslib.com/manual/3964270/Weil-Mclain-Evergreen-Pro-110.html"
+  },
+  {
+   "manualId": "4536850",
+   "slug": "Weil-Mclain-Evergreen-Pro-110",
+   "title": "EVERGREEN PRO 110 Advanced manual",
+   "type": "Other",
+   "pages": 88,
+   "productModel": "EVERGREEN PRO 110",
+   "extraModels": [
+    "EVERGREEN PRO 155",
+    "Evergreen Pro 220",
+    "Evergreen Pro 299",
+    "Evergreen Pro 300",
+    "Evergreen Pro 399"
+   ],
+   "url": "https://www.manualslib.com/manual/4536850/Weil-Mclain-Evergreen-Pro-110.html"
+  },
+  {
+   "manualId": "4553998",
+   "slug": "Weil-Mclain-Evergreen-Pro-110-Series",
+   "title": "EVERGREEN PRO 110 Manual",
+   "type": "Other",
+   "pages": 200,
+   "productModel": "EVERGREEN PRO 110",
+   "extraModels": [
+    "EVERGREEN PRO 155",
+    "Evergreen Pro 220",
+    "Evergreen Pro 299",
+    "Evergreen Pro 300",
+    "Evergreen Pro 399"
+   ],
+   "url": "https://www.manualslib.com/manual/4553998/Weil-Mclain-Evergreen-Pro-110-Series.html"
+  },
+  {
+   "manualId": "4526991",
+   "slug": "Weil-Mclain-Evergreen-Pro",
+   "title": "Evergreen Pro Non-zoning user's information manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Evergreen Pro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4526991/Weil-Mclain-Evergreen-Pro.html"
+  },
+  {
+   "manualId": "189628",
+   "slug": "Weil-Mclain-Flame-Guardian-Wmbc-1a",
+   "title": "FLAME GUARDIAN WMBC-1A Control supplement",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "FLAME GUARDIAN WMBC-1A",
+   "extraModels": [
+    "LGB-10",
+    "LGB-11",
+    "LGB-12",
+    "LGB-6",
+    "LGB-7",
+    "LGB-8",
+    "LGB-9"
+   ],
+   "url": "https://www.manualslib.com/manual/189628/Weil-Mclain-Flame-Guardian-Wmbc-1a.html"
+  },
+  {
+   "manualId": "266827",
+   "slug": "Weil-Mclain-Gas-Burner",
+   "title": "Gas Burner specification",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "Gas Burner",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/266827/Weil-Mclain-Gas-Burner.html"
+  },
+  {
+   "manualId": "797243",
+   "slug": "Weil-Mclain-Gold-Cga",
+   "title": "GOLD CGa Installation and maintenance manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "GOLD CGa",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/797243/Weil-Mclain-Gold-Cga.html"
+  },
+  {
+   "manualId": "2291734",
+   "slug": "Weil-Mclain-Gold-Cga",
+   "title": "GOLD CGa Manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "GOLD CGa",
+   "extraModels": [
+    "GOLD CGa-25",
+    "Gold CGa-25/3",
+    "GOLD CGa-3",
+    "GOLD CGa-4",
+    "GOLD CGa-5",
+    "GOLD CGa-6",
+    "GOLD CGa-7",
+    "GOLD CGa-8"
+   ],
+   "url": "https://www.manualslib.com/manual/2291734/Weil-Mclain-Gold-Cga.html"
+  },
+  {
+   "manualId": "646811",
+   "slug": "Weil-Mclain-Gold-Cga-25",
+   "title": "GOLD CGa-25 Manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "GOLD CGa-25",
+   "extraModels": [
+    "GOLD CGa-3",
+    "GOLD CGa-4",
+    "GOLD CGa-5",
+    "GOLD CGa-6",
+    "GOLD CGa-7",
+    "GOLD CGa-8"
+   ],
+   "url": "https://www.manualslib.com/manual/646811/Weil-Mclain-Gold-Cga-25.html"
+  },
+  {
+   "manualId": "4130593",
+   "slug": "Weil-Mclain-Cga-25-3",
+   "title": "Gold CGa-25/3 Manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "Gold CGa-25/3",
+   "extraModels": [
+    "GOLD CGa-4",
+    "GOLD CGa-5",
+    "GOLD CGa-6",
+    "GOLD CGa-7",
+    "GOLD CGa-8"
+   ],
+   "url": "https://www.manualslib.com/manual/4130593/Weil-Mclain-Cga-25-3.html"
+  },
+  {
+   "manualId": "189631",
+   "slug": "Weil-Mclain-Gold-Cgi-550-110-710-0107",
+   "title": "GOLD CGi user manual",
+   "type": "User / Owner",
+   "pages": 68,
+   "productModel": "GOLD CGi",
+   "extraModels": [
+    "Gold CPi"
+   ],
+   "url": "https://www.manualslib.com/manual/189631/Weil-Mclain-Gold-Cgi-550-110-710-0107.html"
+  },
+  {
+   "manualId": "693801",
+   "slug": "Weil-Mclain-Gold-Cgi-4e",
+   "title": "GOLD CGi-4E Manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "GOLD CGi-4E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/693801/Weil-Mclain-Gold-Cgi-4e.html"
+  },
+  {
+   "manualId": "491482",
+   "slug": "Weil-Mclain-Gold-Cgs-550-110-260-0107",
+   "title": "GOLD CGS 550-110-260/0107 Manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "GOLD CGS 550-110-260/0107",
+   "extraModels": [
+    "GOLD CGs-3",
+    "GOLD CGs-4"
+   ],
+   "url": "https://www.manualslib.com/manual/491482/Weil-Mclain-Gold-Cgs-550-110-260-0107.html"
+  },
+  {
+   "manualId": "2344911",
+   "slug": "Weil-Mclain-Gold-Cgs",
+   "title": "GOLD CGs Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "GOLD CGs",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2344911/Weil-Mclain-Gold-Cgs.html"
+  },
+  {
+   "manualId": "189632",
+   "slug": "Weil-Mclain-Gold-Cgs-550-110-260-02002",
+   "title": "GOLD CGs user manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "GOLD CGs",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189632/Weil-Mclain-Gold-Cgs-550-110-260-02002.html"
+  },
+  {
+   "manualId": "189638",
+   "slug": "Weil-Mclain-Gold-Cgs-550-110-260-0508",
+   "title": "GOLD CGs user manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "GOLD CGs",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189638/Weil-Mclain-Gold-Cgs-550-110-260-0508.html"
+  },
+  {
+   "manualId": "189629",
+   "slug": "Weil-Mclain-Gold-Cgs",
+   "title": "GOLD CGs User's information manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "GOLD CGs",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189629/Weil-Mclain-Gold-Cgs.html"
+  },
+  {
+   "manualId": "688501",
+   "slug": "Weil-Mclain-Gold-Cgs-4e",
+   "title": "Gold CGs-4E Manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "Gold CGs-4E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/688501/Weil-Mclain-Gold-Cgs-4e.html"
+  },
+  {
+   "manualId": "1092305",
+   "slug": "Weil-Mclain-Gold-Cgt",
+   "title": "GOLD CGt SERIES Manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "GOLD CGt SERIES",
+   "extraModels": [
+    "GOLD CGt SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/1092305/Weil-Mclain-Gold-Cgt.html"
+  },
+  {
+   "manualId": "801286",
+   "slug": "Weil-Mclain-Gold-Cgt",
+   "title": "GOLD CGt SERIES Manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "GOLD CGt SERIES",
+   "extraModels": [
+    "GOLD CGt SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/801286/Weil-Mclain-Gold-Cgt.html"
+  },
+  {
+   "manualId": "855863",
+   "slug": "Weil-Mclain-Gold-Cgt",
+   "title": "GOLD CGt SERIES User's information manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "GOLD CGt SERIES",
+   "extraModels": [
+    "GOLD CGt SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/855863/Weil-Mclain-Gold-Cgt.html"
+  },
+  {
+   "manualId": "703577",
+   "slug": "Weil-Mclain-Gold-Gv-1-Series",
+   "title": "Gold GV 1 series Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "Gold GV 1 series",
+   "extraModels": [
+    "Gold GV 2 Series",
+    "Gold GV 3 Series",
+    "Gold GV Series 4"
+   ],
+   "url": "https://www.manualslib.com/manual/703577/Weil-Mclain-Gold-Gv-1-Series.html"
+  },
+  {
+   "manualId": "189660",
+   "slug": "Weil-Mclain-Series-1",
+   "title": "Gold GV 1 series Replacement Instructions",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": "Gold GV 1 series",
+   "extraModels": [
+    "Gold GV 1 series"
+   ],
+   "url": "https://www.manualslib.com/manual/189660/Weil-Mclain-Series-1.html"
+  },
+  {
+   "manualId": "189637",
+   "slug": "Weil-Mclain-Gold-Series-2",
+   "title": "Gold GV 2 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Gold GV 2 Series",
+   "extraModels": [
+    "Gold GV 2 Series",
+    "Gold Series 2"
+   ],
+   "url": "https://www.manualslib.com/manual/189637/Weil-Mclain-Gold-Series-2.html"
+  },
+  {
+   "manualId": "1008894",
+   "slug": "Weil-Mclain-Gv-3",
+   "title": "Gold GV 3 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "Gold GV 3 Series",
+   "extraModels": [
+    "Gold GV Series 4",
+    "Gold GV-5",
+    "Gold GV-6"
+   ],
+   "url": "https://www.manualslib.com/manual/1008894/Weil-Mclain-Gv-3.html"
+  },
+  {
+   "manualId": "1752448",
+   "slug": "Weil-Mclain-Gold-Gv-3-Series",
+   "title": "Gold GV 3 Series Manual",
+   "type": "Other",
+   "pages": 95,
+   "productModel": "Gold GV 3 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1752448/Weil-Mclain-Gold-Gv-3-Series.html"
+  },
+  {
+   "manualId": "2356446",
+   "slug": "Weil-Mclain-Gold-Gv-3-Series",
+   "title": "Gold GV 3 Series Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "Gold GV 3 Series",
+   "extraModels": [
+    "Gold GV Series 4"
+   ],
+   "url": "https://www.manualslib.com/manual/2356446/Weil-Mclain-Gold-Gv-3-Series.html"
+  },
+  {
+   "manualId": "2422521",
+   "slug": "Weil-Mclain-Gold-Gv-3-Series",
+   "title": "Gold GV 3 Series Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "Gold GV 3 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2422521/Weil-Mclain-Gold-Gv-3-Series.html"
+  },
+  {
+   "manualId": "3498532",
+   "slug": "Weil-Mclain-Gold-Gv-3",
+   "title": "Gold GV 3 Series Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "Gold GV 3 Series",
+   "extraModels": [
+    "Gold GV Series 4",
+    "Gold GV-5",
+    "Gold GV-6"
+   ],
+   "url": "https://www.manualslib.com/manual/3498532/Weil-Mclain-Gold-Gv-3.html"
+  },
+  {
+   "manualId": "4066593",
+   "slug": "Weil-Mclain-Gold-Gv-3-Series",
+   "title": "Gold GV 3 Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "Gold GV 3 Series",
+   "extraModels": [
+    "Gold GV Series 4",
+    "Gold GV-5",
+    "Gold GV-6"
+   ],
+   "url": "https://www.manualslib.com/manual/4066593/Weil-Mclain-Gold-Gv-3-Series.html"
+  },
+  {
+   "manualId": "4592827",
+   "slug": "Weil-Mclain-Gold-Gv-Series",
+   "title": "Gold GV 3 Series Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "Gold GV 3 Series",
+   "extraModels": [
+    "Gold GV 3 Series",
+    "Gold GV Series 4",
+    "Gold GV-5",
+    "Gold GV-6"
+   ],
+   "url": "https://www.manualslib.com/manual/4592827/Weil-Mclain-Gold-Gv-Series.html"
+  },
+  {
+   "manualId": "885396",
+   "slug": "Weil-Mclain-Gold-Gv",
+   "title": "Gold GV 3 Series Manual",
+   "type": "Other",
+   "pages": 97,
+   "productModel": "Gold GV 3 Series",
+   "extraModels": [
+    "Gold GV 3 Series",
+    "Gold GV Series 4",
+    "Gold GV-5",
+    "Gold GV-6"
+   ],
+   "url": "https://www.manualslib.com/manual/885396/Weil-Mclain-Gold-Gv.html"
+  },
+  {
+   "manualId": "189666",
+   "slug": "Weil-Mclain-Series-1-Boiler",
+   "title": "Gold GV 3 Series product manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "Gold GV 3 Series",
+   "extraModels": [
+    "Gold GV 3 Series",
+    "Gold GV Series 4",
+    "Gold GV-5",
+    "Gold GV-6"
+   ],
+   "url": "https://www.manualslib.com/manual/189666/Weil-Mclain-Series-1-Boiler.html"
+  },
+  {
+   "manualId": "189636",
+   "slug": "Weil-Mclain-Gold-Gv-Series-3",
+   "title": "Gold GV 3 Series Supplement manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "Gold GV 3 Series",
+   "extraModels": [
+    "Gold GV 3 Series",
+    "Gold GV Series 4"
+   ],
+   "url": "https://www.manualslib.com/manual/189636/Weil-Mclain-Gold-Gv-Series-3.html"
+  },
+  {
+   "manualId": "189627",
+   "slug": "Weil-Mclain-Gas-Conversion-Kit-Gv-3-510-811-600",
+   "title": "Gold GV 3 Series user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "Gold GV 3 Series",
+   "extraModels": [
+    "Gold GV Series 4",
+    "Gold GV-5",
+    "Gold GV-6"
+   ],
+   "url": "https://www.manualslib.com/manual/189627/Weil-Mclain-Gas-Conversion-Kit-Gv-3-510-811-600.html"
+  },
+  {
+   "manualId": "189633",
+   "slug": "Weil-Mclain-Gold-Gv-3-Series",
+   "title": "Gold GV 3 Series User's information manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Gold GV 3 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189633/Weil-Mclain-Gold-Gv-3-Series.html"
+  },
+  {
+   "manualId": "1444246",
+   "slug": "Weil-Mclain-Gold-Gv",
+   "title": "Gold GV InstructionsFor use",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "Gold GV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1444246/Weil-Mclain-Gold-Gv.html"
+  },
+  {
+   "manualId": "860656",
+   "slug": "Weil-Mclain-Gold-Gv-Series-4",
+   "title": "Gold GV Series 4 User's information manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Gold GV Series 4",
+   "extraModels": [
+    "Gold GV Series 4"
+   ],
+   "url": "https://www.manualslib.com/manual/860656/Weil-Mclain-Gold-Gv-Series-4.html"
+  },
+  {
+   "manualId": "4228074",
+   "slug": "Weil-Mclain-Gold",
+   "title": "GOLD Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "GOLD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4228074/Weil-Mclain-Gold.html"
+  },
+  {
+   "manualId": "189688",
+   "slug": "Weil-Mclain-New-Series-3",
+   "title": "Gold Plus 40 brochure",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "Gold Plus 40",
+   "extraModels": [
+    "Gold Plus 40",
+    "Gold Plus 60",
+    "Gold Plus 80",
+    "New Series 3",
+    "ULTRA Ultra-105",
+    "ULTRA Ultra-155",
+    "ULTRA Ultra-230",
+    "ULTRA Ultra-310",
+    "ULTRA ULTRA-80",
+    "Gold Plus 30",
+    "PLUS 100",
+    "PLUS 110",
+    "PLUS 119",
+    "ULTRA Plus 40",
+    "ULTRA Plus 60",
+    "ULTRA Plus 80"
+   ],
+   "url": "https://www.manualslib.com/manual/189688/Weil-Mclain-New-Series-3.html"
+  },
+  {
+   "manualId": "189686",
+   "slug": "Weil-Mclain-Combo-30",
+   "title": "Gold Plus 40 installation instructions",
+   "type": "Installation",
+   "pages": null,
+   "productModel": "Gold Plus 40",
+   "extraModels": [
+    "Gold Plus 40",
+    "Gold Plus 60",
+    "Gold Plus 80",
+    "Gold Plus 30",
+    "PLUS 100",
+    "PLUS 120"
+   ],
+   "url": "https://www.manualslib.com/manual/189686/Weil-Mclain-Combo-30.html"
+  },
+  {
+   "manualId": "189687",
+   "slug": "Weil-Mclain-Ultra-Electric-Water-Heater",
+   "title": "Gold Plus 40 Instruction manual supplement",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Gold Plus 40",
+   "extraModels": [
+    "Gold Plus 40",
+    "Gold Plus 60",
+    "Gold Plus 80",
+    "ULTRA Ultra-105",
+    "ULTRA Ultra-155",
+    "ULTRA Ultra-230",
+    "ULTRA Ultra-310",
+    "ULTRA ULTRA-80"
+   ],
+   "url": "https://www.manualslib.com/manual/189687/Weil-Mclain-Ultra-Electric-Water-Heater.html"
+  },
+  {
+   "manualId": "189689",
+   "slug": "Weil-Mclain-C-1013",
+   "title": "Gold Plus 40 troubleshooting manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "Gold Plus 40",
+   "extraModels": [
+    "Gold Plus 40",
+    "Gold Plus 60",
+    "Gold Plus 80",
+    "Gold Plus 30",
+    "PLUS 100",
+    "PLUS 110",
+    "PLUS 119",
+    "PLUS 120",
+    "ULTRA Plus 30",
+    "ULTRA Plus 40",
+    "ULTRA Plus 60",
+    "ULTRA Plus 80"
+   ],
+   "url": "https://www.manualslib.com/manual/189689/Weil-Mclain-C-1013.html"
+  },
+  {
+   "manualId": "189693",
+   "slug": "Weil-Mclain-Plus-Line-Plus-E017-A-1206",
+   "title": "Gold Plus 40 user manual",
+   "type": "User / Owner",
+   "pages": 68,
+   "productModel": "Gold Plus 40",
+   "extraModels": [
+    "Gold Plus 40",
+    "Gold Plus 60",
+    "Gold Plus 80",
+    "Gold Plus 30",
+    "PLUS 100",
+    "PLUS 110",
+    "PLUS 119",
+    "PLUS LINE PLUS-E017-A/1206",
+    "ULTRA Plus 40",
+    "ULTRA Plus 60",
+    "ULTRA Plus 80"
+   ],
+   "url": "https://www.manualslib.com/manual/189693/Weil-Mclain-Plus-Line-Plus-E017-A-1206.html"
+  },
+  {
+   "manualId": "893718",
+   "slug": "Weil-Mclain-Ultra-3-Series",
+   "title": "Gold Plus 40 user manual",
+   "type": "User / Owner",
+   "pages": 124,
+   "productModel": "Gold Plus 40",
+   "extraModels": [
+    "Gold Plus 40",
+    "Gold Plus 60",
+    "Gold Plus 80",
+    "Ultra 105",
+    "Ultra 155",
+    "Ultra 230; Ultra 299",
+    "Ultra 399",
+    "Ultra 80"
+   ],
+   "url": "https://www.manualslib.com/manual/893718/Weil-Mclain-Ultra-3-Series.html"
+  },
+  {
+   "manualId": "897256",
+   "slug": "Weil-Mclain-Gold-Sgo",
+   "title": "GOLD SGO Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "GOLD SGO",
+   "extraModels": [
+    "SGO GOLD Series"
+   ],
+   "url": "https://www.manualslib.com/manual/897256/Weil-Mclain-Gold-Sgo.html"
+  },
+  {
+   "manualId": "886649",
+   "slug": "Weil-Mclain-Wgo",
+   "title": "gold WGO Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "gold WGO",
+   "extraModels": [
+    "gold WGO"
+   ],
+   "url": "https://www.manualslib.com/manual/886649/Weil-Mclain-Wgo.html"
+  },
+  {
+   "manualId": "741412",
+   "slug": "Weil-Mclain-Wtgo",
+   "title": "Gold WTGO-2 Installation and start-up manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Gold WTGO-2",
+   "extraModels": [
+    "Gold WTGO-2",
+    "Gold WTGO-3",
+    "Gold WTGO-4",
+    "Gold WTGO-5",
+    "Gold WTGO-6",
+    "Gold WTGO-7",
+    "Gold WTGO-8",
+    "Gold WTGO-9"
+   ],
+   "url": "https://www.manualslib.com/manual/741412/Weil-Mclain-Wtgo.html"
+  },
+  {
+   "manualId": "1648094",
+   "slug": "Weil-Mclain-Wtgo-Series",
+   "title": "Gold WTGO-4 Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "Gold WTGO-4",
+   "extraModels": [
+    "Gold WTGO-4",
+    "Gold WTGO-5",
+    "Gold WTGO-6",
+    "Gold WTGO-7",
+    "Gold WTGO-8",
+    "Gold WTGO-9",
+    "WTGO-3"
+   ],
+   "url": "https://www.manualslib.com/manual/1648094/Weil-Mclain-Wtgo-Series.html"
+  },
+  {
+   "manualId": "2203619",
+   "slug": "Weil-Mclain-Wtgo-4-Series",
+   "title": "Gold WTGO-4 Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "Gold WTGO-4",
+   "extraModels": [
+    "Gold WTGO-5",
+    "Gold WTGO-6",
+    "Gold WTGO-7",
+    "Gold WTGO-8",
+    "Gold WTGO-9",
+    "WTGO-3"
+   ],
+   "url": "https://www.manualslib.com/manual/2203619/Weil-Mclain-Wtgo-4-Series.html"
+  },
+  {
+   "manualId": "716469",
+   "slug": "Weil-Mclain-Gv90Plus",
+   "title": "GV90+ Installation and start-up manual",
+   "type": "Installation",
+   "pages": 108,
+   "productModel": "GV90+",
+   "extraModels": [
+    "OV90+4",
+    "OV90+6",
+    "QV90+3",
+    "QV90+5"
+   ],
+   "url": "https://www.manualslib.com/manual/716469/Weil-Mclain-Gv90Plus.html"
+  },
+  {
+   "manualId": "2489763",
+   "slug": "Weil-Mclain-2-Series",
+   "title": "GV90+ Manual",
+   "type": "Other",
+   "pages": 108,
+   "productModel": "GV90+",
+   "extraModels": [
+    "GV90+",
+    "GV90+3",
+    "GV90+4",
+    "GV90+5",
+    "GV90+6"
+   ],
+   "url": "https://www.manualslib.com/manual/2489763/Weil-Mclain-2-Series.html"
+  },
+  {
+   "manualId": "1429230",
+   "slug": "Weil-Mclain-Gv90-Plus",
+   "title": "GV90+ Manual addendum",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "GV90+",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1429230/Weil-Mclain-Gv90-Plus.html"
+  },
+  {
+   "manualId": "702728",
+   "slug": "Weil-Mclain-Gv90Plus",
+   "title": "GV90+ Suggested specifications",
+   "type": "Other",
+   "pages": 3,
+   "productModel": "GV90+",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/702728/Weil-Mclain-Gv90Plus.html"
+  },
+  {
+   "manualId": "1022996",
+   "slug": "Weil-Mclain-Gv90Plus",
+   "title": "GV90+ User's information manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "GV90+",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1022996/Weil-Mclain-Gv90Plus.html"
+  },
+  {
+   "manualId": "2320898",
+   "slug": "Weil-Mclain-Gv90Plus",
+   "title": "GV90+ User's information manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "GV90+",
+   "extraModels": [
+    "GV90+ 2 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2320898/Weil-Mclain-Gv90Plus.html"
+  },
+  {
+   "manualId": "690422",
+   "slug": "Weil-Mclain-Gv90Plus",
+   "title": "GV90+ User's information manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "GV90+",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/690422/Weil-Mclain-Gv90Plus.html"
+  },
+  {
+   "manualId": "688932",
+   "slug": "Weil-Mclain-Gv90Plus3",
+   "title": "GV90+3 Brochure & specs",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "GV90+3",
+   "extraModels": [
+    "GV90+4",
+    "GV90+5",
+    "GV90+6"
+   ],
+   "url": "https://www.manualslib.com/manual/688932/Weil-Mclain-Gv90Plus3.html"
+  },
+  {
+   "manualId": "1664787",
+   "slug": "Weil-Mclain-2-Series",
+   "title": "HE (Series 2) Manual",
+   "type": "Other",
+   "pages": 120,
+   "productModel": "HE (Series 2)",
+   "extraModels": [
+    "SlimFit",
+    "SlimFit SF1000L",
+    "SlimFit SF1000R",
+    "SlimFit SF1500L",
+    "SlimFit SF1500R",
+    "SlimFit SF2000L",
+    "SlimFit SF2000R"
+   ],
+   "url": "https://www.manualslib.com/manual/1664787/Weil-Mclain-2-Series.html"
+  },
+  {
+   "manualId": "189639",
+   "slug": "Weil-Mclain-He-Series-2",
+   "title": "HE (Series 2) Manual",
+   "type": "Other",
+   "pages": 31,
+   "productModel": "HE (Series 2)",
+   "extraModels": [
+    "HE Series 2"
+   ],
+   "url": "https://www.manualslib.com/manual/189639/Weil-Mclain-He-Series-2.html"
+  },
+  {
+   "manualId": "3349339",
+   "slug": "Weil-Mclain-2-Series",
+   "title": "HE (Series 2) Supplemental Instructions",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "HE (Series 2)",
+   "extraModels": [
+    "VHE",
+    "VHE 3",
+    "VHE 4",
+    "VHE 5",
+    "VHE 6"
+   ],
+   "url": "https://www.manualslib.com/manual/3349339/Weil-Mclain-2-Series.html"
+  },
+  {
+   "manualId": "189657",
+   "slug": "Weil-Mclain-Series-2",
+   "title": "HE (Series 2) User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "HE (Series 2)",
+   "extraModels": [
+    "ULTRA Ultra-105",
+    "ULTRA Ultra-155",
+    "ULTRA Ultra-230",
+    "ULTRA Ultra-310",
+    "ULTRA ULTRA-80"
+   ],
+   "url": "https://www.manualslib.com/manual/189657/Weil-Mclain-Series-2.html"
+  },
+  {
+   "manualId": "189640",
+   "slug": "Weil-Mclain-He-Series-3",
+   "title": "HE (Series 3) Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "HE (Series 3)",
+   "extraModels": [
+    "HE Series 3"
+   ],
+   "url": "https://www.manualslib.com/manual/189640/Weil-Mclain-He-Series-3.html"
+  },
+  {
+   "manualId": "3716018",
+   "slug": "Weil-Mclain-He-Series",
+   "title": "HE 3 Supplemental instructions",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "HE 3",
+   "extraModels": [
+    "HE 3",
+    "HE-4",
+    "HE-5",
+    "HE-6",
+    "VHE 3",
+    "VHE 4",
+    "VHE 5",
+    "VHE 6",
+    "VHE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3716018/Weil-Mclain-He-Series.html"
+  },
+  {
+   "manualId": "3506679",
+   "slug": "Weil-Mclain-He-Ii",
+   "title": "HE II Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "HE II",
+   "extraModels": [
+    "HE II 3",
+    "HE II 4",
+    "HE II 5",
+    "HE II 6"
+   ],
+   "url": "https://www.manualslib.com/manual/3506679/Weil-Mclain-He-Ii.html"
+  },
+  {
+   "manualId": "3507947",
+   "slug": "Weil-Mclain-He-Ii",
+   "title": "HE II Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "HE II",
+   "extraModels": [
+    "HE II 3",
+    "HE II 4",
+    "HE II 5",
+    "HE II 6"
+   ],
+   "url": "https://www.manualslib.com/manual/3507947/Weil-Mclain-He-Ii.html"
+  },
+  {
+   "manualId": "4045977",
+   "slug": "Weil-Mclain-He-Ii",
+   "title": "HE II Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "HE II",
+   "extraModels": [
+    "HE II-3",
+    "HE II-4",
+    "HE II-5",
+    "HE II-6"
+   ],
+   "url": "https://www.manualslib.com/manual/4045977/Weil-Mclain-He-Ii.html"
+  },
+  {
+   "manualId": "189672",
+   "slug": "Weil-Mclain-Vhe-Series-2",
+   "title": "HE Series 2 Replacement instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "HE Series 2",
+   "extraModels": [
+    "HE Series 2",
+    "VHE Series 2"
+   ],
+   "url": "https://www.manualslib.com/manual/189672/Weil-Mclain-Vhe-Series-2.html"
+  },
+  {
+   "manualId": "189674",
+   "slug": "Weil-Mclain-Vhe-Series-3",
+   "title": "HE Series 3 Control supplement",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "HE Series 3",
+   "extraModels": [
+    "HE Series 3",
+    "VHE Series 3"
+   ],
+   "url": "https://www.manualslib.com/manual/189674/Weil-Mclain-Vhe-Series-3.html"
+  },
+  {
+   "manualId": "3562676",
+   "slug": "Weil-Mclain-He-3-Series",
+   "title": "HE Series 3 Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "HE Series 3",
+   "extraModels": [
+    "HE-4",
+    "HE-5",
+    "HE-6"
+   ],
+   "url": "https://www.manualslib.com/manual/3562676/Weil-Mclain-He-3-Series.html"
+  },
+  {
+   "manualId": "4273224",
+   "slug": "Weil-Mclain-He-3-Series",
+   "title": "HE Series 3 Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "HE Series 3",
+   "extraModels": [
+    "HE-4",
+    "HE-5",
+    "HE-6"
+   ],
+   "url": "https://www.manualslib.com/manual/4273224/Weil-Mclain-He-3-Series.html"
+  },
+  {
+   "manualId": "3930691",
+   "slug": "Weil-Mclain-He",
+   "title": "HE Supplemental instructions",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "HE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3930691/Weil-Mclain-He.html"
+  },
+  {
+   "manualId": "189650",
+   "slug": "Weil-Mclain-P-35-Steam",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189650/Weil-Mclain-P-35-Steam.html"
+  },
+  {
+   "manualId": "189652",
+   "slug": "Weil-Mclain-Pd-Gas-Series-3",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189652/Weil-Mclain-Pd-Gas-Series-3.html"
+  },
+  {
+   "manualId": "762414",
+   "slug": "Weil-Mclain-6-Series",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "P-CG-3",
+    "P-CG-4",
+    "P-CG-5",
+    "P-CG-6",
+    "P-CG-7",
+    "P-CG-8",
+    "P-CG-9"
+   ],
+   "url": "https://www.manualslib.com/manual/762414/Weil-Mclain-6-Series.html"
+  },
+  {
+   "manualId": "189683",
+   "slug": "Weil-Mclain-Maxi-Flow-Wmbh-95",
+   "title": "Installation Sheet",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189683/Weil-Mclain-Maxi-Flow-Wmbh-95.html"
+  },
+  {
+   "manualId": "2214460",
+   "slug": "Weil-Mclain-Wmzv-4",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2214460/Weil-Mclain-Wmzv-4.html"
+  },
+  {
+   "manualId": "3310239",
+   "slug": "Weil-Mclain-Wmr-Series",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3310239/Weil-Mclain-Wmr-Series.html"
+  },
+  {
+   "manualId": "491490",
+   "slug": "Weil-Mclain-Wmr-21-Dpst",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/491490/Weil-Mclain-Wmr-21-Dpst.html"
+  },
+  {
+   "manualId": "189642",
+   "slug": "Weil-Mclain-Lgb-6-20-Series",
+   "title": "LGB 6-20 Series Control supplement",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "LGB 6-20 Series",
+   "extraModels": [
+    "LGB-10",
+    "LGB-11",
+    "LGB-12",
+    "LGB-13",
+    "LGB-14",
+    "LGB-15",
+    "LGB-16",
+    "LGB-17",
+    "LGB-18",
+    "LGB-19",
+    "LGB-20",
+    "LGB-7",
+    "LGB-8",
+    "LGB-9"
+   ],
+   "url": "https://www.manualslib.com/manual/189642/Weil-Mclain-Lgb-6-20-Series.html"
+  },
+  {
+   "manualId": "189643",
+   "slug": "Weil-Mclain-Lgb-Lgb-23",
+   "title": "LGB LGB-23 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "LGB LGB-23",
+   "extraModels": [
+    "LGB-10",
+    "LGB-11",
+    "LGB-12",
+    "LGB-13",
+    "LGB-15",
+    "LGB-16",
+    "LGB-17",
+    "LGB-18",
+    "LGB-19",
+    "LGB-20",
+    "LGB-21",
+    "LGB-22",
+    "LGB-6",
+    "LGB-7",
+    "LGB-8",
+    "LGB-9"
+   ],
+   "url": "https://www.manualslib.com/manual/189643/Weil-Mclain-Lgb-Lgb-23.html"
+  },
+  {
+   "manualId": "691315",
+   "slug": "Weil-Mclain-Lgb",
+   "title": "LGB Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "LGB",
+   "extraModels": [
+    "LGB-10",
+    "LGB-11",
+    "LGB-12",
+    "LGB-13",
+    "LGB-4",
+    "LGB-5",
+    "LGB-6",
+    "LGB-7",
+    "LGB-8",
+    "LGB-9"
+   ],
+   "url": "https://www.manualslib.com/manual/691315/Weil-Mclain-Lgb.html"
+  },
+  {
+   "manualId": "885571",
+   "slug": "Weil-Mclain-Lgb",
+   "title": "LGB Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "LGB",
+   "extraModels": [
+    "LGB 2"
+   ],
+   "url": "https://www.manualslib.com/manual/885571/Weil-Mclain-Lgb.html"
+  },
+  {
+   "manualId": "189644",
+   "slug": "Weil-Mclain-Lgb-Series-2",
+   "title": "LGB Series 2 Brochure & specs",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "LGB Series 2",
+   "extraModels": [
+    "LGB Series 2",
+    "LGB-10",
+    "LGB-11",
+    "LGB-12",
+    "LGB-13",
+    "LGB-14",
+    "LGB-15",
+    "LGB-16",
+    "LGB-17",
+    "LGB-19",
+    "LGB-20",
+    "LGB-21",
+    "LGB-22",
+    "LGB-23 Series",
+    "LGB-4",
+    "LGB-5",
+    "LGB-6",
+    "LGB-7",
+    "LGB-8",
+    "LGB-9"
+   ],
+   "url": "https://www.manualslib.com/manual/189644/Weil-Mclain-Lgb-Series-2.html"
+  },
+  {
+   "manualId": "3913385",
+   "slug": "Weil-Mclain-Lgb-Series",
+   "title": "LGB Series user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "LGB Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3913385/Weil-Mclain-Lgb-Series.html"
+  },
+  {
+   "manualId": "189647",
+   "slug": "Weil-Mclain-Lgb-20",
+   "title": "LGB-10 Control supplement",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "LGB-10",
+   "extraModels": [
+    "LGB-10",
+    "LGB-11",
+    "LGB-12",
+    "LGB-13",
+    "LGB-14",
+    "LGB-15",
+    "LGB-16",
+    "LGB-17",
+    "LGB-18",
+    "LGB-19",
+    "LGB-20 Series 2",
+    "LGB-6",
+    "LGB-7",
+    "LGB-8",
+    "LGB-9"
+   ],
+   "url": "https://www.manualslib.com/manual/189647/Weil-Mclain-Lgb-20.html"
+  },
+  {
+   "manualId": "491489",
+   "slug": "Weil-Mclain-Lgb-6-Series",
+   "title": "LGB-10 Control supplement",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "LGB-10",
+   "extraModels": [
+    "LGB-10",
+    "LGB-11",
+    "LGB-12",
+    "LGB-13",
+    "LGB-14",
+    "LGB-15",
+    "LGB-16",
+    "LGB-17",
+    "LGB-18",
+    "LGB-19",
+    "LGB-20",
+    "LGB-21",
+    "LGB-22",
+    "LGB-23 Series",
+    "LGB-7",
+    "LGB-8",
+    "LGB-9"
+   ],
+   "url": "https://www.manualslib.com/manual/491489/Weil-Mclain-Lgb-6-Series.html"
+  },
+  {
+   "manualId": "1126527",
+   "slug": "Weil-Mclain-Lgb-4",
+   "title": "LGB-10 user manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "LGB-10",
+   "extraModels": [
+    "LGB-10",
+    "LGB-11",
+    "LGB-12",
+    "LGB-13",
+    "LGB-14",
+    "LGB-16",
+    "LGB-18",
+    "LGB-19",
+    "LGB-20",
+    "LGB-21",
+    "LGB-22",
+    "LGB-5",
+    "LGB-6",
+    "LGB-7",
+    "LGB-8",
+    "LGB-9"
+   ],
+   "url": "https://www.manualslib.com/manual/1126527/Weil-Mclain-Lgb-4.html"
+  },
+  {
+   "manualId": "3837175",
+   "slug": "Weil-Mclain-Lgb-15",
+   "title": "LGB-15 user manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "LGB-15",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3837175/Weil-Mclain-Lgb-15.html"
+  },
+  {
+   "manualId": "3837176",
+   "slug": "Weil-Mclain-Lgb-17",
+   "title": "LGB-17 user manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "LGB-17",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3837176/Weil-Mclain-Lgb-17.html"
+  },
+  {
+   "manualId": "3837177",
+   "slug": "Weil-Mclain-Lgb-23-Series",
+   "title": "LGB-23 Series user manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "LGB-23 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3837177/Weil-Mclain-Lgb-23-Series.html"
+  },
+  {
+   "manualId": "189646",
+   "slug": "Weil-Mclain-Lgb-4",
+   "title": "LGB-4 Control supplement",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "LGB-4",
+   "extraModels": [
+    "LGB-5"
+   ],
+   "url": "https://www.manualslib.com/manual/189646/Weil-Mclain-Lgb-4.html"
+  },
+  {
+   "manualId": "3182201",
+   "slug": "Weil-Mclain-Lgb-4",
+   "title": "LGB-4 quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "LGB-4",
+   "extraModels": [
+    "LGB-5"
+   ],
+   "url": "https://www.manualslib.com/manual/3182201/Weil-Mclain-Lgb-4.html"
+  },
+  {
+   "manualId": "3182207",
+   "slug": "Weil-Mclain-Lgb-5",
+   "title": "LGB-5 Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "LGB-5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3182207/Weil-Mclain-Lgb-5.html"
+  },
+  {
+   "manualId": "3814195",
+   "slug": "Weil-Mclain-Lgb-6-Series-2",
+   "title": "LGB-6 Series 2 Control supplement",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "LGB-6 Series 2",
+   "extraModels": [
+    "LGB-6 Series 2"
+   ],
+   "url": "https://www.manualslib.com/manual/3814195/Weil-Mclain-Lgb-6-Series-2.html"
+  },
+  {
+   "manualId": "3260188",
+   "slug": "Weil-Mclain-Slimfit-383-600-513",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3260188/Weil-Mclain-Slimfit-383-600-513.html"
+  },
+  {
+   "manualId": "3992300",
+   "slug": "Weil-Mclain-Ez-Temp-90000cel",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3992300/Weil-Mclain-Ez-Temp-90000cel.html"
+  },
+  {
+   "manualId": "903007",
+   "slug": "Weil-Mclain-Ultraoil-Series-3",
+   "title": "New Series 3 Installation, start-up, and operating instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "New Series 3",
+   "extraModels": [
+    "New Series 3"
+   ],
+   "url": "https://www.manualslib.com/manual/903007/Weil-Mclain-Ultraoil-Series-3.html"
+  },
+  {
+   "manualId": "758862",
+   "slug": "Weil-Mclain-Oil-Boiler",
+   "title": "operating instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/758862/Weil-Mclain-Oil-Boiler.html"
+  },
+  {
+   "manualId": "3947498",
+   "slug": "Weil-Mclain-P-Cg",
+   "title": "P-CG Installation, operation and service manual",
+   "type": "Service",
+   "pages": 19,
+   "productModel": "P-CG",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3947498/Weil-Mclain-P-Cg.html"
+  },
+  {
+   "manualId": "3919639",
+   "slug": "Weil-Mclain-Peg-35-S",
+   "title": "PEG-35-S Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "PEG-35-S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3919639/Weil-Mclain-Peg-35-S.html"
+  },
+  {
+   "manualId": "189654",
+   "slug": "Weil-Mclain-Per-550-141-396-0801",
+   "title": "PER 550-141-396/0801 installation instructions manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "PER 550-141-396/0801",
+   "extraModels": [
+    "PER-15",
+    "PER-20",
+    "PER-25"
+   ],
+   "url": "https://www.manualslib.com/manual/189654/Weil-Mclain-Per-550-141-396-0801.html"
+  },
+  {
+   "manualId": "189658",
+   "slug": "Weil-Mclain-Series-6",
+   "title": "PFG 7 Series Brochure & specs",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "PFG 7 Series",
+   "extraModels": [
+    "PFG 7 Series",
+    "PFG-5",
+    "PFG-6",
+    "PFG-8"
+   ],
+   "url": "https://www.manualslib.com/manual/189658/Weil-Mclain-Series-6.html"
+  },
+  {
+   "manualId": "491485",
+   "slug": "Weil-Mclain-Pfg-7-Series",
+   "title": "PFG 7 Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "PFG 7 Series",
+   "extraModels": [
+    "PFG-5",
+    "PFG-6",
+    "PFG-8",
+    "PFG-8R"
+   ],
+   "url": "https://www.manualslib.com/manual/491485/Weil-Mclain-Pfg-7-Series.html"
+  },
+  {
+   "manualId": "189653",
+   "slug": "Weil-Mclain-Pfg-Series",
+   "title": "PFG SERIES Specification sheet",
+   "type": "Other",
+   "pages": 3,
+   "productModel": "PFG SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189653/Weil-Mclain-Pfg-Series.html"
+  },
+  {
+   "manualId": "266822",
+   "slug": "Weil-Mclain-Rs",
+   "title": "product manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/266822/Weil-Mclain-Rs.html"
+  },
+  {
+   "manualId": "2030959",
+   "slug": "Weil-Mclain-Protonode-Fpc-N34",
+   "title": "ProtoNode FPC-N34 Quick Manual Setup",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "ProtoNode FPC-N34",
+   "extraModels": [
+    "ProtoNode FPC-N35"
+   ],
+   "url": "https://www.manualslib.com/manual/2030959/Weil-Mclain-Protonode-Fpc-N34.html"
+  },
+  {
+   "manualId": "2030961",
+   "slug": "Weil-Mclain-Protonode-Fpc-N34",
+   "title": "ProtoNode FPC-N34 Startup manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "ProtoNode FPC-N34",
+   "extraModels": [
+    "ProtoNode FPC-N35"
+   ],
+   "url": "https://www.manualslib.com/manual/2030961/Weil-Mclain-Protonode-Fpc-N34.html"
+  },
+  {
+   "manualId": "1280047",
+   "slug": "Weil-Mclain-Qb-180",
+   "title": "QB-180 Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "QB-180",
+   "extraModels": [
+    "QB-300"
+   ],
+   "url": "https://www.manualslib.com/manual/1280047/Weil-Mclain-Qb-180.html"
+  },
+  {
+   "manualId": "189592",
+   "slug": "Weil-Mclain-382-200-300",
+   "title": "Replacement instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189592/Weil-Mclain-382-200-300.html"
+  },
+  {
+   "manualId": "189634",
+   "slug": "Weil-Mclain-Gv-Boiler",
+   "title": "Replacement Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "Gold GV 1 series",
+    "Gold GV 2 Series",
+    "Gold GV 3 Series",
+    "Gold GV Series 4"
+   ],
+   "url": "https://www.manualslib.com/manual/189634/Weil-Mclain-Gv-Boiler.html"
+  },
+  {
+   "manualId": "189635",
+   "slug": "Weil-Mclain-Gv-Boiler-382-200-305",
+   "title": "Replacement Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189635/Weil-Mclain-Gv-Boiler-382-200-305.html"
+  },
+  {
+   "manualId": "189667",
+   "slug": "Weil-Mclain-Ultra-Ultra-Series-1",
+   "title": "Replacement instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189667/Weil-Mclain-Ultra-Ultra-Series-1.html"
+  },
+  {
+   "manualId": "189677",
+   "slug": "Weil-Mclain-Riello-40-Bf-Ultraoil-800060000-Brn-Po-Rie-Bf5",
+   "title": "RIELLO 40 BF UltraOil 800060000-Brn-PO Rie BF5 Installation and operating manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "RIELLO 40 BF UltraOil 800060000-Brn-PO Rie BF5",
+   "extraModels": [
+    "RIELLO 40 BF UltraOil 800061000-Brn-PO Rie BF5",
+    "RIELLO 40 BF UltraOil 800062000-Brn-PO Rie BF5"
+   ],
+   "url": "https://www.manualslib.com/manual/189677/Weil-Mclain-Riello-40-Bf-Ultraoil-800060000-Brn-Po-Rie-Bf5.html"
+  },
+  {
+   "manualId": "2696030",
+   "slug": "Weil-Mclain-Ultra299-S4",
+   "title": "Series 4 Manual",
+   "type": "Other",
+   "pages": 140,
+   "productModel": "Series 4",
+   "extraModels": [
+    "ULTRA230-S4"
+   ],
+   "url": "https://www.manualslib.com/manual/2696030/Weil-Mclain-Ultra299-S4.html"
+  },
+  {
+   "manualId": "189659",
+   "slug": "Weil-Mclain-Sgo-Series-3",
+   "title": "SGO Series 3 Brochure & specs",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "SGO Series 3",
+   "extraModels": [
+    "SGO Series 3",
+    "SGO-4",
+    "SGO-5",
+    "SGO-6",
+    "SGO-7",
+    "SGO-8",
+    "SGO-9"
+   ],
+   "url": "https://www.manualslib.com/manual/189659/Weil-Mclain-Sgo-Series-3.html"
+  },
+  {
+   "manualId": "2145608",
+   "slug": "Weil-Mclain-Sgo-4-Series",
+   "title": "SGO Series 3 Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "SGO Series 3",
+   "extraModels": [
+    "SGO Series 3"
+   ],
+   "url": "https://www.manualslib.com/manual/2145608/Weil-Mclain-Sgo-4-Series.html"
+  },
+  {
+   "manualId": "2418928",
+   "slug": "Weil-Mclain-Sgo-Series",
+   "title": "SGO Series Maintenance and service manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "SGO Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2418928/Weil-Mclain-Sgo-Series.html"
+  },
+  {
+   "manualId": "3877967",
+   "slug": "Weil-Mclain-Sgo-5",
+   "title": "SGO-5 Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "SGO-5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877967/Weil-Mclain-Sgo-5.html"
+  },
+  {
+   "manualId": "3877968",
+   "slug": "Weil-Mclain-Sgo-6",
+   "title": "SGO-6 Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "SGO-6",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877968/Weil-Mclain-Sgo-6.html"
+  },
+  {
+   "manualId": "3877969",
+   "slug": "Weil-Mclain-Sgo-7",
+   "title": "SGO-7 Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "SGO-7",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877969/Weil-Mclain-Sgo-7.html"
+  },
+  {
+   "manualId": "3877970",
+   "slug": "Weil-Mclain-Sgo-8",
+   "title": "SGO-8 Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "SGO-8",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877970/Weil-Mclain-Sgo-8.html"
+  },
+  {
+   "manualId": "3877971",
+   "slug": "Weil-Mclain-Sgo-9",
+   "title": "SGO-9 Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "SGO-9",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877971/Weil-Mclain-Sgo-9.html"
+  },
+  {
+   "manualId": "189673",
+   "slug": "Weil-Mclain-Wgo",
+   "title": "SGO-W Maintenance & service manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "SGO-W",
+   "extraModels": [
+    "SGO-W",
+    "SGO-W 3 SERIES",
+    "Wgo 3 series",
+    "WTGO"
+   ],
+   "url": "https://www.manualslib.com/manual/189673/Weil-Mclain-Wgo.html"
+  },
+  {
+   "manualId": "4072852",
+   "slug": "Weil-Mclain-Wgo-Wtgo",
+   "title": "SGO-W Maintenance and service manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "SGO-W",
+   "extraModels": [
+    "SGO-W"
+   ],
+   "url": "https://www.manualslib.com/manual/4072852/Weil-Mclain-Wgo-Wtgo.html"
+  },
+  {
+   "manualId": "189664",
+   "slug": "Weil-Mclain-Sgo-W",
+   "title": "SGO-W Service manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "SGO-W",
+   "extraModels": [
+    "WGO",
+    "WTGO"
+   ],
+   "url": "https://www.manualslib.com/manual/189664/Weil-Mclain-Sgo-W.html"
+  },
+  {
+   "manualId": "3606857",
+   "slug": "Weil-Mclain-Simplicity-110",
+   "title": "Simplicity 110 Manual",
+   "type": "Other",
+   "pages": 172,
+   "productModel": "Simplicity 110",
+   "extraModels": [
+    "Simplicity 110-C",
+    "Simplicity 150",
+    "Simplicity 150-C",
+    "Simplicity 199",
+    "Simplicity 199-C"
+   ],
+   "url": "https://www.manualslib.com/manual/3606857/Weil-Mclain-Simplicity-110.html"
+  },
+  {
+   "manualId": "3606791",
+   "slug": "Weil-Mclain-Simplicity-110",
+   "title": "Simplicity 110 User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Simplicity 110",
+   "extraModels": [
+    "Simplicity 110-C",
+    "Simplicity 150",
+    "Simplicity 150-C",
+    "Simplicity 199",
+    "Simplicity 199-C"
+   ],
+   "url": "https://www.manualslib.com/manual/3606791/Weil-Mclain-Simplicity-110.html"
+  },
+  {
+   "manualId": "3442201",
+   "slug": "Weil-Mclain-Slimfit-550",
+   "title": "SlimFit 1000 Application manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "SlimFit 1000",
+   "extraModels": [
+    "SlimFit 1000",
+    "SlimFit 1500",
+    "SlimFit 2000",
+    "SlimFit 750",
+    "SVF 1000",
+    "SVF 1500",
+    "SVF 2000",
+    "SVF 2500",
+    "SVF 3000",
+    "SVF 500",
+    "SVF 600",
+    "SVF 725",
+    "SVF 850"
+   ],
+   "url": "https://www.manualslib.com/manual/3442201/Weil-Mclain-Slimfit-550.html"
+  },
+  {
+   "manualId": "4201509",
+   "slug": "Weil-Mclain-Slimfit-1000-Mbh",
+   "title": "SlimFit 1000 MBH User's information manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "SlimFit 1000 MBH",
+   "extraModels": [
+    "SlimFit 1000L",
+    "SlimFit 1000R",
+    "SlimFit 1500L",
+    "SlimFit 1500R",
+    "SlimFit 2 Series",
+    "SlimFit 2000 MBH",
+    "SlimFit 2000L",
+    "SlimFit 2000R"
+   ],
+   "url": "https://www.manualslib.com/manual/4201509/Weil-Mclain-Slimfit-1000-Mbh.html"
+  },
+  {
+   "manualId": "1481611",
+   "slug": "Weil-Mclain-Slimfit-1000",
+   "title": "SlimFit 1000 User's information manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "SlimFit 1000",
+   "extraModels": [
+    "SlimFit 1500",
+    "SlimFit 2000"
+   ],
+   "url": "https://www.manualslib.com/manual/1481611/Weil-Mclain-Slimfit-1000.html"
+  },
+  {
+   "manualId": "3138844",
+   "slug": "Weil-Mclain-Slimfit-2-Series",
+   "title": "SlimFit 2 Series Manual",
+   "type": "Other",
+   "pages": 121,
+   "productModel": "SlimFit 2 Series",
+   "extraModels": [
+    "SlimFit 550",
+    "SlimFit 750"
+   ],
+   "url": "https://www.manualslib.com/manual/3138844/Weil-Mclain-Slimfit-2-Series.html"
+  },
+  {
+   "manualId": "3433726",
+   "slug": "Weil-Mclain-Slimfit-2-Series",
+   "title": "SlimFit 2 Series Manual",
+   "type": "Other",
+   "pages": 120,
+   "productModel": "SlimFit 2 Series",
+   "extraModels": [
+    "SlimFit SF1000L",
+    "SlimFit SF1000R",
+    "SlimFit SF1500L",
+    "SlimFit SF1500R",
+    "SlimFit SF2000L",
+    "SlimFit SF2000R"
+   ],
+   "url": "https://www.manualslib.com/manual/3433726/Weil-Mclain-Slimfit-2-Series.html"
+  },
+  {
+   "manualId": "2167341",
+   "slug": "Weil-Mclain-Slimfit-3-Series",
+   "title": "SlimFit 3 Series Application manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "SlimFit 3 Series",
+   "extraModels": [
+    "SlimFit SF 550",
+    "SlimFit SF 750"
+   ],
+   "url": "https://www.manualslib.com/manual/2167341/Weil-Mclain-Slimfit-3-Series.html"
+  },
+  {
+   "manualId": "972385",
+   "slug": "Weil-Mclain-Slimfit-550",
+   "title": "SlimFit 550 User's information manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "SlimFit 550",
+   "extraModels": [
+    "SlimFit 750"
+   ],
+   "url": "https://www.manualslib.com/manual/972385/Weil-Mclain-Slimfit-550.html"
+  },
+  {
+   "manualId": "974456",
+   "slug": "Weil-Mclain-Slimfit-Series",
+   "title": "SlimFit User's information manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "SlimFit",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/974456/Weil-Mclain-Slimfit-Series.html"
+  },
+  {
+   "manualId": "266828",
+   "slug": "Weil-Mclain-Rls",
+   "title": "specification",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/266828/Weil-Mclain-Rls.html"
+  },
+  {
+   "manualId": "189600",
+   "slug": "Weil-Mclain-94",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "94 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/189600/Weil-Mclain-94.html"
+  },
+  {
+   "manualId": "189630",
+   "slug": "Weil-Mclain-Gold-Cgt-Series",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189630/Weil-Mclain-Gold-Cgt-Series.html"
+  },
+  {
+   "manualId": "189651",
+   "slug": "Weil-Mclain-P-Sgo",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189651/Weil-Mclain-P-Sgo.html"
+  },
+  {
+   "manualId": "189682",
+   "slug": "Weil-Mclain-Wmvsa054nh3r",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189682/Weil-Mclain-Wmvsa054nh3r.html"
+  },
+  {
+   "manualId": "266825",
+   "slug": "Weil-Mclain-Beckett-Cf1400-W",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/266825/Weil-Mclain-Beckett-Cf1400-W.html"
+  },
+  {
+   "manualId": "189649",
+   "slug": "Weil-Mclain-Oil-Boiler",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189649/Weil-Mclain-Oil-Boiler.html"
+  },
+  {
+   "manualId": "189678",
+   "slug": "Weil-Mclain-F10-F20",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189678/Weil-Mclain-F10-F20.html"
+  },
+  {
+   "manualId": "266823",
+   "slug": "Weil-Mclain-1050ffd-W",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/266823/Weil-Mclain-1050ffd-W.html"
+  },
+  {
+   "manualId": "266826",
+   "slug": "Weil-Mclain-Cg10",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "CG-25"
+   ],
+   "url": "https://www.manualslib.com/manual/266826/Weil-Mclain-Cg10.html"
+  },
+  {
+   "manualId": "189662",
+   "slug": "Weil-Mclain-Star-34",
+   "title": "STAR-34 Supplement manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "STAR-34",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189662/Weil-Mclain-Star-34.html"
+  },
+  {
+   "manualId": "3662320",
+   "slug": "Weil-Mclain-Svf-1-Series",
+   "title": "SVF 1000 Advanced Installation Manual",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "SVF 1000",
+   "extraModels": [
+    "SVF 1000",
+    "SVF 1500",
+    "SVF 2 Series",
+    "SVF 2000",
+    "SVF 2500",
+    "SVF 3000",
+    "SVF 725",
+    "SVF 850"
+   ],
+   "url": "https://www.manualslib.com/manual/3662320/Weil-Mclain-Svf-1-Series.html"
+  },
+  {
+   "manualId": "1557099",
+   "slug": "Weil-Mclain-Svf-Series-1",
+   "title": "SVF 1000 Manual",
+   "type": "Other",
+   "pages": 120,
+   "productModel": "SVF 1000",
+   "extraModels": [
+    "SVF 1000",
+    "SVF Series 1"
+   ],
+   "url": "https://www.manualslib.com/manual/1557099/Weil-Mclain-Svf-Series-1.html"
+  },
+  {
+   "manualId": "3854990",
+   "slug": "Weil-Mclain-Svf-1100",
+   "title": "SVF 1100 Manual",
+   "type": "Other",
+   "pages": 120,
+   "productModel": "SVF 1100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3854990/Weil-Mclain-Svf-1100.html"
+  },
+  {
+   "manualId": "1646216",
+   "slug": "Weil-Mclain-Svf-1500",
+   "title": "SVF 1500 Manual",
+   "type": "Other",
+   "pages": 124,
+   "productModel": "SVF 1500",
+   "extraModels": [
+    "SVF 2000",
+    "SVF 2500",
+    "SVF 3000"
+   ],
+   "url": "https://www.manualslib.com/manual/1646216/Weil-Mclain-Svf-1500.html"
+  },
+  {
+   "manualId": "1666790",
+   "slug": "Weil-Mclain-Svf-1500-3000-Series",
+   "title": "SVF 1500-3000 Series User's information manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "SVF 1500-3000 Series",
+   "extraModels": [
+    "SVF 2000"
+   ],
+   "url": "https://www.manualslib.com/manual/1666790/Weil-Mclain-Svf-1500-3000-Series.html"
+  },
+  {
+   "manualId": "3381395",
+   "slug": "Weil-Mclain-Svf-500",
+   "title": "SVF 500 Advanced manual",
+   "type": "Other",
+   "pages": 96,
+   "productModel": "SVF 500",
+   "extraModels": [
+    "SVF 600"
+   ],
+   "url": "https://www.manualslib.com/manual/3381395/Weil-Mclain-Svf-500.html"
+  },
+  {
+   "manualId": "3043647",
+   "slug": "Weil-Mclain-Svf-725",
+   "title": "SVF 725 Application manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "SVF 725",
+   "extraModels": [
+    "SVF 850"
+   ],
+   "url": "https://www.manualslib.com/manual/3043647/Weil-Mclain-Svf-725.html"
+  },
+  {
+   "manualId": "3436300",
+   "slug": "Weil-Mclain-Svf-725",
+   "title": "SVF 725 Manual",
+   "type": "Other",
+   "pages": 128,
+   "productModel": "SVF 725",
+   "extraModels": [
+    "SVF 850"
+   ],
+   "url": "https://www.manualslib.com/manual/3436300/Weil-Mclain-Svf-725.html"
+  },
+  {
+   "manualId": "3854989",
+   "slug": "Weil-Mclain-Svf-750",
+   "title": "SVF 750 Manual",
+   "type": "Other",
+   "pages": 120,
+   "productModel": "SVF 750",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3854989/Weil-Mclain-Svf-750.html"
+  },
+  {
+   "manualId": "189655",
+   "slug": "Weil-Mclain-Sb0002",
+   "title": "Technical bulletin",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189655/Weil-Mclain-Sb0002.html"
+  },
+  {
+   "manualId": "2098181",
+   "slug": "Weil-Mclain-Evergreen-220-Lp",
+   "title": "Technical bulletin",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2098181/Weil-Mclain-Evergreen-220-Lp.html"
+  },
+  {
+   "manualId": "189656",
+   "slug": "Weil-Mclain-Sb0203",
+   "title": "Technical service bulletin",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189656/Weil-Mclain-Sb0203.html"
+  },
+  {
+   "manualId": "3769322",
+   "slug": "Weil-Mclain-Ultra-3-Series",
+   "title": "Ultra 105 Manual addendum",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "Ultra 105",
+   "extraModels": [
+    "Ultra 105",
+    "Ultra 155",
+    "Ultra 230",
+    "Ultra 299",
+    "Ultra 399",
+    "Ultra 80"
+   ],
+   "url": "https://www.manualslib.com/manual/3769322/Weil-Mclain-Ultra-3-Series.html"
+  },
+  {
+   "manualId": "893902",
+   "slug": "Weil-Mclain-Ultra-3-Series",
+   "title": "Ultra 105 quick start manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": "Ultra 105",
+   "extraModels": [
+    "Ultra 105",
+    "Ultra 155",
+    "Ultra 230",
+    "Ultra 299",
+    "Ultra 399",
+    "Ultra 80"
+   ],
+   "url": "https://www.manualslib.com/manual/893902/Weil-Mclain-Ultra-3-Series.html"
+  },
+  {
+   "manualId": "189669",
+   "slug": "Weil-Mclain-Ultra-Series-2",
+   "title": "Ultra 105 Specification sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "Ultra 105",
+   "extraModels": [
+    "Ultra 105",
+    "Ultra 155",
+    "Ultra 230",
+    "Ultra 310",
+    "Ultra 80"
+   ],
+   "url": "https://www.manualslib.com/manual/189669/Weil-Mclain-Ultra-Series-2.html"
+  },
+  {
+   "manualId": "750459",
+   "slug": "Weil-Mclain-Ultra-Commercial",
+   "title": "Ultra Electric Water Heater Installation and start-up manual",
+   "type": "Installation",
+   "pages": 113,
+   "productModel": "Ultra Electric Water Heater",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/750459/Weil-Mclain-Ultra-Commercial.html"
+  },
+  {
+   "manualId": "702552",
+   "slug": "Weil-Mclain-Ultra",
+   "title": "Ultra Electric Water Heater installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "Ultra Electric Water Heater",
+   "extraModels": [
+    "Ultra-550",
+    "Ultra-750"
+   ],
+   "url": "https://www.manualslib.com/manual/702552/Weil-Mclain-Ultra.html"
+  },
+  {
+   "manualId": "691390",
+   "slug": "Weil-Mclain-Ultra",
+   "title": "Ultra Electric Water Heater instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "Ultra Electric Water Heater",
+   "extraModels": [
+    "ULTRA Ultra-155",
+    "ULTRA Ultra-230"
+   ],
+   "url": "https://www.manualslib.com/manual/691390/Weil-Mclain-Ultra.html"
+  },
+  {
+   "manualId": "189665",
+   "slug": "Weil-Mclain-Ultra-Gas-Fired-Boiler",
+   "title": "Ultra Electric Water Heater Supplemental manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Ultra Electric Water Heater",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189665/Weil-Mclain-Ultra-Gas-Fired-Boiler.html"
+  },
+  {
+   "manualId": "3257152",
+   "slug": "Weil-Mclain-Ultra-Oil-3-Series",
+   "title": "ULTRA Oil 3 Series Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "ULTRA Oil 3 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3257152/Weil-Mclain-Ultra-Oil-3-Series.html"
+  },
+  {
+   "manualId": "189670",
+   "slug": "Weil-Mclain-Ultra-Oil",
+   "title": "Ultra Oil Brochure & specs",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Ultra Oil",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/189670/Weil-Mclain-Ultra-Oil.html"
+  },
+  {
+   "manualId": "1138956",
+   "slug": "Weil-Mclain-Ultra-Oil",
+   "title": "Ultra Oil Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "Ultra Oil",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1138956/Weil-Mclain-Ultra-Oil.html"
+  },
+  {
+   "manualId": "3926297",
+   "slug": "Weil-Mclain-Ultra-Oil-Uo-3e",
+   "title": "ULTRA Oil UO-3E Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "ULTRA Oil UO-3E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3926297/Weil-Mclain-Ultra-Oil-Uo-3e.html"
+  },
+  {
+   "manualId": "3926296",
+   "slug": "Weil-Mclain-Ultra-Oil-Uo-4e",
+   "title": "ULTRA Oil UO-4E Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "ULTRA Oil UO-4E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3926296/Weil-Mclain-Ultra-Oil-Uo-4e.html"
+  },
+  {
+   "manualId": "862602",
+   "slug": "Weil-Mclain-Ultra-Series-3",
+   "title": "Ultra Series 3 quick start manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": "Ultra Series 3",
+   "extraModels": [
+    "Ultra Series 3",
+    "ULTRA Ultra-105",
+    "ULTRA Ultra-155",
+    "ULTRA Ultra-230",
+    "ULTRA ULTRA-80",
+    "Ultra-299",
+    "Ultra-399"
+   ],
+   "url": "https://www.manualslib.com/manual/862602/Weil-Mclain-Ultra-Series-3.html"
+  },
+  {
+   "manualId": "849078",
+   "slug": "Weil-Mclain-Ultra-Series-3",
+   "title": "Ultra Series 3 User's information manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "Ultra Series 3",
+   "extraModels": [
+    "Ultra Series 3"
+   ],
+   "url": "https://www.manualslib.com/manual/849078/Weil-Mclain-Ultra-Series-3.html"
+  },
+  {
+   "manualId": "4067449",
+   "slug": "Weil-Mclain-Ultra-80",
+   "title": "ULTRA Ultra-105 Manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "ULTRA Ultra-105",
+   "extraModels": [
+    "ULTRA Ultra-105",
+    "ULTRA Ultra-155",
+    "ULTRA Ultra-230"
+   ],
+   "url": "https://www.manualslib.com/manual/4067449/Weil-Mclain-Ultra-80.html"
+  },
+  {
+   "manualId": "189671",
+   "slug": "Weil-Mclain-Ultra-Ultra-105",
+   "title": "ULTRA Ultra-105 Service manual",
+   "type": "Service",
+   "pages": 61,
+   "productModel": "ULTRA Ultra-105",
+   "extraModels": [
+    "ULTRA Ultra-155",
+    "ULTRA Ultra-230",
+    "ULTRA Ultra-310",
+    "ULTRA ULTRA-80"
+   ],
+   "url": "https://www.manualslib.com/manual/189671/Weil-Mclain-Ultra-Ultra-105.html"
+  },
+  {
+   "manualId": "189668",
+   "slug": "Weil-Mclain-Ultra-Ultra-105",
+   "title": "ULTRA Ultra-105 Supplemental manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "ULTRA Ultra-105",
+   "extraModels": [
+    "ULTRA Ultra-155",
+    "ULTRA Ultra-230",
+    "ULTRA Ultra-310",
+    "ULTRA ULTRA-80"
+   ],
+   "url": "https://www.manualslib.com/manual/189668/Weil-Mclain-Ultra-Ultra-105.html"
+  },
+  {
+   "manualId": "3856237",
+   "slug": "Weil-Mclain-Ultra-299",
+   "title": "Ultra-299 Manual",
+   "type": "Other",
+   "pages": 140,
+   "productModel": "Ultra-299",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3856237/Weil-Mclain-Ultra-299.html"
+  },
+  {
+   "manualId": "3856238",
+   "slug": "Weil-Mclain-Ultra-399",
+   "title": "Ultra-399 Manual",
+   "type": "Other",
+   "pages": 140,
+   "productModel": "Ultra-399",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3856238/Weil-Mclain-Ultra-399.html"
+  },
+  {
+   "manualId": "3823136",
+   "slug": "Weil-Mclain-Ultra-550",
+   "title": "Ultra-550 Installation and start-up manual",
+   "type": "Installation",
+   "pages": 113,
+   "productModel": "Ultra-550",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3823136/Weil-Mclain-Ultra-550.html"
+  },
+  {
+   "manualId": "3823137",
+   "slug": "Weil-Mclain-Ultra-750",
+   "title": "Ultra-750 Installation and start-up manual",
+   "type": "Installation",
+   "pages": 113,
+   "productModel": "Ultra-750",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3823137/Weil-Mclain-Ultra-750.html"
+  },
+  {
+   "manualId": "702708",
+   "slug": "Weil-Mclain-Ultraoil-2-Series",
+   "title": "UltraOil 2 Series Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "UltraOil 2 Series",
+   "extraModels": [
+    "UltraOil U0-3",
+    "UltraOil U0-4",
+    "UltraOil U0-5"
+   ],
+   "url": "https://www.manualslib.com/manual/702708/Weil-Mclain-Ultraoil-2-Series.html"
+  },
+  {
+   "manualId": "189675",
+   "slug": "Weil-Mclain-Ultraoil-800057000-Brn-Po-Rie-F5",
+   "title": "UltraOil 800057000-Brn-PO Rie F5 Installation and operating manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "UltraOil 800057000-Brn-PO Rie F5",
+   "extraModels": [
+    "UltraOil 800058000-Brn-PO Rie F5",
+    "UltraOil 800059000-Brn-PO Rie F5"
+   ],
+   "url": "https://www.manualslib.com/manual/189675/Weil-Mclain-Ultraoil-800057000-Brn-Po-Rie-F5.html"
+  },
+  {
+   "manualId": "887677",
+   "slug": "Weil-Mclain-Ultraoil",
+   "title": "UltraOil instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "UltraOil",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/887677/Weil-Mclain-Ultraoil.html"
+  },
+  {
+   "manualId": "861216",
+   "slug": "Weil-Mclain-Ultraoil",
+   "title": "UltraOil Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "UltraOil",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/861216/Weil-Mclain-Ultraoil.html"
+  },
+  {
+   "manualId": "933494",
+   "slug": "Weil-Mclain-Uo-3-Cv",
+   "title": "UO-3 CV instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "UO-3 CV",
+   "extraModels": [
+    "UO-3 DV",
+    "UO-4 CV",
+    "UO-4 DV",
+    "UO-5 CV",
+    "UO-5 DV"
+   ],
+   "url": "https://www.manualslib.com/manual/933494/Weil-Mclain-Uo-3-Cv.html"
+  },
+  {
+   "manualId": "266830",
+   "slug": "Weil-Mclain-Uo-3-Cv",
+   "title": "UO-3 CV Specification sheet",
+   "type": "Other",
+   "pages": 25,
+   "productModel": "UO-3 CV",
+   "extraModels": [
+    "UO-4 CV",
+    "UO-5 CV"
+   ],
+   "url": "https://www.manualslib.com/manual/266830/Weil-Mclain-Uo-3-Cv.html"
+  },
+  {
+   "manualId": "189648",
+   "slug": "Weil-Mclain-Oil-Fired-Water-Boiler",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "Ultra Oil"
+   ],
+   "url": "https://www.manualslib.com/manual/189648/Weil-Mclain-Oil-Fired-Water-Boiler.html"
+  },
+  {
+   "manualId": "4589986",
+   "slug": "Weil-Mclain-Vhe-Series",
+   "title": "VHE 4 Manual",
+   "type": "Other",
+   "pages": 23,
+   "productModel": "VHE 4",
+   "extraModels": [
+    "VHE 4",
+    "VHE 5",
+    "VHE 6",
+    "VHE Series 3"
+   ],
+   "url": "https://www.manualslib.com/manual/4589986/Weil-Mclain-Vhe-Series.html"
+  },
+  {
+   "manualId": "687024",
+   "slug": "Weil-Mclain-Vhe",
+   "title": "VHE installation manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "VHE",
+   "extraModels": [
+    "VHE 3",
+    "VHE 4",
+    "VHE 5",
+    "VHE 6"
+   ],
+   "url": "https://www.manualslib.com/manual/687024/Weil-Mclain-Vhe.html"
+  },
+  {
+   "manualId": "3378124",
+   "slug": "Weil-Mclain-Cg-Series",
+   "title": "Weil-Mclain CG Series Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": null,
+   "extraModels": [
+    "CG-25",
+    "CG-3",
+    "CG-4",
+    "CG-5",
+    "CG-6 series",
+    "CG-7",
+    "CG-8",
+    "CGX Series",
+    "CGX-3 series",
+    "CGX-4 series",
+    "CGX-5 series",
+    "CGX-6"
+   ],
+   "url": "https://www.manualslib.com/manual/3378124/Weil-Mclain-Cg-Series.html"
+  },
+  {
+   "manualId": "1941352",
+   "slug": "Weil-Mclain-Cgi-4-Series",
+   "title": "Weil-Mclain CGi 4 Series Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": null,
+   "extraModels": [
+    "CGi Series 3",
+    "CGi-25/3",
+    "GOLD CGi-25",
+    "GOLD CGi-5",
+    "GOLD CGi-6",
+    "GOLD CGi-7",
+    "GOLD CGi-8"
+   ],
+   "url": "https://www.manualslib.com/manual/1941352/Weil-Mclain-Cgi-4-Series.html"
+  },
+  {
+   "manualId": "2045925",
+   "slug": "Weil-Mclain-Evergreen-Evg-220",
+   "title": "Weil-Mclain Evergreen EVG 220 Manual",
+   "type": "Other",
+   "pages": 136,
+   "productModel": null,
+   "extraModels": [
+    "Evergreen EVG 299",
+    "Evergreen EVG 300",
+    "Evergreen EVG 399"
+   ],
+   "url": "https://www.manualslib.com/manual/2045925/Weil-Mclain-Evergreen-Evg-220.html"
+  },
+  {
+   "manualId": "4249151",
+   "slug": "weil-mclain-gold-boiler-installation-and-operation-manual",
+   "title": "Weil-McLain GOLD boiler Installation & Operation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4249151/weil-mclain-gold-boiler-installation-and-operation-manual.html"
+  },
+  {
+   "manualId": "1271779",
+   "slug": "Weil-Mclain-Gv90Plus",
+   "title": "Weil-Mclain GV90+ Manual",
+   "type": "Other",
+   "pages": 109,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1271779/Weil-Mclain-Gv90Plus.html"
+  },
+  {
+   "manualId": "884601",
+   "slug": "Weil-Mclain-Gv90Plus",
+   "title": "Weil-Mclain GV90+ Manual",
+   "type": "Other",
+   "pages": 108,
+   "productModel": null,
+   "extraModels": [
+    "GV90+3",
+    "GV90+4",
+    "GV90+5",
+    "GV90+6"
+   ],
+   "url": "https://www.manualslib.com/manual/884601/Weil-Mclain-Gv90Plus.html"
+  },
+  {
+   "manualId": "189641",
+   "slug": "Weil-Mclain-He-Ii-Boiler",
+   "title": "Weil-Mclain HE II Boiler Manual",
+   "type": "Other",
+   "pages": 29,
+   "productModel": null,
+   "extraModels": [
+    "HE II 3",
+    "HE II 4",
+    "HE II 5",
+    "HE II 6"
+   ],
+   "url": "https://www.manualslib.com/manual/189641/Weil-Mclain-He-Ii-Boiler.html"
+  },
+  {
+   "manualId": "1501587",
+   "slug": "Weil-Mclain-Series-2",
+   "title": "Weil-Mclain Series 2 Manual",
+   "type": "Other",
+   "pages": 132,
+   "productModel": null,
+   "extraModels": [
+    "ECO 110",
+    "ECO 155",
+    "ECO 70"
+   ],
+   "url": "https://www.manualslib.com/manual/1501587/Weil-Mclain-Series-2.html"
+  },
+  {
+   "manualId": "4251572",
+   "slug": "weil-mclain-slimfit-550-boiler-venting-manual",
+   "title": "Weil-McLain SlimFit 550 boiler Venting Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4251572/weil-mclain-slimfit-550-boiler-venting-manual.html"
+  },
+  {
+   "manualId": "703293",
+   "slug": "Weil-Mclain-Slimfit",
+   "title": "Weil-Mclain SlimFit Manual",
+   "type": "Other",
+   "pages": 128,
+   "productModel": null,
+   "extraModels": [
+    "SlimFit 1 Series",
+    "SlimFit SF1000L",
+    "SlimFit SF1000R",
+    "SlimFit SF1500L",
+    "SlimFit SF1500R",
+    "SlimFit SF2000L",
+    "SlimFit SF2000R"
+   ],
+   "url": "https://www.manualslib.com/manual/703293/Weil-Mclain-Slimfit.html"
+  },
+  {
+   "manualId": "3068708",
+   "slug": "Weil-Mclain-Svf-500",
+   "title": "Weil-Mclain SVF 500 Manual",
+   "type": "Other",
+   "pages": 144,
+   "productModel": null,
+   "extraModels": [
+    "SVF 600"
+   ],
+   "url": "https://www.manualslib.com/manual/3068708/Weil-Mclain-Svf-500.html"
+  },
+  {
+   "manualId": "4269672",
+   "slug": "weil-mclain-ultra-3-series-boiler-installation-manual",
+   "title": "Weil-McLain Ultra 3 Series Boiler Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4269672/weil-mclain-ultra-3-series-boiler-installation-manual.html"
+  },
+  {
+   "manualId": "693873",
+   "slug": "Weil-Mclain-Ultra",
+   "title": "Weil-Mclain Ultra Manual",
+   "type": "Other",
+   "pages": 108,
+   "productModel": null,
+   "extraModels": [
+    "ULTRA Ultra-105",
+    "ULTRA Ultra-155",
+    "ULTRA Ultra-230",
+    "ULTRA Ultra-310",
+    "ULTRA ULTRA-80"
+   ],
+   "url": "https://www.manualslib.com/manual/693873/Weil-Mclain-Ultra.html"
+  },
+  {
+   "manualId": "690419",
+   "slug": "Weil-Mclain-Ultra",
+   "title": "Weil-Mclain Ultra Manual Addendum",
+   "type": "Other",
+   "pages": 28,
+   "productModel": null,
+   "extraModels": [
+    "Ultra 105",
+    "Ultra 155",
+    "Ultra 230",
+    "Ultra 299",
+    "Ultra 310",
+    "Ultra 399",
+    "Ultra 80"
+   ],
+   "url": "https://www.manualslib.com/manual/690419/Weil-Mclain-Ultra.html"
+  },
+  {
+   "manualId": "2290127",
+   "slug": "Weil-Mclain-Wgo-4-Series",
+   "title": "Wgo 3 series Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "Wgo 3 series",
+   "extraModels": [
+    "Wgo 3 series",
+    "WGO-2",
+    "WGO-2RD",
+    "WGO-3D",
+    "WGO-3R",
+    "WGO-3RD",
+    "WGO-4D",
+    "WGO-4R",
+    "WGO-4RD",
+    "WGO-5",
+    "WGO-5D",
+    "WGO-5R",
+    "WGO-5RD",
+    "WGO-6",
+    "WGO-6D",
+    "WGO-6R",
+    "WGO-6RD",
+    "WGO-7",
+    "WGO-7D",
+    "WGO-7R",
+    "WGO-7RD",
+    "WGO-8",
+    "WGO-9"
+   ],
+   "url": "https://www.manualslib.com/manual/2290127/Weil-Mclain-Wgo-4-Series.html"
+  },
+  {
+   "manualId": "1129899",
+   "slug": "Weil-Mclain-Wm2ac13018",
+   "title": "WM2AC13018 Installer's information manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "WM2AC13018",
+   "extraModels": [
+    "WM2AC13024",
+    "WM2AC13030",
+    "WM2AC13036",
+    "WM2AC13042",
+    "WM2AC13048",
+    "WM2AC13060"
+   ],
+   "url": "https://www.manualslib.com/manual/1129899/Weil-Mclain-Wm2ac13018.html"
+  },
+  {
+   "manualId": "189593",
+   "slug": "Weil-Mclain-Wmzv",
+   "title": "WM2AC13018 Specification Sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "WM2AC13018",
+   "extraModels": [
+    "WM2AC13018",
+    "WM2AC13024",
+    "WM2AC13030",
+    "WM2AC13036",
+    "WM2AC13042",
+    "WM2AC13048",
+    "WM2AC13060"
+   ],
+   "url": "https://www.manualslib.com/manual/189593/Weil-Mclain-Wmzv.html"
+  },
+  {
+   "manualId": "688958",
+   "slug": "Weil-Mclain-Wm97Plus",
+   "title": "WM97+ Aqua Logic Brochure & specs",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "WM97+ Aqua Logic",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/688958/Weil-Mclain-Wm97Plus.html"
+  },
+  {
+   "manualId": "692942",
+   "slug": "Weil-Mclain-Wm97Plus",
+   "title": "WM97+ Aqua Logic Manual",
+   "type": "Other",
+   "pages": 108,
+   "productModel": "WM97+ Aqua Logic",
+   "extraModels": [
+    "WM97+110",
+    "WM97+70"
+   ],
+   "url": "https://www.manualslib.com/manual/692942/Weil-Mclain-Wm97Plus.html"
+  },
+  {
+   "manualId": "895135",
+   "slug": "Weil-Mclain-Wm97Plus",
+   "title": "WM97+ Aqua Logic product manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "WM97+ Aqua Logic",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/895135/Weil-Mclain-Wm97Plus.html"
+  },
+  {
+   "manualId": "690414",
+   "slug": "Weil-Mclain-Wm97Plus",
+   "title": "WM97+ Aqua Logic User's information manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "WM97+ Aqua Logic",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/690414/Weil-Mclain-Wm97Plus.html"
+  },
+  {
+   "manualId": "1388865",
+   "slug": "Weil-Mclain-Wm97Plus100",
+   "title": "WM97+100 Manual",
+   "type": "Other",
+   "pages": 144,
+   "productModel": "WM97+100",
+   "extraModels": [
+    "WM97+155",
+    "WM97+70"
+   ],
+   "url": "https://www.manualslib.com/manual/1388865/Weil-Mclain-Wm97Plus100.html"
+  },
+  {
+   "manualId": "695217",
+   "slug": "Weil-Mclain-Wm97Plus70",
+   "title": "WM97+110 Manual",
+   "type": "Other",
+   "pages": 132,
+   "productModel": "WM97+110",
+   "extraModels": [
+    "WM97+110",
+    "WM97+155"
+   ],
+   "url": "https://www.manualslib.com/manual/695217/Weil-Mclain-Wm97Plus70.html"
+  },
+  {
+   "manualId": "1237397",
+   "slug": "Weil-Mclain-Wm97Plus70-Ct",
+   "title": "WM97+110-CT Manual",
+   "type": "Other",
+   "pages": 136,
+   "productModel": "WM97+110-CT",
+   "extraModels": [
+    "WM97+110-CT"
+   ],
+   "url": "https://www.manualslib.com/manual/1237397/Weil-Mclain-Wm97Plus70-Ct.html"
+  },
+  {
+   "manualId": "3841052",
+   "slug": "Weil-Mclain-Wm97Plus155-Ct",
+   "title": "WM97+155-CT Manual",
+   "type": "Other",
+   "pages": 136,
+   "productModel": "WM97+155-CT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3841052/Weil-Mclain-Wm97Plus155-Ct.html"
+  },
+  {
+   "manualId": "3229911",
+   "slug": "Weil-Mclain-Wm97-70-Ct",
+   "title": "WM97-110-CT Manual",
+   "type": "Other",
+   "pages": 136,
+   "productModel": "WM97-110-CT",
+   "extraModels": [
+    "WM97-110-CT"
+   ],
+   "url": "https://www.manualslib.com/manual/3229911/Weil-Mclain-Wm97-70-Ct.html"
+  },
+  {
+   "manualId": "3924836",
+   "slug": "Weil-Mclain-Wm97-155-Ct",
+   "title": "WM97-155-CT Manual",
+   "type": "Other",
+   "pages": 136,
+   "productModel": "WM97-155-CT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3924836/Weil-Mclain-Wm97-155-Ct.html"
+  },
+  {
+   "manualId": "1316789",
+   "slug": "Weil-Mclain-Wmb-155c",
+   "title": "WMB-155C Manual",
+   "type": "Other",
+   "pages": 100,
+   "productModel": "WMB-155C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1316789/Weil-Mclain-Wmb-155c.html"
+  },
+  {
+   "manualId": "1620333",
+   "slug": "Weil-Mclain-Wmbp-Series",
+   "title": "WMBP Series installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "WMBP Series",
+   "extraModels": [
+    "WMBP-1E Series",
+    "WMBP-2",
+    "WMBP-22",
+    "WMBP-3",
+    "WMBP-4",
+    "WMBP-5",
+    "WMBP-7"
+   ],
+   "url": "https://www.manualslib.com/manual/1620333/Weil-Mclain-Wmbp-Series.html"
+  },
+  {
+   "manualId": "3814196",
+   "slug": "Weil-Mclain-Wtgo-3-Series",
+   "title": "WTGO 3 SERIES Maintenance & service manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "WTGO 3 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3814196/Weil-Mclain-Wtgo-3-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4249151",
+   "slug": "weil-mclain-gold-boiler-installation-and-operation-manual",
+   "title": "Weil-McLain GOLD boiler Installation & Operation Manual"
+  },
+  {
+   "manualId": "4269672",
+   "slug": "weil-mclain-ultra-3-series-boiler-installation-manual",
+   "title": "Weil-McLain Ultra 3 Series Boiler Installation Manual"
+  },
+  {
+   "manualId": "4251572",
+   "slug": "weil-mclain-slimfit-550-boiler-venting-manual",
+   "title": "Weil-McLain SlimFit 550 boiler Venting Manual"
+  }
+ ],
+ "techDirectIds": [
+  "weil-mclain"
+ ]
+}

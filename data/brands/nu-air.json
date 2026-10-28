@@ -1,0 +1,464 @@
+{
+ "brand": "Nu-Air",
+ "brandSlug": "nu-air",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/nu-air/"
+ ],
+ "slugUsed": "nu-air",
+ "capturedAt": "2026-10-28T08:46:00.388139+00:00",
+ "typePages": [
+  {
+   "path": "/brand/nu-air/air-handlers.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/nu-air/controller.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/nu-air/dehumidifier.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/nu-air/fan.html",
+   "manuals": 81,
+   "status": 200
+  },
+  {
+   "path": "/brand/nu-air/heating-system.html",
+   "manuals": 64,
+   "status": 200
+  },
+  {
+   "path": "/brand/nu-air/industrial-equipment.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/nu-air/ventilation-hood.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1071988",
+   "slug": "Nu-Air-Cea15-R",
+   "title": "CEA15-R operating instructions manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "CEA15-R",
+   "extraModels": [
+    "CEA18-C",
+    "CEA20-D"
+   ],
+   "url": "https://www.manualslib.com/manual/1071988/Nu-Air-Cea15-R.html"
+  },
+  {
+   "manualId": "4128819",
+   "slug": "Nu-Air-Es-Series",
+   "title": "EL Series Operating, Maintaining & Installing",
+   "type": "Installation",
+   "pages": 51,
+   "productModel": "EL Series",
+   "extraModels": [
+    "EL Series",
+    "EL1300",
+    "EL1650",
+    "ES100",
+    "ES095",
+    "ES115",
+    "ES120",
+    "ES120E ERV",
+    "ES150",
+    "ES160",
+    "ES170",
+    "ES210",
+    "NU Series",
+    "SE Series",
+    "SE120",
+    "SE135",
+    "SE182",
+    "Windsor NU145",
+    "Windsor NU165",
+    "Windsor NU205"
+   ],
+   "url": "https://www.manualslib.com/manual/4128819/Nu-Air-Es-Series.html"
+  },
+  {
+   "manualId": "1514107",
+   "slug": "Nu-Air-Enerboss-412c",
+   "title": "Enerboss 400C Series Specifications, Installation, Operation And Maintenance Manual",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "Enerboss 400C Series",
+   "extraModels": [
+    "Enerboss 400C Series",
+    "Enerboss 409C",
+    "Enerboss 418C"
+   ],
+   "url": "https://www.manualslib.com/manual/1514107/Nu-Air-Enerboss-412c.html"
+  },
+  {
+   "manualId": "3782678",
+   "slug": "Nu-Air-Es-Series",
+   "title": "ES Series Installation and usage manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "ES Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3782678/Nu-Air-Es-Series.html"
+  },
+  {
+   "manualId": "2469944",
+   "slug": "Nu-Air-Es-Series",
+   "title": "ES Series Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "ES Series",
+   "extraModels": [
+    "ES100",
+    "ES170"
+   ],
+   "url": "https://www.manualslib.com/manual/2469944/Nu-Air-Es-Series.html"
+  },
+  {
+   "manualId": "2028612",
+   "slug": "Nu-Air-Es-Series",
+   "title": "ES Series Operating, Maintaining & Installing",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "ES Series",
+   "extraModels": [
+    "ES100",
+    "ES170"
+   ],
+   "url": "https://www.manualslib.com/manual/2028612/Nu-Air-Es-Series.html"
+  },
+  {
+   "manualId": "2666258",
+   "slug": "Nu-Air-Es095-Erv",
+   "title": "ES Series Operating, Maintaining & Installing",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "ES Series",
+   "extraModels": [
+    "ES Series",
+    "ES100",
+    "ES150",
+    "ES160",
+    "ES160E",
+    "ES170",
+    "ES210"
+   ],
+   "url": "https://www.manualslib.com/manual/2666258/Nu-Air-Es095-Erv.html"
+  },
+  {
+   "manualId": "3040797",
+   "slug": "Nu-Air-Es115-Erv",
+   "title": "ES Series Operating, Maintaining & Installing",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "ES Series",
+   "extraModels": [
+    "ES Series",
+    "ES095 ERV",
+    "ES100",
+    "ES150",
+    "ES160",
+    "ES160E",
+    "ES170",
+    "ES210"
+   ],
+   "url": "https://www.manualslib.com/manual/3040797/Nu-Air-Es115-Erv.html"
+  },
+  {
+   "manualId": "3369551",
+   "slug": "Nu-Air-Es-Sries",
+   "title": "ES Sries Operating, Maintaining & Installing",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "ES Sries",
+   "extraModels": [
+    "ES095E",
+    "ES115E",
+    "ES160E",
+    "NU145H",
+    "SE135 ERV"
+   ],
+   "url": "https://www.manualslib.com/manual/3369551/Nu-Air-Es-Sries.html"
+  },
+  {
+   "manualId": "3914820",
+   "slug": "Nu-Air-Es100-Hrv",
+   "title": "ES100 HRV Operating, Maintaining & Installing",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "ES100 HRV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3914820/Nu-Air-Es100-Hrv.html"
+  },
+  {
+   "manualId": "1465198",
+   "slug": "Nu-Air-Es100",
+   "title": "ES100 Operating, Maintaining & Installing",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "ES100",
+   "extraModels": [
+    "ES150",
+    "ES160",
+    "ES160E",
+    "ES170",
+    "ES210"
+   ],
+   "url": "https://www.manualslib.com/manual/1465198/Nu-Air-Es100.html"
+  },
+  {
+   "manualId": "3931716",
+   "slug": "Nu-Air-Es100h",
+   "title": "ES100H Operating, Maintaining & Installing",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "ES100H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3931716/Nu-Air-Es100h.html"
+  },
+  {
+   "manualId": "3914819",
+   "slug": "Nu-Air-Es115e-Erv",
+   "title": "ES115E ERV Operating, Maintaining & Installing",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "ES115E ERV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3914819/Nu-Air-Es115e-Erv.html"
+  },
+  {
+   "manualId": "3914822",
+   "slug": "Nu-Air-Es150-Hrv",
+   "title": "ES150 HRV OPERATING, MAINTAINING & INSTALLING",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "ES150 HRV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3914822/Nu-Air-Es150-Hrv.html"
+  },
+  {
+   "manualId": "3914823",
+   "slug": "Nu-Air-Es160-Erv",
+   "title": "ES160 ERV OPERATING, MAINTAINING & INSTALLING",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "ES160 ERV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3914823/Nu-Air-Es160-Erv.html"
+  },
+  {
+   "manualId": "3914821",
+   "slug": "Nu-Air-Es160-Hrv",
+   "title": "ES160 HRV OPERATING, MAINTAINING & INSTALLING",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "ES160 HRV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3914821/Nu-Air-Es160-Hrv.html"
+  },
+  {
+   "manualId": "3931717",
+   "slug": "Nu-Air-Es160h",
+   "title": "ES160H OPERATING, MAINTAINING & INSTALLING",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "ES160H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3931717/Nu-Air-Es160h.html"
+  },
+  {
+   "manualId": "3360578",
+   "slug": "Nu-Air-Ha-Series",
+   "title": "HA Series Installation, Service And Operating Instruction",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "HA Series",
+   "extraModels": [
+    "HA 6018",
+    "HA 8524",
+    "HA 9836"
+   ],
+   "url": "https://www.manualslib.com/manual/3360578/Nu-Air-Ha-Series.html"
+  },
+  {
+   "manualId": "2186461",
+   "slug": "Nu-Air-Lumina",
+   "title": "Installation and user manual",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2186461/Nu-Air-Lumina.html"
+  },
+  {
+   "manualId": "1559560",
+   "slug": "Nu-Air-Elimiator-80",
+   "title": "Installation, Operation And Care Manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1559560/Nu-Air-Elimiator-80.html"
+  },
+  {
+   "manualId": "2349114",
+   "slug": "Nu-Air-Eliminator-80",
+   "title": "Installation, Operation And Care Manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2349114/Nu-Air-Eliminator-80.html"
+  },
+  {
+   "manualId": "2074599",
+   "slug": "Nu-Air-Eliminator-200",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2074599/Nu-Air-Eliminator-200.html"
+  },
+  {
+   "manualId": "2060053",
+   "slug": "Nu-Air-Nu125",
+   "title": "Nu-Air NU125 Operating And Installation Manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2060053/Nu-Air-Nu125.html"
+  },
+  {
+   "manualId": "2678432",
+   "slug": "Nu-Air-Windsor-Nu145",
+   "title": "Nu-Air Windsor NU145 Operating, Maintaining & Installing",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": null,
+   "extraModels": [
+    "WINDSOR SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/2678432/Nu-Air-Windsor-Nu145.html"
+  },
+  {
+   "manualId": "1165344",
+   "slug": "Nu-Air-Windsor-Series",
+   "title": "Nu-Air WINDSOR SERIES Operating And Installation Instruction",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1165344/Nu-Air-Windsor-Series.html"
+  },
+  {
+   "manualId": "1897076",
+   "slug": "Nu-Air-Nu0103",
+   "title": "NU0103 OPERATING, MAINTAINING & INSTALLING",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "NU0103",
+   "extraModels": [
+    "NU0305",
+    "NU0406",
+    "NU0608",
+    "NU0912",
+    "NU1200",
+    "NU1316",
+    "NU1600",
+    "NU305",
+    "NU500",
+    "NU600",
+    "NU800"
+   ],
+   "url": "https://www.manualslib.com/manual/1897076/Nu-Air-Nu0103.html"
+  },
+  {
+   "manualId": "1454813",
+   "slug": "Nu-Air-Nu0820",
+   "title": "NU0820 product manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "NU0820",
+   "extraModels": [
+    "NU1030",
+    "NU2035",
+    "NU2540"
+   ],
+   "url": "https://www.manualslib.com/manual/1454813/Nu-Air-Nu0820.html"
+  },
+  {
+   "manualId": "2058887",
+   "slug": "Nu-Air-Nu2200",
+   "title": "NU2200 OPERATING, MAINTAINING & INSTALLING INSTRUCTIONS",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "NU2200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2058887/Nu-Air-Nu2200.html"
+  },
+  {
+   "manualId": "2927652",
+   "slug": "Nu-Air-Se-Series",
+   "title": "SE Series OPERATING, MAINTAINING & INSTALLING",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "SE Series",
+   "extraModels": [
+    "SE182"
+   ],
+   "url": "https://www.manualslib.com/manual/2927652/Nu-Air-Se-Series.html"
+  },
+  {
+   "manualId": "3931718",
+   "slug": "Nu-Air-Se135e",
+   "title": "SE135E OPERATING, MAINTAINING & INSTALLING",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "SE135E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3931718/Nu-Air-Se135e.html"
+  },
+  {
+   "manualId": "3898537",
+   "slug": "Nu-Air-Windsor-Nu165",
+   "title": "Windsor NU165 OPERATING, MAINTAINING & INSTALLING",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "Windsor NU165",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3898537/Nu-Air-Windsor-Nu165.html"
+  },
+  {
+   "manualId": "3898538",
+   "slug": "Nu-Air-Windsor-Nu205",
+   "title": "Windsor NU205 OPERATING, MAINTAINING & INSTALLING",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "Windsor NU205",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3898538/Nu-Air-Windsor-Nu205.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "nu-air"
+ ]
+}

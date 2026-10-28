@@ -1,0 +1,431 @@
+{
+ "brand": "Baltimore Aircoil Company",
+ "brandSlug": "baltimore-aircoil-company",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/baltimore-aircoil-company/"
+ ],
+ "slugUsed": "baltimore-aircoil-company",
+ "capturedAt": "2026-10-28T06:27:43.464747+00:00",
+ "typePages": [
+  {
+   "path": "/brand/baltimore-aircoil-company/freezer.html",
+   "manuals": 19,
+   "status": 200
+  },
+  {
+   "path": "/brand/baltimore-aircoil-company/accessories.html",
+   "manuals": 81,
+   "status": 200
+  },
+  {
+   "path": "/brand/baltimore-aircoil-company/air-conditioner.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/baltimore-aircoil-company/chiller.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/baltimore-aircoil-company/cooling-boxes.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/baltimore-aircoil-company/heat-pump.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/baltimore-aircoil-company/industrial-electrical.html",
+   "manuals": 27,
+   "status": 200
+  },
+  {
+   "path": "/brand/baltimore-aircoil-company/industrial-equipment.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3019109",
+   "slug": "Baltimore-Aircoil-Company-3000-Series",
+   "title": "1500 Series Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "1500 Series",
+   "extraModels": [
+    "1500 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3019109/Baltimore-Aircoil-Company-3000-Series.html"
+  },
+  {
+   "manualId": "2632899",
+   "slug": "Baltimore-Aircoil-Company-Bcp2d",
+   "title": "BCP2D Installation, Operating, Maintenance",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "BCP2D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2632899/Baltimore-Aircoil-Company-Bcp2d.html"
+  },
+  {
+   "manualId": "2568865",
+   "slug": "Baltimore-Aircoil-Company-Bcp3d",
+   "title": "BCP3D Installation, Operating, Maintenance",
+   "type": "Service",
+   "pages": 46,
+   "productModel": "BCP3D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2568865/Baltimore-Aircoil-Company-Bcp3d.html"
+  },
+  {
+   "manualId": "3255719",
+   "slug": "Baltimore-Aircoil-Company-Fxv3",
+   "title": "CXVT Rigging & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 91,
+   "productModel": "CXVT",
+   "extraModels": [
+    "CXVT"
+   ],
+   "url": "https://www.manualslib.com/manual/3255719/Baltimore-Aircoil-Company-Fxv3.html"
+  },
+  {
+   "manualId": "1632570",
+   "slug": "Baltimore-Aircoil-Company-Trillium-Series",
+   "title": "DFCV-AD-EC Series Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "DFCV-AD-EC Series",
+   "extraModels": [
+    "DFCV-AD-EC Series",
+    "DFCV-EC9122 Series",
+    "DFCV-EC9123 Series",
+    "DFCV-EC9124 Series",
+    "DFCV-EC9125 Series",
+    "DFCV-EC9126 Series",
+    "DFCV-EC9127 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1632570/Baltimore-Aircoil-Company-Trillium-Series.html"
+  },
+  {
+   "manualId": "1985279",
+   "slug": "Baltimore-Aircoil-Company-Ice-Chiller-Tsc-C-D",
+   "title": "ICE CHILLER TSC-C-D Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "ICE CHILLER TSC-C-D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1985279/Baltimore-Aircoil-Company-Ice-Chiller-Tsc-C-D.html"
+  },
+  {
+   "manualId": "1909904",
+   "slug": "Baltimore-Aircoil-Company-Ice-Chiller-Tsu-M-Series",
+   "title": "ICE CHILLER TSU-761M Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 34,
+   "productModel": "ICE CHILLER TSU-761M",
+   "extraModels": [
+    "ICE CHILLER TSU-L184M",
+    "ICE CHILLER TSU-L370M",
+    "ICE CHILLER TSU-L462M",
+    "ICE CHILLER TSU-L592M"
+   ],
+   "url": "https://www.manualslib.com/manual/1909904/Baltimore-Aircoil-Company-Ice-Chiller-Tsu-M-Series.html"
+  },
+  {
+   "manualId": "2068096",
+   "slug": "Baltimore-Aircoil-Company-Ice-Chiller-Tsu-M",
+   "title": "ICE CHILLER TSU-761M Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "ICE CHILLER TSU-761M",
+   "extraModels": [
+    "ICE CHILLER TSU-L184M",
+    "ICE CHILLER TSU-L370M",
+    "ICE CHILLER TSU-L462M",
+    "ICE CHILLER TSU-L592M"
+   ],
+   "url": "https://www.manualslib.com/manual/2068096/Baltimore-Aircoil-Company-Ice-Chiller-Tsu-M.html"
+  },
+  {
+   "manualId": "1697550",
+   "slug": "Baltimore-Aircoil-Company-Ice-Chiller-Tsu-M-Series",
+   "title": "ICE CHILLER TSU-761M Rigging And Installation Instructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "ICE CHILLER TSU-761M",
+   "extraModels": [
+    "ICE CHILLER TSU-L184M",
+    "ICE CHILLER TSU-L370M",
+    "ICE CHILLER TSU-L462M",
+    "ICE CHILLER TSU-L592M"
+   ],
+   "url": "https://www.manualslib.com/manual/1697550/Baltimore-Aircoil-Company-Ice-Chiller-Tsu-M-Series.html"
+  },
+  {
+   "manualId": "2128073",
+   "slug": "Baltimore-Aircoil-Company-Nexus",
+   "title": "NEXUS Operation & maintenance manual",
+   "type": "Service",
+   "pages": 62,
+   "productModel": "NEXUS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2128073/Baltimore-Aircoil-Company-Nexus.html"
+  },
+  {
+   "manualId": "1834136",
+   "slug": "Baltimore-Aircoil-Company-Pt2-Series",
+   "title": "PT2 Series Rigging & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "PT2 Series",
+   "extraModels": [
+    "PT2-0412",
+    "PT2-0709",
+    "PT2-0809",
+    "PT2-0812",
+    "PT2-0814",
+    "PT2-1009",
+    "PT2-1012",
+    "PT2-1212",
+    "PT2-1214",
+    "PT2-1218"
+   ],
+   "url": "https://www.manualslib.com/manual/1834136/Baltimore-Aircoil-Company-Pt2-Series.html"
+  },
+  {
+   "manualId": "1705809",
+   "slug": "Baltimore-Aircoil-Company-S1500e",
+   "title": "S1500E installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "S1500E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1705809/Baltimore-Aircoil-Company-S1500e.html"
+  },
+  {
+   "manualId": "1995628",
+   "slug": "Baltimore-Aircoil-Company-S3000e",
+   "title": "S3000E Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "S3000E",
+   "extraModels": [
+    "XES3000E"
+   ],
+   "url": "https://www.manualslib.com/manual/1995628/Baltimore-Aircoil-Company-S3000e.html"
+  },
+  {
+   "manualId": "4427079",
+   "slug": "series-3000-and-1500-cooling-towers-maintenance-manual",
+   "title": "Series 3000 & 1500 Cooling Towers Maintenance Manual",
+   "type": "Service",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4427079/series-3000-and-1500-cooling-towers-maintenance-manual.html"
+  },
+  {
+   "manualId": "2798270",
+   "slug": "Baltimore-Aircoil-Company-Trilliumseries-Trf",
+   "title": "TrilliumSeries TRF Operation & maintenance manual",
+   "type": "Service",
+   "pages": 117,
+   "productModel": "TrilliumSeries TRF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2798270/Baltimore-Aircoil-Company-Trilliumseries-Trf.html"
+  },
+  {
+   "manualId": "1457453",
+   "slug": "Baltimore-Aircoil-Company-Tsu-95c",
+   "title": "TSU 1050C Rigging And Installation Instructions",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "TSU 1050C",
+   "extraModels": [
+    "TSU 1050C",
+    "TSU 1080D",
+    "TSU 115C",
+    "TSU 120C",
+    "TSU 1220D",
+    "TSU 1440D",
+    "TSU 145C",
+    "TSU 170C",
+    "TSU 185C",
+    "TSU 200C",
+    "TSU 225C",
+    "TSU 230C",
+    "TSU 270C",
+    "TSU 290C",
+    "TSU 310C",
+    "TSU 340C",
+    "TSU 350C",
+    "TSU 400C",
+    "TSU 450C",
+    "TSU 480C",
+    "TSU 590C",
+    "TSU 700C",
+    "TSU 790D",
+    "TSU 800C",
+    "TSU 910C",
+    "TSU 940D"
+   ],
+   "url": "https://www.manualslib.com/manual/1457453/Baltimore-Aircoil-Company-Tsu-95c.html"
+  },
+  {
+   "manualId": "2531524",
+   "slug": "Baltimore-Aircoil-Company-Vertex-Vrc-Series",
+   "title": "Vertex VRC Series Rigging & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "Vertex VRC Series",
+   "extraModels": [
+    "Vertex VRC-A-1012N Series",
+    "Vertex VRC-A-1018N Series",
+    "Vertex VRC-A-1024N Series",
+    "Vertex VRC-A-1036N Series",
+    "Vertex VRC-A-1212N Series",
+    "Vertex VRC-A-1218N Series",
+    "Vertex VRC-A-1224N Series",
+    "Vertex VRC-A-1236N Series",
+    "Vertex VRC-A-2012N Series",
+    "Vertex VRC-A-2018N Series",
+    "Vertex VRC-A-2412N Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2531524/Baltimore-Aircoil-Company-Vertex-Vrc-Series.html"
+  },
+  {
+   "manualId": "1985281",
+   "slug": "Baltimore-Aircoil-Company-Vfl-Series",
+   "title": "VFL 241-H Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "VFL 241-H",
+   "extraModels": [
+    "VFL 241-H",
+    "VFL 242-H",
+    "VFL 242-J",
+    "VFL 243-J",
+    "VFL 361-L",
+    "VFL 361-M",
+    "VFL 362-M",
+    "VFL 363-K",
+    "VFL 363-M",
+    "VFL 481-M",
+    "VFL 482-L",
+    "VFL 483-L",
+    "VFL 483-M",
+    "VFL 484-M",
+    "VFL 721-L",
+    "VFL 721-M",
+    "VFL 721-O",
+    "VFL 722-N",
+    "VFL 722-O",
+    "VFL 723-L",
+    "VFL 723-O",
+    "VFL 724-O",
+    "VFL 961-P",
+    "VFL 962-N",
+    "VFL 962-O",
+    "VFL 962-P",
+    "VFL 963-O",
+    "VFL 963-P",
+    "VFL 964-P"
+   ],
+   "url": "https://www.manualslib.com/manual/1985281/Baltimore-Aircoil-Company-Vfl-Series.html"
+  },
+  {
+   "manualId": "2277801",
+   "slug": "Baltimore-Aircoil-Company-Vt0-Series",
+   "title": "VT0 Series Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "VT0 Series",
+   "extraModels": [
+    "VT1 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2277801/Baltimore-Aircoil-Company-Vt0-Series.html"
+  },
+  {
+   "manualId": "2776910",
+   "slug": "Baltimore-Aircoil-Company-Vt1",
+   "title": "VT0 Series Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 34,
+   "productModel": "VT0 Series",
+   "extraModels": [
+    "VT0 Series",
+    "VT0-0312-01",
+    "VT0-0312-02",
+    "VT0-0312-03",
+    "VT0-0412-01",
+    "VT0-0412-02",
+    "VT0-0412-03",
+    "VT1-0812-01",
+    "VT1-0812-02",
+    "VT1-0812-03",
+    "VT1-0818-01",
+    "VT1-0818-02",
+    "VT1-0818-03",
+    "VT1-1012-01",
+    "VT1-1012-02",
+    "VT1-1012-03",
+    "VT1-1018-01",
+    "VT1-1018-02",
+    "VT1-1018-03",
+    "VT1-1212-01",
+    "VT1-1212-02",
+    "VT1-1212-03",
+    "VT1-1218-01",
+    "VT1-1218-02",
+    "VT1-1218-03",
+    "VT1-7412-01",
+    "VT1-7412-02",
+    "VT1-7412-03",
+    "VT1-7418-01",
+    "VT1-7418-02",
+    "VT1-7418-03"
+   ],
+   "url": "https://www.manualslib.com/manual/2776910/Baltimore-Aircoil-Company-Vt1.html"
+  },
+  {
+   "manualId": "3018278",
+   "slug": "Baltimore-Aircoil-Company-V-Series",
+   "title": "VT1 Series Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "VT1 Series",
+   "extraModels": [
+    "VT1 Series",
+    "Low Profile V Series",
+    "VC1",
+    "VC2",
+    "VCL",
+    "VF1",
+    "VFL",
+    "VTL",
+    "VTO"
+   ],
+   "url": "https://www.manualslib.com/manual/3018278/Baltimore-Aircoil-Company-V-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4427079",
+   "slug": "series-3000-and-1500-cooling-towers-maintenance-manual",
+   "title": "Series 3000 & 1500 Cooling Towers Maintenance Manual"
+  }
+ ],
+ "techDirectIds": [
+  "baltimore-aircoil"
+ ]
+}

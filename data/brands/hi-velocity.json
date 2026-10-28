@@ -1,0 +1,169 @@
+{
+ "brand": "Hi-Velocity",
+ "brandSlug": "hi-velocity",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/hi-velocity/"
+ ],
+ "slugUsed": "hi-velocity",
+ "capturedAt": "2026-10-28T07:27:17.489358+00:00",
+ "typePages": [
+  {
+   "path": "/brand/hi-velocity/air-conditioner.html",
+   "manuals": 14,
+   "status": 200
+  },
+  {
+   "path": "/brand/hi-velocity/air-cleaner.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/hi-velocity/air-handlers.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/hi-velocity/control-unit.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/hi-velocity/cooling-boxes.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/hi-velocity/fan.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/hi-velocity/heating-system.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1487632",
+   "slug": "Hi-Velocity-He-Series",
+   "title": "HE Series installation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "HE Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1487632/Hi-Velocity-He-Series.html"
+  },
+  {
+   "manualId": "1620981",
+   "slug": "Hi-Velocity-He-Z",
+   "title": "HE-Z Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "HE-Z",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1620981/Hi-Velocity-He-Z.html"
+  },
+  {
+   "manualId": "1315870",
+   "slug": "Hi-Velocity-He-Z-Series",
+   "title": "HE-Z Series installation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "HE-Z Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1315870/Hi-Velocity-He-Z-Series.html"
+  },
+  {
+   "manualId": "3432945",
+   "slug": "Hi-Velocity-He-Z-70-H-220v",
+   "title": "HE-Z Series user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "HE-Z Series",
+   "extraModels": [
+    "HE-Z Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3432945/Hi-Velocity-He-Z-70-H-220v.html"
+  },
+  {
+   "manualId": "1175363",
+   "slug": "Hi-Velocity-He-Ps",
+   "title": "Installation and operation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1175363/Hi-Velocity-He-Ps.html"
+  },
+  {
+   "manualId": "2570850",
+   "slug": "Hi-Velocity-He-B-52-Weg",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2570850/Hi-Velocity-He-B-52-Weg.html"
+  },
+  {
+   "manualId": "2020949",
+   "slug": "Hi-Velocity-Rpm-E-Series",
+   "title": "Installation manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2020949/Hi-Velocity-Rpm-E-Series.html"
+  },
+  {
+   "manualId": "2319491",
+   "slug": "Hi-Velocity-Rpm-E",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2319491/Hi-Velocity-Rpm-E.html"
+  },
+  {
+   "manualId": "3882484",
+   "slug": "Hi-Velocity-Rbm-100",
+   "title": "RBM-100 installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "RBM-100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3882484/Hi-Velocity-Rbm-100.html"
+  },
+  {
+   "manualId": "2300389",
+   "slug": "Hi-Velocity-Rbm-50",
+   "title": "RBM-50 installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "RBM-50",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2300389/Hi-Velocity-Rbm-50.html"
+  },
+  {
+   "manualId": "3882483",
+   "slug": "Hi-Velocity-Rbm-70",
+   "title": "RBM-70 installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "RBM-70",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3882483/Hi-Velocity-Rbm-70.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "hi-velocity-systems"
+ ]
+}

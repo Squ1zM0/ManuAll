@@ -1,0 +1,2068 @@
+{
+ "brand": "Tekmar",
+ "brandSlug": "tekmar",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/tekmar/"
+ ],
+ "slugUsed": "tekmar",
+ "capturedAt": "2026-10-28T09:28:25.906428+00:00",
+ "typePages": [
+  {
+   "path": "/brand/tekmar/accessories.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/boiler.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/boiler-supplies.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/cleaning-equipment.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/computer-hardware.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/control-panel.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/control-systems.html",
+   "manuals": 21,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/control-unit.html",
+   "manuals": 20,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/controller.html",
+   "manuals": 17,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/engine.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/gateway.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/heating-system.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/melting-machines.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/music-mixer.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/paint-sprayer.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/receiver.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/relays.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/security-sensors.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/switch.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/temperature-controller.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/thermostat.html",
+   "manuals": 163,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/timer.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/tekmar/transformer.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1611189",
+   "slug": "Tekmar-1773",
+   "title": "1773 Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "1773",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1611189/Tekmar-1773.html"
+  },
+  {
+   "manualId": "2110063",
+   "slug": "Tekmar-1873-Esm",
+   "title": "1873 Installation And Adjustment Instructions",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "1873",
+   "extraModels": [
+    "1875",
+    "1875-ESM"
+   ],
+   "url": "https://www.manualslib.com/manual/2110063/Tekmar-1873-Esm.html"
+  },
+  {
+   "manualId": "4029703",
+   "slug": "Tekmar-1873",
+   "title": "1873 installation instructions manual",
+   "type": "Installation",
+   "pages": 66,
+   "productModel": "1873",
+   "extraModels": [
+    "1875"
+   ],
+   "url": "https://www.manualslib.com/manual/4029703/Tekmar-1873.html"
+  },
+  {
+   "manualId": "2110158",
+   "slug": "Tekmar-1873-Esm",
+   "title": "1873 quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "1873",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2110158/Tekmar-1873-Esm.html"
+  },
+  {
+   "manualId": "2895768",
+   "slug": "Tekmar-1873-Esm",
+   "title": "1873-ESM Installation And Adjustment Instructions",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "1873-ESM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2895768/Tekmar-1873-Esm.html"
+  },
+  {
+   "manualId": "1284679",
+   "slug": "Tekmar-274",
+   "title": "274 installation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "274",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1284679/Tekmar-274.html"
+  },
+  {
+   "manualId": "2086431",
+   "slug": "Tekmar-284",
+   "title": "284 Installation & operation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "284",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2086431/Tekmar-284.html"
+  },
+  {
+   "manualId": "1555184",
+   "slug": "Tekmar-284",
+   "title": "284 Integration manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "284",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1555184/Tekmar-284.html"
+  },
+  {
+   "manualId": "1497565",
+   "slug": "Tekmar-304p",
+   "title": "304P Installation & operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "304P",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1497565/Tekmar-304p.html"
+  },
+  {
+   "manualId": "3852169",
+   "slug": "Tekmar-306p",
+   "title": "306P Installation & operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "306P",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3852169/Tekmar-306p.html"
+  },
+  {
+   "manualId": "1596744",
+   "slug": "Tekmar-313",
+   "title": "313 Installation & operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "313",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1596744/Tekmar-313.html"
+  },
+  {
+   "manualId": "1995256",
+   "slug": "Tekmar-325",
+   "title": "325 Wiring Brochure",
+   "type": "Parts & Wiring",
+   "pages": 12,
+   "productModel": "325",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1995256/Tekmar-325.html"
+  },
+  {
+   "manualId": "699300",
+   "slug": "Tekmar-362",
+   "title": "362 Data Brochure",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "362",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/699300/Tekmar-362.html"
+  },
+  {
+   "manualId": "2366791",
+   "slug": "Tekmar-364",
+   "title": "364 Data Brochure",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "364",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2366791/Tekmar-364.html"
+  },
+  {
+   "manualId": "3090170",
+   "slug": "Tekmar-4-Series",
+   "title": "4 Series User Brochure",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "4 Series",
+   "extraModels": [
+    "542"
+   ],
+   "url": "https://www.manualslib.com/manual/3090170/Tekmar-4-Series.html"
+  },
+  {
+   "manualId": "2233946",
+   "slug": "Tekmar-420",
+   "title": "420 Data Brochure",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "420",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2233946/Tekmar-420.html"
+  },
+  {
+   "manualId": "3392211",
+   "slug": "Tekmar-421",
+   "title": "421 Data Brochure",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "421",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3392211/Tekmar-421.html"
+  },
+  {
+   "manualId": "3231673",
+   "slug": "Tekmar-421",
+   "title": "421 Wiring Brochure",
+   "type": "Parts & Wiring",
+   "pages": 12,
+   "productModel": "421",
+   "extraModels": [
+    "W 421"
+   ],
+   "url": "https://www.manualslib.com/manual/3231673/Tekmar-421.html"
+  },
+  {
+   "manualId": "2026233",
+   "slug": "Tekmar-423",
+   "title": "423 Wiring Brochure",
+   "type": "Parts & Wiring",
+   "pages": 12,
+   "productModel": "423",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2026233/Tekmar-423.html"
+  },
+  {
+   "manualId": "2017726",
+   "slug": "Tekmar-507",
+   "title": "507 User Brochure",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "507",
+   "extraModels": [
+    "509"
+   ],
+   "url": "https://www.manualslib.com/manual/2017726/Tekmar-507.html"
+  },
+  {
+   "manualId": "3239881",
+   "slug": "Tekmar-507",
+   "title": "507 User Brochure",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "507",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3239881/Tekmar-507.html"
+  },
+  {
+   "manualId": "3133484",
+   "slug": "Tekmar-509",
+   "title": "508 Data Brochure",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "508",
+   "extraModels": [
+    "508"
+   ],
+   "url": "https://www.manualslib.com/manual/3133484/Tekmar-509.html"
+  },
+  {
+   "manualId": "3130606",
+   "slug": "Tekmar-508",
+   "title": "508 User Brochure",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "508",
+   "extraModels": [
+    "509"
+   ],
+   "url": "https://www.manualslib.com/manual/3130606/Tekmar-508.html"
+  },
+  {
+   "manualId": "703725",
+   "slug": "Tekmar-U-508",
+   "title": "508 User Brochure",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "508",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/703725/Tekmar-U-508.html"
+  },
+  {
+   "manualId": "704020",
+   "slug": "Tekmar-510",
+   "title": "510 Data Brochure",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "510",
+   "extraModels": [
+    "511"
+   ],
+   "url": "https://www.manualslib.com/manual/704020/Tekmar-510.html"
+  },
+  {
+   "manualId": "3239882",
+   "slug": "Tekmar-511",
+   "title": "510 User Brochure",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "510",
+   "extraModels": [
+    "510"
+   ],
+   "url": "https://www.manualslib.com/manual/3239882/Tekmar-511.html"
+  },
+  {
+   "manualId": "709427",
+   "slug": "Tekmar-510",
+   "title": "510 User Brochure",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "510",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/709427/Tekmar-510.html"
+  },
+  {
+   "manualId": "3234530",
+   "slug": "Tekmar-512",
+   "title": "512 Data Brochure",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "512",
+   "extraModels": [
+    "510"
+   ],
+   "url": "https://www.manualslib.com/manual/3234530/Tekmar-512.html"
+  },
+  {
+   "manualId": "748218",
+   "slug": "Tekmar-518",
+   "title": "518 Installation & operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "518",
+   "extraModels": [
+    "519"
+   ],
+   "url": "https://www.manualslib.com/manual/748218/Tekmar-518.html"
+  },
+  {
+   "manualId": "1150270",
+   "slug": "Tekmar-518",
+   "title": "518 Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "518",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1150270/Tekmar-518.html"
+  },
+  {
+   "manualId": "1379177",
+   "slug": "Tekmar-518",
+   "title": "518 Quick setup manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "518",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1379177/Tekmar-518.html"
+  },
+  {
+   "manualId": "2167555",
+   "slug": "Tekmar-519",
+   "title": "518 Quick setup manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "518",
+   "extraModels": [
+    "518"
+   ],
+   "url": "https://www.manualslib.com/manual/2167555/Tekmar-519.html"
+  },
+  {
+   "manualId": "1340127",
+   "slug": "Tekmar-519",
+   "title": "519 Quick setup manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "519",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1340127/Tekmar-519.html"
+  },
+  {
+   "manualId": "636754",
+   "slug": "Tekmar-519",
+   "title": "519 user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "519",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/636754/Tekmar-519.html"
+  },
+  {
+   "manualId": "2236269",
+   "slug": "Tekmar-521",
+   "title": "521 Installation & operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "521",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2236269/Tekmar-521.html"
+  },
+  {
+   "manualId": "1574025",
+   "slug": "Tekmar-521",
+   "title": "521 Quick setup manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "521",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1574025/Tekmar-521.html"
+  },
+  {
+   "manualId": "712340",
+   "slug": "Tekmar-521",
+   "title": "521 user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "521",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/712340/Tekmar-521.html"
+  },
+  {
+   "manualId": "745739",
+   "slug": "Tekmar-527",
+   "title": "527 Installation & operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "527",
+   "extraModels": [
+    "528"
+   ],
+   "url": "https://www.manualslib.com/manual/745739/Tekmar-527.html"
+  },
+  {
+   "manualId": "1944761",
+   "slug": "Tekmar-Tekmarnet-2-Thermostat-527",
+   "title": "527 Quick setup manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "527",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1944761/Tekmar-Tekmarnet-2-Thermostat-527.html"
+  },
+  {
+   "manualId": "3792061",
+   "slug": "Tekmar-Tnt-527",
+   "title": "527 Quick setup manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "527",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3792061/Tekmar-Tnt-527.html"
+  },
+  {
+   "manualId": "708363",
+   "slug": "Tekmar-Tekmarnet-2-527",
+   "title": "527 user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "527",
+   "extraModels": [
+    "tekmarNet 4 537"
+   ],
+   "url": "https://www.manualslib.com/manual/708363/Tekmar-Tekmarnet-2-527.html"
+  },
+  {
+   "manualId": "3086983",
+   "slug": "Tekmar-Tekmarnet-2-Thermostat-528",
+   "title": "528 Quick setup manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "528",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3086983/Tekmar-Tekmarnet-2-Thermostat-528.html"
+  },
+  {
+   "manualId": "745346",
+   "slug": "Tekmar-528",
+   "title": "528 Quick setup manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "528",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/745346/Tekmar-528.html"
+  },
+  {
+   "manualId": "3822962",
+   "slug": "Tekmar-530",
+   "title": "530 Installation & operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "530",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3822962/Tekmar-530.html"
+  },
+  {
+   "manualId": "2392853",
+   "slug": "Tekmar-Tekmarnet-530",
+   "title": "530 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "530",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2392853/Tekmar-Tekmarnet-530.html"
+  },
+  {
+   "manualId": "905723",
+   "slug": "Tekmar-Tekmarnet2-527",
+   "title": "537 Installation & operation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "537",
+   "extraModels": [
+    "537"
+   ],
+   "url": "https://www.manualslib.com/manual/905723/Tekmar-Tekmarnet2-527.html"
+  },
+  {
+   "manualId": "3371112",
+   "slug": "Tekmar-537",
+   "title": "537 Mounting instructions",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "537",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3371112/Tekmar-537.html"
+  },
+  {
+   "manualId": "977187",
+   "slug": "Tekmar-Tekmarnet-4-Thermostat-538",
+   "title": "538 Quick setup manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "538",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/977187/Tekmar-Tekmarnet-4-Thermostat-538.html"
+  },
+  {
+   "manualId": "704633",
+   "slug": "Tekmar-Tekmarnet-4-540",
+   "title": "540 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "540",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/704633/Tekmar-Tekmarnet-4-540.html"
+  },
+  {
+   "manualId": "3086102",
+   "slug": "Tekmar-Tekmarnet-4-Thermostat-540",
+   "title": "540 Wiring Brochure",
+   "type": "Parts & Wiring",
+   "pages": 8,
+   "productModel": "540",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3086102/Tekmar-Tekmarnet-4-Thermostat-540.html"
+  },
+  {
+   "manualId": "703664",
+   "slug": "Tekmar-541",
+   "title": "541 User brochure",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "541",
+   "extraModels": [
+    "tekmarNet 4 541"
+   ],
+   "url": "https://www.manualslib.com/manual/703664/Tekmar-541.html"
+  },
+  {
+   "manualId": "2315459",
+   "slug": "Tekmar-Tekmarnet-541",
+   "title": "541 Wiring Brochure",
+   "type": "Parts & Wiring",
+   "pages": 8,
+   "productModel": "541",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2315459/Tekmar-Tekmarnet-541.html"
+  },
+  {
+   "manualId": "3243859",
+   "slug": "Tekmar-542",
+   "title": "542 Wiring Brochure",
+   "type": "Parts & Wiring",
+   "pages": 9,
+   "productModel": "542",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3243859/Tekmar-542.html"
+  },
+  {
+   "manualId": "3216101",
+   "slug": "Tekmar-543",
+   "title": "543 User Brochure",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "543",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3216101/Tekmar-543.html"
+  },
+  {
+   "manualId": "1997645",
+   "slug": "Tekmar-545-Tekmarnet-4",
+   "title": "545 tekmarNet 4 brochure",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "545 tekmarNet 4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1997645/Tekmar-545-Tekmarnet-4.html"
+  },
+  {
+   "manualId": "1294355",
+   "slug": "Tekmar-562",
+   "title": "561 Installation & operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "561",
+   "extraModels": [
+    "561"
+   ],
+   "url": "https://www.manualslib.com/manual/1294355/Tekmar-562.html"
+  },
+  {
+   "manualId": "1335333",
+   "slug": "Tekmar-561",
+   "title": "561 user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "561",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1335333/Tekmar-561.html"
+  },
+  {
+   "manualId": "2227756",
+   "slug": "Tekmar-561",
+   "title": "561 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "561",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2227756/Tekmar-561.html"
+  },
+  {
+   "manualId": "1552466",
+   "slug": "Tekmar-654",
+   "title": "654 Installation & operation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "654",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1552466/Tekmar-654.html"
+  },
+  {
+   "manualId": "1603154",
+   "slug": "Tekmar-654",
+   "title": "654 Quick setup manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "654",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1603154/Tekmar-654.html"
+  },
+  {
+   "manualId": "887094",
+   "slug": "Tekmar-654",
+   "title": "654 user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "654",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/887094/Tekmar-654.html"
+  },
+  {
+   "manualId": "1231540",
+   "slug": "Tekmar-665",
+   "title": "665 Installation & operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "665",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1231540/Tekmar-665.html"
+  },
+  {
+   "manualId": "1789452",
+   "slug": "Tekmar-671",
+   "title": "671 Installation & operation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "671",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1789452/Tekmar-671.html"
+  },
+  {
+   "manualId": "2375017",
+   "slug": "Tekmar-Tekmarnet-553",
+   "title": "779655055306 Quick setup manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "779655055306",
+   "extraModels": [
+    "779655055306"
+   ],
+   "url": "https://www.manualslib.com/manual/2375017/Tekmar-Tekmarnet-553.html"
+  },
+  {
+   "manualId": "1134991",
+   "slug": "Tekmar-Boiler-Control-263",
+   "title": "Boiler Control 263 Data Brochure",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "Boiler Control 263",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1134991/Tekmar-Boiler-Control-263.html"
+  },
+  {
+   "manualId": "1646248",
+   "slug": "Tekmar-Boiler-Control-265",
+   "title": "Boiler Control 265 Data Brochure",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "Boiler Control 265",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1646248/Tekmar-Boiler-Control-265.html"
+  },
+  {
+   "manualId": "2965348",
+   "slug": "Tekmar-Boiler-Control-275",
+   "title": "Boiler Control 275 Installation & operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Boiler Control 275",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2965348/Tekmar-Boiler-Control-275.html"
+  },
+  {
+   "manualId": "1116388",
+   "slug": "Tekmar-D-262",
+   "title": "D 262 Data Brochure",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "D 262",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1116388/Tekmar-D-262.html"
+  },
+  {
+   "manualId": "1126856",
+   "slug": "Tekmar-D-270",
+   "title": "D 270 Data Brochure",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "D 270",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1126856/Tekmar-D-270.html"
+  },
+  {
+   "manualId": "741414",
+   "slug": "Tekmar-D-315",
+   "title": "D 315 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "D 315",
+   "extraModels": [
+    "tekmarNet4 315"
+   ],
+   "url": "https://www.manualslib.com/manual/741414/Tekmar-D-315.html"
+  },
+  {
+   "manualId": "1526870",
+   "slug": "Tekmar-D-512",
+   "title": "D 512 Data brochure",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "D 512",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1526870/Tekmar-D-512.html"
+  },
+  {
+   "manualId": "2446778",
+   "slug": "Tekmar-D528",
+   "title": "D528 Installation & operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "D528",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2446778/Tekmar-D528.html"
+  },
+  {
+   "manualId": "741411",
+   "slug": "Tekmar-D538",
+   "title": "D538 Installation & operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "D538",
+   "extraModels": [
+    "tekmarNet 4 538",
+    "tekmarNet4 D538"
+   ],
+   "url": "https://www.manualslib.com/manual/741411/Tekmar-D538.html"
+  },
+  {
+   "manualId": "762438",
+   "slug": "Tekmar-D540",
+   "title": "D540 Installation & operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "D540",
+   "extraModels": [
+    "tekmarNet 4 530"
+   ],
+   "url": "https://www.manualslib.com/manual/762438/Tekmar-D540.html"
+  },
+  {
+   "manualId": "1587032",
+   "slug": "Tekmar-039",
+   "title": "Data Brochure",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1587032/Tekmar-039.html"
+  },
+  {
+   "manualId": "1606726",
+   "slug": "Tekmar-152",
+   "title": "Data Brochure",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1606726/Tekmar-152.html"
+  },
+  {
+   "manualId": "2016170",
+   "slug": "Tekmar-Rtu-060",
+   "title": "Data Brochure",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2016170/Tekmar-Rtu-060.html"
+  },
+  {
+   "manualId": "2036872",
+   "slug": "Tekmar-Tekmarnet-4",
+   "title": "Data Brochure",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2036872/Tekmar-Tekmarnet-4.html"
+  },
+  {
+   "manualId": "2037714",
+   "slug": "Tekmar-741",
+   "title": "Data Brochure",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2037714/Tekmar-741.html"
+  },
+  {
+   "manualId": "2082523",
+   "slug": "Tekmar-Rtu-062",
+   "title": "Data Brochure",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2082523/Tekmar-Rtu-062.html"
+  },
+  {
+   "manualId": "2086409",
+   "slug": "Tekmar-Timer-031",
+   "title": "Data Brochure",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2086409/Tekmar-Timer-031.html"
+  },
+  {
+   "manualId": "2086490",
+   "slug": "Tekmar-D-255",
+   "title": "Data Brochure",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2086490/Tekmar-D-255.html"
+  },
+  {
+   "manualId": "2299906",
+   "slug": "Tekmar-D-650",
+   "title": "Data Brochure",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2299906/Tekmar-D-650.html"
+  },
+  {
+   "manualId": "2383146",
+   "slug": "Tekmar-308",
+   "title": "Data Brochure",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2383146/Tekmar-308.html"
+  },
+  {
+   "manualId": "2424324",
+   "slug": "Tekmar-D-054",
+   "title": "Data brochure",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2424324/Tekmar-D-054.html"
+  },
+  {
+   "manualId": "2858578",
+   "slug": "Tekmar-062",
+   "title": "Data Brochure",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2858578/Tekmar-062.html"
+  },
+  {
+   "manualId": "2988654",
+   "slug": "Tekmar-150",
+   "title": "Data Brochure",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2988654/Tekmar-150.html"
+  },
+  {
+   "manualId": "3070855",
+   "slug": "Tekmar-155",
+   "title": "Data Brochure",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3070855/Tekmar-155.html"
+  },
+  {
+   "manualId": "3311972",
+   "slug": "Tekmar-D-507",
+   "title": "Data brochure",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3311972/Tekmar-D-507.html"
+  },
+  {
+   "manualId": "2898774",
+   "slug": "Tekmar-Dhw-Control-252",
+   "title": "DHW Control 252 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "DHW Control 252",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2898774/Tekmar-Dhw-Control-252.html"
+  },
+  {
+   "manualId": "2909809",
+   "slug": "Tekmar-Dhw-Control-257",
+   "title": "DHW Control 257 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "DHW Control 257",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2909809/Tekmar-Dhw-Control-257.html"
+  },
+  {
+   "manualId": "2038561",
+   "slug": "Tekmar-Difference-Setpoint-Control-156",
+   "title": "Difference Setpoint Control 156 Data Brochure",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "Difference Setpoint Control 156",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2038561/Tekmar-Difference-Setpoint-Control-156.html"
+  },
+  {
+   "manualId": "1995507",
+   "slug": "Tekmar-Eight-Stage-Boiler-Control-258",
+   "title": "Eight Stage Boiler Control 258 Data brochure",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "Eight Stage Boiler Control 258",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1995507/Tekmar-Eight-Stage-Boiler-Control-258.html"
+  },
+  {
+   "manualId": "1586609",
+   "slug": "Tekmar-House-Control-401",
+   "title": "House Control 401 Quick setup manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "House Control 401",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1586609/Tekmar-House-Control-401.html"
+  },
+  {
+   "manualId": "2779210",
+   "slug": "Tekmar-Rdm-040",
+   "title": "Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2779210/Tekmar-Rdm-040.html"
+  },
+  {
+   "manualId": "1295887",
+   "slug": "Tekmar-087",
+   "title": "Installation & operation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1295887/Tekmar-087.html"
+  },
+  {
+   "manualId": "1373875",
+   "slug": "Tekmar-301p",
+   "title": "Installation & operation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1373875/Tekmar-301p.html"
+  },
+  {
+   "manualId": "1982201",
+   "slug": "Tekmar-741",
+   "title": "Installation & operation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1982201/Tekmar-741.html"
+  },
+  {
+   "manualId": "2032696",
+   "slug": "Tekmar-003",
+   "title": "Installation & operation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2032696/Tekmar-003.html"
+  },
+  {
+   "manualId": "2087481",
+   "slug": "Tekmar-090",
+   "title": "Installation & operation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2087481/Tekmar-090.html"
+  },
+  {
+   "manualId": "3162505",
+   "slug": "Tekmar-Adaptor-Plate-012",
+   "title": "Installation & operation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3162505/Tekmar-Adaptor-Plate-012.html"
+  },
+  {
+   "manualId": "3778516",
+   "slug": "Tekmar-009",
+   "title": "Installation & operation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3778516/Tekmar-009.html"
+  },
+  {
+   "manualId": "4179310",
+   "slug": "Tekmar-004",
+   "title": "Installation & operation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4179310/Tekmar-004.html"
+  },
+  {
+   "manualId": "745758",
+   "slug": "Tekmar-70",
+   "title": "Installation & operation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/745758/Tekmar-70.html"
+  },
+  {
+   "manualId": "1143532",
+   "slug": "Tekmar-078",
+   "title": "Installation and operaion manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1143532/Tekmar-078.html"
+  },
+  {
+   "manualId": "3059002",
+   "slug": "Tekmar-Target-Tg-200",
+   "title": "Instructions And Care",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3059002/Tekmar-Target-Tg-200.html"
+  },
+  {
+   "manualId": "3059752",
+   "slug": "Tekmar-Target-Tg-300",
+   "title": "Instructions And Care",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3059752/Tekmar-Target-Tg-300.html"
+  },
+  {
+   "manualId": "2169014",
+   "slug": "Tekmar-Invita",
+   "title": "Invita Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "Invita",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2169014/Tekmar-Invita.html"
+  },
+  {
+   "manualId": "1482847",
+   "slug": "Tekmar-Invita",
+   "title": "Invita Quick setup manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "Invita",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1482847/Tekmar-Invita.html"
+  },
+  {
+   "manualId": "1762666",
+   "slug": "Tekmar-Invita",
+   "title": "Invita user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Invita",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1762666/Tekmar-Invita.html"
+  },
+  {
+   "manualId": "2197886",
+   "slug": "Tekmar-Mixing-Control-354",
+   "title": "Mixing Control 354 Data Brochure",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "Mixing Control 354",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2197886/Tekmar-Mixing-Control-354.html"
+  },
+  {
+   "manualId": "2314253",
+   "slug": "Tekmar-Mixing-Control-356",
+   "title": "Mixing Control 356 Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Mixing Control 356",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2314253/Tekmar-Mixing-Control-356.html"
+  },
+  {
+   "manualId": "2016172",
+   "slug": "Tekmar-Mixing-Control-361",
+   "title": "Mixing Control 361 Data Brochure",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "Mixing Control 361",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2016172/Tekmar-Mixing-Control-361.html"
+  },
+  {
+   "manualId": "2038613",
+   "slug": "Tekmar-Mixing-Setpoint-Control-153",
+   "title": "Mixing Setpoint Control 153 Data Brochure",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "Mixing Setpoint Control 153",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2038613/Tekmar-Mixing-Setpoint-Control-153.html"
+  },
+  {
+   "manualId": "3220937",
+   "slug": "Tekmar-153",
+   "title": "Mixing Setpoint Control 153 Data Brochure",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "Mixing Setpoint Control 153",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3220937/Tekmar-153.html"
+  },
+  {
+   "manualId": "2376358",
+   "slug": "Tekmar-One-Stage-Boiler-Control-253",
+   "title": "One Stage Boiler Control 253 Data Brochure",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "One Stage Boiler Control 253",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2376358/Tekmar-One-Stage-Boiler-Control-253.html"
+  },
+  {
+   "manualId": "3259641",
+   "slug": "Tekmar-Tg-300",
+   "title": "Operating Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3259641/Tekmar-Tg-300.html"
+  },
+  {
+   "manualId": "969825",
+   "slug": "Tekmar-Tg300",
+   "title": "Operating Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/969825/Tekmar-Tg300.html"
+  },
+  {
+   "manualId": "1752251",
+   "slug": "Tekmar-Pump-Sequencer-132",
+   "title": "Pump Sequencer 132 Data Brochure",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "Pump Sequencer 132",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1752251/Tekmar-Pump-Sequencer-132.html"
+  },
+  {
+   "manualId": "1524748",
+   "slug": "Tekmar-Tekmarnet-402",
+   "title": "Quick setup manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1524748/Tekmar-Tekmarnet-402.html"
+  },
+  {
+   "manualId": "3216055",
+   "slug": "Tekmar-Tnt-540",
+   "title": "Quick setup manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3216055/Tekmar-Tnt-540.html"
+  },
+  {
+   "manualId": "3231235",
+   "slug": "Tekmar-Q-527",
+   "title": "Quick setup manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "tekmarNet 2 527"
+   ],
+   "url": "https://www.manualslib.com/manual/3231235/Tekmar-Q-527.html"
+  },
+  {
+   "manualId": "2336261",
+   "slug": "Tekmar-680",
+   "title": "Snow Melting Control 680 Installation & operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Snow Melting Control 680",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2336261/Tekmar-680.html"
+  },
+  {
+   "manualId": "1855322",
+   "slug": "Tekmar-Snow-Melting-Control-680",
+   "title": "Snow Melting Control 680 Integration manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "Snow Melting Control 680",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1855322/Tekmar-Snow-Melting-Control-680.html"
+  },
+  {
+   "manualId": "1508161",
+   "slug": "Tekmar-Snow-Sensor-095",
+   "title": "Snow Sensor 095 Installation & operation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Snow Sensor 095",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1508161/Tekmar-Snow-Sensor-095.html"
+  },
+  {
+   "manualId": "2001781",
+   "slug": "Tekmar-Target-Tb-500",
+   "title": "Target TB 500 Instruction For Set Up And Operation",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Target TB 500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2001781/Tekmar-Target-Tb-500.html"
+  },
+  {
+   "manualId": "4239791",
+   "slug": "tekmar-153-mixing-setpoint-control-user-manual",
+   "title": "Tekmar 153 Mixing Setpoint Control User Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4239791/tekmar-153-mixing-setpoint-control-user-manual.html"
+  },
+  {
+   "manualId": "4240046",
+   "slug": "tekmar-507-thermostat-user-manual",
+   "title": "Tekmar 507 Thermostat User Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4240046/tekmar-507-thermostat-user-manual.html"
+  },
+  {
+   "manualId": "2105674",
+   "slug": "Tekmar-D-508",
+   "title": "Tekmar D 508 Data Brochure",
+   "type": "Other",
+   "pages": 12,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2105674/Tekmar-D-508.html"
+  },
+  {
+   "manualId": "2372717",
+   "slug": "Tekmar-Tekmarnet-2-528",
+   "title": "tekmarNet 2 528 Installation & operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "tekmarNet 2 528",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2372717/Tekmar-Tekmarnet-2-528.html"
+  },
+  {
+   "manualId": "708449",
+   "slug": "Tekmar-Tekmarnet-2-528",
+   "title": "tekmarNet 2 528 User brochure",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "tekmarNet 2 528",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/708449/Tekmar-Tekmarnet-2-528.html"
+  },
+  {
+   "manualId": "2054167",
+   "slug": "Tekmar-Tekmarnet-2-529",
+   "title": "tekmarNet 2 529 Quick setup manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "tekmarNet 2 529",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2054167/Tekmar-Tekmarnet-2-529.html"
+  },
+  {
+   "manualId": "842533",
+   "slug": "Tekmar-Tekmarnet-2-Thermostat-529",
+   "title": "tekmarNet 2 529 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "tekmarNet 2 529",
+   "extraModels": [
+    "tekmarNet 2 529"
+   ],
+   "url": "https://www.manualslib.com/manual/842533/Tekmar-Tekmarnet-2-Thermostat-529.html"
+  },
+  {
+   "manualId": "967451",
+   "slug": "Tekmar-Tekmarnet-2-530",
+   "title": "tekmarNet 2 530 Installation & operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "tekmarNet 2 530",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/967451/Tekmar-Tekmarnet-2-530.html"
+  },
+  {
+   "manualId": "3132087",
+   "slug": "Tekmar-Tekmarnet-2-House-Control-402",
+   "title": "tekmarNet 2 House Control 402 Installation & operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "tekmarNet 2 House Control 402",
+   "extraModels": [
+    "tekmarNet 2 House Control 402"
+   ],
+   "url": "https://www.manualslib.com/manual/3132087/Tekmar-Tekmarnet-2-House-Control-402.html"
+  },
+  {
+   "manualId": "747275",
+   "slug": "Tekmar-403",
+   "title": "tekmarNet 2 House Control 403 Installation & operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "tekmarNet 2 House Control 403",
+   "extraModels": [
+    "tN2 house control 400"
+   ],
+   "url": "https://www.manualslib.com/manual/747275/Tekmar-403.html"
+  },
+  {
+   "manualId": "1587074",
+   "slug": "Tekmar-Tn2-House-Control-403",
+   "title": "tekmarNet 2 House Control 403 Quick setup manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "tekmarNet 2 House Control 403",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1587074/Tekmar-Tn2-House-Control-403.html"
+  },
+  {
+   "manualId": "2712431",
+   "slug": "Tekmar-Tekmarnet-2-House-Control-406",
+   "title": "tekmarNet 2 House Control 406 Installation & operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "tekmarNet 2 House Control 406",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2712431/Tekmar-Tekmarnet-2-House-Control-406.html"
+  },
+  {
+   "manualId": "1139581",
+   "slug": "Tekmar-529",
+   "title": "tekmarNet 2 Thermostat 529 Installation and operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "tekmarNet 2 Thermostat 529",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1139581/Tekmar-529.html"
+  },
+  {
+   "manualId": "3111206",
+   "slug": "Tekmar-Tekmarnet-4-537",
+   "title": "tekmarNet 4 537 Installation & operation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "tekmarNet 4 537",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3111206/Tekmar-Tekmarnet-4-537.html"
+  },
+  {
+   "manualId": "2170918",
+   "slug": "Tekmar-Tekmarnet-4-538",
+   "title": "tekmarNet 4 538 Quick setup manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "tekmarNet 4 538",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2170918/Tekmar-Tekmarnet-4-538.html"
+  },
+  {
+   "manualId": "1597812",
+   "slug": "Tekmar-Tn4-538",
+   "title": "tekmarNet 4 538 Wiring Brochure",
+   "type": "Parts & Wiring",
+   "pages": 8,
+   "productModel": "tekmarNet 4 538",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1597812/Tekmar-Tn4-538.html"
+  },
+  {
+   "manualId": "2263838",
+   "slug": "Tekmar-Tekmarnet-4-543",
+   "title": "tekmarNet 4 543 Wiring Brochure",
+   "type": "Parts & Wiring",
+   "pages": 8,
+   "productModel": "tekmarNet 4 543",
+   "extraModels": [
+    "tN4 543"
+   ],
+   "url": "https://www.manualslib.com/manual/2263838/Tekmar-Tekmarnet-4-543.html"
+  },
+  {
+   "manualId": "1597814",
+   "slug": "Tekmar-Tekmarnet-4-544",
+   "title": "tekmarNet 4 544 Wiring Brochure",
+   "type": "Parts & Wiring",
+   "pages": 12,
+   "productModel": "tekmarNet 4 544",
+   "extraModels": [
+    "tN4 544"
+   ],
+   "url": "https://www.manualslib.com/manual/1597814/Tekmar-Tekmarnet-4-544.html"
+  },
+  {
+   "manualId": "961103",
+   "slug": "Tekmar-Tekmarnet-4-546",
+   "title": "tekmarNet 4 546 User brochure",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "tekmarNet 4 546",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/961103/Tekmar-Tekmarnet-4-546.html"
+  },
+  {
+   "manualId": "704966",
+   "slug": "Tekmar-541",
+   "title": "tekmarNet 4 Data Brochure",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "tekmarNet 4",
+   "extraModels": [
+    "tekmarNet 4 541"
+   ],
+   "url": "https://www.manualslib.com/manual/704966/Tekmar-541.html"
+  },
+  {
+   "manualId": "2414709",
+   "slug": "Tekmar-Tekmarnet-4",
+   "title": "tekmarNet 4 Quick setup manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "tekmarNet 4",
+   "extraModels": [
+    "537"
+   ],
+   "url": "https://www.manualslib.com/manual/2414709/Tekmar-Tekmarnet-4.html"
+  },
+  {
+   "manualId": "3277068",
+   "slug": "Tekmar-Q-540",
+   "title": "tekmarNet 4 Quick setup manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "tekmarNet 4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3277068/Tekmar-Q-540.html"
+  },
+  {
+   "manualId": "2090817",
+   "slug": "Tekmar-Tekmarnet-4-Setpoint-Control-161",
+   "title": "tekmarNet 4 Setpoint Control 161 Data Brochure",
+   "type": "Other",
+   "pages": 37,
+   "productModel": "tekmarNet 4 Setpoint Control 161",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2090817/Tekmar-Tekmarnet-4-Setpoint-Control-161.html"
+  },
+  {
+   "manualId": "1615984",
+   "slug": "Tekmar-Tekmarnet-4-Setpoint-Control-161",
+   "title": "tekmarNet 4 Setpoint Control 161 Wiring Brochure",
+   "type": "Parts & Wiring",
+   "pages": 12,
+   "productModel": "tekmarNet 4 Setpoint Control 161",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1615984/Tekmar-Tekmarnet-4-Setpoint-Control-161.html"
+  },
+  {
+   "manualId": "1979649",
+   "slug": "Tekmar-Tekmarnet-4-Setpoint-Control-162",
+   "title": "tekmarNet 4 Setpoint Control 162 User brochure",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "tekmarNet 4 Setpoint Control 162",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1979649/Tekmar-Tekmarnet-4-Setpoint-Control-162.html"
+  },
+  {
+   "manualId": "3182992",
+   "slug": "Tekmar-Tekmarnet-4",
+   "title": "tekmarNet 4 User Brochure",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "tekmarNet 4",
+   "extraModels": [
+    "545 tekmarNet 4"
+   ],
+   "url": "https://www.manualslib.com/manual/3182992/Tekmar-Tekmarnet-4.html"
+  },
+  {
+   "manualId": "705174",
+   "slug": "Tekmar-538",
+   "title": "tekmarNet 4 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "tekmarNet 4",
+   "extraModels": [
+    "tekmarNet 4",
+    "528",
+    "tekmarNet 2"
+   ],
+   "url": "https://www.manualslib.com/manual/705174/Tekmar-538.html"
+  },
+  {
+   "manualId": "1752725",
+   "slug": "Tekmar-Tekmarnet-4-User-Switch-481",
+   "title": "tekmarNet 4 User Switch 481 Data Brochure",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "tekmarNet 4 User Switch 481",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1752725/Tekmar-Tekmarnet-4-User-Switch-481.html"
+  },
+  {
+   "manualId": "1048523",
+   "slug": "Tekmar-Tekmarnet-485",
+   "title": "tekmarNet 485 Installation & operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "tekmarNet 485",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1048523/Tekmar-Tekmarnet-485.html"
+  },
+  {
+   "manualId": "1313986",
+   "slug": "Tekmar-485",
+   "title": "tekmarNet 485 Quick setup manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "tekmarNet 485",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1313986/Tekmar-485.html"
+  },
+  {
+   "manualId": "982366",
+   "slug": "Tekmar-Tekmarnet-Thermostat-532",
+   "title": "tekmarNet 532 Installation & operation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "tekmarNet 532",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/982366/Tekmar-Tekmarnet-Thermostat-532.html"
+  },
+  {
+   "manualId": "1619385",
+   "slug": "Tekmar-Tekmarnet-532",
+   "title": "tekmarNet 532 Quick setup manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "tekmarNet 532",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1619385/Tekmar-Tekmarnet-532.html"
+  },
+  {
+   "manualId": "964828",
+   "slug": "Tekmar-Tekmarnet-532",
+   "title": "tekmarNet 532 user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "tekmarNet 532",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/964828/Tekmar-Tekmarnet-532.html"
+  },
+  {
+   "manualId": "744522",
+   "slug": "Tekmar-Tekmarnet-552",
+   "title": "tekmarNet 552 Installation & operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "tekmarNet 552",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/744522/Tekmar-Tekmarnet-552.html"
+  },
+  {
+   "manualId": "1972766",
+   "slug": "Tekmar-Tekmarnet-552",
+   "title": "tekmarNet 552 Quick setup manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "tekmarNet 552",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1972766/Tekmar-Tekmarnet-552.html"
+  },
+  {
+   "manualId": "711290",
+   "slug": "Tekmar-Tekmarnet-552",
+   "title": "tekmarNet 552 user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "tekmarNet 552",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/711290/Tekmar-Tekmarnet-552.html"
+  },
+  {
+   "manualId": "636795",
+   "slug": "Tekmar-Tekmarnet-553",
+   "title": "tekmarNet 553 Installation & operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "tekmarNet 553",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/636795/Tekmar-Tekmarnet-553.html"
+  },
+  {
+   "manualId": "636776",
+   "slug": "Tekmar-Tekmarnet-553",
+   "title": "tekmarNet 553 user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "tekmarNet 553",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/636776/Tekmar-Tekmarnet-553.html"
+  },
+  {
+   "manualId": "1055864",
+   "slug": "Tekmar-Tekmarnet-554",
+   "title": "tekmarNet 554 Installation & operation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "tekmarNet 554",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1055864/Tekmar-Tekmarnet-554.html"
+  },
+  {
+   "manualId": "1389963",
+   "slug": "Tekmar-Tekmarnet-554",
+   "title": "tekmarNet 554 Quick setup manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "tekmarNet 554",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1389963/Tekmar-Tekmarnet-554.html"
+  },
+  {
+   "manualId": "1151671",
+   "slug": "Tekmar-554",
+   "title": "tekmarNet 554 user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "tekmarNet 554",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1151671/Tekmar-554.html"
+  },
+  {
+   "manualId": "636762",
+   "slug": "Tekmar-Tekmarnet-557",
+   "title": "tekmarNet 557 Installation & operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "tekmarNet 557",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/636762/Tekmar-Tekmarnet-557.html"
+  },
+  {
+   "manualId": "1995258",
+   "slug": "Tekmar-Tekmarnet-557",
+   "title": "tekmarNet 557 Quick setup manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "tekmarNet 557",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1995258/Tekmar-Tekmarnet-557.html"
+  },
+  {
+   "manualId": "3157698",
+   "slug": "Tekmar-Tekmarnet-557",
+   "title": "tekmarNet 557 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "tekmarNet 557",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3157698/Tekmar-Tekmarnet-557.html"
+  },
+  {
+   "manualId": "3293151",
+   "slug": "Tekmar-Tekmarnet2-314",
+   "title": "tekmarNet2 314 Installation & operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "tekmarNet2 314",
+   "extraModels": [
+    "tN2 314"
+   ],
+   "url": "https://www.manualslib.com/manual/3293151/Tekmar-Tekmarnet2-314.html"
+  },
+  {
+   "manualId": "750085",
+   "slug": "Tekmar-Tekmarnet2-Thermostat-527",
+   "title": "tekmarNet2 Thermostat 530 Installation & operation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "tekmarNet2 Thermostat 530",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/750085/Tekmar-Tekmarnet2-Thermostat-527.html"
+  },
+  {
+   "manualId": "705195",
+   "slug": "Tekmar-Tekmarnet2-Thermostat-530",
+   "title": "tekmarNet2 Thermostat 530 Quick setup manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "tekmarNet2 Thermostat 530",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/705195/Tekmar-Tekmarnet2-Thermostat-530.html"
+  },
+  {
+   "manualId": "2373073",
+   "slug": "Tekmar-Tekmarnet4-User-Switch-480",
+   "title": "tekmarNet4 User Switch 480 Data Brochure",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "tekmarNet4 User Switch 480",
+   "extraModels": [
+    "tekmarNet4 User Switch 480"
+   ],
+   "url": "https://www.manualslib.com/manual/2373073/Tekmar-Tekmarnet4-User-Switch-480.html"
+  },
+  {
+   "manualId": "1135687",
+   "slug": "Tekmar-Tn2-House-Control-400",
+   "title": "tN2 house control 400 Installation and operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "tN2 house control 400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1135687/Tekmar-Tn2-House-Control-400.html"
+  },
+  {
+   "manualId": "1749737",
+   "slug": "Tekmar-Tn4-Gateway-483",
+   "title": "tN4 Gateway 483 Wiring Brochure",
+   "type": "Parts & Wiring",
+   "pages": 16,
+   "productModel": "tN4 Gateway 483",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1749737/Tekmar-Tn4-Gateway-483.html"
+  },
+  {
+   "manualId": "2330653",
+   "slug": "Tekmar-Universal-Reset-Control-363",
+   "title": "Universal Reset Control 363 Data brochure",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "Universal Reset Control 363",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2330653/Tekmar-Universal-Reset-Control-363.html"
+  },
+  {
+   "manualId": "2038575",
+   "slug": "Tekmar-Universal-Reset-Module-422",
+   "title": "Universal Reset Module 422 Data Brochure",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "Universal Reset Module 422",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2038575/Tekmar-Universal-Reset-Module-422.html"
+  },
+  {
+   "manualId": "1947727",
+   "slug": "Tekmar-Universal-Reset-Module-422",
+   "title": "Universal Reset Module 422 Wiring Brochure",
+   "type": "Parts & Wiring",
+   "pages": 12,
+   "productModel": "Universal Reset Module 422",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1947727/Tekmar-Universal-Reset-Module-422.html"
+  },
+  {
+   "manualId": "1149458",
+   "slug": "Tekmar-479",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1149458/Tekmar-479.html"
+  },
+  {
+   "manualId": "1782996",
+   "slug": "Tekmar-Tekmarnet4-Setpoint-Control-162",
+   "title": "Wiring Brochure",
+   "type": "Parts & Wiring",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1782996/Tekmar-Tekmarnet4-Setpoint-Control-162.html"
+  },
+  {
+   "manualId": "1817890",
+   "slug": "Tekmar-Tekmarnet-4-033",
+   "title": "Wiring Brochure",
+   "type": "Parts & Wiring",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1817890/Tekmar-Tekmarnet-4-033.html"
+  },
+  {
+   "manualId": "2038547",
+   "slug": "Tekmar-Mixing-Expansion-Module-440",
+   "title": "Wiring Brochure",
+   "type": "Parts & Wiring",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2038547/Tekmar-Mixing-Expansion-Module-440.html"
+  },
+  {
+   "manualId": "2376361",
+   "slug": "Tekmar-Zone-Control-367",
+   "title": "Zone Control 367 Data brochure",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "Zone Control 367",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2376361/Tekmar-Zone-Control-367.html"
+  },
+  {
+   "manualId": "2376356",
+   "slug": "Tekmar-Zone-Control-369",
+   "title": "Zone Control 369 Data brochure",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "Zone Control 369",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2376356/Tekmar-Zone-Control-369.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4240046",
+   "slug": "tekmar-507-thermostat-user-manual",
+   "title": "Tekmar 507 Thermostat User Manual"
+  },
+  {
+   "manualId": "4239791",
+   "slug": "tekmar-153-mixing-setpoint-control-user-manual",
+   "title": "Tekmar 153 Mixing Setpoint Control User Manual"
+  }
+ ],
+ "techDirectIds": [
+  "tekmar"
+ ]
+}

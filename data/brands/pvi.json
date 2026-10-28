@@ -1,0 +1,814 @@
+{
+ "brand": "PVI",
+ "brandSlug": "pvi",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/pvi/"
+ ],
+ "slugUsed": "pvi",
+ "capturedAt": "2026-10-28T09:12:26.729370+00:00",
+ "typePages": [
+  {
+   "path": "/brand/pvi/controller.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/pvi/extender.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/pvi/ladders.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/pvi/lifting-systems.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/pvi/matrix-switcher.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/pvi/media-converter.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/pvi/media-player.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/pvi/modulator.html",
+   "manuals": 16,
+   "status": 200
+  },
+  {
+   "path": "/brand/pvi/racks-and-stands.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/pvi/receiver.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/pvi/water-heater.html",
+   "manuals": 126,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "844235",
+   "slug": "Pvi-199",
+   "title": "199 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 31,
+   "productModel": "199",
+   "extraModels": [
+    "299",
+    "399"
+   ],
+   "url": "https://www.manualslib.com/manual/844235/Pvi-199.html"
+  },
+  {
+   "manualId": "135841",
+   "slug": "Pvi-Pv-500-6",
+   "title": "500-6 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "500-6",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135841/Pvi-Pv-500-6.html"
+  },
+  {
+   "manualId": "2765763",
+   "slug": "Pvi-Bar1636",
+   "title": "BAR1636 Manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "BAR1636",
+   "extraModels": [
+    "BAR2436"
+   ],
+   "url": "https://www.manualslib.com/manual/2765763/Pvi-Bar1636.html"
+  },
+  {
+   "manualId": "1045131",
+   "slug": "Pvi-Conquest-50-L-130-A-Gcml",
+   "title": "conquest 40 L 130 A-GC Installation & maintenance manual",
+   "type": "Service",
+   "pages": 62,
+   "productModel": "conquest 40 L 130 A-GC",
+   "extraModels": [
+    "conquest 70 L 130 A-GCML",
+    "conquest 80 L 130 A-GCML"
+   ],
+   "url": "https://www.manualslib.com/manual/1045131/Pvi-Conquest-50-L-130-A-Gcml.html"
+  },
+  {
+   "manualId": "821879",
+   "slug": "Pvi-Pvi-Durawatt",
+   "title": "DURAWATT Series Installation & maintenance manual",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "DURAWATT Series",
+   "extraModels": [
+    "DURAWATT Series"
+   ],
+   "url": "https://www.manualslib.com/manual/821879/Pvi-Pvi-Durawatt.html"
+  },
+  {
+   "manualId": "1862712",
+   "slug": "Pvi-Vecaster-Pro-Series",
+   "title": "H264 user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "H264",
+   "extraModels": [
+    "H264",
+    "H265"
+   ],
+   "url": "https://www.manualslib.com/manual/1862712/Pvi-Vecaster-Pro-Series.html"
+  },
+  {
+   "manualId": "135857",
+   "slug": "Pvi-Quickdraw-Pv500-24",
+   "title": "Installation and maintenance manual",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135857/Pvi-Quickdraw-Pv500-24.html"
+  },
+  {
+   "manualId": "1902764",
+   "slug": "Pvi-Xp3",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1902764/Pvi-Xp3.html"
+  },
+  {
+   "manualId": "135831",
+   "slug": "Pvi-Maxim-Integrated-Water-Heating-System",
+   "title": "MAXIM Installation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "MAXIM",
+   "extraModels": [
+    "MAXIM INTEGRATED WATER HEATING SYSTEM"
+   ],
+   "url": "https://www.manualslib.com/manual/135831/Pvi-Maxim-Integrated-Water-Heating-System.html"
+  },
+  {
+   "manualId": "135836",
+   "slug": "Pvi-Polyshield-Polymer-Lined-Storage-Tank",
+   "title": "MAXIM Specification sheet",
+   "type": "Other",
+   "pages": null,
+   "productModel": "MAXIM",
+   "extraModels": [
+    "MAXIM"
+   ],
+   "url": "https://www.manualslib.com/manual/135836/Pvi-Polyshield-Polymer-Lined-Storage-Tank.html"
+  },
+  {
+   "manualId": "135837",
+   "slug": "Pvi-Pv-1010b",
+   "title": "MAXIM Specifications",
+   "type": "Other",
+   "pages": 3,
+   "productModel": "MAXIM",
+   "extraModels": [
+    "MAXIM"
+   ],
+   "url": "https://www.manualslib.com/manual/135837/Pvi-Pv-1010b.html"
+  },
+  {
+   "manualId": "135852",
+   "slug": "Pvi-Pv-6685-2-05-1",
+   "title": "MAXIM Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "MAXIM",
+   "extraModels": [
+    "MAXIM"
+   ],
+   "url": "https://www.manualslib.com/manual/135852/Pvi-Pv-6685-2-05-1.html"
+  },
+  {
+   "manualId": "1635430",
+   "slug": "Pvi-Mtrx",
+   "title": "MTRX Manual",
+   "type": "Other",
+   "pages": 38,
+   "productModel": "MTRX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1635430/Pvi-Mtrx.html"
+  },
+  {
+   "manualId": "4064439",
+   "slug": "Pvi-Trekaway-Series",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4064439/Pvi-Trekaway-Series.html"
+  },
+  {
+   "manualId": "135825",
+   "slug": "Pvi-Csx-Single-Exchanger",
+   "title": "Pvi CSX Single-Exchanger Brochure",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135825/Pvi-Csx-Single-Exchanger.html"
+  },
+  {
+   "manualId": "135826",
+   "slug": "Pvi-Domestic-Water-Heater",
+   "title": "Pvi Domestic Water Heater Specifications",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135826/Pvi-Domestic-Water-Heater.html"
+  },
+  {
+   "manualId": "1126767",
+   "slug": "Pvi-Power-Vtx-50-L-225-A-Pvx",
+   "title": "Pvi Power VTX 50 L 225 A-PVX Installation And Service",
+   "type": "Service",
+   "pages": 57,
+   "productModel": null,
+   "extraModels": [
+    "Power VTX 100 L 225 A-PVX",
+    "Power VTX 75 L 225 A-PVX"
+   ],
+   "url": "https://www.manualslib.com/manual/1126767/Pvi-Power-Vtx-50-L-225-A-Pvx.html"
+  },
+  {
+   "manualId": "135840",
+   "slug": "Pvi-Pv-6115",
+   "title": "Pvi PV 6115 Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135840/Pvi-Pv-6115.html"
+  },
+  {
+   "manualId": "135842",
+   "slug": "Pvi-Pv-6126b",
+   "title": "Pvi PV 6126b Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135842/Pvi-Pv-6126b.html"
+  },
+  {
+   "manualId": "135845",
+   "slug": "Pvi-Pv-6314",
+   "title": "Pvi PV 6314 Specification",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "MAXIM"
+   ],
+   "url": "https://www.manualslib.com/manual/135845/Pvi-Pv-6314.html"
+  },
+  {
+   "manualId": "135846",
+   "slug": "Pvi-Pv-6315",
+   "title": "Pvi PV 6315 Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "MAXIM"
+   ],
+   "url": "https://www.manualslib.com/manual/135846/Pvi-Pv-6315.html"
+  },
+  {
+   "manualId": "135847",
+   "slug": "Pvi-Pv-6319",
+   "title": "Pvi PV 6319 Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135847/Pvi-Pv-6319.html"
+  },
+  {
+   "manualId": "135848",
+   "slug": "Pvi-Pv-6323",
+   "title": "Pvi PV 6323 Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135848/Pvi-Pv-6323.html"
+  },
+  {
+   "manualId": "135850",
+   "slug": "Pvi-Pv-6619-02",
+   "title": "Pvi PV 6619 02 Specification",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [
+    "QuickDraw"
+   ],
+   "url": "https://www.manualslib.com/manual/135850/Pvi-Pv-6619-02.html"
+  },
+  {
+   "manualId": "135851",
+   "slug": "Pvi-Pv-6684",
+   "title": "Pvi PV 6684 Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "MAXIM"
+   ],
+   "url": "https://www.manualslib.com/manual/135851/Pvi-Pv-6684.html"
+  },
+  {
+   "manualId": "135853",
+   "slug": "Pvi-Pv-6804",
+   "title": "Pvi PV 6804 Specification",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135853/Pvi-Pv-6804.html"
+  },
+  {
+   "manualId": "135854",
+   "slug": "Pvi-Pv-6813",
+   "title": "Pvi PV 6813 Specification",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135854/Pvi-Pv-6813.html"
+  },
+  {
+   "manualId": "1790417",
+   "slug": "Pvi-Vumatrix-1k-Ip-Pro-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1790417/Pvi-Vumatrix-1k-Ip-Pro-Series.html"
+  },
+  {
+   "manualId": "135859",
+   "slug": "Pvi-Storage-And-Semi-Instantaneous-Steam-Heaters-Pv500-25",
+   "title": "QuickDraw Installation and maintenance manual",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "QuickDraw",
+   "extraModels": [
+    "QuickDraw"
+   ],
+   "url": "https://www.manualslib.com/manual/135859/Pvi-Storage-And-Semi-Instantaneous-Steam-Heaters-Pv500-25.html"
+  },
+  {
+   "manualId": "2298318",
+   "slug": "Pvi-Sfw230",
+   "title": "SFW230 installation instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "SFW230",
+   "extraModels": [
+    "SFW330",
+    "SFW430",
+    "SFW530"
+   ],
+   "url": "https://www.manualslib.com/manual/2298318/Pvi-Sfw230.html"
+  },
+  {
+   "manualId": "135828",
+   "slug": "Pvi-Durawatt-Polymer-Plated-Storage-Tank",
+   "title": "specification",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135828/Pvi-Durawatt-Polymer-Plated-Storage-Tank.html"
+  },
+  {
+   "manualId": "135849",
+   "slug": "Pvi-Pv-6455",
+   "title": "specification",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135849/Pvi-Pv-6455.html"
+  },
+  {
+   "manualId": "135860",
+   "slug": "Pvi-Turbopower-100n125a-Tpl",
+   "title": "specification",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135860/Pvi-Turbopower-100n125a-Tpl.html"
+  },
+  {
+   "manualId": "135827",
+   "slug": "Pvi-Durawatt-Cl",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135827/Pvi-Durawatt-Cl.html"
+  },
+  {
+   "manualId": "135832",
+   "slug": "Pvi-Nickelshield-Pv-6452-1-04",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135832/Pvi-Nickelshield-Pv-6452-1-04.html"
+  },
+  {
+   "manualId": "135834",
+   "slug": "Pvi-Platinum-Gas-Fired-Water-Heater",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135834/Pvi-Platinum-Gas-Fired-Water-Heater.html"
+  },
+  {
+   "manualId": "135858",
+   "slug": "Pvi-Tank-Series",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135858/Pvi-Tank-Series.html"
+  },
+  {
+   "manualId": "135829",
+   "slug": "Pvi-Nickelshield-Pv-5369",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135829/Pvi-Nickelshield-Pv-5369.html"
+  },
+  {
+   "manualId": "135830",
+   "slug": "Pvi-Nickelshield-Pv-6382-07",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135830/Pvi-Nickelshield-Pv-6382-07.html"
+  },
+  {
+   "manualId": "135833",
+   "slug": "Pvi-Nickelshield-Tank-Series",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135833/Pvi-Nickelshield-Tank-Series.html"
+  },
+  {
+   "manualId": "135835",
+   "slug": "Pvi-Polyshield-119-Gallon-Tank-Series",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135835/Pvi-Polyshield-119-Gallon-Tank-Series.html"
+  },
+  {
+   "manualId": "135839",
+   "slug": "Pvi-Pv-6112b",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135839/Pvi-Pv-6112b.html"
+  },
+  {
+   "manualId": "135843",
+   "slug": "Pvi-Pv-6127b",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135843/Pvi-Pv-6127b.html"
+  },
+  {
+   "manualId": "135844",
+   "slug": "Pvi-Pv-6150b",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135844/Pvi-Pv-6150b.html"
+  },
+  {
+   "manualId": "135855",
+   "slug": "Pvi-Quickdraw-Boiler-Water-Pv-6347",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135855/Pvi-Quickdraw-Boiler-Water-Pv-6347.html"
+  },
+  {
+   "manualId": "135838",
+   "slug": "Pvi-Pv-413a",
+   "title": "Start-Up Instructions",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/135838/Pvi-Pv-413a.html"
+  },
+  {
+   "manualId": "1855747",
+   "slug": "Pvi-Vecoax-Miniblade",
+   "title": "Step By Step Installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1855747/Pvi-Vecoax-Miniblade.html"
+  },
+  {
+   "manualId": "2519428",
+   "slug": "Pvi-Th2432",
+   "title": "TH1632 Manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "TH1632",
+   "extraModels": [
+    "TH1632",
+    "TH1636",
+    "TH2436"
+   ],
+   "url": "https://www.manualslib.com/manual/2519428/Pvi-Th2432.html"
+  },
+  {
+   "manualId": "2025874",
+   "slug": "Pvi-Vecaster-Pro-Series",
+   "title": "VECASTER PRO Series Manual",
+   "type": "Other",
+   "pages": 45,
+   "productModel": "VECASTER PRO Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2025874/Pvi-Vecaster-Pro-Series.html"
+  },
+  {
+   "manualId": "1349983",
+   "slug": "Pvi-Vecoax-Compact-Rf-Series",
+   "title": "Vecoax Compact RF Series Manual",
+   "type": "Other",
+   "pages": 42,
+   "productModel": "Vecoax Compact RF Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1349983/Pvi-Vecoax-Compact-Rf-Series.html"
+  },
+  {
+   "manualId": "1620069",
+   "slug": "Pvi-Vecoax-Compact-Rf-Series",
+   "title": "Vecoax Compact RF Series Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "Vecoax Compact RF Series",
+   "extraModels": [
+    "Vecoax MiniMod 2",
+    "Vecoax MiniMod 3"
+   ],
+   "url": "https://www.manualslib.com/manual/1620069/Pvi-Vecoax-Compact-Rf-Series.html"
+  },
+  {
+   "manualId": "1821838",
+   "slug": "Pvi-Vecoax",
+   "title": "VeCOAX Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "VeCOAX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1821838/Pvi-Vecoax.html"
+  },
+  {
+   "manualId": "2403407",
+   "slug": "Pvi-Vecoax-Micromod-3",
+   "title": "VeCOAX MicroMod 3 Manual",
+   "type": "Other",
+   "pages": 43,
+   "productModel": "VeCOAX MicroMod 3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2403407/Pvi-Vecoax-Micromod-3.html"
+  },
+  {
+   "manualId": "1349778",
+   "slug": "Pvi-Vecoax-Micromod-Ms",
+   "title": "VeCOAX Micromod MS reference manual",
+   "type": "Other",
+   "pages": 26,
+   "productModel": "VeCOAX Micromod MS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1349778/Pvi-Vecoax-Micromod-Ms.html"
+  },
+  {
+   "manualId": "1399893",
+   "slug": "Pvi-Vecoax-Micromod-2",
+   "title": "VeCOAX MicroMod-2 reference manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "VeCOAX MicroMod-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1399893/Pvi-Vecoax-Micromod-2.html"
+  },
+  {
+   "manualId": "2917491",
+   "slug": "Pvi-Vecoax-Minimod-Rack",
+   "title": "Vecoax MiniMod 2 install manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "Vecoax MiniMod 2",
+   "extraModels": [
+    "Vecoax MiniMod 2"
+   ],
+   "url": "https://www.manualslib.com/manual/2917491/Pvi-Vecoax-Minimod-Rack.html"
+  },
+  {
+   "manualId": "3031425",
+   "slug": "Pvi-Vecoax-Minimod-2-Plus",
+   "title": "VECOAX MINIMOD 2 PLUS instruction manual",
+   "type": "User / Owner",
+   "pages": 59,
+   "productModel": "VECOAX MINIMOD 2 PLUS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3031425/Pvi-Vecoax-Minimod-2-Plus.html"
+  },
+  {
+   "manualId": "1918868",
+   "slug": "Pvi-Vecoax-Pixel",
+   "title": "VeCOAX PIXEL Manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "VeCOAX PIXEL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1918868/Pvi-Vecoax-Pixel.html"
+  },
+  {
+   "manualId": "1918869",
+   "slug": "Pvi-Vecoax-Pixel",
+   "title": "VeCOAX PIXEL Manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": "VeCOAX PIXEL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1918869/Pvi-Vecoax-Pixel.html"
+  },
+  {
+   "manualId": "1429555",
+   "slug": "Pvi-Vecoax-Ultra-Rf-Series",
+   "title": "VECOAX ULTRA RF Series Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "VECOAX ULTRA RF Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1429555/Pvi-Vecoax-Ultra-Rf-Series.html"
+  },
+  {
+   "manualId": "1599082",
+   "slug": "Pvi-Vecoax-Ultra-Rf-Series",
+   "title": "VECOAX ULTRA RF Series user manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "VECOAX ULTRA RF Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1599082/Pvi-Vecoax-Ultra-Rf-Series.html"
+  },
+  {
+   "manualId": "1655557",
+   "slug": "Pvi-Vecoax-Ultra-Hdmi-Qam-Ip",
+   "title": "VeCOAX ULTRA-HDMI-QAM-IP user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "VeCOAX ULTRA-HDMI-QAM-IP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1655557/Pvi-Vecoax-Ultra-Hdmi-Qam-Ip.html"
+  },
+  {
+   "manualId": "1856715",
+   "slug": "Pvi-Veplayer-Pro-Series",
+   "title": "VEPLAYER Pro Series user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "VEPLAYER Pro Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1856715/Pvi-Veplayer-Pro-Series.html"
+  },
+  {
+   "manualId": "2653602",
+   "slug": "Pvi-Vumatrix-1080p-60",
+   "title": "VuMATRIX 1080P-60 Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "VuMATRIX 1080P-60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2653602/Pvi-Vumatrix-1080p-60.html"
+  },
+  {
+   "manualId": "1350617",
+   "slug": "Pvi-Vumatrix-4k-Iprx-Le",
+   "title": "VuMATRIX 4K IPRX LE Operation manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "VuMATRIX 4K IPRX LE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1350617/Pvi-Vumatrix-4k-Iprx-Le.html"
+  },
+  {
+   "manualId": "2265737",
+   "slug": "Pvi-Vumatrix-4k60-Poe",
+   "title": "VuMATRIX 4K60-POE Manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "VuMATRIX 4K60-POE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2265737/Pvi-Vumatrix-4k60-Poe.html"
+  },
+  {
+   "manualId": "1695766",
+   "slug": "Pvi-Vumatrix-Hd60-4k30",
+   "title": "VuMATRIX HD60-4K30 Manual",
+   "type": "Other",
+   "pages": 22,
+   "productModel": "VuMATRIX HD60-4K30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1695766/Pvi-Vumatrix-Hd60-4k30.html"
+  },
+  {
+   "manualId": "1653685",
+   "slug": "Pvi-Vumatrix-Fx",
+   "title": "VuMATRIX-FX quick start manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "VuMATRIX-FX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1653685/Pvi-Vumatrix-Fx.html"
+  },
+  {
+   "manualId": "1425499",
+   "slug": "Pvi-Xr10cx",
+   "title": "XR10CX Manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "XR10CX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1425499/Pvi-Xr10cx.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "pvi"
+ ]
+}

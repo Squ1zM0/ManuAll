@@ -1,0 +1,4828 @@
+{
+ "brand": "Mars",
+ "brandSlug": "mars",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/mars/"
+ ],
+ "slugUsed": "mars",
+ "capturedAt": "2026-10-28T08:35:08.783253+00:00",
+ "typePages": [
+  {
+   "path": "/brand/mars/air-conditioner.html",
+   "manuals": 870,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/freezer.html",
+   "manuals": 31,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/air-cleaner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/air-handlers.html",
+   "manuals": 206,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/antenna.html",
+   "manuals": 16,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/blood-pressure-monitor.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/cash-counters-and-coin-sorters.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/cash-register.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/chassis.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/chiller.html",
+   "manuals": 34,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/coffee-maker.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/controller.html",
+   "manuals": 50,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/dc-drives.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/dehumidifier.html",
+   "manuals": 21,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/electric-heater.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/enclosure.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/engine.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/fan.html",
+   "manuals": 69,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/heat-pump.html",
+   "manuals": 164,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/heater.html",
+   "manuals": 561,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/heating-system.html",
+   "manuals": 19,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/hot-tub.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/industrial-equipment.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/inverter.html",
+   "manuals": 35,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/measuring-instruments.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/media-converter.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/medical-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/metal-detector.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/monitor.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/multiplexer.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/pet-care-product.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/piercing-and-tattoo-supplies.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/racks-and-stands.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/remote-control.html",
+   "manuals": 85,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/safety-equipment.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/security-sensors.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/service-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/stereo-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/temperature-controller.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/thermostat.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/mars/vending-machines.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2408956",
+   "slug": "Mars-Belt-Drive-Industrial-Series",
+   "title": "03-001 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": "03-001",
+   "extraModels": [
+    "03-001",
+    "03-002",
+    "03-003",
+    "03-004",
+    "03-005",
+    "03-006",
+    "03-007",
+    "03-008",
+    "03-009",
+    "03-010",
+    "03-014",
+    "03-015",
+    "03-015-Baldor",
+    "03-017",
+    "03-018",
+    "03-021",
+    "03-022",
+    "03-026",
+    "03-028",
+    "03-033",
+    "03-046",
+    "03-055",
+    "03-074",
+    "03-110",
+    "165716",
+    "34G928X169",
+    "35E92Y26",
+    "35M316S174",
+    "35N127S902",
+    "35T276R025G1",
+    "36H110-2211G1",
+    "37F909X889G1",
+    "37F932W828G1",
+    "48S17T439",
+    "48T17T135",
+    "56T17T5541",
+    "56T17T5544",
+    "7124-0985",
+    "7124-1096",
+    "7124-1175",
+    "7124-1560",
+    "7190-1682",
+    "7190-1825",
+    "7190-1903",
+    "7190-1904",
+    "BD INDUSTRIAL Series",
+    "BELT DRIVE INDUSTRIAL Series",
+    "GT1128A 170118.60",
+    "K055PWM1736C13H",
+    "K55BWJZB-2362",
+    "P55YYDHB-1527",
+    "U639A - 215TTFC6027"
+   ],
+   "url": "https://www.manualslib.com/manual/2408956/Mars-Belt-Drive-Industrial-Series.html"
+  },
+  {
+   "manualId": "2588709",
+   "slug": "Mars-2av-1-Series",
+   "title": "2AV-1 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "2AV-1 Series",
+   "extraModels": [
+    "B-VMH18"
+   ],
+   "url": "https://www.manualslib.com/manual/2588709/Mars-2av-1-Series.html"
+  },
+  {
+   "manualId": "737252",
+   "slug": "Mars-70801",
+   "title": "70801 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "70801",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/737252/Mars-70801.html"
+  },
+  {
+   "manualId": "758863",
+   "slug": "Mars-70802",
+   "title": "70802 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "70802",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/758863/Mars-70802.html"
+  },
+  {
+   "manualId": "746779",
+   "slug": "Mars-70803",
+   "title": "70803 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "70803",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/746779/Mars-70803.html"
+  },
+  {
+   "manualId": "754750",
+   "slug": "Mars-70810",
+   "title": "70810 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "70810",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/754750/Mars-70810.html"
+  },
+  {
+   "manualId": "725028",
+   "slug": "Mars-70812",
+   "title": "70812 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "70812",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/725028/Mars-70812.html"
+  },
+  {
+   "manualId": "725623",
+   "slug": "Mars-70813",
+   "title": "70813 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "70813",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/725623/Mars-70813.html"
+  },
+  {
+   "manualId": "725870",
+   "slug": "Mars-70814",
+   "title": "70814 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "70814",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/725870/Mars-70814.html"
+  },
+  {
+   "manualId": "2712416",
+   "slug": "Mars-Comfort-Aire-Century-D-Series",
+   "title": "A-DVH09SF-0 installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "A-DVH09SF-0",
+   "extraModels": [
+    "A-DVH09SF-0",
+    "A-DVH18SF-1",
+    "B-DVH09SF-0",
+    "B-DVH18SF-1",
+    "Comfort-Aire Century A-DVC 09SF",
+    "Comfort-Aire Century A-DVC 18SF",
+    "Comfort-Aire Century A-DVC/DVH 12SF",
+    "Comfort-Aire Century A-DVC/DVH 24SF",
+    "Comfort-Aire Century A-DVC24SF-1",
+    "Comfort-Aire Century B-DVC09SF-0",
+    "Comfort-Aire Century B-DVC12SF-0",
+    "Comfort-Aire Century B-DVC18SF-1",
+    "Comfort-Aire Century B-DVC24SF-1",
+    "Comfort-Aire Century DV Series",
+    "Comfort-Aire Century DVC Series",
+    "Comfort-Aire Century DVH Series",
+    "Comfort-Aire Century DVH09SF-0"
+   ],
+   "url": "https://www.manualslib.com/manual/2712416/Mars-Comfort-Aire-Century-D-Series.html"
+  },
+  {
+   "manualId": "1816683",
+   "slug": "Mars-Dvh-Series",
+   "title": "A-DVH09SF-0 Service manual",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "A-DVH09SF-0",
+   "extraModels": [
+    "A-DVH09SF-0",
+    "A-DVH12SF-0",
+    "A-DVH18SF-1",
+    "A-DVH24SF-1",
+    "B-DVH09SF-0",
+    "B-DVH12SF-0",
+    "B-DVH18SF-1",
+    "B-DVH24SF-1"
+   ],
+   "url": "https://www.manualslib.com/manual/1816683/Mars-Dvh-Series.html"
+  },
+  {
+   "manualId": "2351861",
+   "slug": "Mars-Comfort-Aire-Century-Dvc-Series",
+   "title": "A-DVH18SF-1 user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "A-DVH18SF-1",
+   "extraModels": [
+    "A-DVH18SF-1",
+    "B-DVH18SF-1",
+    "Comfort-Aire Century A-DVC/DVH 12SF",
+    "Comfort-Aire Century A-DVC/DVH 24SF",
+    "Comfort-Aire Century A-DVC09SF-1A",
+    "Comfort-Aire Century A-DVC18SF-1A",
+    "Comfort-Aire Century A-DVH09SF-1",
+    "Comfort-Aire Century B-DVC09SF-1A",
+    "Comfort-Aire Century B-DVC18SF-1A",
+    "Comfort-Aire Century B-DVH09SF-1",
+    "Comfort-Aire Century DVH Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2351861/Mars-Comfort-Aire-Century-Dvc-Series.html"
+  },
+  {
+   "manualId": "1452244",
+   "slug": "Mars-A-Vfh18db-1",
+   "title": "A-VFH18DB-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "A-VFH18DB-1",
+   "extraModels": [
+    "A-VFH24TB-1"
+   ],
+   "url": "https://www.manualslib.com/manual/1452244/Mars-A-Vfh18db-1.html"
+  },
+  {
+   "manualId": "2756281",
+   "slug": "Mars-Comfort-Aire-Century-A-Vfh24tb-1",
+   "title": "A-VFH18DB-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "A-VFH18DB-1",
+   "extraModels": [
+    "A-VFH18DB-1",
+    "COMFORT-AIRE Century VFH-B Series",
+    "Comfort-aire Century VFH-B Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2756281/Mars-Comfort-Aire-Century-A-Vfh24tb-1.html"
+  },
+  {
+   "manualId": "1534123",
+   "slug": "Mars-A-Vmh36qu-1",
+   "title": "A-VMH18DU-1 installation manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "A-VMH18DU-1",
+   "extraModels": [
+    "A-VMH18DU-1",
+    "A-VMH28TU-1",
+    "A-VMH48PU-1",
+    "UltraV Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1534123/Mars-A-Vmh36qu-1.html"
+  },
+  {
+   "manualId": "2756274",
+   "slug": "Mars-Comfort-Aire-Century-Ultrav-Series",
+   "title": "A-VMH18DU-1 installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "A-VMH18DU-1",
+   "extraModels": [
+    "A-VMH18DU-1",
+    "A-VMH28TU-1",
+    "A-VMH36QU-1",
+    "A-VMH48PU-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2756274/Mars-Comfort-Aire-Century-Ultrav-Series.html"
+  },
+  {
+   "manualId": "2037689",
+   "slug": "Mars-Comfort-Aire-Vmh-Series",
+   "title": "A-VMH18DU-1 Service manual",
+   "type": "Service",
+   "pages": 164,
+   "productModel": "A-VMH18DU-1",
+   "extraModels": [
+    "A-VMH18DU-1",
+    "A-VMH28TU-1",
+    "A-VMH36QU-1",
+    "A-VMH48PU-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2037689/Mars-Comfort-Aire-Vmh-Series.html"
+  },
+  {
+   "manualId": "4177119",
+   "slug": "Mars-Comfort-Aire-Century-Wxp-Series",
+   "title": "A-VXP18SA-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "A-VXP18SA-1",
+   "extraModels": [
+    "A-VXP18SA-1",
+    "Comfort-aire Century A-VXP24SA-1",
+    "Comfort-aire Century A-VXP30SA-1",
+    "Comfort-aire Century A-VXP36SA-1",
+    "Comfort-Aire Century WXP18SA",
+    "Comfort-Aire Century WXP24SA",
+    "Comfort-Aire Century WXP30SA",
+    "Comfort-Aire Century WXP36SA"
+   ],
+   "url": "https://www.manualslib.com/manual/4177119/Mars-Comfort-Aire-Century-Wxp-Series.html"
+  },
+  {
+   "manualId": "2399776",
+   "slug": "Mars-Atl-88-1b",
+   "title": "ATL - 88/90 - 1B Operation and maintenance manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "ATL - 88/90 - 1B",
+   "extraModels": [
+    "ATL - 88/90 - 1B",
+    "ATL-90-1B"
+   ],
+   "url": "https://www.manualslib.com/manual/2399776/Mars-Atl-88-1b.html"
+  },
+  {
+   "manualId": "3857925",
+   "slug": "Mars-Atl-15",
+   "title": "ATL-15 Operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "ATL-15",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857925/Mars-Atl-15.html"
+  },
+  {
+   "manualId": "3887578",
+   "slug": "Mars-Atl-15-Sl",
+   "title": "ATL-15 SL Operation and maintenance manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "ATL-15 SL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3887578/Mars-Atl-15-Sl.html"
+  },
+  {
+   "manualId": "1610755",
+   "slug": "Mars-Atl-88-1a",
+   "title": "ATL-88-1A Operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "ATL-88-1A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1610755/Mars-Atl-88-1a.html"
+  },
+  {
+   "manualId": "3857924",
+   "slug": "Mars-Atl-90-1a",
+   "title": "ATL-90-1A Operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "ATL-90-1A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857924/Mars-Atl-90-1a.html"
+  },
+  {
+   "manualId": "1612919",
+   "slug": "Mars-Azure-Digi-Motor",
+   "title": "Azure Digi-Motor installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Azure Digi-Motor",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1612919/Mars-Azure-Digi-Motor.html"
+  },
+  {
+   "manualId": "2712388",
+   "slug": "Mars-Comfort-Aire-Century-Dv-Series",
+   "title": "B-DVH09SF-0 user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "B-DVH09SF-0",
+   "extraModels": [
+    "B-DVH09SF-0",
+    "B-DVH18SF-1",
+    "Comfort-Aire Century A-DVC 09SF",
+    "Comfort-Aire Century A-DVC 18SF",
+    "Comfort-Aire Century A-DVC/DVH 12SF",
+    "Comfort-Aire Century A-DVC/DVH 24SF",
+    "Comfort-Aire Century B-DVC09SF-0",
+    "Comfort-Aire Century B-DVC12SF-0",
+    "Comfort-Aire Century B-DVC18SF-1",
+    "Comfort-Aire Century DVC Series",
+    "Comfort-Aire Century DVC09SF-0",
+    "Comfort-Aire Century DVC18SF-1",
+    "Comfort-Aire Century DVH Series",
+    "Comfort-Aire Century DVH09SF-0",
+    "Comfort-Aire Century DVH18SF-1",
+    "Comfort-Aire Century DVH24SF-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2712388/Mars-Comfort-Aire-Century-Dv-Series.html"
+  },
+  {
+   "manualId": "1304546",
+   "slug": "Mars-B-Vfh12mb-1",
+   "title": "B-VFH09MB-1 Installation & operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "B-VFH09MB-1",
+   "extraModels": [
+    "B-VFH09MB-1",
+    "B-VFH18MB-1",
+    "B-VFH24MB-1",
+    "Comfort-Aire Century VFH-B 12 Series",
+    "Comfort-Aire Century VFH-B 18 Series",
+    "Comfort-Aire Century VFH-B 24 Series",
+    "Comfort-Aire Century VFH-B 9 Series",
+    "COMFORT-AIRE Century VFH-B Series",
+    "Comfort-aire Century VFH-B Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1304546/Mars-B-Vfh12mb-1.html"
+  },
+  {
+   "manualId": "2756302",
+   "slug": "Mars-Comfort-Aire-Century-B-Vfh09mb-1",
+   "title": "B-VFH09MB-1 Installation & operation manual",
+   "type": "Installation",
+   "pages": 57,
+   "productModel": "B-VFH09MB-1",
+   "extraModels": [
+    "B-VFH12MB-1",
+    "B-VFH18MB-1",
+    "B-VFH24MB-1",
+    "Comfort-Aire Century B-VFH24MB-1-CY",
+    "Comfort-Aire Century VFH-MB Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2756302/Mars-Comfort-Aire-Century-B-Vfh09mb-1.html"
+  },
+  {
+   "manualId": "2691767",
+   "slug": "Mars-Comfort-Aire-Century-Vfh-Mb-Series",
+   "title": "B-VFH18MB-1 Installation & operation manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "B-VFH18MB-1",
+   "extraModels": [
+    "B-VFH18MB-1",
+    "B-VFH24MB-1",
+    "CB148N07500 L61437",
+    "CB148N07600 L61437",
+    "CB148N07700 L61437",
+    "CB148N07800 L61437",
+    "Comfort-Aire Century B-VFH09MB-1A",
+    "Comfort-Aire Century B-VFH12MB-1A",
+    "Comfort-Aire Century VFH-MB 09 Series",
+    "Comfort-Aire Century VFH-MB 12 Series",
+    "Comfort-Aire Century VFH-MB 18 Series",
+    "Comfort-Aire Century VFH-MB 24 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2691767/Mars-Comfort-Aire-Century-Vfh-Mb-Series.html"
+  },
+  {
+   "manualId": "4112113",
+   "slug": "Mars-Vxp-Sa-Series",
+   "title": "B-VXP18SA-1 installation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "B-VXP18SA-1",
+   "extraModels": [
+    "B-VXP18SA-1",
+    "B-VXP24SA-1",
+    "B-VXP30SA-1",
+    "B-VXP36SA-1",
+    "B-VXP48SA-1",
+    "B-VXP60SA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4112113/Mars-Vxp-Sa-Series.html"
+  },
+  {
+   "manualId": "4153710",
+   "slug": "Mars-Comfort-Aire-Century-Vxp-Series",
+   "title": "B-VXP18SA-1 Service manual",
+   "type": "Service",
+   "pages": 116,
+   "productModel": "B-VXP18SA-1",
+   "extraModels": [
+    "B-VXP18SA-1",
+    "B-VXP24SA-1",
+    "B-VXP30SA-1",
+    "B-VXP36SA-1",
+    "B-VXP48SA-1",
+    "B-VXP60SA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4153710/Mars-Comfort-Aire-Century-Vxp-Series.html"
+  },
+  {
+   "manualId": "3888113",
+   "slug": "Mars-Bd-Series",
+   "title": "BD Series Manual",
+   "type": "Other",
+   "pages": 31,
+   "productModel": "BD Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3888113/Mars-Bd-Series.html"
+  },
+  {
+   "manualId": "3103006",
+   "slug": "Mars-Bd14-Series",
+   "title": "BD14 Series Manual",
+   "type": "Other",
+   "pages": 25,
+   "productModel": "BD14 Series",
+   "extraModels": [
+    "BD14120-1U TS Series",
+    "BD14144-1U TS Series",
+    "BD14168-1U TS Series",
+    "BD14192-1U TS Series",
+    "BD1496-1IP-TS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3103006/Mars-Bd14-Series.html"
+  },
+  {
+   "manualId": "3454358",
+   "slug": "Mars-Bd1496-1i-Ts-Series",
+   "title": "BD14 Series Manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "BD14 Series",
+   "extraModels": [
+    "BD14120-1I TS Series",
+    "BD14144-1I TS Series",
+    "BD14168-1I TS Series",
+    "BD14192-1I TS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3454358/Mars-Bd1496-1i-Ts-Series.html"
+  },
+  {
+   "manualId": "3112950",
+   "slug": "Mars-Bd18-Series",
+   "title": "BD18 Series Manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "BD18 Series",
+   "extraModels": [
+    "BD18120-1I-TS",
+    "BD18144-1I-TS",
+    "BD18168-1I-TS",
+    "BD18192-1I-TS",
+    "BD1896-1I-TS"
+   ],
+   "url": "https://www.manualslib.com/manual/3112950/Mars-Bd18-Series.html"
+  },
+  {
+   "manualId": "3336848",
+   "slug": "Mars-Bd1896-1eh-Ts",
+   "title": "BD1896-1EH-TS Manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "BD1896-1EH-TS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3336848/Mars-Bd1896-1eh-Ts.html"
+  },
+  {
+   "manualId": "3125309",
+   "slug": "Mars-Bd2296-1i-Ts",
+   "title": "BD22 Series Installation manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "BD22 Series",
+   "extraModels": [
+    "BD22120-1 TS Series",
+    "BD22120-1I-TS",
+    "BD22144-1 TS Series",
+    "BD22144-1I-TS",
+    "BD22168-1 TS Series",
+    "BD22168-1I-TS",
+    "BD22192-1 TS Series",
+    "BD22192-1I-TS",
+    "BD2296-1 TS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3125309/Mars-Bd2296-1i-Ts.html"
+  },
+  {
+   "manualId": "3215923",
+   "slug": "Mars-Bd2296-1i-Ts-Series",
+   "title": "BD2296 1I TS Series Manual",
+   "type": "Other",
+   "pages": 31,
+   "productModel": "BD2296 1I TS Series",
+   "extraModels": [
+    "BD22120 1I TS Series",
+    "BD22120-1IG-TS",
+    "BD22120-1IH-TS",
+    "BD22120-1II-TS",
+    "BD22144 1I TS Series",
+    "BD22144-1IG-TS",
+    "BD22144-1IH-TS",
+    "BD22168 1I TS Series",
+    "BD22168-1IG-TS",
+    "BD22168-1II-TS",
+    "BD22192 1I TS Series",
+    "BD22192-1IG-TS",
+    "BD22192-1II-TS",
+    "BD2296-1IH-TS"
+   ],
+   "url": "https://www.manualslib.com/manual/3215923/Mars-Bd2296-1i-Ts-Series.html"
+  },
+  {
+   "manualId": "3353771",
+   "slug": "Mars-Bd2296-1e-Ts-Series",
+   "title": "BD2296-1E TS Series Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "BD2296-1E TS Series",
+   "extraModels": [
+    "BD22120-1E TS Series",
+    "BD22144-1E TS Series",
+    "BD22168-1E TS Series",
+    "BD22192-1E TS Series",
+    "BD2296-1EH-TS"
+   ],
+   "url": "https://www.manualslib.com/manual/3353771/Mars-Bd2296-1e-Ts-Series.html"
+  },
+  {
+   "manualId": "3170107",
+   "slug": "Mars-Bd26-Series",
+   "title": "BD26 Series Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "BD26 Series",
+   "extraModels": [
+    "BD26120-1 TS Series",
+    "BD26144-1 TS Series",
+    "BD26168-1 S Series",
+    "BD26192-1 TS Series",
+    "BD2696-1 TS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3170107/Mars-Bd26-Series.html"
+  },
+  {
+   "manualId": "4032179",
+   "slug": "Mars-Bd-96-1u-Ts-Series",
+   "title": "BD30 Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "BD30 Series",
+   "extraModels": [
+    "BD30 Series",
+    "BD 120-1U TS Series",
+    "BD 144-1U TS Series",
+    "BD 168-1U TS Series",
+    "BD 192-1U TS Series",
+    "BD14120-1U TS Series",
+    "BD14144-1U TS Series",
+    "BD14168-1U TS Series",
+    "BD14192-1U TS Series",
+    "BD1496-1U TS Series",
+    "BD18 Series",
+    "BD18120-1U TS Series",
+    "BD18144-1U TS Series",
+    "BD18168-1U TS Series",
+    "BD18192-1U TS Series",
+    "BD1896-1U TS Series",
+    "BD22 Series",
+    "BD22120-1U TS Series",
+    "BD22144-1U TS Series",
+    "BD22168-1U TS Series",
+    "BD22192-1U TS Series",
+    "BD2296-1U TS Series",
+    "BD26 Series",
+    "BD26120-1U TS Series",
+    "BD26144-1U TS Series",
+    "BD26168-1U TS Series",
+    "BD26192-1U TS Series",
+    "BD2696-1U TS Series",
+    "BD30120-1U TS Series",
+    "BD30144-1U TS Series",
+    "BD30168-1U TS Series",
+    "BD30192-2U TS Series",
+    "BD3096-1U TS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4032179/Mars-Bd-96-1u-Ts-Series.html"
+  },
+  {
+   "manualId": "3204645",
+   "slug": "Mars-Bd30-Series",
+   "title": "BD30 Series Manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "BD30 Series",
+   "extraModels": [
+    "BD30120-1E TS Series",
+    "BD30144-1E TS Series",
+    "BD30168-1E TS Series",
+    "BD30192-2E TS Series",
+    "BD3096-1E TS Series",
+    "BD3096-1EH-TS"
+   ],
+   "url": "https://www.manualslib.com/manual/3204645/Mars-Bd30-Series.html"
+  },
+  {
+   "manualId": "3215916",
+   "slug": "Mars-Bd3096-1-Ts-Series",
+   "title": "BD30 Series Manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "BD30 Series",
+   "extraModels": [
+    "BD30120-1 TS Series",
+    "BD30144-1 TS Series",
+    "BD30168-1 TS Series",
+    "BD30192-2 TS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3215916/Mars-Bd3096-1-Ts-Series.html"
+  },
+  {
+   "manualId": "2300065",
+   "slug": "Mars-C900-Fl-Tg",
+   "title": "C900 FL-TG user manual",
+   "type": "User / Owner",
+   "pages": 29,
+   "productModel": "C900 FL-TG",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2300065/Mars-C900-Fl-Tg.html"
+  },
+  {
+   "manualId": "2100619",
+   "slug": "Mars-Camargue",
+   "title": "Camargue Start Up Box",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "Camargue",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2100619/Mars-Camargue.html"
+  },
+  {
+   "manualId": "1411096",
+   "slug": "Mars-Cashflow-126",
+   "title": "CASHFLOW 126 Quick reference manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "CASHFLOW 126",
+   "extraModels": [
+    "CASHFLOW 129"
+   ],
+   "url": "https://www.manualslib.com/manual/1411096/Mars-Cashflow-126.html"
+  },
+  {
+   "manualId": "99203",
+   "slug": "Mars-Cashflow-126",
+   "title": "CASHFLOW 126 user manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "CASHFLOW 126",
+   "extraModels": [
+    "CASHFLOW 129"
+   ],
+   "url": "https://www.manualslib.com/manual/99203/Mars-Cashflow-126.html"
+  },
+  {
+   "manualId": "3092546",
+   "slug": "Mars-Cd-81r01",
+   "title": "CD-101R01 owner's manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "CD-101R01",
+   "extraModels": [
+    "CD-101R01"
+   ],
+   "url": "https://www.manualslib.com/manual/3092546/Mars-Cd-81r01.html"
+  },
+  {
+   "manualId": "3050037",
+   "slug": "Mars-Century-Comfort-Aire-Dvh09sh-1",
+   "title": "Century Comfort-aire A-DVH09SH-0 Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Century Comfort-aire A-DVH09SH-0",
+   "extraModels": [
+    "Century Comfort-aire A-DVH09SH-0",
+    "Century Comfort-aire A-DVH09SH-1",
+    "Century Comfort-aire A-DVH12SH-1",
+    "Century Comfort-aire A-DVH18SH-1",
+    "Century Comfort-aire A-DVH24SH-1",
+    "Comfort-Aire Century DVH Series",
+    "Comfort-Aire Century DVH09SH-0",
+    "Comfort-Aire Century DVH12SH-0",
+    "Comfort-Aire Century DVH12SH-1",
+    "Comfort-Aire Century DVH18SH-1",
+    "Comfort-Aire Century DVH24SH-1"
+   ],
+   "url": "https://www.manualslib.com/manual/3050037/Mars-Century-Comfort-Aire-Dvh09sh-1.html"
+  },
+  {
+   "manualId": "4091205",
+   "slug": "Mars-Century-Comfort-Aire-Vhp-1a-Series",
+   "title": "Century Comfort-Aire A-VHP06SA-1 installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Century Comfort-Aire A-VHP06SA-1",
+   "extraModels": [
+    "Century Comfort-Aire A-VHP06SA-1",
+    "Century Comfort-Aire A-VHP09SA-1",
+    "Century Comfort-Aire A-VHP12SA-1",
+    "Century Comfort-Aire A-VHP18SA-1",
+    "Century Comfort-Aire B-VHP061A-1",
+    "Century Comfort-Aire B-VHP091A-1",
+    "Century Comfort-Aire B-VHP121A-1",
+    "Century Comfort-Aire B-VHP181A-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4091205/Mars-Century-Comfort-Aire-Vhp-1a-Series.html"
+  },
+  {
+   "manualId": "4186320",
+   "slug": "Mars-Comfort-Aire-Century-Vhp-Aa-Series",
+   "title": "Century Comfort-Aire A-VHP18SA-1 installation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Century Comfort-Aire A-VHP18SA-1",
+   "extraModels": [
+    "Century Comfort-Aire A-VHP18SA-1",
+    "Comfort-Aire Century B-VHP18AA-1",
+    "Comfort-Aire Century B-VHP24AA-1",
+    "Comfort-Aire Century B-VHP30AA-1",
+    "Comfort-Aire Century B-VHP36AA-1",
+    "Comfort-Aire Century A-VHP24SA-1",
+    "Comfort-Aire Century A-VHP30SA-1",
+    "Comfort-Aire Century A-VHP33SA-1",
+    "Comfort-Aire Century B-VHP18AA-1-CY",
+    "Comfort-Aire Century B-VHP24AA-1-CY",
+    "Comfort-Aire Century B-VHP30AA-1-CY",
+    "Comfort-Aire Century B-VHP36AA-1-CY"
+   ],
+   "url": "https://www.manualslib.com/manual/4186320/Mars-Comfort-Aire-Century-Vhp-Aa-Series.html"
+  },
+  {
+   "manualId": "3542102",
+   "slug": "Mars-Century-Comfort-Aire-B-Vmh09cu-1",
+   "title": "Century Comfort-aire B-VMH09CU-1 installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "Century Comfort-aire B-VMH09CU-1",
+   "extraModels": [
+    "Century Comfort-aire B-VMH12CU-1",
+    "Century Comfort-aire B-VMH18CU-1"
+   ],
+   "url": "https://www.manualslib.com/manual/3542102/Mars-Century-Comfort-Aire-B-Vmh09cu-1.html"
+  },
+  {
+   "manualId": "2558417",
+   "slug": "Mars-Century-Comfort-Aire-Hrg18-S1p-Series",
+   "title": "Century Comfort-Aire HRG18 S1P Series Service manual",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "Century Comfort-Aire HRG18 S1P Series",
+   "extraModels": [
+    "Century Comfort-Aire HRG1836S1P",
+    "Century Comfort-Aire HRG1860S1P"
+   ],
+   "url": "https://www.manualslib.com/manual/2558417/Mars-Century-Comfort-Aire-Hrg18-S1p-Series.html"
+  },
+  {
+   "manualId": "2013776",
+   "slug": "Mars-Century-Earthpure-Hnw-Series",
+   "title": "Century EarthPure HNW Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Century EarthPure HNW Series",
+   "extraModels": [
+    "Century EarthPure HNW036",
+    "Century EarthPure HNW060",
+    "Century EarthPure HNW120"
+   ],
+   "url": "https://www.manualslib.com/manual/2013776/Mars-Century-Earthpure-Hnw-Series.html"
+  },
+  {
+   "manualId": "2158336",
+   "slug": "Mars-Comfort-Aire-Century-B-Vmh12fu-1",
+   "title": "Comfort Aire Century B-VMH12FU-1 installation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Comfort Aire Century B-VMH12FU-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2158336/Mars-Comfort-Aire-Century-B-Vmh12fu-1.html"
+  },
+  {
+   "manualId": "2756276",
+   "slug": "Mars-Comfort-Aire-Century-B-Vmh12fu-1-Cy",
+   "title": "Comfort Aire Century B-VMH12FU-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Comfort Aire Century B-VMH12FU-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2756276/Mars-Comfort-Aire-Century-B-Vmh12fu-1-Cy.html"
+  },
+  {
+   "manualId": "3412460",
+   "slug": "Mars-Comfort-Aie-Century-Ptac-Series",
+   "title": "Comfort-Aie Century PTAC Series owner's manual",
+   "type": "User / Owner",
+   "pages": 38,
+   "productModel": "Comfort-Aie Century PTAC Series",
+   "extraModels": [
+    "Comfort-Aie Century PTAC07H130A",
+    "Comfort-Aie Century PTAC12H130A-CY",
+    "Comfort-Aie Century PTHP H Series",
+    "Comfort-Aie Century PTHP12H130A-CY",
+    "Comfort-Aie Century PTHP12H150A-CY",
+    "Comfort-Aie Century PTHP15H130A-CY"
+   ],
+   "url": "https://www.manualslib.com/manual/3412460/Mars-Comfort-Aie-Century-Ptac-Series.html"
+  },
+  {
+   "manualId": "4246092",
+   "slug": "Mars-Comfort-Air-Century-Vhp-Da-Series",
+   "title": "Comfort-Air Century VHP-DA Series installation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Comfort-Air Century VHP-DA Series",
+   "extraModels": [
+    "Comfort-Aire Century B-VHP09DA-1",
+    "Comfort-Aire Century B-VHP12DA-1",
+    "Comfort-Aire Century B-VHP18DA-1",
+    "Comfort-Aire Century B-VHP24DA-1",
+    "Comfort-Aire Century B-VHP36DA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4246092/Mars-Comfort-Air-Century-Vhp-Da-Series.html"
+  },
+  {
+   "manualId": "4188524",
+   "slug": "Mars-Comfort-Air-Century-Zhp-Series",
+   "title": "Comfort-Air Century ZHP Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Comfort-Air Century ZHP Series",
+   "extraModels": [
+    "Comfort-Air Century ZHP06SA-1",
+    "Comfort-Air Century ZHP09SA-1",
+    "Comfort-Air Century ZHP12SA-1",
+    "Comfort-Air Century ZHP15SA-1",
+    "Comfort-Air Century ZHP18SA-1",
+    "Comfort-Air Century ZHP24SA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4188524/Mars-Comfort-Air-Century-Zhp-Series.html"
+  },
+  {
+   "manualId": "3265051",
+   "slug": "Mars-Comfort-Aire-Bcd-20a",
+   "title": "COMFORT-AIRE BCD-20A installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "COMFORT-AIRE BCD-20A",
+   "extraModels": [
+    "COMFORT-AIRE BCD-35A",
+    "COMFORT-AIRE BCD-50A",
+    "COMFORT-AIRE BCDP-50A"
+   ],
+   "url": "https://www.manualslib.com/manual/3265051/Mars-Comfort-Aire-Bcd-20a.html"
+  },
+  {
+   "manualId": "2582845",
+   "slug": "Mars-Comfort-Aire-Bhd-22a",
+   "title": "COMFORT-AIRE BHD-22A Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "COMFORT-AIRE BHD-22A",
+   "extraModels": [
+    "COMFORT-AIRE BHD-35A",
+    "COMFORT-AIRE BHD-50A",
+    "COMFORT-AIRE BHDP-50A",
+    "COMFORT-AIRE BHDP-60A"
+   ],
+   "url": "https://www.manualslib.com/manual/2582845/Mars-Comfort-Aire-Bhd-22a.html"
+  },
+  {
+   "manualId": "3496677",
+   "slug": "Mars-Comfort-Aire-Bhd-35a",
+   "title": "COMFORT-AIRE BHD-22A owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "COMFORT-AIRE BHD-22A",
+   "extraModels": [
+    "COMFORT-AIRE BHD-22A",
+    "COMFORT-AIRE BHD-50A",
+    "COMFORT-AIRE BHDP-50A",
+    "COMFORT-AIRE BHDP-60A"
+   ],
+   "url": "https://www.manualslib.com/manual/3496677/Mars-Comfort-Aire-Bhd-35a.html"
+  },
+  {
+   "manualId": "3039111",
+   "slug": "Mars-Comfort-Aire-Bhd-22b",
+   "title": "Comfort-Aire BHD-22B Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "Comfort-Aire BHD-22B",
+   "extraModels": [
+    "Comfort-Aire BHD-35B",
+    "Comfort-Aire BHD-50B",
+    "Comfort-Aire BHDP-50B",
+    "Comfort-Aire BHDP-60B"
+   ],
+   "url": "https://www.manualslib.com/manual/3039111/Mars-Comfort-Aire-Bhd-22b.html"
+  },
+  {
+   "manualId": "2072922",
+   "slug": "Mars-Comfort-Aire-Century-Vmh09-Su-Series",
+   "title": "COMFORT-AIRE Century 12 SU Series user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "COMFORT-AIRE Century 12 SU Series",
+   "extraModels": [
+    "COMFORT-AIRE Century 12 SU Series",
+    "COMFORT-AIRE Century 18 SU Series",
+    "COMFORT-AIRE Century 24 SU Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2072922/Mars-Comfort-Aire-Century-Vmh09-Su-Series.html"
+  },
+  {
+   "manualId": "2918514",
+   "slug": "Mars-Comfort-Aire-Century-Sv-Series",
+   "title": "Comfort-Aire Century 1731710001195 user manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "Comfort-Aire Century 1731710001195",
+   "extraModels": [
+    "Comfort-Aire Century 1731710001195"
+   ],
+   "url": "https://www.manualslib.com/manual/2918514/Mars-Comfort-Aire-Century-Sv-Series.html"
+  },
+  {
+   "manualId": "2792606",
+   "slug": "Mars-Comfort-Aire-Century-7602-444",
+   "title": "Comfort-Aire Century 7602-444 Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Comfort-Aire Century 7602-444",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2792606/Mars-Comfort-Aire-Century-7602-444.html"
+  },
+  {
+   "manualId": "3558216",
+   "slug": "Mars-Comfort-Aire-Century-7800-207",
+   "title": "Comfort-Aire Century 7800-207 Installation and operation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Comfort-Aire Century 7800-207",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3558216/Mars-Comfort-Aire-Century-7800-207.html"
+  },
+  {
+   "manualId": "3687120",
+   "slug": "Mars-Comfort-Aire-Century-A-Dvh09sg-0",
+   "title": "Comfort-Aire Century A-DVH09SG-0 Service manual",
+   "type": "Service",
+   "pages": 133,
+   "productModel": "Comfort-Aire Century A-DVH09SG-0",
+   "extraModels": [
+    "Comfort-Aire Century DVH Series",
+    "Comfort-Aire Century DVH09SG-1",
+    "Comfort-Aire Century DVH12SG-0",
+    "Comfort-Aire Century DVH12SG-1",
+    "Comfort-Aire Century DVH18SG-1",
+    "Comfort-Aire Century DVH24SG-1"
+   ],
+   "url": "https://www.manualslib.com/manual/3687120/Mars-Comfort-Aire-Century-A-Dvh09sg-0.html"
+  },
+  {
+   "manualId": "4055809",
+   "slug": "Mars-Comfort-Aire-Century-A-Dvh09sg-1",
+   "title": "Comfort-Aire Century A-DVH09SG-0 Service manual",
+   "type": "Service",
+   "pages": 133,
+   "productModel": "Comfort-Aire Century A-DVH09SG-0",
+   "extraModels": [
+    "Comfort-Aire Century A-DVH09SG-0",
+    "Comfort-Aire Century A-DVH12SG-0",
+    "Comfort-Aire Century A-DVH12SG-1",
+    "Comfort-Aire Century A-DVH18SG-1",
+    "Comfort-Aire Century A-DVH24SG-1",
+    "Comfort-Aire Century B-DVH09SG-0",
+    "Comfort-Aire Century B-DVH09SG-1",
+    "Comfort-Aire Century B-DVH12SG-0",
+    "Comfort-Aire Century B-DVH12SG-1",
+    "Comfort-Aire Century B-DVH18SG-1",
+    "Comfort-Aire Century B-DVH24SG-1",
+    "Comfort-Aire Century DVH Series",
+    "Comfort-Aire Century DVH09SG-0",
+    "Comfort-Aire Century DVH12SG-0",
+    "Comfort-Aire Century DVH12SG-1",
+    "Comfort-Aire Century DVH18SG-1",
+    "Comfort-Aire Century DVH24SG-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4055809/Mars-Comfort-Aire-Century-A-Dvh09sg-1.html"
+  },
+  {
+   "manualId": "2791409",
+   "slug": "Mars-Comfort-Aire-Century-Dvh09sh-0",
+   "title": "Comfort-Aire Century A-DVH09SH-0-CY Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Comfort-Aire Century A-DVH09SH-0-CY",
+   "extraModels": [
+    "Comfort-Aire Century A-DVH09SH-0-CY",
+    "Comfort-Aire Century A-DVH12SH-0-CY",
+    "Comfort-Aire Century B-DVH09SH-0-CY",
+    "Comfort-Aire Century DVH Series",
+    "Comfort-Aire Century DVH09SH-1",
+    "Comfort-Aire Century DVH09SH-1-CY",
+    "Comfort-Aire Century DVH12SH-0",
+    "Comfort-Aire Century DVH12SH-1",
+    "Comfort-Aire Century DVH18SH-1",
+    "Comfort-Aire Century DVH24SH-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2791409/Mars-Comfort-Aire-Century-Dvh09sh-0.html"
+  },
+  {
+   "manualId": "3067583",
+   "slug": "Mars-Comfort-Aire-Century-Vcd-Sa-Series",
+   "title": "Comfort-Aire Century A-VCD24SA-1 Service manual",
+   "type": "Service",
+   "pages": 224,
+   "productModel": "Comfort-Aire Century A-VCD24SA-1",
+   "extraModels": [
+    "Comfort-Aire Century A-VCD24SA-1",
+    "Comfort-Aire Century A-VCD30SA-1",
+    "Comfort-Aire Century A-VCD36SA-1",
+    "Comfort-Aire Century A-VCD48SA-1",
+    "Comfort-Aire Century A-VCD60SA-1",
+    "Comfort-Aire Century B-VCD24SA-1",
+    "Comfort-Aire Century B-VCD30SA-1",
+    "Comfort-Aire Century B-VCD36SA-1",
+    "Comfort-Aire Century B-VCD48SA-1",
+    "Comfort-Aire Century B-VCD60SA-1",
+    "Comfort-Aire Century VCD24SA",
+    "Comfort-Aire Century VCD30SA",
+    "Comfort-Aire Century VCD36SA",
+    "Comfort-Aire Century VCD48SA",
+    "Comfort-Aire Century VCD60SA"
+   ],
+   "url": "https://www.manualslib.com/manual/3067583/Mars-Comfort-Aire-Century-Vcd-Sa-Series.html"
+  },
+  {
+   "manualId": "2756289",
+   "slug": "Mars-Comfort-Aire-Century-A-Vfh30qb-1",
+   "title": "Comfort-aire Century A-VFH30QB-1 Installation & operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Comfort-aire Century A-VFH30QB-1",
+   "extraModels": [
+    "Comfort-aire Century A-VFH36QB-1",
+    "Comfort-aire Century A-VFH42PB-1",
+    "COMFORT-AIRE Century VFH-B Series",
+    "Comfort-aire Century VFH-B Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2756289/Mars-Comfort-Aire-Century-A-Vfh30qb-1.html"
+  },
+  {
+   "manualId": "2362609",
+   "slug": "Mars-Comfort-Aire-Century-Vfh-B-Series",
+   "title": "Comfort-aire Century A-VFH30QB-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Comfort-aire Century A-VFH30QB-1",
+   "extraModels": [
+    "Comfort-aire Century A-VFH30QB-1",
+    "Comfort-aire Century A-VFH36QB-1",
+    "Comfort-aire Century A-VFH42PB-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2362609/Mars-Comfort-Aire-Century-Vfh-B-Series.html"
+  },
+  {
+   "manualId": "2800575",
+   "slug": "Mars-Comfort-Aire-Century-Vfh-B-Series",
+   "title": "Comfort-aire Century A-VFH30QB-1 Service manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Comfort-aire Century A-VFH30QB-1",
+   "extraModels": [
+    "Comfort-aire Century A-VFH30QB-1",
+    "COMFORT-AIRE Century A-VFH30QB-1-CY",
+    "Comfort-aire Century A-VFH36QB-1",
+    "COMFORT-AIRE Century A-VFH36QB-1-CY",
+    "Comfort-aire Century A-VFH42PB-1",
+    "COMFORT-AIRE Century A-VFH42PB-1-CY"
+   ],
+   "url": "https://www.manualslib.com/manual/2800575/Mars-Comfort-Aire-Century-Vfh-B-Series.html"
+  },
+  {
+   "manualId": "1852156",
+   "slug": "Mars-Comfort-Aire-Century-A-Vmh09cu-1",
+   "title": "Comfort-Aire Century A-VMH09CU-1 Remote control manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Comfort-Aire Century A-VMH09CU-1",
+   "extraModels": [
+    "Comfort-Aire Century A-VMH12CU-1",
+    "Comfort-Aire Century A-VMH18CU-1",
+    "Comfort-Aire Century A-VMH24CU-1"
+   ],
+   "url": "https://www.manualslib.com/manual/1852156/Mars-Comfort-Aire-Century-A-Vmh09cu-1.html"
+  },
+  {
+   "manualId": "3131653",
+   "slug": "Mars-Comfort-Aire-Century-Heat-Controller-Vmh09su-Series",
+   "title": "COMFORT-AIRE Century A-VMH09SU-1 Installation and operation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "COMFORT-AIRE Century A-VMH09SU-1",
+   "extraModels": [
+    "COMFORT-AIRE Century A-VMH09SU-1",
+    "COMFORT-AIRE Century B-VMH09SU-1",
+    "Comfort-Aire Century Heat Controller VMH12SU Series",
+    "Comfort-Aire Century Heat Controller VMH18SU Series",
+    "Comfort-Aire Century Heat Controller VMH24SU Series",
+    "COMFORT-AIRE Century VMH18SU-1A",
+    "VMH09SU-1"
+   ],
+   "url": "https://www.manualslib.com/manual/3131653/Mars-Comfort-Aire-Century-Heat-Controller-Vmh09su-Series.html"
+  },
+  {
+   "manualId": "2756266",
+   "slug": "Mars-Comfort-Aire-Century-Vmh-9-Su-Series",
+   "title": "COMFORT-AIRE Century A-VMH09SU-1 Service manual",
+   "type": "Service",
+   "pages": 78,
+   "productModel": "COMFORT-AIRE Century A-VMH09SU-1",
+   "extraModels": [
+    "COMFORT-AIRE Century A-VMH09SU-1",
+    "COMFORT-AIRE Century A-VMH12SU-1",
+    "COMFORT-AIRE Century A-VMH18SU-1",
+    "COMFORT-AIRE Century A-VMH24SU-1",
+    "COMFORT-AIRE Century A-VMH30SD-1",
+    "COMFORT-AIRE Century A-VMH30SD-1-CY",
+    "COMFORT-AIRE Century A-VMH36SD-1",
+    "COMFORT-AIRE Century B-VMH09SU-1",
+    "COMFORT-AIRE Century B-VMH12SU-1",
+    "COMFORT-AIRE Century B-VMH18SU-1",
+    "COMFORT-AIRE Century B-VMH18SU-1A",
+    "COMFORT-AIRE Century B-VMH24SU-1",
+    "COMFORT-AIRE Century B-VMH24SU-1-CY",
+    "COMFORT-AIRE Century B-VMH30SD-1",
+    "COMFORT-AIRE Century B-VMH36SD-1",
+    "COMFORT-AIRE Century B-VMH36SD-1-CY",
+    "COMFORT-AIRE Century VMH 12 SU Series",
+    "COMFORT-AIRE Century VMH 18 SU Series",
+    "COMFORT-AIRE Century VMH 24 SU Series",
+    "COMFORT-AIRE Century VMH 30 SD Series",
+    "COMFORT-AIRE Century VMH 36 SD Series",
+    "COMFORT-AIRE Century VMH09SU-1-CY",
+    "COMFORT-AIRE Century VMH18SU-1A"
+   ],
+   "url": "https://www.manualslib.com/manual/2756266/Mars-Comfort-Aire-Century-Vmh-9-Su-Series.html"
+  },
+  {
+   "manualId": "3140674",
+   "slug": "Mars-Comfort-Aire-Century-A-Vmh24tv-1",
+   "title": "Comfort-Aire Century A-VMH18DV-1-CY Service manual",
+   "type": "Service",
+   "pages": 132,
+   "productModel": "Comfort-Aire Century A-VMH18DV-1-CY",
+   "extraModels": [
+    "Comfort-Aire Century A-VMH18DV-1-CY",
+    "Comfort-Aire Century VMH-SV Series",
+    "Comfort-Cure Century A-VMH18DV-1",
+    "Comfort-Cure Century A-VMH36QV-1",
+    "Comfort-Cure Century A-VMH48PV-1"
+   ],
+   "url": "https://www.manualslib.com/manual/3140674/Mars-Comfort-Aire-Century-A-Vmh24tv-1.html"
+  },
+  {
+   "manualId": "2797671",
+   "slug": "Mars-Comfort-Aire-Century-Vmh-Sv-Series",
+   "title": "Comfort-Aire Century A-VMH18SV-1 Service manual",
+   "type": "Service",
+   "pages": 180,
+   "productModel": "Comfort-Aire Century A-VMH18SV-1",
+   "extraModels": [
+    "Comfort-Aire Century A-VMH18SV-1",
+    "Comfort-Aire Century A-VMH24SV-1",
+    "Comfort-Aire Century B-VMH18AV-1 Series",
+    "Comfort-Aire Century B-VMH24AV-1 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2797671/Mars-Comfort-Aire-Century-Vmh-Sv-Series.html"
+  },
+  {
+   "manualId": "3297369",
+   "slug": "Mars-Comfort-Aire-Century-Vmh36-Sg-Series",
+   "title": "Comfort-Aire Century A-VMH30SG-1 user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Comfort-Aire Century A-VMH30SG-1",
+   "extraModels": [
+    "Comfort-Aire Century A-VMH30SG-1",
+    "Comfort-Aire Century A-VMH30SG-1-CY",
+    "Comfort-Aire Century A-VMH36SG-1",
+    "Comfort-Aire Century A-VMH36SG-1-CY",
+    "Comfort-Aire Century B-VMH30SG-1",
+    "Comfort-Aire Century B-VMH30SG-1-CY",
+    "Comfort-Aire Century B-VMH36SG-1",
+    "Comfort-Aire Century B-VMH36SG-1-CY",
+    "Comfort-Aire Century VMH 30 SG Series",
+    "Comfort-Aire Century VMH30SG-1",
+    "Comfort-Aire Century VMH30SG-1-CY",
+    "Comfort-Aire Century VMH36SG-1",
+    "Comfort-Aire Century VMH36SG-1-CY",
+    "EU-OSK105",
+    "US-OSK105"
+   ],
+   "url": "https://www.manualslib.com/manual/3297369/Mars-Comfort-Aire-Century-Vmh36-Sg-Series.html"
+  },
+  {
+   "manualId": "3965279",
+   "slug": "Mars-Comfort-Aire-Century-Vxp-Sa-Series",
+   "title": "Comfort-aire Century A-VXP1 SSA-1 installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Comfort-aire Century A-VXP1 SSA-1",
+   "extraModels": [
+    "Comfort-aire Century A-VXP1 SSA-1",
+    "Comfort-aire Century A-VXP24SA-1",
+    "Comfort-aire Century A-VXP30SA-1",
+    "Comfort-aire Century A-VXP36SA-1",
+    "Comfort-aire Century A-VXP48SA-1",
+    "Comfort-aire Century A-VXP60SA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/3965279/Mars-Comfort-Aire-Century-Vxp-Sa-Series.html"
+  },
+  {
+   "manualId": "4184996",
+   "slug": "Mars-Comfort-Aire-Century-Ah19x",
+   "title": "Comfort-Aire Century AH19X instruction manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "Comfort-Aire Century AH19X",
+   "extraModels": [
+    "Comfort-Aire Century AH19X24S1A",
+    "Comfort-Aire Century AH19X24S1A-CY",
+    "Comfort-Aire Century AH19X36S1A",
+    "Comfort-Aire Century AH19X36S1A-CY",
+    "Comfort-Aire Century AH19X48S1A",
+    "Comfort-Aire Century AH19X60S1A",
+    "Comfort-Aire Century AH19X60S1A-CY"
+   ],
+   "url": "https://www.manualslib.com/manual/4184996/Mars-Comfort-Aire-Century-Ah19x.html"
+  },
+  {
+   "manualId": "3110693",
+   "slug": "Mars-Comfort-Aire-Century-Vcd24-Sa-Series",
+   "title": "Comfort-Aire Century B-VCD24SA-1 Installation and owner's manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "Comfort-Aire Century B-VCD24SA-1",
+   "extraModels": [
+    "Comfort-Aire Century B-VCD24SA-1",
+    "Comfort-Aire Century B-VCD30SA-1",
+    "Comfort-Aire Century B-VCD36SA-1",
+    "Comfort-Aire Century VCD30 SA Series",
+    "Comfort-Aire Century VCD36 SA Series",
+    "Comfort-Aire Century VCD48 SA Series",
+    "Comfort-Aire Century VCD60 SA Series",
+    "Comfort-Aire Century KJR-120X/TFBG-E"
+   ],
+   "url": "https://www.manualslib.com/manual/3110693/Mars-Comfort-Aire-Century-Vcd24-Sa-Series.html"
+  },
+  {
+   "manualId": "4095971",
+   "slug": "Mars-Comfort-Aire-Century-Vhp-Ca-Series",
+   "title": "Comfort-Aire Century B-VHP09CA-1 installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Comfort-Aire Century B-VHP09CA-1",
+   "extraModels": [
+    "Comfort-Aire Century B-VHP09CA-1",
+    "Comfort-Aire Century B-VHP12CA-1",
+    "Comfort-Aire Century B-VHP18CA-1",
+    "Comfort-Aire Century B-VHP24CA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4095971/Mars-Comfort-Aire-Century-Vhp-Ca-Series.html"
+  },
+  {
+   "manualId": "4184039",
+   "slug": "Mars-Comfort-Aire-Century-Vhp-Da-Series",
+   "title": "Comfort-Aire Century B-VHP09DA-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Comfort-Aire Century B-VHP09DA-1",
+   "extraModels": [
+    "Comfort-Aire Century B-VHP09DA-1",
+    "Comfort-Aire Century B-VHP12DA-1",
+    "Comfort-Aire Century B-VHP18DA-1",
+    "Comfort-Aire Century B-VHP24DA-1",
+    "Comfort-Aire Century B-VHP36DA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4184039/Mars-Comfort-Aire-Century-Vhp-Da-Series.html"
+  },
+  {
+   "manualId": "4090577",
+   "slug": "Mars-Comfort-Aire-Century-Vhp-Wa-Series",
+   "title": "Comfort-Aire Century B-VHP09WA-1 installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Comfort-Aire Century B-VHP09WA-1",
+   "extraModels": [
+    "Comfort-Aire Century B-VHP09WA-1",
+    "Comfort-Aire Century B-VHP12WA-1",
+    "Comfort-Aire Century B-VHP18WA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4090577/Mars-Comfort-Aire-Century-Vhp-Wa-Series.html"
+  },
+  {
+   "manualId": "4176422",
+   "slug": "Mars-Comfort-Aire-Century-Vhp-Wa-Series",
+   "title": "Comfort-Aire Century B-VHP09WA-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Comfort-Aire Century B-VHP09WA-1",
+   "extraModels": [
+    "Comfort-Aire Century B-VHP09WA-1",
+    "Comfort-Aire Century B-VHP12WA-1",
+    "Comfort-Aire Century B-VHP18WA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4176422/Mars-Comfort-Aire-Century-Vhp-Wa-Series.html"
+  },
+  {
+   "manualId": "4129945",
+   "slug": "Mars-Comfort-Aire-Century-Vhp-Aa-Series",
+   "title": "Comfort-Aire Century B-VHP18AA-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Comfort-Aire Century B-VHP18AA-1",
+   "extraModels": [
+    "Comfort-Aire Century B-VHP18AA-1",
+    "Comfort-Aire Century B-VHP24AA-1",
+    "Comfort-Aire Century B-VHP30AA-1",
+    "Comfort-Aire Century B-VHP36AA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4129945/Mars-Comfort-Aire-Century-Vhp-Aa-Series.html"
+  },
+  {
+   "manualId": "4155908",
+   "slug": "Mars-Comfort-Aire-Century-Vhp-Ua-Series",
+   "title": "Comfort-Aire Century B-VHP18UA-1 installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Comfort-Aire Century B-VHP18UA-1",
+   "extraModels": [
+    "Comfort-Aire Century B-VHP18UA-1",
+    "Comfort-Aire Century B-VHP24UA-1",
+    "Comfort-Aire Century B-VHP18UA-1-CY",
+    "Comfort-Aire Century B-VHP24UA-1-CY"
+   ],
+   "url": "https://www.manualslib.com/manual/4155908/Mars-Comfort-Aire-Century-Vhp-Ua-Series.html"
+  },
+  {
+   "manualId": "4187508",
+   "slug": "Mars-Comfort-Aire-Century-Vhp-Ua-Series",
+   "title": "Comfort-Aire Century B-VHP18UA-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Comfort-Aire Century B-VHP18UA-1",
+   "extraModels": [
+    "Comfort-Aire Century B-VHP18UA-1",
+    "Comfort-Aire Century B-VHP24UA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4187508/Mars-Comfort-Aire-Century-Vhp-Ua-Series.html"
+  },
+  {
+   "manualId": "1835521",
+   "slug": "Mars-Comfort-Aire-Century-B-Vmh09du-1",
+   "title": "Comfort-Aire Century B-VMH09DU-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Comfort-Aire Century B-VMH09DU-1",
+   "extraModels": [
+    "Comfort-Aire Century B-VMH12DU-1",
+    "Comfort-Aire Century B-VMH18DU-1",
+    "Comfort-Aire Century B-VMH24DU-1"
+   ],
+   "url": "https://www.manualslib.com/manual/1835521/Mars-Comfort-Aire-Century-B-Vmh09du-1.html"
+  },
+  {
+   "manualId": "2756257",
+   "slug": "Mars-Comfort-Aire-Century-B-Vmh12du-1",
+   "title": "Comfort-Aire Century B-VMH09DU-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Comfort-Aire Century B-VMH09DU-1",
+   "extraModels": [
+    "Comfort-Aire Century B-VMH09DU-1",
+    "Comfort-Aire Century B-VMH18DU-1",
+    "Comfort-Aire Century B-VMH24DU-1",
+    "COMFORT-AIRE Century B-VMH18DU-1-CY"
+   ],
+   "url": "https://www.manualslib.com/manual/2756257/Mars-Comfort-Aire-Century-B-Vmh12du-1.html"
+  },
+  {
+   "manualId": "3533962",
+   "slug": "Mars-Comfort-Aire-Century-B-Vmh12fv-1",
+   "title": "Comfort-Aire Century B-VMH12FV-1 Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Comfort-Aire Century B-VMH12FV-1",
+   "extraModels": [
+    "Comfort-Aire Century B-VMH12FV-1-CY"
+   ],
+   "url": "https://www.manualslib.com/manual/3533962/Mars-Comfort-Aire-Century-B-Vmh12fv-1.html"
+  },
+  {
+   "manualId": "2786044",
+   "slug": "Mars-Comfort-Aire-Century-B-Vmh18av-1-Series",
+   "title": "Comfort-Aire Century B-VMH18AV-1 Series installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Comfort-Aire Century B-VMH18AV-1 Series",
+   "extraModels": [
+    "Comfort-Aire Century B-VMH24AV-1 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2786044/Mars-Comfort-Aire-Century-B-Vmh18av-1-Series.html"
+  },
+  {
+   "manualId": "3010987",
+   "slug": "Mars-Comfort-Aire-Century-B-Vmh-Av-1-Series",
+   "title": "Comfort-Aire Century B-VMH18AV-1 Series installation manual",
+   "type": "Installation",
+   "pages": 49,
+   "productModel": "Comfort-Aire Century B-VMH18AV-1 Series",
+   "extraModels": [
+    "Comfort-Aire Century B-VMH18AV-1 Series",
+    "Comfort-Aire Century B-VMH24AV-1 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3010987/Mars-Comfort-Aire-Century-B-Vmh-Av-1-Series.html"
+  },
+  {
+   "manualId": "2756304",
+   "slug": "Mars-Comfort-Aire-Century-B-Vmh24cu-1",
+   "title": "Comfort-Aire Century B-VMH24CU-1 installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Comfort-Aire Century B-VMH24CU-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2756304/Mars-Comfort-Aire-Century-B-Vmh24cu-1.html"
+  },
+  {
+   "manualId": "2691782",
+   "slug": "Mars-Comfort-Aire-Century-B-Vmh24cu-1",
+   "title": "Comfort-Aire Century B-VMH24CU-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Comfort-Aire Century B-VMH24CU-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2691782/Mars-Comfort-Aire-Century-B-Vmh24cu-1.html"
+  },
+  {
+   "manualId": "3466033",
+   "slug": "Mars-Comfort-Aire-Century-B-Vmh24cv-1",
+   "title": "Comfort-Aire Century B-VMH24CV-1 Remote control manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Comfort-Aire Century B-VMH24CV-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3466033/Mars-Comfort-Aire-Century-B-Vmh24cv-1.html"
+  },
+  {
+   "manualId": "3173358",
+   "slug": "Mars-Comfort-Aire-Century-Bge-R01-Series",
+   "title": "Comfort-Aire Century BG-101R01 Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Comfort-Aire Century BG-101R01",
+   "extraModels": [
+    "Comfort-Aire Century BG-101R01",
+    "Comfort-Aire Century BG-103R01",
+    "Comfort-Aire Century BG-121R01",
+    "Comfort-Aire Century BG-123R01",
+    "Comfort-Aire Century BG-143R01",
+    "Comfort-Aire Century BG-R01 Series",
+    "Comfort-Aire Century BGE-103R01",
+    "Comfort-Aire Century BGE-123R01",
+    "Comfort-Aire Century BGE-143R01"
+   ],
+   "url": "https://www.manualslib.com/manual/3173358/Mars-Comfort-Aire-Century-Bge-R01-Series.html"
+  },
+  {
+   "manualId": "3096359",
+   "slug": "Mars-Comfort-Aire-Century-Bg-R01-Series",
+   "title": "Comfort-Aire Century BG-R01 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "Comfort-Aire Century BG-R01 Series",
+   "extraModels": [
+    "Comfort-Aire Century BGE-R01 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3096359/Mars-Comfort-Aire-Century-Bg-R01-Series.html"
+  },
+  {
+   "manualId": "2446563",
+   "slug": "Mars-Comfort-Aire-Century-Cma1412sf-0",
+   "title": "Comfort-Aire Century CMA1412SF-0 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "Comfort-Aire Century CMA1412SF-0",
+   "extraModels": [
+    "Comfort-Aire Century CMA1418SF-1",
+    "Comfort-Aire Century CMA1424SF-1",
+    "Comfort-Aire Century CMA1430SF-1",
+    "Comfort-Aire Century CMA1436SF-1",
+    "Comfort-Aire Century CMA1448SF-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2446563/Mars-Comfort-Aire-Century-Cma1412sf-0.html"
+  },
+  {
+   "manualId": "2703146",
+   "slug": "Mars-Comfort-Aire-Cma1424sf-1",
+   "title": "Comfort-Aire Century CMA1412SF-0 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "Comfort-Aire Century CMA1412SF-0",
+   "extraModels": [
+    "Comfort-Aire Century CMA1412SF-0",
+    "Comfort-Aire Century CMA1418SF-1",
+    "Comfort-Aire Century CMA1430SF-1",
+    "Comfort-Aire Century CMA1436SF-1",
+    "Comfort-Aire Century CMA1448SF-1",
+    "COMFORT-AIRE CMA1412SF-0-CY",
+    "COMFORT-AIRE CMA1418SF-1-CY"
+   ],
+   "url": "https://www.manualslib.com/manual/2703146/Mars-Comfort-Aire-Cma1424sf-1.html"
+  },
+  {
+   "manualId": "4235360",
+   "slug": "Mars-Comfort-Aire-Century-Cma1512sa-1",
+   "title": "Comfort-Aire Century CMA1512SA-1 installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Comfort-Aire Century CMA1512SA-1",
+   "extraModels": [
+    "Comfort-Aire Century CMA1518SA-1",
+    "Comfort-Aire Century CMA1524SA-1",
+    "Comfort-Aire Century CMA1530SA-1",
+    "Comfort-Aire Century CMA1536SA-1",
+    "Comfort-Aire Century CMA1548SA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4235360/Mars-Comfort-Aire-Century-Cma1512sa-1.html"
+  },
+  {
+   "manualId": "4252321",
+   "slug": "Mars-Comfort-Aire-Century-Cma15-Series",
+   "title": "Comfort-Aire Century CMA1512SA-1 Service manual",
+   "type": "Service",
+   "pages": 140,
+   "productModel": "Comfort-Aire Century CMA1512SA-1",
+   "extraModels": [
+    "Comfort-Aire Century CMA1512SA-1",
+    "Comfort-Aire Century CMA1518SA-1",
+    "Comfort-Aire Century CMA1524SA-1",
+    "Comfort-Aire Century CMA1530SA-1",
+    "Comfort-Aire Century CMA1536SA-1",
+    "Comfort-Aire Century CMA1548SA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4252321/Mars-Comfort-Aire-Century-Cma15-Series.html"
+  },
+  {
+   "manualId": "3002145",
+   "slug": "Mars-Comfort-Aire-Century-Compact-Hbh-Series",
+   "title": "Comfort-aire Century Compact HBH Series Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "Comfort-aire Century Compact HBH Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3002145/Mars-Comfort-Aire-Century-Compact-Hbh-Series.html"
+  },
+  {
+   "manualId": "4377524",
+   "slug": "Mars-Comfort-Aire-Century-Cxp1512sa-1",
+   "title": "Comfort-Aire Century CXP1512SA-1 Service manual",
+   "type": "Service",
+   "pages": 108,
+   "productModel": "Comfort-Aire Century CXP1512SA-1",
+   "extraModels": [
+    "Comfort-Aire Century CXP1518SA-1",
+    "Comfort-Aire Century CXP1524SA-1",
+    "Comfort-Aire Century CXP1530SA-1",
+    "Comfort-Aire Century CXP1536SA-1",
+    "Comfort-Aire Century CXP1548SA-1",
+    "Comfort-Aire Century CXP1560SA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4377524/Mars-Comfort-Aire-Century-Cxp1512sa-1.html"
+  },
+  {
+   "manualId": "2868765",
+   "slug": "Mars-Comfort-Aire-Century-Dvh-09-Series",
+   "title": "Comfort-Aire Century DVH 09 Series Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Comfort-Aire Century DVH 09 Series",
+   "extraModels": [
+    "Comfort-Aire Century DVH 12 Series",
+    "Comfort-Aire Century DVH 18 Series",
+    "Comfort-Aire Century DVH 24 Series",
+    "RG10A11(D)/BGEF",
+    "RG10A4(D)/BGEF",
+    "RG10A4(D1)/BGEFU1",
+    "RG10A5(D)/BGCEF",
+    "RG10A5(D)/BGEF",
+    "RG10A5(D1)/BGCEFU1",
+    "RG10A5(D1)/BGEFU1",
+    "RG10B(D)/BGEF",
+    "RG10B(D1)/BGEFU1",
+    "RG10B1(D)/BGEF",
+    "RG10B10(D)/BGEF",
+    "RG10B2(D)/BGCEF"
+   ],
+   "url": "https://www.manualslib.com/manual/2868765/Mars-Comfort-Aire-Century-Dvh-09-Series.html"
+  },
+  {
+   "manualId": "2351869",
+   "slug": "Mars-Comfort-Aire-Century-Dvh-Series",
+   "title": "Comfort-Aire Century DVH Series Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Comfort-Aire Century DVH Series",
+   "extraModels": [
+    "Comfort-Aire Century DVH09SG-0",
+    "Comfort-Aire Century DVH09SG-1",
+    "Comfort-Aire Century DVH12SG-0",
+    "Comfort-Aire Century DVH12SG-1",
+    "Comfort-Aire Century DVH18SG-1",
+    "Comfort-Aire Century DVH24SG-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2351869/Mars-Comfort-Aire-Century-Dvh-Series.html"
+  },
+  {
+   "manualId": "4211647",
+   "slug": "Mars-Comfort-Aire-Century-Dxm2-Control",
+   "title": "Comfort-Aire Century DXM2 Control Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Comfort-Aire Century DXM2 Control",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4211647/Mars-Comfort-Aire-Century-Dxm2-Control.html"
+  },
+  {
+   "manualId": "4184988",
+   "slug": "Mars-Comfort-Aire-Century-Exp3kw",
+   "title": "Comfort-Aire Century EXP10KW installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Comfort-Aire Century EXP10KW",
+   "extraModels": [
+    "Comfort-Aire Century EXP10KW",
+    "Comfort-Aire Century EXP15KW",
+    "Comfort-Aire Century EXP20KW",
+    "Comfort-Aire Century EXP25KW",
+    "Comfort-Aire Century EXP5KW",
+    "Comfort-Aire Century EXP8KW"
+   ],
+   "url": "https://www.manualslib.com/manual/4184988/Mars-Comfort-Aire-Century-Exp3kw.html"
+  },
+  {
+   "manualId": "3003811",
+   "slug": "Mars-Comfort-Aire-Century-Hbh-Series",
+   "title": "Comfort-aire Century HBH Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "Comfort-aire Century HBH Series",
+   "extraModels": [
+    "Comfort-aire Century HBH072",
+    "Comfort-aire Century HBH096",
+    "Comfort-aire Century HBH120",
+    "Comfort-aire Century HBV Series",
+    "Comfort-aire Century HBV072",
+    "Comfort-aire Century HBV096",
+    "Comfort-aire Century HBV120",
+    "Comfort-aire Century HBV160",
+    "Comfort-aire Century HBV192",
+    "Comfort-aire Century HBV240",
+    "Comfort-aire Century HBV300"
+   ],
+   "url": "https://www.manualslib.com/manual/3003811/Mars-Comfort-Aire-Century-Hbh-Series.html"
+  },
+  {
+   "manualId": "4206705",
+   "slug": "Mars-Comfort-Aire-Century-Sac13-S1a-Series",
+   "title": "Comfort-Aire Century HCSAC1318S1A instruction manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "Comfort-Aire Century HCSAC1318S1A",
+   "extraModels": [
+    "Comfort-Aire Century HCSAC1318S1A",
+    "Comfort-Aire Century HCSAC1342S1A",
+    "Comfort-Aire Century HCSAC1348S1A",
+    "Comfort-Aire Century SE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4206705/Mars-Comfort-Aire-Century-Sac13-S1a-Series.html"
+  },
+  {
+   "manualId": "1949155",
+   "slug": "Mars-Comfort-Aire-Century-He-Series",
+   "title": "Comfort-Aire Century HE Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Comfort-Aire Century HE Series",
+   "extraModels": [
+    "Comfort-Aire Century HEH Series",
+    "Comfort-Aire Century HEH024 Series",
+    "Comfort-Aire Century HEH030 Series",
+    "Comfort-Aire Century HEH036 Series",
+    "Comfort-Aire Century HEH042 Series",
+    "Comfort-Aire Century HEH048 Series",
+    "Comfort-Aire Century HEH060 Series",
+    "Comfort-Aire Century HEV Series",
+    "Comfort-Aire Century HEV024 Series",
+    "Comfort-Aire Century HEV030 Series",
+    "Comfort-Aire Century HEV036 Series",
+    "Comfort-Aire Century HEV042 Series",
+    "Comfort-Aire Century HEV048 Series",
+    "Comfort-Aire Century HEV060 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1949155/Mars-Comfort-Aire-Century-He-Series.html"
+  },
+  {
+   "manualId": "3092552",
+   "slug": "Mars-Comfort-Aire-Century-Hew-Series",
+   "title": "Comfort-Aire Century HEW 036 Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Comfort-Aire Century HEW 036 Series",
+   "extraModels": [
+    "Comfort-Aire Century HEW 036 Series",
+    "Comfort-Aire Century HEW 060 Series",
+    "Comfort-Aire Century HEW 120 Series",
+    "Comfort-Aire Century HNW Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3092552/Mars-Comfort-Aire-Century-Hew-Series.html"
+  },
+  {
+   "manualId": "1915624",
+   "slug": "Mars-Comfort-Aire-Century-Hkv-Series",
+   "title": "Comfort-Aire Century HKV Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "Comfort-Aire Century HKV Series",
+   "extraModels": [
+    "Comfort-Aire Century HKV084",
+    "Comfort-Aire Century HKV096",
+    "Comfort-Aire Century HKV120",
+    "Comfort-Aire Century HKV150",
+    "Comfort-Aire Century HKV168",
+    "Comfort-Aire Century HKV192",
+    "Comfort-Aire Century HKV240",
+    "Comfort-Aire Century HKV300"
+   ],
+   "url": "https://www.manualslib.com/manual/1915624/Mars-Comfort-Aire-Century-Hkv-Series.html"
+  },
+  {
+   "manualId": "4107864",
+   "slug": "Mars-Comfort-Aire-Century-Hp19v-Series",
+   "title": "Comfort-Aire Century HP19V Series instruction manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "Comfort-Aire Century HP19V Series",
+   "extraModels": [
+    "Comfort-Aire Century HP19V24",
+    "Comfort-Aire Century HP19V36",
+    "Comfort-Aire Century HP19V48",
+    "Comfort-Aire Century HP19V60"
+   ],
+   "url": "https://www.manualslib.com/manual/4107864/Mars-Comfort-Aire-Century-Hp19v-Series.html"
+  },
+  {
+   "manualId": "3454392",
+   "slug": "Mars-Comfort-Aire-Century-Kjr-120g1",
+   "title": "Comfort-Aire Century KJR-120G1 Installation and owner's manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Comfort-Aire Century KJR-120G1",
+   "extraModels": [
+    "Comfort-Aire Century KJR-120G2",
+    "Comfort-Aire Century TFBG-E-01",
+    "Comfort-Aire Century TFBG-E-03"
+   ],
+   "url": "https://www.manualslib.com/manual/3454392/Mars-Comfort-Aire-Century-Kjr-120g1.html"
+  },
+  {
+   "manualId": "3011038",
+   "slug": "Mars-Comfort-Aire-Century-Kjr-120g1-Tfbg-E-01",
+   "title": "Comfort-Aire Century KJR-120G1/TFBG-E-01 Installation and owner's manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Comfort-Aire Century KJR-120G1/TFBG-E-01",
+   "extraModels": [
+    "Comfort-Aire Century KJR-120G2/TFBG-E-03"
+   ],
+   "url": "https://www.manualslib.com/manual/3011038/Mars-Comfort-Aire-Century-Kjr-120g1-Tfbg-E-01.html"
+  },
+  {
+   "manualId": "3211578",
+   "slug": "Mars-Comfort-Aire-Century-Mcb18-Sa-Series",
+   "title": "Comfort-Aire Century KJR-120X Installation and owner's manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "Comfort-Aire Century KJR-120X",
+   "extraModels": [
+    "Comfort-Aire Century KJR-120X",
+    "Comfort-Aire Century MCB24 SA Series",
+    "Comfort-Aire Century MCB30 SA Series",
+    "Comfort-Aire Century MCB36 SA Series",
+    "Comfort-Aire Century MCB48 SA Series",
+    "Comfort-Aire Century MCB60 SA Series",
+    "Comfort-Aire Century TFBG-E"
+   ],
+   "url": "https://www.manualslib.com/manual/3211578/Mars-Comfort-Aire-Century-Mcb18-Sa-Series.html"
+  },
+  {
+   "manualId": "3561359",
+   "slug": "Mars-Comfort-Aire-Century-L-Series",
+   "title": "Comfort-Aire Century L Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 42,
+   "productModel": "Comfort-Aire Century L Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3561359/Mars-Comfort-Aire-Century-L-Series.html"
+  },
+  {
+   "manualId": "4203117",
+   "slug": "Mars-Comfort-Aire-Century-Mb-Series",
+   "title": "Comfort-Aire Century MB 072 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 104,
+   "productModel": "Comfort-Aire Century MB 072 Series",
+   "extraModels": [
+    "Comfort-Aire Century MB 072 Series",
+    "Comfort-Aire Century MB 096 Series",
+    "Comfort-Aire Century MB 120 Series",
+    "Comfort-Aire Century MB 168 Series",
+    "Comfort-Aire Century MB 192 Series",
+    "Comfort-Aire Century MB 240 Series",
+    "Comfort-Aire Century MB 300 Series",
+    "Comfort-Aire Century MBB072ALC30C01S",
+    "Comfort-Aire Century MBB096AKC30E01S",
+    "Comfort-Aire Century MBB120AKCN0E01S",
+    "Comfort-Aire Century MBF072ALC30C01S",
+    "Comfort-Aire Century MBF120AKC30C01S",
+    "Comfort-Aire Century MBL072ALC30C01S",
+    "Comfort-Aire Century MBL096AKC30E01S",
+    "Comfort-Aire Century MBL096ALC30C01S",
+    "Comfort-Aire Century MBR096AKC30C01S"
+   ],
+   "url": "https://www.manualslib.com/manual/4203117/Mars-Comfort-Aire-Century-Mb-Series.html"
+  },
+  {
+   "manualId": "3001287",
+   "slug": "Mars-Comfort-Aire-Century-Mcd18b1a",
+   "title": "Comfort-aire Century MCD18B1A Owners & installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Comfort-aire Century MCD18B1A",
+   "extraModels": [
+    "Comfort-aire Century MCD24B1A",
+    "Comfort-aire Century MCD30C1A",
+    "Comfort-aire Century MCD36C1A",
+    "Comfort-aire Century MCD48C1A",
+    "Comfort-aire Century MCD60D1A"
+   ],
+   "url": "https://www.manualslib.com/manual/3001287/Mars-Comfort-Aire-Century-Mcd18b1a.html"
+  },
+  {
+   "manualId": "4155897",
+   "slug": "Mars-Comfort-Aire-Century-Mh-09-Series",
+   "title": "Comfort-Aire Century MH 09 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "Comfort-Aire Century MH 09 Series",
+   "extraModels": [
+    "Comfort-Aire Century MH 12 Series",
+    "Comfort-Aire Century MH 15 Series",
+    "Comfort-Aire Century MH 18 Series",
+    "Comfort-Aire Century MH 24 Series",
+    "Comfort-Aire Century MH 30 Series",
+    "Comfort-Aire Century MH 36 Series",
+    "Comfort-Aire Century MH809GA1DSSCAAA-CY",
+    "Comfort-Aire Century MH809GA1ESSCAAA-CY",
+    "Comfort-Aire Century MH812GA1ESMCAAA",
+    "Comfort-Aire Century MH812GA1ESSCAAA-CY",
+    "Comfort-Aire Century MHR09GA1DSMCAAA-CY",
+    "Comfort-Aire Century MHR09GA1ESSCAAA-CY"
+   ],
+   "url": "https://www.manualslib.com/manual/4155897/Mars-Comfort-Aire-Century-Mh-09-Series.html"
+  },
+  {
+   "manualId": "4181919",
+   "slug": "Mars-Comfort-Aire-Century-Mw-Series",
+   "title": "Comfort-Aire Century MW Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "Comfort-Aire Century MW Series",
+   "extraModels": [
+    "Comfort-Aire Century MW036",
+    "Comfort-Aire Century MW060",
+    "Comfort-Aire Century MW120",
+    "Comfort-Aire Century MWM036AFD00000S",
+    "Comfort-Aire Century MWM036AGDR0000S",
+    "Comfort-Aire Century MWM036AHD00000S",
+    "Comfort-Aire Century MWM060AFD00000S",
+    "Comfort-Aire Century MWM060AGDR0000S",
+    "Comfort-Aire Century MWM060AHD00000S",
+    "Comfort-Aire Century MWM120AGCR0000S",
+    "Comfort-Aire Century MWM120AGCR00P0S"
+   ],
+   "url": "https://www.manualslib.com/manual/4181919/Mars-Comfort-Aire-Century-Mw-Series.html"
+  },
+  {
+   "manualId": "4185704",
+   "slug": "Mars-Comfort-Aire-Century-Mxp18-24a1a",
+   "title": "Comfort-Aire Century MXP18/24A1A Owners & installation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "Comfort-Aire Century MXP18/24A1A",
+   "extraModels": [
+    "Comfort-Aire Century MXP18/24B1A",
+    "Comfort-Aire Century MXP24/36A1A",
+    "Comfort-Aire Century MXP24/36B1A",
+    "Comfort-Aire Century MXP24/36C1A",
+    "Comfort-Aire Century MXP48/60C1A",
+    "Comfort-Aire Century MXP48/60D1A"
+   ],
+   "url": "https://www.manualslib.com/manual/4185704/Mars-Comfort-Aire-Century-Mxp18-24a1a.html"
+  },
+  {
+   "manualId": "4120780",
+   "slug": "Mars-Comfort-Aire-Century-Premier-30-Me-Series",
+   "title": "COMFORT-AIRE Century PREMIER 30 ME Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "COMFORT-AIRE Century PREMIER 30 ME Series",
+   "extraModels": [
+    "COMFORT-AIRE Century PREMIER ME 024",
+    "COMFORT-AIRE Century PREMIER ME 036",
+    "COMFORT-AIRE Century PREMIER ME 048",
+    "COMFORT-AIRE Century PREMIER ME 060",
+    "COMFORT-AIRE Century PREMIER ME 072"
+   ],
+   "url": "https://www.manualslib.com/manual/4120780/Mars-Comfort-Aire-Century-Premier-30-Me-Series.html"
+  },
+  {
+   "manualId": "2388250",
+   "slug": "Mars-Comfort-Aire-Century-Ptac07a130b",
+   "title": "Comfort-Aire Century PTAC07A130B owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Comfort-Aire Century PTAC07A130B",
+   "extraModels": [
+    "Comfort-Aire Century PTAC09A130B",
+    "Comfort-Aire Century PTAC12A130B",
+    "Comfort-Aire Century PTAC12A130BSC",
+    "Comfort-Aire Century PTAC12A150B",
+    "Comfort-Aire Century PTAC12A150BSC",
+    "Comfort-Aire Century PTAC15A130B",
+    "Comfort-Aire Century PTAC15A130BSC",
+    "Comfort-Aire Century PTAC15A150BSC",
+    "Comfort-Aire Century PTHP07A130B",
+    "Comfort-Aire Century PTHP09A130B",
+    "Comfort-Aire Century PTHP12A130B",
+    "Comfort-Aire Century PTHP12A130BSC",
+    "Comfort-Aire Century PTHP12A150B",
+    "Comfort-Aire Century PTHP12A150BSC",
+    "Comfort-Aire Century PTHP15A130B",
+    "Comfort-Aire Century PTHP15A130BSC",
+    "Comfort-Aire Century PTHP15A150B",
+    "Comfort-Aire Century PTHP15A150BSC"
+   ],
+   "url": "https://www.manualslib.com/manual/2388250/Mars-Comfort-Aire-Century-Ptac07a130b.html"
+  },
+  {
+   "manualId": "3788692",
+   "slug": "Mars-Comfort-Aire-Century-Pthp15a250bsc",
+   "title": "Comfort-Aire Century PTAC07A130B owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Comfort-Aire Century PTAC07A130B",
+   "extraModels": [
+    "Comfort-Aire Century PTAC07A130B",
+    "Comfort-Aire Century PTAC09A130B",
+    "Comfort-Aire Century PTAC12A130B",
+    "Comfort-Aire Century PTAC12A130BSC",
+    "Comfort-Aire Century PTAC12A150B",
+    "Comfort-Aire Century PTAC12A150BSC",
+    "Comfort-Aire Century PTAC15A130B",
+    "Comfort-Aire Century PTAC15A130BSC",
+    "Comfort-Aire Century PTAC15A150B",
+    "Comfort-Aire Century PTAC15A150BSC",
+    "Comfort-Aire Century PTHP07A130B",
+    "Comfort-Aire Century PTHP09A130B",
+    "Comfort-Aire Century PTHP12A130B",
+    "Comfort-Aire Century PTHP12A130BSC",
+    "Comfort-Aire Century PTHP12A150B",
+    "Comfort-Aire Century PTHP12A150BSC",
+    "Comfort-Aire Century PTHP15A130B",
+    "Comfort-Aire Century PTHP15A130BSC",
+    "Comfort-Aire Century PTHP15A150B",
+    "Comfort-Aire Century PTHP15A150BSC"
+   ],
+   "url": "https://www.manualslib.com/manual/3788692/Mars-Comfort-Aire-Century-Pthp15a250bsc.html"
+  },
+  {
+   "manualId": "3788695",
+   "slug": "Mars-Comfort-Aire-Century-Pthp07a230bsc",
+   "title": "Comfort-Aire Century PTAC07A130B owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Comfort-Aire Century PTAC07A130B",
+   "extraModels": [
+    "Comfort-Aire Century PTAC07A130B",
+    "Comfort-Aire Century PTAC09A130B",
+    "Comfort-Aire Century PTAC12A130B",
+    "Comfort-Aire Century PTAC12A130BSC",
+    "Comfort-Aire Century PTAC12A150B",
+    "Comfort-Aire Century PTAC12A150BSC",
+    "Comfort-Aire Century PTAC15A130B",
+    "Comfort-Aire Century PTAC15A130BSC",
+    "Comfort-Aire Century PTAC15A150B",
+    "Comfort-Aire Century PTAC15A150BSC",
+    "Comfort-Aire Century PTHP07A130B",
+    "Comfort-Aire Century PTHP09A130B",
+    "Comfort-Aire Century PTHP12A130B",
+    "Comfort-Aire Century PTHP12A130BSC",
+    "Comfort-Aire Century PTHP12A150B",
+    "Comfort-Aire Century PTHP12A150BSC",
+    "Comfort-Aire Century PTHP15A130B",
+    "Comfort-Aire Century PTHP15A130BSC",
+    "Comfort-Aire Century PTHP15A150B",
+    "Comfort-Aire Century PTHP15A150BSC"
+   ],
+   "url": "https://www.manualslib.com/manual/3788695/Mars-Comfort-Aire-Century-Pthp07a230bsc.html"
+  },
+  {
+   "manualId": "3788697",
+   "slug": "Mars-Comfort-Aire-Century-Ptac15a250bsc",
+   "title": "Comfort-Aire Century PTAC07A130B owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Comfort-Aire Century PTAC07A130B",
+   "extraModels": [
+    "Comfort-Aire Century PTAC07A130B",
+    "Comfort-Aire Century PTAC09A130B",
+    "Comfort-Aire Century PTAC12A130B",
+    "Comfort-Aire Century PTAC12A130BSC",
+    "Comfort-Aire Century PTAC12A150B",
+    "Comfort-Aire Century PTAC12A150BSC",
+    "Comfort-Aire Century PTAC15A130B",
+    "Comfort-Aire Century PTAC15A130BSC",
+    "Comfort-Aire Century PTAC15A150B",
+    "Comfort-Aire Century PTAC15A150BSC",
+    "Comfort-Aire Century PTHP07A130B",
+    "Comfort-Aire Century PTHP09A130B",
+    "Comfort-Aire Century PTHP12A130B",
+    "Comfort-Aire Century PTHP12A130BSC",
+    "Comfort-Aire Century PTHP12A150B",
+    "Comfort-Aire Century PTHP12A150BSC",
+    "Comfort-Aire Century PTHP15A130B",
+    "Comfort-Aire Century PTHP15A130BSC",
+    "Comfort-Aire Century PTHP15A150B",
+    "Comfort-Aire Century PTHP15A150BSC"
+   ],
+   "url": "https://www.manualslib.com/manual/3788697/Mars-Comfort-Aire-Century-Ptac15a250bsc.html"
+  },
+  {
+   "manualId": "3788698",
+   "slug": "Mars-Comfort-Aire-Century-Pthp09a230bsc",
+   "title": "Comfort-Aire Century PTAC07A130B owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Comfort-Aire Century PTAC07A130B",
+   "extraModels": [
+    "Comfort-Aire Century PTAC07A130B",
+    "Comfort-Aire Century PTAC09A130B",
+    "Comfort-Aire Century PTAC12A130B",
+    "Comfort-Aire Century PTAC12A130BSC",
+    "Comfort-Aire Century PTAC12A150B",
+    "Comfort-Aire Century PTAC12A150BSC",
+    "Comfort-Aire Century PTAC15A130B",
+    "Comfort-Aire Century PTAC15A130BSC",
+    "Comfort-Aire Century PTAC15A150B",
+    "Comfort-Aire Century PTAC15A150BSC",
+    "Comfort-Aire Century PTHP07A130B",
+    "Comfort-Aire Century PTHP09A130B",
+    "Comfort-Aire Century PTHP12A130B",
+    "Comfort-Aire Century PTHP12A130BSC",
+    "Comfort-Aire Century PTHP12A150B",
+    "Comfort-Aire Century PTHP12A150BSC",
+    "Comfort-Aire Century PTHP15A130B",
+    "Comfort-Aire Century PTHP15A130BSC",
+    "Comfort-Aire Century PTHP15A150B",
+    "Comfort-Aire Century PTHP15A150BSC"
+   ],
+   "url": "https://www.manualslib.com/manual/3788698/Mars-Comfort-Aire-Century-Pthp09a230bsc.html"
+  },
+  {
+   "manualId": "4047550",
+   "slug": "Mars-Comfort-Aire-Century-Ptac12a230bsc",
+   "title": "Comfort-Aire Century PTAC07A130B owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Comfort-Aire Century PTAC07A130B",
+   "extraModels": [
+    "Comfort-Aire Century PTAC07A130B",
+    "Comfort-Aire Century PTAC09A130B",
+    "Comfort-Aire Century PTAC12A130B",
+    "Comfort-Aire Century PTAC12A130BSC",
+    "Comfort-Aire Century PTAC12A150B",
+    "Comfort-Aire Century PTAC12A150BSC",
+    "Comfort-Aire Century PTAC15A130B",
+    "Comfort-Aire Century PTAC15A130BSC",
+    "Comfort-Aire Century PTAC15A150B",
+    "Comfort-Aire Century PTAC15A150BSC",
+    "Comfort-Aire Century PTHP07A130B",
+    "Comfort-Aire Century PTHP09A130B",
+    "Comfort-Aire Century PTHP12A130B",
+    "Comfort-Aire Century PTHP12A130BSC",
+    "Comfort-Aire Century PTHP12A150B",
+    "Comfort-Aire Century PTHP12A150BSC",
+    "Comfort-Aire Century PTHP15A130B",
+    "Comfort-Aire Century PTHP15A130BSC",
+    "Comfort-Aire Century PTHP15A150B",
+    "Comfort-Aire Century PTHP15A150BSC"
+   ],
+   "url": "https://www.manualslib.com/manual/4047550/Mars-Comfort-Aire-Century-Ptac12a230bsc.html"
+  },
+  {
+   "manualId": "2325490",
+   "slug": "Mars-Comfort-Aire-Century-Ptac07f130a",
+   "title": "Comfort-aire Century PTAC07F130A owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Comfort-aire Century PTAC07F130A",
+   "extraModels": [
+    "Comfort-aire Century PTAC09F130A",
+    "Comfort-aire Century PTAC12F130A",
+    "Comfort-aire Century PTAC12F130ASC",
+    "Comfort-aire Century PTAC12F150A",
+    "Comfort-aire Century PTAC12F150ASC",
+    "Comfort-aire Century PTAC15F130A",
+    "Comfort-aire Century PTAC15F130ASC",
+    "Comfort-aire Century PTAC15F150A",
+    "Comfort-aire Century PTAC15F150ASC",
+    "Comfort-aire Century PTHP07F130A",
+    "Comfort-aire Century PTHP09F130A",
+    "Comfort-aire Century PTHP12F130A",
+    "Comfort-aire Century PTHP12F130ASC",
+    "Comfort-aire Century PTHP12F150A",
+    "Comfort-aire Century PTHP12F150ASC",
+    "Comfort-aire Century PTHP15F130A",
+    "Comfort-aire Century PTHP15F130ASC",
+    "Comfort-aire Century PTHP15F150A",
+    "Comfort-aire Century PTHP15F150ASC"
+   ],
+   "url": "https://www.manualslib.com/manual/2325490/Mars-Comfort-Aire-Century-Ptac07f130a.html"
+  },
+  {
+   "manualId": "4044028",
+   "slug": "Mars-Comfort-Aire-Century-Ptac12f230asc",
+   "title": "Comfort-aire Century PTAC07F130A owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Comfort-aire Century PTAC07F130A",
+   "extraModels": [
+    "Comfort-aire Century PTAC07F130A",
+    "Comfort-aire Century PTAC09F130A",
+    "Comfort-aire Century PTAC12F130A",
+    "Comfort-aire Century PTAC12F130ASC",
+    "Comfort-aire Century PTAC12F150A",
+    "Comfort-aire Century PTAC12F150ASC",
+    "Comfort-aire Century PTAC15F130A",
+    "Comfort-aire Century PTAC15F130ASC",
+    "Comfort-aire Century PTAC15F150A",
+    "Comfort-aire Century PTAC15F150ASC",
+    "Comfort-aire Century PTHP07F130A",
+    "Comfort-aire Century PTHP09F130A",
+    "Comfort-aire Century PTHP12F130A",
+    "Comfort-aire Century PTHP12F130ASC",
+    "Comfort-aire Century PTHP12F150A",
+    "Comfort-aire Century PTHP12F150ASC",
+    "Comfort-aire Century PTHP15F130A",
+    "Comfort-aire Century PTHP15F130ASC",
+    "Comfort-aire Century PTHP15F150A",
+    "Comfort-aire Century PTHP15F150ASC"
+   ],
+   "url": "https://www.manualslib.com/manual/4044028/Mars-Comfort-Aire-Century-Ptac12f230asc.html"
+  },
+  {
+   "manualId": "4044031",
+   "slug": "Mars-Comfort-Aire-Century-Pthp12f230asc",
+   "title": "Comfort-aire Century PTAC07F130A owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Comfort-aire Century PTAC07F130A",
+   "extraModels": [
+    "Comfort-aire Century PTAC07F130A",
+    "Comfort-aire Century PTAC09F130A",
+    "Comfort-aire Century PTAC12F130A",
+    "Comfort-aire Century PTAC12F130ASC",
+    "Comfort-aire Century PTAC12F150A",
+    "Comfort-aire Century PTAC12F150ASC",
+    "Comfort-aire Century PTAC15F130A",
+    "Comfort-aire Century PTAC15F130ASC",
+    "Comfort-aire Century PTAC15F150A",
+    "Comfort-aire Century PTAC15F150ASC",
+    "Comfort-aire Century PTHP07F130A",
+    "Comfort-aire Century PTHP09F130A",
+    "Comfort-aire Century PTHP12F130A",
+    "Comfort-aire Century PTHP12F130ASC",
+    "Comfort-aire Century PTHP12F150A",
+    "Comfort-aire Century PTHP12F150ASC",
+    "Comfort-aire Century PTHP15F130A",
+    "Comfort-aire Century PTHP15F130ASC",
+    "Comfort-aire Century PTHP15F150A",
+    "Comfort-aire Century PTHP15F150ASC"
+   ],
+   "url": "https://www.manualslib.com/manual/4044031/Mars-Comfort-Aire-Century-Pthp12f230asc.html"
+  },
+  {
+   "manualId": "4058881",
+   "slug": "Mars-Comfort-Aire-Century-Ptac07f230asc",
+   "title": "Comfort-aire Century PTAC07F130A owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Comfort-aire Century PTAC07F130A",
+   "extraModels": [
+    "Comfort-aire Century PTAC07F130A",
+    "Comfort-aire Century PTAC09F130A",
+    "Comfort-aire Century PTAC12F130A",
+    "Comfort-aire Century PTAC12F130ASC",
+    "Comfort-aire Century PTAC12F150A",
+    "Comfort-aire Century PTAC12F150ASC",
+    "Comfort-aire Century PTAC15F130A",
+    "Comfort-aire Century PTAC15F130ASC",
+    "Comfort-aire Century PTAC15F150A",
+    "Comfort-aire Century PTAC15F150ASC",
+    "Comfort-aire Century PTHP07F130A",
+    "Comfort-aire Century PTHP09F130A",
+    "Comfort-aire Century PTHP12F130A",
+    "Comfort-aire Century PTHP12F130ASC",
+    "Comfort-aire Century PTHP12F150A",
+    "Comfort-aire Century PTHP12F150ASC",
+    "Comfort-aire Century PTHP15F130A",
+    "Comfort-aire Century PTHP15F130ASC",
+    "Comfort-aire Century PTHP15F150A",
+    "Comfort-aire Century PTHP15F150ASC"
+   ],
+   "url": "https://www.manualslib.com/manual/4058881/Mars-Comfort-Aire-Century-Ptac07f230asc.html"
+  },
+  {
+   "manualId": "4122886",
+   "slug": "Mars-Comfort-Aire-Century-Pthp15f250asc",
+   "title": "Comfort-aire Century PTAC07F130A owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Comfort-aire Century PTAC07F130A",
+   "extraModels": [
+    "Comfort-aire Century PTAC07F130A",
+    "Comfort-aire Century PTAC09F130A",
+    "Comfort-aire Century PTAC12F130A",
+    "Comfort-aire Century PTAC12F130ASC",
+    "Comfort-aire Century PTAC12F150A",
+    "Comfort-aire Century PTAC12F150ASC",
+    "Comfort-aire Century PTAC15F130A",
+    "Comfort-aire Century PTAC15F130ASC",
+    "Comfort-aire Century PTAC15F150A",
+    "Comfort-aire Century PTAC15F150ASC",
+    "Comfort-aire Century PTHP07F130A",
+    "Comfort-aire Century PTHP09F130A",
+    "Comfort-aire Century PTHP12F130A",
+    "Comfort-aire Century PTHP12F130ASC",
+    "Comfort-aire Century PTHP12F150A",
+    "Comfort-aire Century PTHP12F150ASC",
+    "Comfort-aire Century PTHP15F130A",
+    "Comfort-aire Century PTHP15F130ASC",
+    "Comfort-aire Century PTHP15F150A",
+    "Comfort-aire Century PTHP15F150ASC"
+   ],
+   "url": "https://www.manualslib.com/manual/4122886/Mars-Comfort-Aire-Century-Pthp15f250asc.html"
+  },
+  {
+   "manualId": "3262819",
+   "slug": "Mars-Comfort-Aire-Century-Ptac07g130a",
+   "title": "Comfort-Aire Century PTAC07G130A Installation instruction",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Comfort-Aire Century PTAC07G130A",
+   "extraModels": [
+    "Comfort-Aire Century PTAC07G130A-CY",
+    "Comfort-Aire Century PTAC09G130A",
+    "Comfort-Aire Century PTAC09G130A-CY",
+    "Comfort-Aire Century PTAC12G130A",
+    "Comfort-Aire Century PTAC12G130A-CY",
+    "Comfort-Aire Century PTAC12G150A",
+    "Comfort-Aire Century PTAC12G150A-CY",
+    "Comfort-Aire Century PTAC15G130A",
+    "Comfort-Aire Century PTAC15G150A",
+    "Comfort-Aire Century PTHP07G130A",
+    "Comfort-Aire Century PTHP07G130A-CY",
+    "Comfort-Aire Century PTHP09G130A",
+    "Comfort-Aire Century PTHP09G130A-CY",
+    "Comfort-Aire Century PTHP12G130A",
+    "Comfort-Aire Century PTHP12G150A",
+    "Comfort-Aire Century PTHP15G130A",
+    "Comfort-Aire Century PTHP15G150A"
+   ],
+   "url": "https://www.manualslib.com/manual/3262819/Mars-Comfort-Aire-Century-Ptac07g130a.html"
+  },
+  {
+   "manualId": "2756270",
+   "slug": "Mars-Comfort-Aire-Century-Pttc09a-1",
+   "title": "COMFORT-AIRE Century PTTC09A-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "COMFORT-AIRE Century PTTC09A-1",
+   "extraModels": [
+    "COMFORT-AIRE Century PTTC12A-1",
+    "COMFORT-AIRE Century PTTC12A-1-CY",
+    "COMFORT-AIRE Century PTTE09A-1",
+    "COMFORT-AIRE Century PTTE12A-1",
+    "COMFORT-AIRE Century PTTH09A-1",
+    "COMFORT-AIRE Century PTTH09A-1-CY",
+    "COMFORT-AIRE Century PTTH12A-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2756270/Mars-Comfort-Aire-Century-Pttc09a-1.html"
+  },
+  {
+   "manualId": "3386254",
+   "slug": "Mars-Comfort-Aire-Century-Pttc09b-1",
+   "title": "COMFORT-AIRE Century PTTC09B-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "COMFORT-AIRE Century PTTC09B-1",
+   "extraModels": [
+    "COMFORT-AIRE Century PTTC09B-1-CY",
+    "COMFORT-AIRE Century PTTC12B-1",
+    "COMFORT-AIRE Century PTTC12B-1-CY",
+    "COMFORT-AIRE Century PTTE09B-1",
+    "COMFORT-AIRE Century PTTE12B-1",
+    "COMFORT-AIRE Century PTTE12B-1-CY",
+    "COMFORT-AIRE Century PTTH09B-1",
+    "COMFORT-AIRE Century PTTH09B-1-CY",
+    "COMFORT-AIRE Century PTTH12B-1",
+    "COMFORT-AIRE Century PTTH12B-1-CY"
+   ],
+   "url": "https://www.manualslib.com/manual/3386254/Mars-Comfort-Aire-Century-Pttc09b-1.html"
+  },
+  {
+   "manualId": "3262840",
+   "slug": "Mars-Comfort-Aire-Century-Pttc09c-1",
+   "title": "Comfort-Aire Century PTTC09C-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Comfort-Aire Century PTTC09C-1",
+   "extraModels": [
+    "Comfort-Aire Century PTTC12C-1",
+    "Comfort-Aire Century PTTC12C-1-CY",
+    "Comfort-Aire Century PTTE09C-1",
+    "Comfort-Aire Century PTTE12C-1",
+    "Comfort-Aire Century PTTE12C-1-CY",
+    "Comfort-Aire Century PTTH09C-1",
+    "Comfort-Aire Century PTTH12C-1"
+   ],
+   "url": "https://www.manualslib.com/manual/3262840/Mars-Comfort-Aire-Century-Pttc09c-1.html"
+  },
+  {
+   "manualId": "3386278",
+   "slug": "Mars-Comfort-Aire-Century-Pttc12c-1",
+   "title": "Comfort-Aire Century PTTC09C-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Comfort-Aire Century PTTC09C-1",
+   "extraModels": [
+    "Comfort-Aire Century PTTC09C-1",
+    "Comfort-Aire Century PTTC09C-1-CY",
+    "Comfort-Aire Century PTTE09C-1",
+    "Comfort-Aire Century PTTE12C-1",
+    "Comfort-Aire Century PTTH09C-1",
+    "Comfort-Aire Century PTTH12C-1"
+   ],
+   "url": "https://www.manualslib.com/manual/3386278/Mars-Comfort-Aire-Century-Pttc12c-1.html"
+  },
+  {
+   "manualId": "3092488",
+   "slug": "Mars-Comfort-Aire-Century-Reg-81r01",
+   "title": "Comfort-Aire Century REG-123R01 owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "Comfort-Aire Century REG-123R01",
+   "extraModels": [
+    "Comfort-Aire Century REG-123R01"
+   ],
+   "url": "https://www.manualslib.com/manual/3092488/Mars-Comfort-Aire-Century-Reg-81r01.html"
+  },
+  {
+   "manualId": "3168389",
+   "slug": "Mars-Comfort-Aire-Century-Reg-183r01",
+   "title": "Comfort-Aire Century REG-253R01 owner's manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "Comfort-Aire Century REG-253R01",
+   "extraModels": [
+    "Comfort-Aire Century REG-253R01",
+    "Comfort-Aire REG-243R01"
+   ],
+   "url": "https://www.manualslib.com/manual/3168389/Mars-Comfort-Aire-Century-Reg-183r01.html"
+  },
+  {
+   "manualId": "4024681",
+   "slug": "Mars-Comfort-Aire-Century-Sac14-S1a-Series",
+   "title": "Comfort-Aire Century SAC14 S1A Series instruction manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "Comfort-Aire Century SAC14 S1A Series",
+   "extraModels": [
+    "Comfort-Aire Century SE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4024681/Mars-Comfort-Aire-Century-Sac14-S1a-Series.html"
+  },
+  {
+   "manualId": "3368324",
+   "slug": "Mars-Comfort-Aire-Century-Se-Series",
+   "title": "Comfort-Aire Century SE Series instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Comfort-Aire Century SE Series",
+   "extraModels": [
+    "Comfort-Aire Century AMC S1A Series",
+    "Comfort-Aire Century AMC36S1A",
+    "Comfort-Aire Century ECM"
+   ],
+   "url": "https://www.manualslib.com/manual/3368324/Mars-Comfort-Aire-Century-Se-Series.html"
+  },
+  {
+   "manualId": "3392832",
+   "slug": "Mars-Comfort-Aire-Century-Se-Series",
+   "title": "Comfort-Aire Century SE Series instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Comfort-Aire Century SE Series",
+   "extraModels": [
+    "Comfort-Aire Century MAA S1A Series",
+    "Comfort-Aire Century MAA1836AS1A",
+    "Comfort-Aire Century MAA1836BS1A",
+    "Comfort-Aire Century MAA1836CS1A",
+    "Comfort-Aire Century MAA1842BS1A",
+    "Comfort-Aire Century MAA1842CS1A",
+    "Comfort-Aire Century MAA3042BS1A",
+    "Comfort-Aire Century MAA3042CS1A",
+    "Comfort-Aire Century MAA3642DS1A",
+    "Comfort-Aire Century MAA3648DS1A",
+    "Comfort-Aire Century MAA3660CS1A",
+    "Comfort-Aire Century MAA4260DS1A"
+   ],
+   "url": "https://www.manualslib.com/manual/3392832/Mars-Comfort-Aire-Century-Se-Series.html"
+  },
+  {
+   "manualId": "3393207",
+   "slug": "Mars-Comfort-Aire-Century-Se-Series",
+   "title": "Comfort-Aire Century SE Series instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Comfort-Aire Century SE Series",
+   "extraModels": [
+    "Comfort-Aire Century RSH15 S1A Series",
+    "Comfort-Aire Century RSH1518S1A",
+    "Comfort-Aire Century RSH1518S1A-CY",
+    "Comfort-Aire Century RSH1524S1A",
+    "Comfort-Aire Century RSH1530S1A",
+    "Comfort-Aire Century RSH1536S1A",
+    "Comfort-Aire Century RSH1542S1A",
+    "Comfort-Aire Century RSH1548S1A",
+    "Comfort-Aire Century RSH1560S1A",
+    "Comfort-Aire Century RSH1561S1A",
+    "RSA1518S1A",
+    "RSA1524S1A",
+    "RSA1530S1A",
+    "RSA1536S1A",
+    "RSA1542S1A",
+    "RSA1548S1A",
+    "RSA1560S1A",
+    "RSA1561S1A"
+   ],
+   "url": "https://www.manualslib.com/manual/3393207/Mars-Comfort-Aire-Century-Se-Series.html"
+  },
+  {
+   "manualId": "3435014",
+   "slug": "Mars-Comfort-Aire-Century-Se-Series",
+   "title": "Comfort-Aire Century SE Series instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Comfort-Aire Century SE Series",
+   "extraModels": [
+    "Comfort-Aire Century RHP S1A Series",
+    "Comfort-Aire Century RHP24S1A",
+    "Comfort-Aire Century RHP36S1A",
+    "Comfort-Aire Century RHP48S1A",
+    "Comfort-Aire Century RHP60S1A"
+   ],
+   "url": "https://www.manualslib.com/manual/3435014/Mars-Comfort-Aire-Century-Se-Series.html"
+  },
+  {
+   "manualId": "4035002",
+   "slug": "Mars-Comfort-Aire-Century-Maa-S1a-Series",
+   "title": "Comfort-Aire Century SE Series instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Comfort-Aire Century SE Series",
+   "extraModels": [
+    "Comfort-Aire Century SE Series",
+    "Comfort-Aire Century MAA1836AS1A",
+    "Comfort-Aire Century MAA1836BS1A",
+    "Comfort-Aire Century MAA1836CS1A",
+    "Comfort-Aire Century MAA1842BS1A",
+    "Comfort-Aire Century MAA1842CS1A",
+    "Comfort-Aire Century MAA3042BS1A",
+    "Comfort-Aire Century MAA3042CS1A",
+    "Comfort-Aire Century MAA3642DS1A",
+    "Comfort-Aire Century MAA3648DS1A",
+    "Comfort-Aire Century MAA3660CS1A",
+    "Comfort-Aire Century MAA4260DS1A",
+    "Comfort-Aire Century HCMAA1836BS1A",
+    "Comfort-Aire Century HCMAA1836CS1A",
+    "Comfort-Aire Century HCMAA4260DS1A"
+   ],
+   "url": "https://www.manualslib.com/manual/4035002/Mars-Comfort-Aire-Century-Maa-S1a-Series.html"
+  },
+  {
+   "manualId": "4087569",
+   "slug": "Mars-Comfort-Aire-Century-Scc1836as1a",
+   "title": "Comfort-Aire Century SE Series instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Comfort-Aire Century SE Series",
+   "extraModels": [
+    "Comfort-Aire Century SE Series",
+    "Comfort-Aire Century SCC1836BS1A",
+    "Comfort-Aire Century SCC1836CS1A",
+    "Comfort-Aire Century SCC1842BS1A",
+    "Comfort-Aire Century SCC1842CS1A",
+    "Comfort-Aire Century SCC3042BS1A",
+    "Comfort-Aire Century SCC3042CS1A",
+    "Comfort-Aire Century SCC3642DS1A",
+    "Comfort-Aire Century SCC3648DS1A",
+    "Comfort-Aire Century SCC3660CS1A",
+    "Comfort-Aire Century SCC4260DS1A"
+   ],
+   "url": "https://www.manualslib.com/manual/4087569/Mars-Comfort-Aire-Century-Scc1836as1a.html"
+  },
+  {
+   "manualId": "4159483",
+   "slug": "Mars-Comfort-Aire-Century-Se-Series",
+   "title": "Comfort-Aire Century SE Series instruction manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "Comfort-Aire Century SE Series",
+   "extraModels": [
+    "Comfort-aire Century SRGP S1A Series",
+    "Comfort-aire Century SRGP2460S1A",
+    "Comfort-aire Century SRGP3060S1A",
+    "Comfort-aire Century SRGP3690S1A",
+    "Comfort-aire Century SRGP4290S1A",
+    "Comfort-aire Century SRGP4890S1A",
+    "Comfort-aire Century SRGP60110S1A",
+    "Comfort-aire Century SRGP6090S1A"
+   ],
+   "url": "https://www.manualslib.com/manual/4159483/Mars-Comfort-Aire-Century-Se-Series.html"
+  },
+  {
+   "manualId": "4197184",
+   "slug": "Mars-Comfort-Aire-Century-Rsa14-S1a-Series",
+   "title": "Comfort-Aire Century SE Series instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Comfort-Aire Century SE Series",
+   "extraModels": [
+    "Comfort-Aire Century SE Series",
+    "Comfort-Aire Century RSA1418S1A",
+    "Comfort-Aire Century RSA1424S1A",
+    "Comfort-Aire Century RSA1430S1A",
+    "Comfort-Aire Century RSA1436S1A",
+    "Comfort-Aire Century RSA1442S1A",
+    "Comfort-Aire Century RSA1448S1A",
+    "Comfort-Aire Century RSA1460S1A"
+   ],
+   "url": "https://www.manualslib.com/manual/4197184/Mars-Comfort-Aire-Century-Rsa14-S1a-Series.html"
+  },
+  {
+   "manualId": "4204523",
+   "slug": "Mars-Comfort-Aire-Century-Se-Srhp-S1a-Series",
+   "title": "Comfort-aire Century SRGP S1A Series instruction manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "Comfort-aire Century SRGP S1A Series",
+   "extraModels": [
+    "Comfort-Aire Century Se SRHP2400S1A",
+    "Comfort-Aire Century Se SRHP3600S1A",
+    "Comfort-Aire Century Se SRHP4800S1A",
+    "Comfort-Aire Century Se SRHP6000S1A"
+   ],
+   "url": "https://www.manualslib.com/manual/4204523/Mars-Comfort-Aire-Century-Se-Srhp-S1a-Series.html"
+  },
+  {
+   "manualId": "4189775",
+   "slug": "Mars-Comfort-Aire-Century-Ssp-Series",
+   "title": "Comfort-Aire Century SSP Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 53,
+   "productModel": "Comfort-Aire Century SSP Series",
+   "extraModels": [
+    "Comfort-Aire Century SSP09SA-0",
+    "Comfort-Aire Century SSP09SA-1",
+    "Comfort-Aire Century SSP12SA-0",
+    "Comfort-Aire Century SSP12SA-1",
+    "Comfort-Aire Century SSP18SA-1",
+    "Comfort-Aire Century SSP24SA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4189775/Mars-Comfort-Aire-Century-Ssp-Series.html"
+  },
+  {
+   "manualId": "1863837",
+   "slug": "Mars-Comfort-Aire-Century-Svh-Series",
+   "title": "Comfort-Aire Century SVH 09 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "Comfort-Aire Century SVH 09 Series",
+   "extraModels": [
+    "Comfort-Aire Century SVH 09 Series",
+    "Comfort-Aire Century SVH 12 Series",
+    "Comfort-Aire Century SVH 18 Series",
+    "Comfort-Aire Century SVH 24 Series",
+    "Comfort-Aire Century SVH09SA-0",
+    "Comfort-Aire Century SVH09SA-1",
+    "Comfort-Aire Century SVH12SA-0",
+    "Comfort-Aire Century SVH12SA-1",
+    "Comfort-Aire Century SVH18SA-1",
+    "Comfort-Aire Century SVH24SA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/1863837/Mars-Comfort-Aire-Century-Svh-Series.html"
+  },
+  {
+   "manualId": "2351841",
+   "slug": "Mars-Comfort-Aire-Century-Svh-Sb-Series",
+   "title": "Comfort-Aire Century SVH-SB Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Comfort-Aire Century SVH-SB Series",
+   "extraModels": [
+    "Comfort-Aire Century SVH09SB-0",
+    "Comfort-Aire Century SVH09SB-1",
+    "Comfort-Aire Century SVH12SB-0",
+    "Comfort-Aire Century SVH12SB-1",
+    "Comfort-Aire Century SVH18SB-1",
+    "Comfort-Aire Century SVH24SB-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2351841/Mars-Comfort-Aire-Century-Svh-Sb-Series.html"
+  },
+  {
+   "manualId": "3270405",
+   "slug": "Mars-Comfort-Aire-Century-Svh09sb-0",
+   "title": "Comfort-Aire Century SVH-SB Series Service manual",
+   "type": "Service",
+   "pages": 156,
+   "productModel": "Comfort-Aire Century SVH-SB Series",
+   "extraModels": [
+    "Comfort-Aire Century SVH-SB Series",
+    "Comfort-Aire Century SVH09SB-1",
+    "Comfort-Aire Century SVH12SB-0",
+    "Comfort-Aire Century SVH12SB-1",
+    "Comfort-Aire Century SVH18SB-1",
+    "Comfort-Aire Century SVH24SB-1"
+   ],
+   "url": "https://www.manualslib.com/manual/3270405/Mars-Comfort-Aire-Century-Svh09sb-0.html"
+  },
+  {
+   "manualId": "2897723",
+   "slug": "Mars-Comfort-Aire-Century-A-Vmh18dv-1",
+   "title": "Comfort-Aire Century UltraV Series installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Comfort-Aire Century UltraV Series",
+   "extraModels": [
+    "Comfort-Aire Century UltraV Series",
+    "Comfort-Cure Century A-VMH28TV-1",
+    "Comfort-Cure Century A-VMH36QV-1",
+    "Comfort-Cure Century A-VMH48PV-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2897723/Mars-Comfort-Aire-Century-A-Vmh18dv-1.html"
+  },
+  {
+   "manualId": "3202216",
+   "slug": "Mars-Comfort-Aire-Century-Vcd60sa",
+   "title": "Comfort-Aire Century VCD-SA Series Service manual",
+   "type": "Service",
+   "pages": 232,
+   "productModel": "Comfort-Aire Century VCD-SA Series",
+   "extraModels": [
+    "Comfort-Aire Century VCD-SA Series",
+    "Comfort-Aire Century VCD18SA",
+    "Comfort-Aire Century VCD24SA",
+    "Comfort-Aire Century VCD30SA",
+    "Comfort-Aire Century VCD36SA",
+    "Comfort-Aire Century VCD48SA"
+   ],
+   "url": "https://www.manualslib.com/manual/3202216/Mars-Comfort-Aire-Century-Vcd60sa.html"
+  },
+  {
+   "manualId": "3216383",
+   "slug": "Mars-Comfort-Aire-Century-Vcd30-Sa-Series",
+   "title": "Comfort-Aire Century VCD18 SA Series Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Comfort-Aire Century VCD18 SA Series",
+   "extraModels": [
+    "Comfort-Aire Century VCD18 SA Series",
+    "Comfort-Aire Century VCD24 SA Series",
+    "Comfort-Aire Century VCD36 SA Series",
+    "Comfort-Aire Century VCD48 SA Series",
+    "Comfort-Aire Century VCD60 SA Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3216383/Mars-Comfort-Aire-Century-Vcd30-Sa-Series.html"
+  },
+  {
+   "manualId": "3207053",
+   "slug": "Mars-Comfort-Aire-Century-Vcd18-Sa-Series",
+   "title": "Comfort-Aire Century VCD18 SA Series owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Comfort-Aire Century VCD18 SA Series",
+   "extraModels": [
+    "Comfort-Aire Century VCD24 SA Series",
+    "Comfort-Aire Century VCD30 SA Series",
+    "Comfort-Aire Century VCD36 SA Series",
+    "Comfort-Aire Century VCD48 SA Series",
+    "Comfort-Aire Century VCD60 SA Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3207053/Mars-Comfort-Aire-Century-Vcd18-Sa-Series.html"
+  },
+  {
+   "manualId": "3005309",
+   "slug": "Mars-Comfort-Aire-Century-Vcd24-Sa-Series",
+   "title": "Comfort-Aire Century VCD24 SA Series installation manual",
+   "type": "Installation",
+   "pages": 49,
+   "productModel": "Comfort-Aire Century VCD24 SA Series",
+   "extraModels": [
+    "Comfort-Aire Century VCD30 SA Series",
+    "Comfort-Aire Century VCD36 SA Series",
+    "Comfort-Aire Century VCD48 SA Series",
+    "Comfort-Aire Century VCD60 SA Series",
+    "ECD10KW Series",
+    "ECD15KW Series",
+    "ECD20KW Series",
+    "ECD25KW Series",
+    "ECD8KW Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3005309/Mars-Comfort-Aire-Century-Vcd24-Sa-Series.html"
+  },
+  {
+   "manualId": "3209258",
+   "slug": "Mars-Confort-Aire-Century-Vcd18-Series",
+   "title": "Comfort-Aire Century VCD60 SA Series installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Comfort-Aire Century VCD60 SA Series",
+   "extraModels": [
+    "Comfort-Aire Century VCD60 SA Series",
+    "Confort-Aire Century VCD24 Series",
+    "Confort-Aire Century VCD30 Series",
+    "Confort-Aire Century VCD36 Series",
+    "Confort-Aire Century VCD48 Series",
+    "ECD10KW Series",
+    "ECD15KW Series",
+    "ECD20KW Series",
+    "ECD25KW Series",
+    "ECD3KW Series",
+    "ECD5KW Series",
+    "ECD8KW Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3209258/Mars-Confort-Aire-Century-Vcd18-Series.html"
+  },
+  {
+   "manualId": "4358308",
+   "slug": "Mars-Comfort-Aire-Century-Vhp-Sa-Series",
+   "title": "Comfort-Aire Century VHP-SA Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Comfort-Aire Century VHP-SA Series",
+   "extraModels": [
+    "Comfort-Aire Century VHP183SA-1",
+    "Comfort-Aire Century VHP284SA-1",
+    "Comfort-Aire Century VHP365SA-1",
+    "Comfort-Aire Century VHP486SA-1",
+    "Comfort-Aire Century VHP556SA-1"
+   ],
+   "url": "https://www.manualslib.com/manual/4358308/Mars-Comfort-Aire-Century-Vhp-Sa-Series.html"
+  },
+  {
+   "manualId": "3201692",
+   "slug": "Mars-Comfort-Aire-Century-Vmh-30-Sg-Series",
+   "title": "Comfort-Aire Century VMH 30 SG Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Comfort-Aire Century VMH 30 SG Series",
+   "extraModels": [
+    "Comfort-Aire Century VMH 36 SG Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3201692/Mars-Comfort-Aire-Century-Vmh-30-Sg-Series.html"
+  },
+  {
+   "manualId": "3537892",
+   "slug": "Mars-Comfort-Aire-Century-Vmh09-Sv-Series",
+   "title": "Comfort-Aire Century VMH06 SV Series installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Comfort-Aire Century VMH06 SV Series",
+   "extraModels": [
+    "Comfort-Aire Century VMH06 SV Series",
+    "Comfort-Aire Century VMH12 SV Series",
+    "Comfort-Aire Century VMH18 SV Series",
+    "Comfort-Aire Century VMH24 SV Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3537892/Mars-Comfort-Aire-Century-Vmh09-Sv-Series.html"
+  },
+  {
+   "manualId": "3277121",
+   "slug": "Mars-Comfort-Aire-Century-Vmh06-Sv-Series",
+   "title": "Comfort-Aire Century VMH06 SV Series user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Comfort-Aire Century VMH06 SV Series",
+   "extraModels": [
+    "Comfort-Aire Century VMH09 SV Series",
+    "Comfort-Aire Century VMH12 SV Series",
+    "Comfort-Aire Century VMH18 SV Series",
+    "Comfort-Aire Century VMH24 SV Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3277121/Mars-Comfort-Aire-Century-Vmh06-Sv-Series.html"
+  },
+  {
+   "manualId": "1639315",
+   "slug": "Mars-Comfort-Aire-Century-Whdehum-90p",
+   "title": "Comfort-Aire Century WHDEHUM-90P Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Comfort-Aire Century WHDEHUM-90P",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1639315/Mars-Comfort-Aire-Century-Whdehum-90p.html"
+  },
+  {
+   "manualId": "2080434",
+   "slug": "Mars-Comfort-Aire-Cma12sd-0",
+   "title": "COMFORT-AIRE CMA12SD-0 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "COMFORT-AIRE CMA12SD-0",
+   "extraModels": [
+    "COMFORT-AIRE CMA18SD-1",
+    "COMFORT-AIRE CMA24SD-1",
+    "COMFORT-AIRE CMA30SD-1",
+    "COMFORT-AIRE CMA36SD-1",
+    "COMFORT-AIRE CMA48SD-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2080434/Mars-Comfort-Aire-Cma12sd-0.html"
+  },
+  {
+   "manualId": "2347741",
+   "slug": "Mars-Comfort-Aire-Cma1412sg-0",
+   "title": "Comfort-Aire CMA1412SG-0 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "Comfort-Aire CMA1412SG-0",
+   "extraModels": [
+    "Comfort-Aire CMA1418SG-1",
+    "Comfort-Aire CMA1424SG-1",
+    "Comfort-Aire CMA1430SG-1",
+    "Comfort-Aire CMA1436SG-1",
+    "Comfort-Aire CMA1448SG-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2347741/Mars-Comfort-Aire-Cma1412sg-0.html"
+  },
+  {
+   "manualId": "1904307",
+   "slug": "Mars-Comfort-Aire-Ft-4230dxo-Pbl",
+   "title": "Comfort-Aire FT-4230DxO-PBL owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Comfort-Aire FT-4230DxO-PBL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1904307/Mars-Comfort-Aire-Ft-4230dxo-Pbl.html"
+  },
+  {
+   "manualId": "3131434",
+   "slug": "Mars-Comfort-Aire-Ps-81d",
+   "title": "Comfort-Aire PS-101D Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "Comfort-Aire PS-101D",
+   "extraModels": [
+    "Comfort-Aire PS-101D"
+   ],
+   "url": "https://www.manualslib.com/manual/3131434/Mars-Comfort-Aire-Ps-81d.html"
+  },
+  {
+   "manualId": "3038598",
+   "slug": "Mars-Comfort-Aire-Ps-81g",
+   "title": "COMFORT-AIRE PS-101G Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "COMFORT-AIRE PS-101G",
+   "extraModels": [
+    "COMFORT-AIRE PS-101G"
+   ],
+   "url": "https://www.manualslib.com/manual/3038598/Mars-Comfort-Aire-Ps-81g.html"
+  },
+  {
+   "manualId": "1632841",
+   "slug": "Mars-Comfort-Aire-Ps-121c",
+   "title": "Comfort-Aire PS-121C Control manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "Comfort-Aire PS-121C",
+   "extraModels": [
+    "Comfort-Aire PSH-141C"
+   ],
+   "url": "https://www.manualslib.com/manual/1632841/Mars-Comfort-Aire-Ps-121c.html"
+  },
+  {
+   "manualId": "2274257",
+   "slug": "Mars-Comfort-Aire-Ps-121c",
+   "title": "Comfort-Aire PS-121C Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "Comfort-Aire PS-121C",
+   "extraModels": [
+    "Comfort-Aire PSH-141C"
+   ],
+   "url": "https://www.manualslib.com/manual/2274257/Mars-Comfort-Aire-Ps-121c.html"
+  },
+  {
+   "manualId": "2366447",
+   "slug": "Mars-Comfort-Aire-Psh-141d",
+   "title": "COMFORT-AIRE PS-121D Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "COMFORT-AIRE PS-121D",
+   "extraModels": [
+    "COMFORT-AIRE PS-121D"
+   ],
+   "url": "https://www.manualslib.com/manual/2366447/Mars-Comfort-Aire-Psh-141d.html"
+  },
+  {
+   "manualId": "2324832",
+   "slug": "Mars-Comfort-Aire-Ps-121d",
+   "title": "COMFORT-AIRE PS-121D Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "COMFORT-AIRE PS-121D",
+   "extraModels": [
+    "COMFORT-AIRE PSH-141D"
+   ],
+   "url": "https://www.manualslib.com/manual/2324832/Mars-Comfort-Aire-Ps-121d.html"
+  },
+  {
+   "manualId": "4195360",
+   "slug": "Mars-Comfort-Aire-R09a-Bg-C-E",
+   "title": "COMFORT-AIRE R09/BG(C)E Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "COMFORT-AIRE R09/BG(C)E",
+   "extraModels": [
+    "COMFORT-AIRE R09/BG(C)E",
+    "COMFORT-AIRE R09B/BG(C)E",
+    "COMFORT-AIRE R09C/BG(C)E",
+    "COMFORT-AIRE RG09B/BG(C)EF"
+   ],
+   "url": "https://www.manualslib.com/manual/4195360/Mars-Comfort-Aire-R09a-Bg-C-E.html"
+  },
+  {
+   "manualId": "2648709",
+   "slug": "Mars-Rg-Series",
+   "title": "Comfort-Aire RAD-283Q owner's manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "Comfort-Aire RAD-283Q",
+   "extraModels": [
+    "Comfort-Aire RAD-283Q",
+    "Comfort-Aire RAD-283S",
+    "Comfort-Aire RADS-101Q",
+    "Comfort-Aire RADS-101R01",
+    "Comfort-Aire RADS-121Q",
+    "Comfort-Aire RADS-121R01",
+    "Comfort-Aire RADS-151Q",
+    "Comfort-Aire RADS-151R01",
+    "Comfort-Aire RADS-183Q",
+    "Comfort-Aire RADS-183S",
+    "Comfort-Aire RADS-253Q",
+    "Comfort-Aire RADS-253S",
+    "Comfort-Aire RADS-51Q",
+    "Comfort-Aire RADS-61Q",
+    "Comfort-Aire RADS-61R",
+    "Comfort-Aire RADS-81Q",
+    "Comfort-Aire RADS-81R01",
+    "Comfort-Aire REG-183R",
+    "Comfort-Aire REG-253R",
+    "Comfort-Aire RG-51Q",
+    "RADS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2648709/Mars-Rg-Series.html"
+  },
+  {
+   "manualId": "3104465",
+   "slug": "Mars-Comfort-Aire-Rg-Series",
+   "title": "Comfort-Aire RAD-283S owner's manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "Comfort-Aire RAD-283S",
+   "extraModels": [
+    "Comfort-Aire RAD-283S",
+    "Comfort-Aire RADS Series",
+    "Comfort-Aire RADS-101Q",
+    "Comfort-Aire RADS-101R",
+    "Comfort-Aire RADS-121Q",
+    "Comfort-Aire RADS-121R",
+    "Comfort-Aire RADS-151Q",
+    "Comfort-Aire RADS-151R",
+    "Comfort-Aire RADS-183Q",
+    "Comfort-Aire RADS-183S",
+    "Comfort-Aire RADS-253Q",
+    "Comfort-Aire RADS-253S",
+    "Comfort-Aire RADS-283Q",
+    "Comfort-Aire RADS-51Q",
+    "Comfort-Aire RADS-61Q",
+    "Comfort-Aire RADS-61R",
+    "Comfort-Aire RADS-81Q",
+    "Comfort-Aire RADS-81R",
+    "Comfort-Aire REG-183R",
+    "Comfort-Aire REG-253R",
+    "Comfort-Aire RG-51Q"
+   ],
+   "url": "https://www.manualslib.com/manual/3104465/Mars-Comfort-Aire-Rg-Series.html"
+  },
+  {
+   "manualId": "4327463",
+   "slug": "Mars-Comfort-Aire-Rg-Series",
+   "title": "Comfort-Aire RADS Series owner's manual",
+   "type": "User / Owner",
+   "pages": 102,
+   "productModel": "Comfort-Aire RADS Series",
+   "extraModels": [
+    "Comfort-Aire RADS Series",
+    "Comfort-Aire RADS-101R",
+    "Comfort-Aire RADS-121R",
+    "Comfort-Aire RADS-151R",
+    "Comfort-Aire RADS-51Q",
+    "Comfort-Aire RADS-61R",
+    "Comfort-Aire RADS-81R",
+    "Comfort-Aire RG-51Q"
+   ],
+   "url": "https://www.manualslib.com/manual/4327463/Mars-Comfort-Aire-Rg-Series.html"
+  },
+  {
+   "manualId": "2369392",
+   "slug": "Mars-Comfort-Aire-Rah-123m",
+   "title": "Comfort-Aire RAH-123M owner's manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "Comfort-Aire RAH-123M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2369392/Mars-Comfort-Aire-Rah-123m.html"
+  },
+  {
+   "manualId": "3411033",
+   "slug": "Mars-Comfort-Aire-Rah-183r",
+   "title": "COMFORT-AIRE RAH-183R owner's manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "COMFORT-AIRE RAH-183R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3411033/Mars-Comfort-Aire-Rah-183r.html"
+  },
+  {
+   "manualId": "2524137",
+   "slug": "Mars-Comfort-Aire-Rg10g-D2-Bgefu1",
+   "title": "COMFORT-AIRE RG10F(D2)/BGEF Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "COMFORT-AIRE RG10F(D2)/BGEF",
+   "extraModels": [
+    "COMFORT-AIRE RG10F(D2)/BGEF",
+    "COMFORT-AIRE RG10F1(D2)/BGEF",
+    "COMFORT-AIRE RG10F2(D2)/BGEFU1",
+    "COMFORT-AIRE RG10F3(D2)/BGEFU1",
+    "COMFORT-AIRE RG10G1(D2)/BGEFU1",
+    "COMFORT-AIRE RG10G2(D2)/BGEFU1",
+    "COMFORT-AIRE RG10G3(D2)/BGEFU1",
+    "RG10F/BGEF",
+    "RG10F1/BGEF",
+    "RG10F2/BGEFU1",
+    "RG10F3/BGEFU1",
+    "RG10G/BGEFU1",
+    "RG10G1/BGEFU1",
+    "RG10G2/BGEFU1",
+    "RG10G3/BGEFU1"
+   ],
+   "url": "https://www.manualslib.com/manual/2524137/Mars-Comfort-Aire-Rg10g-D2-Bgefu1.html"
+  },
+  {
+   "manualId": "2520674",
+   "slug": "Mars-Comfort-Aire-Rg51g1-Cefu1",
+   "title": "Comfort-Aire RG51G1/CEFU1 owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Comfort-Aire RG51G1/CEFU1",
+   "extraModels": [
+    "Comfort-Aire RG51G1/EFU1",
+    "Comfort-Aire RG51G11/EFU1",
+    "Comfort-Aire RG51G41/EU1",
+    "Comfort-Aire RG51G51/EU1"
+   ],
+   "url": "https://www.manualslib.com/manual/2520674/Mars-Comfort-Aire-Rg51g1-Cefu1.html"
+  },
+  {
+   "manualId": "2781291",
+   "slug": "Mars-Comfort-Aire-Rxts-Series",
+   "title": "Comfort-Aire RXTS Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Comfort-Aire RXTS Series",
+   "extraModels": [
+    "Comfort-aire RXTS-101A",
+    "Comfort-aire RXTS-121A",
+    "Comfort-aire RXTS-81A"
+   ],
+   "url": "https://www.manualslib.com/manual/2781291/Mars-Comfort-Aire-Rxts-Series.html"
+  },
+  {
+   "manualId": "2523797",
+   "slug": "Mars-Comfort-Aire-Rxts-81a",
+   "title": "Comfort-aire RXTS-101A user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Comfort-aire RXTS-101A",
+   "extraModels": [
+    "Comfort-aire RXTS-101A",
+    "Comfort-aire RXTS-121A"
+   ],
+   "url": "https://www.manualslib.com/manual/2523797/Mars-Comfort-Aire-Rxts-81a.html"
+  },
+  {
+   "manualId": "2881704",
+   "slug": "Mars-Comfort-Cure-Century-Ultrav-Series",
+   "title": "Comfort-Cure Century A-VMH18DV-1 installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Comfort-Cure Century A-VMH18DV-1",
+   "extraModels": [
+    "Comfort-Cure Century A-VMH18DV-1",
+    "Comfort-Cure Century A-VMH28TV-1",
+    "Comfort-Cure Century A-VMH36QV-1",
+    "Comfort-Cure Century A-VMH48PV-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2881704/Mars-Comfort-Cure-Century-Ultrav-Series.html"
+  },
+  {
+   "manualId": "2858423",
+   "slug": "Mars-Titan-Cpu",
+   "title": "CPU04 user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "CPU04",
+   "extraModels": [
+    "CPU04",
+    "CPU08",
+    "CPU12"
+   ],
+   "url": "https://www.manualslib.com/manual/2858423/Mars-Titan-Cpu.html"
+  },
+  {
+   "manualId": "2931601",
+   "slug": "Mars-Ecd3kw-Series",
+   "title": "ECD10KW Series installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "ECD10KW Series",
+   "extraModels": [
+    "ECD10KW Series",
+    "ECD15KW Series",
+    "ECD20KW Series",
+    "ECD25KW Series",
+    "ECD5KW Series",
+    "ECD8KW Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2931601/Mars-Ecd3kw-Series.html"
+  },
+  {
+   "manualId": "3598321",
+   "slug": "Mars-Eot-Series",
+   "title": "EOT Series user manual",
+   "type": "User / Owner",
+   "pages": 63,
+   "productModel": "EOT Series",
+   "extraModels": [
+    "EOT05S-220",
+    "EOV05B"
+   ],
+   "url": "https://www.manualslib.com/manual/3598321/Mars-Eot-Series.html"
+  },
+  {
+   "manualId": "3788446",
+   "slug": "Mars-Extra-Power-2-Series",
+   "title": "EP2 Series Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "EP2 Series",
+   "extraModels": [
+    "EP2 Series",
+    "EP2108-2 TS Series",
+    "EP2120-3 TS Series",
+    "EP2144-3 TS Series",
+    "EP296-2 TS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3788446/Mars-Extra-Power-2-Series.html"
+  },
+  {
+   "manualId": "3888111",
+   "slug": "Mars-Ep2-Series",
+   "title": "EP2 Series Manual",
+   "type": "Other",
+   "pages": 31,
+   "productModel": "EP2 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3888111/Mars-Ep2-Series.html"
+  },
+  {
+   "manualId": "2408965",
+   "slug": "Mars-High-Velocity-2-Series",
+   "title": "EXTRA POWER 2 Series Manual",
+   "type": "Other",
+   "pages": 31,
+   "productModel": "EXTRA POWER 2 Series",
+   "extraModels": [
+    "EXTRA POWER 2 Series",
+    "HV2 Series",
+    "HV2108-3E TS Series",
+    "HV2120-2E TS Series",
+    "HV2120-3 TS Series",
+    "HV2120-3E TS Series",
+    "HV2144-3E TS Series",
+    "HV248-1E TS Series",
+    "HV260-1E TS Series",
+    "HV272-2E TS Series",
+    "HV284-2E TS Series",
+    "HV296-2E TS Series",
+    "HV296-2EHN-TS",
+    "LPN2 Series",
+    "LPV2 Series",
+    "NH2 Series",
+    "PH10 Unheated Series",
+    "PH12 108-2",
+    "PH12 120-2",
+    "PH12 42",
+    "PH12 48",
+    "PH12 60",
+    "PH12 72-2",
+    "PH12 78-2",
+    "PH12 84-2",
+    "PH12 96-2",
+    "PH12 Series",
+    "QP10 Series",
+    "WMH Series",
+    "WMI Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2408965/Mars-High-Velocity-2-Series.html"
+  },
+  {
+   "manualId": "1264726",
+   "slug": "Mars-Flavia-Barista",
+   "title": "FLAVIA Barista user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "FLAVIA Barista",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1264726/Mars-Flavia-Barista.html"
+  },
+  {
+   "manualId": "1243849",
+   "slug": "Mars-Flavia-Creation-C500",
+   "title": "FLAVIA CREATION C500 user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "FLAVIA CREATION C500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1243849/Mars-Flavia-Creation-C500.html"
+  },
+  {
+   "manualId": "2241922",
+   "slug": "Mars-Generation-Y",
+   "title": "GENERATION Y user manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "GENERATION Y",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2241922/Mars-Generation-Y.html"
+  },
+  {
+   "manualId": "1289013",
+   "slug": "Mars-Gsw1",
+   "title": "GSW1 user manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "GSW1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1289013/Mars-Gsw1.html"
+  },
+  {
+   "manualId": "1978475",
+   "slug": "Mars-Heat-Controller-Ir-Wireless-Thermostat",
+   "title": "HEAT CONTROLLER IR Wireless Thermostat user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "HEAT CONTROLLER IR Wireless Thermostat",
+   "extraModels": [
+    "HEAT CONTROLLER IR Wireless Thermostat"
+   ],
+   "url": "https://www.manualslib.com/manual/1978475/Mars-Heat-Controller-Ir-Wireless-Thermostat.html"
+  },
+  {
+   "manualId": "3210824",
+   "slug": "Mars-Hmg60e1p-Series",
+   "title": "HMG60E1P AH SPLIT 5T installation instructions manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "HMG60E1P AH SPLIT 5T",
+   "extraModels": [
+    "HMG60E1P AH SPLIT 5T"
+   ],
+   "url": "https://www.manualslib.com/manual/3210824/Mars-Hmg60e1p-Series.html"
+  },
+  {
+   "manualId": "3133900",
+   "slug": "Mars-Hrg14-P-Series",
+   "title": "HRG14 P Series installation instructions manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "HRG14 P Series",
+   "extraModels": [
+    "HRG1418S1P",
+    "HRG1424S1P",
+    "HRG1430S1P",
+    "HRG1436S1P",
+    "HRG1442S1P",
+    "HRG1448S1P",
+    "HRG1460S1P"
+   ],
+   "url": "https://www.manualslib.com/manual/3133900/Mars-Hrg14-P-Series.html"
+  },
+  {
+   "manualId": "3788244",
+   "slug": "Mars-Hv2-Series",
+   "title": "HV2 Series Manual",
+   "type": "Other",
+   "pages": 33,
+   "productModel": "HV2 Series",
+   "extraModels": [
+    "HV2108-3I TS Series",
+    "HV2120-3I TS Series",
+    "HV2144-3I TS Series",
+    "HV296-2I TS Series",
+    "STD2108-3EHS-OB",
+    "STD236-1UA-OB",
+    "STD236-1UA-WW"
+   ],
+   "url": "https://www.manualslib.com/manual/3788244/Mars-Hv2-Series.html"
+  },
+  {
+   "manualId": "2534603",
+   "slug": "Mars-Ma-Wolte-3x",
+   "title": "Installation instruction",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2534603/Mars-Ma-Wolte-3x.html"
+  },
+  {
+   "manualId": "1534118",
+   "slug": "Mars-Azure-10875",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1534118/Mars-Azure-10875.html"
+  },
+  {
+   "manualId": "1252622",
+   "slug": "Mars-Ae2611",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1252622/Mars-Ae2611.html"
+  },
+  {
+   "manualId": "2443754",
+   "slug": "Mars-Ma-Cr26-2x",
+   "title": "Installation Layout",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2443754/Mars-Ma-Cr26-2x.html"
+  },
+  {
+   "manualId": "2370923",
+   "slug": "Mars",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": null,
+   "extraModels": [
+    "Comfort-Aire Century B-VMH09DU-1",
+    "Comfort-Aire Century B-VMH12DU-1",
+    "Comfort-Aire Century B-VMH18DU-1",
+    "Comfort-Aire Century B-VMH24DU-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2370923/Mars.html"
+  },
+  {
+   "manualId": "2897491",
+   "slug": "Mars-Comfort-Aire-Century-Hg-Series",
+   "title": "Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2897491/Mars-Comfort-Aire-Century-Hg-Series.html"
+  },
+  {
+   "manualId": "2373995",
+   "slug": "Mars-Comfort-Aire-Century-Ahg-Series",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2373995/Mars-Comfort-Aire-Century-Ahg-Series.html"
+  },
+  {
+   "manualId": "3571799",
+   "slug": "Mars-Phantom-8-Ph842-1eqg-Ob",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3571799/Mars-Phantom-8-Ph842-1eqg-Ob.html"
+  },
+  {
+   "manualId": "4501378",
+   "slug": "Mars-Quiet-Pro-8-Series",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4501378/Mars-Quiet-Pro-8-Series.html"
+  },
+  {
+   "manualId": "4516454",
+   "slug": "Mars-Qp8-Series",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4516454/Mars-Qp8-Series.html"
+  },
+  {
+   "manualId": "3874509",
+   "slug": "Mars-Lopro-2-Series",
+   "title": "LoPro 2 Series Manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "LoPro 2 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3874509/Mars-Lopro-2-Series.html"
+  },
+  {
+   "manualId": "4229773",
+   "slug": "Mars-Lopro2-Series",
+   "title": "LoPro2 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "LoPro2",
+   "extraModels": [
+    "LPN2 Series",
+    "LPN2108-2U OB Series",
+    "LPN2120-2U OB Series",
+    "LPN2144-2U OB Series",
+    "LPN225-1U OB Series",
+    "LPN236-1U OB Series",
+    "LPN242-1U OB Series",
+    "LPN248-1U OB Series",
+    "LPN260-1U OB Series",
+    "LPN272-1U OB Series",
+    "LPN284-2U OB Series",
+    "LPN296-2U OB Series",
+    "LPV2 108-2",
+    "LPV2 120-2",
+    "LPV2 144-2",
+    "LPV2 25",
+    "LPV2 36",
+    "LPV2 42",
+    "LPV2 48",
+    "LPV2 60",
+    "LPV2 72",
+    "LPV2 84-2",
+    "LPV2 96-2",
+    "LPV2 Series",
+    "LPV2108-2E -OB Series",
+    "LPV2108-2U OB Series",
+    "LPV2108-2V OB Series",
+    "LPV2120-2E -OB Series",
+    "LPV2120-2U OB Series",
+    "LPV2120-2V OB Series",
+    "LPV2144-2E -OB Series",
+    "LPV2144-2U OB Series",
+    "LPV2144-2V OB Series",
+    "LPV225-1E -OB Series",
+    "LPV225-1U OB Series",
+    "LPV236-1E -OB Series",
+    "LPV236-1U OB Series",
+    "LPV236-1V OB Series",
+    "LPV242-1E -OB Series",
+    "LPV242-1U OB Series",
+    "LPV242-1V OB Series",
+    "LPV248-1E -OB Series",
+    "LPV248-1U OB Series",
+    "LPV248-1V OB Series",
+    "LPV260-1E -OB Series",
+    "LPV260-1U OB Series",
+    "LPV260-1V OB Series",
+    "LPV272-1E -OB Series",
+    "LPV272-1U OB Series",
+    "LPV272-1V OB Series",
+    "LPV284-2E -OB Series",
+    "LPV284-2U OB Series",
+    "LPV284-2V OB Series",
+    "LPV296-2E -OB Series",
+    "LPV296-2U OB Series",
+    "LPV296-2V OB Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4229773/Mars-Lopro2-Series.html"
+  },
+  {
+   "manualId": "2760728",
+   "slug": "Mars-Lpv2-Series",
+   "title": "LPN2 Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": "LPN2 Series",
+   "extraModels": [
+    "LPN2 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2760728/Mars-Lpv2-Series.html"
+  },
+  {
+   "manualId": "4200475",
+   "slug": "Mars-Lpn225-Series",
+   "title": "LPN2 Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "LPN2 Series",
+   "extraModels": [
+    "LPV2 Series",
+    "LPV2108-2E -OB Series",
+    "LPV2120-2E -OB Series",
+    "LPV2144-2E -OB Series",
+    "LPV225-1E -OB Series",
+    "LPV236-1E -OB Series",
+    "LPV242-1E -OB Series",
+    "LPV248-1E -OB Series",
+    "LPV260-1E -OB Series",
+    "LPV272-1E -OB Series",
+    "LPV284-2E -OB Series",
+    "LPV296-2E -OB Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4200475/Mars-Lpn225-Series.html"
+  },
+  {
+   "manualId": "4516447",
+   "slug": "Mars-Lvp2-Series",
+   "title": "LPN2 Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 10,
+   "productModel": "LPN2 Series",
+   "extraModels": [
+    "LPN2 Series",
+    "LPV2108-2EEO-OB",
+    "LPV2108-2EQO-OB",
+    "LPV2144-2EEO-OB",
+    "LPV225-1EBC-OB",
+    "LPV236-1EFG-OB",
+    "LPV236-1EQG-OB",
+    "LPV248-1EQI-OB",
+    "LPV260-1EOI-OB",
+    "LPV272-1ECF-OB",
+    "LPV284-2EEM-OB"
+   ],
+   "url": "https://www.manualslib.com/manual/4516447/Mars-Lvp2-Series.html"
+  },
+  {
+   "manualId": "3799861",
+   "slug": "Mars-Lpv225-1e-Ob-Series",
+   "title": "LPV2108-2E -OB Series Manual",
+   "type": "Other",
+   "pages": 31,
+   "productModel": "LPV2108-2E -OB Series",
+   "extraModels": [
+    "LPV2108-2E -OB Series",
+    "LPV2120-2E -OB Series",
+    "LPV2144-2E -OB Series",
+    "LPV236-1E -OB Series",
+    "LPV242-1E -OB Series",
+    "LPV248-1E -OB Series",
+    "LPV260-1E -OB Series",
+    "LPV272-1E -OB Series",
+    "LPV284-2E -OB Series",
+    "LPV296-2E -OB Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3799861/Mars-Lpv225-1e-Ob-Series.html"
+  },
+  {
+   "manualId": "4048420",
+   "slug": "Mars-M1",
+   "title": "M1 user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "M1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4048420/Mars-M1.html"
+  },
+  {
+   "manualId": "1340452",
+   "slug": "Mars-M2-Multi",
+   "title": "m2 multi user manual",
+   "type": "User / Owner",
+   "pages": 41,
+   "productModel": "m2 multi",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1340452/Mars-M2-Multi.html"
+  },
+  {
+   "manualId": "925442",
+   "slug": "Mars-N36-1u",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/925442/Mars-N36-1u.html"
+  },
+  {
+   "manualId": "3179321",
+   "slug": "Mars-Bd1896-1ig-Ts",
+   "title": "Mars BD1896-1IG-TS Manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": null,
+   "extraModels": [
+    "BD18120-1 TS Series",
+    "BD18120-1I-TS",
+    "BD18144-1 TS Series",
+    "BD18144-1I-TS",
+    "BD18144-1IG-TS",
+    "BD18168-1 TS Series",
+    "BD18168-1I-TS",
+    "BD18168-1IH-TS",
+    "BD18192-1 TS Series",
+    "BD18192-1I-TS",
+    "BD18192-1IG-TS",
+    "BD18192-1IH-TS",
+    "BD1896-1 TS Series",
+    "BD1896-1I-TS",
+    "Belt Drive 18"
+   ],
+   "url": "https://www.manualslib.com/manual/3179321/Mars-Bd1896-1ig-Ts.html"
+  },
+  {
+   "manualId": "3109423",
+   "slug": "Mars-Bd22-Series",
+   "title": "Mars BD22 Series Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": null,
+   "extraModels": [
+    "BD22120-1E-TS",
+    "BD22144-1E-TS",
+    "BD22168-1E-TS",
+    "BD22192-1E-TS",
+    "BD2296-1E-TS"
+   ],
+   "url": "https://www.manualslib.com/manual/3109423/Mars-Bd22-Series.html"
+  },
+  {
+   "manualId": "3191241",
+   "slug": "Mars-Comfort-Aire-Century-Compact-Heh-Series",
+   "title": "Mars Comfort-Aire Century Compact HEH Series Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 60,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3191241/Mars-Comfort-Aire-Century-Compact-Heh-Series.html"
+  },
+  {
+   "manualId": "3156963",
+   "slug": "Mars-Comfort-Aire-Reg-R01-Series",
+   "title": "Mars Comfort-Aire REG-R01 Series Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [
+    "Comfort-Aire Century REG-123R01",
+    "Comfort-Aire Century REG-81R01",
+    "Comfort-Aire REG-183R01",
+    "Comfort-Aire REG-243R01"
+   ],
+   "url": "https://www.manualslib.com/manual/3156963/Mars-Comfort-Aire-Reg-R01-Series.html"
+  },
+  {
+   "manualId": "4237524",
+   "slug": "mars-lopro-series-air-curtain-installation-operation-and-maintenance-manual",
+   "title": "Mars LoPro Series Air Curtain Installation, Operation & Maintenance Manual",
+   "type": "Service",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4237524/mars-lopro-series-air-curtain-installation-operation-and-maintenance-manual.html"
+  },
+  {
+   "manualId": "3274553",
+   "slug": "Mars-Lopro-Series",
+   "title": "Mars LoPro Series Manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": null,
+   "extraModels": [
+    "LoPro2"
+   ],
+   "url": "https://www.manualslib.com/manual/3274553/Mars-Lopro-Series.html"
+  },
+  {
+   "manualId": "2050986",
+   "slug": "Mars-Lpv2-2-Series",
+   "title": "Mars LPV2 2 Series Manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": null,
+   "extraModels": [
+    "LPN2 Series",
+    "LPV2 Unheated 2 Series",
+    "LPV2108-2U-OB",
+    "LPV2120-2U-OB",
+    "LPV2144-2U-OB",
+    "LPV225-1U-OB",
+    "LPV236-1U-OB",
+    "LPV242-1U-OB",
+    "LPV248-1U-OB",
+    "LPV260-1U-OB",
+    "LPV272-1U-OB",
+    "LPV284-2U-OB",
+    "LPV296-2U-OB"
+   ],
+   "url": "https://www.manualslib.com/manual/2050986/Mars-Lpv2-2-Series.html"
+  },
+  {
+   "manualId": "3353778",
+   "slug": "Mars-Lvp2-2-Series",
+   "title": "Mars LVP2 2 Series Manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": null,
+   "extraModels": [
+    "LPV2108-2U OB Series",
+    "LPV2120-2U OB Series",
+    "LPV2144-2U OB Series",
+    "LPV225-1U OB Series",
+    "LPV236-1U OB Series",
+    "LPV242-1U OB Series",
+    "LPV248-1U OB Series",
+    "LPV260-1U OB Series",
+    "LPV272-1U OB Series",
+    "LPV284-2U OB Series",
+    "LPV296-2U OB Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3353778/Mars-Lvp2-2-Series.html"
+  },
+  {
+   "manualId": "4061948",
+   "slug": "mars-m1-manual",
+   "title": "Mars M1 Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4061948/mars-m1-manual.html"
+  },
+  {
+   "manualId": "3949145",
+   "slug": "Mars-Ph8-Series",
+   "title": "Mars PH8 Series Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3949145/Mars-Ph8-Series.html"
+  },
+  {
+   "manualId": "2534621",
+   "slug": "Mars-Quietpro-Qp10-Series",
+   "title": "Mars QuietPro QP10 Series Manual",
+   "type": "Other",
+   "pages": 25,
+   "productModel": null,
+   "extraModels": [
+    "QuietPro QP-1072-2U-AL",
+    "QuietPro QP10108-3U-AL",
+    "QuietPro QP10120-3U-AL",
+    "QuietPro QP10144-3U-AL",
+    "QuietPro QP1036-1U-AL",
+    "QuietPro QP1042-1UAL",
+    "QuietPro QP1048-1U-AL",
+    "QuietPro QP1084-2U-AL",
+    "QuietPro QP1096-2U-AL"
+   ],
+   "url": "https://www.manualslib.com/manual/2534621/Mars-Quietpro-Qp10-Series.html"
+  },
+  {
+   "manualId": "3888110",
+   "slug": "Mars-Std2-Series",
+   "title": "Mars STD2 Series Manual",
+   "type": "Other",
+   "pages": 31,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3888110/Mars-Std2-Series.html"
+  },
+  {
+   "manualId": "3215918",
+   "slug": "Mars-Wmi-Series",
+   "title": "Mars WMI Series Manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": null,
+   "extraModels": [
+    "WMI120-2I TS Series",
+    "WMI120-2IH-TS",
+    "WMI144-2I TS Series",
+    "WMI168-3I TS Series",
+    "WMI192-4I TS Series",
+    "WMI96-2I TS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3215918/Mars-Wmi-Series.html"
+  },
+  {
+   "manualId": "4140316",
+   "slug": "Mars-Marscat",
+   "title": "MarsCat quick start manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "MarsCat",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4140316/Mars-Marscat.html"
+  },
+  {
+   "manualId": "1794528",
+   "slug": "Mars-Mdlink-Ultrafast",
+   "title": "MDLink ULTRAFAST user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "MDLink ULTRAFAST",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1794528/Mars-Mdlink-Ultrafast.html"
+  },
+  {
+   "manualId": "2008209",
+   "slug": "Mars-Ma-Wo-Uwb",
+   "title": "Mounting instruction",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2008209/Mars-Ma-Wo-Uwb.html"
+  },
+  {
+   "manualId": "1798757",
+   "slug": "Mars-Ma-Cq26-1x",
+   "title": "Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1798757/Mars-Ma-Cq26-1x.html"
+  },
+  {
+   "manualId": "1865354",
+   "slug": "Mars-Mnt-22",
+   "title": "Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1865354/Mars-Mnt-22.html"
+  },
+  {
+   "manualId": "3017917",
+   "slug": "Mars-Mk-El30",
+   "title": "Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3017917/Mars-Mk-El30.html"
+  },
+  {
+   "manualId": "2576374",
+   "slug": "Mars-Mpaad",
+   "title": "MPAAD user manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "MPAAD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2576374/Mars-Mpaad.html"
+  },
+  {
+   "manualId": "1320386",
+   "slug": "Mars-Ms-700amw",
+   "title": "MS-700AMW Manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "MS-700AMW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1320386/Mars-Ms-700amw.html"
+  },
+  {
+   "manualId": "1134830",
+   "slug": "Mars-Ms-701k",
+   "title": "MS-701K Manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "MS-701K",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1134830/Mars-Ms-701k.html"
+  },
+  {
+   "manualId": "3837389",
+   "slug": "Mars-Ms-702",
+   "title": "MS-702 Manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "MS-702",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3837389/Mars-Ms-702.html"
+  },
+  {
+   "manualId": "3888112",
+   "slug": "Mars-N2-Series",
+   "title": "N2 Series Manual",
+   "type": "Other",
+   "pages": 31,
+   "productModel": "N2 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3888112/Mars-N2-Series.html"
+  },
+  {
+   "manualId": "2107466",
+   "slug": "Mars-65746",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2107466/Mars-65746.html"
+  },
+  {
+   "manualId": "1862567",
+   "slug": "Mars-Comfort-Aire-Fb-2430dt-Mbl-Series",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1862567/Mars-Comfort-Aire-Fb-2430dt-Mbl-Series.html"
+  },
+  {
+   "manualId": "1862818",
+   "slug": "Mars-Comfort-Aire-Fp-1830dtom-Pbl",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1862818/Mars-Comfort-Aire-Fp-1830dtom-Pbl.html"
+  },
+  {
+   "manualId": "1868386",
+   "slug": "Mars-Comfort-Aire-Fd-1230dto-Pbl",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1868386/Mars-Comfort-Aire-Fd-1230dto-Pbl.html"
+  },
+  {
+   "manualId": "1871746",
+   "slug": "Mars-Comfort-Aire-Ff-2030dtx-Pbl",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1871746/Mars-Comfort-Aire-Ff-2030dtx-Pbl.html"
+  },
+  {
+   "manualId": "1885926",
+   "slug": "Mars-Comfort-Aire-Fw-1830dtdo-Pwh",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1885926/Mars-Comfort-Aire-Fw-1830dtdo-Pwh.html"
+  },
+  {
+   "manualId": "2272065",
+   "slug": "Mars-Comfort-Aire-Fb-3030d-Mbl-Series",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2272065/Mars-Comfort-Aire-Fb-3030d-Mbl-Series.html"
+  },
+  {
+   "manualId": "2272071",
+   "slug": "Mars-Comfort-Aire-Fp-1430dto-Mbl",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2272071/Mars-Comfort-Aire-Fp-1430dto-Mbl.html"
+  },
+  {
+   "manualId": "2272078",
+   "slug": "Mars-Comfort-Aire-Fd-1030dto-Mbl",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2272078/Mars-Comfort-Aire-Fd-1030dto-Mbl.html"
+  },
+  {
+   "manualId": "2327347",
+   "slug": "Mars-Comfort-Aire-Fp-3030dto-Mbl",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2327347/Mars-Comfort-Aire-Fp-3030dto-Mbl.html"
+  },
+  {
+   "manualId": "2343744",
+   "slug": "Mars-Comfort-Aire-Fb-3630b-Mbl-Series",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2343744/Mars-Comfort-Aire-Fb-3630b-Mbl-Series.html"
+  },
+  {
+   "manualId": "1897478",
+   "slug": "Mars-Phantom-10-Series",
+   "title": "PH10 Unheated Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 23,
+   "productModel": "PH10 Unheated Series",
+   "extraModels": [
+    "PH10 Unheated Series",
+    "PH10108-3U-PW Series",
+    "PH10120-4U-PW Series",
+    "PH10144-4U-PW Series",
+    "PH1036-1U-PW Series",
+    "PH1042-1U-PW Series",
+    "PH1048-1U-PW Series",
+    "PH1060-2U-PW Series",
+    "PH1072-2U-PW Series",
+    "PH1084-2U-PW Series",
+    "PH1096-2U-PW Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1897478/Mars-Phantom-10-Series.html"
+  },
+  {
+   "manualId": "2582781",
+   "slug": "Mars-Phantom-12-Series",
+   "title": "PH12 Series Manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "PH12 Series",
+   "extraModels": [
+    "PH12 Series",
+    "PH12144-4XG-PW",
+    "PH1272-2XA-PW",
+    "PH1296-2EBH-PW"
+   ],
+   "url": "https://www.manualslib.com/manual/2582781/Mars-Phantom-12-Series.html"
+  },
+  {
+   "manualId": "3748070",
+   "slug": "Mars-Phantom-8-Series",
+   "title": "Phantom 8 Series Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "Phantom 8 Series",
+   "extraModels": [
+    "PH8103-2E PW Series",
+    "PH8108-2E AL Series",
+    "PH8120-2E AL Series",
+    "PH8144-2E PW Series",
+    "PH81A4-2E AL Series",
+    "PH836-1E AL Series",
+    "PH836-1EBC-PW",
+    "PH836-1UA-PW",
+    "PH842-1E AL Series",
+    "PH848-1E AL Series",
+    "PH860-1E AL Series",
+    "PH872-2E AL Series",
+    "PH884-2E AL Series",
+    "PH896-2E AL Series",
+    "PH8S4-2E PW Series",
+    "PK825-1E PW Series",
+    "PK836-1E PW Series",
+    "PK842-1E PW Series",
+    "PK848-1E PW Series",
+    "PK860-1E PW Series",
+    "PK872-1E PW Series",
+    "PK896-2E PW Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3748070/Mars-Phantom-8-Series.html"
+  },
+  {
+   "manualId": "1255443",
+   "slug": "Mars-Ps-101b",
+   "title": "PS-101B Installation, operation & maintanance manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "PS-101B",
+   "extraModels": [
+    "PS-81B"
+   ],
+   "url": "https://www.manualslib.com/manual/1255443/Mars-Ps-101b.html"
+  },
+  {
+   "manualId": "1146616",
+   "slug": "Mars-Ps-81b",
+   "title": "PS-101B owner's manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "PS-101B",
+   "extraModels": [
+    "PS-101B"
+   ],
+   "url": "https://www.manualslib.com/manual/1146616/Mars-Ps-81b.html"
+  },
+  {
+   "manualId": "1913811",
+   "slug": "Mars-Comfort-Aire-Ps-81b",
+   "title": "PS-101B Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "PS-101B",
+   "extraModels": [
+    "PS-101B"
+   ],
+   "url": "https://www.manualslib.com/manual/1913811/Mars-Comfort-Aire-Ps-81b.html"
+  },
+  {
+   "manualId": "1254555",
+   "slug": "Mars-Ps-121b",
+   "title": "PS-121B Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "PS-121B",
+   "extraModels": [
+    "PSH-141A"
+   ],
+   "url": "https://www.manualslib.com/manual/1254555/Mars-Ps-121b.html"
+  },
+  {
+   "manualId": "1374273",
+   "slug": "Mars-Ps-121b",
+   "title": "PS-121B Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "PS-121B",
+   "extraModels": [
+    "PSH-141A"
+   ],
+   "url": "https://www.manualslib.com/manual/1374273/Mars-Ps-121b.html"
+  },
+  {
+   "manualId": "2764690",
+   "slug": "Mars-Quietpro-10",
+   "title": "QP10 Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 4,
+   "productModel": "QP10 Series",
+   "extraModels": [
+    "QP10 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2764690/Mars-Quietpro-10.html"
+  },
+  {
+   "manualId": "3472689",
+   "slug": "Mars-Quietpro-10-Series",
+   "title": "QP10 Series Manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "QP10 Series",
+   "extraModels": [
+    "QP10 Series",
+    "QP10108-3E-AL Series",
+    "QP10120-3E-AL Series",
+    "QP10144-3E-AL Series",
+    "QP1036-1E-AL Series",
+    "QP1036-1EBB-AL",
+    "QP1042-1E-AL Series",
+    "QP1048-1E-AL Series",
+    "QP1048-1EBB-AL",
+    "QP1048-1EHH-AL",
+    "QP1072-2E-AL Series",
+    "QP1072-2EBH-AL",
+    "QP1072-2EHN-AL",
+    "QP1084-2E-AL Series",
+    "QP1084-2EFN-AL",
+    "QP1096-2E-AL Series",
+    "QP1096-2ECH-AL",
+    "QP1096-2EEN-AL",
+    "QP1096-2EFN-AL",
+    "QP1096-2EHN-AL"
+   ],
+   "url": "https://www.manualslib.com/manual/3472689/Mars-Quietpro-10-Series.html"
+  },
+  {
+   "manualId": "3759622",
+   "slug": "Mars-Qp10-Series",
+   "title": "QP10 Series Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "QP10 Series",
+   "extraModels": [
+    "LoPro2",
+    "LPV2 Series",
+    "LPV2108-2U-OB",
+    "LPV2120-2U-OB",
+    "LPV2144-2U-OB",
+    "LPV225-1U-OB",
+    "LPV236-1U-OB",
+    "LPV242-1U-OB",
+    "LPV248-1U-OB",
+    "LPV260-1U-OB",
+    "LPV272-1U-OB",
+    "LPV284-2U-OB",
+    "LPV296-2U-OB",
+    "QuietPro QP-1072-2U-AL",
+    "QuietPro QP10108-3U-AL",
+    "QuietPro QP10120-3U-AL",
+    "QuietPro QP10144-3U-AL",
+    "QuietPro QP1036-1U-AL",
+    "QuietPro QP1042-1UAL",
+    "QuietPro QP1048-1U-AL",
+    "QuietPro QP1084-2U-AL",
+    "QuietPro QP1096-2U-AL"
+   ],
+   "url": "https://www.manualslib.com/manual/3759622/Mars-Qp10-Series.html"
+  },
+  {
+   "manualId": "1419242",
+   "slug": "Mars-Azure-Digi-Motor-10860",
+   "title": "Quick reference manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1419242/Mars-Azure-Digi-Motor-10860.html"
+  },
+  {
+   "manualId": "2427166",
+   "slug": "Mars-Ma-Wa56-Dp25n",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2427166/Mars-Ma-Wa56-Dp25n.html"
+  },
+  {
+   "manualId": "2533797",
+   "slug": "Mars-Phantom-Ph10",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2533797/Mars-Phantom-Ph10.html"
+  },
+  {
+   "manualId": "3586481",
+   "slug": "Mars-Comfort-Aire-Century-Vcd-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3586481/Mars-Comfort-Aire-Century-Vcd-Series.html"
+  },
+  {
+   "manualId": "3749730",
+   "slug": "Mars-Quietpro-Qp836-1e-Al-Series",
+   "title": "QuietPro QP836-1E AL Series Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "QuietPro QP836-1E AL Series",
+   "extraModels": [
+    "QuietPro QP8108-2E AL Series",
+    "QuietPro QP8120-2E AL Series",
+    "QuietPro QP8144-2E AL Series",
+    "QuietPro QP842-1E AL Series",
+    "QuietPro QP848-1E AL Series",
+    "QuietPro QP860-1E AL Series",
+    "QuietPro QP872-1E AL Series",
+    "QuietPro QP884-2E AL Series",
+    "QuietPro QP896-2E AL Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3749730/Mars-Quietpro-Qp836-1e-Al-Series.html"
+  },
+  {
+   "manualId": "1299004",
+   "slug": "Mars-Rg09d-Bgeu",
+   "title": "R09D/BGCE Remote control manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "R09D/BGCE",
+   "extraModels": [
+    "R09D/BGCE",
+    "R09D/BGE",
+    "R09E/BGCE",
+    "R09E/BGE",
+    "R09F/BGCE",
+    "R09F/BGE",
+    "RG09D/BGCEU",
+    "RG09E/BGCEU1",
+    "RG09E/BGEU1"
+   ],
+   "url": "https://www.manualslib.com/manual/1299004/Mars-Rg09d-Bgeu.html"
+  },
+  {
+   "manualId": "3344858",
+   "slug": "Mars-Rc-288a",
+   "title": "RC-288A Manual",
+   "type": "Other",
+   "pages": 84,
+   "productModel": "RC-288A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3344858/Mars-Rc-288a.html"
+  },
+  {
+   "manualId": "4595851",
+   "slug": "Mars-Simplelink-R2",
+   "title": "SimpleLink r2 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 10,
+   "productModel": "SimpleLink r2",
+   "extraModels": [
+    "SK2"
+   ],
+   "url": "https://www.manualslib.com/manual/4595851/Mars-Simplelink-R2.html"
+  },
+  {
+   "manualId": "3888109",
+   "slug": "Mars-Standard-2-Series",
+   "title": "STANDARD 2 Series Manual",
+   "type": "Other",
+   "pages": 31,
+   "productModel": "STANDARD 2 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3888109/Mars-Standard-2-Series.html"
+  },
+  {
+   "manualId": "2536455",
+   "slug": "Mars-Std2-Unheated-2-Series",
+   "title": "STD2 Unheated 2 Series Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "STD2 Unheated 2 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2536455/Mars-Std2-Unheated-2-Series.html"
+  },
+  {
+   "manualId": "3353727",
+   "slug": "Mars-Tgrx-Series",
+   "title": "TGRX Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "TGRX Series",
+   "extraModels": [
+    "TGRX24541R",
+    "TGRX24541R-CY",
+    "TGRX36541R-CY",
+    "TGRX42721R",
+    "TGRX42721R-CY",
+    "TGRX48721R",
+    "TGRX60721R"
+   ],
+   "url": "https://www.manualslib.com/manual/3353727/Mars-Tgrx-Series.html"
+  },
+  {
+   "manualId": "3657719",
+   "slug": "Mars-Veles",
+   "title": "VELES user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "VELES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3657719/Mars-Veles.html"
+  },
+  {
+   "manualId": "2001295",
+   "slug": "Mars-Wind-Stopping-16-Series",
+   "title": "Wind Stopping 16 Series Manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "Wind Stopping 16 Series",
+   "extraModels": [
+    "WMH Series",
+    "WMH120-2E Series",
+    "WMH144-2E Series",
+    "WMH168-3E Series",
+    "WMH192-4E Series",
+    "WMH96-2E Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2001295/Mars-Wind-Stopping-16-Series.html"
+  },
+  {
+   "manualId": "3225896",
+   "slug": "Mars-Wmh-Series",
+   "title": "Wind Stopping 16 Series Manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "Wind Stopping 16 Series",
+   "extraModels": [
+    "Wind Stopping 16 Series",
+    "WMH120-2E Series",
+    "WMH120-2EH-TS",
+    "WMH144-2E Series",
+    "WMH168-3E Series",
+    "WMH192-4E Series",
+    "WMH96-2E Series",
+    "WMH96-2EH-TS"
+   ],
+   "url": "https://www.manualslib.com/manual/3225896/Mars-Wmh-Series.html"
+  },
+  {
+   "manualId": "2408960",
+   "slug": "Mars-Wmh-Unheated-Series",
+   "title": "WMH Unheated Series Manual",
+   "type": "Other",
+   "pages": 25,
+   "productModel": "WMH Unheated Series",
+   "extraModels": [
+    "WMH120-2U-TS",
+    "WMH144-2U-TS",
+    "WMH168-3U-TS",
+    "WMH192-4U-TS",
+    "WMH96-2U-TS"
+   ],
+   "url": "https://www.manualslib.com/manual/2408960/Mars-Wmh-Unheated-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4061948",
+   "slug": "mars-m1-manual",
+   "title": "Mars M1 Manual"
+  },
+  {
+   "manualId": "4237524",
+   "slug": "mars-lopro-series-air-curtain-installation-operation-and-maintenance-manual",
+   "title": "Mars LoPro Series Air Curtain Installation, Operation & Maintenance Manual"
+  }
+ ],
+ "techDirectIds": [
+  "mars"
+ ]
+}

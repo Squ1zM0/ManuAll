@@ -1,0 +1,1208 @@
+{
+ "brand": "Lifebreath",
+ "brandSlug": "lifebreath",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/lifebreath/"
+ ],
+ "slugUsed": "lifebreath",
+ "capturedAt": "2026-10-28T08:32:45.366590+00:00",
+ "typePages": [
+  {
+   "path": "/brand/lifebreath/air-cleaner.html",
+   "manuals": 19,
+   "status": 200
+  },
+  {
+   "path": "/brand/lifebreath/air-handlers.html",
+   "manuals": 50,
+   "status": 200
+  },
+  {
+   "path": "/brand/lifebreath/control-systems.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/lifebreath/controller.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/lifebreath/fan.html",
+   "manuals": 267,
+   "status": 200
+  },
+  {
+   "path": "/brand/lifebreath/furnace.html",
+   "manuals": 53,
+   "status": 200
+  },
+  {
+   "path": "/brand/lifebreath/heating-system.html",
+   "manuals": 112,
+   "status": 200
+  },
+  {
+   "path": "/brand/lifebreath/remote-control.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/lifebreath/test-equipment.html",
+   "manuals": 8,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "94409",
+   "slug": "Lifebreath-100-Fn",
+   "title": "100 DEF Operation and instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "100 DEF",
+   "extraModels": [
+    "100 DEF"
+   ],
+   "url": "https://www.manualslib.com/manual/94409/Lifebreath-100-Fn.html"
+  },
+  {
+   "manualId": "94392",
+   "slug": "Lifebreath-1000rhc",
+   "title": "1000RHC Operation and installation manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "1000RHC",
+   "extraModels": [
+    "1000RHCAC",
+    "1200DDPOOL",
+    "700DDPOOL"
+   ],
+   "url": "https://www.manualslib.com/manual/94392/Lifebreath-1000rhc.html"
+  },
+  {
+   "manualId": "2307389",
+   "slug": "Lifebreath-700-Pool",
+   "title": "1200 POOL installation manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "1200 POOL",
+   "extraModels": [
+    "1200 POOL"
+   ],
+   "url": "https://www.manualslib.com/manual/2307389/Lifebreath-700-Pool.html"
+  },
+  {
+   "manualId": "2494359",
+   "slug": "Lifebreath-700pool",
+   "title": "1200 POOL Operation and installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "1200 POOL",
+   "extraModels": [
+    "1200 POOL"
+   ],
+   "url": "https://www.manualslib.com/manual/2494359/Lifebreath-700pool.html"
+  },
+  {
+   "manualId": "2557945",
+   "slug": "Lifebreath-455fd",
+   "title": "1200DD installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "1200DD",
+   "extraModels": [
+    "1200DD",
+    "1200FD",
+    "650DD",
+    "700DD",
+    "700FD"
+   ],
+   "url": "https://www.manualslib.com/manual/2557945/Lifebreath-455fd.html"
+  },
+  {
+   "manualId": "94412",
+   "slug": "Lifebreath-1200fd",
+   "title": "1200DD installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "1200DD",
+   "extraModels": [
+    "1200DD",
+    "700DD",
+    "700FD",
+    "900DD",
+    "900FD"
+   ],
+   "url": "https://www.manualslib.com/manual/94412/Lifebreath-1200fd.html"
+  },
+  {
+   "manualId": "3640095",
+   "slug": "Lifebreath-700fd",
+   "title": "1200DD instruction manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "1200DD",
+   "extraModels": [
+    "1200DD",
+    "1200FD",
+    "700DD"
+   ],
+   "url": "https://www.manualslib.com/manual/3640095/Lifebreath-700fd.html"
+  },
+  {
+   "manualId": "579908",
+   "slug": "Lifebreath-1200erv",
+   "title": "1200DD Operation and installation manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "1200DD",
+   "extraModels": [
+    "1200DD",
+    "1200FD",
+    "700DD",
+    "700ERV",
+    "700FD",
+    "500ERV",
+    "850FD"
+   ],
+   "url": "https://www.manualslib.com/manual/579908/Lifebreath-1200erv.html"
+  },
+  {
+   "manualId": "3222205",
+   "slug": "Lifebreath-700erv",
+   "title": "1200ERV Operation and installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "1200ERV",
+   "extraModels": [
+    "1200ERV"
+   ],
+   "url": "https://www.manualslib.com/manual/3222205/Lifebreath-700erv.html"
+  },
+  {
+   "manualId": "579911",
+   "slug": "Lifebreath-200erv",
+   "title": "1200ERV Operation and installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "1200ERV",
+   "extraModels": [
+    "1200ERV",
+    "700ERV",
+    "500ERV",
+    "Air Purifier 200ERVD"
+   ],
+   "url": "https://www.manualslib.com/manual/579911/Lifebreath-200erv.html"
+  },
+  {
+   "manualId": "2553988",
+   "slug": "Lifebreath-Erv",
+   "title": "1230 ERV installation manual",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "1230 ERV",
+   "extraModels": [
+    "1230 ERV",
+    "330 ERV",
+    "730 ERV",
+    "530 ERV"
+   ],
+   "url": "https://www.manualslib.com/manual/2553988/Lifebreath-Erv.html"
+  },
+  {
+   "manualId": "3781347",
+   "slug": "Lifebreath-330erv",
+   "title": "1230 ERV Operation and installation manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "1230 ERV",
+   "extraModels": [
+    "1230 ERV",
+    "730 ERV"
+   ],
+   "url": "https://www.manualslib.com/manual/3781347/Lifebreath-330erv.html"
+  },
+  {
+   "manualId": "1425991",
+   "slug": "Lifebreath-130-Erv-D",
+   "title": "130 ERV-D Homeowner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "130 ERV-D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1425991/Lifebreath-130-Erv-D.html"
+  },
+  {
+   "manualId": "2928643",
+   "slug": "Lifebreath-30-Erv",
+   "title": "130 ERV-D installation manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "130 ERV-D",
+   "extraModels": [
+    "130 ERV-D",
+    "267 MAX",
+    "170 ERVD"
+   ],
+   "url": "https://www.manualslib.com/manual/2928643/Lifebreath-30-Erv.html"
+  },
+  {
+   "manualId": "1721945",
+   "slug": "Lifebreath-1500i-Ecm",
+   "title": "1500E-ECM Installation Instruction",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "1500E-ECM",
+   "extraModels": [
+    "1500E-ECM",
+    "1500E-ECM-E"
+   ],
+   "url": "https://www.manualslib.com/manual/1721945/Lifebreath-1500i-Ecm.html"
+  },
+  {
+   "manualId": "1906709",
+   "slug": "Lifebreath-1500i-Ecm",
+   "title": "1500E-ECM Installation Instruction",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "1500E-ECM",
+   "extraModels": [
+    "1500E-ECM"
+   ],
+   "url": "https://www.manualslib.com/manual/1906709/Lifebreath-1500i-Ecm.html"
+  },
+  {
+   "manualId": "94400",
+   "slug": "Lifebreath-150max",
+   "title": "150MAX installation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "150MAX",
+   "extraModels": [
+    "150SP",
+    "200MAX",
+    "200STD"
+   ],
+   "url": "https://www.manualslib.com/manual/94400/Lifebreath-150max.html"
+  },
+  {
+   "manualId": "3406001",
+   "slug": "Lifebreath-150sp",
+   "title": "150MAX instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "150MAX",
+   "extraModels": [
+    "150MAX",
+    "200MAX",
+    "200STD"
+   ],
+   "url": "https://www.manualslib.com/manual/3406001/Lifebreath-150sp.html"
+  },
+  {
+   "manualId": "2800202",
+   "slug": "Lifebreath-155-Max-2019",
+   "title": "155 MAX 2019 installation manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "155 MAX 2019",
+   "extraModels": [
+    "155 MAX 2019",
+    "205 MAX",
+    "267 MAX",
+    "Air Purifier 195DCS",
+    "HRV RNC4TPD",
+    "HRV RNC4TPF",
+    "HRV RNC5TPF",
+    "RNC 155 2019",
+    "RNC 205",
+    "RNC200",
+    "RNC5 HEX TPF",
+    "RNC5-TPD",
+    "RNC6 ES",
+    "RNC6 HEX TPD"
+   ],
+   "url": "https://www.manualslib.com/manual/2800202/Lifebreath-155-Max-2019.html"
+  },
+  {
+   "manualId": "3072218",
+   "slug": "Lifebreath-Rnc-88",
+   "title": "155 MAX 2019 installation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "155 MAX 2019",
+   "extraModels": [
+    "155 MAX 2019",
+    "205 MAX",
+    "267 MAX",
+    "Air Purifier 195DCS",
+    "HRV RNC4TPD",
+    "HRV RNC4TPF",
+    "HRV RNC5TPF",
+    "RNC 155 2019",
+    "RNC 205",
+    "RNC200",
+    "RNC5 HEX TPF",
+    "RNC5-TPD",
+    "RNC6 ES",
+    "RNC6 HEX TPD"
+   ],
+   "url": "https://www.manualslib.com/manual/3072218/Lifebreath-Rnc-88.html"
+  },
+  {
+   "manualId": "4204735",
+   "slug": "Lifebreath-Rnc-205-Plus",
+   "title": "155 MAX 2019 installation manual",
+   "type": "Installation",
+   "pages": 57,
+   "productModel": "155 MAX 2019",
+   "extraModels": [
+    "155 MAX 2019",
+    "205 MAX",
+    "267 MAX",
+    "Air Purifier 195DCS",
+    "HRV RNC4TPD",
+    "HRV RNC5TPF",
+    "RNC 155 2019",
+    "RNC 88",
+    "RNC200",
+    "RNC5 HEX TPF",
+    "RNC5-TPD",
+    "RNC6 ES",
+    "RNC6 HEX TPD"
+   ],
+   "url": "https://www.manualslib.com/manual/4204735/Lifebreath-Rnc-205-Plus.html"
+  },
+  {
+   "manualId": "3832885",
+   "slug": "Lifebreath-155ecm-Series",
+   "title": "155ECM series Operation and installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "155ECM series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3832885/Lifebreath-155ecm-Series.html"
+  },
+  {
+   "manualId": "94395",
+   "slug": "Lifebreath-Air-Purifier-155max",
+   "title": "155MAX Operation and installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "155MAX",
+   "extraModels": [
+    "200MAX",
+    "Air Purifier 195DCS",
+    "Air Purifier 200ERV",
+    "Air Purifier 200ERVD",
+    "Air Purifier 300DCS",
+    "Air Purifier 95MAX",
+    "Air Purifier MAXTOP",
+    "Lifebreath ControlAir 15",
+    "MAXTOP"
+   ],
+   "url": "https://www.manualslib.com/manual/94395/Lifebreath-Air-Purifier-155max.html"
+  },
+  {
+   "manualId": "1007060",
+   "slug": "Lifebreath-155max-Series",
+   "title": "155MAX series Operation and installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "155MAX series",
+   "extraModels": [
+    "200MAX",
+    "Air Purifier 155MAX RX",
+    "Air Purifier 200MAX RX"
+   ],
+   "url": "https://www.manualslib.com/manual/1007060/Lifebreath-155max-Series.html"
+  },
+  {
+   "manualId": "3832882",
+   "slug": "Lifebreath-195dcs-Series",
+   "title": "195DCS series Operation and installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "195DCS series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3832882/Lifebreath-195dcs-Series.html"
+  },
+  {
+   "manualId": "3832883",
+   "slug": "Lifebreath-195ecm-Series",
+   "title": "195ECM series Operation and installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "195ECM series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3832883/Lifebreath-195ecm-Series.html"
+  },
+  {
+   "manualId": "3888849",
+   "slug": "Lifebreath-2000efd",
+   "title": "2000EFD installation manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "2000EFD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3888849/Lifebreath-2000efd.html"
+  },
+  {
+   "manualId": "94396",
+   "slug": "Lifebreath-Air-Purifier-155ecm",
+   "title": "200MAX Operation and installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "200MAX",
+   "extraModels": [
+    "200MAX",
+    "Air Purifier 155MAX",
+    "Air Purifier 155MAX RX",
+    "Air Purifier 195DCS",
+    "Air Purifier 200ERV",
+    "Air Purifier 200ERVD",
+    "Air Purifier 200MAX RX",
+    "Air Purifier 300DCS",
+    "Air Purifier 95MAX",
+    "MAXTOP"
+   ],
+   "url": "https://www.manualslib.com/manual/94396/Lifebreath-Air-Purifier-155ecm.html"
+  },
+  {
+   "manualId": "94401",
+   "slug": "Lifebreath-Controlair-15-155max",
+   "title": "200MAX Operation and installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "200MAX",
+   "extraModels": [
+    "200MAX",
+    "Air Purifier 195DCS",
+    "Air Purifier 200ERV",
+    "Air Purifier 200ERVD",
+    "Air Purifier 300DCS",
+    "Air Purifier 95MAX",
+    "CONTROLAIR 15 200MAX",
+    "CONTROLAIR 15 95MAX",
+    "MAXTOP"
+   ],
+   "url": "https://www.manualslib.com/manual/94401/Lifebreath-Controlair-15-155max.html"
+  },
+  {
+   "manualId": "2424608",
+   "slug": "Lifebreath-Hrv-Series",
+   "title": "2500EFD installation manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "2500EFD",
+   "extraModels": [
+    "2500EFD",
+    "2500IFD",
+    "1500E-ECM",
+    "1500I-ECM",
+    "2000EFD-208",
+    "2000EFD-208SP",
+    "2000EFD-460",
+    "2000EFD-575",
+    "2000IFD",
+    "2000IFD-208",
+    "2000IFD-208SP",
+    "2000IFD-460",
+    "2000IFD-575",
+    "2500EFD-208",
+    "2500IFD-208"
+   ],
+   "url": "https://www.manualslib.com/manual/2424608/Lifebreath-Hrv-Series.html"
+  },
+  {
+   "manualId": "3506646",
+   "slug": "Lifebreath-2500ifd",
+   "title": "2500EFD installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "2500EFD",
+   "extraModels": [
+    "2500EFD"
+   ],
+   "url": "https://www.manualslib.com/manual/3506646/Lifebreath-2500ifd.html"
+  },
+  {
+   "manualId": "94405",
+   "slug": "Lifebreath-2500ifd",
+   "title": "2500EFD Operation and installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "2500EFD",
+   "extraModels": [
+    "2500EFD"
+   ],
+   "url": "https://www.manualslib.com/manual/94405/Lifebreath-2500ifd.html"
+  },
+  {
+   "manualId": "3832884",
+   "slug": "Lifebreath-300dcs-Series",
+   "title": "300DCS series Operation and installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "300DCS series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3832884/Lifebreath-300dcs-Series.html"
+  },
+  {
+   "manualId": "2204229",
+   "slug": "Lifebreath-350-Dgs",
+   "title": "350 DGS instruction manual",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": "350 DGS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2204229/Lifebreath-350-Dgs.html"
+  },
+  {
+   "manualId": "1867432",
+   "slug": "Lifebreath-350dcs",
+   "title": "350DCS Operation and installation manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "350DCS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1867432/Lifebreath-350dcs.html"
+  },
+  {
+   "manualId": "94402",
+   "slug": "Lifebreath-40dhw-T",
+   "title": "40DHW Operation, sizing and installation manual",
+   "type": "Installation",
+   "pages": 42,
+   "productModel": "40DHW",
+   "extraModels": [
+    "40DHWDF",
+    "40DHWDF(T)",
+    "40DHWH",
+    "40DHWH(T)",
+    "40VENTAC",
+    "4TONDHW",
+    "4TONDHW(T)",
+    "4TONVENTAC",
+    "60DHW",
+    "60DHW(T)",
+    "60DHWDF",
+    "60DHWDF(T)",
+    "60DHWH",
+    "60DHWH(T)",
+    "60VENTAC"
+   ],
+   "url": "https://www.manualslib.com/manual/94402/Lifebreath-40dhw-T.html"
+  },
+  {
+   "manualId": "3893559",
+   "slug": "Lifebreath-455dd",
+   "title": "455DD installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "455DD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3893559/Lifebreath-455dd.html"
+  },
+  {
+   "manualId": "3818370",
+   "slug": "Lifebreath-500dcs",
+   "title": "500DCS Operation and installation manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "500DCS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3818370/Lifebreath-500dcs.html"
+  },
+  {
+   "manualId": "94399",
+   "slug": "Lifebreath-Clean-Air-Furnace-60ele",
+   "title": "60ELE-DF user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "60ELE-DF",
+   "extraModels": [
+    "60ELE-DF"
+   ],
+   "url": "https://www.manualslib.com/manual/94399/Lifebreath-Clean-Air-Furnace-60ele.html"
+  },
+  {
+   "manualId": "3893560",
+   "slug": "Lifebreath-650fd",
+   "title": "650FD installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "650FD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3893560/Lifebreath-650fd.html"
+  },
+  {
+   "manualId": "3818371",
+   "slug": "Lifebreath-850dd",
+   "title": "850DD Operation and installation manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "850DD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3818371/Lifebreath-850dd.html"
+  },
+  {
+   "manualId": "94408",
+   "slug": "Lifebreath-94-Exchanger",
+   "title": "94-EXCHANGER installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "94-EXCHANGER",
+   "extraModels": [
+    "94-EXCHANGER-MD",
+    "99-MD-KIT"
+   ],
+   "url": "https://www.manualslib.com/manual/94408/Lifebreath-94-Exchanger.html"
+  },
+  {
+   "manualId": "3832881",
+   "slug": "Lifebreath-95max-Series",
+   "title": "95MAX series Operation and installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "95MAX series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3832881/Lifebreath-95max-Series.html"
+  },
+  {
+   "manualId": "1413736",
+   "slug": "Lifebreath-Ah-U-S4a-24-P16",
+   "title": "AH-U-L2A-36-P16 Operation, sizing and installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "AH-U-L2A-36-P16",
+   "extraModels": [
+    "AH-U-L2A-36-P16",
+    "AH-U-L2B-48-P16",
+    "AH-U-L4A-36-P16",
+    "AH-U-S2A-30-P16"
+   ],
+   "url": "https://www.manualslib.com/manual/1413736/Lifebreath-Ah-U-S4a-24-P16.html"
+  },
+  {
+   "manualId": "558073",
+   "slug": "Lifebreath-Ah40bhw",
+   "title": "AH40BHW Operation, sizing and installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "AH40BHW",
+   "extraModels": [
+    "AH40DHW",
+    "AH60BHW",
+    "AH60DHW",
+    "AH80BHW"
+   ],
+   "url": "https://www.manualslib.com/manual/558073/Lifebreath-Ah40bhw.html"
+  },
+  {
+   "manualId": "579919",
+   "slug": "Lifebreath-195dcs",
+   "title": "Air Purifier 195DCS installation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "Air Purifier 195DCS",
+   "extraModels": [
+    "Air Purifier 300DCS"
+   ],
+   "url": "https://www.manualslib.com/manual/579919/Lifebreath-195dcs.html"
+  },
+  {
+   "manualId": "94394",
+   "slug": "Lifebreath-Air-Purifier-195ecm",
+   "title": "Air Purifier 195ECM Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": "Air Purifier 195ECM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/94394/Lifebreath-Air-Purifier-195ecm.html"
+  },
+  {
+   "manualId": "3606086",
+   "slug": "Lifebreath-Caf-U-S4a-24-P16-E16",
+   "title": "CAF-D-L4A-36-P16 (E16) Operation, sizing and installation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "CAF-D-L4A-36-P16 (E16)",
+   "extraModels": [
+    "CAF-D-L4A-36-P16 (E16)",
+    "CAF-D-S4A-24-P16 (E16)",
+    "CAF-U-00-24-P16 (E16)",
+    "CAF-U-00-36-P16 (E16)",
+    "CAF-U-00-48-P16 (E16)",
+    "CAF-U-L2A-48-P16 (E16)",
+    "CAF-U-L4A-36-P16 (E16)"
+   ],
+   "url": "https://www.manualslib.com/manual/3606086/Lifebreath-Caf-U-S4a-24-P16-E16.html"
+  },
+  {
+   "manualId": "94411",
+   "slug": "Lifebreath-Clean-Air-Furnace-Caf-02-Mb",
+   "title": "CAF-D-L4A-36-P16 Operation and installation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "CAF-D-L4A-36-P16",
+   "extraModels": [
+    "CAF-D-L4A-36-P16",
+    "CAF-D-S4A-24-P16",
+    "CAF-H-L4A-36-P16",
+    "CAF-H-S4A-24-P16",
+    "CAF-U-00-36-P16",
+    "CAF-U-00-48-P16",
+    "CAF-U-L2A-48-P16",
+    "CAF-U-L4A-36-P16",
+    "CAF-U-S4A-24-P16"
+   ],
+   "url": "https://www.manualslib.com/manual/94411/Lifebreath-Clean-Air-Furnace-Caf-02-Mb.html"
+  },
+  {
+   "manualId": "951153",
+   "slug": "Lifebreath-Caf-U-S4a-24-P16",
+   "title": "CAF-D-L4A-36-P16 Operation, sizing and installation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "CAF-D-L4A-36-P16",
+   "extraModels": [
+    "CAF-D-L4A-36-P16",
+    "CAF-D-S4A-24-P16",
+    "CAF-H-L4A-36-P16",
+    "CAF-H-S4A-24-P16",
+    "CAF-U-00-24-P16",
+    "CAF-U-00-36-P16",
+    "CAF-U-00-48-P16",
+    "CAF-U-L2A-48-P16",
+    "CAF-U-L4A-36-P16"
+   ],
+   "url": "https://www.manualslib.com/manual/951153/Lifebreath-Caf-U-S4a-24-P16.html"
+  },
+  {
+   "manualId": "1235997",
+   "slug": "Lifebreath-Erv-Series",
+   "title": "ERV series installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "ERV series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1235997/Lifebreath-Erv-Series.html"
+  },
+  {
+   "manualId": "94404",
+   "slug": "Lifebreath-195trv",
+   "title": "features and benefits",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/94404/Lifebreath-195trv.html"
+  },
+  {
+   "manualId": "2017594",
+   "slug": "Lifebreath-Hrv-Series",
+   "title": "HRV 155 MAX 2019 Homeowner's manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "HRV 155 MAX 2019",
+   "extraModels": [
+    "HRV 155 MAX 2019",
+    "HRV 195 DCS",
+    "HRV 205 MAX",
+    "HRV 267 MAX",
+    "HRV RNC 205",
+    "HRV RNC155 2019",
+    "HRV RNC4TPD",
+    "HRV RNC4TPF",
+    "HRV RNC5 HEX TPD",
+    "HRV RNC5 HEX TPF",
+    "HRV RNC5TPF",
+    "HRV RNC6 ES",
+    "RNC200",
+    "RNC5-TPD"
+   ],
+   "url": "https://www.manualslib.com/manual/2017594/Lifebreath-Hrv-Series.html"
+  },
+  {
+   "manualId": "94407",
+   "slug": "Lifebreath-99-129",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/94407/Lifebreath-99-129.html"
+  },
+  {
+   "manualId": "2390595",
+   "slug": "Lifebreath-Tfp2000",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2390595/Lifebreath-Tfp2000.html"
+  },
+  {
+   "manualId": "4243231",
+   "slug": "lifebreath-rnc5-hex-tpd-hrv-installation-manual",
+   "title": "Lifebreath RNC5-HEX-TPD HRV Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4243231/lifebreath-rnc5-hex-tpd-hrv-installation-manual.html"
+  },
+  {
+   "manualId": "986083",
+   "slug": "Lifebreath-Tfp3000",
+   "title": "Lifebreath TFP3000 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Lifebreath TFP3000",
+   "extraModels": [
+    "Lifebreath TFP3000HEPA",
+    "TFPC3000",
+    "TFPC3000HEPA"
+   ],
+   "url": "https://www.manualslib.com/manual/986083/Lifebreath-Tfp3000.html"
+  },
+  {
+   "manualId": "94398",
+   "slug": "Lifebreath-Lifebreath-Tfp3000",
+   "title": "Lifebreath TFP3000 installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "Lifebreath TFP3000",
+   "extraModels": [
+    "Lifebreath TFP3000HEPA"
+   ],
+   "url": "https://www.manualslib.com/manual/94398/Lifebreath-Lifebreath-Tfp3000.html"
+  },
+  {
+   "manualId": "830151",
+   "slug": "Lifebreath-Tfp3000",
+   "title": "Lifebreath TFP3000 Operation and installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Lifebreath TFP3000",
+   "extraModels": [
+    "Lifebreath TFP3000HEPA",
+    "TFPC3000",
+    "TFPC3000HEPA"
+   ],
+   "url": "https://www.manualslib.com/manual/830151/Lifebreath-Tfp3000.html"
+  },
+  {
+   "manualId": "2119790",
+   "slug": "Lifebreath-Tfp-3000hepa",
+   "title": "Lifebreath TFP3000HEPA installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Lifebreath TFP3000HEPA",
+   "extraModels": [
+    "TFP-300HEPA-RTO"
+   ],
+   "url": "https://www.manualslib.com/manual/2119790/Lifebreath-Tfp-3000hepa.html"
+  },
+  {
+   "manualId": "767991",
+   "slug": "Lifebreath-Tfp3000hepa",
+   "title": "Lifebreath TFP3000HEPA Operation and installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "Lifebreath TFP3000HEPA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/767991/Lifebreath-Tfp3000hepa.html"
+  },
+  {
+   "manualId": "1512375",
+   "slug": "Lifebreath-Max-Series",
+   "title": "max series Homeowner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "max series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1512375/Lifebreath-Max-Series.html"
+  },
+  {
+   "manualId": "1167903",
+   "slug": "Lifebreath-Max-Series",
+   "title": "max series installation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "max series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1167903/Lifebreath-Max-Series.html"
+  },
+  {
+   "manualId": "3905611",
+   "slug": "Lifebreath-Max-Xtr",
+   "title": "MAX XTR Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "MAX XTR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3905611/Lifebreath-Max-Xtr.html"
+  },
+  {
+   "manualId": "2797796",
+   "slug": "Lifebreath-Metro-120erv",
+   "title": "MAX XTR PLUS Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "MAX XTR PLUS",
+   "extraModels": [
+    "MAX XTR PLUS",
+    "MAX XTR Series",
+    "METRO 120 ERV-ECM Series",
+    "METRO 120D",
+    "METRO 120D-ECM",
+    "METRO 120ERV-ECM",
+    "METRO 120ERVD",
+    "METRO 120ERVD-ECM",
+    "METRO 120F",
+    "METRO 120F-ECM",
+    "METRO XTM",
+    "METRO XTR"
+   ],
+   "url": "https://www.manualslib.com/manual/2797796/Lifebreath-Metro-120erv.html"
+  },
+  {
+   "manualId": "1983369",
+   "slug": "Lifebreath-Metro-120d",
+   "title": "METRO 120 ERV installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "METRO 120 ERV",
+   "extraModels": [
+    "METRO 120 ERV",
+    "METRO 120D-ECM",
+    "METRO 120ERVD",
+    "METRO 120F-ECM",
+    "METR0 120 ERV-ECM"
+   ],
+   "url": "https://www.manualslib.com/manual/1983369/Lifebreath-Metro-120d.html"
+  },
+  {
+   "manualId": "3871928",
+   "slug": "Lifebreath-Metro-120f",
+   "title": "METRO 120F installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "METRO 120F",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3871928/Lifebreath-Metro-120f.html"
+  },
+  {
+   "manualId": "94406",
+   "slug": "Lifebreath-120erv",
+   "title": "Pure Performance 120ERV Instalation instructions",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Pure Performance 120ERV",
+   "extraModels": [
+    "RNC120ERV",
+    "RNC120F"
+   ],
+   "url": "https://www.manualslib.com/manual/94406/Lifebreath-120erv.html"
+  },
+  {
+   "manualId": "3863628",
+   "slug": "Lifebreath-Pure-Performance-120erv",
+   "title": "Pure Performance 120ERV installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Pure Performance 120ERV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3863628/Lifebreath-Pure-Performance-120erv.html"
+  },
+  {
+   "manualId": "3863626",
+   "slug": "Lifebreath-Pure-Performance-130erv",
+   "title": "Pure Performance 130ERV installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Pure Performance 130ERV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3863626/Lifebreath-Pure-Performance-130erv.html"
+  },
+  {
+   "manualId": "1764996",
+   "slug": "Lifebreath-Pure-Performance-Erv-Series",
+   "title": "Pure Performance 130ERVR installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Pure Performance 130ERVR",
+   "extraModels": [
+    "Pure Performance 130ERVR",
+    "Pure Performance 230ERV",
+    "Pure Performance 230ERVR",
+    "Pure Performance ERV Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1764996/Lifebreath-Pure-Performance-Erv-Series.html"
+  },
+  {
+   "manualId": "3863627",
+   "slug": "Lifebreath-Pure-Performance-30erv",
+   "title": "Pure Performance 30ERV installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Pure Performance 30ERV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3863627/Lifebreath-Pure-Performance-30erv.html"
+  },
+  {
+   "manualId": "3204693",
+   "slug": "Lifebreath-Pure-Performance-Rnc5-Hex",
+   "title": "PURE PERFORMANCE RNC5-HEX installation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "PURE PERFORMANCE RNC5-HEX",
+   "extraModels": [
+    "PURE PERFORMANCE RNC5-HEX",
+    "RNC5-HEX-TPD"
+   ],
+   "url": "https://www.manualslib.com/manual/3204693/Lifebreath-Pure-Performance-Rnc5-Hex.html"
+  },
+  {
+   "manualId": "4126147",
+   "slug": "Lifebreath-Bc02-Control",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4126147/Lifebreath-Bc02-Control.html"
+  },
+  {
+   "manualId": "1167562",
+   "slug": "Lifebreath-Rnc-Series",
+   "title": "RNC series installation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "RNC series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1167562/Lifebreath-Rnc-Series.html"
+  },
+  {
+   "manualId": "3333151",
+   "slug": "Lifebreath-Rnc-Series",
+   "title": "RNC series Operation and installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "RNC series",
+   "extraModels": [
+    "RNC10",
+    "RNC120D",
+    "RNC200",
+    "RNC5-TPD"
+   ],
+   "url": "https://www.manualslib.com/manual/3333151/Lifebreath-Rnc-Series.html"
+  },
+  {
+   "manualId": "1004913",
+   "slug": "Lifebreath-Rnc-Series",
+   "title": "RNC series owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "RNC series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1004913/Lifebreath-Rnc-Series.html"
+  },
+  {
+   "manualId": "94410",
+   "slug": "Lifebreath-Rnc10",
+   "title": "RNC10 installation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "RNC10",
+   "extraModels": [
+    "RNC120D",
+    "RNC155",
+    "RNC20",
+    "RNC200",
+    "RNC5-TPD",
+    "RNC95"
+   ],
+   "url": "https://www.manualslib.com/manual/94410/Lifebreath-Rnc10.html"
+  },
+  {
+   "manualId": "3929876",
+   "slug": "Lifebreath-Rnc155",
+   "title": "RNC155 Operation and installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "RNC155",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3929876/Lifebreath-Rnc155.html"
+  },
+  {
+   "manualId": "3929877",
+   "slug": "Lifebreath-Rnc20",
+   "title": "RNC20 Operation and installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "RNC20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3929877/Lifebreath-Rnc20.html"
+  },
+  {
+   "manualId": "3391274",
+   "slug": "Lifebreath-Rnc5-Hex-Tpd",
+   "title": "RNC5-HEX-TPD Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "RNC5-HEX-TPD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3391274/Lifebreath-Rnc5-Hex-Tpd.html"
+  },
+  {
+   "manualId": "3923383",
+   "slug": "Lifebreath-Rnc5-Hex-Tpf",
+   "title": "RNC5-HEX-TPF installation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "RNC5-HEX-TPF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3923383/Lifebreath-Rnc5-Hex-Tpf.html"
+  },
+  {
+   "manualId": "3929875",
+   "slug": "Lifebreath-Rnc95",
+   "title": "RNC95 Operation and installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "RNC95",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3929875/Lifebreath-Rnc95.html"
+  },
+  {
+   "manualId": "94403",
+   "slug": "Lifebreath-Ah-Ele-15kw-36-E16",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/94403/Lifebreath-Ah-Ele-15kw-36-E16.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4243231",
+   "slug": "lifebreath-rnc5-hex-tpd-hrv-installation-manual",
+   "title": "Lifebreath RNC5-HEX-TPD HRV Installation Manual"
+  }
+ ],
+ "techDirectIds": [
+  "lifebreath"
+ ]
+}

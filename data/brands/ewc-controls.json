@@ -1,0 +1,379 @@
+{
+ "brand": "EWC Controls",
+ "brandSlug": "ewc-controls",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/ewc-controls/"
+ ],
+ "slugUsed": "ewc-controls",
+ "capturedAt": "2026-10-28T07:06:06.587493+00:00",
+ "typePages": [
+  {
+   "path": "/brand/ewc-controls/air-conditioner.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/ewc-controls/control-panel.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/ewc-controls/control-systems.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/ewc-controls/controller.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/ewc-controls/fire-and-smoke-dampers.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/ewc-controls/humidifier.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/ewc-controls/industrial-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ewc-controls/thermostat.html",
+   "manuals": 21,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2216918",
+   "slug": "Ewc-Controls-Ultrazone-Mrk",
+   "title": "Application Note",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2216918/Ewc-Controls-Ultrazone-Mrk.html"
+  },
+  {
+   "manualId": "2608911",
+   "slug": "Ewc-Controls-Ultra-Zone-Rd-Hd",
+   "title": "Application note",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2608911/Ewc-Controls-Ultra-Zone-Rd-Hd.html"
+  },
+  {
+   "manualId": "2052192",
+   "slug": "Ewc-Controls-Bmplus-3000",
+   "title": "BMPlus 3000 Technical Bulletin",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "BMPlus 3000",
+   "extraModels": [
+    "BMPlus 5000",
+    "BMPlus 7000"
+   ],
+   "url": "https://www.manualslib.com/manual/2052192/Ewc-Controls-Bmplus-3000.html"
+  },
+  {
+   "manualId": "2224953",
+   "slug": "Ewc-Controls-Bmplus-3000",
+   "title": "BMPlus 3000 Technical Bulletin",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "BMPlus 3000",
+   "extraModels": [
+    "BMPlus 5000",
+    "BMPlus 7000"
+   ],
+   "url": "https://www.manualslib.com/manual/2224953/Ewc-Controls-Bmplus-3000.html"
+  },
+  {
+   "manualId": "4076928",
+   "slug": "Ewc-Controls-Bmplus-3z",
+   "title": "BMPlus-3z Technical Bulletin",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "BMPlus-3z",
+   "extraModels": [
+    "BMPlus-6z",
+    "BMPlus-9z"
+   ],
+   "url": "https://www.manualslib.com/manual/4076928/Ewc-Controls-Bmplus-3z.html"
+  },
+  {
+   "manualId": "4238979",
+   "slug": "ewc-controls-ncm-3z-ultra-zone-control-system-installation-manual",
+   "title": "EWC Controls NCM-3z Ultra-Zone Control System Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4238979/ewc-controls-ncm-3z-ultra-zone-control-system-installation-manual.html"
+  },
+  {
+   "manualId": "1262420",
+   "slug": "Ewc-Controls-Ewt-3102",
+   "title": "EWT-3102 user manual",
+   "type": "User / Owner",
+   "pages": 102,
+   "productModel": "EWT-3102",
+   "extraModels": [
+    "EWT-3103"
+   ],
+   "url": "https://www.manualslib.com/manual/1262420/Ewc-Controls-Ewt-3102.html"
+  },
+  {
+   "manualId": "1012845",
+   "slug": "Ewc-Controls-Ewt-3900-Ultra-Zone",
+   "title": "EWT-3900 Ultra-Zone owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "EWT-3900 Ultra-Zone",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1012845/Ewc-Controls-Ewt-3900-Ultra-Zone.html"
+  },
+  {
+   "manualId": "1244154",
+   "slug": "Ewc-Controls-Ewt-3900",
+   "title": "EWT-3900 Ultra-Zone Technical Bulletin",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "EWT-3900 Ultra-Zone",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1244154/Ewc-Controls-Ewt-3900.html"
+  },
+  {
+   "manualId": "3367981",
+   "slug": "Ewc-Controls-Ewt-755who",
+   "title": "EWT-755WHO installation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "EWT-755WHO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3367981/Ewc-Controls-Ewt-755who.html"
+  },
+  {
+   "manualId": "2362751",
+   "slug": "Ewc-Controls-Ewt-955wh",
+   "title": "EWT-955WH installation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "EWT-955WH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2362751/Ewc-Controls-Ewt-955wh.html"
+  },
+  {
+   "manualId": "2362740",
+   "slug": "Ewc-Controls-Ewt-601-2",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2362740/Ewc-Controls-Ewt-601-2.html"
+  },
+  {
+   "manualId": "2362743",
+   "slug": "Ewc-Controls-Ewt-725",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2362743/Ewc-Controls-Ewt-725.html"
+  },
+  {
+   "manualId": "2362750",
+   "slug": "Ewc-Controls-Ewt-855i",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2362750/Ewc-Controls-Ewt-855i.html"
+  },
+  {
+   "manualId": "2449096",
+   "slug": "Ewc-Controls-Ewt-855",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "EWT-955WH"
+   ],
+   "url": "https://www.manualslib.com/manual/2449096/Ewc-Controls-Ewt-855.html"
+  },
+  {
+   "manualId": "2035575",
+   "slug": "Ewc-Controls-Clbd",
+   "title": "Technical Bulletin",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2035575/Ewc-Controls-Clbd.html"
+  },
+  {
+   "manualId": "2877993",
+   "slug": "Ewc-Controls-Prd",
+   "title": "Technical Bulletin",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2877993/Ewc-Controls-Prd.html"
+  },
+  {
+   "manualId": "2966986",
+   "slug": "Ewc-Controls-Prd",
+   "title": "Technical Bulletin",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2966986/Ewc-Controls-Prd.html"
+  },
+  {
+   "manualId": "693026",
+   "slug": "Ewc-Controls-Ewt-3707",
+   "title": "Technical Bulletin",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/693026/Ewc-Controls-Ewt-3707.html"
+  },
+  {
+   "manualId": "891563",
+   "slug": "Ewc-Controls-Ewt-3611",
+   "title": "Technical Bulletin",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/891563/Ewc-Controls-Ewt-3611.html"
+  },
+  {
+   "manualId": "3401261",
+   "slug": "Ewc-Controls-Ultra-Talk-3000",
+   "title": "ULTRA-TALK 3000 Technical Bulletin",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "ULTRA-TALK 3000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3401261/Ewc-Controls-Ultra-Talk-3000.html"
+  },
+  {
+   "manualId": "2056665",
+   "slug": "Ewc-Controls-Ultra-Zone-St2e-Series",
+   "title": "ULTRA-ZONE EWC-ST-2E Technical Bulletin",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "ULTRA-ZONE EWC-ST-2E",
+   "extraModels": [
+    "ULTRA-ZONE EWC-ST-2E",
+    "ULTRA-ZONE EWC-ST-3E",
+    "ULTRA-ZONE ST3E Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2056665/Ewc-Controls-Ultra-Zone-St2e-Series.html"
+  },
+  {
+   "manualId": "1898963",
+   "slug": "Ewc-Controls-Ultra-Zone-Hk2000",
+   "title": "ULTRA-ZONE HK2000 Technical Bulletin",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "ULTRA-ZONE HK2000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1898963/Ewc-Controls-Ultra-Zone-Hk2000.html"
+  },
+  {
+   "manualId": "804625",
+   "slug": "Ewc-Controls-Ultra-Zone-Izt-100",
+   "title": "Ultra-Zone IZT-100 installation manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "Ultra-Zone IZT-100",
+   "extraModels": [
+    "Ultra-Zone IZT-250"
+   ],
+   "url": "https://www.manualslib.com/manual/804625/Ewc-Controls-Ultra-Zone-Izt-100.html"
+  },
+  {
+   "manualId": "3456883",
+   "slug": "Ewc-Controls-Ultra-Zone-Ncm-3z",
+   "title": "ULTRA-ZONE NCM-3z Technical Bulletin",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "ULTRA-ZONE NCM-3z",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3456883/Ewc-Controls-Ultra-Zone-Ncm-3z.html"
+  },
+  {
+   "manualId": "4203216",
+   "slug": "Ewc-Controls-Ultra-Zone-Ncm-3zl",
+   "title": "ULTRA-ZONE NCM-3z Technical Bulletin",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "ULTRA-ZONE NCM-3z",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4203216/Ewc-Controls-Ultra-Zone-Ncm-3zl.html"
+  },
+  {
+   "manualId": "636816",
+   "slug": "Ewc-Controls-Ultra-Zone-S2000",
+   "title": "Ultra-Zone S2000 Installation instructions & owner's manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Ultra-Zone S2000",
+   "extraModels": [
+    "Ultra-Zone S2020"
+   ],
+   "url": "https://www.manualslib.com/manual/636816/Ewc-Controls-Ultra-Zone-S2000.html"
+  },
+  {
+   "manualId": "1979190",
+   "slug": "Ewc-Controls-Ultra-Zone-Ultra-Talk-Ut-3000",
+   "title": "ULTRA-ZONE ULTRA-TALK UT-3000 Manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "ULTRA-ZONE ULTRA-TALK UT-3000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1979190/Ewc-Controls-Ultra-Zone-Ultra-Talk-Ut-3000.html"
+  },
+  {
+   "manualId": "1598992",
+   "slug": "Ewc-Controls-Ultra-Zone-Uzc4",
+   "title": "Ultra-Zone UZC4 Technical Bulletin",
+   "type": "Other",
+   "pages": 25,
+   "productModel": "Ultra-Zone UZC4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1598992/Ewc-Controls-Ultra-Zone-Uzc4.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4238979",
+   "slug": "ewc-controls-ncm-3z-ultra-zone-control-system-installation-manual",
+   "title": "EWC Controls NCM-3z Ultra-Zone Control System Installation Manual"
+  }
+ ],
+ "techDirectIds": [
+  "ewc-controls"
+ ]
+}

@@ -1,0 +1,172 @@
+{
+ "brand": "Cambridge Air Solutions",
+ "brandSlug": "cambridge-air-solutions",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/cambridge-air-solutions/"
+ ],
+ "slugUsed": "cambridge-air-solutions",
+ "capturedAt": "2026-10-28T06:33:25.195212+00:00",
+ "typePages": [
+  {
+   "path": "/brand/cambridge-air-solutions/accessories.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/cambridge-air-solutions/air-handlers.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/cambridge-air-solutions/controller.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/cambridge-air-solutions/fan.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/cambridge-air-solutions/heater.html",
+   "manuals": 22,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4514218",
+   "slug": "Cambridge-Air-Solutions-Apexair-Series",
+   "title": "ApexAir Series Technical manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "ApexAir Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4514218/Cambridge-Air-Solutions-Apexair-Series.html"
+  },
+  {
+   "manualId": "2912199",
+   "slug": "Cambridge-Air-Solutions-Bacnet-Evap",
+   "title": "BACNET EVAP operating instructions manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "BACNET EVAP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2912199/Cambridge-Air-Solutions-Bacnet-Evap.html"
+  },
+  {
+   "manualId": "2608870",
+   "slug": "Cambridge-Air-Solutions-Blow-Thru-Sa-Series",
+   "title": "Blow-Thru SA Series Technical manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "Blow-Thru SA Series",
+   "extraModels": [
+    "Blow-Thru SA250",
+    "Blow-Thru SA350"
+   ],
+   "url": "https://www.manualslib.com/manual/2608870/Cambridge-Air-Solutions-Blow-Thru-Sa-Series.html"
+  },
+  {
+   "manualId": "2102956",
+   "slug": "Cambridge-Air-Solutions-E-Series",
+   "title": "E Series Technical manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "E Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2102956/Cambridge-Air-Solutions-E-Series.html"
+  },
+  {
+   "manualId": "1837507",
+   "slug": "Cambridge-Air-Solutions-M-Series",
+   "title": "M Series Technical manual",
+   "type": "Other",
+   "pages": 112,
+   "productModel": "M Series",
+   "extraModels": [
+    "M110",
+    "M112",
+    "M115",
+    "M118",
+    "M120",
+    "M125",
+    "M130",
+    "M136",
+    "M140"
+   ],
+   "url": "https://www.manualslib.com/manual/1837507/Cambridge-Air-Solutions-M-Series.html"
+  },
+  {
+   "manualId": "1832997",
+   "slug": "Cambridge-Air-Solutions-S-Series",
+   "title": "S Series Technical manual",
+   "type": "Other",
+   "pages": 116,
+   "productModel": "S Series",
+   "extraModels": [
+    "S1200",
+    "S1600",
+    "S1850",
+    "S2200",
+    "S3200"
+   ],
+   "url": "https://www.manualslib.com/manual/1832997/Cambridge-Air-Solutions-S-Series.html"
+  },
+  {
+   "manualId": "3866076",
+   "slug": "Cambridge-Air-Solutions-S400",
+   "title": "S400 Technical manual",
+   "type": "Other",
+   "pages": 116,
+   "productModel": "S400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3866076/Cambridge-Air-Solutions-S400.html"
+  },
+  {
+   "manualId": "3866077",
+   "slug": "Cambridge-Air-Solutions-S800",
+   "title": "S800 Technical manual",
+   "type": "Other",
+   "pages": 116,
+   "productModel": "S800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3866077/Cambridge-Air-Solutions-S800.html"
+  },
+  {
+   "manualId": "3866078",
+   "slug": "Cambridge-Air-Solutions-S950",
+   "title": "S950 Technical manual",
+   "type": "Other",
+   "pages": 116,
+   "productModel": "S950",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3866078/Cambridge-Air-Solutions-S950.html"
+  },
+  {
+   "manualId": "2574792",
+   "slug": "Cambridge-Air-Solutions-Spec-Air-Series",
+   "title": "SPEC AIR Series Technical manual",
+   "type": "Other",
+   "pages": 62,
+   "productModel": "SPEC AIR Series",
+   "extraModels": [
+    "SPEC AIR Series",
+    "SPEC AIR V18",
+    "SPEC AIR V20",
+    "SPEC AIR V25",
+    "SPEC AIR V30"
+   ],
+   "url": "https://www.manualslib.com/manual/2574792/Cambridge-Air-Solutions-Spec-Air-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "cambridge-air-solutions"
+ ]
+}

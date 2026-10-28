@@ -1,0 +1,37 @@
+{
+ "brand": "Maxi Vac",
+ "brandSlug": "maxi-vac",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/maxi-vac/"
+ ],
+ "slugUsed": "maxi-vac",
+ "capturedAt": "2026-10-28T08:36:00.287961+00:00",
+ "typePages": [
+  {
+   "path": "/brand/maxi-vac/vacuum-cleaner.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1015351",
+   "slug": "Maxi-Vac-D4102",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1015351/Maxi-Vac-D4102.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "maxi-vac"
+ ]
+}

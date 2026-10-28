@@ -1,0 +1,135 @@
+{
+ "brand": "EasyHeat",
+ "brandSlug": "easyheat",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/easyheat/"
+ ],
+ "slugUsed": "easyheat",
+ "capturedAt": "2026-10-28T07:01:31.888450+00:00",
+ "typePages": [
+  {
+   "path": "/brand/easyheat/cables-and-connectors.html",
+   "manuals": 17,
+   "status": 200
+  },
+  {
+   "path": "/brand/easyheat/heater.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/easyheat/heating-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/easyheat/melting-machines.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/easyheat/thermostat.html",
+   "manuals": 4,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3196628",
+   "slug": "easyheat-warm-tiles-gt-1-gt-2-thermostat-installation-manual",
+   "title": "EasyHeat Warm Tiles GT-1, GT-2 - Thermostat Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3196628/easyheat-warm-tiles-gt-1-gt-2-thermostat-installation-manual.html"
+  },
+  {
+   "manualId": "1083575",
+   "slug": "Easyheat-Gt-1",
+   "title": "GT-1 Operating & Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "GT-1",
+   "extraModels": [
+    "GT-2"
+   ],
+   "url": "https://www.manualslib.com/manual/1083575/Easyheat-Gt-1.html"
+  },
+  {
+   "manualId": "1324265",
+   "slug": "Easyheat-Sa-1",
+   "title": "Installation & Operation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1324265/Easyheat-Sa-1.html"
+  },
+  {
+   "manualId": "1525502",
+   "slug": "Easyheat-Sl-2g",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1525502/Easyheat-Sl-2g.html"
+  },
+  {
+   "manualId": "1708887",
+   "slug": "Easyheat-Ch-Series",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1708887/Easyheat-Ch-Series.html"
+  },
+  {
+   "manualId": "1920380",
+   "slug": "Easyheat-Tsrp-Series",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1920380/Easyheat-Tsrp-Series.html"
+  },
+  {
+   "manualId": "1957169",
+   "slug": "Easyheat-Freeze-Free",
+   "title": "Instruction Sheet",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1957169/Easyheat-Freeze-Free.html"
+  },
+  {
+   "manualId": "1525503",
+   "slug": "Easyheat-Warm-Tiles-Fgs",
+   "title": "Warm Tiles FGS Operating & installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Warm Tiles FGS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1525503/Easyheat-Warm-Tiles-Fgs.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "3196628",
+   "slug": "easyheat-warm-tiles-gt-1-gt-2-thermostat-installation-manual",
+   "title": "EasyHeat Warm Tiles GT-1, GT-2 - Thermostat Installation Manual"
+  }
+ ],
+ "techDirectIds": [
+  "easyheat"
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "brand": "Vilter",
+ "brandSlug": "vilter",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/vilter/"
+ ],
+ "slugUsed": "vilter",
+ "capturedAt": "2026-10-28T09:50:17.292428+00:00",
+ "typePages": [
+  {
+   "path": "/brand/vilter/air-compressor.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/vilter/compressor.html",
+   "manuals": 3,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "690331",
+   "slug": "Vilter-320",
+   "title": "320 operating manual",
+   "type": "User / Owner",
+   "pages": 136,
+   "productModel": "320",
+   "extraModels": [
+    "320 VMC",
+    "330",
+    "330 VMC",
+    "340",
+    "340 VMC"
+   ],
+   "url": "https://www.manualslib.com/manual/690331/Vilter-320.html"
+  },
+  {
+   "manualId": "2064993",
+   "slug": "Vilter-Vss-451-1801",
+   "title": "VSM 71-701 Operation and service manual",
+   "type": "Service",
+   "pages": 244,
+   "productModel": "VSM 71-701",
+   "extraModels": [
+    "VSM 71-701",
+    "VSR 111-301"
+   ],
+   "url": "https://www.manualslib.com/manual/2064993/Vilter-Vss-451-1801.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "vilter"
+ ]
+}

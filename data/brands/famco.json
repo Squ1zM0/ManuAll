@@ -1,0 +1,263 @@
+{
+ "brand": "Famco",
+ "brandSlug": "famco",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/famco/"
+ ],
+ "slugUsed": "famco",
+ "capturedAt": "2026-10-28T07:06:15.964847+00:00",
+ "typePages": [
+  {
+   "path": "/brand/famco/air-compressor.html",
+   "manuals": 34,
+   "status": 200
+  },
+  {
+   "path": "/brand/famco/construction-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/famco/controller.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/famco/lighting-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/famco/network-router.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/famco/power-tool.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/famco/smoke-alarm.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/famco/thermostat.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/famco/water-filtration-systems.html",
+   "manuals": 6,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3584202",
+   "slug": "Famco-100",
+   "title": "100 Service manual",
+   "type": "Service",
+   "pages": 26,
+   "productModel": "100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3584202/Famco-100.html"
+  },
+  {
+   "manualId": "2757175",
+   "slug": "Famco-Ca-500",
+   "title": "CA-500 instruction manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "CA-500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2757175/Famco-Ca-500.html"
+  },
+  {
+   "manualId": "2609766",
+   "slug": "Famco-Danfoss-Maneurop-Mt",
+   "title": "Danfoss Maneurop MT Manual",
+   "type": "Other",
+   "pages": 294,
+   "productModel": "Danfoss Maneurop MT",
+   "extraModels": [
+    "Danfoss Maneurop MTZ"
+   ],
+   "url": "https://www.manualslib.com/manual/2609766/Famco-Danfoss-Maneurop-Mt.html"
+  },
+  {
+   "manualId": "2448046",
+   "slug": "Famco-Economizer-Breathe-Smarter",
+   "title": "ECONOMIZER BREATHE SMARTER installation manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "ECONOMIZER BREATHE SMARTER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2448046/Famco-Economizer-Breathe-Smarter.html"
+  },
+  {
+   "manualId": "2470440",
+   "slug": "Famco-Emaux-T450",
+   "title": "Emaux T450 Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "Emaux T450",
+   "extraModels": [
+    "Emaux T500",
+    "Emaux T600",
+    "Emaux T600B",
+    "Emaux T700",
+    "Emaux T700B"
+   ],
+   "url": "https://www.manualslib.com/manual/2470440/Famco-Emaux-T450.html"
+  },
+  {
+   "manualId": "2633795",
+   "slug": "Famco-Hpmont-Hd3n-L-Series",
+   "title": "Hpmont HD3N-4T011-L Manual",
+   "type": "Other",
+   "pages": 95,
+   "productModel": "Hpmont HD3N-4T011-L",
+   "extraModels": [
+    "Hpmont HD3N-4T011-L",
+    "Hpmont HD3N-4T015-L",
+    "Hpmont HD3N-4T018-L",
+    "Hpmont HD3N-4T022-L",
+    "Hpmont HD3N-4T7P5-L"
+   ],
+   "url": "https://www.manualslib.com/manual/2633795/Famco-Hpmont-Hd3n-L-Series.html"
+  },
+  {
+   "manualId": "2934988",
+   "slug": "Famco-Gst-Dc-9102e",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2934988/Famco-Gst-Dc-9102e.html"
+  },
+  {
+   "manualId": "3576768",
+   "slug": "Famco-Ccr1009-7g-1c-1sPlus",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3576768/Famco-Ccr1009-7g-1c-1sPlus.html"
+  },
+  {
+   "manualId": "3580694",
+   "slug": "Famco-Routerboard-951-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3580694/Famco-Routerboard-951-Series.html"
+  },
+  {
+   "manualId": "2572512",
+   "slug": "Famco-Mont72-Series",
+   "title": "MONT72 Series user manual",
+   "type": "User / Owner",
+   "pages": 113,
+   "productModel": "MONT72 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2572512/Famco-Mont72-Series.html"
+  },
+  {
+   "manualId": "3418367",
+   "slug": "Famco-Netbox-5",
+   "title": "Netbox 5 quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "Netbox 5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3418367/Famco-Netbox-5.html"
+  },
+  {
+   "manualId": "1965879",
+   "slug": "Famco-Eco-Rapid-Led-Goldstar",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1965879/Famco-Eco-Rapid-Led-Goldstar.html"
+  },
+  {
+   "manualId": "2538672",
+   "slug": "Famco-1072-1g-8sPlus",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2538672/Famco-1072-1g-8sPlus.html"
+  },
+  {
+   "manualId": "3580677",
+   "slug": "Famco-Qrt-5",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3580677/Famco-Qrt-5.html"
+  },
+  {
+   "manualId": "4250069",
+   "slug": "Famco-Sm-Series",
+   "title": "SM Series Application Manuallines",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "SM Series",
+   "extraModels": [
+    "SM084",
+    "SM090",
+    "SM100",
+    "SM110",
+    "SM112",
+    "SM120",
+    "SM124",
+    "SM147",
+    "SM148",
+    "SM161",
+    "SM175",
+    "SM185",
+    "SY Series",
+    "SY185",
+    "SY240",
+    "SY300",
+    "SY380",
+    "SZ Series",
+    "SZ00",
+    "SZ084",
+    "SZ100",
+    "SZ110",
+    "SZ120",
+    "SZ147",
+    "SZ148",
+    "SZ161",
+    "SZ175",
+    "SZ185",
+    "SZ240",
+    "SZ300",
+    "SZ380"
+   ],
+   "url": "https://www.manualslib.com/manual/4250069/Famco-Sm-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "famco"
+ ]
+}

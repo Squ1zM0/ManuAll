@@ -1,0 +1,129 @@
+{
+ "brand": "Embraco",
+ "brandSlug": "embraco",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/embraco/"
+ ],
+ "slugUsed": "embraco",
+ "capturedAt": "2026-10-28T07:04:30.384659+00:00",
+ "typePages": [
+  {
+   "path": "/brand/embraco/air-compressor.html",
+   "manuals": 37,
+   "status": 200
+  },
+  {
+   "path": "/brand/embraco/heat-pump.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2148922",
+   "slug": "Embraco-Bioma-Up-Series",
+   "title": "BIOMA UP Series installation instructions manual",
+   "type": "Installation",
+   "pages": 53,
+   "productModel": "BIOMA UP Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2148922/Embraco-Bioma-Up-Series.html"
+  },
+  {
+   "manualId": "821387",
+   "slug": "Embraco-Compressor",
+   "title": "Compressor Applications manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "Compressor",
+   "extraModels": [
+    "EG Series",
+    "EM Series",
+    "F Series",
+    "PW Series"
+   ],
+   "url": "https://www.manualslib.com/manual/821387/Embraco-Compressor.html"
+  },
+  {
+   "manualId": "4266779",
+   "slug": "Embraco-Ffi12hbx",
+   "title": "FFI12HBX Applications manual",
+   "type": "Other",
+   "pages": 79,
+   "productModel": "FFI12HBX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4266779/Embraco-Ffi12hbx.html"
+  },
+  {
+   "manualId": "2016229",
+   "slug": "Embraco-Fullmotion-Cf10c",
+   "title": "Fullmotion CF10C product manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "Fullmotion CF10C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2016229/Embraco-Fullmotion-Cf10c.html"
+  },
+  {
+   "manualId": "1979692",
+   "slug": "Embraco-Scroll-Se6015gs-O",
+   "title": "Scroll SE2006GK-C installation instructions manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "Scroll SE2006GK-C",
+   "extraModels": [
+    "Scroll SE2006GK-C",
+    "Scroll SE2006GS-O",
+    "Scroll SE2008GK-C",
+    "Scroll SE2008GS-O",
+    "Scroll SE2010GK-C",
+    "Scroll SE2010GS-O",
+    "Scroll SE2012GK-C",
+    "Scroll SE2012GS-O",
+    "Scroll SE2014GK-C",
+    "Scroll SE2014GS-O",
+    "Scroll SE2017GS-O",
+    "Scroll SE2020GS-O",
+    "Scroll SE6015GK-C",
+    "Scroll SE6018GK-C",
+    "Scroll SE6018GS-O",
+    "Scroll SE6021GK-C",
+    "Scroll SE6021GS-O",
+    "Scroll SE6026GK-C",
+    "Scroll SE6026GS-O",
+    "Scroll SE6030GK-C",
+    "Scroll SE6030GS-O",
+    "Scroll SE6036GS-O",
+    "Scroll SE6043GS-O",
+    "Scroll SE6053GS-O",
+    "Scroll SE6056GS-O",
+    "Scroll SE6067GS-O",
+    "Scroll SE6078GS-O",
+    "Scroll SE6085GS-O",
+    "Scroll SE6089GS-O"
+   ],
+   "url": "https://www.manualslib.com/manual/1979692/Embraco-Scroll-Se6015gs-O.html"
+  },
+  {
+   "manualId": "1755150",
+   "slug": "Embraco-Sliding-Unit-Series",
+   "title": "Sliding unit Series installation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Sliding unit Series",
+   "extraModels": [
+    "Sliding unit Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1755150/Embraco-Sliding-Unit-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "embraco"
+ ]
+}

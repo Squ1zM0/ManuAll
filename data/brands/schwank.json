@@ -1,0 +1,1333 @@
+{
+ "brand": "Schwank",
+ "brandSlug": "schwank",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/schwank/"
+ ],
+ "slugUsed": "schwank",
+ "capturedAt": "2026-10-28T09:20:14.157328+00:00",
+ "typePages": [
+  {
+   "path": "/brand/schwank/control-unit.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/schwank/controller.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/schwank/electric-heater.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/schwank/fan.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/schwank/gas-heater.html",
+   "manuals": 67,
+   "status": 200
+  },
+  {
+   "path": "/brand/schwank/heater.html",
+   "manuals": 412,
+   "status": 200
+  },
+  {
+   "path": "/brand/schwank/patio-heater.html",
+   "manuals": 54,
+   "status": 200
+  },
+  {
+   "path": "/brand/schwank/racks-and-stands.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/schwank/remote-control.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "734995",
+   "slug": "Schwank-1110",
+   "title": "1110 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "1110",
+   "extraModels": [
+    "1115",
+    "1120",
+    "1130"
+   ],
+   "url": "https://www.manualslib.com/manual/734995/Schwank-1110.html"
+  },
+  {
+   "manualId": "1651703",
+   "slug": "Schwank-Deltaschwank-Series",
+   "title": "1260U Technical manual",
+   "type": "Other",
+   "pages": 57,
+   "productModel": "1260U",
+   "extraModels": [
+    "1260U",
+    "310U",
+    "320U",
+    "625U",
+    "635U",
+    "950U"
+   ],
+   "url": "https://www.manualslib.com/manual/1651703/Schwank-Deltaschwank-Series.html"
+  },
+  {
+   "manualId": "2144671",
+   "slug": "Schwank-Monsterfans-Mf-C12",
+   "title": "195 80 200 Use Instruction",
+   "type": "User / Owner",
+   "pages": 23,
+   "productModel": "195 80 200",
+   "extraModels": [
+    "195 80 200",
+    "195 80 204",
+    "195 80 212",
+    "MonsterFans MF-C16",
+    "MonsterFans MF-C20",
+    "MonsterFans MF-C24"
+   ],
+   "url": "https://www.manualslib.com/manual/2144671/Schwank-Monsterfans-Mf-C12.html"
+  },
+  {
+   "manualId": "1292328",
+   "slug": "Schwank-20s-L",
+   "title": "20S L Technical manual",
+   "type": "Other",
+   "pages": 42,
+   "productModel": "20S L",
+   "extraModels": [
+    "25S L",
+    "35S L",
+    "45S L",
+    "55S L"
+   ],
+   "url": "https://www.manualslib.com/manual/1292328/Schwank-20s-L.html"
+  },
+  {
+   "manualId": "2870768",
+   "slug": "Schwank-Novoschwank-20s-L",
+   "title": "20S L Technical manual",
+   "type": "Other",
+   "pages": 57,
+   "productModel": "20S L",
+   "extraModels": [
+    "25S L",
+    "35S L",
+    "45S L",
+    "55S L"
+   ],
+   "url": "https://www.manualslib.com/manual/2870768/Schwank-Novoschwank-20s-L.html"
+  },
+  {
+   "manualId": "3915655",
+   "slug": "Schwank-2135",
+   "title": "2135 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "2135",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3915655/Schwank-2135.html"
+  },
+  {
+   "manualId": "3059243",
+   "slug": "Schwank-Bistroschwank-Series",
+   "title": "2150 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "2150",
+   "extraModels": [
+    "2150",
+    "InfraSave 2152",
+    "infrasave SET Series",
+    "IO-135",
+    "IO-150"
+   ],
+   "url": "https://www.manualslib.com/manual/3059243/Schwank-Bistroschwank-Series.html"
+  },
+  {
+   "manualId": "720229",
+   "slug": "Schwank-2300-Series",
+   "title": "2300 Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "2300 Series",
+   "extraModels": [
+    "IO-210 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/720229/Schwank-2300-Series.html"
+  },
+  {
+   "manualId": "726402",
+   "slug": "Schwank-Io-210",
+   "title": "2300 Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "2300 Series",
+   "extraModels": [
+    "2300 Series",
+    "InfraSave IO-210"
+   ],
+   "url": "https://www.manualslib.com/manual/726402/Schwank-Io-210.html"
+  },
+  {
+   "manualId": "751871",
+   "slug": "Schwank-Io-210",
+   "title": "2300 Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "2300 Series",
+   "extraModels": [
+    "2300 Series",
+    "InfraSave IO-210"
+   ],
+   "url": "https://www.manualslib.com/manual/751871/Schwank-Io-210.html"
+  },
+  {
+   "manualId": "3059250",
+   "slug": "Schwank-Select12-Series",
+   "title": "3200 Series Manual",
+   "type": "Other",
+   "pages": 38,
+   "productModel": "3200 Series",
+   "extraModels": [
+    "3200 Series",
+    "AC-TA36-23",
+    "AC-TA60-23",
+    "AC-TA72-23",
+    "AC-TE36-48",
+    "AC-TE36-60",
+    "AC-TE3A-20",
+    "AC-TE60-20",
+    "AC-TE60-48",
+    "AC-TE60-60",
+    "AC-TE72-20",
+    "AC-TE72-48",
+    "AC-TE72-60",
+    "AC-TW36-23",
+    "AC-TW60-23",
+    "AC-TW72-23"
+   ],
+   "url": "https://www.manualslib.com/manual/3059250/Schwank-Select12-Series.html"
+  },
+  {
+   "manualId": "788609",
+   "slug": "Schwank-4001-J-Series",
+   "title": "4001-J SERIES Installation & owner's manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "4001-J SERIES",
+   "extraModels": [
+    "4002-J SERIES",
+    "4401-J Series",
+    "4402-J Series",
+    "44N1-J Series",
+    "44N2-J Series",
+    "4N11-J SERIES",
+    "4N12-J Series",
+    "4N12-JSERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/788609/Schwank-4001-J-Series.html"
+  },
+  {
+   "manualId": "753028",
+   "slug": "Schwank-4002-Cb",
+   "title": "4002-CB Installation & owner's manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "4002-CB",
+   "extraModels": [
+    "4005-CB"
+   ],
+   "url": "https://www.manualslib.com/manual/753028/Schwank-4002-Cb.html"
+  },
+  {
+   "manualId": "791510",
+   "slug": "Schwank-4002-Cb",
+   "title": "4002-CB Installation & owner's manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "4002-CB",
+   "extraModels": [
+    "4005-CB"
+   ],
+   "url": "https://www.manualslib.com/manual/791510/Schwank-4002-Cb.html"
+  },
+  {
+   "manualId": "1268300",
+   "slug": "Schwank-4003-Series",
+   "title": "4003 series user manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "4003 series",
+   "extraModels": [
+    "4403 series"
+   ],
+   "url": "https://www.manualslib.com/manual/1268300/Schwank-4003-Series.html"
+  },
+  {
+   "manualId": "2187783",
+   "slug": "Schwank-Control-Touch",
+   "title": "40660000 Technical manual",
+   "type": "Other",
+   "pages": 71,
+   "productModel": "40660000",
+   "extraModels": [
+    "40660000"
+   ],
+   "url": "https://www.manualslib.com/manual/2187783/Schwank-Control-Touch.html"
+  },
+  {
+   "manualId": "826632",
+   "slug": "Schwank-4bn6-Cb-24",
+   "title": "4BL6-CB-24 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "4BL6-CB-24",
+   "extraModels": [
+    "4BL6-CB-24",
+    "4SL5-CB-2",
+    "4SL5-CB-24",
+    "4SN5-CB-24"
+   ],
+   "url": "https://www.manualslib.com/manual/826632/Schwank-4bn6-Cb-24.html"
+  },
+  {
+   "manualId": "3008621",
+   "slug": "Schwank-Epic14-Series",
+   "title": "AC-EA036-20 installation manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "AC-EA036-20",
+   "extraModels": [
+    "AC-EA036-20",
+    "AC-EA042-20",
+    "AC-EA048-20",
+    "AC-EA060-20",
+    "AC-EA072-20",
+    "AC-EA084-20",
+    "AC-EA096-20",
+    "AC-EA108-20",
+    "AC-EA120-20"
+   ],
+   "url": "https://www.manualslib.com/manual/3008621/Schwank-Epic14-Series.html"
+  },
+  {
+   "manualId": "1656907",
+   "slug": "Schwank-Infraschwank-D-Series",
+   "title": "calorSchwank D 15 U Technical manual",
+   "type": "Other",
+   "pages": 66,
+   "productModel": "calorSchwank D 15 U",
+   "extraModels": [
+    "calorSchwank D 15 U",
+    "calorSchwank D 20 U",
+    "calorSchwank D 30 U",
+    "calorSchwank D 40 U",
+    "calorSchwank D 50 U",
+    "calorSchwank D 60 U",
+    "calorSchwank D Series",
+    "infraSchwank D 15U",
+    "infraSchwank D 20U",
+    "infraSchwank D 30U",
+    "infraSchwank D 40U",
+    "infraSchwank D 50 U",
+    "infraSchwank D 60 U"
+   ],
+   "url": "https://www.manualslib.com/manual/1656907/Schwank-Infraschwank-D-Series.html"
+  },
+  {
+   "manualId": "819138",
+   "slug": "Schwank-Infraschwank-D-15u",
+   "title": "calorSchwank D 15U Technical manual",
+   "type": "Other",
+   "pages": 41,
+   "productModel": "calorSchwank D 15U",
+   "extraModels": [
+    "calorSchwank D 15U",
+    "calorSchwank D 20U",
+    "calorSchwank D 30U",
+    "calorSchwank D 40U",
+    "infraSchwank D 20U",
+    "infraSchwank D 30U",
+    "infraSchwank D 40U"
+   ],
+   "url": "https://www.manualslib.com/manual/819138/Schwank-Infraschwank-D-15u.html"
+  },
+  {
+   "manualId": "1649395",
+   "slug": "Schwank-Yct-107",
+   "title": "CMR-1000-24V Installation & owner's manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "CMR-1000-24V",
+   "extraModels": [
+    "CMR-1000-24V"
+   ],
+   "url": "https://www.manualslib.com/manual/1649395/Schwank-Yct-107.html"
+  },
+  {
+   "manualId": "840060",
+   "slug": "Schwank-Compactschwank-P40-R",
+   "title": "compactSchwank P40-R Installation & owner's manual",
+   "type": "Installation",
+   "pages": 45,
+   "productModel": "compactSchwank P40-R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/840060/Schwank-Compactschwank-P40-R.html"
+  },
+  {
+   "manualId": "1648617",
+   "slug": "Schwank-Ecoschwank-Millivolt",
+   "title": "ECOSCHWANK-MILLIVOLT Installation & owner's manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "ECOSCHWANK-MILLIVOLT",
+   "extraModels": [
+    "ECOSCHWANK-X-MILLIVOLT"
+   ],
+   "url": "https://www.manualslib.com/manual/1648617/Schwank-Ecoschwank-Millivolt.html"
+  },
+  {
+   "manualId": "3064682",
+   "slug": "Schwank-Ecoschwank-Millivolt",
+   "title": "ECOSCHWANK-MILLIVOLT Installation & owner's manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "ECOSCHWANK-MILLIVOLT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3064682/Schwank-Ecoschwank-Millivolt.html"
+  },
+  {
+   "manualId": "737854",
+   "slug": "Schwank-Ecoschwank-X-36",
+   "title": "ecoSchwank-X 36 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "ecoSchwank-X 36",
+   "extraModels": [
+    "ecoSchwank-X 52",
+    "Heaters 52",
+    "IL-X 150",
+    "IL-X 200"
+   ],
+   "url": "https://www.manualslib.com/manual/737854/Schwank-Ecoschwank-X-36.html"
+  },
+  {
+   "manualId": "734904",
+   "slug": "Schwank-Ecoschwank-X-6-Il-X-25",
+   "title": "ecoSchwank-X Installation & owner's manual",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "ecoSchwank-X",
+   "extraModels": [
+    "ecoSchwank-X 10",
+    "ecoSchwank-X 10 - IL-X 37",
+    "ecoSchwank-X 13",
+    "ecoSchwank-X 13 - IL-X 50",
+    "ecoSchwank-X 18",
+    "ecoSchwank-X 18 - IL-X 75",
+    "ecoSchwank-X 26",
+    "ecoSchwank-X 26 - IL-X 100",
+    "IL-X 100",
+    "IL-X 37",
+    "IL-X 50",
+    "IL-X 75"
+   ],
+   "url": "https://www.manualslib.com/manual/734904/Schwank-Ecoschwank-X-6-Il-X-25.html"
+  },
+  {
+   "manualId": "2146340",
+   "slug": "Schwank-Uhe",
+   "title": "EIH Installation & owner's manual",
+   "type": "Installation",
+   "pages": 57,
+   "productModel": "EIH",
+   "extraModels": [
+    "EIH"
+   ],
+   "url": "https://www.manualslib.com/manual/2146340/Schwank-Uhe.html"
+  },
+  {
+   "manualId": "835444",
+   "slug": "Schwank-Uhe",
+   "title": "EIH Installation and owner's manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "EIH",
+   "extraModels": [
+    "EIH",
+    "InfraSave Ultimate EIH",
+    "ultraSchwank UHE"
+   ],
+   "url": "https://www.manualslib.com/manual/835444/Schwank-Uhe.html"
+  },
+  {
+   "manualId": "789373",
+   "slug": "Schwank-Sch-90-Series",
+   "title": "IC-90 Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "IC-90 Series",
+   "extraModels": [
+    "IC-90 Series",
+    "IC-90-L",
+    "IC-90-M-L",
+    "IC-90-M-N",
+    "IC-90-N",
+    "SCH-90-L",
+    "SCH-90-M-L",
+    "SCH-90-M-N",
+    "SCH-90-N"
+   ],
+   "url": "https://www.manualslib.com/manual/789373/Schwank-Sch-90-Series.html"
+  },
+  {
+   "manualId": "738449",
+   "slug": "Schwank-2100",
+   "title": "InfraSave 2100 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "InfraSave 2100",
+   "extraModels": [
+    "InfraSave IO-100",
+    "bistroSchwank 2100",
+    "bistroSchwank 2135-LP",
+    "bistroSchwank 2135-NG",
+    "bistroSchwank 2150-LP",
+    "bistroSchwank 2150-NG",
+    "IO 135-LP",
+    "IO 135-NG",
+    "IO 150-LP",
+    "IO 150-NG"
+   ],
+   "url": "https://www.manualslib.com/manual/738449/Schwank-2100.html"
+  },
+  {
+   "manualId": "1200492",
+   "slug": "Schwank-Infrasave-2100",
+   "title": "InfraSave 2100 owner's manual",
+   "type": "User / Owner",
+   "pages": 45,
+   "productModel": "InfraSave 2100",
+   "extraModels": [
+    "InfraSave 2100-SS",
+    "InfraSave 2152",
+    "InfraSave 2152-SS",
+    "InfraSave IO-100",
+    "InfraSave IO-100-SS",
+    "InfraSave IO-152",
+    "InfraSave IO-152-SS"
+   ],
+   "url": "https://www.manualslib.com/manual/1200492/Schwank-Infrasave-2100.html"
+  },
+  {
+   "manualId": "771591",
+   "slug": "Schwank-Infrasave-4sn5",
+   "title": "InfraSave 4BL6 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "InfraSave 4BL6",
+   "extraModels": [
+    "InfraSave 4BL6",
+    "InfraSave 4BN6",
+    "InfraSave 4SL5"
+   ],
+   "url": "https://www.manualslib.com/manual/771591/Schwank-Infrasave-4sn5.html"
+  },
+  {
+   "manualId": "2653359",
+   "slug": "Schwank-Infrasave-4bn6-Cb",
+   "title": "infrasave 4BL6-CB Installation & owner's manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "infrasave 4BL6-CB",
+   "extraModels": [
+    "infrasave 4BL6-CB",
+    "infrasave 4SL5-CB",
+    "infrasave 4SN5-CB"
+   ],
+   "url": "https://www.manualslib.com/manual/2653359/Schwank-Infrasave-4bn6-Cb.html"
+  },
+  {
+   "manualId": "2123490",
+   "slug": "Schwank-Infrasave",
+   "title": "InfraSave Manual",
+   "type": "Other",
+   "pages": 35,
+   "productModel": "InfraSave",
+   "extraModels": [
+    "superTube",
+    "Supertube JT-BS05-AN",
+    "Supertube JT-BS06-AN",
+    "Supertube JT-BS13-AN",
+    "Supertube JT-BS15-AN",
+    "Supertube JT-BS18-AN",
+    "Supertube JT-BS20-AN",
+    "Supertube JT-BS22-AN",
+    "Supertube JT-BS25-AN",
+    "Supertube SST Series",
+    "Supertube SST-U Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2123490/Schwank-Infrasave.html"
+  },
+  {
+   "manualId": "2165298",
+   "slug": "Schwank-Sts-Jz",
+   "title": "IQ 100 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 65,
+   "productModel": "IQ 100",
+   "extraModels": [
+    "IQ 100",
+    "IQ 110",
+    "IQ 130",
+    "IQ 155",
+    "IQ 175",
+    "IQ 200",
+    "IQ 45",
+    "IQ 60",
+    "IQ 80"
+   ],
+   "url": "https://www.manualslib.com/manual/2165298/Schwank-Sts-Jz.html"
+  },
+  {
+   "manualId": "737555",
+   "slug": "Schwank-Sts-Jz",
+   "title": "IQ Installation & owner's manual",
+   "type": "Installation",
+   "pages": 59,
+   "productModel": "IQ",
+   "extraModels": [
+    "IQ"
+   ],
+   "url": "https://www.manualslib.com/manual/737555/Schwank-Sts-Jz.html"
+  },
+  {
+   "manualId": "737563",
+   "slug": "Schwank-Sts-Jz",
+   "title": "IQ Installation & owner's manual",
+   "type": "Installation",
+   "pages": 66,
+   "productModel": "IQ",
+   "extraModels": [
+    "IQ"
+   ],
+   "url": "https://www.manualslib.com/manual/737563/Schwank-Sts-Jz.html"
+  },
+  {
+   "manualId": "3877285",
+   "slug": "Schwank-Ist-Series",
+   "title": "IST Series Manual",
+   "type": "Other",
+   "pages": 35,
+   "productModel": "IST Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877285/Schwank-Ist-Series.html"
+  },
+  {
+   "manualId": "1288757",
+   "slug": "Schwank-Sem-200-70",
+   "title": "IT 110-30 Installation and owner's manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "IT 110-30",
+   "extraModels": [
+    "IT 110-30",
+    "IT 110-40",
+    "IT 110-50",
+    "IT 130-30",
+    "IT 130-40",
+    "IT 130-50",
+    "IT 155-40",
+    "IT 155-50",
+    "IT 155-60",
+    "IT 175-50",
+    "IT 175-60",
+    "IT 175-70",
+    "IT 200-50",
+    "IT 200-60",
+    "IT 200-70",
+    "IT 60-20",
+    "IT 60-30",
+    "IT 80-30",
+    "IT 80-40",
+    "ITU 110-15",
+    "ITU 110-20",
+    "ITU 130-15",
+    "ITU 130-20",
+    "ITU 155-2",
+    "ITU 155-30",
+    "ITU 175-30",
+    "ITU 200-30",
+    "ITU 60-10",
+    "ITU 80-10",
+    "ITU 80-15",
+    "SEM 110-30",
+    "SEM 110-40",
+    "SEM 110-50",
+    "SEM 130-30",
+    "SEM 130-40",
+    "SEM 130-50",
+    "SEM 155-40",
+    "SEM 155-50",
+    "SEM 155-60",
+    "SEM 175-50",
+    "SEM 175-60",
+    "SEM 175-70",
+    "SEM 200-50",
+    "SEM 200-60",
+    "SEM 60-20",
+    "SEM 60-30",
+    "SEM 80-30",
+    "SEM 80-40",
+    "SEMU 110-15",
+    "SEMU 110-20",
+    "SEMU 130-15",
+    "SEMU 155-2",
+    "SEMU 155-30",
+    "SEMU 175-30",
+    "SEMU 200-30",
+    "SEMU 60-10",
+    "SEMU 80-10",
+    "SEMU 80-15",
+    "SEMU130-20"
+   ],
+   "url": "https://www.manualslib.com/manual/1288757/Schwank-Sem-200-70.html"
+  },
+  {
+   "manualId": "3843275",
+   "slug": "Schwank-It-80-20",
+   "title": "IT 80-20 Installation and owner's manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "IT 80-20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3843275/Schwank-It-80-20.html"
+  },
+  {
+   "manualId": "730891",
+   "slug": "Schwank-S100",
+   "title": "ITB Installation & owner's manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "ITB",
+   "extraModels": [
+    "ITB",
+    "ITBU",
+    "S100U"
+   ],
+   "url": "https://www.manualslib.com/manual/730891/Schwank-S100.html"
+  },
+  {
+   "manualId": "855220",
+   "slug": "Schwank-S100",
+   "title": "ITB Installation & owner's manual",
+   "type": "Installation",
+   "pages": 66,
+   "productModel": "ITB",
+   "extraModels": [
+    "ITB",
+    "ITBU",
+    "S100U"
+   ],
+   "url": "https://www.manualslib.com/manual/855220/Schwank-S100.html"
+  },
+  {
+   "manualId": "846805",
+   "slug": "Schwank-Set-Setu",
+   "title": "ITT - ITTU Installation and owner's manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "ITT - ITTU",
+   "extraModels": [
+    "ITT - ITTU",
+    "SET 100/70",
+    "SET 110/75",
+    "SET 130/90",
+    "SET 155/110",
+    "SET 175/125",
+    "SET 200/140",
+    "SET 80/60",
+    "SET Series",
+    "SETU Series",
+    "SETU-110/75",
+    "SETU-130/90",
+    "SETU-155/110",
+    "SETU-175/125",
+    "SETU-200/140",
+    "SETU-80/60"
+   ],
+   "url": "https://www.manualslib.com/manual/846805/Schwank-Set-Setu.html"
+  },
+  {
+   "manualId": "844434",
+   "slug": "Schwank-Set-Setu",
+   "title": "ITT - ITTU owner's manual",
+   "type": "User / Owner",
+   "pages": 59,
+   "productModel": "ITT - ITTU",
+   "extraModels": [
+    "ITT - ITTU",
+    "SET 100/70",
+    "SET 110/75",
+    "SET 130/90",
+    "SET 155/110",
+    "SET 175/125",
+    "SET 200/140",
+    "SET 80/60",
+    "SET Series",
+    "SETU 100/70",
+    "SETU 110/75",
+    "SETU 130/90",
+    "SETU 155/110",
+    "SETU 175/125",
+    "SETU 200/140",
+    "SETU 80/60",
+    "SETU Series"
+   ],
+   "url": "https://www.manualslib.com/manual/844434/Schwank-Set-Setu.html"
+  },
+  {
+   "manualId": "835740",
+   "slug": "Schwank-Spw-Jz",
+   "title": "IW Installation & owner's manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "IW",
+   "extraModels": [
+    "IW",
+    "IW-2",
+    "IWP",
+    "STW-JZ",
+    "STW-JZ2"
+   ],
+   "url": "https://www.manualslib.com/manual/835740/Schwank-Spw-Jz.html"
+  },
+  {
+   "manualId": "798578",
+   "slug": "Schwank-Stw-Jz",
+   "title": "IW owner's manual",
+   "type": "User / Owner",
+   "pages": 58,
+   "productModel": "IW",
+   "extraModels": [
+    "IW",
+    "IW-2",
+    "STW-IW",
+    "STW-IW2",
+    "STW-JZ2"
+   ],
+   "url": "https://www.manualslib.com/manual/798578/Schwank-Stw-Jz.html"
+  },
+  {
+   "manualId": "2162476",
+   "slug": "Schwank-Spw2-Jz-Series",
+   "title": "IW-2 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 61,
+   "productModel": "IW-2",
+   "extraModels": [
+    "IW-2",
+    "IWP2 Series",
+    "STW2-JZ Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2162476/Schwank-Spw2-Jz-Series.html"
+  },
+  {
+   "manualId": "1971333",
+   "slug": "Schwank-Lunaschwank-6",
+   "title": "lunaSchwank 12 Technical Instruction",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "lunaSchwank 12",
+   "extraModels": [
+    "lunaSchwank 12",
+    "lunaSchwank 9"
+   ],
+   "url": "https://www.manualslib.com/manual/1971333/Schwank-Lunaschwank-6.html"
+  },
+  {
+   "manualId": "2229372",
+   "slug": "Schwank-Monsterfan-Series",
+   "title": "MonsterFan Series Use Instruction",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "MonsterFan Series",
+   "extraModels": [
+    "MonsterFans MF-C12",
+    "MonsterFans MF-C16",
+    "MonsterFans MF-C20",
+    "MonsterFans MF-C24"
+   ],
+   "url": "https://www.manualslib.com/manual/2229372/Schwank-Monsterfan-Series.html"
+  },
+  {
+   "manualId": "2201858",
+   "slug": "Schwank-Monsterfans-Style-Series",
+   "title": "MonsterFans Style Series installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "MonsterFans Style Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2201858/Schwank-Monsterfans-Style-Series.html"
+  },
+  {
+   "manualId": "2870789",
+   "slug": "Schwank-Novoschwank-D-20s-U",
+   "title": "novoSchwank D 20S U Technical manual",
+   "type": "Other",
+   "pages": 57,
+   "productModel": "novoSchwank D 20S U",
+   "extraModels": [
+    "novoSchwank D 25S U",
+    "novoSchwank D 35S U",
+    "novoSchwank D 45S U",
+    "novoSchwank D 55S U"
+   ],
+   "url": "https://www.manualslib.com/manual/2870789/Schwank-Novoschwank-D-20s-U.html"
+  },
+  {
+   "manualId": "728746",
+   "slug": "Schwank-P40u",
+   "title": "P40U owner's manual",
+   "type": "User / Owner",
+   "pages": 51,
+   "productModel": "P40U",
+   "extraModels": [
+    "P40U-F",
+    "P40U-I",
+    "P40U-I-F",
+    "P40U-IP",
+    "P40U-IW",
+    "P40U-P",
+    "P40U-W"
+   ],
+   "url": "https://www.manualslib.com/manual/728746/Schwank-P40u.html"
+  },
+  {
+   "manualId": "757361",
+   "slug": "Schwank-Supraschwank-40-Series",
+   "title": "primoSchwank 40 Installation and owner's manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "primoSchwank 40",
+   "extraModels": [
+    "primoSchwank 40"
+   ],
+   "url": "https://www.manualslib.com/manual/757361/Schwank-Supraschwank-40-Series.html"
+  },
+  {
+   "manualId": "724758",
+   "slug": "Schwank-Primoschwank",
+   "title": "primoSchwank Installation & owner's manual",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "primoSchwank",
+   "extraModels": [
+    "supraSchwank"
+   ],
+   "url": "https://www.manualslib.com/manual/724758/Schwank-Primoschwank.html"
+  },
+  {
+   "manualId": "2786520",
+   "slug": "Schwank-Jp-2300-Mk",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2786520/Schwank-Jp-2300-Mk.html"
+  },
+  {
+   "manualId": "2837041",
+   "slug": "Schwank-Jp-2300-Mk",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2837041/Schwank-Jp-2300-Mk.html"
+  },
+  {
+   "manualId": "2995505",
+   "slug": "Schwank-Sch-200-N",
+   "title": "SCH-200-L Installation and owner's manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "SCH-200-L",
+   "extraModels": [
+    "SCH-200-L"
+   ],
+   "url": "https://www.manualslib.com/manual/2995505/Schwank-Sch-200-N.html"
+  },
+  {
+   "manualId": "3877284",
+   "slug": "Schwank-Sst-Series",
+   "title": "Schwank SST Series Manual",
+   "type": "Other",
+   "pages": 35,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877284/Schwank-Sst-Series.html"
+  },
+  {
+   "manualId": "2789400",
+   "slug": "Schwank-Sst-Mx-Series",
+   "title": "Schwank SST-MX Series Modulating Operation",
+   "type": "Other",
+   "pages": 36,
+   "productModel": null,
+   "extraModels": [
+    "SST-MS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2789400/Schwank-Sst-Mx-Series.html"
+  },
+  {
+   "manualId": "1340718",
+   "slug": "Schwank-Schwankair-2045",
+   "title": "SchwankAir 2045 Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 26,
+   "productModel": "SchwankAir 2045",
+   "extraModels": [
+    "SchwankAir 2045EH",
+    "SchwankAir 2045WH",
+    "SchwankAir 2066",
+    "SchwankAir 2066EH",
+    "SchwankAir 2066WH",
+    "SchwankAir 2087",
+    "SchwankAir 2087EH",
+    "SchwankAir 2087WH"
+   ],
+   "url": "https://www.manualslib.com/manual/1340718/Schwank-Schwankair-2045.html"
+  },
+  {
+   "manualId": "2784551",
+   "slug": "Schwank-Schwankair-3200-Recessed-Series",
+   "title": "SchwankAir 3200-Recessed Series installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "SchwankAir 3200-Recessed Series",
+   "extraModels": [
+    "SchwankAir AC-TA36-23-R",
+    "SchwankAir AC-TA60-23-R",
+    "SchwankAir AC-TA72-23-R",
+    "SchwankAir AC-TE36-20-R",
+    "SchwankAir AC-TE36-48-R",
+    "SchwankAir AC-TE36-60-R",
+    "SchwankAir AC-TE60-20-R",
+    "SchwankAir AC-TE60-48-R",
+    "SchwankAir AC-TE60-60-R",
+    "SchwankAir AC-TE72-20-R",
+    "SchwankAir AC-TE72-48-R",
+    "SchwankAir AC-TE72-60-R",
+    "SchwankAir AC-TW36-23-R",
+    "SchwankAir AC-TW60-23-R",
+    "SchwankAir AC-TW72-23-R"
+   ],
+   "url": "https://www.manualslib.com/manual/2784551/Schwank-Schwankair-3200-Recessed-Series.html"
+  },
+  {
+   "manualId": "2787694",
+   "slug": "Schwank-Schwankair-4000-Series",
+   "title": "SchwankAir 4000 Series installation manual",
+   "type": "Installation",
+   "pages": 42,
+   "productModel": "SchwankAir 4000 Series",
+   "extraModels": [
+    "SchwankAir AC-VA36-23",
+    "SchwankAir AC-VA60-23",
+    "SchwankAir AC-VA72-23",
+    "SchwankAir AC-VA96-23",
+    "SchwankAir AC-VE36-20",
+    "SchwankAir AC-VE36-48",
+    "SchwankAir AC-VE36-60",
+    "SchwankAir AC-VE60-20",
+    "SchwankAir AC-VE60-48",
+    "SchwankAir AC-VE60-60",
+    "SchwankAir AC-VE72-20",
+    "SchwankAir AC-VE72-48",
+    "SchwankAir AC-VE72-60",
+    "SchwankAir AC-VE96-48",
+    "SchwankAir AC-VE96-60",
+    "SchwankAir AC-VW36-23",
+    "SchwankAir AC-VW60-23",
+    "SchwankAir AC-VW72-23",
+    "SchwankAir AC-VW96-23"
+   ],
+   "url": "https://www.manualslib.com/manual/2787694/Schwank-Schwankair-4000-Series.html"
+  },
+  {
+   "manualId": "2789423",
+   "slug": "Schwank-Schwankair-4000-Series",
+   "title": "SchwankAir 4000 Series instructions manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "SchwankAir 4000 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2789423/Schwank-Schwankair-4000-Series.html"
+  },
+  {
+   "manualId": "3059252",
+   "slug": "Schwank-Select14-Series",
+   "title": "SchwankAir 4000 Series Manual",
+   "type": "Other",
+   "pages": 41,
+   "productModel": "SchwankAir 4000 Series",
+   "extraModels": [
+    "SchwankAir 4000 Series",
+    "AC-VA34-23",
+    "SchwankAir AC-VA60-23",
+    "SchwankAir AC-VA72-23",
+    "SchwankAir AC-VA96-23",
+    "SchwankAir AC-VE36-20",
+    "SchwankAir AC-VE36-48",
+    "SchwankAir AC-VE36-60",
+    "SchwankAir AC-VE60-20",
+    "SchwankAir AC-VE60-48",
+    "SchwankAir AC-VE60-60",
+    "SchwankAir AC-VE72-20",
+    "SchwankAir AC-VE72-48",
+    "SchwankAir AC-VE72-60",
+    "SchwankAir AC-VE96-48",
+    "SchwankAir AC-VE96-60",
+    "SchwankAir AC-VW36-23",
+    "SchwankAir AC-VW60-23",
+    "SchwankAir AC-VW72-23",
+    "SchwankAir AC-VW96-23"
+   ],
+   "url": "https://www.manualslib.com/manual/3059252/Schwank-Select14-Series.html"
+  },
+  {
+   "manualId": "2787708",
+   "slug": "Schwank-Schwankair-4000-Recessed-Series",
+   "title": "SchwankAir 4000-Recessed Series installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "SchwankAir 4000-Recessed Series",
+   "extraModels": [
+    "SchwankAir AC-VA36-23-R",
+    "SchwankAir AC-VA60-23-R",
+    "SchwankAir AC-VA72-23-R",
+    "SchwankAir AC-VA96-23-R",
+    "SchwankAir AC-VE36-20-R",
+    "SchwankAir AC-VE36-48-R",
+    "SchwankAir AC-VE36-60-R",
+    "SchwankAir AC-VE60-20-R",
+    "SchwankAir AC-VE60-48-R",
+    "SchwankAir AC-VE60-60-R",
+    "SchwankAir AC-VE72-20-R",
+    "SchwankAir AC-VE72-48-R",
+    "SchwankAir AC-VE72-60-R",
+    "SchwankAir AC-VE96-48-R",
+    "SchwankAir AC-VE96-60-R",
+    "SchwankAir AC-VW36-23-R",
+    "SchwankAir AC-VW60-23-R",
+    "SchwankAir AC-VW72-23-R",
+    "SchwankAir AC-VW96-23-R"
+   ],
+   "url": "https://www.manualslib.com/manual/2787708/Schwank-Schwankair-4000-Recessed-Series.html"
+  },
+  {
+   "manualId": "3843274",
+   "slug": "Schwank-Sem-80-20",
+   "title": "SEM 80-20 Installation and owner's manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "SEM 80-20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3843274/Schwank-Sem-80-20.html"
+  },
+  {
+   "manualId": "2189539",
+   "slug": "Schwank-Infrasave-Set-Series",
+   "title": "SET 110/75 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "SET 110/75",
+   "extraModels": [
+    "SET 110/75",
+    "SET 130/90",
+    "SET 155/110",
+    "SET 175/125",
+    "SET 200/140",
+    "SET 80/60",
+    "SETU 110/75",
+    "SETU 130/90",
+    "SETU 155/110",
+    "SETU 175/125",
+    "SETU 200/140",
+    "SETU 80/60",
+    "infrasave ITT 110/75",
+    "infrasave ITT 130/90",
+    "infrasave ITT 155/110",
+    "infrasave ITT 175/125",
+    "infrasave ITT 200/140",
+    "infrasave ITT 80/60",
+    "infrasave ITT Series",
+    "infrasave ITTU 110/75",
+    "infrasave ITTU 130/90",
+    "infrasave ITTU 155/110",
+    "infrasave ITTU 175/125",
+    "infrasave ITTU 200/140",
+    "infrasave ITTU 80/60",
+    "infrasave ITTU Series",
+    "infrasave SET Series",
+    "infrasave SETU Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2189539/Schwank-Infrasave-Set-Series.html"
+  },
+  {
+   "manualId": "2207268",
+   "slug": "Schwank-Sportschwank-Series",
+   "title": "sportSchwank 10 Installation and owner's manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "sportSchwank 10",
+   "extraModels": [
+    "sportSchwank 10",
+    "sportSchwank 15",
+    "sportSchwank 20",
+    "sportSchwank 30"
+   ],
+   "url": "https://www.manualslib.com/manual/2207268/Schwank-Sportschwank-Series.html"
+  },
+  {
+   "manualId": "904474",
+   "slug": "Schwank-Stm-Series",
+   "title": "STM Series Installation manaul",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "STM Series",
+   "extraModels": [
+    "STMU Series"
+   ],
+   "url": "https://www.manualslib.com/manual/904474/Schwank-Stm-Series.html"
+  },
+  {
+   "manualId": "900516",
+   "slug": "Schwank-Str-Series",
+   "title": "STR Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "STR Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/900516/Schwank-Str-Series.html"
+  },
+  {
+   "manualId": "847562",
+   "slug": "Schwank-Str-Jz",
+   "title": "STR-JZ Installation & owner's manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "STR-JZ",
+   "extraModels": [
+    "STR-JZ 45",
+    "STR-JZ 60",
+    "STR-JZ Series"
+   ],
+   "url": "https://www.manualslib.com/manual/847562/Schwank-Str-Jz.html"
+  },
+  {
+   "manualId": "846271",
+   "slug": "Schwank-Stv-Jz",
+   "title": "STV-JZ owner's manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "STV-JZ",
+   "extraModels": [
+    "STV-JZ Series"
+   ],
+   "url": "https://www.manualslib.com/manual/846271/Schwank-Stv-Jz.html"
+  },
+  {
+   "manualId": "3013260",
+   "slug": "Schwank-Swift5-Series",
+   "title": "Swift5 Series instructions manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "Swift5 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3013260/Schwank-Swift5-Series.html"
+  },
+  {
+   "manualId": "1212136",
+   "slug": "Schwank-TerrasschwankPlus-4",
+   "title": "terrasSchwank+ 4 Technical manual",
+   "type": "Other",
+   "pages": 23,
+   "productModel": "terrasSchwank+ 4",
+   "extraModels": [
+    "terrasSchwank+ 4A",
+    "terrasSchwank+ 7/2A"
+   ],
+   "url": "https://www.manualslib.com/manual/1212136/Schwank-TerrasschwankPlus-4.html"
+  },
+  {
+   "manualId": "1525746",
+   "slug": "Schwank-Thermocontrol-Plus-4",
+   "title": "ThermoControl Plus 1 installation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "ThermoControl Plus 1",
+   "extraModels": [
+    "ThermoControl Plus 1",
+    "ThermoControl Plus 2"
+   ],
+   "url": "https://www.manualslib.com/manual/1525746/Schwank-Thermocontrol-Plus-4.html"
+  },
+  {
+   "manualId": "2308869",
+   "slug": "Schwank-Thermocontrol-Plus-4m",
+   "title": "ThermoControl Plus 4M Operating And Installation Manual",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "ThermoControl Plus 4M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2308869/Schwank-Thermocontrol-Plus-4m.html"
+  },
+  {
+   "manualId": "1993974",
+   "slug": "Schwank-Thermocontrol-Plus-M2",
+   "title": "ThermoControl Plus M2 Operating And Installation Manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "ThermoControl Plus M2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1993974/Schwank-Thermocontrol-Plus-M2.html"
+  },
+  {
+   "manualId": "1223871",
+   "slug": "Schwank-X-Series",
+   "title": "X-Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "X-Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1223871/Schwank-X-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "schwank"
+ ]
+}

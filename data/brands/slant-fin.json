@@ -1,0 +1,2355 @@
+{
+ "brand": "Slant/Fin",
+ "brandSlug": "slant-fin",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/slant-fin/"
+ ],
+ "slugUsed": "slant-fin",
+ "capturedAt": "2026-10-28T09:22:00.066482+00:00",
+ "typePages": [
+  {
+   "path": "/brand/slant-fin/boiler.html",
+   "manuals": 584,
+   "status": 200
+  },
+  {
+   "path": "/brand/slant-fin/control-panel.html",
+   "manuals": 104,
+   "status": 200
+  },
+  {
+   "path": "/brand/slant-fin/controller.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/slant-fin/electric-heater.html",
+   "manuals": 116,
+   "status": 200
+  },
+  {
+   "path": "/brand/slant-fin/fire-and-smoke-dampers.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/slant-fin/heater.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/slant-fin/humidifier.html",
+   "manuals": 121,
+   "status": 200
+  },
+  {
+   "path": "/brand/slant-fin/indoor-furnishing.html",
+   "manuals": 104,
+   "status": 200
+  },
+  {
+   "path": "/brand/slant-fin/remote-control.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/slant-fin/software.html",
+   "manuals": 104,
+   "status": 200
+  },
+  {
+   "path": "/brand/slant-fin/temperature-controller.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/slant-fin/water-heater.html",
+   "manuals": 139,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3035304",
+   "slug": "Slant-Fin-Chs-399",
+   "title": "80 8293 000 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "80 8293 000",
+   "extraModels": [
+    "80 8293 000",
+    "81 8124 000",
+    "81 8125 000",
+    "81 8278 000",
+    "81 8279 000",
+    "81 8292 000",
+    "CHS Series",
+    "CHS-110",
+    "CHS-154",
+    "CHS-175",
+    "CHS-200",
+    "CHS-201",
+    "CHS-250",
+    "CHS-285",
+    "CHS-300",
+    "CHS-340-399",
+    "CHS-85"
+   ],
+   "url": "https://www.manualslib.com/manual/3035304/Slant-Fin-Chs-399.html"
+  },
+  {
+   "manualId": "2008655",
+   "slug": "Slant-Fin-Chs-Series",
+   "title": "818 192 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "818 192",
+   "extraModels": [
+    "818 192",
+    "818 193",
+    "CHS-399"
+   ],
+   "url": "https://www.manualslib.com/manual/2008655/Slant-Fin-Chs-Series.html"
+  },
+  {
+   "manualId": "857303",
+   "slug": "Slant-Fin-B-120a",
+   "title": "B-120A Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "B-120A",
+   "extraModels": [
+    "B-200A",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/857303/Slant-Fin-B-120a.html"
+  },
+  {
+   "manualId": "154619",
+   "slug": "Slant-Fin-B-120a",
+   "title": "B-120A User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "B-120A",
+   "extraModels": [
+    "B-200A",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154619/Slant-Fin-B-120a.html"
+  },
+  {
+   "manualId": "154625",
+   "slug": "Slant-Fin-Boilers",
+   "title": "BOILERS Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "BOILERS",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154625/Slant-Fin-Boilers.html"
+  },
+  {
+   "manualId": "2897315",
+   "slug": "Slant-Fin-Caravan-Ggt-600e",
+   "title": "CARAVAN GGHT-1050E Application manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "CARAVAN GGHT-1050E",
+   "extraModels": [
+    "CARAVAN GGHT-1050E",
+    "CARAVAN GGHT-1125E",
+    "CARAVAN GGHT-1200E",
+    "CARAVAN GGHT-1400E",
+    "CARAVAN GGHT-1500E",
+    "CARAVAN GGHT-1600E",
+    "CARAVAN GGHT-1750E",
+    "CARAVAN GGHT-1875E",
+    "CARAVAN GGHT-2000E",
+    "CARAVAN GGHT-2100E",
+    "CARAVAN GGHT-2250E",
+    "CARAVAN GGHT-2400E",
+    "CARAVAN GGHT-2450E",
+    "CARAVAN GGHT-2625E",
+    "CARAVAN GGHT-2800AE",
+    "CARAVAN GGHT-2800E",
+    "CARAVAN GGHT-3000E",
+    "CARAVAN GGHT-3150E",
+    "CARAVAN GGHT-3200E",
+    "CARAVAN GGHT-3375E",
+    "CARAVAN GGHT-3500E",
+    "CARAVAN GGHT-3600E",
+    "CARAVAN GGHT-3750E",
+    "CARAVAN GGHT-4000E",
+    "CARAVAN GGHT-700E",
+    "CARAVAN GGHT-750E",
+    "CARAVAN GGHT-800E",
+    "CARAVAN GGT-1200E",
+    "CARAVAN GGT-1500E",
+    "CARAVAN GGT-900E"
+   ],
+   "url": "https://www.manualslib.com/manual/2897315/Slant-Fin-Caravan-Ggt-600e.html"
+  },
+  {
+   "manualId": "3828468",
+   "slug": "Slant-Fin-Cb-135",
+   "title": "CB-135 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "CB-135",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3828468/Slant-Fin-Cb-135.html"
+  },
+  {
+   "manualId": "891065",
+   "slug": "Slant-Fin-Cb-45",
+   "title": "CB-180 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "CB-180",
+   "extraModels": [
+    "CB-180",
+    "CB-90",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/891065/Slant-Fin-Cb-45.html"
+  },
+  {
+   "manualId": "798298",
+   "slug": "Slant-Fin-Chs-85",
+   "title": "CHS-110 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "CHS-110",
+   "extraModels": [
+    "CHS-110",
+    "CHS-155",
+    "CHS-175",
+    "CHS-200",
+    "CHS-250",
+    "CHS-300",
+    "CHS-399"
+   ],
+   "url": "https://www.manualslib.com/manual/798298/Slant-Fin-Chs-85.html"
+  },
+  {
+   "manualId": "1165768",
+   "slug": "Slant-Fin-Chs-85",
+   "title": "CHS-110 instructions manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "CHS-110",
+   "extraModels": [
+    "CHS-110",
+    "CHS-155",
+    "CHS-175",
+    "CHS-200",
+    "CHS-250",
+    "CHS-300",
+    "CHS-399"
+   ],
+   "url": "https://www.manualslib.com/manual/1165768/Slant-Fin-Chs-85.html"
+  },
+  {
+   "manualId": "1263875",
+   "slug": "Slant-Fin-Ec-25",
+   "title": "EC-25 Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "EC-25",
+   "extraModels": [
+    "EC-26",
+    "EC-27",
+    "EC-28"
+   ],
+   "url": "https://www.manualslib.com/manual/1263875/Slant-Fin-Ec-25.html"
+  },
+  {
+   "manualId": "854680",
+   "slug": "Slant-Fin-Eh-M2",
+   "title": "EH-M2 Operation and installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "EH-M2",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/854680/Slant-Fin-Eh-M2.html"
+  },
+  {
+   "manualId": "910798",
+   "slug": "Slant-Fin-Em-10",
+   "title": "EM-10 Operation manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "EM-10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/910798/Slant-Fin-Em-10.html"
+  },
+  {
+   "manualId": "1907600",
+   "slug": "Slant-Fin-Eutectic-Ec-10-Series",
+   "title": "EUTECTIC EC-10 Series Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "EUTECTIC EC-10 Series",
+   "extraModels": [
+    "EUTECTIC EC-13",
+    "EUTECTIC EC-14",
+    "EUTECTIC EC-15",
+    "EUTECTIC EC-16"
+   ],
+   "url": "https://www.manualslib.com/manual/1907600/Slant-Fin-Eutectic-Ec-10-Series.html"
+  },
+  {
+   "manualId": "1904090",
+   "slug": "Slant-Fin-Eutectic-Ec-10dv-Series",
+   "title": "EUTECTIC EC-10DV Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "EUTECTIC EC-10DV Series",
+   "extraModels": [
+    "EUTECTIC EC-13DV",
+    "EUTECTIC EC-14DV",
+    "EUTECTIC EC-15DV",
+    "EUTECTIC EC-16DV"
+   ],
+   "url": "https://www.manualslib.com/manual/1904090/Slant-Fin-Eutectic-Ec-10dv-Series.html"
+  },
+  {
+   "manualId": "922732",
+   "slug": "Slant-Fin-Eutecticec-15dv",
+   "title": "EUTECTICEC-15DV Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "EUTECTICEC-15DV",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/922732/Slant-Fin-Eutecticec-15dv.html"
+  },
+  {
+   "manualId": "1661300",
+   "slug": "Slant-Fin-Galaxy-Gg-Series",
+   "title": "Galaxy GG-150H Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "Galaxy GG-150H",
+   "extraModels": [
+    "Galaxy  GG-150H",
+    "Galaxy  GG-300",
+    "Galaxy  GXH-125",
+    "Galaxy GG-100H",
+    "Galaxy GG-125H",
+    "Galaxy GG-175H",
+    "Galaxy GG-200H",
+    "Galaxy GG-225H",
+    "Galaxy GG-250H",
+    "Galaxy GG-275H",
+    "Galaxy GG-350H",
+    "Galaxy GG-375H",
+    "Galaxy GG-399H",
+    "Galaxy GG-75H",
+    "Galaxy GXH-105",
+    "Galaxy GXH-150",
+    "Galaxy GXH-170",
+    "Galaxy GXH-190",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1661300/Slant-Fin-Galaxy-Gg-Series.html"
+  },
+  {
+   "manualId": "928248",
+   "slug": "Slant-Fin-Gg-100h",
+   "title": "GALAXY GXH Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "GALAXY GXH Series",
+   "extraModels": [
+    "GALAXY GXH Series",
+    "GALAXY GXHA Series",
+    "GG-125H",
+    "GG-150H",
+    "GG-175H",
+    "GG-200H",
+    "GG-225H",
+    "GG-250H",
+    "GG-275H",
+    "GG-325",
+    "GG-350",
+    "GG-350H",
+    "GG-375H",
+    "GG-399H",
+    "GG-75H",
+    "GX-225",
+    "GX-250",
+    "GXH-105",
+    "GXH-150",
+    "GXH-170",
+    "GXH-190",
+    "GXH-210",
+    "GXH-230",
+    "GXH-250",
+    "GXH-275",
+    "GXH-300H",
+    "GXHA-100",
+    "GXHA-120",
+    "GXHA-160",
+    "GXHA-200"
+   ],
+   "url": "https://www.manualslib.com/manual/928248/Slant-Fin-Gg-100h.html"
+  },
+  {
+   "manualId": "2362693",
+   "slug": "Slant-Fin-Galaxy-Ii-Gxhii-95",
+   "title": "GALAXY II GXHII-115 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "GALAXY II GXHII-115",
+   "extraModels": [
+    "GALAXY II GXHII-115",
+    "GALAXY II GXHII-135",
+    "GALAXY II GXHII-155"
+   ],
+   "url": "https://www.manualslib.com/manual/2362693/Slant-Fin-Galaxy-Ii-Gxhii-95.html"
+  },
+  {
+   "manualId": "827467",
+   "slug": "Slant-Fin-Galaxy",
+   "title": "Galaxy Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "Galaxy",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/827467/Slant-Fin-Galaxy.html"
+  },
+  {
+   "manualId": "877830",
+   "slug": "Slant-Fin-Gas-Modular-Boilers",
+   "title": "GAS Modular Boilers Application manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "GAS Modular Boilers",
+   "extraModels": [
+    "HOT WATER Modular Boilers",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/877830/Slant-Fin-Gas-Modular-Boilers.html"
+  },
+  {
+   "manualId": "2392629",
+   "slug": "Slant-Fin-Germ-Free-Gf-300",
+   "title": "GF-300 Instructions For Operation, Care And Cleaning",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "GF-300",
+   "extraModels": [
+    "GF-350"
+   ],
+   "url": "https://www.manualslib.com/manual/2392629/Slant-Fin-Germ-Free-Gf-300.html"
+  },
+  {
+   "manualId": "2598789",
+   "slug": "Slant-Fin-Germ-Free-Gf-300",
+   "title": "GF-300 instructions manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "GF-300",
+   "extraModels": [
+    "GF-350"
+   ],
+   "url": "https://www.manualslib.com/manual/2598789/Slant-Fin-Germ-Free-Gf-300.html"
+  },
+  {
+   "manualId": "817310",
+   "slug": "Slant-Fin-Gg-75h",
+   "title": "GG-100H Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "GG-100H",
+   "extraModels": [
+    "GG-100H",
+    "GG-125H",
+    "GG-150H",
+    "GG-175H",
+    "GG-200H",
+    "GG-225H",
+    "GG-250H",
+    "GG-275H",
+    "GG-300",
+    "GG-350H",
+    "GG-375H",
+    "GG-399H",
+    "GXH-105",
+    "GXH-125",
+    "GXH-150",
+    "GXH-170",
+    "GXH-190",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/817310/Slant-Fin-Gg-75h.html"
+  },
+  {
+   "manualId": "3830013",
+   "slug": "Slant-Fin-Gg-300",
+   "title": "GG-300 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "GG-300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3830013/Slant-Fin-Gg-300.html"
+  },
+  {
+   "manualId": "3830014",
+   "slug": "Slant-Fin-Gxh-125",
+   "title": "GXH-125 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "GXH-125",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3830014/Slant-Fin-Gxh-125.html"
+  },
+  {
+   "manualId": "1922657",
+   "slug": "Slant-Fin-473915000",
+   "title": "Homeowner's Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1922657/Slant-Fin-473915000.html"
+  },
+  {
+   "manualId": "924482",
+   "slug": "Slant-Fin-Hwt-40",
+   "title": "HWT-120 Installation And Operating Insctructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "HWT-120",
+   "extraModels": [
+    "HWT-120",
+    "HWT-60",
+    "HWT-80"
+   ],
+   "url": "https://www.manualslib.com/manual/924482/Slant-Fin-Hwt-40.html"
+  },
+  {
+   "manualId": "1163264",
+   "slug": "Slant-Fin-Hwt-40",
+   "title": "HWT-120 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "HWT-120",
+   "extraModels": [
+    "HWT-120",
+    "HWT-60",
+    "HWT-80"
+   ],
+   "url": "https://www.manualslib.com/manual/1163264/Slant-Fin-Hwt-40.html"
+  },
+  {
+   "manualId": "2391124",
+   "slug": "Slant-Fin-Multi-Pak-90",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2391124/Slant-Fin-Multi-Pak-90.html"
+  },
+  {
+   "manualId": "3115060",
+   "slug": "Slant-Fin-Eutectic-10-Series",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "EUTECTIC EC-10DV Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3115060/Slant-Fin-Eutectic-10-Series.html"
+  },
+  {
+   "manualId": "1881469",
+   "slug": "Slant-Fin-Kicker-Tk-70",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1881469/Slant-Fin-Kicker-Tk-70.html"
+  },
+  {
+   "manualId": "3043500",
+   "slug": "Slant-Fin-Ja-Series",
+   "title": "Instructions For Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3043500/Slant-Fin-Ja-Series.html"
+  },
+  {
+   "manualId": "654913",
+   "slug": "Slant-Fin-Gf-210w",
+   "title": "instructions manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/654913/Slant-Fin-Gf-210w.html"
+  },
+  {
+   "manualId": "796715",
+   "slug": "Slant-Fin-Intrepid",
+   "title": "INTREPID Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "INTREPID",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/796715/Slant-Fin-Intrepid.html"
+  },
+  {
+   "manualId": "2105510",
+   "slug": "Slant-Fin-Intrepid-Trdv-Series",
+   "title": "INTREPID TRDV Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "INTREPID TRDV Series",
+   "extraModels": [
+    "INTREPID TRDV-30-0.85",
+    "INTREPID TRDV-30-1.00",
+    "INTREPID TRDV-30-1.10"
+   ],
+   "url": "https://www.manualslib.com/manual/2105510/Slant-Fin-Intrepid-Trdv-Series.html"
+  },
+  {
+   "manualId": "1263089",
+   "slug": "Slant-Fin-J-390",
+   "title": "J-390 User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "J-390",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1263089/Slant-Fin-J-390.html"
+  },
+  {
+   "manualId": "1599349",
+   "slug": "Slant-Fin-Jaguar-Caravan-J-390c-Series",
+   "title": "Jaguar Caravan J-390C Series Application manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "Jaguar Caravan J-390C Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1599349/Slant-Fin-Jaguar-Caravan-J-390c-Series.html"
+  },
+  {
+   "manualId": "3139962",
+   "slug": "Slant-Fin-Liberty-Ii-Ld-20",
+   "title": "LIBERTY II LD-20 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "LIBERTY II LD-20",
+   "extraModels": [
+    "LIBERTY II LD-30-1.10",
+    "LIBERTY II LD-30-1.25",
+    "LIBERTY II LD-30H",
+    "LIBERTY II LD-40",
+    "LIBERTY II LD-40-1.60",
+    "LIBERTY II LD-40-1.80",
+    "LIBERTY II LD-40H",
+    "LIBERTY II LD-50",
+    "LIBERTY II LD-50-2.10",
+    "LIBERTY II LD-50-2.35",
+    "LIBERTY II LD-50H",
+    "LIBERTY II LD-60",
+    "LIBERTY II LD-70",
+    "LIBERTY II LD-70-3.00",
+    "LIBERTY II LD-70-3.10"
+   ],
+   "url": "https://www.manualslib.com/manual/3139962/Slant-Fin-Liberty-Ii-Ld-20.html"
+  },
+  {
+   "manualId": "3920100",
+   "slug": "Slant-Fin-Liberty-Ii-Ld-30",
+   "title": "LIBERTY II LD-30 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "LIBERTY II LD-30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3920100/Slant-Fin-Liberty-Ii-Ld-30.html"
+  },
+  {
+   "manualId": "799387",
+   "slug": "Slant-Fin-Lx-90",
+   "title": "LX-120 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "LX-120",
+   "extraModels": [
+    "LX-120",
+    "LX-120CB",
+    "LX-150",
+    "LX-150CB",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/799387/Slant-Fin-Lx-90.html"
+  },
+  {
+   "manualId": "690381",
+   "slug": "Slant-Fin-Lx-90",
+   "title": "LX-120 User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "LX-120",
+   "extraModels": [
+    "LX-120",
+    "LX-150",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/690381/Slant-Fin-Lx-90.html"
+  },
+  {
+   "manualId": "806886",
+   "slug": "Slant-Fin-Lx-90",
+   "title": "LX-120 User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "LX-120",
+   "extraModels": [
+    "LX-120",
+    "LX-150",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/806886/Slant-Fin-Lx-90.html"
+  },
+  {
+   "manualId": "801118",
+   "slug": "Slant-Fin-Lx-120cb",
+   "title": "LX-120CB User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "LX-120CB",
+   "extraModels": [
+    "LX-150C",
+    "LX-150CB"
+   ],
+   "url": "https://www.manualslib.com/manual/801118/Slant-Fin-Lx-120cb.html"
+  },
+  {
+   "manualId": "859317",
+   "slug": "Slant-Fin-Lx-85a",
+   "title": "LX-85A Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "LX-85A",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/859317/Slant-Fin-Lx-85a.html"
+  },
+  {
+   "manualId": "154639",
+   "slug": "Slant-Fin-Lynx",
+   "title": "Lynx Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": "Lynx",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/154639/Slant-Fin-Lynx.html"
+  },
+  {
+   "manualId": "835680",
+   "slug": "Slant-Fin-Malibu",
+   "title": "Malibu Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "Malibu",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/835680/Slant-Fin-Malibu.html"
+  },
+  {
+   "manualId": "2175467",
+   "slug": "Slant-Fin-Vsl-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2175467/Slant-Fin-Vsl-Series.html"
+  },
+  {
+   "manualId": "2395235",
+   "slug": "Slant-Fin-Monitron-Eh-S2-Series",
+   "title": "Monitron EH S2 Series Operation and installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Monitron EH S2 Series",
+   "extraModels": [
+    "Monitron EH-08-135-S2",
+    "Monitron EH-09-135-S2",
+    "Monitron EH-10-135-S2",
+    "Monitron EH-12-135-S2",
+    "Monitron EH-12-345-S2",
+    "Monitron EH-15-135-S2",
+    "Monitron EH-15-345-S2",
+    "Monitron EH-16-135-S2",
+    "Monitron EH-16-345-S2",
+    "Monitron EH-18-135-S2",
+    "Monitron EH-18-345-S2",
+    "Monitron EH-20-135-S2",
+    "Monitron EH-20-345-S2",
+    "Monitron EH-24-135-S2",
+    "Monitron EH-24-345-S2",
+    "Monitron EH-25-135-S2",
+    "Monitron EH-25-345-S2",
+    "Monitron EH-28-135-S2",
+    "Monitron EH-28-345-S2",
+    "Monitron EH-30-135-S2",
+    "Monitron EH-30-345-S2",
+    "Monitron EH-32-135-S2",
+    "Monitron EH-32-345-S2",
+    "Monitron EH-35-135-S2",
+    "Monitron EH-35-345-S2",
+    "Monitron EH-38-135-S2",
+    "Monitron EH-40-135-S2",
+    "Monitron EH-40-345-S2"
+   ],
+   "url": "https://www.manualslib.com/manual/2395235/Slant-Fin-Monitron-Eh-S2-Series.html"
+  },
+  {
+   "manualId": "2030414",
+   "slug": "Slant-Fin-Prodigy-21-Kc-45",
+   "title": "Prodigy 21 KC-45 instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Prodigy 21 KC-45",
+   "extraModels": [
+    "Prodigy 21 KC-90"
+   ],
+   "url": "https://www.manualslib.com/manual/2030414/Slant-Fin-Prodigy-21-Kc-45.html"
+  },
+  {
+   "manualId": "1915259",
+   "slug": "Slant-Fin-Q3-4",
+   "title": "Q3-4 Supplemental instructions",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Q3-4",
+   "extraModels": [
+    "Q3-5",
+    "Q3-6"
+   ],
+   "url": "https://www.manualslib.com/manual/1915259/Slant-Fin-Q3-4.html"
+  },
+  {
+   "manualId": "2613876",
+   "slug": "Slant-Fin-Kicker-Tk-70",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2613876/Slant-Fin-Kicker-Tk-70.html"
+  },
+  {
+   "manualId": "799901",
+   "slug": "Slant-Fin-S-34",
+   "title": "S-100 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "S-100",
+   "extraModels": [
+    "S-100",
+    "S-110",
+    "S-112",
+    "S-115",
+    "S-121",
+    "S-122",
+    "S-123",
+    "S-124",
+    "S-125",
+    "S-126",
+    "S-127",
+    "S-128",
+    "S-129",
+    "S-130",
+    "S-131",
+    "S-132",
+    "S-133",
+    "S-134",
+    "S-135",
+    "S-136",
+    "S-137",
+    "S-138",
+    "S-139",
+    "S-140",
+    "S-141",
+    "S-142",
+    "S-143",
+    "S-144",
+    "S-145",
+    "S-146",
+    "S-147",
+    "S-148",
+    "S-149",
+    "S-35",
+    "S-36",
+    "S-37",
+    "S-38",
+    "S-39",
+    "S-40",
+    "S-41",
+    "S-42",
+    "S-43",
+    "S-44",
+    "S-45",
+    "S-46",
+    "S-47",
+    "S-48",
+    "S-49",
+    "S-50",
+    "S-51",
+    "S-52",
+    "S-53",
+    "S-54",
+    "S-55",
+    "S-56",
+    "S-57",
+    "S-58",
+    "S-59",
+    "S-60",
+    "S-61",
+    "S-62",
+    "S-63",
+    "S-64",
+    "S-65",
+    "S-66",
+    "S-67",
+    "S-68",
+    "S-69",
+    "S-70",
+    "S-71",
+    "S-72",
+    "S-73",
+    "S-74",
+    "S-75",
+    "S-76",
+    "S-77",
+    "S-78",
+    "S-79",
+    "S-80",
+    "S-81",
+    "S-83",
+    "S-85",
+    "S-87",
+    "S-89",
+    "S-92",
+    "S-94",
+    "S-95",
+    "S-96",
+    "S-97",
+    "S-98",
+    "S-99",
+    "Sentry S-120",
+    "Sentry S-90",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/799901/Slant-Fin-S-34.html"
+  },
+  {
+   "manualId": "2746151",
+   "slug": "Slant-Fin-Sentry-S-150",
+   "title": "S-150 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "S-150",
+   "extraModels": [
+    "S-34",
+    "S-60",
+    "Sentry S-120",
+    "SENTRY S-60DP",
+    "Sentry S-90"
+   ],
+   "url": "https://www.manualslib.com/manual/2746151/Slant-Fin-Sentry-S-150.html"
+  },
+  {
+   "manualId": "3824855",
+   "slug": "Slant-Fin-S-150",
+   "title": "S-150 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "S-150",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3824855/Slant-Fin-S-150.html"
+  },
+  {
+   "manualId": "2650297",
+   "slug": "Slant-Fin-Sentry-S-120edp",
+   "title": "S-34 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "S-34",
+   "extraModels": [
+    "S-34"
+   ],
+   "url": "https://www.manualslib.com/manual/2650297/Slant-Fin-Sentry-S-120edp.html"
+  },
+  {
+   "manualId": "1498614",
+   "slug": "Slant-Fin-Sc-3",
+   "title": "SC-3 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "SC-3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1498614/Slant-Fin-Sc-3.html"
+  },
+  {
+   "manualId": "3917410",
+   "slug": "Slant-Fin-Se-105",
+   "title": "SE-105 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "SE-105",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3917410/Slant-Fin-Se-105.html"
+  },
+  {
+   "manualId": "3917411",
+   "slug": "Slant-Fin-Se-140",
+   "title": "SE-140 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "SE-140",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3917411/Slant-Fin-Se-140.html"
+  },
+  {
+   "manualId": "3097112",
+   "slug": "Slant-Fin-Sentinel-Se-42",
+   "title": "SE-175 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "SE-175",
+   "extraModels": [
+    "SE-175",
+    "SE-245",
+    "SE-70"
+   ],
+   "url": "https://www.manualslib.com/manual/3097112/Slant-Fin-Sentinel-Se-42.html"
+  },
+  {
+   "manualId": "3917412",
+   "slug": "Slant-Fin-Se-210",
+   "title": "SE-210 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "SE-210",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3917412/Slant-Fin-Se-210.html"
+  },
+  {
+   "manualId": "845548",
+   "slug": "Slant-Fin-Se-70",
+   "title": "SE-245 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "SE-245",
+   "extraModels": [
+    "SE-245",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/845548/Slant-Fin-Se-70.html"
+  },
+  {
+   "manualId": "869140",
+   "slug": "Slant-Fin-Se-70",
+   "title": "SE-245 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "SE-245",
+   "extraModels": [
+    "SE-245",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/869140/Slant-Fin-Se-70.html"
+  },
+  {
+   "manualId": "1083341",
+   "slug": "Slant-Fin-Sentinel",
+   "title": "SENTINEL Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "SENTINEL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1083341/Slant-Fin-Sentinel.html"
+  },
+  {
+   "manualId": "3896880",
+   "slug": "Slant-Fin-Sentry-S-150edp",
+   "title": "SENTRY S-150EDP Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "SENTRY S-150EDP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3896880/Slant-Fin-Sentry-S-150edp.html"
+  },
+  {
+   "manualId": "3896881",
+   "slug": "Slant-Fin-Sentry-S-60edp",
+   "title": "SENTRY S-60EDP Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "SENTRY S-60EDP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3896881/Slant-Fin-Sentry-S-60edp.html"
+  },
+  {
+   "manualId": "3896882",
+   "slug": "Slant-Fin-Sentry-S-90edp",
+   "title": "SENTRY S-90EDP Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "SENTRY S-90EDP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3896882/Slant-Fin-Sentry-S-90edp.html"
+  },
+  {
+   "manualId": "1139247",
+   "slug": "Slant-Fin-Sf-10",
+   "title": "SF-10 Operation and instruction manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "SF-10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1139247/Slant-Fin-Sf-10.html"
+  },
+  {
+   "manualId": "154633",
+   "slug": "Slant-Fin-Kc-45",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154633/Slant-Fin-Kc-45.html"
+  },
+  {
+   "manualId": "262334",
+   "slug": "Slant-Fin-21",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/262334/Slant-Fin-21.html"
+  },
+  {
+   "manualId": "154649",
+   "slug": "Slant-Fin-V-180",
+   "title": "V-180 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "V-180",
+   "extraModels": [
+    "V-33",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154649/Slant-Fin-V-180.html"
+  },
+  {
+   "manualId": "1788887",
+   "slug": "Slant-Fin-Vgh-80-Ch",
+   "title": "VGH-100-CH User's information manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "VGH-100-CH",
+   "extraModels": [
+    "VGH-100-CH",
+    "VGH-120-CH",
+    "VGH-150-CH",
+    "VGH-150-CO",
+    "VGH-180-CH",
+    "VGH-200-CO",
+    "VGH-90-CO",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1788887/Slant-Fin-Vgh-80-Ch.html"
+  },
+  {
+   "manualId": "1595570",
+   "slug": "Slant-Fin-Vgh-299-Ch",
+   "title": "VGH-299-CH Installation and service manual",
+   "type": "Service",
+   "pages": 128,
+   "productModel": "VGH-299-CH",
+   "extraModels": [
+    "VGH-399-CH",
+    "VGH-500-CH"
+   ],
+   "url": "https://www.manualslib.com/manual/1595570/Slant-Fin-Vgh-299-Ch.html"
+  },
+  {
+   "manualId": "1597258",
+   "slug": "Slant-Fin-Vgh-299-Ch",
+   "title": "VGH-299-CH User's information manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "VGH-299-CH",
+   "extraModels": [
+    "VGH-399-CH",
+    "VGH-500-CH",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1597258/Slant-Fin-Vgh-299-Ch.html"
+  },
+  {
+   "manualId": "1653392",
+   "slug": "Slant-Fin-Vhg-100-Ch",
+   "title": "VHG-100-CH Installation and service manual",
+   "type": "Service",
+   "pages": 164,
+   "productModel": "VHG-100-CH",
+   "extraModels": [
+    "VHG-120-CH",
+    "VHG-150-CH",
+    "VHG-150-CO",
+    "VHG-180-CH",
+    "VHG-200-CO",
+    "VHG-80-CH",
+    "VHG-90-CO"
+   ],
+   "url": "https://www.manualslib.com/manual/1653392/Slant-Fin-Vhg-100-Ch.html"
+  },
+  {
+   "manualId": "3231197",
+   "slug": "Slant-Fin-Victory-Ii",
+   "title": "VHS-120 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "VHS-120",
+   "extraModels": [
+    "VHS-120",
+    "VHS-120EP",
+    "VHS-180",
+    "VHS-180EP",
+    "VHS-30",
+    "VHS-30EP",
+    "VHS-60",
+    "VHS-60EP"
+   ],
+   "url": "https://www.manualslib.com/manual/3231197/Slant-Fin-Victory-Ii.html"
+  },
+  {
+   "manualId": "154650",
+   "slug": "Slant-Fin-Vhs-120",
+   "title": "VHS-120 User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "VHS-120",
+   "extraModels": [
+    "VHS-150",
+    "VHS-90",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154650/Slant-Fin-Vhs-120.html"
+  },
+  {
+   "manualId": "3924886",
+   "slug": "Slant-Fin-Vhs-150",
+   "title": "VHS-150 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "VHS-150",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3924886/Slant-Fin-Vhs-150.html"
+  },
+  {
+   "manualId": "3924888",
+   "slug": "Slant-Fin-Vhs-150ep",
+   "title": "VHS-150EP Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "VHS-150EP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3924888/Slant-Fin-Vhs-150ep.html"
+  },
+  {
+   "manualId": "154655",
+   "slug": "Slant-Fin-Vhs-180",
+   "title": "VHS-180 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "VHS-180",
+   "extraModels": [
+    "VHS-30",
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154655/Slant-Fin-Vhs-180.html"
+  },
+  {
+   "manualId": "3924885",
+   "slug": "Slant-Fin-Vhs-90",
+   "title": "VHS-90 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "VHS-90",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3924885/Slant-Fin-Vhs-90.html"
+  },
+  {
+   "manualId": "3924887",
+   "slug": "Slant-Fin-Vhs-90ep",
+   "title": "VHS-90EP Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "VHS-90EP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3924887/Slant-Fin-Vhs-90ep.html"
+  },
+  {
+   "manualId": "2391123",
+   "slug": "Slant-Fin-Victory-Ii-Vh-Series",
+   "title": "victory II VH series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "victory II VH series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2391123/Slant-Fin-Victory-Ii-Vh-Series.html"
+  },
+  {
+   "manualId": "834401",
+   "slug": "Slant-Fin-Caravan-Ldwo-1100-3-6",
+   "title": "VICTORY II VHS Series Application manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/834401/Slant-Fin-Caravan-Ldwo-1100-3-6.html"
+  },
+  {
+   "manualId": "866439",
+   "slug": "Slant-Fin-Jaguar-Caravan",
+   "title": "VICTORY II VHS Series Application manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/866439/Slant-Fin-Jaguar-Caravan.html"
+  },
+  {
+   "manualId": "154621",
+   "slug": "Slant-Fin-Caravan-L-Series",
+   "title": "VICTORY II VHS Series Assembly Instructions And Parts List",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154621/Slant-Fin-Caravan-L-Series.html"
+  },
+  {
+   "manualId": "154643",
+   "slug": "Slant-Fin-Se-245",
+   "title": "VICTORY II VHS Series Brochure",
+   "type": "Other",
+   "pages": null,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series",
+    "SE-105",
+    "SE-140",
+    "SE-175",
+    "SE-210",
+    "SE-70"
+   ],
+   "url": "https://www.manualslib.com/manual/154643/Slant-Fin-Se-245.html"
+  },
+  {
+   "manualId": "154631",
+   "slug": "Slant-Fin-Galaxytm-Gg-Series",
+   "title": "VICTORY II VHS Series Brochure & Specs",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154631/Slant-Fin-Galaxytm-Gg-Series.html"
+  },
+  {
+   "manualId": "154642",
+   "slug": "Slant-Fin-Intrepid-Oil-Fired-Boilers",
+   "title": "VICTORY II VHS Series Brochure & Specs",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154642/Slant-Fin-Intrepid-Oil-Fired-Boilers.html"
+  },
+  {
+   "manualId": "154648",
+   "slug": "Slant-Fin-Sx-150-To-Sx-210",
+   "title": "VICTORY II VHS Series Brochure & Specs",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154648/Slant-Fin-Sx-150-To-Sx-210.html"
+  },
+  {
+   "manualId": "154659",
+   "slug": "Slant-Fin-350-Series",
+   "title": "VICTORY II VHS Series Brochure & Specs",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154659/Slant-Fin-350-Series.html"
+  },
+  {
+   "manualId": "154651",
+   "slug": "Slant-Fin-Victory-Vhs-Series",
+   "title": "VICTORY II VHS Series Dimension manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154651/Slant-Fin-Victory-Vhs-Series.html"
+  },
+  {
+   "manualId": "154652",
+   "slug": "Slant-Fin-Victory-Vsph-Series",
+   "title": "VICTORY II VHS Series Dimension manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154652/Slant-Fin-Victory-Vsph-Series.html"
+  },
+  {
+   "manualId": "154623",
+   "slug": "Slant-Fin-Eutectic-Ec10",
+   "title": "VICTORY II VHS Series Dimensions",
+   "type": "Other",
+   "pages": null,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154623/Slant-Fin-Eutectic-Ec10.html"
+  },
+  {
+   "manualId": "154640",
+   "slug": "Slant-Fin-S-34",
+   "title": "VICTORY II VHS Series Dimensions",
+   "type": "Other",
+   "pages": null,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154640/Slant-Fin-S-34.html"
+  },
+  {
+   "manualId": "154661",
+   "slug": "Slant-Fin-Damper-Ja",
+   "title": "VICTORY II VHS Series Field installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154661/Slant-Fin-Damper-Ja.html"
+  },
+  {
+   "manualId": "154627",
+   "slug": "Slant-Fin-Gas-Condensation-Within-Boilers",
+   "title": "VICTORY II VHS Series Installation & Operation",
+   "type": "Installation",
+   "pages": null,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154627/Slant-Fin-Gas-Condensation-Within-Boilers.html"
+  },
+  {
+   "manualId": "1020304",
+   "slug": "Slant-Fin-Eutectic-Ec-20",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1020304/Slant-Fin-Eutectic-Ec-20.html"
+  },
+  {
+   "manualId": "1048051",
+   "slug": "Slant-Fin-Victory-Ii-Vhs-30ep",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1048051/Slant-Fin-Victory-Ii-Vhs-30ep.html"
+  },
+  {
+   "manualId": "1063231",
+   "slug": "Slant-Fin-Prodigy-21-Kc-50",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1063231/Slant-Fin-Prodigy-21-Kc-50.html"
+  },
+  {
+   "manualId": "1064263",
+   "slug": "Slant-Fin-Lynx-Lx-85",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1064263/Slant-Fin-Lynx-Lx-85.html"
+  },
+  {
+   "manualId": "1069182",
+   "slug": "Slant-Fin-Victory-Vsp-60",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1069182/Slant-Fin-Victory-Vsp-60.html"
+  },
+  {
+   "manualId": "1072604",
+   "slug": "Slant-Fin-Liberty-Ii-Ld-20",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1072604/Slant-Fin-Liberty-Ii-Ld-20.html"
+  },
+  {
+   "manualId": "1140765",
+   "slug": "Slant-Fin-Reliant-100-A-35",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1140765/Slant-Fin-Reliant-100-A-35.html"
+  },
+  {
+   "manualId": "1140767",
+   "slug": "Slant-Fin-Galaxy-Gg-300",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1140767/Slant-Fin-Galaxy-Gg-300.html"
+  },
+  {
+   "manualId": "154634",
+   "slug": "Slant-Fin-Intrepid-Oil-Fired-Boiler",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154634/Slant-Fin-Intrepid-Oil-Fired-Boiler.html"
+  },
+  {
+   "manualId": "154654",
+   "slug": "Slant-Fin-Jaguar-J-390",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154654/Slant-Fin-Jaguar-J-390.html"
+  },
+  {
+   "manualId": "154658",
+   "slug": "Slant-Fin-Vsph-180",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series",
+    "VICTORY VSPH Series",
+    "VSPH-120",
+    "VSPH-150",
+    "VSPH-60",
+    "VSPH-90"
+   ],
+   "url": "https://www.manualslib.com/manual/154658/Slant-Fin-Vsph-180.html"
+  },
+  {
+   "manualId": "713709",
+   "slug": "Slant-Fin-Sentry-Sx-150",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/713709/Slant-Fin-Sentry-Sx-150.html"
+  },
+  {
+   "manualId": "801868",
+   "slug": "Slant-Fin-Lynx-Lx-85a",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/801868/Slant-Fin-Lynx-Lx-85a.html"
+  },
+  {
+   "manualId": "834902",
+   "slug": "Slant-Fin-Galaxy-Gxh-300h",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/834902/Slant-Fin-Galaxy-Gxh-300h.html"
+  },
+  {
+   "manualId": "851952",
+   "slug": "Slant-Fin-Eutectic-Ec-16-1-25",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/851952/Slant-Fin-Eutectic-Ec-16-1-25.html"
+  },
+  {
+   "manualId": "865029",
+   "slug": "Slant-Fin-Intrepid-Tr-Series",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/865029/Slant-Fin-Intrepid-Tr-Series.html"
+  },
+  {
+   "manualId": "865423",
+   "slug": "Slant-Fin-Eutectic-Ec-13a",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/865423/Slant-Fin-Eutectic-Ec-13a.html"
+  },
+  {
+   "manualId": "882354",
+   "slug": "Slant-Fin-Galaxy-Gxha-100",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/882354/Slant-Fin-Galaxy-Gxha-100.html"
+  },
+  {
+   "manualId": "914546",
+   "slug": "Slant-Fin-Victory-Ii-Vhs-60",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/914546/Slant-Fin-Victory-Ii-Vhs-60.html"
+  },
+  {
+   "manualId": "944400",
+   "slug": "Slant-Fin-Sentinel-Se-70",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/944400/Slant-Fin-Sentinel-Se-70.html"
+  },
+  {
+   "manualId": "949466",
+   "slug": "Slant-Fin-Wh-30",
+   "title": "VICTORY II VHS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/949466/Slant-Fin-Wh-30.html"
+  },
+  {
+   "manualId": "962297",
+   "slug": "Slant-Fin-Intrepid-Trdv-30-0-85",
+   "title": "VICTORY II VHS Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/962297/Slant-Fin-Intrepid-Trdv-30-0-85.html"
+  },
+  {
+   "manualId": "1146095",
+   "slug": "Slant-Fin-Eutectic-Ec10dv-Series",
+   "title": "VICTORY II VHS Series installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1146095/Slant-Fin-Eutectic-Ec10dv-Series.html"
+  },
+  {
+   "manualId": "1063334",
+   "slug": "Slant-Fin-Malibu-Mrb-85",
+   "title": "VICTORY II VHS Series installation manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1063334/Slant-Fin-Malibu-Mrb-85.html"
+  },
+  {
+   "manualId": "154660",
+   "slug": "Slant-Fin-Gf-211d",
+   "title": "VICTORY II VHS Series Instructions for operation manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154660/Slant-Fin-Gf-211d.html"
+  },
+  {
+   "manualId": "154662",
+   "slug": "Slant-Fin-Gf-300",
+   "title": "VICTORY II VHS Series Instructions For Operation, Care And Cleaning",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154662/Slant-Fin-Gf-300.html"
+  },
+  {
+   "manualId": "154664",
+   "slug": "Slant-Fin-Gf-350",
+   "title": "VICTORY II VHS Series Instructions For Operation, Care And Cleaning",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154664/Slant-Fin-Gf-350.html"
+  },
+  {
+   "manualId": "654912",
+   "slug": "Slant-Fin-Gf-350",
+   "title": "VICTORY II VHS Series Instructions For Operation, Care And Cleaning",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series",
+    "GF-300"
+   ],
+   "url": "https://www.manualslib.com/manual/654912/Slant-Fin-Gf-350.html"
+  },
+  {
+   "manualId": "262335",
+   "slug": "Slant-Fin-Gf-200",
+   "title": "VICTORY II VHS Series instructions manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/262335/Slant-Fin-Gf-200.html"
+  },
+  {
+   "manualId": "1377303",
+   "slug": "Slant-Fin-Thermatic-Ii",
+   "title": "VICTORY II VHS Series Manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1377303/Slant-Fin-Thermatic-Ii.html"
+  },
+  {
+   "manualId": "1785380",
+   "slug": "Slant-Fin-Chs-Series",
+   "title": "VICTORY II VHS Series Manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series",
+    "CHS-110",
+    "CHS-155",
+    "CHS-175",
+    "CHS-200",
+    "CHS-250",
+    "CHS-85"
+   ],
+   "url": "https://www.manualslib.com/manual/1785380/Slant-Fin-Chs-Series.html"
+  },
+  {
+   "manualId": "882173",
+   "slug": "Slant-Fin-Vsph-60",
+   "title": "VICTORY II VHS Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series",
+    "VSPH-120",
+    "VSPH-150",
+    "VSPH-180",
+    "VSPH-90"
+   ],
+   "url": "https://www.manualslib.com/manual/882173/Slant-Fin-Vsph-60.html"
+  },
+  {
+   "manualId": "1070878",
+   "slug": "Slant-Fin-Monitron-Eh-08-135kb",
+   "title": "VICTORY II VHS Series Operation and installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1070878/Slant-Fin-Monitron-Eh-08-135kb.html"
+  },
+  {
+   "manualId": "1092076",
+   "slug": "Slant-Fin-Monitron-Eh-8",
+   "title": "VICTORY II VHS Series Operation and installation instructions manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1092076/Slant-Fin-Monitron-Eh-8.html"
+  },
+  {
+   "manualId": "154641",
+   "slug": "Slant-Fin-Se-175",
+   "title": "VICTORY II VHS Series Parts List",
+   "type": "Parts & Wiring",
+   "pages": 2,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154641/Slant-Fin-Se-175.html"
+  },
+  {
+   "manualId": "55845",
+   "slug": "Slant-Fin-Galaxy-Gxh-300h",
+   "title": "VICTORY II VHS Series Parts List",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/55845/Slant-Fin-Galaxy-Gxh-300h.html"
+  },
+  {
+   "manualId": "1046847",
+   "slug": "Slant-Fin-Vsl-Ii-Series",
+   "title": "VICTORY II VHS Series quick start manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1046847/Slant-Fin-Vsl-Ii-Series.html"
+  },
+  {
+   "manualId": "1140759",
+   "slug": "Slant-Fin-Vsl-Ii",
+   "title": "VICTORY II VHS Series quick start manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1140759/Slant-Fin-Vsl-Ii.html"
+  },
+  {
+   "manualId": "154622",
+   "slug": "Slant-Fin-Concept-21-Cb-135",
+   "title": "VICTORY II VHS Series Replacement Parts List",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154622/Slant-Fin-Concept-21-Cb-135.html"
+  },
+  {
+   "manualId": "154632",
+   "slug": "Slant-Fin-Kc-100",
+   "title": "VICTORY II VHS Series Replacement Parts List",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154632/Slant-Fin-Kc-100.html"
+  },
+  {
+   "manualId": "154635",
+   "slug": "Slant-Fin-Kcs100",
+   "title": "VICTORY II VHS Series Replacement Parts List",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154635/Slant-Fin-Kcs100.html"
+  },
+  {
+   "manualId": "154638",
+   "slug": "Slant-Fin-Lx-85a",
+   "title": "VICTORY II VHS Series Replacement Parts List",
+   "type": "Parts & Wiring",
+   "pages": 2,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154638/Slant-Fin-Lx-85a.html"
+  },
+  {
+   "manualId": "154647",
+   "slug": "Slant-Fin-Vh-120",
+   "title": "VICTORY II VHS Series Replacement Parts List",
+   "type": "Parts & Wiring",
+   "pages": 2,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154647/Slant-Fin-Vh-120.html"
+  },
+  {
+   "manualId": "154653",
+   "slug": "Slant-Fin-Vsph-120",
+   "title": "VICTORY II VHS Series Replacement Parts List",
+   "type": "Parts & Wiring",
+   "pages": 2,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series",
+    "VSPH-150",
+    "VSPH-90"
+   ],
+   "url": "https://www.manualslib.com/manual/154653/Slant-Fin-Vsph-120.html"
+  },
+  {
+   "manualId": "154620",
+   "slug": "Slant-Fin-Caravan-Lzdf-1100-3-6",
+   "title": "VICTORY II VHS Series Specification Sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154620/Slant-Fin-Caravan-Lzdf-1100-3-6.html"
+  },
+  {
+   "manualId": "154628",
+   "slug": "Slant-Fin-Caravan-Gght-1050",
+   "title": "VICTORY II VHS Series Specification Sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154628/Slant-Fin-Caravan-Gght-1050.html"
+  },
+  {
+   "manualId": "154637",
+   "slug": "Slant-Fin-Caravan-Ldzo-1100-3-6",
+   "title": "VICTORY II VHS Series Specification Sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154637/Slant-Fin-Caravan-Ldzo-1100-3-6.html"
+  },
+  {
+   "manualId": "154644",
+   "slug": "Slant-Fin-Monitron-Monitron-Eh-Boilers",
+   "title": "VICTORY II VHS Series Specification Sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154644/Slant-Fin-Monitron-Monitron-Eh-Boilers.html"
+  },
+  {
+   "manualId": "154663",
+   "slug": "Slant-Fin-Wh",
+   "title": "VICTORY II VHS Series Specification Sheet",
+   "type": "Other",
+   "pages": null,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154663/Slant-Fin-Wh.html"
+  },
+  {
+   "manualId": "154618",
+   "slug": "Slant-Fin-Bobcat-B-120",
+   "title": "VICTORY II VHS Series Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154618/Slant-Fin-Bobcat-B-120.html"
+  },
+  {
+   "manualId": "154624",
+   "slug": "Slant-Fin-Eutectic-Ec-25",
+   "title": "VICTORY II VHS Series Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154624/Slant-Fin-Eutectic-Ec-25.html"
+  },
+  {
+   "manualId": "154629",
+   "slug": "Slant-Fin-Galaxy-Gxha-100",
+   "title": "VICTORY II VHS Series Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154629/Slant-Fin-Galaxy-Gxha-100.html"
+  },
+  {
+   "manualId": "154630",
+   "slug": "Slant-Fin-Intrepid-Tr-Series",
+   "title": "VICTORY II VHS Series Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154630/Slant-Fin-Intrepid-Tr-Series.html"
+  },
+  {
+   "manualId": "154636",
+   "slug": "Slant-Fin-Caravan-Ldwo-1100-3-6",
+   "title": "VICTORY II VHS Series Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154636/Slant-Fin-Caravan-Ldwo-1100-3-6.html"
+  },
+  {
+   "manualId": "154645",
+   "slug": "Slant-Fin-Sentry-Sx-150",
+   "title": "VICTORY II VHS Series Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154645/Slant-Fin-Sentry-Sx-150.html"
+  },
+  {
+   "manualId": "154657",
+   "slug": "Slant-Fin-Kicker-Tk-70",
+   "title": "VICTORY II VHS Series Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154657/Slant-Fin-Kicker-Tk-70.html"
+  },
+  {
+   "manualId": "1244172",
+   "slug": "Slant-Fin-Vsl-Ii",
+   "title": "VICTORY II VHS Series User Instructions",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1244172/Slant-Fin-Vsl-Ii.html"
+  },
+  {
+   "manualId": "154667",
+   "slug": "Slant-Fin-Hydronic-Explorer-2",
+   "title": "VICTORY II VHS Series user manual",
+   "type": "User / Owner",
+   "pages": 41,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154667/Slant-Fin-Hydronic-Explorer-2.html"
+  },
+  {
+   "manualId": "905382",
+   "slug": "Slant-Fin-Victory-Vsph-Series",
+   "title": "VICTORY II VHS Series user manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/905382/Slant-Fin-Victory-Vsph-Series.html"
+  },
+  {
+   "manualId": "154626",
+   "slug": "Slant-Fin-Galaxy-Gxha-Series",
+   "title": "VICTORY II VHS Series User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154626/Slant-Fin-Galaxy-Gxha-Series.html"
+  },
+  {
+   "manualId": "154646",
+   "slug": "Slant-Fin-Lynx-Lx-85a",
+   "title": "VICTORY II VHS Series User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/154646/Slant-Fin-Lynx-Lx-85a.html"
+  },
+  {
+   "manualId": "700088",
+   "slug": "Slant-Fin-Victory-Vsph-Series",
+   "title": "VICTORY II VHS Series User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/700088/Slant-Fin-Victory-Vsph-Series.html"
+  },
+  {
+   "manualId": "799625",
+   "slug": "Slant-Fin-Sentinel-Se-Series",
+   "title": "VICTORY II VHS Series User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/799625/Slant-Fin-Sentinel-Se-Series.html"
+  },
+  {
+   "manualId": "801554",
+   "slug": "Slant-Fin-Victory-Ii-Series",
+   "title": "VICTORY II VHS Series User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [
+    "VICTORY II VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/801554/Slant-Fin-Victory-Ii-Series.html"
+  },
+  {
+   "manualId": "867399",
+   "slug": "Slant-Fin-Victory-Ii-Vhs-Series",
+   "title": "VICTORY II VHS Series User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "VICTORY II VHS Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/867399/Slant-Fin-Victory-Ii-Vhs-Series.html"
+  },
+  {
+   "manualId": "3525229",
+   "slug": "Slant-Fin-Victory-Vsph-Series",
+   "title": "VICTORY VSPH Series User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "VICTORY VSPH Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3525229/Slant-Fin-Victory-Vsph-Series.html"
+  },
+  {
+   "manualId": "2464363",
+   "slug": "Slant-Fin-Victory-Vsph-Ndv-60",
+   "title": "VICTORY VSPH/NDV-120 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "VICTORY VSPH/NDV-120",
+   "extraModels": [
+    "VICTORY VSPH/NDV-120",
+    "VICTORY VSPH/NDV-150",
+    "VICTORY VSPH/NDV-180",
+    "VICTORY VSPH/NDV-90"
+   ],
+   "url": "https://www.manualslib.com/manual/2464363/Slant-Fin-Victory-Vsph-Ndv-60.html"
+  },
+  {
+   "manualId": "1140769",
+   "slug": "Slant-Fin-Vsl-160b",
+   "title": "VSL-160B installation instructions manual",
+   "type": "Installation",
+   "pages": 108,
+   "productModel": "VSL-160B",
+   "extraModels": [
+    "VSL-160C"
+   ],
+   "url": "https://www.manualslib.com/manual/1140769/Slant-Fin-Vsl-160b.html"
+  },
+  {
+   "manualId": "154656",
+   "slug": "Slant-Fin-Xl-2000",
+   "title": "XL-2000 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "XL-2000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/154656/Slant-Fin-Xl-2000.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "slant-fin"
+ ]
+}

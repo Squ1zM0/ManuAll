@@ -1,0 +1,62 @@
+{
+ "brand": "Anemostat",
+ "brandSlug": "anemostat",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/anemostat/"
+ ],
+ "slugUsed": "anemostat",
+ "capturedAt": "2026-10-28T06:25:22.895176+00:00",
+ "typePages": [
+  {
+   "path": "/brand/anemostat/controller.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/anemostat/thermostat.html",
+   "manuals": 5,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1385211",
+   "slug": "Anemostat-Csc-3016",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1385211/Anemostat-Csc-3016.html"
+  },
+  {
+   "manualId": "1402218",
+   "slug": "Anemostat-Cte-5101",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1402218/Anemostat-Cte-5101.html"
+  },
+  {
+   "manualId": "1630376",
+   "slug": "Anemostat-Kmc-Conquest",
+   "title": "KMC Conquest Application manual",
+   "type": "Other",
+   "pages": 112,
+   "productModel": "KMC Conquest",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1630376/Anemostat-Kmc-Conquest.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "anemostat"
+ ]
+}

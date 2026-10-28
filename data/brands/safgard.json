@@ -1,0 +1,117 @@
+{
+ "brand": "safgard",
+ "brandSlug": "safgard",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/safgard/"
+ ],
+ "slugUsed": "safgard",
+ "capturedAt": "2026-10-28T09:19:59.229314+00:00",
+ "typePages": [
+  {
+   "path": "/brand/safgard/controller.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/safgard/kitchen-appliances.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/safgard/plumbing-product.html",
+   "manuals": 6,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1674087",
+   "slug": "Safgard-24-Series",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1674087/Safgard-24-Series.html"
+  },
+  {
+   "manualId": "1512074",
+   "slug": "Safgard-1100",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1512074/Safgard-1100.html"
+  },
+  {
+   "manualId": "1674088",
+   "slug": "Safgard-550-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1674088/Safgard-550-Series.html"
+  },
+  {
+   "manualId": "2623128",
+   "slug": "Safgard-724-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2623128/Safgard-724-Series.html"
+  },
+  {
+   "manualId": "3141493",
+   "slug": "Safgard-1100m",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3141493/Safgard-1100m.html"
+  },
+  {
+   "manualId": "991365",
+   "slug": "Safgard-Pres-Vac-P-3000",
+   "title": "operating instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/991365/Safgard-Pres-Vac-P-3000.html"
+  },
+  {
+   "manualId": "2611414",
+   "slug": "Safgard-711-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2611414/Safgard-711-Series.html"
+  },
+  {
+   "manualId": "3001423",
+   "slug": "Safgard-250",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3001423/Safgard-250.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "safgard"
+ ]
+}

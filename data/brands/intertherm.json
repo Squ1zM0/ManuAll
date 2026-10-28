@@ -1,0 +1,136 @@
+{
+ "brand": "Intertherm",
+ "brandSlug": "intertherm",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/intertherm/"
+ ],
+ "slugUsed": "intertherm",
+ "capturedAt": "2026-10-28T08:30:55.145424+00:00",
+ "typePages": [
+  {
+   "path": "/brand/intertherm/furnace.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/intertherm/indoor-fireplace.html",
+   "manuals": 12,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "809651",
+   "slug": "Intertherm-Bm36hc",
+   "title": "BDELUXE 36 M36HC installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "BDELUXE 36 M36HC",
+   "extraModels": [
+    "BDELUXE 36 M36HC",
+    "BM36HCD",
+    "DELUXE 36 BM36HCD"
+   ],
+   "url": "https://www.manualslib.com/manual/809651/Intertherm-Bm36hc.html"
+  },
+  {
+   "manualId": "3056830",
+   "slug": "Intertherm-Deluxe-36",
+   "title": "BM36ST installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "BM36ST",
+   "extraModels": [
+    "BM36ST"
+   ],
+   "url": "https://www.manualslib.com/manual/3056830/Intertherm-Deluxe-36.html"
+  },
+  {
+   "manualId": "2353714",
+   "slug": "Intertherm-Deluxe-42",
+   "title": "BM42HCD-BL installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "BM42HCD-BL",
+   "extraModels": [
+    "BM42HCD-BL"
+   ],
+   "url": "https://www.manualslib.com/manual/2353714/Intertherm-Deluxe-42.html"
+  },
+  {
+   "manualId": "2353727",
+   "slug": "Intertherm-Designer-36",
+   "title": "DESIGNER 36 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "DESIGNER 36",
+   "extraModels": [
+    "DM36HCI"
+   ],
+   "url": "https://www.manualslib.com/manual/2353727/Intertherm-Designer-36.html"
+  },
+  {
+   "manualId": "1243566",
+   "slug": "Intertherm-M1b-Series",
+   "title": "M1B Series installation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "M1B Series",
+   "extraModels": [
+    "M5S Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1243566/Intertherm-M1b-Series.html"
+  },
+  {
+   "manualId": "3841306",
+   "slug": "Intertherm-M1m-Series",
+   "title": "M1M Series installation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "M1M Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3841306/Intertherm-M1m-Series.html"
+  },
+  {
+   "manualId": "1110649",
+   "slug": "Intertherm-M7rl-Series",
+   "title": "M7RL Series installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "M7RL Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1110649/Intertherm-M7rl-Series.html"
+  },
+  {
+   "manualId": "2212295",
+   "slug": "Intertherm-M7rl-Series",
+   "title": "M7RL Series user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "M7RL Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2212295/Intertherm-M7rl-Series.html"
+  },
+  {
+   "manualId": "1788372",
+   "slug": "Intertherm-Millivolt-Dmstnm-2",
+   "title": "Millivolt DMPFNM-2 installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Millivolt DMPFNM-2",
+   "extraModels": [
+    "Millivolt DMPFNM-2"
+   ],
+   "url": "https://www.manualslib.com/manual/1788372/Intertherm-Millivolt-Dmstnm-2.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "intertherm"
+ ]
+}

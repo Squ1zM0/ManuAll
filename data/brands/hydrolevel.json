@@ -1,0 +1,37 @@
+{
+ "brand": "Hydrolevel",
+ "brandSlug": "hydrolevel",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/hydrolevel/"
+ ],
+ "slugUsed": "hydrolevel",
+ "capturedAt": "2026-10-28T08:28:07.871122+00:00",
+ "typePages": [
+  {
+   "path": "/brand/hydrolevel/water-system.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1271066",
+   "slug": "Hydrolevel-Vxt-24",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1271066/Hydrolevel-Vxt-24.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "hydrolevel"
+ ]
+}

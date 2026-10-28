@@ -1,0 +1,1229 @@
+{
+ "brand": "Therma-Stor",
+ "brandSlug": "therma-stor",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/therma-stor/"
+ ],
+ "slugUsed": "therma-stor",
+ "capturedAt": "2026-10-28T09:30:13.023617+00:00",
+ "typePages": [
+  {
+   "path": "/brand/therma-stor/adapter.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/air-cleaner.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/air-conditioner.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/air-handlers.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/blower.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/control-panel.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/controller.html",
+   "manuals": 14,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/dehumidifier.html",
+   "manuals": 158,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/dryer.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/electric-heater.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/fan.html",
+   "manuals": 14,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/industrial-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/measuring-instruments.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/racks-and-stands.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/security-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/temperature-controller.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/water-heater.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/therma-stor/water-pump.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "170001",
+   "slug": "Therma-Stor-Phoenix-300",
+   "title": "4022599 owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "4022599",
+   "extraModels": [
+    "4022599"
+   ],
+   "url": "https://www.manualslib.com/manual/170001/Therma-Stor-Phoenix-300.html"
+  },
+  {
+   "manualId": "2600137",
+   "slug": "Therma-Stor-Santa-Fe-Hc",
+   "title": "4025081 Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "4025081",
+   "extraModels": [
+    "4025081"
+   ],
+   "url": "https://www.manualslib.com/manual/2600137/Therma-Stor-Santa-Fe-Hc.html"
+  },
+  {
+   "manualId": "3093663",
+   "slug": "Therma-Stor-4025200",
+   "title": "4025200 owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "4025200",
+   "extraModels": [
+    "4030680",
+    "Phoenix"
+   ],
+   "url": "https://www.manualslib.com/manual/3093663/Therma-Stor-4025200.html"
+  },
+  {
+   "manualId": "3139960",
+   "slug": "Therma-Stor-Quest-Deh-3000",
+   "title": "4027370 Installation,Operation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "4027370",
+   "extraModels": [
+    "4027370",
+    "4028531",
+    "Quest DEH 3000R"
+   ],
+   "url": "https://www.manualslib.com/manual/3139960/Therma-Stor-Quest-Deh-3000.html"
+  },
+  {
+   "manualId": "781295",
+   "slug": "Therma-Stor-4027450",
+   "title": "4027450 Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "4027450",
+   "extraModels": [
+    "Santa Fe Max Dry Dual XT"
+   ],
+   "url": "https://www.manualslib.com/manual/781295/Therma-Stor-4027450.html"
+  },
+  {
+   "manualId": "1523395",
+   "slug": "Therma-Stor-Ultra-Aire-Deh-3000",
+   "title": "4028407 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "4028407",
+   "extraModels": [
+    "4028407",
+    "4028539",
+    "Ultra-Aire DEH 3000R"
+   ],
+   "url": "https://www.manualslib.com/manual/1523395/Therma-Stor-Ultra-Aire-Deh-3000.html"
+  },
+  {
+   "manualId": "3223735",
+   "slug": "Therma-Stor-4028407",
+   "title": "4028407 owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "4028407",
+   "extraModels": [
+    "Ultra-Aire DEH 3000R"
+   ],
+   "url": "https://www.manualslib.com/manual/3223735/Therma-Stor-4028407.html"
+  },
+  {
+   "manualId": "995723",
+   "slug": "Therma-Stor-Ultra-Aire-90",
+   "title": "4029820 Installer's and owner's manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "4029820",
+   "extraModels": [
+    "4029820",
+    "Ultra-Aire 90H"
+   ],
+   "url": "https://www.manualslib.com/manual/995723/Therma-Stor-Ultra-Aire-90.html"
+  },
+  {
+   "manualId": "3549693",
+   "slug": "Therma-Stor-Phoenix-300-Max",
+   "title": "4030020 owner's manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "4030020",
+   "extraModels": [
+    "4030020"
+   ],
+   "url": "https://www.manualslib.com/manual/3549693/Therma-Stor-Phoenix-300-Max.html"
+  },
+  {
+   "manualId": "2861905",
+   "slug": "Therma-Stor-Ultra-Aire-Xt155xt",
+   "title": "4031070 installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "4031070",
+   "extraModels": [
+    "4031070"
+   ],
+   "url": "https://www.manualslib.com/manual/2861905/Therma-Stor-Ultra-Aire-Xt155xt.html"
+  },
+  {
+   "manualId": "3152428",
+   "slug": "Therma-Stor-Phoenix-R150",
+   "title": "4031250 owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "4031250",
+   "extraModels": [
+    "4031250"
+   ],
+   "url": "https://www.manualslib.com/manual/3152428/Therma-Stor-Phoenix-R150.html"
+  },
+  {
+   "manualId": "781302",
+   "slug": "Therma-Stor-4031470",
+   "title": "4031470 Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "4031470",
+   "extraModels": [
+    "Santa Fe Max Dry Dual XT"
+   ],
+   "url": "https://www.manualslib.com/manual/781302/Therma-Stor-4031470.html"
+  },
+  {
+   "manualId": "2341131",
+   "slug": "Therma-Stor-Phoenix-R125",
+   "title": "4032350 owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "4032350",
+   "extraModels": [
+    "4032350"
+   ],
+   "url": "https://www.manualslib.com/manual/2341131/Therma-Stor-Phoenix-R125.html"
+  },
+  {
+   "manualId": "3175175",
+   "slug": "Therma-Stor-Phoenix-R250",
+   "title": "4034460 owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "4034460",
+   "extraModels": [
+    "4034460",
+    "4035230"
+   ],
+   "url": "https://www.manualslib.com/manual/3175175/Therma-Stor-Phoenix-R250.html"
+  },
+  {
+   "manualId": "1275332",
+   "slug": "Therma-Stor-4036000",
+   "title": "4036000 owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "4036000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1275332/Therma-Stor-4036000.html"
+  },
+  {
+   "manualId": "1523394",
+   "slug": "Therma-Stor-Ultra-Aire-120v",
+   "title": "4036400 installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "4036400",
+   "extraModels": [
+    "4036400"
+   ],
+   "url": "https://www.manualslib.com/manual/1523394/Therma-Stor-Ultra-Aire-120v.html"
+  },
+  {
+   "manualId": "1327290",
+   "slug": "Therma-Stor-Quest-Sentry",
+   "title": "4037210 user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "4037210",
+   "extraModels": [
+    "4037210"
+   ],
+   "url": "https://www.manualslib.com/manual/1327290/Therma-Stor-Quest-Sentry.html"
+  },
+  {
+   "manualId": "1328448",
+   "slug": "Therma-Stor-Quest-185-Cool",
+   "title": "4037391 Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "4037391",
+   "extraModels": [
+    "4037391",
+    "4037392"
+   ],
+   "url": "https://www.manualslib.com/manual/1328448/Therma-Stor-Quest-185-Cool.html"
+  },
+  {
+   "manualId": "3559136",
+   "slug": "Therma-Stor-Santa-Fe-Ultra-Series",
+   "title": "4044300 installation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "4044300",
+   "extraModels": [
+    "4044300",
+    "4044400",
+    "ULTRA120",
+    "ULTRA98"
+   ],
+   "url": "https://www.manualslib.com/manual/3559136/Therma-Stor-Santa-Fe-Ultra-Series.html"
+  },
+  {
+   "manualId": "3773550",
+   "slug": "Therma-Stor-Phoenix-Drymax-Ble",
+   "title": "4044300-02 owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "4044300-02",
+   "extraModels": [
+    "4044300-02",
+    "4045300-01",
+    "4045300-05",
+    "617B"
+   ],
+   "url": "https://www.manualslib.com/manual/3773550/Therma-Stor-Phoenix-Drymax-Ble.html"
+  },
+  {
+   "manualId": "3559127",
+   "slug": "Therma-Stor-Santa-Fe-Classic",
+   "title": "4044710 Installation & operation instructions",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "4044710",
+   "extraModels": [
+    "4044710"
+   ],
+   "url": "https://www.manualslib.com/manual/3559127/Therma-Stor-Santa-Fe-Classic.html"
+  },
+  {
+   "manualId": "4230182",
+   "slug": "Therma-Stor-Santa-Fe-Classic",
+   "title": "4044710 Installation & operation instructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "4044710",
+   "extraModels": [
+    "4044710",
+    "CAPTA1818A3",
+    "GD9S800403AX",
+    "GLXS5BA1810",
+    "SA8109"
+   ],
+   "url": "https://www.manualslib.com/manual/4230182/Therma-Stor-Santa-Fe-Classic.html"
+  },
+  {
+   "manualId": "4083867",
+   "slug": "Therma-Stor-Phoenix-Drymax-Xl-Pro",
+   "title": "4045100-01 owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "4045100-01",
+   "extraModels": [
+    "4045100-01",
+    "4045100-02",
+    "4045100-05"
+   ],
+   "url": "https://www.manualslib.com/manual/4083867/Therma-Stor-Phoenix-Drymax-Xl-Pro.html"
+  },
+  {
+   "manualId": "3745742",
+   "slug": "Therma-Stor-Quest-335",
+   "title": "4046200 Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "4046200",
+   "extraModels": [
+    "4046200",
+    "4046210"
+   ],
+   "url": "https://www.manualslib.com/manual/3745742/Therma-Stor-Quest-335.html"
+  },
+  {
+   "manualId": "781727",
+   "slug": "Therma-Stor-4021400",
+   "title": "classic Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "classic",
+   "extraModels": [
+    "classic",
+    "SANTA FE CLASSIC",
+    "Santa-Fe 4021400"
+   ],
+   "url": "https://www.manualslib.com/manual/781727/Therma-Stor-4021400.html"
+  },
+  {
+   "manualId": "482124",
+   "slug": "Therma-Stor-Focus-Ultra-Aire-135h",
+   "title": "FOCUS Ultra-Aire 135H owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "FOCUS Ultra-Aire 135H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/482124/Therma-Stor-Focus-Ultra-Aire-135h.html"
+  },
+  {
+   "manualId": "1007858",
+   "slug": "Therma-Stor-Hi-E-Dry-100",
+   "title": "HI-E DRY 100 Installation, operation & service instructions",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "HI-E DRY 100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1007858/Therma-Stor-Hi-E-Dry-100.html"
+  },
+  {
+   "manualId": "689076",
+   "slug": "Therma-Stor-Dry-195",
+   "title": "HI-E Dry 195 Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "HI-E Dry 195",
+   "extraModels": [
+    "HI-E Dry 195"
+   ],
+   "url": "https://www.manualslib.com/manual/689076/Therma-Stor-Dry-195.html"
+  },
+  {
+   "manualId": "170005",
+   "slug": "Therma-Stor-Hi-E-Dry-Vehere",
+   "title": "HI-E Dry Vehere owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "HI-E Dry Vehere",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/170005/Therma-Stor-Hi-E-Dry-Vehere.html"
+  },
+  {
+   "manualId": "2002527",
+   "slug": "Therma-Stor-Humidity-Alert-4026208",
+   "title": "Humidity Alert 4026208 Manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "Humidity Alert 4026208",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2002527/Therma-Stor-Humidity-Alert-4026208.html"
+  },
+  {
+   "manualId": "1870230",
+   "slug": "Therma-Stor-Santa-Fe-Crawl-Space-Alert",
+   "title": "Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1870230/Therma-Stor-Santa-Fe-Crawl-Space-Alert.html"
+  },
+  {
+   "manualId": "1150381",
+   "slug": "Therma-Stor-Deh2000",
+   "title": "Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1150381/Therma-Stor-Deh2000.html"
+  },
+  {
+   "manualId": "1324871",
+   "slug": "Therma-Stor-Ii-6",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1324871/Therma-Stor-Ii-6.html"
+  },
+  {
+   "manualId": "1532961",
+   "slug": "Therma-Stor-200-Max",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "Phoenix 200 HT"
+   ],
+   "url": "https://www.manualslib.com/manual/1532961/Therma-Stor-200-Max.html"
+  },
+  {
+   "manualId": "1517060",
+   "slug": "Therma-Stor-4037767",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1517060/Therma-Stor-4037767.html"
+  },
+  {
+   "manualId": "1517061",
+   "slug": "Therma-Stor-4037768",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1517061/Therma-Stor-4037768.html"
+  },
+  {
+   "manualId": "1517062",
+   "slug": "Therma-Stor-4037766",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1517062/Therma-Stor-4037766.html"
+  },
+  {
+   "manualId": "1931310",
+   "slug": "Therma-Stor-Santa-Fe-Crawlspace-Alert",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1931310/Therma-Stor-Santa-Fe-Crawlspace-Alert.html"
+  },
+  {
+   "manualId": "1926386",
+   "slug": "Therma-Stor-Phoenix",
+   "title": "Installation, Operation & Service Instructions",
+   "type": "Service",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1926386/Therma-Stor-Phoenix.html"
+  },
+  {
+   "manualId": "170015",
+   "slug": "Therma-Stor-Quiet-Vent-Ventilation-System",
+   "title": "Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/170015/Therma-Stor-Quiet-Vent-Ventilation-System.html"
+  },
+  {
+   "manualId": "809532",
+   "slug": "Therma-Stor-Santa-Fe-Compact",
+   "title": "Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/809532/Therma-Stor-Santa-Fe-Compact.html"
+  },
+  {
+   "manualId": "1621558",
+   "slug": "Therma-Stor-Phoenix-Firebird-Fury",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1621558/Therma-Stor-Phoenix-Firebird-Fury.html"
+  },
+  {
+   "manualId": "1957675",
+   "slug": "Therma-Stor-Phoenix-Airmax",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1957675/Therma-Stor-Phoenix-Airmax.html"
+  },
+  {
+   "manualId": "2290061",
+   "slug": "Therma-Stor-Phoenix-Window-Adapter",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2290061/Therma-Stor-Phoenix-Window-Adapter.html"
+  },
+  {
+   "manualId": "2406913",
+   "slug": "Therma-Stor-Phoenix-Airmax",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2406913/Therma-Stor-Phoenix-Airmax.html"
+  },
+  {
+   "manualId": "2431826",
+   "slug": "Therma-Stor-Humiport-10",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2431826/Therma-Stor-Humiport-10.html"
+  },
+  {
+   "manualId": "2585148",
+   "slug": "Therma-Stor-Phoenix-Firebird",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2585148/Therma-Stor-Phoenix-Firebird.html"
+  },
+  {
+   "manualId": "2755428",
+   "slug": "Therma-Stor-Phoenix-Focus-Ii",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2755428/Therma-Stor-Phoenix-Focus-Ii.html"
+  },
+  {
+   "manualId": "730168",
+   "slug": "Therma-Stor-Phoenix-D385",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/730168/Therma-Stor-Phoenix-D385.html"
+  },
+  {
+   "manualId": "885590",
+   "slug": "Therma-Stor-Phoenix-Cam-Pro",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/885590/Therma-Stor-Phoenix-Cam-Pro.html"
+  },
+  {
+   "manualId": "1007868",
+   "slug": "Therma-Stor-Phoenix-1800-Dx",
+   "title": "Phoenix 1800 DX owner's manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "Phoenix 1800 DX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1007868/Therma-Stor-Phoenix-1800-Dx.html"
+  },
+  {
+   "manualId": "170003",
+   "slug": "Therma-Stor-Phoenix-200-Ht",
+   "title": "Phoenix 200 HT owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Phoenix 200 HT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/170003/Therma-Stor-Phoenix-200-Ht.html"
+  },
+  {
+   "manualId": "739852",
+   "slug": "Therma-Stor-Phoenix-200ht-Lgr",
+   "title": "Phoenix 200 HT owner's manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "Phoenix 200 HT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/739852/Therma-Stor-Phoenix-200ht-Lgr.html"
+  },
+  {
+   "manualId": "169998",
+   "slug": "Therma-Stor-Phoenix-200-Max",
+   "title": "Phoenix 200 MAX owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "Phoenix 200 MAX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/169998/Therma-Stor-Phoenix-200-Max.html"
+  },
+  {
+   "manualId": "1250585",
+   "slug": "Therma-Stor-Phoenix-270htx",
+   "title": "Phoenix 270HTx owner's manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "Phoenix 270HTx",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1250585/Therma-Stor-Phoenix-270htx.html"
+  },
+  {
+   "manualId": "2224387",
+   "slug": "Therma-Stor-Phoenix-Aquadry-Tx-80",
+   "title": "Phoenix Aquadry TX 80 owner's manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "Phoenix Aquadry TX 80",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2224387/Therma-Stor-Phoenix-Aquadry-Tx-80.html"
+  },
+  {
+   "manualId": "1598431",
+   "slug": "Therma-Stor-Phoenix-D850",
+   "title": "Phoenix D850 owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "Phoenix D850",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1598431/Therma-Stor-Phoenix-D850.html"
+  },
+  {
+   "manualId": "3142508",
+   "slug": "Therma-Stor-Phoenix-Drymax-Ble",
+   "title": "PHOENIX DRYMAX BLE owner's manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "PHOENIX DRYMAX BLE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3142508/Therma-Stor-Phoenix-Drymax-Ble.html"
+  },
+  {
+   "manualId": "3143329",
+   "slug": "Therma-Stor-Phoenix-Drymax-Xl",
+   "title": "PHOENIX DRYMAX XL owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "PHOENIX DRYMAX XL",
+   "extraModels": [
+    "PHOENIX DRYMAX XL LGR"
+   ],
+   "url": "https://www.manualslib.com/manual/3143329/Therma-Stor-Phoenix-Drymax-Xl.html"
+  },
+  {
+   "manualId": "169999",
+   "slug": "Therma-Stor-Ts-261b",
+   "title": "Phoenix Mini-Guardian owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "Phoenix Mini-Guardian",
+   "extraModels": [
+    "Phoenix Mini-Guardian"
+   ],
+   "url": "https://www.manualslib.com/manual/169999/Therma-Stor-Ts-261b.html"
+  },
+  {
+   "manualId": "828724",
+   "slug": "Therma-Stor-Phoenix-R150-Lgr",
+   "title": "Phoenix R150 LGR owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Phoenix R150 LGR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/828724/Therma-Stor-Phoenix-R150-Lgr.html"
+  },
+  {
+   "manualId": "170006",
+   "slug": "Therma-Stor-Phoenix-R175",
+   "title": "Phoenix R175 Installation, operation & service instructions",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "Phoenix R175",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/170006/Therma-Stor-Phoenix-R175.html"
+  },
+  {
+   "manualId": "1289636",
+   "slug": "Therma-Stor-Phoenix-R200",
+   "title": "Phoenix R200 owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Phoenix R200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1289636/Therma-Stor-Phoenix-R200.html"
+  },
+  {
+   "manualId": "170013",
+   "slug": "Therma-Stor-Phoenix-Ts-285",
+   "title": "Phoenix TS-285 Installation, Operation & Service Instructions",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "Phoenix TS-285",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/170013/Therma-Stor-Phoenix-Ts-285.html"
+  },
+  {
+   "manualId": "1058606",
+   "slug": "Therma-Stor-Quest-150-Dual",
+   "title": "quest 150 dual Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "quest 150 dual",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1058606/Therma-Stor-Quest-150-Dual.html"
+  },
+  {
+   "manualId": "2147840",
+   "slug": "Therma-Stor-Quest-110-Dual",
+   "title": "quest 150 dual Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "quest 150 dual",
+   "extraModels": [
+    "quest 150 dual",
+    "4034220",
+    "4034230"
+   ],
+   "url": "https://www.manualslib.com/manual/2147840/Therma-Stor-Quest-110-Dual.html"
+  },
+  {
+   "manualId": "1289680",
+   "slug": "Therma-Stor-Quest-185-Cool",
+   "title": "Quest 185 Cool Installation, operation and maintanance manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "Quest 185 Cool",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1289680/Therma-Stor-Quest-185-Cool.html"
+  },
+  {
+   "manualId": "2325550",
+   "slug": "Therma-Stor-Quest-335",
+   "title": "Quest 335 Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "Quest 335",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2325550/Therma-Stor-Quest-335.html"
+  },
+  {
+   "manualId": "3168372",
+   "slug": "Therma-Stor-Quest-Cdg-174",
+   "title": "Quest CDG 174 Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "Quest CDG 174",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3168372/Therma-Stor-Quest-Cdg-174.html"
+  },
+  {
+   "manualId": "3086238",
+   "slug": "Therma-Stor-Quest-Dry-105",
+   "title": "QUEST Dry 105 Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "QUEST Dry 105",
+   "extraModels": [
+    "QUEST Dry 155",
+    "QUEST Dry 205"
+   ],
+   "url": "https://www.manualslib.com/manual/3086238/Therma-Stor-Quest-Dry-105.html"
+  },
+  {
+   "manualId": "1054887",
+   "slug": "Therma-Stor-Quest-Dry-180",
+   "title": "Quest DRY 180 Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "Quest DRY 180",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1054887/Therma-Stor-Quest-Dry-180.html"
+  },
+  {
+   "manualId": "3061476",
+   "slug": "Therma-Stor-Quest-Powerdry-4800d-Dry-150-Pro-Lp",
+   "title": "Quest PowerDry 4800D DRY 150 Pro LP Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "Quest PowerDry 4800D DRY 150 Pro LP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3061476/Therma-Stor-Quest-Powerdry-4800d-Dry-150-Pro-Lp.html"
+  },
+  {
+   "manualId": "3093725",
+   "slug": "Therma-Stor-Quest-Tr-80",
+   "title": "Quest TR 110 Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "Quest TR 110",
+   "extraModels": [
+    "Quest TR 110"
+   ],
+   "url": "https://www.manualslib.com/manual/3093725/Therma-Stor-Quest-Tr-80.html"
+  },
+  {
+   "manualId": "816822",
+   "slug": "Therma-Stor-Santa-Fe-Elite",
+   "title": "Santa Fe Elite Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Santa Fe Elite",
+   "extraModels": [
+    "Santa Fe Elite 4029720"
+   ],
+   "url": "https://www.manualslib.com/manual/816822/Therma-Stor-Santa-Fe-Elite.html"
+  },
+  {
+   "manualId": "717579",
+   "slug": "Therma-Stor-Santa-Fe-Hc-4025081",
+   "title": "Santa Fe HC Quick manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "Santa Fe HC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/717579/Therma-Stor-Santa-Fe-Hc-4025081.html"
+  },
+  {
+   "manualId": "683990",
+   "slug": "Therma-Stor-Santa-Fe-Advance-4029800",
+   "title": "Santa-Fe Advance 4029800 Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Santa-Fe Advance 4029800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/683990/Therma-Stor-Santa-Fe-Advance-4029800.html"
+  },
+  {
+   "manualId": "1942490",
+   "slug": "Therma-Stor-Santa-Fe-Advance",
+   "title": "Santa-Fe Advance Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "Santa-Fe Advance",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1942490/Therma-Stor-Santa-Fe-Advance.html"
+  },
+  {
+   "manualId": "828393",
+   "slug": "Therma-Stor-Santa-Fe-Advance",
+   "title": "Santa-Fe Advance Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "Santa-Fe Advance",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/828393/Therma-Stor-Santa-Fe-Advance.html"
+  },
+  {
+   "manualId": "955565",
+   "slug": "Therma-Stor-Santa-Fe-Classic",
+   "title": "Santa-Fe Classic Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "Santa-Fe Classic",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/955565/Therma-Stor-Santa-Fe-Classic.html"
+  },
+  {
+   "manualId": "3884517",
+   "slug": "Therma-Stor-Santa-Fe-Compact70",
+   "title": "SANTA-FE COMPACT70 Installation & operation instructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "SANTA-FE COMPACT70",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3884517/Therma-Stor-Santa-Fe-Compact70.html"
+  },
+  {
+   "manualId": "866944",
+   "slug": "Therma-Stor-Santa-Fe",
+   "title": "Santa-Fe Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "Santa-Fe",
+   "extraModels": [
+    "Santa-Fe 4021400"
+   ],
+   "url": "https://www.manualslib.com/manual/866944/Therma-Stor-Santa-Fe.html"
+  },
+  {
+   "manualId": "3559143",
+   "slug": "Therma-Stor-Santa-Fe-Oasis-105",
+   "title": "SANTA-FE OASIS 105 Installation & Operation Instructions",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "SANTA-FE OASIS 105",
+   "extraModels": [
+    "4044510"
+   ],
+   "url": "https://www.manualslib.com/manual/3559143/Therma-Stor-Santa-Fe-Oasis-105.html"
+  },
+  {
+   "manualId": "170007",
+   "slug": "Therma-Stor-Santa-Fe-Santa-Fe-Rx-Free-Standing-Dehumidification",
+   "title": "Santa-Fe Rx Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Santa-Fe Rx",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/170007/Therma-Stor-Santa-Fe-Santa-Fe-Rx-Free-Standing-Dehumidification.html"
+  },
+  {
+   "manualId": "921962",
+   "slug": "Therma-Stor-Hi-E-Dry-195",
+   "title": "Therma-Stor HI-E DRY 195 Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 17,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/921962/Therma-Stor-Hi-E-Dry-195.html"
+  },
+  {
+   "manualId": "1867910",
+   "slug": "Therma-Stor-Quest-Dry-150",
+   "title": "Therma-Stor Quest DRY 150 Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 34,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1867910/Therma-Stor-Quest-Dry-150.html"
+  },
+  {
+   "manualId": "966714",
+   "slug": "Therma-Stor-Quest-Powerdry-4000-Pro",
+   "title": "Therma-Stor Quest PowerDry 4000 Pro Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 14,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/966714/Therma-Stor-Quest-Powerdry-4000-Pro.html"
+  },
+  {
+   "manualId": "853365",
+   "slug": "Therma-Stor-Santa-Fe",
+   "title": "Therma-Stor Santa Fe Installation, Operation & Service Instructions",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/853365/Therma-Stor-Santa-Fe.html"
+  },
+  {
+   "manualId": "2346022",
+   "slug": "Therma-Stor-Santa-Fe-Compact-Series",
+   "title": "Therma-Stor SANTA-FE COMPACT Series Installation & Operation Instructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [
+    "4033600"
+   ],
+   "url": "https://www.manualslib.com/manual/2346022/Therma-Stor-Santa-Fe-Compact-Series.html"
+  },
+  {
+   "manualId": "2656456",
+   "slug": "Therma-Stor-Ultra-Series",
+   "title": "Therma-Stor ULTRA Series Installation & Operation Instructions",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": null,
+   "extraModels": [
+    "Santa Fe UltraMD33"
+   ],
+   "url": "https://www.manualslib.com/manual/2656456/Therma-Stor-Ultra-Series.html"
+  },
+  {
+   "manualId": "639676",
+   "slug": "Therma-Stor-Ultra-Aire-90h",
+   "title": "Ultra Aire 90H Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "Ultra Aire 90H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/639676/Therma-Stor-Ultra-Aire-90h.html"
+  },
+  {
+   "manualId": "630318",
+   "slug": "Therma-Stor-Ultra-Aire-Deh-3000",
+   "title": "Ultra Aire DEH 3000 Installer's and owner's manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "Ultra Aire DEH 3000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/630318/Therma-Stor-Ultra-Aire-Deh-3000.html"
+  },
+  {
+   "manualId": "1289639",
+   "slug": "Therma-Stor-Ultra-Aire-Xt105h",
+   "title": "Ultra Aire XT105H owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "Ultra Aire XT105H",
+   "extraModels": [
+    "Ultra Aire XT155H",
+    "Ultra Aire XT205H"
+   ],
+   "url": "https://www.manualslib.com/manual/1289639/Therma-Stor-Ultra-Aire-Xt105h.html"
+  },
+  {
+   "manualId": "1289670",
+   "slug": "Therma-Stor-Ultra-Aire-Xt105h",
+   "title": "Ultra Aire XT105H owner's manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "Ultra Aire XT105H",
+   "extraModels": [
+    "Ultra Aire XT155H",
+    "Ultra Aire XT205H"
+   ],
+   "url": "https://www.manualslib.com/manual/1289670/Therma-Stor-Ultra-Aire-Xt105h.html"
+  },
+  {
+   "manualId": "1196406",
+   "slug": "Therma-Stor-Ultra-Aire-100v",
+   "title": "Ultra-Aire 100V owner's manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "Ultra-Aire 100V",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1196406/Therma-Stor-Ultra-Aire-100v.html"
+  },
+  {
+   "manualId": "1171980",
+   "slug": "Therma-Stor-Ultra-Aire-65h",
+   "title": "Ultra-Aire 65H Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Ultra-Aire 65H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1171980/Therma-Stor-Ultra-Aire-65h.html"
+  },
+  {
+   "manualId": "170010",
+   "slug": "Therma-Stor-Ultra-Aire-100v",
+   "title": "Ultra-Aire DEH 3000 Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "Ultra-Aire DEH 3000",
+   "extraModels": [
+    "Ultra-Aire DEH 3000",
+    "Ultra-Aire DEH 3000R"
+   ],
+   "url": "https://www.manualslib.com/manual/170010/Therma-Stor-Ultra-Aire-100v.html"
+  },
+  {
+   "manualId": "170008",
+   "slug": "Therma-Stor-Ultra-Aire-Deh-3000r",
+   "title": "Ultra-Aire DEH 3000R Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Ultra-Aire DEH 3000R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/170008/Therma-Stor-Ultra-Aire-Deh-3000r.html"
+  },
+  {
+   "manualId": "170009",
+   "slug": "Therma-Stor-Ultra-Aire-Ua-135h",
+   "title": "Ultra-Aire UA-135H Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "Ultra-Aire UA-135H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/170009/Therma-Stor-Ultra-Aire-Ua-135h.html"
+  },
+  {
+   "manualId": "170012",
+   "slug": "Therma-Stor-Ultra-Aire-Ua-150h",
+   "title": "Ultra-Aire UA-150H Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Ultra-Aire UA-150H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/170012/Therma-Stor-Ultra-Aire-Ua-150h.html"
+  },
+  {
+   "manualId": "1155409",
+   "slug": "Therma-Stor-Ultra-Aire-Xt105h",
+   "title": "ultra-aire XT105H installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "ultra-aire XT105H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1155409/Therma-Stor-Ultra-Aire-Xt105h.html"
+  },
+  {
+   "manualId": "170016",
+   "slug": "Therma-Stor-Ultra-Aire-Xt150h",
+   "title": "Ultra-Aire XT150H Installer's & owner's manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "Ultra-Aire XT150H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/170016/Therma-Stor-Ultra-Aire-Xt150h.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "therma-stor"
+ ]
+}

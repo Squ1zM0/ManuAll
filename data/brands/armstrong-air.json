@@ -1,0 +1,271 @@
+{
+ "brand": "Armstrong Air",
+ "brandSlug": "armstrong-air",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/armstrong-air/"
+ ],
+ "slugUsed": "armstrong-air",
+ "capturedAt": "2026-10-28T06:26:43.753431+00:00",
+ "typePages": [
+  {
+   "path": "/brand/armstrong-air/air-conditioner.html",
+   "manuals": 15,
+   "status": 200
+  },
+  {
+   "path": "/brand/armstrong-air/air-handlers.html",
+   "manuals": 33,
+   "status": 200
+  },
+  {
+   "path": "/brand/armstrong-air/fan.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/armstrong-air/furnace.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/armstrong-air/heat-pump.html",
+   "manuals": 6,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1709783",
+   "slug": "Armstrong-Air-4scu-16-Ls-Series",
+   "title": "4SCU 16 LS Series installation instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "4SCU 16 LS Series",
+   "extraModels": [
+    "4SCU 18 LS Series",
+    "4SCU16LS-24",
+    "4SCU16LS-36",
+    "4SCU16LS-48",
+    "4SCU16LS-60"
+   ],
+   "url": "https://www.manualslib.com/manual/1709783/Armstrong-Air-4scu-16-Ls-Series.html"
+  },
+  {
+   "manualId": "2347858",
+   "slug": "Armstrong-Air-4scu-16ls-Series",
+   "title": "4SCU 16LS Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "4SCU 16LS Series",
+   "extraModels": [
+    "4SCU 18LS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2347858/Armstrong-Air-4scu-16ls-Series.html"
+  },
+  {
+   "manualId": "3361909",
+   "slug": "Armstrong-Air-4scu20lx",
+   "title": "4SCU20LX Service manual",
+   "type": "Service",
+   "pages": 49,
+   "productModel": "4SCU20LX",
+   "extraModels": [
+    "4SHP20LX"
+   ],
+   "url": "https://www.manualslib.com/manual/3361909/Armstrong-Air-4scu20lx.html"
+  },
+  {
+   "manualId": "1648158",
+   "slug": "Armstrong-Air-4shp16ls-Series",
+   "title": "4SHP16LS Series installation instructions manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "4SHP16LS Series",
+   "extraModels": [
+    "4SHP16LS-24",
+    "4SHP16LS-36",
+    "4SHP16LS-48",
+    "4SHP16LS-60"
+   ],
+   "url": "https://www.manualslib.com/manual/1648158/Armstrong-Air-4shp16ls-Series.html"
+  },
+  {
+   "manualId": "2037377",
+   "slug": "Armstrong-Air-4shp16ls-Series",
+   "title": "4SHP16LS Series installation instructions manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "4SHP16LS Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2037377/Armstrong-Air-4shp16ls-Series.html"
+  },
+  {
+   "manualId": "3737222",
+   "slug": "Armstrong-Air-Allied-A98usmv",
+   "title": "Allied A98USMV Service manual",
+   "type": "Service",
+   "pages": 75,
+   "productModel": "Allied A98USMV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3737222/Armstrong-Air-Allied-A98usmv.html"
+  },
+  {
+   "manualId": "1313234",
+   "slug": "Armstrong-Air-Bce3m-18",
+   "title": "BCE3M 18 installation instructions manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "BCE3M 18",
+   "extraModels": [
+    "BCE3M 24",
+    "BCE3M 30",
+    "BCE3M 36",
+    "BCE3M 42",
+    "BCE3M 48",
+    "BCE3M 60",
+    "BCS3M 18",
+    "BCS3M 24",
+    "BCS3M 30",
+    "BCS3M 36",
+    "BCS3M 42",
+    "BCS3M 48",
+    "BCS3M 60"
+   ],
+   "url": "https://www.manualslib.com/manual/1313234/Armstrong-Air-Bce3m-18.html"
+  },
+  {
+   "manualId": "1845023",
+   "slug": "Armstrong-Air-Bce5v-Series",
+   "title": "BCE5V Series installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "BCE5V Series",
+   "extraModels": [
+    "BCE5V18MA4X",
+    "BCE5V24MA4X",
+    "BCE5V30MA4X",
+    "BCE5V36MA4X",
+    "BCE5V42MA4X",
+    "BCE5V48MA4X",
+    "BCE5V60MA4X"
+   ],
+   "url": "https://www.manualslib.com/manual/1845023/Armstrong-Air-Bce5v-Series.html"
+  },
+  {
+   "manualId": "1836819",
+   "slug": "Armstrong-Air-Bce7e-Series",
+   "title": "BCE7E Series installation instructions manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "BCE7E Series",
+   "extraModels": [
+    "BCE7E-018",
+    "BCE7E-024",
+    "BCE7E-030",
+    "BCE7E-036",
+    "BCE7E-042",
+    "BCE7E-048",
+    "BCE7E-060"
+   ],
+   "url": "https://www.manualslib.com/manual/1836819/Armstrong-Air-Bce7e-Series.html"
+  },
+  {
+   "manualId": "1765457",
+   "slug": "Armstrong-Air-Bce7s-Series",
+   "title": "BCE7S Series installation instructions manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "BCE7S Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1765457/Armstrong-Air-Bce7s-Series.html"
+  },
+  {
+   "manualId": "1646675",
+   "slug": "Armstrong-Air-Rbcs2-Series",
+   "title": "BCS2 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "BCS2 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1646675/Armstrong-Air-Rbcs2-Series.html"
+  },
+  {
+   "manualId": "975412",
+   "slug": "Armstrong-Air-G2d93ct",
+   "title": "G2D93CT installation instructions manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "G2D93CT",
+   "extraModels": [
+    "G2D93CU",
+    "G2D95CU"
+   ],
+   "url": "https://www.manualslib.com/manual/975412/Armstrong-Air-G2d93ct.html"
+  },
+  {
+   "manualId": "3831646",
+   "slug": "Armstrong-Air-G2d95ct",
+   "title": "G2D95CT installation instructions manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "G2D95CT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3831646/Armstrong-Air-G2d95ct.html"
+  },
+  {
+   "manualId": "2989863",
+   "slug": "Armstrong-Air-Np14a-Series",
+   "title": "NP14A Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "NP14A Series",
+   "extraModels": [
+    "NP14H Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2989863/Armstrong-Air-Np14a-Series.html"
+  },
+  {
+   "manualId": "1648719",
+   "slug": "Armstrong-Air-Rp14ac-Series",
+   "title": "RP14AC Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "RP14AC Series",
+   "extraModels": [
+    "RP14HP Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1648719/Armstrong-Air-Rp14ac-Series.html"
+  },
+  {
+   "manualId": "2965893",
+   "slug": "Armstrong-Air-Rp16ac-Series",
+   "title": "RP16AC Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 22,
+   "productModel": "RP16AC Series",
+   "extraModels": [
+    "RP16HP Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2965893/Armstrong-Air-Rp16ac-Series.html"
+  },
+  {
+   "manualId": "2965889",
+   "slug": "Armstrong-Air-Rp16df-Series",
+   "title": "RP16DF Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "RP16DF Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2965889/Armstrong-Air-Rp16df-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "armstrong-air"
+ ]
+}

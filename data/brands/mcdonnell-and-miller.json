@@ -1,0 +1,146 @@
+{
+ "brand": "McDonnell & Miller",
+ "brandSlug": "mcdonnell-and-miller",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/mcdonnell-and-miller/"
+ ],
+ "slugUsed": "mcdonnell-and-miller",
+ "capturedAt": "2026-10-28T08:36:05.882812+00:00",
+ "typePages": [
+  {
+   "path": "/brand/mcdonnell-and-miller/boiler-supplies.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/mcdonnell-and-miller/control-unit.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/mcdonnell-and-miller/controller.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/mcdonnell-and-miller/switch.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/mcdonnell-and-miller/switchers.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/mcdonnell-and-miller/water-system.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1740725",
+   "slug": "Mcdonnell-And-Miller-150e-Series",
+   "title": "150E Series Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "150E Series",
+   "extraModels": [
+    "157E Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1740725/Mcdonnell-And-Miller-150e-Series.html"
+  },
+  {
+   "manualId": "2086099",
+   "slug": "Mcdonnell-And-Miller-1575-Series",
+   "title": "1575 Series instruction manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "1575 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2086099/Mcdonnell-And-Miller-1575-Series.html"
+  },
+  {
+   "manualId": "2395943",
+   "slug": "Mcdonnell-And-Miller-Fs7-4",
+   "title": "FS7-4 instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "FS7-4",
+   "extraModels": [
+    "FS7-4l"
+   ],
+   "url": "https://www.manualslib.com/manual/2395943/Mcdonnell-And-Miller-Fs7-4.html"
+  },
+  {
+   "manualId": "1552715",
+   "slug": "Mcdonnell-And-Miller-Fs4-3-Series",
+   "title": "Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1552715/Mcdonnell-And-Miller-Fs4-3-Series.html"
+  },
+  {
+   "manualId": "4317609",
+   "slug": "Mcdonnell-And-Miller-Sa91-60",
+   "title": "Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4317609/Mcdonnell-And-Miller-Sa91-60.html"
+  },
+  {
+   "manualId": "1360022",
+   "slug": "Mcdonnell-And-Miller-Uni-Match-Wfe-24",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1360022/Mcdonnell-And-Miller-Uni-Match-Wfe-24.html"
+  },
+  {
+   "manualId": "1550369",
+   "slug": "Mcdonnell-And-Miller-Guarddog-Rb-24e",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1550369/Mcdonnell-And-Miller-Guarddog-Rb-24e.html"
+  },
+  {
+   "manualId": "1830726",
+   "slug": "Mcdonnell-And-Miller-V55693d",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1830726/Mcdonnell-And-Miller-V55693d.html"
+  },
+  {
+   "manualId": "1165479",
+   "slug": "Mcdonnell-And-Miller-Pse-802-24",
+   "title": "PSE-802-24 instruction manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "PSE-802-24",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1165479/Mcdonnell-And-Miller-Pse-802-24.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "mcdonnell-miller"
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "brand": "IMI Hydronic",
+ "brandSlug": "imi-hydronic",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/imi-hydronic/"
+ ],
+ "slugUsed": "imi-hydronic",
+ "capturedAt": "2026-10-28T08:29:05.163397+00:00",
+ "typePages": [
+  {
+   "path": "/brand/imi-hydronic/boiler-supplies.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imi-hydronic/control-unit.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imi-hydronic/industrial-equipment.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/imi-hydronic/measuring-instruments.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imi-hydronic/plumbing-product.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/imi-hydronic/water-system.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2242624",
+   "slug": "Imi-Hydronic-Imi-Pneumatex-Pleno-Pi",
+   "title": "IMI PNEUMATEX Pleno PI Manual",
+   "type": "Other",
+   "pages": 100,
+   "productModel": "IMI PNEUMATEX Pleno PI",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2242624/Imi-Hydronic-Imi-Pneumatex-Pleno-Pi.html"
+  },
+  {
+   "manualId": "1825792",
+   "slug": "Imi-Hydronic-Imi-Ta-Ta-Mix",
+   "title": "IMI TA TA-MIX quick start manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "IMI TA TA-MIX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1825792/Imi-Hydronic-Imi-Ta-Ta-Mix.html"
+  },
+  {
+   "manualId": "2901680",
+   "slug": "Imi-Hydronic-4360-00-301",
+   "title": "Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2901680/Imi-Hydronic-4360-00-301.html"
+  },
+  {
+   "manualId": "2238609",
+   "slug": "Imi-Hydronic-Regutec",
+   "title": "operating instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2238609/Imi-Hydronic-Regutec.html"
+  },
+  {
+   "manualId": "2800878",
+   "slug": "Imi-Hydronic-Pleno-Connect-Pi-9",
+   "title": "Pleno Connect PI 9 Install",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Pleno Connect PI 9",
+   "extraModels": [
+    "Pleno Connect PI 9F"
+   ],
+   "url": "https://www.manualslib.com/manual/2800878/Imi-Hydronic-Pleno-Connect-Pi-9.html"
+  },
+  {
+   "manualId": "1373139",
+   "slug": "Imi-Hydronic-Ta-Scope",
+   "title": "TA-SCOPE Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "TA-SCOPE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1373139/Imi-Hydronic-Ta-Scope.html"
+  },
+  {
+   "manualId": "2312458",
+   "slug": "Imi-Hydronic-Ta-Therm-Zero",
+   "title": "TA-Therm ZERO quick start manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "TA-Therm ZERO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2312458/Imi-Hydronic-Ta-Therm-Zero.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "imi-hydronic"
+ ]
+}

@@ -1,0 +1,627 @@
+{
+ "brand": "Carlin",
+ "brandSlug": "carlin",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/carlin/"
+ ],
+ "slugUsed": "carlin",
+ "capturedAt": "2026-10-28T06:34:44.018607+00:00",
+ "typePages": [
+  {
+   "path": "/brand/carlin/burner.html",
+   "manuals": 79,
+   "status": 200
+  },
+  {
+   "path": "/brand/carlin/control-systems.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/carlin/control-unit.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/carlin/controller.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/carlin/fan.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/carlin/indoor-fireplace.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/carlin/temperature-controller.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3884925",
+   "slug": "Carlin-100crd",
+   "title": "100CRD instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "100CRD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3884925/Carlin-100crd.html"
+  },
+  {
+   "manualId": "2354806",
+   "slug": "Carlin-102crd-99frd",
+   "title": "102CRD 99FRD instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "102CRD 99FRD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2354806/Carlin-102crd-99frd.html"
+  },
+  {
+   "manualId": "3853586",
+   "slug": "Carlin-102crd",
+   "title": "102CRD instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "102CRD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3853586/Carlin-102crd.html"
+  },
+  {
+   "manualId": "1301350",
+   "slug": "Carlin-201crd",
+   "title": "201CRD instruction manual",
+   "type": "User / Owner",
+   "pages": 89,
+   "productModel": "201CRD",
+   "extraModels": [
+    "301CRD"
+   ],
+   "url": "https://www.manualslib.com/manual/1301350/Carlin-201crd.html"
+  },
+  {
+   "manualId": "1898320",
+   "slug": "Carlin-201crd",
+   "title": "201CRD instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "201CRD",
+   "extraModels": [
+    "301CRD"
+   ],
+   "url": "https://www.manualslib.com/manual/1898320/Carlin-201crd.html"
+  },
+  {
+   "manualId": "2130747",
+   "slug": "Carlin-201crd",
+   "title": "201CRD instruction manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "201CRD",
+   "extraModels": [
+    "301CRD"
+   ],
+   "url": "https://www.manualslib.com/manual/2130747/Carlin-201crd.html"
+  },
+  {
+   "manualId": "4399921",
+   "slug": "Carlin-Ezgas-Pro",
+   "title": "201GAS instruction manual",
+   "type": "User / Owner",
+   "pages": 135,
+   "productModel": "201GAS",
+   "extraModels": [
+    "201GAS",
+    "301GAS",
+    "601GAS",
+    "702GAS"
+   ],
+   "url": "https://www.manualslib.com/manual/4399921/Carlin-Ezgas-Pro.html"
+  },
+  {
+   "manualId": "826355",
+   "slug": "Carlin-201gas",
+   "title": "201GAS instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "201GAS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/826355/Carlin-201gas.html"
+  },
+  {
+   "manualId": "1873789",
+   "slug": "Carlin-301gas",
+   "title": "301GAS instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "301GAS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1873789/Carlin-301gas.html"
+  },
+  {
+   "manualId": "1627346",
+   "slug": "Carlin-51300as",
+   "title": "51300AS Installation instructions & operating manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "51300AS",
+   "extraModels": [
+    "51300BS",
+    "51300CS",
+    "51300S"
+   ],
+   "url": "https://www.manualslib.com/manual/1627346/Carlin-51300as.html"
+  },
+  {
+   "manualId": "2873271",
+   "slug": "Carlin-51300s",
+   "title": "51300AS Installation instructions & operating manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "51300AS",
+   "extraModels": [
+    "51300AS",
+    "51300BS",
+    "51300CS"
+   ],
+   "url": "https://www.manualslib.com/manual/2873271/Carlin-51300s.html"
+  },
+  {
+   "manualId": "2107493",
+   "slug": "Carlin-801gas",
+   "title": "52600A instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "52600A",
+   "extraModels": [
+    "52600A",
+    "52600B",
+    "801Go"
+   ],
+   "url": "https://www.manualslib.com/manual/2107493/Carlin-801gas.html"
+  },
+  {
+   "manualId": "1295356",
+   "slug": "Carlin-601gas",
+   "title": "601GAS instruction manual",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": "601GAS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1295356/Carlin-601gas.html"
+  },
+  {
+   "manualId": "1671874",
+   "slug": "Carlin-60200fr",
+   "title": "60200FR Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "60200FR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1671874/Carlin-60200fr.html"
+  },
+  {
+   "manualId": "2790034",
+   "slug": "Carlin-60200fr",
+   "title": "60200FR Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "60200FR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2790034/Carlin-60200fr.html"
+  },
+  {
+   "manualId": "1506223",
+   "slug": "Carlin-701crd",
+   "title": "701CRD Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "701CRD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1506223/Carlin-701crd.html"
+  },
+  {
+   "manualId": "1314861",
+   "slug": "Carlin-70200",
+   "title": "70200 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "70200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1314861/Carlin-70200.html"
+  },
+  {
+   "manualId": "3385166",
+   "slug": "Carlin-70200",
+   "title": "70200 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "70200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3385166/Carlin-70200.html"
+  },
+  {
+   "manualId": "1754435",
+   "slug": "Carlin-702crd",
+   "title": "702CRD Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "702CRD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1754435/Carlin-702crd.html"
+  },
+  {
+   "manualId": "3012284",
+   "slug": "Carlin-702crd",
+   "title": "702CRD instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "702CRD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3012284/Carlin-702crd.html"
+  },
+  {
+   "manualId": "1508032",
+   "slug": "Carlin-702g-O",
+   "title": "702G/O instruction manual",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "702G/O",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1508032/Carlin-702g-O.html"
+  },
+  {
+   "manualId": "1528209",
+   "slug": "Carlin-702gas",
+   "title": "702GAS instruction manual",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": "702GAS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1528209/Carlin-702gas.html"
+  },
+  {
+   "manualId": "2026141",
+   "slug": "Carlin-702gas",
+   "title": "702GAS instruction manual",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": "702GAS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2026141/Carlin-702gas.html"
+  },
+  {
+   "manualId": "3852570",
+   "slug": "Carlin-801crd",
+   "title": "801CRD Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "801CRD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3852570/Carlin-801crd.html"
+  },
+  {
+   "manualId": "1528204",
+   "slug": "Carlin-99frd",
+   "title": "99FRD instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "99FRD",
+   "extraModels": [
+    "EZ-66"
+   ],
+   "url": "https://www.manualslib.com/manual/1528204/Carlin-99frd.html"
+  },
+  {
+   "manualId": "2034900",
+   "slug": "Carlin-Ez-1hpw",
+   "title": "Carlin EZ-1HPW Manual Supplement",
+   "type": "Other",
+   "pages": 29,
+   "productModel": null,
+   "extraModels": [
+    "EZ-2",
+    "EZ-2-HP",
+    "EZ-2HPW",
+    "EZ-3",
+    "EZ-3-HP"
+   ],
+   "url": "https://www.manualslib.com/manual/2034900/Carlin-Ez-1hpw.html"
+  },
+  {
+   "manualId": "3164024",
+   "slug": "carlin-ez-temp-microprocessor-temperature-control-manual",
+   "title": "Carlin EZ-Temp - Microprocessor Temperature Control Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3164024/carlin-ez-temp-microprocessor-temperature-control-manual.html"
+  },
+  {
+   "manualId": "1611082",
+   "slug": "Carlin-40200",
+   "title": "Datasheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1611082/Carlin-40200.html"
+  },
+  {
+   "manualId": "2186529",
+   "slug": "Carlin-Ez-Temp-90200",
+   "title": "Datasheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2186529/Carlin-Ez-Temp-90200.html"
+  },
+  {
+   "manualId": "2186553",
+   "slug": "Carlin-Ez-Temp-90300",
+   "title": "Datasheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2186553/Carlin-Ez-Temp-90300.html"
+  },
+  {
+   "manualId": "2117581",
+   "slug": "Carlin-Ez-Series",
+   "title": "EZ Series instruction manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "EZ Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2117581/Carlin-Ez-Series.html"
+  },
+  {
+   "manualId": "1788466",
+   "slug": "Carlin-Ez-1-Hp",
+   "title": "EZ-1 instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "EZ-1",
+   "extraModels": [
+    "EZ-2",
+    "EZ-2-HP",
+    "EZ-3",
+    "EZ-3-HP",
+    "EZ-LF",
+    "EZ-LF-1",
+    "EZ-LF-2",
+    "EZ-LF-3"
+   ],
+   "url": "https://www.manualslib.com/manual/1788466/Carlin-Ez-1-Hp.html"
+  },
+  {
+   "manualId": "2372434",
+   "slug": "Carlin-Ez-66",
+   "title": "EZ-66 instruction manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "EZ-66",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2372434/Carlin-Ez-66.html"
+  },
+  {
+   "manualId": "1433735",
+   "slug": "Carlin-Ez-Temp",
+   "title": "EZ-Temp instruction manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "EZ-Temp",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1433735/Carlin-Ez-Temp.html"
+  },
+  {
+   "manualId": "1467609",
+   "slug": "Carlin-Ez-Temp",
+   "title": "EZ-Temp instruction manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "EZ-Temp",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1467609/Carlin-Ez-Temp.html"
+  },
+  {
+   "manualId": "1295355",
+   "slug": "Carlin-Ezgas-Pro",
+   "title": "EZGas Pro instruction manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "EZGas Pro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1295355/Carlin-Ezgas-Pro.html"
+  },
+  {
+   "manualId": "1300092",
+   "slug": "Carlin-Ezgas-Pro",
+   "title": "EZGas Pro instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "EZGas Pro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1300092/Carlin-Ezgas-Pro.html"
+  },
+  {
+   "manualId": "1528201",
+   "slug": "Carlin-Flame-Funnel-1050ffd",
+   "title": "Flame Funnel 1050FFD Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Flame Funnel 1050FFD",
+   "extraModels": [
+    "Flame Funnel 1150FFD"
+   ],
+   "url": "https://www.manualslib.com/manual/1528201/Carlin-Flame-Funnel-1050ffd.html"
+  },
+  {
+   "manualId": "973922",
+   "slug": "Carlin-G3b",
+   "title": "G3B Instruciton manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "G3B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/973922/Carlin-G3b.html"
+  },
+  {
+   "manualId": "1576214",
+   "slug": "Carlin-601crd",
+   "title": "Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1576214/Carlin-601crd.html"
+  },
+  {
+   "manualId": "1926041",
+   "slug": "Carlin-Crd-Series",
+   "title": "Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "201CRD"
+   ],
+   "url": "https://www.manualslib.com/manual/1926041/Carlin-Crd-Series.html"
+  },
+  {
+   "manualId": "2764332",
+   "slug": "Carlin-Ez-Temp-90000b",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2764332/Carlin-Ez-Temp-90000b.html"
+  },
+  {
+   "manualId": "3491708",
+   "slug": "Carlin-97406",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3491708/Carlin-97406.html"
+  },
+  {
+   "manualId": "4178914",
+   "slug": "Carlin-601crd",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4178914/Carlin-601crd.html"
+  },
+  {
+   "manualId": "4251370",
+   "slug": "Carlin-42130-02",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4251370/Carlin-42130-02.html"
+  },
+  {
+   "manualId": "1576920",
+   "slug": "Carlin-60200",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1576920/Carlin-60200.html"
+  },
+  {
+   "manualId": "1576924",
+   "slug": "Carlin-50200",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1576924/Carlin-50200.html"
+  },
+  {
+   "manualId": "1576925",
+   "slug": "Carlin-48245",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1576925/Carlin-48245.html"
+  },
+  {
+   "manualId": "3588986",
+   "slug": "Carlin-Hydrolevel-Company-Ofc-5023",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3588986/Carlin-Hydrolevel-Company-Ofc-5023.html"
+  },
+  {
+   "manualId": "2308520",
+   "slug": "Carlin-Sqn71",
+   "title": "Quick reference manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2308520/Carlin-Sqn71.html"
+  },
+  {
+   "manualId": "2498808",
+   "slug": "Carlin-Ez-Temp-90320",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2498808/Carlin-Ez-Temp-90320.html"
+  },
+  {
+   "manualId": "3512003",
+   "slug": "Carlin-Ome-72-36-Series",
+   "title": "Setup",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3512003/Carlin-Ome-72-36-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "3164024",
+   "slug": "carlin-ez-temp-microprocessor-temperature-control-manual",
+   "title": "Carlin EZ-Temp - Microprocessor Temperature Control Manual"
+  }
+ ],
+ "techDirectIds": [
+  "carlin"
+ ]
+}

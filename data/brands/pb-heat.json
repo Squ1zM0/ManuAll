@@ -1,0 +1,346 @@
+{
+ "brand": "PB Heat",
+ "brandSlug": "pb-heat",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/pb-heat/"
+ ],
+ "slugUsed": "pb-heat",
+ "capturedAt": "2026-10-28T08:47:29.004560+00:00",
+ "typePages": [
+  {
+   "path": "/brand/pb-heat/boiler.html",
+   "manuals": 91,
+   "status": 200
+  },
+  {
+   "path": "/brand/pb-heat/water-heater.html",
+   "manuals": 6,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2950227",
+   "slug": "Pb-Heat-211a-Series",
+   "title": "211A Series User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "211A Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2950227/Pb-Heat-211a-Series.html"
+  },
+  {
+   "manualId": "878699",
+   "slug": "Pb-Heat-Series-211a",
+   "title": "211A Series User's information manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "211A Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/878699/Pb-Heat-Series-211a.html"
+  },
+  {
+   "manualId": "866410",
+   "slug": "Pb-Heat-62-09",
+   "title": "61-03 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 41,
+   "productModel": "61-03",
+   "extraModels": [
+    "61-03",
+    "61-04",
+    "61-05",
+    "61-06",
+    "61-07",
+    "61-08",
+    "62-10",
+    "62-11",
+    "62-12",
+    "62-13",
+    "62-14",
+    "62-15"
+   ],
+   "url": "https://www.manualslib.com/manual/866410/Pb-Heat-62-09.html"
+  },
+  {
+   "manualId": "4261592",
+   "slug": "Pb-Heat-63-Series",
+   "title": "64-e Series User's information manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "64-e Series",
+   "extraModels": [
+    "64-e Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4261592/Pb-Heat-63-Series.html"
+  },
+  {
+   "manualId": "818383",
+   "slug": "Pb-Heat-De-Series",
+   "title": "DE Series User's information manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": "DE Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/818383/Pb-Heat-De-Series.html"
+  },
+  {
+   "manualId": "1831879",
+   "slug": "Pb-Heat-Pavilion-Pr199dv",
+   "title": "GQ-C3260WXQ-FF PB US owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "GQ-C3260WXQ-FF PB US",
+   "extraModels": [
+    "GQ-C3260WXQ-FF PB US"
+   ],
+   "url": "https://www.manualslib.com/manual/1831879/Pb-Heat-Pavilion-Pr199dv.html"
+  },
+  {
+   "manualId": "1135027",
+   "slug": "Pb-Heat-Mi85-Series",
+   "title": "MI Series User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "MI Series",
+   "extraModels": [
+    "MI Series",
+    "MIHII SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/1135027/Pb-Heat-Mi85-Series.html"
+  },
+  {
+   "manualId": "809179",
+   "slug": "Pb-Heat-Series-Mi",
+   "title": "MI Series User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "MI Series",
+   "extraModels": [
+    "MI Series",
+    "MIH Series"
+   ],
+   "url": "https://www.manualslib.com/manual/809179/Pb-Heat-Series-Mi.html"
+  },
+  {
+   "manualId": "3966638",
+   "slug": "Pb-Heat-Mi-E-Series",
+   "title": "MI-e Series User's information manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "MI-e Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3966638/Pb-Heat-Mi-E-Series.html"
+  },
+  {
+   "manualId": "1192735",
+   "slug": "Pb-Heat-Mod-U-Pak",
+   "title": "mod-u-pak Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "mod-u-pak",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1192735/Pb-Heat-Mod-U-Pak.html"
+  },
+  {
+   "manualId": "3406686",
+   "slug": "Pb-Heat-Purefire",
+   "title": "Pb Heat PureFire Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3406686/Pb-Heat-Purefire.html"
+  },
+  {
+   "manualId": "3505459",
+   "slug": "Pb-Heat-Pbc-Series",
+   "title": "PBC Series User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "PBC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3505459/Pb-Heat-Pbc-Series.html"
+  },
+  {
+   "manualId": "2486795",
+   "slug": "Pb-Heat-Peerless-Boilers-Gm-Series",
+   "title": "Peerless Boilers GM Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 43,
+   "productModel": "Peerless Boilers GM Series",
+   "extraModels": [
+    "Peerless Boilers GM-07",
+    "Peerless Boilers GM-08",
+    "Peerless Boilers GM-e-05",
+    "Peerless Boilers GM-e-06"
+   ],
+   "url": "https://www.manualslib.com/manual/2486795/Pb-Heat-Peerless-Boilers-Gm-Series.html"
+  },
+  {
+   "manualId": "982285",
+   "slug": "Pb-Heat-Peerless-Combi-160",
+   "title": "Peerless Combi 160 user manual",
+   "type": "User / Owner",
+   "pages": 107,
+   "productModel": "Peerless Combi 160",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/982285/Pb-Heat-Peerless-Combi-160.html"
+  },
+  {
+   "manualId": "1422795",
+   "slug": "Pb-Heat-Peerless-Partner-Pv-40",
+   "title": "Peerless Partner PV-120 Operation and installation manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "Peerless Partner PV-120",
+   "extraModels": [
+    "Peerless Partner PV-120",
+    "Peerless Partner PV-60",
+    "Peerless Partner PV-80"
+   ],
+   "url": "https://www.manualslib.com/manual/1422795/Pb-Heat-Peerless-Partner-Pv-40.html"
+  },
+  {
+   "manualId": "1190750",
+   "slug": "Pb-Heat-Psc-06",
+   "title": "PSC-03 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 39,
+   "productModel": "PSC-03",
+   "extraModels": [
+    "PSC-03",
+    "PSC-04",
+    "PSC-05"
+   ],
+   "url": "https://www.manualslib.com/manual/1190750/Pb-Heat-Psc-06.html"
+  },
+  {
+   "manualId": "3392909",
+   "slug": "Pb-Heat-Purefire-Pfc-460",
+   "title": "PUREFIRE PFC-1000 User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "PUREFIRE PFC-1000",
+   "extraModels": [
+    "PUREFIRE PFC-1000",
+    "PUREFIRE PFC-1500",
+    "PUREFIRE PFC-850"
+   ],
+   "url": "https://www.manualslib.com/manual/3392909/Pb-Heat-Purefire-Pfc-460.html"
+  },
+  {
+   "manualId": "3108735",
+   "slug": "Pb-Heat-Purefire-Pfc-625",
+   "title": "PureFire PFC-625 User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "PureFire PFC-625",
+   "extraModels": [
+    "PureFire PFC-750"
+   ],
+   "url": "https://www.manualslib.com/manual/3108735/Pb-Heat-Purefire-Pfc-625.html"
+  },
+  {
+   "manualId": "801616",
+   "slug": "Pb-Heat-Purefire",
+   "title": "PUREFIRE User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "PUREFIRE",
+   "extraModels": [
+    "PureFire Series"
+   ],
+   "url": "https://www.manualslib.com/manual/801616/Pb-Heat-Purefire.html"
+  },
+  {
+   "manualId": "895099",
+   "slug": "Pb-Heat-Series-63",
+   "title": "SERIES 63 User's information manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "SERIES 63",
+   "extraModels": [
+    "SERIES 64"
+   ],
+   "url": "https://www.manualslib.com/manual/895099/Pb-Heat-Series-63.html"
+  },
+  {
+   "manualId": "3439866",
+   "slug": "Pb-Heat-Gm-Series",
+   "title": "Series GM User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Series GM",
+   "extraModels": [
+    "Series GM"
+   ],
+   "url": "https://www.manualslib.com/manual/3439866/Pb-Heat-Gm-Series.html"
+  },
+  {
+   "manualId": "794923",
+   "slug": "Pb-Heat-Series-Gm",
+   "title": "Series GM User's information manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "Series GM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/794923/Pb-Heat-Series-Gm.html"
+  },
+  {
+   "manualId": "855526",
+   "slug": "Pb-Heat-Tc-Series",
+   "title": "TC Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 39,
+   "productModel": "TC Series",
+   "extraModels": [
+    "TC-04",
+    "TC-05",
+    "TC-06",
+    "TC-07",
+    "TC-08",
+    "TC-09",
+    "TC-10",
+    "TC-11",
+    "TC-12",
+    "TC-13",
+    "TC-14",
+    "TC-15",
+    "TC-16",
+    "TC-17",
+    "TC-18"
+   ],
+   "url": "https://www.manualslib.com/manual/855526/Pb-Heat-Tc-Series.html"
+  },
+  {
+   "manualId": "1498496",
+   "slug": "Pb-Heat-Sc-Series",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1498496/Pb-Heat-Sc-Series.html"
+  },
+  {
+   "manualId": "802295",
+   "slug": "Pb-Heat-Pscii-Series",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/802295/Pb-Heat-Pscii-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "pb-heat"
+ ]
+}

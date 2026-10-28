@@ -1,0 +1,1196 @@
+{
+ "brand": "Enertech",
+ "brandSlug": "enertech",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/enertech/"
+ ],
+ "slugUsed": "enertech",
+ "capturedAt": "2026-10-28T07:05:04.123218+00:00",
+ "typePages": [
+  {
+   "path": "/brand/enertech/air-conditioner.html",
+   "manuals": 22,
+   "status": 200
+  },
+  {
+   "path": "/brand/enertech/air-handlers.html",
+   "manuals": 34,
+   "status": 200
+  },
+  {
+   "path": "/brand/enertech/boiler.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/enertech/burner.html",
+   "manuals": 125,
+   "status": 200
+  },
+  {
+   "path": "/brand/enertech/furnace.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/enertech/heat-pump.html",
+   "manuals": 171,
+   "status": 200
+  },
+  {
+   "path": "/brand/enertech/heater.html",
+   "manuals": 29,
+   "status": 200
+  },
+  {
+   "path": "/brand/enertech/indoor-fireplace.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/enertech/industrial-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/enertech/refrigerator.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/enertech/water-heater.html",
+   "manuals": 5,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4575269",
+   "slug": "Enertech-St024",
+   "title": "ACD024B Engineering data and installation manual",
+   "type": "Installation",
+   "pages": 82,
+   "productModel": "ACD024B",
+   "extraModels": [
+    "ACD024B",
+    "ACD036B",
+    "ACD060C",
+    "MPD024A",
+    "MPD036A",
+    "MPD060B",
+    "MPD072A",
+    "ST036",
+    "ST048",
+    "ST060",
+    "ST072"
+   ],
+   "url": "https://www.manualslib.com/manual/4575269/Enertech-St024.html"
+  },
+  {
+   "manualId": "1261814",
+   "slug": "Enertech-Bs018",
+   "title": "ACD024B Installation & operation manual",
+   "type": "Installation",
+   "pages": 66,
+   "productModel": "ACD024B",
+   "extraModels": [
+    "ACD024B",
+    "ACD036B",
+    "ACD060C",
+    "BT024",
+    "BT036",
+    "BT048",
+    "BT060",
+    "BT072",
+    "MPD024A",
+    "MPD036A",
+    "MPD060B",
+    "MPD072A"
+   ],
+   "url": "https://www.manualslib.com/manual/1261814/Enertech-Bs018.html"
+  },
+  {
+   "manualId": "3078378",
+   "slug": "Enertech-Av-Series",
+   "title": "ACH024 Installation & operation manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "ACH024",
+   "extraModels": [
+    "ACH024",
+    "ACH036",
+    "ACH048",
+    "ACH060",
+    "CFFWA-12",
+    "CFFWA-16",
+    "CFFWA-20",
+    "CFFWA-3",
+    "CFFWA-6",
+    "CFFWA-8",
+    "EAV Series",
+    "EAV030",
+    "EAV060",
+    "MCH024",
+    "MCH036",
+    "MCH048",
+    "MCH060",
+    "MHQWW-12",
+    "MHQWW-18",
+    "MHQWW-24",
+    "MHQWW-36",
+    "MHQWW-9",
+    "MPH024",
+    "MPH036",
+    "MPH048",
+    "MPH060"
+   ],
+   "url": "https://www.manualslib.com/manual/3078378/Enertech-Av-Series.html"
+  },
+  {
+   "manualId": "4568738",
+   "slug": "Enertech-Ead",
+   "title": "AHA051LA Installation & operation manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "AHA051LA",
+   "extraModels": [
+    "AHA051LA",
+    "AHA051MA",
+    "AHA051SA",
+    "AHA101MA",
+    "AHA151LA"
+   ],
+   "url": "https://www.manualslib.com/manual/4568738/Enertech-Ead.html"
+  },
+  {
+   "manualId": "1739927",
+   "slug": "Enertech-B20kav",
+   "title": "B20KAV Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "B20KAV",
+   "extraModels": [
+    "B20KV"
+   ],
+   "url": "https://www.manualslib.com/manual/1739927/Enertech-B20kav.html"
+  },
+  {
+   "manualId": "4214334",
+   "slug": "Enertech-Mol-200-T1l",
+   "title": "B30A2 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "B30A2",
+   "extraModels": [
+    "B30A2"
+   ],
+   "url": "https://www.manualslib.com/manual/4214334/Enertech-Mol-200-T1l.html"
+  },
+  {
+   "manualId": "2231984",
+   "slug": "Enertech-Bentoflex-St108fuv",
+   "title": "BENTOFLEX ST108FUV Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 15,
+   "productModel": "BENTOFLEX ST108FUV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2231984/Enertech-Bentoflex-St108fuv.html"
+  },
+  {
+   "manualId": "1965168",
+   "slug": "Enertech-Bentone-B-2-Series",
+   "title": "Bentone B 2 KA Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "Bentone B 2 KA",
+   "extraModels": [
+    "Bentone B 2 KA",
+    "Bentone B 2 KAV",
+    "Bentone B 2 KS 76/24",
+    "Bentone B 2 KSV 76/24"
+   ],
+   "url": "https://www.manualslib.com/manual/1965168/Enertech-Bentone-B-2-Series.html"
+  },
+  {
+   "manualId": "1648956",
+   "slug": "Enertech-Bentone-B-30-2a",
+   "title": "Bentone B 30 2A Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "Bentone B 30 2A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1648956/Enertech-Bentone-B-30-2a.html"
+  },
+  {
+   "manualId": "1801443",
+   "slug": "Enertech-Bentone-B-30a-Cn",
+   "title": "Bentone B 30A CN Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "Bentone B 30A CN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1801443/Enertech-Bentone-B-30a-Cn.html"
+  },
+  {
+   "manualId": "2400143",
+   "slug": "Enertech-Bentone-B-40-A2-2",
+   "title": "Bentone B 40 A2.2 Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "Bentone B 40 A2.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2400143/Enertech-Bentone-B-40-A2-2.html"
+  },
+  {
+   "manualId": "2266968",
+   "slug": "Enertech-Bentone-B-45-A2-2",
+   "title": "Bentone B 45 A2.2 Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "Bentone B 45 A2.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2266968/Enertech-Bentone-B-45-A2-2.html"
+  },
+  {
+   "manualId": "2401479",
+   "slug": "Enertech-Bentone-B-45a2-2h",
+   "title": "Bentone B 45A2.2H Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "Bentone B 45A2.2H",
+   "extraModels": [
+    "Bentone B 45AL2.2H"
+   ],
+   "url": "https://www.manualslib.com/manual/2401479/Enertech-Bentone-B-45a2-2h.html"
+  },
+  {
+   "manualId": "1740004",
+   "slug": "Enertech-B45a2-2h",
+   "title": "Bentone B 45A2.2H Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "Bentone B 45A2.2H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1740004/Enertech-B45a2-2h.html"
+  },
+  {
+   "manualId": "1931341",
+   "slug": "Enertech-Bentone-B1fuv-Classic",
+   "title": "Bentone B1FUV Classic Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "Bentone B1FUV Classic",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1931341/Enertech-Bentone-B1fuv-Classic.html"
+  },
+  {
+   "manualId": "1774344",
+   "slug": "Enertech-Bentone-B40-Cn",
+   "title": "Bentone B40 CN Installation and maintenance instruction",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "Bentone B40 CN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1774344/Enertech-Bentone-B40-Cn.html"
+  },
+  {
+   "manualId": "2456005",
+   "slug": "Enertech-Bentone-B40a",
+   "title": "Bentone B40A Installation and maintenance instruction",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "Bentone B40A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2456005/Enertech-Bentone-B40a.html"
+  },
+  {
+   "manualId": "1729802",
+   "slug": "Enertech-Bentone-B65-Rme",
+   "title": "Bentone B55 Installation and maintenance instruction",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Bentone B55",
+   "extraModels": [
+    "Bentone B55"
+   ],
+   "url": "https://www.manualslib.com/manual/1729802/Enertech-Bentone-B65-Rme.html"
+  },
+  {
+   "manualId": "2003022",
+   "slug": "Enertech-Bentone-B55-Series",
+   "title": "Bentone B55 Series Installation and maintenance instruction",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Bentone B55 Series",
+   "extraModels": [
+    "Bentone B55-2",
+    "Bentone B55-2H",
+    "Bentone B55-2R",
+    "Bentone B55-3R",
+    "Bentone B65 Series",
+    "Bentone B65-2",
+    "Bentone B65-2H",
+    "Bentone B65-2R",
+    "Bentone B65-3R"
+   ],
+   "url": "https://www.manualslib.com/manual/2003022/Enertech-Bentone-B55-Series.html"
+  },
+  {
+   "manualId": "1744500",
+   "slug": "Enertech-Bentone-B70-2-3h",
+   "title": "Bentone B70-2.3H Installation and maintenance instruction",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "Bentone B70-2.3H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1744500/Enertech-Bentone-B70-2-3h.html"
+  },
+  {
+   "manualId": "3236963",
+   "slug": "Enertech-Bentone-Bentoflex-St-133-Ka-K",
+   "title": "Bentone BENTOFLEX ST 133 KA/K Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "Bentone BENTOFLEX ST 133 KA/K",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3236963/Enertech-Bentone-Bentoflex-St-133-Ka-K.html"
+  },
+  {
+   "manualId": "3266761",
+   "slug": "Enertech-Bentone-Bentoflex-St120ka",
+   "title": "Bentone BENTOFLEX ST120KA Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "Bentone BENTOFLEX ST120KA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3266761/Enertech-Bentone-Bentoflex-St120ka.html"
+  },
+  {
+   "manualId": "1784965",
+   "slug": "Enertech-Bentone-Bfg1-Series",
+   "title": "Bentone BFG1 Manual",
+   "type": "Other",
+   "pages": 46,
+   "productModel": "Bentone BFG1",
+   "extraModels": [
+    "Bentone BFG1 H1",
+    "Bentone BFG1 H2",
+    "Bentone BFG1 H3"
+   ],
+   "url": "https://www.manualslib.com/manual/1784965/Enertech-Bentone-Bfg1-Series.html"
+  },
+  {
+   "manualId": "3177432",
+   "slug": "Enertech-Nu-Way-Mgn-190-T1l",
+   "title": "Bentone BG 300-2 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Bentone BG 300-2",
+   "extraModels": [
+    "Bentone BG 300-2"
+   ],
+   "url": "https://www.manualslib.com/manual/3177432/Enertech-Nu-Way-Mgn-190-T1l.html"
+  },
+  {
+   "manualId": "2401504",
+   "slug": "Enertech-Bentone-Bg-300-2",
+   "title": "Bentone BG 300-2 Installation and maintenance instruction",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Bentone BG 300-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2401504/Enertech-Bentone-Bg-300-2.html"
+  },
+  {
+   "manualId": "1763098",
+   "slug": "Enertech-Bentone-Bg-450",
+   "title": "Bentone BG 450 Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Bentone BG 450",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1763098/Enertech-Bentone-Bg-450.html"
+  },
+  {
+   "manualId": "2401508",
+   "slug": "Enertech-Bentone-Bg-450-M",
+   "title": "Bentone BG 450 M Installation and maintenance instruction",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "Bentone BG 450 M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2401508/Enertech-Bentone-Bg-450-M.html"
+  },
+  {
+   "manualId": "2401501",
+   "slug": "Enertech-Bentone-Bg400-Biogas",
+   "title": "Bentone BG400 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "Bentone BG400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2401501/Enertech-Bentone-Bg400-Biogas.html"
+  },
+  {
+   "manualId": "1711207",
+   "slug": "Enertech-Bentone-St-133-K",
+   "title": "Bentone ST 133 K Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "Bentone ST 133 K",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1711207/Enertech-Bentone-St-133-K.html"
+  },
+  {
+   "manualId": "1781875",
+   "slug": "Enertech-Bentone-Stg-146",
+   "title": "Bentone STG 146 Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Bentone STG 146",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1781875/Enertech-Bentone-Stg-146.html"
+  },
+  {
+   "manualId": "1770204",
+   "slug": "Enertech-Bg-450",
+   "title": "BG 450 Installation and maintenance instruction",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "BG 450",
+   "extraModels": [
+    "BG 450-2"
+   ],
+   "url": "https://www.manualslib.com/manual/1770204/Enertech-Bg-450.html"
+  },
+  {
+   "manualId": "1812975",
+   "slug": "Enertech-Bg-700-2",
+   "title": "BG 700-2 Installation and maintenance instruction",
+   "type": "Service",
+   "pages": 15,
+   "productModel": "BG 700-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1812975/Enertech-Bg-700-2.html"
+  },
+  {
+   "manualId": "1657042",
+   "slug": "Enertech-Bg950",
+   "title": "BG950 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 37,
+   "productModel": "BG950",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1657042/Enertech-Bg950.html"
+  },
+  {
+   "manualId": "4653347",
+   "slug": "Enertech-Bs-Series",
+   "title": "BS Series Installation & operations manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "BS Series",
+   "extraModels": [
+    "BS018",
+    "BT Series",
+    "BT024",
+    "BT036",
+    "BT048",
+    "BT060",
+    "BT072"
+   ],
+   "url": "https://www.manualslib.com/manual/4653347/Enertech-Bs-Series.html"
+  },
+  {
+   "manualId": "3158912",
+   "slug": "Enertech-Bs018",
+   "title": "BS018 Installation & operation manual",
+   "type": "Installation",
+   "pages": 74,
+   "productModel": "BS018",
+   "extraModels": [
+    "BT024",
+    "BT036",
+    "BT048",
+    "BT060",
+    "BT072"
+   ],
+   "url": "https://www.manualslib.com/manual/3158912/Enertech-Bs018.html"
+  },
+  {
+   "manualId": "1092184",
+   "slug": "Enertech-Ct024",
+   "title": "CT024 Engineering data and installation manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "CT024",
+   "extraModels": [
+    "CT036",
+    "CT048",
+    "CT060",
+    "CT072"
+   ],
+   "url": "https://www.manualslib.com/manual/1092184/Enertech-Ct024.html"
+  },
+  {
+   "manualId": "1308800",
+   "slug": "Enertech-Ctc-Ecologic-Family-Series",
+   "title": "CTC EcoLogic Family series Installation and Maintenance manual",
+   "type": "Service",
+   "pages": 128,
+   "productModel": "CTC EcoLogic Family series",
+   "extraModels": [
+    "CTC EcoLogic Pro series"
+   ],
+   "url": "https://www.manualslib.com/manual/1308800/Enertech-Ctc-Ecologic-Family-Series.html"
+  },
+  {
+   "manualId": "1669516",
+   "slug": "Enertech-Ctc-Smartrad-Series",
+   "title": "CTC Smartrad Series Manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "CTC Smartrad Series",
+   "extraModels": [
+    "CTC Smartrad SRX080",
+    "CTC Smartrad SRX120",
+    "CTC Smartrad SRX140",
+    "CTC Smartrad SRX180"
+   ],
+   "url": "https://www.manualslib.com/manual/1669516/Enertech-Ctc-Smartrad-Series.html"
+  },
+  {
+   "manualId": "3792567",
+   "slug": "Enertech-Ead-Series",
+   "title": "EAD Series ASSEMBLY, INSTALLATION, OPERATION & MAINTENANCE MANUAL",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "EAD Series",
+   "extraModels": [
+    "EAD018",
+    "EAD024",
+    "EAD036",
+    "EAD048",
+    "EAD060",
+    "EAD072"
+   ],
+   "url": "https://www.manualslib.com/manual/3792567/Enertech-Ead-Series.html"
+  },
+  {
+   "manualId": "2968315",
+   "slug": "Enertech-Ead-Series",
+   "title": "EAD Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "EAD Series",
+   "extraModels": [
+    "EAD018",
+    "EAD024",
+    "EAD036",
+    "EAD048",
+    "EAD060",
+    "EAD072",
+    "EED Series",
+    "EED018",
+    "EED024",
+    "EED036",
+    "EED048",
+    "EED060",
+    "EED072"
+   ],
+   "url": "https://www.manualslib.com/manual/2968315/Enertech-Ead-Series.html"
+  },
+  {
+   "manualId": "2883430",
+   "slug": "Enertech-Eav-Series",
+   "title": "EAV Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 104,
+   "productModel": "EAV Series",
+   "extraModels": [
+    "EAV030",
+    "EAV060",
+    "EMD Series",
+    "EME Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2883430/Enertech-Eav-Series.html"
+  },
+  {
+   "manualId": "1934391",
+   "slug": "Enertech-Bentone-B2s-Classic",
+   "title": "Enertech Bentone B2S Classic Installation And Maintenance  Instruction",
+   "type": "Service",
+   "pages": 24,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1934391/Enertech-Bentone-B2s-Classic.html"
+  },
+  {
+   "manualId": "1838101",
+   "slug": "Enertech-Bentone-B55-Series",
+   "title": "Enertech Bentone B55 Series Installation And Maintenance  Instruction",
+   "type": "Service",
+   "pages": 32,
+   "productModel": null,
+   "extraModels": [
+    "Bentone B55-2",
+    "Bentone B55-2H",
+    "Bentone B55-2R",
+    "Bentone B55-3R",
+    "Bentone B65 Series",
+    "Bentone B65-2",
+    "Bentone B65-2H",
+    "Bentone B65-2R",
+    "Bentone B65-3R"
+   ],
+   "url": "https://www.manualslib.com/manual/1838101/Enertech-Bentone-B55-Series.html"
+  },
+  {
+   "manualId": "2198297",
+   "slug": "Enertech-Bentone-B60-2fh",
+   "title": "Enertech Bentone B60-2FH Installation And Maintenance  Instruction",
+   "type": "Service",
+   "pages": 20,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2198297/Enertech-Bentone-B60-2fh.html"
+  },
+  {
+   "manualId": "1745533",
+   "slug": "Enertech-Bentone-Bfg1",
+   "title": "Enertech Bentone BFG1 Installation And Maintenance  Instruction",
+   "type": "Service",
+   "pages": 52,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1745533/Enertech-Bentone-Bfg1.html"
+  },
+  {
+   "manualId": "1848330",
+   "slug": "Enertech-Bentone-Bfg1-Series",
+   "title": "Enertech Bentone BFG1 Series Installation And Maintenance  Instruction",
+   "type": "Service",
+   "pages": 48,
+   "productModel": null,
+   "extraModels": [
+    "Bentone BFG1-2 H3"
+   ],
+   "url": "https://www.manualslib.com/manual/1848330/Enertech-Bentone-Bfg1-Series.html"
+  },
+  {
+   "manualId": "1660811",
+   "slug": "Enertech-Bentone-Bg-550-Cn",
+   "title": "Enertech Bentone BG 550 CN Installation And Maintenance  Instruction",
+   "type": "Service",
+   "pages": 60,
+   "productModel": null,
+   "extraModels": [
+    "Bentone BG 550 LN CN",
+    "Bentone BG 650 CN",
+    "Bentone BG650"
+   ],
+   "url": "https://www.manualslib.com/manual/1660811/Enertech-Bentone-Bg-550-Cn.html"
+  },
+  {
+   "manualId": "3691295",
+   "slug": "Enertech-Bentone-Bg-700-Cn",
+   "title": "Enertech Bentone BG 700 CN Installation And Maintenance  Instruction",
+   "type": "Service",
+   "pages": 32,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3691295/Enertech-Bentone-Bg-700-Cn.html"
+  },
+  {
+   "manualId": "1741033",
+   "slug": "Enertech-Bentone-Bg400",
+   "title": "Enertech Bentone BG400 Installation And Maintenance  Instruction",
+   "type": "Service",
+   "pages": 32,
+   "productModel": null,
+   "extraModels": [
+    "Bentone BG 300",
+    "Nu-Way BG400"
+   ],
+   "url": "https://www.manualslib.com/manual/1741033/Enertech-Bentone-Bg400.html"
+  },
+  {
+   "manualId": "1794168",
+   "slug": "Enertech-Bentone-St50-St-120-Ka",
+   "title": "Enertech Bentone ST50 ST 120 KA Installation And Maintenance  Instruction",
+   "type": "Service",
+   "pages": 36,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1794168/Enertech-Bentone-St50-St-120-Ka.html"
+  },
+  {
+   "manualId": "3532270",
+   "slug": "Enertech-Ech-Series",
+   "title": "Enertech ECH Series Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 76,
+   "productModel": null,
+   "extraModels": [
+    "ECH072",
+    "ECH096",
+    "ECH120",
+    "ECV Series",
+    "ECV072",
+    "ECV096",
+    "ECV120",
+    "ECV160",
+    "ECV192",
+    "ECV240",
+    "ECV300"
+   ],
+   "url": "https://www.manualslib.com/manual/3532270/Enertech-Ech-Series.html"
+  },
+  {
+   "manualId": "3096104",
+   "slug": "Enertech-Erc-Series",
+   "title": "Enertech ERC Series Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 40,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3096104/Enertech-Erc-Series.html"
+  },
+  {
+   "manualId": "3252578",
+   "slug": "Enertech-Ere-Series",
+   "title": "ERE Series Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "ERE Series",
+   "extraModels": [
+    "ERE120",
+    "ERE144",
+    "ERE168",
+    "ERE240",
+    "ERE36",
+    "ERE48",
+    "ERE60",
+    "ERE72",
+    "ERE96"
+   ],
+   "url": "https://www.manualslib.com/manual/3252578/Enertech-Ere-Series.html"
+  },
+  {
+   "manualId": "2154278",
+   "slug": "Enertech-Nu-Way",
+   "title": "Fault Finding",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2154278/Enertech-Nu-Way.html"
+  },
+  {
+   "manualId": "3673816",
+   "slug": "Enertech-Fb-Series",
+   "title": "FB 072 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "FB 072",
+   "extraModels": [
+    "FB 072",
+    "FB 096",
+    "FB 120",
+    "FB 168",
+    "FB 192",
+    "FB 240",
+    "FB 300"
+   ],
+   "url": "https://www.manualslib.com/manual/3673816/Enertech-Fb-Series.html"
+  },
+  {
+   "manualId": "4103115",
+   "slug": "Enertech-Fd-Series",
+   "title": "FD 09 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "FD 09",
+   "extraModels": [
+    "FD 09",
+    "FD 12",
+    "FD 15",
+    "FD 18",
+    "FDM509AGCS0CSPS"
+   ],
+   "url": "https://www.manualslib.com/manual/4103115/Enertech-Fd-Series.html"
+  },
+  {
+   "manualId": "1967725",
+   "slug": "Enertech-Hp-Models",
+   "title": "HP Models Installation and operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "HP Models",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1967725/Enertech-Hp-Models.html"
+  },
+  {
+   "manualId": "1800632",
+   "slug": "Enertech-Nu-Way-Multiplex-Energystream-Es-Series",
+   "title": "Installation, Commissioning & Maintenance Instructions",
+   "type": "Service",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1800632/Enertech-Nu-Way-Multiplex-Energystream-Es-Series.html"
+  },
+  {
+   "manualId": "3916508",
+   "slug": "Enertech-Md-Series",
+   "title": "MD Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "MD Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3916508/Enertech-Md-Series.html"
+  },
+  {
+   "manualId": "3916509",
+   "slug": "Enertech-Me-Series",
+   "title": "ME Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "ME Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3916509/Enertech-Me-Series.html"
+  },
+  {
+   "manualId": "3202877",
+   "slug": "Enertech-Nu-Way-Mg1190-Ln-T3d",
+   "title": "MPA22 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 22,
+   "productModel": "MPA22",
+   "extraModels": [
+    "MPA22",
+    "Nu-Way MG1550-LN T3D",
+    "Nu-Way MG2000-LN T3D"
+   ],
+   "url": "https://www.manualslib.com/manual/3202877/Enertech-Nu-Way-Mg1190-Ln-T3d.html"
+  },
+  {
+   "manualId": "4113497",
+   "slug": "Enertech-Nu-Way-2540-3h",
+   "title": "NU-WAY 2540-3H Installation & maintenance manual",
+   "type": "Service",
+   "pages": 15,
+   "productModel": "NU-WAY 2540-3H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4113497/Enertech-Nu-Way-2540-3h.html"
+  },
+  {
+   "manualId": "3244249",
+   "slug": "Enertech-Nu-Way-G200-Universal",
+   "title": "Nu-Way G200 Universal Installation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "Nu-Way G200 Universal",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3244249/Enertech-Nu-Way-G200-Universal.html"
+  },
+  {
+   "manualId": "3125219",
+   "slug": "Enertech-Nu-Way-Mgn320-S1l-355",
+   "title": "Nu-Way MGN320 S1L 355 Installation and maintenance instruction",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Nu-Way MGN320 S1L 355",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3125219/Enertech-Nu-Way-Mgn320-S1l-355.html"
+  },
+  {
+   "manualId": "4113770",
+   "slug": "Enertech-Nu-Way-Mol-350-Sil",
+   "title": "NU-WAY MOL 350 SIL Installation & maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "NU-WAY MOL 350 SIL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4113770/Enertech-Nu-Way-Mol-350-Sil.html"
+  },
+  {
+   "manualId": "3647883",
+   "slug": "Enertech-Nu-Way-Mol1175-T3n-258-2h",
+   "title": "NU-WAY MOL1175 T3N 258 2H Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "NU-WAY MOL1175 T3N 258 2H",
+   "extraModels": [
+    "Bentone B55",
+    "Bentone B55-2",
+    "Bentone B55-2H",
+    "Bentone B55-2R",
+    "Bentone B55-3R",
+    "Bentone B65 Series",
+    "Bentone B65-2",
+    "Bentone B65-2H",
+    "Bentone B65-2R",
+    "Bentone B65-3R"
+   ],
+   "url": "https://www.manualslib.com/manual/3647883/Enertech-Nu-Way-Mol1175-T3n-258-2h.html"
+  },
+  {
+   "manualId": "3380691",
+   "slug": "Enertech-Nu-Way-Mol795-T3n-273-3r",
+   "title": "Nu-way MOL795 T3N 273 3R Installation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Nu-way MOL795 T3N 273 3R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3380691/Enertech-Nu-Way-Mol795-T3n-273-3r.html"
+  },
+  {
+   "manualId": "3247069",
+   "slug": "Enertech-Nu-Way-Ng-Series",
+   "title": "Nu-Way NG Series Installation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Nu-Way NG Series",
+   "extraModels": [
+    "Nu-Way NGN100",
+    "Nu-Way NGN40",
+    "Nu-Way NGN45",
+    "Nu-Way NGN55",
+    "Nu-Way NGN60",
+    "Nu-Way NGN65",
+    "Nu-Way NGN75",
+    "Nu-Way NGN80",
+    "Nu-Way NGN85"
+   ],
+   "url": "https://www.manualslib.com/manual/3247069/Enertech-Nu-Way-Ng-Series.html"
+  },
+  {
+   "manualId": "1263733",
+   "slug": "Enertech-Sk040-Series",
+   "title": "SK Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "SK Series",
+   "extraModels": [
+    "SK Series",
+    "SK060 series"
+   ],
+   "url": "https://www.manualslib.com/manual/1263733/Enertech-Sk040-Series.html"
+  },
+  {
+   "manualId": "1922821",
+   "slug": "Enertech-Vc-Series",
+   "title": "VC Series Engineering data and installation manual",
+   "type": "Installation",
+   "pages": 43,
+   "productModel": "VC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1922821/Enertech-Vc-Series.html"
+  },
+  {
+   "manualId": "1124074",
+   "slug": "Enertech-Vjltkb-Ecogas-24-S",
+   "title": "VJLTKB Ecogas 24 S User Manual And Installation Instructions",
+   "type": "Installation",
+   "pages": 61,
+   "productModel": "VJLTKB Ecogas 24 S",
+   "extraModels": [
+    "VJLTKB Ecogas 28 S",
+    "VJLTKB Ecogas 32 S"
+   ],
+   "url": "https://www.manualslib.com/manual/1124074/Enertech-Vjltkb-Ecogas-24-S.html"
+  },
+  {
+   "manualId": "1502237",
+   "slug": "Enertech-Vs-Series",
+   "title": "VS Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "VS Series",
+   "extraModels": [
+    "VS015",
+    "VS018",
+    "VS024",
+    "VS030",
+    "VS036",
+    "VS042",
+    "VS048",
+    "VS060",
+    "VS072",
+    "VT Series",
+    "VT024",
+    "VT036",
+    "VT048",
+    "VT060",
+    "VT072"
+   ],
+   "url": "https://www.manualslib.com/manual/1502237/Enertech-Vs-Series.html"
+  },
+  {
+   "manualId": "3885604",
+   "slug": "Enertech-Wd-Series",
+   "title": "WD Series Engineering data and installation manual",
+   "type": "Installation",
+   "pages": 53,
+   "productModel": "WD Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3885604/Enertech-Wd-Series.html"
+  },
+  {
+   "manualId": "1993569",
+   "slug": "Enertech-Wd240",
+   "title": "WD240 Installation & operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "WD240",
+   "extraModels": [
+    "WD360"
+   ],
+   "url": "https://www.manualslib.com/manual/1993569/Enertech-Wd240.html"
+  },
+  {
+   "manualId": "2369051",
+   "slug": "Enertech-Ws-Series",
+   "title": "WS Series Engineering data and installation manual",
+   "type": "Installation",
+   "pages": 53,
+   "productModel": "WS Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2369051/Enertech-Ws-Series.html"
+  },
+  {
+   "manualId": "2612681",
+   "slug": "Enertech-Ws036",
+   "title": "WS036 Installation & operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "WS036",
+   "extraModels": [
+    "WS048",
+    "WS060",
+    "WS072",
+    "WS084"
+   ],
+   "url": "https://www.manualslib.com/manual/2612681/Enertech-Ws036.html"
+  },
+  {
+   "manualId": "3447875",
+   "slug": "Enertech-Wv-Series",
+   "title": "WV Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "WV Series",
+   "extraModels": [
+    "WV060"
+   ],
+   "url": "https://www.manualslib.com/manual/3447875/Enertech-Wv-Series.html"
+  },
+  {
+   "manualId": "3800249",
+   "slug": "Enertech-Wv-Series",
+   "title": "WV Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "WV Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3800249/Enertech-Wv-Series.html"
+  },
+  {
+   "manualId": "2872966",
+   "slug": "Enertech-Xt-Series",
+   "title": "XT Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "XT Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2872966/Enertech-Xt-Series.html"
+  },
+  {
+   "manualId": "1502622",
+   "slug": "Enertech-Xt024",
+   "title": "XT024 Installation & operation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "XT024",
+   "extraModels": [
+    "XT036",
+    "XT048",
+    "XT060"
+   ],
+   "url": "https://www.manualslib.com/manual/1502622/Enertech-Xt024.html"
+  },
+  {
+   "manualId": "3365334",
+   "slug": "Enertech-Yt-Series",
+   "title": "YT Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "YT Series",
+   "extraModels": [
+    "YT024",
+    "YT036",
+    "YT048",
+    "YT060",
+    "YT072",
+    "AHTR051D",
+    "AHTR101D",
+    "AHTR151D",
+    "AHTR201D"
+   ],
+   "url": "https://www.manualslib.com/manual/3365334/Enertech-Yt-Series.html"
+  },
+  {
+   "manualId": "3976393",
+   "slug": "Enertech-Yt-Series",
+   "title": "YT Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "YT Series",
+   "extraModels": [
+    "YT024",
+    "YT036",
+    "YT048",
+    "YT060",
+    "YT072"
+   ],
+   "url": "https://www.manualslib.com/manual/3976393/Enertech-Yt-Series.html"
+  },
+  {
+   "manualId": "962669",
+   "slug": "Enertech-Yt024",
+   "title": "YT024 Installation & operation manual",
+   "type": "Installation",
+   "pages": 78,
+   "productModel": "YT024",
+   "extraModels": [
+    "YT036",
+    "YT048",
+    "YT060",
+    "YT072"
+   ],
+   "url": "https://www.manualslib.com/manual/962669/Enertech-Yt024.html"
+  },
+  {
+   "manualId": "1225197",
+   "slug": "Enertech-Zs",
+   "title": "ZS. Installation & operation manual",
+   "type": "Installation",
+   "pages": 89,
+   "productModel": "ZS.",
+   "extraModels": [
+    "ZT"
+   ],
+   "url": "https://www.manualslib.com/manual/1225197/Enertech-Zs.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "enertech"
+ ]
+}

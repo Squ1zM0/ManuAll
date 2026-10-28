@@ -1,0 +1,386 @@
+{
+ "brand": "Williamson-Thermoflo",
+ "brandSlug": "williamson-thermoflo",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/williamson-thermoflo/"
+ ],
+ "slugUsed": "williamson-thermoflo",
+ "capturedAt": "2026-10-28T09:58:59.738089+00:00",
+ "typePages": [
+  {
+   "path": "/brand/williamson-thermoflo/air-conditioner.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/williamson-thermoflo/boiler.html",
+   "manuals": 65,
+   "status": 200
+  },
+  {
+   "path": "/brand/williamson-thermoflo/furnace.html",
+   "manuals": 19,
+   "status": 200
+  },
+  {
+   "path": "/brand/williamson-thermoflo/water-heater.html",
+   "manuals": 6,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2052169",
+   "slug": "Williamson-Thermoflo-12pra",
+   "title": "12PRA owner's manual",
+   "type": "User / Owner",
+   "pages": 23,
+   "productModel": "12PRA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2052169/Williamson-Thermoflo-12pra.html"
+  },
+  {
+   "manualId": "3765192",
+   "slug": "Williamson-Thermoflo-12pra",
+   "title": "12PRA Service and installation manual",
+   "type": "Service",
+   "pages": 15,
+   "productModel": "12PRA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3765192/Williamson-Thermoflo-12pra.html"
+  },
+  {
+   "manualId": "711842",
+   "slug": "Williamson-Thermoflo-9sra-He",
+   "title": "12SRA-HE Installation & service manual",
+   "type": "Service",
+   "pages": 26,
+   "productModel": "12SRA-HE",
+   "extraModels": [
+    "12SRA-HE",
+    "15SRA-HE",
+    "18SRA-HE",
+    "24SRA-HE"
+   ],
+   "url": "https://www.manualslib.com/manual/711842/Williamson-Thermoflo-9sra-He.html"
+  },
+  {
+   "manualId": "1430166",
+   "slug": "Williamson-Thermoflo-9sra-He",
+   "title": "12SRA-HE owner's manual",
+   "type": "User / Owner",
+   "pages": 23,
+   "productModel": "12SRA-HE",
+   "extraModels": [
+    "12SRA-HE",
+    "15SRA-HE",
+    "18SRA-HE",
+    "24SRA-HE"
+   ],
+   "url": "https://www.manualslib.com/manual/1430166/Williamson-Thermoflo-9sra-He.html"
+  },
+  {
+   "manualId": "1902847",
+   "slug": "Williamson-Thermoflo-Freestyle-2-Series",
+   "title": "FreeStyle 120 Manual",
+   "type": "Other",
+   "pages": 136,
+   "productModel": "FreeStyle 120",
+   "extraModels": [
+    "FreeStyle 120",
+    "FreeStyle 155",
+    "FreeStyle 80"
+   ],
+   "url": "https://www.manualslib.com/manual/1902847/Williamson-Thermoflo-Freestyle-2-Series.html"
+  },
+  {
+   "manualId": "3708291",
+   "slug": "Williamson-Thermoflo-2-Series",
+   "title": "FreeStyle 2 Series Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "FreeStyle 2 Series",
+   "extraModels": [
+    "CHB Series",
+    "CHB-105",
+    "CHB-140",
+    "CLB Series",
+    "CLB-105",
+    "CLB-140"
+   ],
+   "url": "https://www.manualslib.com/manual/3708291/Williamson-Thermoflo-2-Series.html"
+  },
+  {
+   "manualId": "689685",
+   "slug": "Williamson-Thermoflo-Gl",
+   "title": "GL product manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "GL",
+   "extraModels": [
+    "GL105",
+    "GL32",
+    "GL42",
+    "GL53",
+    "GL80"
+   ],
+   "url": "https://www.manualslib.com/manual/689685/Williamson-Thermoflo-Gl.html"
+  },
+  {
+   "manualId": "1994991",
+   "slug": "Williamson-Thermoflo-Gwa-3-Series",
+   "title": "GWA 3 Series Manual",
+   "type": "Other",
+   "pages": 53,
+   "productModel": "GWA 3 Series",
+   "extraModels": [
+    "GWA-038",
+    "GWA-067",
+    "GWA-100",
+    "GWA-133",
+    "GWA-166",
+    "GWA-200",
+    "GWA-233"
+   ],
+   "url": "https://www.manualslib.com/manual/1994991/Williamson-Thermoflo-Gwa-3-Series.html"
+  },
+  {
+   "manualId": "1994988",
+   "slug": "Williamson-Thermoflo-Gwa-3-Series",
+   "title": "GWA 3 Series User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "GWA 3 Series",
+   "extraModels": [
+    "GWI 3 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1994988/Williamson-Thermoflo-Gwa-3-Series.html"
+  },
+  {
+   "manualId": "3006450",
+   "slug": "Williamson-Thermoflo-Gwc-2-Series",
+   "title": "GWC 2 Series User's information manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "GWC 2 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3006450/Williamson-Thermoflo-Gwc-2-Series.html"
+  },
+  {
+   "manualId": "1063515",
+   "slug": "Williamson-Thermoflo-Gwc-070",
+   "title": "GWC-070 Manual",
+   "type": "Other",
+   "pages": 108,
+   "productModel": "GWC-070",
+   "extraModels": [
+    "GWC-105",
+    "GWC-140",
+    "GWC-175"
+   ],
+   "url": "https://www.manualslib.com/manual/1063515/Williamson-Thermoflo-Gwc-070.html"
+  },
+  {
+   "manualId": "836440",
+   "slug": "Williamson-Thermoflo-Gwc-070",
+   "title": "GWC-070 Manual",
+   "type": "Other",
+   "pages": 104,
+   "productModel": "GWC-070",
+   "extraModels": [
+    "GWC-105",
+    "GWC-140",
+    "GWC-175"
+   ],
+   "url": "https://www.manualslib.com/manual/836440/Williamson-Thermoflo-Gwc-070.html"
+  },
+  {
+   "manualId": "3714658",
+   "slug": "Williamson-Thermoflo-Gwi-047",
+   "title": "GWI-047 Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "GWI-047",
+   "extraModels": [
+    "GWI-063",
+    "GWI-095",
+    "GWI-127",
+    "GWI-158",
+    "GWI-190"
+   ],
+   "url": "https://www.manualslib.com/manual/3714658/Williamson-Thermoflo-Gwi-047.html"
+  },
+  {
+   "manualId": "931967",
+   "slug": "Williamson-Thermoflo-Gws-090e",
+   "title": "GWS-090E Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "GWS-090E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/931967/Williamson-Thermoflo-Gws-090e.html"
+  },
+  {
+   "manualId": "4205680",
+   "slug": "Williamson-Thermoflo-Osb-3-Series",
+   "title": "OSB 3 Series Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "OSB 3 Series",
+   "extraModels": [
+    "OSB-4",
+    "OSB-5",
+    "OSB-6"
+   ],
+   "url": "https://www.manualslib.com/manual/4205680/Williamson-Thermoflo-Osb-3-Series.html"
+  },
+  {
+   "manualId": "4032698",
+   "slug": "Williamson-Thermoflo-Owb-3-Series",
+   "title": "OWB 3 Series Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "OWB 3 Series",
+   "extraModels": [
+    "OWB-4",
+    "OWB-5",
+    "OWB-6",
+    "OWB3-T-S3",
+    "OWB3-T-S3-D",
+    "OWB4-T-S3",
+    "OWB4-T-S3-D",
+    "OWB5-T-S3",
+    "OWB5-T-S3-D",
+    "OWB6-T-S3",
+    "OWB6-T-S3-D",
+    "OWT 3 Series",
+    "OWT-4",
+    "OWT-5",
+    "OWT-6",
+    "OWT3-T-S3",
+    "OWT3-T-S3-D",
+    "OWT4-T-S3",
+    "OWT4-T-S3-D",
+    "OWT5-T-S3",
+    "OWT5-T-S3-D",
+    "OWT6-T-S3",
+    "OWT6-T-S3-D"
+   ],
+   "url": "https://www.manualslib.com/manual/4032698/Williamson-Thermoflo-Owb-3-Series.html"
+  },
+  {
+   "manualId": "1019648",
+   "slug": "Williamson-Thermoflo-Plb-098-Low-Boy",
+   "title": "PLB-098 LOW-BOY instructions manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "PLB-098 LOW-BOY",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1019648/Williamson-Thermoflo-Plb-098-Low-Boy.html"
+  },
+  {
+   "manualId": "1019663",
+   "slug": "Williamson-Thermoflo-Plb-112-Low-Boy",
+   "title": "PLB-112 LOW-BOY Manual",
+   "type": "Other",
+   "pages": 26,
+   "productModel": "PLB-112 LOW-BOY",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1019663/Williamson-Thermoflo-Plb-112-Low-Boy.html"
+  },
+  {
+   "manualId": "3301295",
+   "slug": "Williamson-Thermoflo-Plb210-Series",
+   "title": "PLB-210-DD-R-S2 instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "PLB-210-DD-R-S2",
+   "extraModels": [
+    "PLB-210-DD-R-S2"
+   ],
+   "url": "https://www.manualslib.com/manual/3301295/Williamson-Thermoflo-Plb210-Series.html"
+  },
+  {
+   "manualId": "1018153",
+   "slug": "Williamson-Thermoflo-Pmp-098",
+   "title": "PMP-098 Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "PMP-098",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1018153/Williamson-Thermoflo-Pmp-098.html"
+  },
+  {
+   "manualId": "2449854",
+   "slug": "Williamson-Thermoflo-Pmp-112",
+   "title": "PMP-112 Manual",
+   "type": "Other",
+   "pages": 26,
+   "productModel": "PMP-112",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2449854/Williamson-Thermoflo-Pmp-112.html"
+  },
+  {
+   "manualId": "1018876",
+   "slug": "Williamson-Thermoflo-Pmp210",
+   "title": "PMP210 instructions manual",
+   "type": "User / Owner",
+   "pages": 31,
+   "productModel": "PMP210",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1018876/Williamson-Thermoflo-Pmp210.html"
+  },
+  {
+   "manualId": "925027",
+   "slug": "Williamson-Thermoflo-Sch-High-Boy",
+   "title": "SCH High Boy Manual manual",
+   "type": "Other",
+   "pages": 39,
+   "productModel": "SCH High Boy",
+   "extraModels": [
+    "SCH High Boy",
+    "SCL Low Boy"
+   ],
+   "url": "https://www.manualslib.com/manual/925027/Williamson-Thermoflo-Sch-High-Boy.html"
+  },
+  {
+   "manualId": "1614321",
+   "slug": "Williamson-Thermoflo-Osb-Series",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1614321/Williamson-Thermoflo-Osb-Series.html"
+  },
+  {
+   "manualId": "69567",
+   "slug": "Williamson-Thermoflo-Rvgp",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/69567/Williamson-Thermoflo-Rvgp.html"
+  },
+  {
+   "manualId": "814523",
+   "slug": "Williamson-Thermoflo-W-80",
+   "title": "w 80 Information manual",
+   "type": "Other",
+   "pages": 31,
+   "productModel": "w 80",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/814523/Williamson-Thermoflo-W-80.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "williamson-thermoflo"
+ ]
+}

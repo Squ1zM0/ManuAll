@@ -1,0 +1,118 @@
+{
+ "brand": "Fraser-Johnston",
+ "brandSlug": "fraser-johnston",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/fraser-johnston/"
+ ],
+ "slugUsed": "fraser-johnston",
+ "capturedAt": "2026-10-28T07:09:01.511105+00:00",
+ "typePages": [
+  {
+   "path": "/brand/fraser-johnston/air-conditioner.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/fraser-johnston/furnace.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/fraser-johnston/heat-pump.html",
+   "manuals": 6,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1006613",
+   "slug": "Fraser-Johnston-Pbkm",
+   "title": "PBKD installation instructions manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "PBKD",
+   "extraModels": [
+    "PBKD"
+   ],
+   "url": "https://www.manualslib.com/manual/1006613/Fraser-Johnston-Pbkm.html"
+  },
+  {
+   "manualId": "4367431",
+   "slug": "Fraser-Johnston-Pbnd-Ld10n060",
+   "title": "PBND-LD10N060 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "PBND-LD10N060",
+   "extraModels": [
+    "PBND-LD12N080",
+    "PBND-LD16N100",
+    "PBND-LD20N120"
+   ],
+   "url": "https://www.manualslib.com/manual/4367431/Fraser-Johnston-Pbnd-Ld10n060.html"
+  },
+  {
+   "manualId": "1014055",
+   "slug": "Fraser-Johnston-Pclu-Ld08n040",
+   "title": "PCLU-LD08N040 Installation Instruction",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "PCLU-LD08N040",
+   "extraModels": [
+    "PCLU-LD10N060",
+    "PCLU-LD12N080",
+    "PCLU-LD14N100",
+    "PCLU-LD16N080",
+    "PCLU-LD20N100",
+    "PCLU-LD20N120",
+    "PCLU-LD20N140"
+   ],
+   "url": "https://www.manualslib.com/manual/1014055/Fraser-Johnston-Pclu-Ld08n040.html"
+  },
+  {
+   "manualId": "3039781",
+   "slug": "Fraser-Johnston-Reliant-Al2124-Thru-60",
+   "title": "RELIANT AL2124 THRU 60 Technical manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "RELIANT AL2124 THRU 60",
+   "extraModels": [
+    "RELIANT Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3039781/Fraser-Johnston-Reliant-Al2124-Thru-60.html"
+  },
+  {
+   "manualId": "2963964",
+   "slug": "Fraser-Johnston-Reliant-Series",
+   "title": "RELIANT Series Technical manual",
+   "type": "Other",
+   "pages": 58,
+   "productModel": "RELIANT Series",
+   "extraModels": [
+    "RELIANT HL19B2421S",
+    "RELIANT HL19B3621S",
+    "RELIANT HL19B4821S",
+    "RELIANT HL19B6021S"
+   ],
+   "url": "https://www.manualslib.com/manual/2963964/Fraser-Johnston-Reliant-Series.html"
+  },
+  {
+   "manualId": "2923916",
+   "slug": "Fraser-Johnston-Tl8e-Series",
+   "title": "Technical manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2923916/Fraser-Johnston-Tl8e-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "fraser-johnston"
+ ]
+}

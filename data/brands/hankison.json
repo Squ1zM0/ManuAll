@@ -1,0 +1,633 @@
+{
+ "brand": "HANKISON",
+ "brandSlug": "hankison",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/hankison/"
+ ],
+ "slugUsed": "hankison",
+ "capturedAt": "2026-10-28T07:26:28.179096+00:00",
+ "typePages": [
+  {
+   "path": "/brand/hankison/dryer.html",
+   "manuals": 20,
+   "status": 200
+  },
+  {
+   "path": "/brand/hankison/air-cleaner.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/hankison/dehumidifier.html",
+   "manuals": 235,
+   "status": 200
+  },
+  {
+   "path": "/brand/hankison/water-dispenser.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/hankison/water-filtration-systems.html",
+   "manuals": 53,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4506677",
+   "slug": "Hankison-8005",
+   "title": "8005 instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "8005",
+   "extraModels": [
+    "8010",
+    "8015"
+   ],
+   "url": "https://www.manualslib.com/manual/4506677/Hankison-8005.html"
+  },
+  {
+   "manualId": "1762470",
+   "slug": "Hankison-H-Series",
+   "title": "H Series instruction manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "H Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1762470/Hankison-H-Series.html"
+  },
+  {
+   "manualId": "1637895",
+   "slug": "Hankison-Hbp-Series",
+   "title": "HBP Series instruction manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "HBP Series",
+   "extraModels": [
+    "HBP1050",
+    "HBP1300",
+    "HBP1500",
+    "HBP1800",
+    "HBP2200",
+    "HBP2600",
+    "HBP3200",
+    "HBP3600",
+    "HBP4300",
+    "HBP500",
+    "HBP600",
+    "HBP750",
+    "HBP900"
+   ],
+   "url": "https://www.manualslib.com/manual/1637895/Hankison-Hbp-Series.html"
+  },
+  {
+   "manualId": "1728203",
+   "slug": "Hankison-Hdf1",
+   "title": "HDF1 instruction manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "HDF1",
+   "extraModels": [
+    "HDF2",
+    "HDF3",
+    "HDF4"
+   ],
+   "url": "https://www.manualslib.com/manual/1728203/Hankison-Hdf1.html"
+  },
+  {
+   "manualId": "3589446",
+   "slug": "Hankison-Hdi12",
+   "title": "HDI108 Operator's manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "HDI108",
+   "extraModels": [
+    "HDI108",
+    "HDI144",
+    "HDI180",
+    "HDI225",
+    "HDI25",
+    "HDI260",
+    "HDI300",
+    "HDI360",
+    "HDI42",
+    "HDI480",
+    "HDI54",
+    "HDI600",
+    "HDI72",
+    "HDI780",
+    "HDI950"
+   ],
+   "url": "https://www.manualslib.com/manual/3589446/Hankison-Hdi12.html"
+  },
+  {
+   "manualId": "3646251",
+   "slug": "Hankison-Hhl-Series",
+   "title": "HHL 1051 instruction manual",
+   "type": "User / Owner",
+   "pages": 76,
+   "productModel": "HHL 1051",
+   "extraModels": [
+    "HHL 1051",
+    "HHL 1351",
+    "HHL 1651",
+    "HHL 1951",
+    "HHL 2351",
+    "HHL 2701",
+    "HHL 3601",
+    "HHL 5201",
+    "HHL 7101",
+    "HHL 9001 LX"
+   ],
+   "url": "https://www.manualslib.com/manual/3646251/Hankison-Hhl-Series.html"
+  },
+  {
+   "manualId": "4516163",
+   "slug": "Hankison-Hhs-Series",
+   "title": "HHL Series instruction manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "HHL Series",
+   "extraModels": [
+    "HHL Series",
+    "HHL-1130",
+    "HHL-115",
+    "HHL-1350",
+    "HHL-1550",
+    "HHL-165",
+    "HHL-2100",
+    "HHL-260",
+    "HHL-3000",
+    "HHL-370",
+    "HHL-40",
+    "HHL-4100",
+    "HHL-450",
+    "HHL-5400",
+    "HHL-590",
+    "HHL-60",
+    "HHL-750",
+    "HHL-90",
+    "HHL-930",
+    "HHS-1130",
+    "HHS-115",
+    "HHS-1350",
+    "HHS-1550",
+    "HHS-165",
+    "HHS-2100",
+    "HHS-260",
+    "HHS-3000",
+    "HHS-370",
+    "HHS-40",
+    "HHS-4100",
+    "HHS-450",
+    "HHS-5400",
+    "HHS-590",
+    "HHS-60",
+    "HHS-750",
+    "HHS-90",
+    "HHS-930"
+   ],
+   "url": "https://www.manualslib.com/manual/4516163/Hankison-Hhs-Series.html"
+  },
+  {
+   "manualId": "4021904",
+   "slug": "Hankison-Hhm-Series",
+   "title": "HHM Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "HHM Series",
+   "extraModels": [
+    "HHM5-HHM300"
+   ],
+   "url": "https://www.manualslib.com/manual/4021904/Hankison-Hhm-Series.html"
+  },
+  {
+   "manualId": "3737212",
+   "slug": "Hankison-Hhpr-Series",
+   "title": "HHPR Series user manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "HHPR Series",
+   "extraModels": [
+    "HHPR115A",
+    "HHPR150A",
+    "HHPR200A"
+   ],
+   "url": "https://www.manualslib.com/manual/3737212/Hankison-Hhpr-Series.html"
+  },
+  {
+   "manualId": "3729630",
+   "slug": "Hankison-Hhpr1600",
+   "title": "HHPR1600 Technical manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "HHPR1600",
+   "extraModels": [
+    "HHPR2000",
+    "HHPR2400"
+   ],
+   "url": "https://www.manualslib.com/manual/3729630/Hankison-Hhpr1600.html"
+  },
+  {
+   "manualId": "3676787",
+   "slug": "Hankison-Hmd-Series",
+   "title": "HMD Series instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "HMD Series",
+   "extraModels": [
+    "HMD20-2",
+    "HMD20-4",
+    "HMD20-5",
+    "HMD20-6"
+   ],
+   "url": "https://www.manualslib.com/manual/3676787/Hankison-Hmd-Series.html"
+  },
+  {
+   "manualId": "3945807",
+   "slug": "Hankison-Hmd20-1",
+   "title": "HMD20-1 instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "HMD20-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3945807/Hankison-Hmd20-1.html"
+  },
+  {
+   "manualId": "3945808",
+   "slug": "Hankison-Hmd20-3",
+   "title": "HMD20-3 instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "HMD20-3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3945808/Hankison-Hmd20-3.html"
+  },
+  {
+   "manualId": "3580912",
+   "slug": "Hankison-Hmm-Series",
+   "title": "HMM Series instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "HMM Series",
+   "extraModels": [
+    "HMM1-3",
+    "HMM2-3",
+    "HMM3-4",
+    "HMM4-4",
+    "HMM5-6",
+    "HMM6-6",
+    "HMM7-8",
+    "HMM8-16",
+    "HMM9-16"
+   ],
+   "url": "https://www.manualslib.com/manual/3580912/Hankison-Hmm-Series.html"
+  },
+  {
+   "manualId": "2529959",
+   "slug": "Hankison-Hpet-Series",
+   "title": "HPET Series instruction manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "HPET Series",
+   "extraModels": [
+    "HPET-10",
+    "HPET-4",
+    "HPET-6",
+    "HPET-7.5"
+   ],
+   "url": "https://www.manualslib.com/manual/2529959/Hankison-Hpet-Series.html"
+  },
+  {
+   "manualId": "1590056",
+   "slug": "Hankison-Hprd-0-50-500",
+   "title": "HPRD 0.25-500 instruction manual",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": "HPRD 0.25-500",
+   "extraModels": [
+    "HPRD 0.25-500",
+    "HPRD 0.50-900",
+    "HPRD 0.75-500",
+    "HPRD 0.75-900"
+   ],
+   "url": "https://www.manualslib.com/manual/1590056/Hankison-Hprd-0-50-500.html"
+  },
+  {
+   "manualId": "1791120",
+   "slug": "Hankison-Hprplus-Series",
+   "title": "HPRP 100 instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "HPRP 100",
+   "extraModels": [
+    "HPRP 100",
+    "HPRP 125",
+    "HPRP 150",
+    "HPRP 200",
+    "HPRP 250",
+    "HPRP 300",
+    "HPRP 400",
+    "HPRP 500",
+    "HPRP 600"
+   ],
+   "url": "https://www.manualslib.com/manual/1791120/Hankison-Hprplus-Series.html"
+  },
+  {
+   "manualId": "1922347",
+   "slug": "Hankison-Hprp-25",
+   "title": "HPRP 100 instruction manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "HPRP 100",
+   "extraModels": [
+    "HPRP 100",
+    "HPRP 125",
+    "HPRP 150",
+    "HPRP 35",
+    "HPRP 50",
+    "HPRP 75"
+   ],
+   "url": "https://www.manualslib.com/manual/1922347/Hankison-Hprp-25.html"
+  },
+  {
+   "manualId": "1741157",
+   "slug": "Hankison-Hprp-1000",
+   "title": "HPRP 1000 instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "HPRP 1000",
+   "extraModels": [
+    "HPRP 1250",
+    "HPRP 1500",
+    "HPRP 1750",
+    "HPRP 2000",
+    "HPRP 2500",
+    "HPRP 3000"
+   ],
+   "url": "https://www.manualslib.com/manual/1741157/Hankison-Hprp-1000.html"
+  },
+  {
+   "manualId": "1805234",
+   "slug": "Hankison-Hprp-200",
+   "title": "HPRP 200 instruction manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "HPRP 200",
+   "extraModels": [
+    "HPRP 250",
+    "HPRP 300",
+    "HPRP 400",
+    "HPRP 500"
+   ],
+   "url": "https://www.manualslib.com/manual/1805234/Hankison-Hprp-200.html"
+  },
+  {
+   "manualId": "3864520",
+   "slug": "Hankison-Hprp-750",
+   "title": "HPRP 750 instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "HPRP 750",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3864520/Hankison-Hprp-750.html"
+  },
+  {
+   "manualId": "2088762",
+   "slug": "Hankison-Hprplus-Hprp1000",
+   "title": "HPRplus HPRP1000 instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "HPRplus HPRP1000",
+   "extraModels": [
+    "HPRplus HPRP1250",
+    "HPRplus HPRP1500",
+    "HPRplus HPRP1750",
+    "HPRplus HPRP2000",
+    "HPRplus HPRP2500",
+    "HPRplus HPRP3000"
+   ],
+   "url": "https://www.manualslib.com/manual/2088762/Hankison-Hprplus-Hprp1000.html"
+  },
+  {
+   "manualId": "1661409",
+   "slug": "Hankison-Filter-Monitor",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1661409/Hankison-Filter-Monitor.html"
+  },
+  {
+   "manualId": "3189195",
+   "slug": "Hankison-Hpr-Series",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3189195/Hankison-Hpr-Series.html"
+  },
+  {
+   "manualId": "3309372",
+   "slug": "Hankison-Hf-12",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3309372/Hankison-Hf-12.html"
+  },
+  {
+   "manualId": "4043706",
+   "slug": "Hankison-Dhw-Series",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4043706/Hankison-Dhw-Series.html"
+  },
+  {
+   "manualId": "4170287",
+   "slug": "Hankison-Phdm3",
+   "title": "PHDM118 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 132,
+   "productModel": "PHDM118",
+   "extraModels": [
+    "PHDM118",
+    "PHDM147",
+    "PHDM15",
+    "PHDM177",
+    "PHDM24",
+    "PHDM32",
+    "PHDM41",
+    "PHDM59",
+    "PHDM88",
+    "PHDM9",
+    "PHDML118",
+    "PHDML147",
+    "PHDML177",
+    "PHDML59",
+    "PHDML88"
+   ],
+   "url": "https://www.manualslib.com/manual/4170287/Hankison-Phdm3.html"
+  },
+  {
+   "manualId": "2888381",
+   "slug": "Hankison-Pr500",
+   "title": "PR1000 instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "PR1000",
+   "extraModels": [
+    "PR1000",
+    "PR1200",
+    "PR1600",
+    "PR2000",
+    "PR2300",
+    "PR600",
+    "PR700",
+    "PR800"
+   ],
+   "url": "https://www.manualslib.com/manual/2888381/Hankison-Pr500.html"
+  },
+  {
+   "manualId": "3232948",
+   "slug": "Hankison-Spx-Flow-Flex-Series",
+   "title": "SPX Flow FLEX Series instruction manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "SPX Flow FLEX Series",
+   "extraModels": [
+    "SPX Flow FLX 1.1",
+    "SPX Flow FLX 1.2",
+    "SPX Flow FLX 1.5",
+    "SPX Flow FLX 1.5-1",
+    "SPX Flow FLX 2.1",
+    "SPX Flow FLX 2.1-4",
+    "SPX Flow FLX 3.1",
+    "SPX Flow FLX 4.1",
+    "SPX Flow FLX 4.5",
+    "SPX Flow FLX 5.5"
+   ],
+   "url": "https://www.manualslib.com/manual/3232948/Hankison-Spx-Flow-Flex-Series.html"
+  },
+  {
+   "manualId": "3247675",
+   "slug": "Hankison-Spx-Flow-Hes-Series",
+   "title": "SPX FLOW HES Series instruction manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "SPX FLOW HES Series",
+   "extraModels": [
+    "SPX FLOW HES800",
+    "SPX HES1000",
+    "SPX HES1250",
+    "SPX HES1500",
+    "SPX HES1750",
+    "SPX HES2000",
+    "SPX HES2500",
+    "SPX HES3000"
+   ],
+   "url": "https://www.manualslib.com/manual/3247675/Hankison-Spx-Flow-Hes-Series.html"
+  },
+  {
+   "manualId": "3461959",
+   "slug": "Hankison-Spx-Flow-Hit-Series",
+   "title": "SPX FLOW HIT Series instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "SPX FLOW HIT Series",
+   "extraModels": [
+    "SPX FLOW HIT100",
+    "SPX FLOW HIT125",
+    "SPX FLOW HIT35",
+    "SPX FLOW HIT50",
+    "SPX FLOW HIT75"
+   ],
+   "url": "https://www.manualslib.com/manual/3461959/Hankison-Spx-Flow-Hit-Series.html"
+  },
+  {
+   "manualId": "3935897",
+   "slug": "Hankison-Spx-Flow-Hit20",
+   "title": "SPX FLOW HIT20 instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "SPX FLOW HIT20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3935897/Hankison-Spx-Flow-Hit20.html"
+  },
+  {
+   "manualId": "3935898",
+   "slug": "Hankison-Spx-Flow-Hit25",
+   "title": "SPX FLOW HIT25 instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "SPX FLOW HIT25",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3935898/Hankison-Spx-Flow-Hit25.html"
+  },
+  {
+   "manualId": "1817064",
+   "slug": "Hankison-Spx-Hes-Series",
+   "title": "SPX HES Series instruction manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "SPX HES Series",
+   "extraModels": [
+    "SPX HES1000",
+    "SPX HES1250",
+    "SPX HES1500",
+    "SPX HES1750",
+    "SPX HES2000",
+    "SPX HES2500",
+    "SPX HES3000",
+    "SPX HES800"
+   ],
+   "url": "https://www.manualslib.com/manual/1817064/Hankison-Spx-Hes-Series.html"
+  },
+  {
+   "manualId": "2912818",
+   "slug": "Hankison-Spxflow-Hf-Series",
+   "title": "SPXFLOW HF Series instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "SPXFLOW HF Series",
+   "extraModels": [
+    "SPXFLOW HF-52",
+    "SPXFLOW HF-92"
+   ],
+   "url": "https://www.manualslib.com/manual/2912818/Hankison-Spxflow-Hf-Series.html"
+  },
+  {
+   "manualId": "2122691",
+   "slug": "Hankison-Spxflow-Hshd-Series",
+   "title": "SPXFLOW HSHD Series instruction manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "SPXFLOW HSHD Series",
+   "extraModels": [
+    "SPXFLOW HSHD-13",
+    "SPXFLOW HSHD-18",
+    "SPXFLOW HSHD-21",
+    "SPXFLOW HSHD-27",
+    "SPXFLOW HSHD-40",
+    "SPXFLOW HSHD-7"
+   ],
+   "url": "https://www.manualslib.com/manual/2122691/Hankison-Spxflow-Hshd-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "hankison"
+ ]
+}

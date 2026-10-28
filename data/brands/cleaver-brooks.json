@@ -1,0 +1,219 @@
+{
+ "brand": "Cleaver-Brooks",
+ "brandSlug": "cleaver-brooks",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/cleaver-brooks/"
+ ],
+ "slugUsed": "cleaver-brooks",
+ "capturedAt": "2026-10-28T06:38:14.546343+00:00",
+ "typePages": [
+  {
+   "path": "/brand/cleaver-brooks/boiler.html",
+   "manuals": 22,
+   "status": 200
+  },
+  {
+   "path": "/brand/cleaver-brooks/burner.html",
+   "manuals": 37,
+   "status": 200
+  },
+  {
+   "path": "/brand/cleaver-brooks/control-systems.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/cleaver-brooks/control-unit.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/cleaver-brooks/industrial-equipment.html",
+   "manuals": 14,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1941279",
+   "slug": "Cleaver-Brooks-Cre-Series",
+   "title": "C1X Series Operation manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "C1X Series",
+   "extraModels": [
+    "C1X Series",
+    "C1X-L286AL",
+    "C1X-R2D6AL",
+    "C1X-S2F6AL",
+    "C1X-Z2N6AL",
+    "C2X Series",
+    "C2X-2M386AL",
+    "C2X-2M3A6AL",
+    "C2X-2R3A6AL",
+    "C2X-2R3B6AL",
+    "C2X-2S3B6AL",
+    "C2X-2S3C6AL",
+    "CCE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1941279/Cleaver-Brooks-Cre-Series.html"
+  },
+  {
+   "manualId": "3330701",
+   "slug": "Cleaver-Brooks-Cb-Burner-100-Series",
+   "title": "CB burner 100 Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 69,
+   "productModel": "CB burner 100 Series",
+   "extraModels": [
+    "CB burner 200 Series",
+    "CB burner 400 Series",
+    "CB burner 600 Series",
+    "CB burner 700 Series",
+    "CB burner CN",
+    "CB burner CN-1",
+    "CB burner CN-2",
+    "CB burner CN-3",
+    "CB burner CN-4",
+    "CB burner CN-5",
+    "CB burner CN-6",
+    "CB burner CN-7"
+   ],
+   "url": "https://www.manualslib.com/manual/3330701/Cleaver-Brooks-Cb-Burner-100-Series.html"
+  },
+  {
+   "manualId": "3773719",
+   "slug": "Cleaver-Brooks-Cb",
+   "title": "CB Manual",
+   "type": "Other",
+   "pages": 142,
+   "productModel": "CB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3773719/Cleaver-Brooks-Cb.html"
+  },
+  {
+   "manualId": "1549730",
+   "slug": "Cleaver-Brooks-Cb780",
+   "title": "CB780 Operation and maintenance manual",
+   "type": "Service",
+   "pages": 62,
+   "productModel": "CB780",
+   "extraModels": [
+    "CB784"
+   ],
+   "url": "https://www.manualslib.com/manual/1549730/Cleaver-Brooks-Cb780.html"
+  },
+  {
+   "manualId": "1669349",
+   "slug": "Cleaver-Brooks-Cbh-Series",
+   "title": "CBH 100 Operation, service and parts manual",
+   "type": "Service",
+   "pages": 75,
+   "productModel": "CBH 100",
+   "extraModels": [
+    "CBH 100",
+    "CBH 25",
+    "CBH 30",
+    "CBH 40",
+    "CBH 50",
+    "CBH 50 A",
+    "CBH 60",
+    "CBH 70",
+    "CBH 80"
+   ],
+   "url": "https://www.manualslib.com/manual/1669349/Cleaver-Brooks-Cbh-Series.html"
+  },
+  {
+   "manualId": "1627079",
+   "slug": "Cleaver-Brooks-Cbw",
+   "title": "CBW Operation, service and parts manual",
+   "type": "Service",
+   "pages": 133,
+   "productModel": "CBW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1627079/Cleaver-Brooks-Cbw.html"
+  },
+  {
+   "manualId": "862574",
+   "slug": "Cleaver-Brooks-Cfv",
+   "title": "CFV Startup manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "CFV",
+   "extraModels": [
+    "ClearFire CFV"
+   ],
+   "url": "https://www.manualslib.com/manual/862574/Cleaver-Brooks-Cfv.html"
+  },
+  {
+   "manualId": "1633478",
+   "slug": "Cleaver-Brooks-Clearfire-Cflc-5000",
+   "title": "ClearFire CFLC Series Operation and maintenance manual",
+   "type": "Service",
+   "pages": 291,
+   "productModel": "ClearFire CFLC Series",
+   "extraModels": [
+    "ClearFire CFLC Series",
+    "ClearFire CFLC-10000",
+    "ClearFire CFLC-12000",
+    "ClearFire CFLC-4000",
+    "ClearFire CFLC-6000",
+    "ClearFire CFLC-8000"
+   ],
+   "url": "https://www.manualslib.com/manual/1633478/Cleaver-Brooks-Clearfire-Cflc-5000.html"
+  },
+  {
+   "manualId": "865722",
+   "slug": "Cleaver-Brooks-Pcs140e-1",
+   "title": "PCS140e.1 Installation operation user manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "PCS140e.1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/865722/Cleaver-Brooks-Pcs140e-1.html"
+  },
+  {
+   "manualId": "1601004",
+   "slug": "Cleaver-Brooks-Profire-E-Series",
+   "title": "Profire E Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "Profire E Series",
+   "extraModels": [
+    "Profire E-105-1",
+    "Profire E-126-1",
+    "Profire E-147-1",
+    "Profire E-168-2",
+    "Profire E-210-2",
+    "Profire E-252-2",
+    "Profire E-294-3",
+    "Profire E-336-3",
+    "Profire E-378-3",
+    "Profire E-420-3",
+    "Profire E-84-1",
+    "Profire LNE Series",
+    "Profire LNE-105-1",
+    "Profire LNE-126-1",
+    "Profire LNE-147-1",
+    "Profire LNE-168-2",
+    "Profire LNE-210-2",
+    "Profire LNE-252-2",
+    "Profire LNE-294-3",
+    "Profire LNE-336-3",
+    "Profire LNE-378-3",
+    "Profire LNE-420-3",
+    "Profire LNE-84-1"
+   ],
+   "url": "https://www.manualslib.com/manual/1601004/Cleaver-Brooks-Profire-E-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "cleaver-brooks"
+ ]
+}

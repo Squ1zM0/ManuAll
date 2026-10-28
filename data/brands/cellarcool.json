@@ -1,0 +1,630 @@
+{
+ "brand": "CellarCool",
+ "brandSlug": "cellarcool",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/cellarcool/"
+ ],
+ "slugUsed": "cellarcool",
+ "capturedAt": "2026-10-28T06:35:15.441843+00:00",
+ "typePages": [
+  {
+   "path": "/brand/cellarcool/air-conditioner.html",
+   "manuals": 20,
+   "status": 200
+  },
+  {
+   "path": "/brand/cellarcool/freezer.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/cellarcool/accessories.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/cellarcool/air-cleaner.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/cellarcool/computer-hardware.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/cellarcool/cooling-boxes.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/cellarcool/humidifier.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/cellarcool/kitchen-appliances.html",
+   "manuals": 20,
+   "status": 200
+  },
+  {
+   "path": "/brand/cellarcool/thermostat.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/cellarcool/wine-cooler.html",
+   "manuals": 74,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1407327",
+   "slug": "Cellarcool-3500-Evaporator",
+   "title": "3500 Condenser owner's manual",
+   "type": "User / Owner",
+   "pages": 29,
+   "productModel": "3500 Condenser",
+   "extraModels": [
+    "3500 Condenser",
+    "5000 Condenser",
+    "5000 Evaporator"
+   ],
+   "url": "https://www.manualslib.com/manual/1407327/Cellarcool-3500-Evaporator.html"
+  },
+  {
+   "manualId": "1636483",
+   "slug": "Cellarcool-3500-Evaporator",
+   "title": "3500 Condenser Technician manual",
+   "type": "Other",
+   "pages": 50,
+   "productModel": "3500 Condenser",
+   "extraModels": [
+    "3500 Condenser",
+    "FD series",
+    "WM series"
+   ],
+   "url": "https://www.manualslib.com/manual/1636483/Cellarcool-3500-Evaporator.html"
+  },
+  {
+   "manualId": "1633160",
+   "slug": "Cellarcool-9000-Twin-S",
+   "title": "9000 TWIN-S Technician manual",
+   "type": "Other",
+   "pages": 63,
+   "productModel": "9000 TWIN-S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1633160/Cellarcool-9000-Twin-S.html"
+  },
+  {
+   "manualId": "3254160",
+   "slug": "Cellarcool-9000twin-S-H-E",
+   "title": "9000TWIN-S H.E. owner's manual",
+   "type": "User / Owner",
+   "pages": 61,
+   "productModel": "9000TWIN-S H.E.",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3254160/Cellarcool-9000twin-S-H-E.html"
+  },
+  {
+   "manualId": "1080140",
+   "slug": "Cellarcool-Ach-550",
+   "title": "ACH 550 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "ACH 550",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1080140/Cellarcool-Ach-550.html"
+  },
+  {
+   "manualId": "3235401",
+   "slug": "Cellarcool-Cm-2500",
+   "title": "CM 2500 owner's manual",
+   "type": "User / Owner",
+   "pages": 65,
+   "productModel": "CM 2500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3235401/Cellarcool-Cm-2500.html"
+  },
+  {
+   "manualId": "2537761",
+   "slug": "Cellarcool-Cm-Twin-H-E",
+   "title": "CM TWIN H.E. owner's manual",
+   "type": "User / Owner",
+   "pages": 61,
+   "productModel": "CM TWIN H.E.",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2537761/Cellarcool-Cm-Twin-H-E.html"
+  },
+  {
+   "manualId": "3479093",
+   "slug": "Cellarcool-Cm2500",
+   "title": "CM2500 Evaporator Manual",
+   "type": "Other",
+   "pages": 46,
+   "productModel": "CM2500 Evaporator",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3479093/Cellarcool-Cm2500.html"
+  },
+  {
+   "manualId": "1289546",
+   "slug": "Cellarcool-Magnum-Ss9000",
+   "title": "CM2500 Evaporator owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "CM2500 Evaporator",
+   "extraModels": [
+    "CM2500 Evaporator",
+    "MAGNUM Series",
+    "CM2500 Condenser",
+    "Magnum SS12000",
+    "WM&FD 3500",
+    "WM&FD 4000",
+    "WM&FD 5000",
+    "WM&FD 8000"
+   ],
+   "url": "https://www.manualslib.com/manual/1289546/Cellarcool-Magnum-Ss9000.html"
+  },
+  {
+   "manualId": "1300664",
+   "slug": "Cellarcool-Cm2500",
+   "title": "CM2500 Evaporator Technician manual",
+   "type": "Other",
+   "pages": 57,
+   "productModel": "CM2500 Evaporator",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1300664/Cellarcool-Cm2500.html"
+  },
+  {
+   "manualId": "2580025",
+   "slug": "Cellarcool-Cm3500-H-E",
+   "title": "CM3500 owner's manual",
+   "type": "User / Owner",
+   "pages": 61,
+   "productModel": "CM3500",
+   "extraModels": [
+    "CM5000"
+   ],
+   "url": "https://www.manualslib.com/manual/2580025/Cellarcool-Cm3500-H-E.html"
+  },
+  {
+   "manualId": "4154838",
+   "slug": "Cellarcool-Cm5000",
+   "title": "CM3500 owner's manual",
+   "type": "User / Owner",
+   "pages": 73,
+   "productModel": "CM3500",
+   "extraModels": [
+    "CM3500"
+   ],
+   "url": "https://www.manualslib.com/manual/4154838/Cellarcool-Cm5000.html"
+  },
+  {
+   "manualId": "3177172",
+   "slug": "Cellarcool-Addendum-Cm-Series",
+   "title": "CM3500 quick start manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "CM3500",
+   "extraModels": [
+    "CM3500",
+    "CM5000",
+    "ADDENDUM CM Twin"
+   ],
+   "url": "https://www.manualslib.com/manual/3177172/Cellarcool-Addendum-Cm-Series.html"
+  },
+  {
+   "manualId": "1660567",
+   "slug": "Cellarcool-Cm-Series",
+   "title": "CM3500 Technician manual",
+   "type": "Other",
+   "pages": 61,
+   "productModel": "CM3500",
+   "extraModels": [
+    "CM3500",
+    "CM5000"
+   ],
+   "url": "https://www.manualslib.com/manual/1660567/Cellarcool-Cm-Series.html"
+  },
+  {
+   "manualId": "1339494",
+   "slug": "Cellarcool-Cm9000-Twin-S",
+   "title": "CM9000 TWIN-S Technician manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "CM9000 TWIN-S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1339494/Cellarcool-Cm9000-Twin-S.html"
+  },
+  {
+   "manualId": "1046651",
+   "slug": "Cellarcool-Cx-Series",
+   "title": "CX Series owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "CX Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1046651/Cellarcool-Cx-Series.html"
+  },
+  {
+   "manualId": "1047494",
+   "slug": "Cellarcool-Cx-Series",
+   "title": "CX Series owner's manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "CX Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1047494/Cellarcool-Cx-Series.html"
+  },
+  {
+   "manualId": "1452306",
+   "slug": "Cellarcool-Cx2200",
+   "title": "cx2200 owner's manual",
+   "type": "User / Owner",
+   "pages": 31,
+   "productModel": "cx2200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1452306/Cellarcool-Cx2200.html"
+  },
+  {
+   "manualId": "3850420",
+   "slug": "Cellarcool-Cx3300",
+   "title": "cx3300 owner's manual",
+   "type": "User / Owner",
+   "pages": 31,
+   "productModel": "cx3300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3850420/Cellarcool-Cx3300.html"
+  },
+  {
+   "manualId": "3850421",
+   "slug": "Cellarcool-Cx4400",
+   "title": "cx4400 owner's manual",
+   "type": "User / Owner",
+   "pages": 31,
+   "productModel": "cx4400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3850421/Cellarcool-Cx4400.html"
+  },
+  {
+   "manualId": "3850422",
+   "slug": "Cellarcool-Cx8800",
+   "title": "cx8800 owner's manual",
+   "type": "User / Owner",
+   "pages": 31,
+   "productModel": "cx8800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3850422/Cellarcool-Cx8800.html"
+  },
+  {
+   "manualId": "4319418",
+   "slug": "Cellarcool-Wm-Series",
+   "title": "FD 3500 H.E. owner's manual",
+   "type": "User / Owner",
+   "pages": 69,
+   "productModel": "FD 3500 H.E.",
+   "extraModels": [
+    "FD 3500 H.E.",
+    "FD 3500 SPLIT H.E. 220V",
+    "FD 5000 H.E.",
+    "FD series",
+    "WM 3500 H.E.",
+    "WM 5000 H.E.",
+    "WM H.E. S3500",
+    "WM H.E. S5000",
+    "WM SPLIT 110V Omni"
+   ],
+   "url": "https://www.manualslib.com/manual/4319418/Cellarcool-Wm-Series.html"
+  },
+  {
+   "manualId": "4319411",
+   "slug": "Cellarcool-Fd-Series",
+   "title": "FD 3500 SPLIT H.E. 220V owner's manual",
+   "type": "User / Owner",
+   "pages": 74,
+   "productModel": "FD 3500 SPLIT H.E. 220V",
+   "extraModels": [
+    "FD 3500 SPLIT H.E. 220V",
+    "WM SPLIT 110V Omni",
+    "WM Split PS3500",
+    "WM Split PS5000"
+   ],
+   "url": "https://www.manualslib.com/manual/4319411/Cellarcool-Fd-Series.html"
+  },
+  {
+   "manualId": "4319413",
+   "slug": "Cellarcool-Wm-Series",
+   "title": "FD 3500 SPLIT H.E. 220V owner's manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "FD 3500 SPLIT H.E. 220V",
+   "extraModels": [
+    "FD 3500 SPLIT H.E. 220V",
+    "WM 2500 SPLIT H.E.",
+    "WM SPLIT 110V Omni"
+   ],
+   "url": "https://www.manualslib.com/manual/4319413/Cellarcool-Wm-Series.html"
+  },
+  {
+   "manualId": "1868806",
+   "slug": "Cellarcool-Wm-5000",
+   "title": "FD 5000 installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "FD 5000",
+   "extraModels": [
+    "FD 5000"
+   ],
+   "url": "https://www.manualslib.com/manual/1868806/Cellarcool-Wm-5000.html"
+  },
+  {
+   "manualId": "969313",
+   "slug": "Cellarcool-Wm-Series",
+   "title": "FD series owner's manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "FD series",
+   "extraModels": [
+    "FD series"
+   ],
+   "url": "https://www.manualslib.com/manual/969313/Cellarcool-Wm-Series.html"
+  },
+  {
+   "manualId": "966391",
+   "slug": "Cellarcool-HmAndvm-Twin-S",
+   "title": "HM&VM TWIN S owner's manual",
+   "type": "User / Owner",
+   "pages": 46,
+   "productModel": "HM&VM TWIN S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/966391/Cellarcool-HmAndvm-Twin-S.html"
+  },
+  {
+   "manualId": "2473527",
+   "slug": "Cellarcool-Magnum-H-E",
+   "title": "MAGNUM H.E. owner's manual",
+   "type": "User / Owner",
+   "pages": 67,
+   "productModel": "MAGNUM H.E.",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2473527/Cellarcool-Magnum-H-E.html"
+  },
+  {
+   "manualId": "3211766",
+   "slug": "Cellarcool-Magnum-H-E-Ss18000",
+   "title": "Magnum H.E. SS18000 owner's manual",
+   "type": "User / Owner",
+   "pages": 69,
+   "productModel": "Magnum H.E. SS18000",
+   "extraModels": [
+    "Magnum H.E. SS24000",
+    "MAGNUM Series",
+    "MAGNUM TWIN H.E."
+   ],
+   "url": "https://www.manualslib.com/manual/3211766/Cellarcool-Magnum-H-E-Ss18000.html"
+  },
+  {
+   "manualId": "4181213",
+   "slug": "Cellarcool-Magnum-Version-4-Series",
+   "title": "Magnum SS12000 owner's manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Magnum SS12000",
+   "extraModels": [
+    "Magnum SS12000",
+    "Magnum SS9000"
+   ],
+   "url": "https://www.manualslib.com/manual/4181213/Cellarcool-Magnum-Version-4-Series.html"
+  },
+  {
+   "manualId": "1845914",
+   "slug": "Cellarcool-Optimum-Series",
+   "title": "Optimum 2200 owner's manual",
+   "type": "User / Owner",
+   "pages": 33,
+   "productModel": "Optimum 2200",
+   "extraModels": [
+    "Optimum 2200",
+    "Optimum 3300",
+    "Optimum 4400",
+    "Optimum 8800"
+   ],
+   "url": "https://www.manualslib.com/manual/1845914/Cellarcool-Optimum-Series.html"
+  },
+  {
+   "manualId": "1465747",
+   "slug": "Cellarcool-Rtn400",
+   "title": "RTN400 installation manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "RTN400",
+   "extraModels": [
+    "XW260K"
+   ],
+   "url": "https://www.manualslib.com/manual/1465747/Cellarcool-Rtn400.html"
+  },
+  {
+   "manualId": "1465748",
+   "slug": "Cellarcool-Rtn400",
+   "title": "RTN400 installation manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "RTN400",
+   "extraModels": [
+    "XW260K"
+   ],
+   "url": "https://www.manualslib.com/manual/1465748/Cellarcool-Rtn400.html"
+  },
+  {
+   "manualId": "876928",
+   "slug": "Cellarcool-Sl-Series",
+   "title": "SL Series owner's manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "SL Series",
+   "extraModels": [
+    "SL2500"
+   ],
+   "url": "https://www.manualslib.com/manual/876928/Cellarcool-Sl-Series.html"
+  },
+  {
+   "manualId": "1294556",
+   "slug": "Cellarcool-Sl2500",
+   "title": "SL2500 owner's manual",
+   "type": "User / Owner",
+   "pages": 31,
+   "productModel": "SL2500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1294556/Cellarcool-Sl2500.html"
+  },
+  {
+   "manualId": "1289538",
+   "slug": "Cellarcool-Ultimate-3300",
+   "title": "Ultimate 3300 owner's manual",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "Ultimate 3300",
+   "extraModels": [
+    "Ultimate 3300-R",
+    "Ultimate 3300-R FD",
+    "Ultimate 4400-R",
+    "Ultimate 4400-R FD",
+    "Ultimate 8800",
+    "Ultimate 8800-R",
+    "Ultimate 8800-R FD",
+    "ULTIMATE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1289538/Cellarcool-Ultimate-3300.html"
+  },
+  {
+   "manualId": "3843313",
+   "slug": "Cellarcool-Ultimate-4400",
+   "title": "Ultimate 4400 owner's manual",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "Ultimate 4400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3843313/Cellarcool-Ultimate-4400.html"
+  },
+  {
+   "manualId": "861844",
+   "slug": "Cellarcool-Ultimate-Fm-8000",
+   "title": "Ultimate FM 8000 owner's manual",
+   "type": "User / Owner",
+   "pages": 38,
+   "productModel": "Ultimate FM 8000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/861844/Cellarcool-Ultimate-Fm-8000.html"
+  },
+  {
+   "manualId": "4318234",
+   "slug": "Cellarcool-Ultimate-Plus-Series",
+   "title": "Ultimate Plus 3300 owner's manual",
+   "type": "User / Owner",
+   "pages": 49,
+   "productModel": "Ultimate Plus 3300",
+   "extraModels": [
+    "Ultimate Plus 3300",
+    "Ultimate Plus 3300-24V",
+    "Ultimate Plus 4400",
+    "Ultimate Plus 4400-24V",
+    "Ultimate Plus 8800",
+    "Ultimate Plus 8800-24V",
+    "Ultimate Plus PFD3300",
+    "Ultimate Plus PFD4400",
+    "Ultimate Plus PFD8800"
+   ],
+   "url": "https://www.manualslib.com/manual/4318234/Cellarcool-Ultimate-Plus-Series.html"
+  },
+  {
+   "manualId": "3106578",
+   "slug": "Cellarcool-Ultimate-Plus-Pfd3300",
+   "title": "Ultimate Plus PFD3300 owner's manual",
+   "type": "User / Owner",
+   "pages": 39,
+   "productModel": "Ultimate Plus PFD3300",
+   "extraModels": [
+    "Ultimate Plus PFD4400",
+    "Ultimate Plus PFD8800",
+    "Ultimate Plus Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3106578/Cellarcool-Ultimate-Plus-Pfd3300.html"
+  },
+  {
+   "manualId": "4201425",
+   "slug": "Cellarcool-Ultimate-Plus-Series",
+   "title": "Ultimate Plus PFD3300 owner's manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "Ultimate Plus PFD3300",
+   "extraModels": [
+    "Ultimate Plus PFD3300",
+    "Ultimate Plus PFD4400",
+    "Ultimate Plus PFD8800"
+   ],
+   "url": "https://www.manualslib.com/manual/4201425/Cellarcool-Ultimate-Plus-Series.html"
+  },
+  {
+   "manualId": "4210103",
+   "slug": "Cellarcool-Wall-Mount-2500",
+   "title": "WALL MOUNT 2500 owner's manual",
+   "type": "User / Owner",
+   "pages": 31,
+   "productModel": "WALL MOUNT 2500",
+   "extraModels": [
+    "WM 2500"
+   ],
+   "url": "https://www.manualslib.com/manual/4210103/Cellarcool-Wall-Mount-2500.html"
+  },
+  {
+   "manualId": "3178376",
+   "slug": "Cellarcool-Wm-2500-H-E",
+   "title": "WM 2500 H.E. owner's manual",
+   "type": "User / Owner",
+   "pages": 54,
+   "productModel": "WM 2500 H.E.",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3178376/Cellarcool-Wm-2500-H-E.html"
+  },
+  {
+   "manualId": "2503888",
+   "slug": "Cellarcool-Wm-2500",
+   "title": "WM 2500 owner's manual",
+   "type": "User / Owner",
+   "pages": 67,
+   "productModel": "WM 2500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2503888/Cellarcool-Wm-2500.html"
+  },
+  {
+   "manualId": "959316",
+   "slug": "Cellarcool-Wm-2500",
+   "title": "WM 2500 owner's manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "WM 2500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/959316/Cellarcool-Wm-2500.html"
+  },
+  {
+   "manualId": "1916593",
+   "slug": "Cellarcool-Wm2500-Version-3",
+   "title": "WM 2500 Technician manual",
+   "type": "Other",
+   "pages": 38,
+   "productModel": "WM 2500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1916593/Cellarcool-Wm2500-Version-3.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "cellarcool"
+ ]
+}

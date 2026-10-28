@@ -1,0 +1,2408 @@
+{
+ "brand": "ClimateMaster",
+ "brandSlug": "climatemaster",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/climatemaster/"
+ ],
+ "slugUsed": "climatemaster",
+ "capturedAt": "2026-10-28T06:38:35.300442+00:00",
+ "typePages": [
+  {
+   "path": "/brand/climatemaster/air-conditioner.html",
+   "manuals": 35,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/air-cleaner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/air-handlers.html",
+   "manuals": 33,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/control-unit.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/controller.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/dc-drives.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/diagnostic-equipment.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/electric-heater.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/fan.html",
+   "manuals": 20,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/heat-pump.html",
+   "manuals": 511,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/measuring-instruments.html",
+   "manuals": 33,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/service-equipment.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/temperature-controller.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/thermostat.html",
+   "manuals": 67,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/tools.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/water-heater.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/water-pump.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/climatemaster/water-system.html",
+   "manuals": 3,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4396496",
+   "slug": "Climatemaster-Rds",
+   "title": "17K0002N01 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "17K0002N01",
+   "extraModels": [
+    "17K0002N01",
+    "17K0002N03",
+    "17K0003N01",
+    "17K0003N03",
+    "17K0004N01",
+    "17K0004N03",
+    "17K0005N01",
+    "17K0005N03",
+    "17K0006N01",
+    "17K0006N03",
+    "17K0007N01",
+    "17K0007N03",
+    "17K0008N01",
+    "17K0008N03",
+    "17K0009N01",
+    "17K0009N03",
+    "17K0010N01",
+    "17K0010N03",
+    "17K0011N01",
+    "17K0011N03",
+    "17K0012N01",
+    "17K0012N03",
+    "17K0013N01",
+    "17K0013N03",
+    "17K0014N01",
+    "17K0014N03",
+    "17K0015N01",
+    "17K0015N03",
+    "17K0016N01",
+    "17K0016N03",
+    "17K0017N01",
+    "17K0018N01"
+   ],
+   "url": "https://www.manualslib.com/manual/4396496/Climatemaster-Rds.html"
+  },
+  {
+   "manualId": "1287476",
+   "slug": "Climatemaster-Gt-S",
+   "title": "38 WQ-S018SSC301 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 31,
+   "productModel": "38 WQ-S018SSC301",
+   "extraModels": [
+    "38 WQ-S018SSC301"
+   ],
+   "url": "https://www.manualslib.com/manual/1287476/Climatemaster-Gt-S.html"
+  },
+  {
+   "manualId": "819870",
+   "slug": "Climatemaster-Gt-Px-Indoor-Split-Series",
+   "title": "50YDS Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "50YDS Series",
+   "extraModels": [
+    "50YDS Series",
+    "50YPS Series",
+    "GT-PE outdoor Split Series",
+    "GT-PE Series",
+    "GT-PX Indoor Split Series",
+    "GT-PX Series",
+    "Tranquility 27 Split (TTP) Series"
+   ],
+   "url": "https://www.manualslib.com/manual/819870/Climatemaster-Gt-Px-Indoor-Split-Series.html"
+  },
+  {
+   "manualId": "1009946",
+   "slug": "Climatemaster-80108",
+   "title": "80108 Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "80108",
+   "extraModels": [
+    "80110",
+    "80112",
+    "80115",
+    "80119"
+   ],
+   "url": "https://www.manualslib.com/manual/1009946/Climatemaster-80108.html"
+  },
+  {
+   "manualId": "989657",
+   "slug": "Climatemaster-803-Series",
+   "title": "803 series Installation, operation and maintanance manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "803 series",
+   "extraModels": [
+    "804 series",
+    "805 series"
+   ],
+   "url": "https://www.manualslib.com/manual/989657/Climatemaster-803-Series.html"
+  },
+  {
+   "manualId": "3768527",
+   "slug": "Climatemaster-Acd",
+   "title": "ACD operating manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "ACD",
+   "extraModels": [
+    "ACDU02"
+   ],
+   "url": "https://www.manualslib.com/manual/3768527/Climatemaster-Acd.html"
+  },
+  {
+   "manualId": "3116849",
+   "slug": "Climatemaster-Acdu01",
+   "title": "ACDU01 Operation manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "ACDU01",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3116849/Climatemaster-Acdu01.html"
+  },
+  {
+   "manualId": "3632648",
+   "slug": "Climatemaster-Acdu02",
+   "title": "ACDU02 Operation manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "ACDU02",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3632648/Climatemaster-Acdu02.html"
+  },
+  {
+   "manualId": "1522292",
+   "slug": "Climatemaster-Acdu03",
+   "title": "ACDU03 Operation manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "ACDU03",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1522292/Climatemaster-Acdu03.html"
+  },
+  {
+   "manualId": "2234590",
+   "slug": "Climatemaster-Acl2120caz",
+   "title": "ACL2120CAZ installation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "ACL2120CAZ",
+   "extraModels": [
+    "ACL3120DAZ",
+    "ACL4150CAZ",
+    "ACL5150DAZ",
+    "ACL6180CAZ",
+    "ACL7180DAZ",
+    "ACL8240CAZ",
+    "ACL9240DAZ"
+   ],
+   "url": "https://www.manualslib.com/manual/2234590/Climatemaster-Acl2120caz.html"
+  },
+  {
+   "manualId": "1043670",
+   "slug": "Climatemaster-Ag-Series",
+   "title": "AG Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "AG Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1043670/Climatemaster-Ag-Series.html"
+  },
+  {
+   "manualId": "975575",
+   "slug": "Climatemaster-Ag-Series",
+   "title": "AG Series Installation, operation and maintanance manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "AG Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/975575/Climatemaster-Ag-Series.html"
+  },
+  {
+   "manualId": "797713",
+   "slug": "Climatemaster-Ag-Series",
+   "title": "AG Series Operating and maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "AG Series",
+   "extraModels": [
+    "AGL10A",
+    "AGL15A",
+    "AGL20A",
+    "AGL4A",
+    "AGM10A",
+    "AGM12A",
+    "AGM4A",
+    "AGM5A",
+    "AGM8A"
+   ],
+   "url": "https://www.manualslib.com/manual/797713/Climatemaster-Ag-Series.html"
+  },
+  {
+   "manualId": "2041190",
+   "slug": "Climatemaster-Ahwg",
+   "title": "AHWG Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "AHWG",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2041190/Climatemaster-Ahwg.html"
+  },
+  {
+   "manualId": "1949991",
+   "slug": "Climatemaster-Ahwg-Series",
+   "title": "AHWG Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "AHWG Series",
+   "extraModels": [
+    "AHWG1AASS",
+    "AHWG1AGSS"
+   ],
+   "url": "https://www.manualslib.com/manual/1949991/Climatemaster-Ahwg-Series.html"
+  },
+  {
+   "manualId": "2987966",
+   "slug": "Climatemaster-Atm11c11",
+   "title": "AST008C Submittal Data",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "AST008C",
+   "extraModels": [
+    "AST008C",
+    "ATA11U03",
+    "ATA22U01",
+    "ATP32U03",
+    "ATP32U04"
+   ],
+   "url": "https://www.manualslib.com/manual/2987966/Climatemaster-Atm11c11.html"
+  },
+  {
+   "manualId": "821839",
+   "slug": "Climatemaster-Ata11u03",
+   "title": "ATA11U03 installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "ATA11U03",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/821839/Climatemaster-Ata11u03.html"
+  },
+  {
+   "manualId": "4211407",
+   "slug": "Climatemaster-Atm21u01",
+   "title": "ATA22U01 Installation And Start-Up Instructions",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": "ATA22U01",
+   "extraModels": [
+    "ATA22U01"
+   ],
+   "url": "https://www.manualslib.com/manual/4211407/Climatemaster-Atm21u01.html"
+  },
+  {
+   "manualId": "1966099",
+   "slug": "Climatemaster-Ata32v01",
+   "title": "ATA32V01 Owner's Manual & Installation Instructions",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "ATA32V01",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1966099/Climatemaster-Ata32v01.html"
+  },
+  {
+   "manualId": "729167",
+   "slug": "Climatemaster-Atc32u01",
+   "title": "ATC32U01 iGate Basic operation manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "ATC32U01 iGate",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/729167/Climatemaster-Atc32u01.html"
+  },
+  {
+   "manualId": "807553",
+   "slug": "Climatemaster-Atc32u01-Igate",
+   "title": "ATC32U01 iGate installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "ATC32U01 iGate",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/807553/Climatemaster-Atc32u01-Igate.html"
+  },
+  {
+   "manualId": "630136",
+   "slug": "Climatemaster-Atc32u01-Igate",
+   "title": "ATC32U01 iGate user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "ATC32U01 iGate",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/630136/Climatemaster-Atc32u01-Igate.html"
+  },
+  {
+   "manualId": "1204607",
+   "slug": "Climatemaster-Atp21w02",
+   "title": "ATP21W02 installation instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "ATP21W02",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1204607/Climatemaster-Atp21w02.html"
+  },
+  {
+   "manualId": "959013",
+   "slug": "Climatemaster-Atp32u03",
+   "title": "ATP32U03 Operation manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "ATP32U03",
+   "extraModels": [
+    "ATP32U04"
+   ],
+   "url": "https://www.manualslib.com/manual/959013/Climatemaster-Atp32u03.html"
+  },
+  {
+   "manualId": "1052072",
+   "slug": "Climatemaster-Atp32u03",
+   "title": "ATP32U03 user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "ATP32U03",
+   "extraModels": [
+    "ATP32U04"
+   ],
+   "url": "https://www.manualslib.com/manual/1052072/Climatemaster-Atp32u03.html"
+  },
+  {
+   "manualId": "1170587",
+   "slug": "Climatemaster-Cce07-Series",
+   "title": "CCE07 Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 50,
+   "productModel": "CCE07 Series",
+   "extraModels": [
+    "CCE09 Series",
+    "CCE12 Series",
+    "CCE15 Series",
+    "CCE19 Series",
+    "TRC09 Series",
+    "TRC12 Series",
+    "TRC15 Series",
+    "TRC18 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1170587/Climatemaster-Cce07-Series.html"
+  },
+  {
+   "manualId": "4264932",
+   "slug": "Climatemaster-Ccl-Series",
+   "title": "CCL Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "CCL Series",
+   "extraModels": [
+    "ccl-024",
+    "ccl-030",
+    "ccl-036",
+    "ccl-042"
+   ],
+   "url": "https://www.manualslib.com/manual/4264932/Climatemaster-Ccl-Series.html"
+  },
+  {
+   "manualId": "1002776",
+   "slug": "Climatemaster-Ccl-024",
+   "title": "ccl-024 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "ccl-024",
+   "extraModels": [
+    "ccl-030",
+    "ccl-036",
+    "ccl-042"
+   ],
+   "url": "https://www.manualslib.com/manual/1002776/Climatemaster-Ccl-024.html"
+  },
+  {
+   "manualId": "883354",
+   "slug": "Climatemaster-Cs-Series",
+   "title": "CL Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "CL Series",
+   "extraModels": [
+    "CL Series"
+   ],
+   "url": "https://www.manualslib.com/manual/883354/Climatemaster-Cs-Series.html"
+  },
+  {
+   "manualId": "4017908",
+   "slug": "Climatemaster-Climadry-Series",
+   "title": "ClimaDry Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "ClimaDry Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4017908/Climatemaster-Climadry-Series.html"
+  },
+  {
+   "manualId": "3912427",
+   "slug": "Climatemaster-Atp21u01",
+   "title": "Climatemaster ATP21U01 Submittal Data",
+   "type": "Other",
+   "pages": 12,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3912427/Climatemaster-Atp21u01.html"
+  },
+  {
+   "manualId": "4561591",
+   "slug": "Climatemaster-Atp32u03",
+   "title": "Climatemaster ATP32U03 User'smanual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [
+    "ATP32U04"
+   ],
+   "url": "https://www.manualslib.com/manual/4561591/Climatemaster-Atp32u03.html"
+  },
+  {
+   "manualId": "3149423",
+   "slug": "Climatemaster-Avb32v02r",
+   "title": "Climatemaster AVB32V02R Owner's Manual & Installation Instructions",
+   "type": "Installation",
+   "pages": 47,
+   "productModel": null,
+   "extraModels": [
+    "CM300 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3149423/Climatemaster-Avb32v02r.html"
+  },
+  {
+   "manualId": "2356868",
+   "slug": "Climatemaster-Avb32v03r",
+   "title": "Climatemaster AVB32V03R Owner's Manual & Installation Instructions",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": null,
+   "extraModels": [
+    "CM500 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2356868/Climatemaster-Avb32v03r.html"
+  },
+  {
+   "manualId": "4241518",
+   "slug": "climatemaster-climadry-rooftop-heat-pump-manual",
+   "title": "ClimateMaster ClimaDry Rooftop Heat Pump Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4241518/climatemaster-climadry-rooftop-heat-pump-manual.html"
+  },
+  {
+   "manualId": "1733577",
+   "slug": "Climatemaster-Cm300-Series",
+   "title": "Climatemaster CM300 Series Owner's Manual & Installation Instructions",
+   "type": "Installation",
+   "pages": 47,
+   "productModel": null,
+   "extraModels": [
+    "AVB32V02C"
+   ],
+   "url": "https://www.manualslib.com/manual/1733577/Climatemaster-Cm300-Series.html"
+  },
+  {
+   "manualId": "2356866",
+   "slug": "Climatemaster-Cm500-Series",
+   "title": "Climatemaster CM500 Series Owner's Manual & Installation Instructions",
+   "type": "Installation",
+   "pages": 89,
+   "productModel": null,
+   "extraModels": [
+    "AVB32V03C"
+   ],
+   "url": "https://www.manualslib.com/manual/2356866/Climatemaster-Cm500-Series.html"
+  },
+  {
+   "manualId": "4426957",
+   "slug": "climatemaster-hs-hl-hp-and-vs-vl-vp-series-instructions",
+   "title": "ClimateMaster HS/HL/HP & VS/VL/VP Series Instructions",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4426957/climatemaster-hs-hl-hp-and-vs-vl-vp-series-instructions.html"
+  },
+  {
+   "manualId": "2449773",
+   "slug": "Climatemaster-Igate-Awc99u01",
+   "title": "Climatemaster iGate AWC99U01 Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2449773/Climatemaster-Igate-Awc99u01.html"
+  },
+  {
+   "manualId": "2038482",
+   "slug": "Climatemaster-Tranquility-16-Compact-Series",
+   "title": "Climatemaster Tranquility 16 Compact Series Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 84,
+   "productModel": null,
+   "extraModels": [
+    "Tranquility Compact TCH 006 Series",
+    "Tranquility Compact TCV 006 Series",
+    "Tranquility TC 006",
+    "Tranquility TC 009",
+    "Tranquility TC 012",
+    "Tranquility TC 015",
+    "Tranquility TC 018",
+    "Tranquility TC 024",
+    "Tranquility TC 030",
+    "Tranquility TC 036",
+    "Tranquility TC 041",
+    "Tranquility TC 042",
+    "Tranquility TC 048",
+    "Tranquility TC 060",
+    "Tranquility TCH 009",
+    "Tranquility TCH 012",
+    "Tranquility TCH 015",
+    "Tranquility TCH 018",
+    "Tranquility TCH 024",
+    "Tranquility TCH 030",
+    "Tranquility TCH 036",
+    "Tranquility TCH 041",
+    "Tranquility TCH 042",
+    "Tranquility TCH 048",
+    "Tranquility TCH 060",
+    "Tranquility TCV 009",
+    "Tranquility TCV 012",
+    "Tranquility TCV 015",
+    "Tranquility TCV 018",
+    "Tranquility TCV 024",
+    "Tranquility TCV 030",
+    "Tranquility TCV 036",
+    "Tranquility TCV 041",
+    "Tranquility TCV 042",
+    "Tranquility TCV 048",
+    "Tranquility TCV 060"
+   ],
+   "url": "https://www.manualslib.com/manual/2038482/Climatemaster-Tranquility-16-Compact-Series.html"
+  },
+  {
+   "manualId": "1546176",
+   "slug": "Climatemaster-Tranquility-Tch-Series",
+   "title": "Climatemaster Tranquility TCH Series Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 80,
+   "productModel": null,
+   "extraModels": [
+    "TCH072",
+    "TCH096AHC3AALSS",
+    "TCV072",
+    "TCV160",
+    "TCV192",
+    "TCV240",
+    "TCV300",
+    "Tranquility TCV Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1546176/Climatemaster-Tranquility-Tch-Series.html"
+  },
+  {
+   "manualId": "3141160",
+   "slug": "Climatemaster-Tranquility-Trh-006",
+   "title": "Climatemaster Tranquility TRH 006 Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 72,
+   "productModel": null,
+   "extraModels": [
+    "Tranquility TR Series",
+    "Tranquility TRH 060",
+    "Tranquility TRV 006",
+    "Tranquility TRV 060"
+   ],
+   "url": "https://www.manualslib.com/manual/3141160/Climatemaster-Tranquility-Trh-006.html"
+  },
+  {
+   "manualId": "3835595",
+   "slug": "Climatemaster-Tranquility-Ttv064-Series",
+   "title": "Climatemaster Tranquility TTV064 Series Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 56,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3835595/Climatemaster-Tranquility-Ttv064-Series.html"
+  },
+  {
+   "manualId": "3141177",
+   "slug": "Climatemaster-Tranquility-Tzh-060",
+   "title": "Climatemaster Tranquility TZH 060 Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 64,
+   "productModel": null,
+   "extraModels": [
+    "Tranquility 22 TZ Series",
+    "Tranquility TZH 024 Series",
+    "Tranquility TZV 024 Series",
+    "Tranquility TZV 060 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3141177/Climatemaster-Tranquility-Tzh-060.html"
+  },
+  {
+   "manualId": "1202366",
+   "slug": "Climatemaster-Cm3500-Series",
+   "title": "CM3500 Series Installation and operaion manual",
+   "type": "Installation",
+   "pages": 42,
+   "productModel": "CM3500 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1202366/Climatemaster-Cm3500-Series.html"
+  },
+  {
+   "manualId": "3529214",
+   "slug": "Climatemaster-Cmc-2000-Series",
+   "title": "CMC 2000 Series Installation, Operating, & Maintenance Instructions",
+   "type": "Service",
+   "pages": 8,
+   "productModel": "CMC 2000 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3529214/Climatemaster-Cmc-2000-Series.html"
+  },
+  {
+   "manualId": "4094072",
+   "slug": "Climatemaster-Cmc-2000-Series",
+   "title": "CMC 2000 Series Installation, Operating, & Maintenance Instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "CMC 2000 Series",
+   "extraModels": [
+    "CMC 2001",
+    "CMC 2005",
+    "CMC 2010"
+   ],
+   "url": "https://www.manualslib.com/manual/4094072/Climatemaster-Cmc-2000-Series.html"
+  },
+  {
+   "manualId": "818651",
+   "slug": "Climatemaster-Console-Cce-Series",
+   "title": "Console CCE Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "Console CCE Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/818651/Climatemaster-Console-Cce-Series.html"
+  },
+  {
+   "manualId": "4106405",
+   "slug": "Climatemaster-Cxm2",
+   "title": "CXM2 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "CXM2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4106405/Climatemaster-Cxm2.html"
+  },
+  {
+   "manualId": "845181",
+   "slug": "Climatemaster-Db-Series",
+   "title": "DB Series installation instructions manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "DB Series",
+   "extraModels": [
+    "DC Series",
+    "DD Series",
+    "DF Series",
+    "DG Series",
+    "DH Series",
+    "DJ Series"
+   ],
+   "url": "https://www.manualslib.com/manual/845181/Climatemaster-Db-Series.html"
+  },
+  {
+   "manualId": "3826875",
+   "slug": "Climatemaster-De-Series",
+   "title": "DE Series installation instructions manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "DE Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3826875/Climatemaster-De-Series.html"
+  },
+  {
+   "manualId": "857288",
+   "slug": "Climatemaster-Doas-Cm3500",
+   "title": "DOAS CM3500 Operating & Maintenance Instructions",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "DOAS CM3500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/857288/Climatemaster-Doas-Cm3500.html"
+  },
+  {
+   "manualId": "4184865",
+   "slug": "Climatemaster-Dxm2-5",
+   "title": "DXM2.5 Application, Operation And Maintenance Manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "DXM2.5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4184865/Climatemaster-Dxm2-5.html"
+  },
+  {
+   "manualId": "2052924",
+   "slug": "Climatemaster-Earthpure-Tranquility-Tmw-Series",
+   "title": "EarthPure Tranquility TMW Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "EarthPure Tranquility TMW Series",
+   "extraModels": [
+    "TMW036",
+    "TMW060",
+    "TMW120",
+    "TMW170",
+    "TMW340"
+   ],
+   "url": "https://www.manualslib.com/manual/2052924/Climatemaster-Earthpure-Tranquility-Tmw-Series.html"
+  },
+  {
+   "manualId": "2874104",
+   "slug": "Climatemaster-Flow-Controller-3",
+   "title": "Flow Controller 3 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 34,
+   "productModel": "Flow Controller 3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2874104/Climatemaster-Flow-Controller-3.html"
+  },
+  {
+   "manualId": "1165459",
+   "slug": "Climatemaster-Tranquility-27-Tt-Series",
+   "title": "Genesis Compact (GC) Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 100,
+   "productModel": "Genesis Compact (GC) Series",
+   "extraModels": [
+    "Genesis Compact (GC) Series",
+    "Genesis Standard (GR) Series",
+    "Genesis Ultra (GS) Series",
+    "Tranquility 16 (TC) Series",
+    "Tranquility 20 (TS) Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1165459/Climatemaster-Tranquility-27-Tt-Series.html"
+  },
+  {
+   "manualId": "3104804",
+   "slug": "Climatemaster-Genesis-Large-Series",
+   "title": "GENESIS LARGE Series Manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "GENESIS LARGE Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3104804/Climatemaster-Genesis-Large-Series.html"
+  },
+  {
+   "manualId": "3127591",
+   "slug": "Climatemaster-Genesis-Series",
+   "title": "Genesis Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Genesis Series",
+   "extraModels": [
+    "GSW036",
+    "GSW120"
+   ],
+   "url": "https://www.manualslib.com/manual/3127591/Climatemaster-Genesis-Series.html"
+  },
+  {
+   "manualId": "3110515",
+   "slug": "Climatemaster-Genesis-Standard-Gr-Series",
+   "title": "Genesis Standard (GR) Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "Genesis Standard (GR) Series",
+   "extraModels": [
+    "Genesis Standard GR006",
+    "Genesis Standard GR009",
+    "Genesis Standard GR012",
+    "Genesis Standard GR015",
+    "Genesis Standard GR019",
+    "Genesis Standard GR024",
+    "Genesis Standard GR030",
+    "Genesis Standard GR036",
+    "Genesis Standard GR042",
+    "Genesis Standard GR048",
+    "Genesis Standard GR060"
+   ],
+   "url": "https://www.manualslib.com/manual/3110515/Climatemaster-Genesis-Standard-Gr-Series.html"
+  },
+  {
+   "manualId": "4062749",
+   "slug": "Climatemaster-Geo-Thermal-803-Series",
+   "title": "Geo-Thermal 803 Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "Geo-Thermal 803 Series",
+   "extraModels": [
+    "Geo-Thermal 804 Series",
+    "Geo-Thermal 805 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4062749/Climatemaster-Geo-Thermal-803-Series.html"
+  },
+  {
+   "manualId": "3104801",
+   "slug": "Climatemaster-Glw-Series",
+   "title": "GLW Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "GLW Series",
+   "extraModels": [
+    "GLW360"
+   ],
+   "url": "https://www.manualslib.com/manual/3104801/Climatemaster-Glw-Series.html"
+  },
+  {
+   "manualId": "3919364",
+   "slug": "Climatemaster-Gsw060",
+   "title": "GSW060 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "GSW060",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3919364/Climatemaster-Gsw060.html"
+  },
+  {
+   "manualId": "1009762",
+   "slug": "Climatemaster-V-W",
+   "title": "H-W Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 19,
+   "productModel": "H-W",
+   "extraModels": [
+    "H-W",
+    "H-WC",
+    "V-WC"
+   ],
+   "url": "https://www.manualslib.com/manual/1009762/Climatemaster-V-W.html"
+  },
+  {
+   "manualId": "2080331",
+   "slug": "Climatemaster-Hcla2090car",
+   "title": "HCLA2090CAR installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "HCLA2090CAR",
+   "extraModels": [
+    "HCLA2090CAS",
+    "HCLA2090CAT",
+    "HCLP2090CAR",
+    "HCLP2090CAS",
+    "HCLP2090CAT"
+   ],
+   "url": "https://www.manualslib.com/manual/2080331/Climatemaster-Hcla2090car.html"
+  },
+  {
+   "manualId": "3106967",
+   "slug": "Climatemaster-He-Series",
+   "title": "HE Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "HE Series",
+   "extraModels": [
+    "VE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3106967/Climatemaster-He-Series.html"
+  },
+  {
+   "manualId": "3917881",
+   "slug": "Climatemaster-Hl-Series",
+   "title": "HL Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "HL Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3917881/Climatemaster-Hl-Series.html"
+  },
+  {
+   "manualId": "3917882",
+   "slug": "Climatemaster-Hp-Series",
+   "title": "HP Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "HP Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3917882/Climatemaster-Hp-Series.html"
+  },
+  {
+   "manualId": "1016023",
+   "slug": "Climatemaster-Vp030",
+   "title": "HP030 Installation, operation, & maintenance instruction",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "HP030",
+   "extraModels": [
+    "HP030",
+    "HP036",
+    "HP042",
+    "HP048",
+    "HP060",
+    "VP036",
+    "VP042",
+    "VP048",
+    "VP060"
+   ],
+   "url": "https://www.manualslib.com/manual/1016023/Climatemaster-Vp030.html"
+  },
+  {
+   "manualId": "999122",
+   "slug": "Climatemaster-Hs-Series",
+   "title": "HS series Installation, operating, & maintenance instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "HS series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/999122/Climatemaster-Hs-Series.html"
+  },
+  {
+   "manualId": "3104788",
+   "slug": "Climatemaster-Hs-Series",
+   "title": "HS series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "HS series",
+   "extraModels": [
+    "VL Series",
+    "VP Series",
+    "VS series"
+   ],
+   "url": "https://www.manualslib.com/manual/3104788/Climatemaster-Hs-Series.html"
+  },
+  {
+   "manualId": "730709",
+   "slug": "Climatemaster-Igate-Atc32u02",
+   "title": "iGate ATC32U02 Basic operation manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "iGate ATC32U02",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/730709/Climatemaster-Igate-Atc32u02.html"
+  },
+  {
+   "manualId": "807078",
+   "slug": "Climatemaster-Atc32u02-Igate",
+   "title": "iGate ATC32U02 installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "iGate ATC32U02",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/807078/Climatemaster-Atc32u02-Igate.html"
+  },
+  {
+   "manualId": "733485",
+   "slug": "Climatemaster-Atc32u02-Igate",
+   "title": "iGate ATC32U02 user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "iGate ATC32U02",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/733485/Climatemaster-Atc32u02-Igate.html"
+  },
+  {
+   "manualId": "2346233",
+   "slug": "Climatemaster-Igate-Atc32u03",
+   "title": "iGate ATC32U03 installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "iGate ATC32U03",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2346233/Climatemaster-Igate-Atc32u03.html"
+  },
+  {
+   "manualId": "1139854",
+   "slug": "Climatemaster-Igate-Connect",
+   "title": "iGate Connect installation manual",
+   "type": "Installation",
+   "pages": 42,
+   "productModel": "iGate Connect",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1139854/Climatemaster-Igate-Connect.html"
+  },
+  {
+   "manualId": "2451461",
+   "slug": "Climatemaster-Igate2-0",
+   "title": "iGate2.0 user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "iGate2.0",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2451461/Climatemaster-Igate2-0.html"
+  },
+  {
+   "manualId": "4000709",
+   "slug": "Climatemaster-Ata21u01",
+   "title": "Installation And Start-Up Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "ATA22U01"
+   ],
+   "url": "https://www.manualslib.com/manual/4000709/Climatemaster-Ata21u01.html"
+  },
+  {
+   "manualId": "1425427",
+   "slug": "Climatemaster-Ata11h01",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1425427/Climatemaster-Ata11h01.html"
+  },
+  {
+   "manualId": "906694",
+   "slug": "Climatemaster-Earthpure",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/906694/Climatemaster-Earthpure.html"
+  },
+  {
+   "manualId": "1139863",
+   "slug": "Climatemaster-Et-Series",
+   "title": "Installation, operating, & maintenance instructions",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1139863/Climatemaster-Et-Series.html"
+  },
+  {
+   "manualId": "996674",
+   "slug": "Climatemaster-Iom-Vms-Series",
+   "title": "IOM-VMS Series user manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "IOM-VMS Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/996674/Climatemaster-Iom-Vms-Series.html"
+  },
+  {
+   "manualId": "869311",
+   "slug": "Climatemaster-Lcu-Series",
+   "title": "LCU Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "LCU Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/869311/Climatemaster-Lcu-Series.html"
+  },
+  {
+   "manualId": "880606",
+   "slug": "Climatemaster-Mb-Series",
+   "title": "MB Series installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "MB Series",
+   "extraModels": [
+    "MC Series",
+    "MD Series",
+    "MF Series",
+    "MG",
+    "MG  Series"
+   ],
+   "url": "https://www.manualslib.com/manual/880606/Climatemaster-Mb-Series.html"
+  },
+  {
+   "manualId": "3828112",
+   "slug": "Climatemaster-Me-Series",
+   "title": "ME Series installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "ME Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3828112/Climatemaster-Me-Series.html"
+  },
+  {
+   "manualId": "1570699",
+   "slug": "Climatemaster-Mpc",
+   "title": "MPC Application, Operation & Maintenance",
+   "type": "Service",
+   "pages": 73,
+   "productModel": "MPC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1570699/Climatemaster-Mpc.html"
+  },
+  {
+   "manualId": "842099",
+   "slug": "Climatemaster-Nc-Series",
+   "title": "NB Series installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "NB Series",
+   "extraModels": [
+    "NB Series",
+    "ND Series",
+    "NE Series",
+    "NF Series",
+    "NG Series"
+   ],
+   "url": "https://www.manualslib.com/manual/842099/Climatemaster-Nc-Series.html"
+  },
+  {
+   "manualId": "3049032",
+   "slug": "Climatemaster-Oa-Series",
+   "title": "OA Series Application, Operation And Maintenance Manual",
+   "type": "Service",
+   "pages": 23,
+   "productModel": "OA Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3049032/Climatemaster-Oa-Series.html"
+  },
+  {
+   "manualId": "843767",
+   "slug": "Climatemaster-Ob-Series",
+   "title": "OB Series installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "OB Series",
+   "extraModels": [
+    "OC Series",
+    "OD Series",
+    "OE Series",
+    "OGSeries"
+   ],
+   "url": "https://www.manualslib.com/manual/843767/Climatemaster-Ob-Series.html"
+  },
+  {
+   "manualId": "3826823",
+   "slug": "Climatemaster-Of-Series",
+   "title": "OF Series installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "OF Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3826823/Climatemaster-Of-Series.html"
+  },
+  {
+   "manualId": "2531764",
+   "slug": "Climatemaster-Igate-2-0",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2531764/Climatemaster-Igate-2-0.html"
+  },
+  {
+   "manualId": "3119784",
+   "slug": "Climatemaster-Bacview",
+   "title": "Setup manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3119784/Climatemaster-Bacview.html"
+  },
+  {
+   "manualId": "1502163",
+   "slug": "Climatemaster-Tranquility-Series",
+   "title": "TAH 026-A Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 26,
+   "productModel": "TAH 026-A",
+   "extraModels": [
+    "TAH 026-A",
+    "TAH 026-B",
+    "TAH 038-B",
+    "TAH 038-C",
+    "TAH 049-B",
+    "TAH 049-C",
+    "TAH 064-C",
+    "TAH 072"
+   ],
+   "url": "https://www.manualslib.com/manual/1502163/Climatemaster-Tranquility-Series.html"
+  },
+  {
+   "manualId": "1616547",
+   "slug": "Climatemaster-Tah-Series",
+   "title": "TAH 026-A Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 23,
+   "productModel": "TAH 026-A",
+   "extraModels": [
+    "TAH 026-A",
+    "TAH 026-B",
+    "TAH 038-B",
+    "TAH 049-B",
+    "TAH 049-C",
+    "TAH 064-C"
+   ],
+   "url": "https://www.manualslib.com/manual/1616547/Climatemaster-Tah-Series.html"
+  },
+  {
+   "manualId": "1843146",
+   "slug": "Climatemaster-Tranquility-Tah-Series",
+   "title": "TAH 026-A Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "TAH 026-A",
+   "extraModels": [
+    "TAH 026-A",
+    "TAH 026-B",
+    "TAH 038-B",
+    "TAH 038-C",
+    "TAH 049-C",
+    "TAH 064-C"
+   ],
+   "url": "https://www.manualslib.com/manual/1843146/Climatemaster-Tranquility-Tah-Series.html"
+  },
+  {
+   "manualId": "1202303",
+   "slug": "Climatemaster-Tb-Series",
+   "title": "TB SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "TB SERIES",
+   "extraModels": [
+    "TD SERIES",
+    "TF SERIES",
+    "TG SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/1202303/Climatemaster-Tb-Series.html"
+  },
+  {
+   "manualId": "2443189",
+   "slug": "Climatemaster-Tranquility-Tc-L-Series",
+   "title": "TC LH072-120 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "TC LH072-120",
+   "extraModels": [
+    "TC LH072-120",
+    "TC LV072-300"
+   ],
+   "url": "https://www.manualslib.com/manual/2443189/Climatemaster-Tranquility-Tc-L-Series.html"
+  },
+  {
+   "manualId": "3839769",
+   "slug": "Climatemaster-Tc-Series",
+   "title": "TC SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "TC SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3839769/Climatemaster-Tc-Series.html"
+  },
+  {
+   "manualId": "3854441",
+   "slug": "Climatemaster-Tch096",
+   "title": "TCH096 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "TCH096",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3854441/Climatemaster-Tch096.html"
+  },
+  {
+   "manualId": "3854438",
+   "slug": "Climatemaster-Tch120",
+   "title": "TCH120 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "TCH120",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3854438/Climatemaster-Tch120.html"
+  },
+  {
+   "manualId": "3854439",
+   "slug": "Climatemaster-Tcv096",
+   "title": "TCV096 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "TCV096",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3854439/Climatemaster-Tcv096.html"
+  },
+  {
+   "manualId": "3854440",
+   "slug": "Climatemaster-Tcv120",
+   "title": "TCV120 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "TCV120",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3854440/Climatemaster-Tcv120.html"
+  },
+  {
+   "manualId": "3839768",
+   "slug": "Climatemaster-Te-Series",
+   "title": "TE SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "TE SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3839768/Climatemaster-Te-Series.html"
+  },
+  {
+   "manualId": "3058043",
+   "slug": "Climatemaster-Thw-Series",
+   "title": "THW Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "THW Series",
+   "extraModels": [
+    "THW 010"
+   ],
+   "url": "https://www.manualslib.com/manual/3058043/Climatemaster-Thw-Series.html"
+  },
+  {
+   "manualId": "958381",
+   "slug": "Climatemaster-Thw-Series",
+   "title": "THW Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "THW Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/958381/Climatemaster-Thw-Series.html"
+  },
+  {
+   "manualId": "3163680",
+   "slug": "Climatemaster-Tranquility-Large-Series",
+   "title": "TLV084 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "TLV084",
+   "extraModels": [
+    "TLV084",
+    "TLV096",
+    "TLV120",
+    "TLV150",
+    "TLV168",
+    "TLV192",
+    "TLV240",
+    "TLV300"
+   ],
+   "url": "https://www.manualslib.com/manual/3163680/Climatemaster-Tranquility-Large-Series.html"
+  },
+  {
+   "manualId": "2246368",
+   "slug": "Climatemaster-Tmw-Series",
+   "title": "TMW Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "TMW Series",
+   "extraModels": [
+    "Tranquility 360",
+    "Tranquility 840"
+   ],
+   "url": "https://www.manualslib.com/manual/2246368/Climatemaster-Tmw-Series.html"
+  },
+  {
+   "manualId": "1069272",
+   "slug": "Climatemaster-Tmw036",
+   "title": "TMW036 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "TMW036",
+   "extraModels": [
+    "TMW060",
+    "TMW120",
+    "TMW170",
+    "TMW340"
+   ],
+   "url": "https://www.manualslib.com/manual/1069272/Climatemaster-Tmw036.html"
+  },
+  {
+   "manualId": "1202358",
+   "slug": "Climatemaster-Tmw036",
+   "title": "TMW036 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "TMW036",
+   "extraModels": [
+    "TMW060",
+    "TMW120",
+    "TMW170",
+    "TMW340"
+   ],
+   "url": "https://www.manualslib.com/manual/1202358/Climatemaster-Tmw036.html"
+  },
+  {
+   "manualId": "1045526",
+   "slug": "Climatemaster-Tmw036",
+   "title": "TMW036 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 34,
+   "productModel": "TMW036",
+   "extraModels": [
+    "TMW060",
+    "TMW120",
+    "tranquility 060",
+    "tranquility 120"
+   ],
+   "url": "https://www.manualslib.com/manual/1045526/Climatemaster-Tmw036.html"
+  },
+  {
+   "manualId": "834457",
+   "slug": "Climatemaster-Tranquility-16-Compact-Series",
+   "title": "Tranquility 16 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "Tranquility 16",
+   "extraModels": [
+    "Tranquility 16 Compact TC Series",
+    "Tranquility Compact TCH 006 Series",
+    "Tranquility Compact TCH 60 Series",
+    "Tranquility Compact TCV 006 Series",
+    "Tranquility Compact TCV 60 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/834457/Climatemaster-Tranquility-16-Compact-Series.html"
+  },
+  {
+   "manualId": "1556608",
+   "slug": "Climatemaster-Tranquility-16-Series",
+   "title": "Tranquility 16 Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "Tranquility 16 Series",
+   "extraModels": [
+    "Tranquility 16 TC Series",
+    "Tranquility TC 006",
+    "Tranquility TC 009",
+    "Tranquility TC 012",
+    "Tranquility TC 015",
+    "Tranquility TC 018",
+    "Tranquility TC 024",
+    "Tranquility TC 030",
+    "Tranquility TC 042",
+    "Tranquility TC 048",
+    "Tranquility TC 060"
+   ],
+   "url": "https://www.manualslib.com/manual/1556608/Climatemaster-Tranquility-16-Series.html"
+  },
+  {
+   "manualId": "3130551",
+   "slug": "Climatemaster-Tranquility-27-Tt-Series",
+   "title": "Tranquility 16 TC Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "Tranquility 16 TC Series",
+   "extraModels": [
+    "Tranquility 16 TC Series",
+    "Tranquility 20 TS",
+    "Tranquility TR Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3130551/Climatemaster-Tranquility-27-Tt-Series.html"
+  },
+  {
+   "manualId": "3827498",
+   "slug": "Climatemaster-Tranquility-20",
+   "title": "Tranquility 20 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 50,
+   "productModel": "Tranquility 20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3827498/Climatemaster-Tranquility-20.html"
+  },
+  {
+   "manualId": "2038488",
+   "slug": "Climatemaster-Tranquility-20-Series",
+   "title": "Tranquility 20 Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "Tranquility 20 Series",
+   "extraModels": [
+    "Tranquility TSD 006",
+    "Tranquility TSD 009",
+    "Tranquility TSD 012",
+    "Tranquility TSD 018",
+    "Tranquility TSD 024",
+    "Tranquility TSD 030",
+    "Tranquility TSD 036",
+    "Tranquility TSD 042",
+    "Tranquility TSD 048",
+    "Tranquility TSD 060",
+    "Tranquility TSD 070",
+    "Tranquility TSH 006",
+    "Tranquility TSH 009",
+    "Tranquility TSH 012",
+    "Tranquility TSH 018",
+    "Tranquility TSH 024",
+    "Tranquility TSH 030",
+    "Tranquility TSH 036",
+    "Tranquility TSH 042",
+    "Tranquility TSH 048",
+    "Tranquility TSH 060",
+    "Tranquility TSH 070",
+    "Tranquility TSV 006",
+    "Tranquility TSV 009",
+    "Tranquility TSV 012",
+    "Tranquility TSV 018",
+    "Tranquility TSV 024",
+    "Tranquility TSV 030",
+    "Tranquility TSV 036",
+    "Tranquility TSV 042",
+    "Tranquility TSV 048",
+    "Tranquility TSV 060",
+    "Tranquility TSV 070"
+   ],
+   "url": "https://www.manualslib.com/manual/2038488/Climatemaster-Tranquility-20-Series.html"
+  },
+  {
+   "manualId": "2510377",
+   "slug": "Climatemaster-Tranquility-20-Series",
+   "title": "Tranquility 20 Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "Tranquility 20 Series",
+   "extraModels": [
+    "Tranquility 20 TS"
+   ],
+   "url": "https://www.manualslib.com/manual/2510377/Climatemaster-Tranquility-20-Series.html"
+  },
+  {
+   "manualId": "3205675",
+   "slug": "Climatemaster-Tranquility-30-Series",
+   "title": "Tranquility 20 Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "Tranquility 20 Series",
+   "extraModels": [
+    "Tranquility 20 Series",
+    "Tranquility 20 TS",
+    "Tranquility 30 TT Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3205675/Climatemaster-Tranquility-30-Series.html"
+  },
+  {
+   "manualId": "862306",
+   "slug": "Climatemaster-Tranquility-27",
+   "title": "Tranquility 20 TS Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 50,
+   "productModel": "Tranquility 20 TS",
+   "extraModels": [
+    "Tranquility 20 TS",
+    "Tranquility 27 TS"
+   ],
+   "url": "https://www.manualslib.com/manual/862306/Climatemaster-Tranquility-27.html"
+  },
+  {
+   "manualId": "995313",
+   "slug": "Climatemaster-Tranquility-20-Tsd-006-Series",
+   "title": "Tranquility 20 TSD 006 Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "Tranquility 20 TSD 006 Series",
+   "extraModels": [
+    "Tranquility 20 TSD 009 Series",
+    "Tranquility 20 TSD 012 Series",
+    "Tranquility 20 TSD 018 Series",
+    "Tranquility 20 TSD 024 Series",
+    "Tranquility 20 TSD 030 Series",
+    "Tranquility 20 TSD 036 Series",
+    "Tranquility 20 TSD 042 Series",
+    "Tranquility 20 TSD 048 Series",
+    "Tranquility 20 TSH 006 Series",
+    "Tranquility 20 TSH 009 Series",
+    "Tranquility 20 TSH 012 Series",
+    "Tranquility 20 TSH 018 Series",
+    "Tranquility 20 TSH 024 Series",
+    "Tranquility 20 TSH 030 Series",
+    "Tranquility 20 TSH 036 Series",
+    "Tranquility 20 TSH 042 Series",
+    "Tranquility 20 TSH 048 Series",
+    "Tranquility 20 TSV 006 Series",
+    "Tranquility 20 TSV 009 Series",
+    "Tranquility 20 TSV 012 Series",
+    "Tranquility 20 TSV 018 Series",
+    "Tranquility 20 TSV 024 Series",
+    "Tranquility 20 TSV 030 Series",
+    "Tranquility 20 TSV 036 Series",
+    "Tranquility 20 TSV 042 Series",
+    "Tranquility 20 TSV 048 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/995313/Climatemaster-Tranquility-20-Tsd-006-Series.html"
+  },
+  {
+   "manualId": "847595",
+   "slug": "Climatemaster-Tyh-V-024-060-60hz-Hfc-410a",
+   "title": "Tranquility 22 (TY) Series Installation, operation, & maintenance instruction",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "Tranquility 22 (TY) Series",
+   "extraModels": [
+    "Tranquility 22 (TY) Series",
+    "TYH/V 024 - 060 60Hz - HFC-410A"
+   ],
+   "url": "https://www.manualslib.com/manual/847595/Climatemaster-Tyh-V-024-060-60hz-Hfc-410a.html"
+  },
+  {
+   "manualId": "3878247",
+   "slug": "Climatemaster-Tranquility-22-Series",
+   "title": "Tranquility 22 Series Installation, operation, maintenance manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "Tranquility 22 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878247/Climatemaster-Tranquility-22-Series.html"
+  },
+  {
+   "manualId": "2514854",
+   "slug": "Climatemaster-Tranquility-22-Tz-Series",
+   "title": "Tranquility 22 TZ Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Tranquility 22 TZ Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2514854/Climatemaster-Tranquility-22-Tz-Series.html"
+  },
+  {
+   "manualId": "3654015",
+   "slug": "Climatemaster-Tranquility-Tzv030dgd02atks",
+   "title": "Tranquility 22 TZ Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Tranquility 22 TZ Series",
+   "extraModels": [
+    "Tranquility 22 TZ Series",
+    "TRANQUILITY TZV036DGD02LSKS"
+   ],
+   "url": "https://www.manualslib.com/manual/3654015/Climatemaster-Tranquility-Tzv030dgd02atks.html"
+  },
+  {
+   "manualId": "2156240",
+   "slug": "Climatemaster-Tranquility-Ty-Series",
+   "title": "Tranquility 22 TZ Series Installation, operation, maintenance manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "Tranquility 22 TZ Series",
+   "extraModels": [
+    "Tranquility 22 TZ Series",
+    "Tranquility 22 TZH/V 024",
+    "Tranquility 22 TZH/V 030",
+    "Tranquility 22 TZH/V 036",
+    "Tranquility 22 TZH/V 042",
+    "Tranquility 22 TZH/V 048",
+    "Tranquility 22 TZH/V 060",
+    "Tranquility TYH 024",
+    "Tranquility TYH 030",
+    "Tranquility TYH 036",
+    "Tranquility TYH 042",
+    "Tranquility TYH 048",
+    "Tranquility TYH 060",
+    "Tranquility TYV 024",
+    "Tranquility TYV 030",
+    "Tranquility TYV 036",
+    "Tranquility TYV 042",
+    "Tranquility TYV 048",
+    "Tranquility TYV 060"
+   ],
+   "url": "https://www.manualslib.com/manual/2156240/Climatemaster-Tranquility-Ty-Series.html"
+  },
+  {
+   "manualId": "868654",
+   "slug": "Climatemaster-Tranquility-27-Split-Tts-Series-97b0047n02",
+   "title": "Tranquility 27 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "Tranquility 27",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/868654/Climatemaster-Tranquility-27-Split-Tts-Series-97b0047n02.html"
+  },
+  {
+   "manualId": "3112667",
+   "slug": "Climatemaster-Tranquility-30-Digital-Te-Series",
+   "title": "Tranquility 30 Digital TE Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "Tranquility 30 Digital TE Series",
+   "extraModels": [
+    "Tranquility 30 Digital TE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3112667/Climatemaster-Tranquility-30-Digital-Te-Series.html"
+  },
+  {
+   "manualId": "2358033",
+   "slug": "Climatemaster-Tranquility-30-Digital-Te-Series",
+   "title": "Tranquility 30 Digital TE Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "Tranquility 30 Digital TE Series",
+   "extraModels": [
+    "Tranquility 30 Digital TE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2358033/Climatemaster-Tranquility-30-Digital-Te-Series.html"
+  },
+  {
+   "manualId": "1173456",
+   "slug": "Climatemaster-Tranquility-30",
+   "title": "tranquility 30 Installation, operation & maintanance manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "tranquility 30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1173456/Climatemaster-Tranquility-30.html"
+  },
+  {
+   "manualId": "972904",
+   "slug": "Climatemaster-Tranquility-30-Te026",
+   "title": "Tranquility 30 TE026 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Tranquility 30 TE026",
+   "extraModels": [
+    "Tranquility 30 TE038",
+    "Tranquility 30 TE049",
+    "Tranquility 30 TE064",
+    "Tranquility 30 TE072"
+   ],
+   "url": "https://www.manualslib.com/manual/972904/Climatemaster-Tranquility-30-Te026.html"
+  },
+  {
+   "manualId": "1029155",
+   "slug": "Climatemaster-Tranquility-97b0072n01",
+   "title": "Tranquility 97B0072N01 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "Tranquility 97B0072N01",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1029155/Climatemaster-Tranquility-97b0072n01.html"
+  },
+  {
+   "manualId": "958248",
+   "slug": "Climatemaster-Tranquility-Digital-Dxm2",
+   "title": "Tranquility Digital DXM2 troubleshooting manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "Tranquility Digital DXM2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/958248/Climatemaster-Tranquility-Digital-Dxm2.html"
+  },
+  {
+   "manualId": "2595067",
+   "slug": "Climatemaster-Tranquility-Low-Profile-Series",
+   "title": "Tranquility Low-Profile Series Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "Tranquility Low-Profile Series",
+   "extraModels": [
+    "TRL006",
+    "TRL009",
+    "TRL012",
+    "TRL015"
+   ],
+   "url": "https://www.manualslib.com/manual/2595067/Climatemaster-Tranquility-Low-Profile-Series.html"
+  },
+  {
+   "manualId": "2087721",
+   "slug": "Climatemaster-Tranquility-Oa-Series",
+   "title": "Tranquility OA Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "Tranquility OA Series",
+   "extraModels": [
+    "Tranquility TO Series",
+    "Tranquility TO VD 10",
+    "Tranquility TO VD 15",
+    "Tranquility TO VD 20",
+    "Tranquility TO VD 25",
+    "Tranquility TO VD 30",
+    "Tranquility TO VD 4",
+    "Tranquility TO VD 5",
+    "Tranquility TO VD 8",
+    "Tranquility TO VF 10",
+    "Tranquility TO VF 15",
+    "Tranquility TO VF 20",
+    "Tranquility TO VF 25",
+    "Tranquility TO VF 30",
+    "Tranquility TO VF 4",
+    "Tranquility TO VF 5",
+    "Tranquility TO VF 8"
+   ],
+   "url": "https://www.manualslib.com/manual/2087721/Climatemaster-Tranquility-Oa-Series.html"
+  },
+  {
+   "manualId": "1042657",
+   "slug": "Climatemaster-Tranquility-97b0107n01",
+   "title": "Tranquility quick start manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "Tranquility",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1042657/Climatemaster-Tranquility-97b0107n01.html"
+  },
+  {
+   "manualId": "2363773",
+   "slug": "Climatemaster-Tranquility-Tac026bm17s",
+   "title": "Tranquility TAC026BM17S Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "Tranquility TAC026BM17S",
+   "extraModels": [
+    "Tranquility TAC026BM21S",
+    "Tranquility TAC038BM21S",
+    "Tranquility TAC038BM24S",
+    "Tranquility TAC049BM21S",
+    "Tranquility TAC049BM24S",
+    "Tranquility TAC064BM24S"
+   ],
+   "url": "https://www.manualslib.com/manual/2363773/Climatemaster-Tranquility-Tac026bm17s.html"
+  },
+  {
+   "manualId": "827996",
+   "slug": "Climatemaster-Tranquility",
+   "title": "Tranquility Technical manual",
+   "type": "Other",
+   "pages": 22,
+   "productModel": "Tranquility",
+   "extraModels": [
+    "Tranquility Water-to-Water THW 010"
+   ],
+   "url": "https://www.manualslib.com/manual/827996/Climatemaster-Tranquility.html"
+  },
+  {
+   "manualId": "1168667",
+   "slug": "Climatemaster-Tranquility-Water-To-Water-Thw-008",
+   "title": "Tranquility THW Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "Tranquility THW Series",
+   "extraModels": [
+    "Tranquility THW Series",
+    "Tranquility Water-to-Water THW 010",
+    "Tranquility Water-to-Water THW 012"
+   ],
+   "url": "https://www.manualslib.com/manual/1168667/Climatemaster-Tranquility-Water-To-Water-Thw-008.html"
+  },
+  {
+   "manualId": "2036643",
+   "slug": "Climatemaster-Tranquility-Tr-Series",
+   "title": "Tranquility TR Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "Tranquility TR Series",
+   "extraModels": [
+    "Tranquility TRH 006",
+    "Tranquility TRH 009",
+    "Tranquility TRH 012",
+    "Tranquility TRH 015",
+    "Tranquility TRH 018",
+    "Tranquility TRH 024",
+    "Tranquility TRH 030",
+    "Tranquility TRH 036",
+    "Tranquility TRH 042",
+    "Tranquility TRH 048",
+    "Tranquility TRH 060",
+    "Tranquility TRV 006",
+    "Tranquility TRV 009",
+    "Tranquility TRV 012",
+    "Tranquility TRV 015",
+    "Tranquility TRV 018",
+    "Tranquility TRV 024",
+    "Tranquility TRV 030",
+    "Tranquility TRV 036",
+    "Tranquility TRV 042",
+    "Tranquility TRV 048",
+    "Tranquility TRV 060"
+   ],
+   "url": "https://www.manualslib.com/manual/2036643/Climatemaster-Tranquility-Tr-Series.html"
+  },
+  {
+   "manualId": "3306230",
+   "slug": "Climatemaster-Tranquility-Trc-Series",
+   "title": "Tranquility TRC Series Submittal data",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "Tranquility TRC Series",
+   "extraModels": [
+    "Tranquility TRC09",
+    "Tranquility TRC12",
+    "Tranquility TRC15",
+    "Tranquility TRC18"
+   ],
+   "url": "https://www.manualslib.com/manual/3306230/Climatemaster-Tranquility-Trc-Series.html"
+  },
+  {
+   "manualId": "2903032",
+   "slug": "Climatemaster-Tranquility-Digital",
+   "title": "Tranquility troubleshooting manual",
+   "type": "Service",
+   "pages": 62,
+   "productModel": "Tranquility",
+   "extraModels": [
+    "Tranquility Digital DXM2"
+   ],
+   "url": "https://www.manualslib.com/manual/2903032/Climatemaster-Tranquility-Digital.html"
+  },
+  {
+   "manualId": "3873201",
+   "slug": "Climatemaster-Tranquility-Tsm09",
+   "title": "Tranquility TSM09 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "Tranquility TSM09",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3873201/Climatemaster-Tranquility-Tsm09.html"
+  },
+  {
+   "manualId": "3873202",
+   "slug": "Climatemaster-Tranquility-Tsm12",
+   "title": "Tranquility TSM12 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "Tranquility TSM12",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3873202/Climatemaster-Tranquility-Tsm12.html"
+  },
+  {
+   "manualId": "3873203",
+   "slug": "Climatemaster-Tranquility-Tsm18",
+   "title": "Tranquility TSM18 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "Tranquility TSM18",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3873203/Climatemaster-Tranquility-Tsm18.html"
+  },
+  {
+   "manualId": "1076010",
+   "slug": "Climatemaster-Tranquility-Ttd026-Series",
+   "title": "Tranquility TTD026 Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "Tranquility TTD026 Series",
+   "extraModels": [
+    "Tranquility TTD038 Series",
+    "Tranquility TTD049 Series",
+    "Tranquility TTD064 Series",
+    "Tranquility TTD072 Series",
+    "Tranquility TTH026 Series",
+    "Tranquility TTH038 Series",
+    "Tranquility TTH064 Series",
+    "Tranquility TTH072 Series",
+    "Tranquility TTV026 Series",
+    "Tranquility TTV049 Series",
+    "Tranquility TTV072 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1076010/Climatemaster-Tranquility-Ttd026-Series.html"
+  },
+  {
+   "manualId": "3835596",
+   "slug": "Climatemaster-Tranquility-Tth049-Series",
+   "title": "Tranquility TTH049 Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "Tranquility TTH049 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3835596/Climatemaster-Tranquility-Tth049-Series.html"
+  },
+  {
+   "manualId": "3835594",
+   "slug": "Climatemaster-Tranquility-Ttv038-Series",
+   "title": "Tranquility TTV038 Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "Tranquility TTV038 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3835594/Climatemaster-Tranquility-Ttv038-Series.html"
+  },
+  {
+   "manualId": "1071016",
+   "slug": "Climatemaster-Tranquility-Tzh-024-Series",
+   "title": "Tranquility TZH 024 Series installation, operation & maintenence manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Tranquility TZH 024 Series",
+   "extraModels": [
+    "Tranquility TZH 060 Series",
+    "Tranquility TZV 024 Series",
+    "Tranquility TZV 060 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1071016/Climatemaster-Tranquility-Tzh-024-Series.html"
+  },
+  {
+   "manualId": "1582855",
+   "slug": "Climatemaster-Tsl-Series",
+   "title": "Tranquility Vertical Stack Series Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "Tranquility Vertical Stack Series",
+   "extraModels": [
+    "Tranquility Vertical Stack Series",
+    "TSL09",
+    "TSL12",
+    "TSL15",
+    "TSL18",
+    "TSL24",
+    "TSL30",
+    "TSL36"
+   ],
+   "url": "https://www.manualslib.com/manual/1582855/Climatemaster-Tsl-Series.html"
+  },
+  {
+   "manualId": "4593985",
+   "slug": "Climatemaster-Tranquility-Vertical-Stack-Series",
+   "title": "Tranquility Vertical Stack Series Manual",
+   "type": "Other",
+   "pages": 84,
+   "productModel": "Tranquility Vertical Stack Series",
+   "extraModels": [
+    "Tranquility TSM09",
+    "Tranquility TSM12",
+    "Tranquility TSM15",
+    "Tranquility TSM18",
+    "Tranquility TSM24",
+    "Tranquility TSM30",
+    "Tranquility TSM36"
+   ],
+   "url": "https://www.manualslib.com/manual/4593985/Climatemaster-Tranquility-Vertical-Stack-Series.html"
+  },
+  {
+   "manualId": "960847",
+   "slug": "Climatemaster-Trc09",
+   "title": "TRC09 Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "TRC09 Series",
+   "extraModels": [
+    "TRC12 Series",
+    "TRC15 Series",
+    "TRC18 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/960847/Climatemaster-Trc09.html"
+  },
+  {
+   "manualId": "2085290",
+   "slug": "Climatemaster-Tre-Series",
+   "title": "TRE Series Installation operation & maintenance",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "TRE Series",
+   "extraModels": [
+    "TRE036",
+    "TRE048",
+    "TRE060",
+    "TRE072",
+    "TRE096",
+    "TRE120",
+    "TRE144",
+    "TRE168",
+    "TRE240"
+   ],
+   "url": "https://www.manualslib.com/manual/2085290/Climatemaster-Tre-Series.html"
+  },
+  {
+   "manualId": "1205464",
+   "slug": "Climatemaster-Trilogy-45-Q-Mode-Series",
+   "title": "trilogy 45 q-mode series user manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "trilogy 45 q-mode series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1205464/Climatemaster-Trilogy-45-Q-Mode-Series.html"
+  },
+  {
+   "manualId": "2453500",
+   "slug": "Climatemaster-Trilogy-Q-Mode-Qe-Series",
+   "title": "Trilogy Q-Mode (QE) Series Manual",
+   "type": "Other",
+   "pages": 92,
+   "productModel": "Trilogy Q-Mode (QE) Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2453500/Climatemaster-Trilogy-Q-Mode-Qe-Series.html"
+  },
+  {
+   "manualId": "2453496",
+   "slug": "Climatemaster-Trilogy-Variable-Ve-Series",
+   "title": "Trilogy Variable (VE) Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "Trilogy Variable (VE) Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2453496/Climatemaster-Trilogy-Variable-Ve-Series.html"
+  },
+  {
+   "manualId": "1791682",
+   "slug": "Climatemaster-Trilogy-Ve-Series",
+   "title": "Trilogy VE 0930 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "Trilogy VE 0930",
+   "extraModels": [
+    "Trilogy VE 0930",
+    "Trilogy VE 1860"
+   ],
+   "url": "https://www.manualslib.com/manual/1791682/Climatemaster-Trilogy-Ve-Series.html"
+  },
+  {
+   "manualId": "3895075",
+   "slug": "Climatemaster-Trl-Series",
+   "title": "TRL Series Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "TRL Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3895075/Climatemaster-Trl-Series.html"
+  },
+  {
+   "manualId": "3158349",
+   "slug": "Climatemaster-Trm-Series",
+   "title": "TRM Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 50,
+   "productModel": "TRM Series",
+   "extraModels": [
+    "VHS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3158349/Climatemaster-Trm-Series.html"
+  },
+  {
+   "manualId": "2016862",
+   "slug": "Climatemaster-Tranquility-Tsm-Series",
+   "title": "TSL Series Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "TSL Series",
+   "extraModels": [
+    "TSL Series",
+    "TSL09",
+    "TSL12",
+    "TSL15",
+    "TSL18",
+    "TSL24",
+    "TSL30",
+    "TSL36",
+    "Tranquility Series",
+    "Tranquility TSL Series",
+    "Tranquility TSM15",
+    "Tranquility TSM24",
+    "Tranquility TSM30",
+    "Tranquility TSM36",
+    "TSM 09",
+    "TSM 12",
+    "TSM 15",
+    "TSM 18",
+    "TSM 24",
+    "TSM 30",
+    "TSM 36"
+   ],
+   "url": "https://www.manualslib.com/manual/2016862/Climatemaster-Tranquility-Tsm-Series.html"
+  },
+  {
+   "manualId": "1158358",
+   "slug": "Climatemaster-Ultra-Classic-Vt-072",
+   "title": "Ultra Classic VT 036 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Ultra Classic VT 036",
+   "extraModels": [
+    "Ultra Classic VT 036",
+    "Ultra Classic VT 042",
+    "Ultra Classic VT 048",
+    "Ultra Classic VT 060"
+   ],
+   "url": "https://www.manualslib.com/manual/1158358/Climatemaster-Ultra-Classic-Vt-072.html"
+  },
+  {
+   "manualId": "635803",
+   "slug": "Climatemaster-Atp32u01",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/635803/Climatemaster-Atp32u01.html"
+  },
+  {
+   "manualId": "4266222",
+   "slug": "Climatemaster-Vhs-Series",
+   "title": "VHS Series Installation, operating, & maintenance instructions",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "VHS Series",
+   "extraModels": [
+    "VHS-10",
+    "VHS-15",
+    "VHS-20",
+    "VHS-28",
+    "VHS-30",
+    "VHS-36"
+   ],
+   "url": "https://www.manualslib.com/manual/4266222/Climatemaster-Vhs-Series.html"
+  },
+  {
+   "manualId": "4266161",
+   "slug": "Climatemaster-Vhs-Series",
+   "title": "VHS Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "VHS Series",
+   "extraModels": [
+    "VHS-10",
+    "VHS-15",
+    "VHS-20",
+    "VHS-28",
+    "VHS-30",
+    "VHS-36"
+   ],
+   "url": "https://www.manualslib.com/manual/4266161/Climatemaster-Vhs-Series.html"
+  },
+  {
+   "manualId": "996147",
+   "slug": "Climatemaster-Vhs-Series",
+   "title": "VHS Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "VHS Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/996147/Climatemaster-Vhs-Series.html"
+  },
+  {
+   "manualId": "1013145",
+   "slug": "Climatemaster-Vhs-10",
+   "title": "VHS-10 Installation, operating, & maintenance instructions",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "VHS-10",
+   "extraModels": [
+    "VHS-15",
+    "VHS-20",
+    "VHS-28",
+    "VHS-30",
+    "VHS-36"
+   ],
+   "url": "https://www.manualslib.com/manual/1013145/Climatemaster-Vhs-10.html"
+  },
+  {
+   "manualId": "3832480",
+   "slug": "Climatemaster-Vs-Series",
+   "title": "VS series Installation, operating, & maintenance instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "VS series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3832480/Climatemaster-Vs-Series.html"
+  },
+  {
+   "manualId": "3095469",
+   "slug": "Climatemaster-Vz-Series",
+   "title": "VZ Series Installation, operating, & maintenance instructions",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "VZ Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3095469/Climatemaster-Vz-Series.html"
+  },
+  {
+   "manualId": "4262441",
+   "slug": "Climatemaster-We-Series",
+   "title": "WE 036 Installation, operating, & maintenance instructions",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "WE 036",
+   "extraModels": [
+    "WE 036",
+    "WE 060",
+    "WE 120",
+    "WE036G",
+    "WE036H",
+    "WE060F",
+    "WE060G",
+    "WE060H",
+    "WE060N",
+    "WE120F",
+    "WE120G",
+    "WE120H",
+    "WE120N"
+   ],
+   "url": "https://www.manualslib.com/manual/4262441/Climatemaster-We-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4426957",
+   "slug": "climatemaster-hs-hl-hp-and-vs-vl-vp-series-instructions",
+   "title": "ClimateMaster HS/HL/HP & VS/VL/VP Series Instructions"
+  },
+  {
+   "manualId": "4241518",
+   "slug": "climatemaster-climadry-rooftop-heat-pump-manual",
+   "title": "ClimateMaster ClimaDry Rooftop Heat Pump Manual"
+  }
+ ],
+ "techDirectIds": [
+  "climatemaster"
+ ]
+}

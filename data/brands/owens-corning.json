@@ -1,0 +1,175 @@
+{
+ "brand": "Owens Corning",
+ "brandSlug": "owens-corning",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/owens-corning/"
+ ],
+ "slugUsed": "owens-corning",
+ "capturedAt": "2026-10-28T08:47:05.564614+00:00",
+ "typePages": [
+  {
+   "path": "/brand/owens-corning/air-conditioner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/owens-corning/construction-equipment.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/owens-corning/control-unit.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/owens-corning/monitor.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/owens-corning/paint-sprayer.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/owens-corning/software.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/owens-corning/solar-panel.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/owens-corning/tools.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "796542",
+   "slug": "Owens-Corning-313221m",
+   "title": "313221M Instruction & parts manual",
+   "type": "Parts & Wiring",
+   "pages": 60,
+   "productModel": "313221M",
+   "extraModels": [
+    "EnergyComplete 257125",
+    "EnergyComplete 257126"
+   ],
+   "url": "https://www.manualslib.com/manual/796542/Owens-Corning-313221m.html"
+  },
+  {
+   "manualId": "2799408",
+   "slug": "Owens-Corning-10023157",
+   "title": "Assembly",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2799408/Owens-Corning-10023157.html"
+  },
+  {
+   "manualId": "4214540",
+   "slug": "Owens-Corning-Atticat",
+   "title": "ATTICAT owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "ATTICAT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4214540/Owens-Corning-Atticat.html"
+  },
+  {
+   "manualId": "4362445",
+   "slug": "Owens-Corning-Atticat",
+   "title": "ATTICAT Ownersmanual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "ATTICAT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4362445/Owens-Corning-Atticat.html"
+  },
+  {
+   "manualId": "4138889",
+   "slug": "Owens-Corning-Atticat",
+   "title": "ATTICAT quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "ATTICAT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4138889/Owens-Corning-Atticat.html"
+  },
+  {
+   "manualId": "912553",
+   "slug": "Owens-Corning-Energycomplete-Series",
+   "title": "EnergyComplete Series Instructions-parts list manual",
+   "type": "Parts & Wiring",
+   "pages": 30,
+   "productModel": "EnergyComplete Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/912553/Owens-Corning-Energycomplete-Series.html"
+  },
+  {
+   "manualId": "1480218",
+   "slug": "Owens-Corning-Ventsure",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1480218/Owens-Corning-Ventsure.html"
+  },
+  {
+   "manualId": "1786423",
+   "slug": "Owens-Corning-Ventsure",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1786423/Owens-Corning-Ventsure.html"
+  },
+  {
+   "manualId": "1874395",
+   "slug": "Owens-Corning-Ventsure-Solar-Attic-Exhaust-Fan-Additional-Solar-Panel-Kit",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1874395/Owens-Corning-Ventsure-Solar-Attic-Exhaust-Fan-Additional-Solar-Panel-Kit.html"
+  },
+  {
+   "manualId": "4051674",
+   "slug": "Owens-Corning-Procat",
+   "title": "ProCat owner's manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "ProCat",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4051674/Owens-Corning-Procat.html"
+  },
+  {
+   "manualId": "116513",
+   "slug": "Owens-Corning-Calculator",
+   "title": "Usage Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/116513/Owens-Corning-Calculator.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "owens-corning"
+ ]
+}

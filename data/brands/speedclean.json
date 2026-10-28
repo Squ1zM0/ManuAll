@@ -1,0 +1,203 @@
+{
+ "brand": "SpeedClean",
+ "brandSlug": "speedclean",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/speedclean/"
+ ],
+ "slugUsed": "speedclean",
+ "capturedAt": "2026-10-28T09:22:30.968748+00:00",
+ "typePages": [
+  {
+   "path": "/brand/speedclean/cleaning-equipment.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/speedclean/other.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/speedclean/paint-sprayer.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/speedclean/service-equipment.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/speedclean/steam-cleaner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/speedclean/ultrasonic-jewelry-cleaner.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/speedclean/vacuum-cleaner.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1924720",
+   "slug": "Speedclean-Bucketdescaler",
+   "title": "BucketDescaler Operating & Maintenance Instructions",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "BucketDescaler",
+   "extraModels": [
+    "SC-DS-05"
+   ],
+   "url": "https://www.manualslib.com/manual/1924720/Speedclean-Bucketdescaler.html"
+  },
+  {
+   "manualId": "1537817",
+   "slug": "Speedclean-Bucketvac",
+   "title": "BucketVac Operating & Maintenance Instructions",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "BucketVac",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1537817/Speedclean-Bucketvac.html"
+  },
+  {
+   "manualId": "2510221",
+   "slug": "Speedclean-Cj-125",
+   "title": "CJ-125-LH Operating & Maintenance Instructions",
+   "type": "Service",
+   "pages": 2,
+   "productModel": "CJ-125-LH",
+   "extraModels": [
+    "CJ-125-LH"
+   ],
+   "url": "https://www.manualslib.com/manual/2510221/Speedclean-Cj-125.html"
+  },
+  {
+   "manualId": "4021006",
+   "slug": "Speedclean-Cj-125",
+   "title": "CJ-125-LH Operating & Maintenance Instructions",
+   "type": "Service",
+   "pages": 26,
+   "productModel": "CJ-125-LH",
+   "extraModels": [
+    "CJ-125-LH"
+   ],
+   "url": "https://www.manualslib.com/manual/4021006/Speedclean-Cj-125.html"
+  },
+  {
+   "manualId": "4141219",
+   "slug": "Speedclean-Coiljet-Backpack-Cj-Bkpk",
+   "title": "COILJET BACKPACK CJ-BKPK Operating & Maintenance Instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "COILJET BACKPACK CJ-BKPK",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4141219/Speedclean-Coiljet-Backpack-Cj-Bkpk.html"
+  },
+  {
+   "manualId": "1544564",
+   "slug": "Speedclean-Coiljet-Cj-125",
+   "title": "CoilJet CJ-125 Operating & Maintenance Instructions",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "CoilJet CJ-125",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1544564/Speedclean-Coiljet-Cj-125.html"
+  },
+  {
+   "manualId": "1604688",
+   "slug": "Speedclean-Coiljet-Cj-200e",
+   "title": "CoilJet CJ-200E Operating & Maintenance Instructions",
+   "type": "Service",
+   "pages": 8,
+   "productModel": "CoilJet CJ-200E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1604688/Speedclean-Coiljet-Cj-200e.html"
+  },
+  {
+   "manualId": "4142797",
+   "slug": "Speedclean-Coiljet-Cj-200e",
+   "title": "CoilJet CJ-200E Operating & Maintenance Instructions",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "CoilJet CJ-200E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4142797/Speedclean-Coiljet-Cj-200e.html"
+  },
+  {
+   "manualId": "1387884",
+   "slug": "Speedclean-Coilshot-Sc-Cs-100",
+   "title": "COILSHOT SC-CS-100 Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "COILSHOT SC-CS-100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1387884/Speedclean-Coilshot-Sc-Cs-100.html"
+  },
+  {
+   "manualId": "1511385",
+   "slug": "Speedclean-Flowjet-60",
+   "title": "FLOWJET-60 Operating & Maintenance Instructions",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "FLOWJET-60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1511385/Speedclean-Flowjet-60.html"
+  },
+  {
+   "manualId": "1955840",
+   "slug": "Speedclean-Mini-Split-Cassette-Bib-Kit",
+   "title": "Operating & Maintenance Instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1955840/Speedclean-Mini-Split-Cassette-Bib-Kit.html"
+  },
+  {
+   "manualId": "3970667",
+   "slug": "Speedclean-Coilshot",
+   "title": "Operating & Maintenance Instructions",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3970667/Speedclean-Coilshot.html"
+  },
+  {
+   "manualId": "1859494",
+   "slug": "Speedclean-Sc-Tc-60",
+   "title": "SC-TC-60 Operating & Maintenance Instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "SC-TC-60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1859494/Speedclean-Sc-Tc-60.html"
+  },
+  {
+   "manualId": "1816099",
+   "slug": "Speedclean-Sc-Vsc-7000",
+   "title": "SC-VSC-7000 Operating & Maintenance Instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "SC-VSC-7000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1816099/Speedclean-Sc-Vsc-7000.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "speedclean"
+ ]
+}

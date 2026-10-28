@@ -1,0 +1,107 @@
+{
+ "brand": "WellAir",
+ "brandSlug": "wellair",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/wellair/"
+ ],
+ "slugUsed": "wellair",
+ "capturedAt": "2026-10-28T09:52:49.451874+00:00",
+ "typePages": [
+  {
+   "path": "/brand/wellair/air-cleaner.html",
+   "manuals": 22,
+   "status": 200
+  },
+  {
+   "path": "/brand/wellair/measuring-instruments.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/wellair/security-sensors.html",
+   "manuals": 6,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3225486",
+   "slug": "Wellair-Plasma-Air-Plasma-Bar-Series",
+   "title": "Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3225486/Wellair-Plasma-Air-Plasma-Bar-Series.html"
+  },
+  {
+   "manualId": "4248707",
+   "slug": "Wellair-Plasma-Air-600-Series",
+   "title": "Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4248707/Wellair-Plasma-Air-600-Series.html"
+  },
+  {
+   "manualId": "4527196",
+   "slug": "Wellair-Nanodetect-Pro",
+   "title": "NanoDetect PRO Firmware update manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "NanoDetect PRO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4527196/Wellair-Nanodetect-Pro.html"
+  },
+  {
+   "manualId": "4358508",
+   "slug": "Wellair-Nanodetect-Pro",
+   "title": "NanoDetect PRO Manual",
+   "type": "Other",
+   "pages": 38,
+   "productModel": "NanoDetect PRO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4358508/Wellair-Nanodetect-Pro.html"
+  },
+  {
+   "manualId": "2888930",
+   "slug": "Wellair-Novaerus-Defend-400",
+   "title": "NOVAERUS Defend 400 user manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "NOVAERUS Defend 400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2888930/Wellair-Novaerus-Defend-400.html"
+  },
+  {
+   "manualId": "3675651",
+   "slug": "Wellair-Plasmaair-Rapidpure",
+   "title": "PlasmaAir RapidPURE Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "PlasmaAir RapidPURE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3675651/Wellair-Plasmaair-Rapidpure.html"
+  },
+  {
+   "manualId": "4527455",
+   "slug": "Wellair-Nanodetect-Pro",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4527455/Wellair-Nanodetect-Pro.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "wellair"
+ ]
+}

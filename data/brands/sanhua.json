@@ -1,0 +1,640 @@
+{
+ "brand": "Sanhua",
+ "brandSlug": "sanhua",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/sanhua/"
+ ],
+ "slugUsed": "sanhua",
+ "capturedAt": "2026-10-28T09:20:06.451430+00:00",
+ "typePages": [
+  {
+   "path": "/brand/sanhua/accessories.html",
+   "manuals": 14,
+   "status": 200
+  },
+  {
+   "path": "/brand/sanhua/control-unit.html",
+   "manuals": 188,
+   "status": 200
+  },
+  {
+   "path": "/brand/sanhua/controller.html",
+   "manuals": 39,
+   "status": 200
+  },
+  {
+   "path": "/brand/sanhua/dc-drives.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/sanhua/security-sensors.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/sanhua/switch.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/sanhua/thermostat.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/sanhua/transmitter.html",
+   "manuals": 17,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1971291",
+   "slug": "Sanhua-Rfgb-Series",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1971291/Sanhua-Rfgb-Series.html"
+  },
+  {
+   "manualId": "1971296",
+   "slug": "Sanhua-Sbv-Series",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1971296/Sanhua-Sbv-Series.html"
+  },
+  {
+   "manualId": "2113875",
+   "slug": "Sanhua-Mq-A11-Series",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2113875/Sanhua-Mq-A11-Series.html"
+  },
+  {
+   "manualId": "2114173",
+   "slug": "Sanhua-Hdf-Series",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2114173/Sanhua-Hdf-Series.html"
+  },
+  {
+   "manualId": "2118396",
+   "slug": "Sanhua-Mdf-H-Series",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2118396/Sanhua-Mdf-H-Series.html"
+  },
+  {
+   "manualId": "2126090",
+   "slug": "Sanhua-Ycqc-Series",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2126090/Sanhua-Ycqc-Series.html"
+  },
+  {
+   "manualId": "2139861",
+   "slug": "Sanhua-Ycqb-Series",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2139861/Sanhua-Ycqb-Series.html"
+  },
+  {
+   "manualId": "2165831",
+   "slug": "Sanhua-Dpf-Series",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2165831/Sanhua-Dpf-Series.html"
+  },
+  {
+   "manualId": "2293447",
+   "slug": "Sanhua-Dpf-R-Series",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2293447/Sanhua-Dpf-R-Series.html"
+  },
+  {
+   "manualId": "2355818",
+   "slug": "Sanhua-Rfka-Series",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2355818/Sanhua-Rfka-Series.html"
+  },
+  {
+   "manualId": "2439036",
+   "slug": "Sanhua-Rfka-Series",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2439036/Sanhua-Rfka-Series.html"
+  },
+  {
+   "manualId": "2492332",
+   "slug": "Sanhua-Rfkh-Series",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2492332/Sanhua-Rfkh-Series.html"
+  },
+  {
+   "manualId": "2567388",
+   "slug": "Sanhua-Rfgb-Series",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2567388/Sanhua-Rfgb-Series.html"
+  },
+  {
+   "manualId": "2707577",
+   "slug": "Sanhua-Vsd2001-Series",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2707577/Sanhua-Vsd2001-Series.html"
+  },
+  {
+   "manualId": "2856023",
+   "slug": "Sanhua-Rfkh-Series",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2856023/Sanhua-Rfkh-Series.html"
+  },
+  {
+   "manualId": "2944651",
+   "slug": "Sanhua-Ycqc-Series",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2944651/Sanhua-Ycqc-Series.html"
+  },
+  {
+   "manualId": "2975433",
+   "slug": "Sanhua-Lpf-Series",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2975433/Sanhua-Lpf-Series.html"
+  },
+  {
+   "manualId": "3470961",
+   "slug": "Sanhua-Ps01-Series",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3470961/Sanhua-Ps01-Series.html"
+  },
+  {
+   "manualId": "3481144",
+   "slug": "Sanhua-Rfkh-Series",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3481144/Sanhua-Rfkh-Series.html"
+  },
+  {
+   "manualId": "3501107",
+   "slug": "Sanhua-Rfgb-Series",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3501107/Sanhua-Rfgb-Series.html"
+  },
+  {
+   "manualId": "3721050",
+   "slug": "Sanhua-Ebvc-Series",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3721050/Sanhua-Ebvc-Series.html"
+  },
+  {
+   "manualId": "3985330",
+   "slug": "Sanhua-Ycq-Series",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3985330/Sanhua-Ycq-Series.html"
+  },
+  {
+   "manualId": "3478477",
+   "slug": "Sanhua-Ycqb-Series",
+   "title": "instructions manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3478477/Sanhua-Ycqb-Series.html"
+  },
+  {
+   "manualId": "4141406",
+   "slug": "Sanhua-Ebv-Series",
+   "title": "instructions manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4141406/Sanhua-Ebv-Series.html"
+  },
+  {
+   "manualId": "3644886",
+   "slug": "Sanhua-Vsd2001",
+   "title": "Quick reference manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3644886/Sanhua-Vsd2001.html"
+  },
+  {
+   "manualId": "2019987",
+   "slug": "Sanhua-Eev-Sec61-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2019987/Sanhua-Eev-Sec61-Series.html"
+  },
+  {
+   "manualId": "3068089",
+   "slug": "Sanhua-Ps01-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3068089/Sanhua-Ps01-Series.html"
+  },
+  {
+   "manualId": "4225513",
+   "slug": "Sanhua-Cbvt",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4225513/Sanhua-Cbvt.html"
+  },
+  {
+   "manualId": "3742733",
+   "slug": "Sanhua-Revo-Se",
+   "title": "Revo SE instructions manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "Revo SE",
+   "extraModels": [
+    "SECR06"
+   ],
+   "url": "https://www.manualslib.com/manual/3742733/Sanhua-Revo-Se.html"
+  },
+  {
+   "manualId": "3738762",
+   "slug": "Sanhua-Revo-Series",
+   "title": "Revo Series instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Revo Series",
+   "extraModels": [
+    "SECR03-R2"
+   ],
+   "url": "https://www.manualslib.com/manual/3738762/Sanhua-Revo-Series.html"
+  },
+  {
+   "manualId": "3738766",
+   "slug": "Sanhua-Revo-Series",
+   "title": "Revo Series instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Revo Series",
+   "extraModels": [
+    "SECR05-P1"
+   ],
+   "url": "https://www.manualslib.com/manual/3738766/Sanhua-Revo-Series.html"
+  },
+  {
+   "manualId": "3083353",
+   "slug": "Sanhua-Lpf-Series",
+   "title": "Sanhua LPF Series Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3083353/Sanhua-Lpf-Series.html"
+  },
+  {
+   "manualId": "1971295",
+   "slug": "Sanhua-Mdf-Series",
+   "title": "Sanhua MDF Series Instructions",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1971295/Sanhua-Mdf-Series.html"
+  },
+  {
+   "manualId": "2306097",
+   "slug": "Sanhua-Mdf-Series",
+   "title": "Sanhua MDF Series Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2306097/Sanhua-Mdf-Series.html"
+  },
+  {
+   "manualId": "3110874",
+   "slug": "Sanhua-Pev0",
+   "title": "Sanhua PEV0 Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3110874/Sanhua-Pev0.html"
+  },
+  {
+   "manualId": "3088985",
+   "slug": "Sanhua-Rfgb-Series",
+   "title": "Sanhua RFGB Series Instructions",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3088985/Sanhua-Rfgb-Series.html"
+  },
+  {
+   "manualId": "2029441",
+   "slug": "Sanhua-Rfgd-Series",
+   "title": "Sanhua RFGD Series Instructions",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2029441/Sanhua-Rfgd-Series.html"
+  },
+  {
+   "manualId": "2407669",
+   "slug": "Sanhua-Rfgd-Series",
+   "title": "Sanhua RFGD Series Instructions",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2407669/Sanhua-Rfgd-Series.html"
+  },
+  {
+   "manualId": "3088979",
+   "slug": "Sanhua-Rfgd-Series",
+   "title": "Sanhua RFGD Series Instructions",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3088979/Sanhua-Rfgd-Series.html"
+  },
+  {
+   "manualId": "2310054",
+   "slug": "Sanhua-Rfka-Series",
+   "title": "Sanhua RFKA Series Instructions",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2310054/Sanhua-Rfka-Series.html"
+  },
+  {
+   "manualId": "1510691",
+   "slug": "Sanhua-Rfkh-Series",
+   "title": "Sanhua RFKH series Instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1510691/Sanhua-Rfkh-Series.html"
+  },
+  {
+   "manualId": "2118967",
+   "slug": "Sanhua-Sbv-Series",
+   "title": "Sanhua SBV Series Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2118967/Sanhua-Sbv-Series.html"
+  },
+  {
+   "manualId": "2306162",
+   "slug": "Sanhua-Sbv-Series",
+   "title": "Sanhua SBV Series Instructions",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2306162/Sanhua-Sbv-Series.html"
+  },
+  {
+   "manualId": "1947348",
+   "slug": "Sanhua-Txv-Series",
+   "title": "Sanhua TXV Series Technical Information",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1947348/Sanhua-Txv-Series.html"
+  },
+  {
+   "manualId": "3477998",
+   "slug": "Sanhua-Txvh-Series",
+   "title": "Sanhua TXVH Series Instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3477998/Sanhua-Txvh-Series.html"
+  },
+  {
+   "manualId": "2620248",
+   "slug": "Sanhua-Vpf-Series",
+   "title": "Sanhua VPF Series Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2620248/Sanhua-Vpf-Series.html"
+  },
+  {
+   "manualId": "2980588",
+   "slug": "Sanhua-Sd2-Series",
+   "title": "SD2 Series user manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "SD2 Series",
+   "extraModels": [
+    "SD2011A2",
+    "SD2015A2",
+    "SD2015B4",
+    "SD2020A2",
+    "SD2020B4",
+    "SD2025B4",
+    "SD2032B4"
+   ],
+   "url": "https://www.manualslib.com/manual/2980588/Sanhua-Sd2-Series.html"
+  },
+  {
+   "manualId": "3484771",
+   "slug": "Sanhua-Sec-R03-Series",
+   "title": "SEC R03 Series instructions manual",
+   "type": "User / Owner",
+   "pages": 31,
+   "productModel": "SEC R03 Series",
+   "extraModels": [
+    "SECR03-R0"
+   ],
+   "url": "https://www.manualslib.com/manual/3484771/Sanhua-Sec-R03-Series.html"
+  },
+  {
+   "manualId": "1995103",
+   "slug": "Sanhua-Sec-Series",
+   "title": "SEC Series Manual/Installation Instructions",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "SEC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1995103/Sanhua-Sec-Series.html"
+  },
+  {
+   "manualId": "1887752",
+   "slug": "Sanhua-Sec60-Series",
+   "title": "SEC60 Series Manual and installation instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "SEC60 Series",
+   "extraModels": [
+    "SEC601",
+    "SEC602",
+    "SEC605",
+    "SEC606"
+   ],
+   "url": "https://www.manualslib.com/manual/1887752/Sanhua-Sec60-Series.html"
+  },
+  {
+   "manualId": "2022480",
+   "slug": "Sanhua-Sec61x-Series",
+   "title": "SEC613-R4 Product data",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "SEC613-R4",
+   "extraModels": [
+    "SEC613-R4",
+    "SEC614-R4"
+   ],
+   "url": "https://www.manualslib.com/manual/2022480/Sanhua-Sec61x-Series.html"
+  },
+  {
+   "manualId": "4223468",
+   "slug": "Sanhua-Sec616-R4",
+   "title": "SEC616-R4 user manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "SEC616-R4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4223468/Sanhua-Sec616-R4.html"
+  },
+  {
+   "manualId": "3404023",
+   "slug": "Sanhua-Sec6x1-Hd",
+   "title": "SEC6X1-HD Quick installation manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "SEC6X1-HD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3404023/Sanhua-Sec6x1-Hd.html"
+  },
+  {
+   "manualId": "3485845",
+   "slug": "Sanhua-Sek-Series",
+   "title": "SEK Series installation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "SEK Series",
+   "extraModels": [
+    "SEK Series EEV Kit"
+   ],
+   "url": "https://www.manualslib.com/manual/3485845/Sanhua-Sek-Series.html"
+  },
+  {
+   "manualId": "4331684",
+   "slug": "Sanhua-Vsd1002",
+   "title": "VSD1002 installation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "VSD1002",
+   "extraModels": [
+    "VSD1002P"
+   ],
+   "url": "https://www.manualslib.com/manual/4331684/Sanhua-Vsd1002.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "sanhua"
+ ]
+}

@@ -1,0 +1,873 @@
+{
+ "brand": "WaterFurnace",
+ "brandSlug": "waterfurnace",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/waterfurnace/"
+ ],
+ "slugUsed": "waterfurnace",
+ "capturedAt": "2026-10-28T09:50:27.737402+00:00",
+ "typePages": [
+  {
+   "path": "/brand/waterfurnace/air-conditioner.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/waterfurnace/air-handlers.html",
+   "manuals": 25,
+   "status": 200
+  },
+  {
+   "path": "/brand/waterfurnace/chiller.html",
+   "manuals": 35,
+   "status": 200
+  },
+  {
+   "path": "/brand/waterfurnace/control-unit.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/waterfurnace/furnace.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/waterfurnace/heat-pump.html",
+   "manuals": 112,
+   "status": 200
+  },
+  {
+   "path": "/brand/waterfurnace/heating-system.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/waterfurnace/temperature-controller.html",
+   "manuals": 32,
+   "status": 200
+  },
+  {
+   "path": "/brand/waterfurnace/thermostat.html",
+   "manuals": 14,
+   "status": 200
+  },
+  {
+   "path": "/brand/waterfurnace/water-pump.html",
+   "manuals": 9,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3666352",
+   "slug": "Waterfurnace-5-Series-3d-036",
+   "title": "5 Series 3D 036 installation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "5 Series 3D 036",
+   "extraModels": [
+    "5 Series 3D 036",
+    "5 Series 3D 048",
+    "5 Series 3D 060",
+    "5 Series 3D 072"
+   ],
+   "url": "https://www.manualslib.com/manual/3666352/Waterfurnace-5-Series-3d-036.html"
+  },
+  {
+   "manualId": "1545803",
+   "slug": "Waterfurnace-5-Series-504w11-Optiheat",
+   "title": "5 Series 504W11 OptiHeat installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "5 Series 504W11 OptiHeat",
+   "extraModels": [
+    "5 Series 504W11 OptiHeat"
+   ],
+   "url": "https://www.manualslib.com/manual/1545803/Waterfurnace-5-Series-504w11-Optiheat.html"
+  },
+  {
+   "manualId": "2366168",
+   "slug": "Waterfurnace-5-Series",
+   "title": "5 Series installation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "5 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2366168/Waterfurnace-5-Series.html"
+  },
+  {
+   "manualId": "3044287",
+   "slug": "Waterfurnace-506a11",
+   "title": "5 Series installation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "5 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3044287/Waterfurnace-506a11.html"
+  },
+  {
+   "manualId": "3486683",
+   "slug": "Waterfurnace-5-Series",
+   "title": "5 Series installation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "5 Series",
+   "extraModels": [
+    "500A11"
+   ],
+   "url": "https://www.manualslib.com/manual/3486683/Waterfurnace-5-Series.html"
+  },
+  {
+   "manualId": "3609911",
+   "slug": "Waterfurnace-5-Series",
+   "title": "5 Series installation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "5 Series",
+   "extraModels": [
+    "500RO11"
+   ],
+   "url": "https://www.manualslib.com/manual/3609911/Waterfurnace-5-Series.html"
+  },
+  {
+   "manualId": "4635955",
+   "slug": "Waterfurnace-5-Series",
+   "title": "5 Series installation manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "5 Series",
+   "extraModels": [
+    "500R11"
+   ],
+   "url": "https://www.manualslib.com/manual/4635955/Waterfurnace-5-Series.html"
+  },
+  {
+   "manualId": "4639553",
+   "slug": "Waterfurnace-5-Series",
+   "title": "5 Series Manual",
+   "type": "Other",
+   "pages": 82,
+   "productModel": "5 Series",
+   "extraModels": [
+    "024",
+    "036",
+    "048",
+    "060",
+    "066",
+    "500R11"
+   ],
+   "url": "https://www.manualslib.com/manual/4639553/Waterfurnace-5-Series.html"
+  },
+  {
+   "manualId": "4639559",
+   "slug": "Waterfurnace-5-Series",
+   "title": "5 Series Manual",
+   "type": "Other",
+   "pages": 74,
+   "productModel": "5 Series",
+   "extraModels": [
+    "120",
+    "180"
+   ],
+   "url": "https://www.manualslib.com/manual/4639559/Waterfurnace-5-Series.html"
+  },
+  {
+   "manualId": "3486702",
+   "slug": "Waterfurnace-5-Series",
+   "title": "5 Series Operation & maintenance manual",
+   "type": "Service",
+   "pages": 100,
+   "productModel": "5 Series",
+   "extraModels": [
+    "500A11"
+   ],
+   "url": "https://www.manualslib.com/manual/3486702/Waterfurnace-5-Series.html"
+  },
+  {
+   "manualId": "4031201",
+   "slug": "Waterfurnace-5-Series",
+   "title": "5 Series Operation & maintenance manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "5 Series",
+   "extraModels": [
+    "500RO11",
+    "5BM024",
+    "5BM036",
+    "5BM048",
+    "5BM060",
+    "5BM066"
+   ],
+   "url": "https://www.manualslib.com/manual/4031201/Waterfurnace-5-Series.html"
+  },
+  {
+   "manualId": "3885425",
+   "slug": "Waterfurnace-500w11",
+   "title": "500W11 installation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "500W11",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3885425/Waterfurnace-500w11.html"
+  },
+  {
+   "manualId": "1922397",
+   "slug": "Waterfurnace-7-Series",
+   "title": "7 Series installation manual",
+   "type": "Installation",
+   "pages": 82,
+   "productModel": "7 Series",
+   "extraModels": [
+    "700R11"
+   ],
+   "url": "https://www.manualslib.com/manual/1922397/Waterfurnace-7-Series.html"
+  },
+  {
+   "manualId": "2724299",
+   "slug": "Waterfurnace-700a11",
+   "title": "7 Series installation manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "7 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2724299/Waterfurnace-700a11.html"
+  },
+  {
+   "manualId": "811528",
+   "slug": "Waterfurnace-700a11-7-Series",
+   "title": "700A11 7 Series installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "700A11 7 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/811528/Waterfurnace-700a11-7-Series.html"
+  },
+  {
+   "manualId": "1537128",
+   "slug": "Waterfurnace-At022c-D",
+   "title": "AT019D Installation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "AT019D",
+   "extraModels": [
+    "AT019D",
+    "AT028D",
+    "AT034D",
+    "AT040D",
+    "AT046D",
+    "AT056D",
+    "AT066D"
+   ],
+   "url": "https://www.manualslib.com/manual/1537128/Waterfurnace-At022c-D.html"
+  },
+  {
+   "manualId": "2765293",
+   "slug": "Waterfurnace-Aurora",
+   "title": "Aurora Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "Aurora",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2765293/Waterfurnace-Aurora.html"
+  },
+  {
+   "manualId": "2209861",
+   "slug": "Waterfurnace-E-Series",
+   "title": "E Series installation manual",
+   "type": "Installation",
+   "pages": 45,
+   "productModel": "E Series",
+   "extraModels": [
+    "EKW Series",
+    "EKW06",
+    "EKW08",
+    "EKW12",
+    "EKW17"
+   ],
+   "url": "https://www.manualslib.com/manual/2209861/Waterfurnace-E-Series.html"
+  },
+  {
+   "manualId": "1534302",
+   "slug": "Waterfurnace-Envision",
+   "title": "Envision installation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "Envision",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1534302/Waterfurnace-Envision.html"
+  },
+  {
+   "manualId": "2108484",
+   "slug": "Waterfurnace-Envision",
+   "title": "Envision installation manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "Envision",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2108484/Waterfurnace-Envision.html"
+  },
+  {
+   "manualId": "817321",
+   "slug": "Waterfurnace-Nsz",
+   "title": "Envision NDZ Series installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Envision NDZ Series",
+   "extraModels": [
+    "Envision NDZ Series",
+    "Envision NSZ Series"
+   ],
+   "url": "https://www.manualslib.com/manual/817321/Waterfurnace-Nsz.html"
+  },
+  {
+   "manualId": "1537129",
+   "slug": "Waterfurnace-Envision-Nrac026",
+   "title": "Envision NHAC026 installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Envision NHAC026",
+   "extraModels": [
+    "Envision NHAC026",
+    "Envision NRAC036C",
+    "Envision NRAC048",
+    "Envision NRAC060C"
+   ],
+   "url": "https://www.manualslib.com/manual/1537129/Waterfurnace-Envision-Nrac026.html"
+  },
+  {
+   "manualId": "3846941",
+   "slug": "Waterfurnace-Envision-Nsw060-Series",
+   "title": "Envision NSW060 series Installation information",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Envision NSW060 series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3846941/Waterfurnace-Envision-Nsw060-Series.html"
+  },
+  {
+   "manualId": "1265106",
+   "slug": "Waterfurnace-Envision2-Compact",
+   "title": "Envision2 Compact installation manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "Envision2 Compact",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1265106/Waterfurnace-Envision2-Compact.html"
+  },
+  {
+   "manualId": "1947268",
+   "slug": "Waterfurnace-Geolink-Fc1-Gl",
+   "title": "GeoLink FC1-FPT installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "GeoLink FC1-FPT",
+   "extraModels": [
+    "GeoLink FC1-FPT",
+    "GeoLink FC1-FPTB",
+    "GeoLink FC2-FPT",
+    "GeoLink FC2-FPTB",
+    "GeoLink FC2-GL",
+    "GeoLink LFC-F"
+   ],
+   "url": "https://www.manualslib.com/manual/1947268/Waterfurnace-Geolink-Fc1-Gl.html"
+  },
+  {
+   "manualId": "627574",
+   "slug": "Waterfurnace-Geothermal-Heating-And-Cooling-System",
+   "title": "Geothermal heating and cooling system owner's manual",
+   "type": "User / Owner",
+   "pages": 66,
+   "productModel": "Geothermal heating and cooling system",
+   "extraModels": [
+    "Geothermal heating and cooling system"
+   ],
+   "url": "https://www.manualslib.com/manual/627574/Waterfurnace-Geothermal-Heating-And-Cooling-System.html"
+  },
+  {
+   "manualId": "2132881",
+   "slug": "Waterfurnace-Intellizone2-Bacnet",
+   "title": "IntelliZone2 BACnet installation manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "IntelliZone2 BACnet",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2132881/Waterfurnace-Intellizone2-Bacnet.html"
+  },
+  {
+   "manualId": "1917847",
+   "slug": "Waterfurnace-Intellizone2",
+   "title": "IntelliZone2 MasterStat installation manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "IntelliZone2 MasterStat",
+   "extraModels": [
+    "IntelliZone2 MasterStat",
+    "IntelliZone2 Relay Board",
+    "IntelliZone2 SensorStat",
+    "IntelliZone2 SensorStat-Remote-Kit",
+    "IntelliZone2 TPCC32U01",
+    "SensorStat-Remote-Kit",
+    "TPCC32U01"
+   ],
+   "url": "https://www.manualslib.com/manual/1917847/Waterfurnace-Intellizone2.html"
+  },
+  {
+   "manualId": "2065122",
+   "slug": "Waterfurnace-Intellizone2-Masterstat",
+   "title": "IntelliZone2 MasterStat User Information",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "IntelliZone2 MasterStat",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2065122/Waterfurnace-Intellizone2-Masterstat.html"
+  },
+  {
+   "manualId": "1478718",
+   "slug": "Waterfurnace-Intellizone2-Zonestat",
+   "title": "IntelliZone2 SensorStat Instruction manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "IntelliZone2 SensorStat",
+   "extraModels": [
+    "IntelliZone2 SensorStat"
+   ],
+   "url": "https://www.manualslib.com/manual/1478718/Waterfurnace-Intellizone2-Zonestat.html"
+  },
+  {
+   "manualId": "1225817",
+   "slug": "Waterfurnace-Intellizone2",
+   "title": "IntelliZone2 ZoneStat installation manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "IntelliZone2 ZoneStat",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1225817/Waterfurnace-Intellizone2.html"
+  },
+  {
+   "manualId": "3825637",
+   "slug": "Waterfurnace-Ndz",
+   "title": "NDZ installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "NDZ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3825637/Waterfurnace-Ndz.html"
+  },
+  {
+   "manualId": "1101019",
+   "slug": "Waterfurnace-Om1500mw",
+   "title": "OM1500MW owner's manual",
+   "type": "User / Owner",
+   "pages": 38,
+   "productModel": "OM1500MW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1101019/Waterfurnace-Om1500mw.html"
+  },
+  {
+   "manualId": "838685",
+   "slug": "Waterfurnace-Om2005a",
+   "title": "OM2005A owner's manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "OM2005A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/838685/Waterfurnace-Om2005a.html"
+  },
+  {
+   "manualId": "4108889",
+   "slug": "Waterfurnace-Optiheat-5-Series",
+   "title": "OptiHeat 5 Series installation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "OptiHeat 5 Series",
+   "extraModels": [
+    "OptiHeat 504W11"
+   ],
+   "url": "https://www.manualslib.com/manual/4108889/Waterfurnace-Optiheat-5-Series.html"
+  },
+  {
+   "manualId": "3854052",
+   "slug": "Waterfurnace-Premier-2",
+   "title": "Premier 2 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Premier 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3854052/Waterfurnace-Premier-2.html"
+  },
+  {
+   "manualId": "817043",
+   "slug": "Waterfurnace-Premier2",
+   "title": "Premier2 owner's manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "Premier2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/817043/Waterfurnace-Premier2.html"
+  },
+  {
+   "manualId": "1524792",
+   "slug": "Waterfurnace-Spectra-Sx-Series",
+   "title": "SPECTRA SX Series installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "SPECTRA SX Series",
+   "extraModels": [
+    "SPECTRA SX010",
+    "SPECTRA SX013",
+    "SPECTRA SX016",
+    "SPECTRA SX019",
+    "SPECTRA SX024",
+    "SPECTRA SX024-030",
+    "SPECTRA SX030",
+    "SPECTRA SX036",
+    "SPECTRA SX042",
+    "SPECTRA SX042-048",
+    "SPECTRA SX048",
+    "SPECTRA SX058",
+    "SPECTRA SX068",
+    "SPECTRA SXH010-013",
+    "SPECTRA SXH016-019",
+    "SPECTRA SXH022-034",
+    "SPECTRA SXH042-048"
+   ],
+   "url": "https://www.manualslib.com/manual/1524792/Waterfurnace-Spectra-Sx-Series.html"
+  },
+  {
+   "manualId": "2748207",
+   "slug": "Waterfurnace-Synergy3d",
+   "title": "Synergy3D installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Synergy3D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2748207/Waterfurnace-Synergy3d.html"
+  },
+  {
+   "manualId": "946451",
+   "slug": "Waterfurnace-Synergy3d",
+   "title": "Synergy3D Installation manual and owner's manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Synergy3D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/946451/Waterfurnace-Synergy3d.html"
+  },
+  {
+   "manualId": "3319006",
+   "slug": "Waterfurnace-Truclimate-500",
+   "title": "T5HS020SN2 installation manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "T5HS020SN2",
+   "extraModels": [
+    "T5HS020SN2",
+    "T5HS030LN2",
+    "T5HS030SN2",
+    "T5HS040SN2",
+    "T5HS050LN2",
+    "T5HS050SN2",
+    "T5HS060SN2",
+    "T5HS070SN2",
+    "T5HS080SN2",
+    "T5RS020SN2",
+    "T5RS030LN2",
+    "T5RS030SN2",
+    "T5RS040SN2",
+    "T5RS050LN2",
+    "T5RS050SN2",
+    "T5RS060SN2",
+    "T5RS070SN2",
+    "T5RS080SN2"
+   ],
+   "url": "https://www.manualslib.com/manual/3319006/Waterfurnace-Truclimate-500.html"
+  },
+  {
+   "manualId": "1424111",
+   "slug": "Waterfurnace-Tpcc32u01",
+   "title": "TPCC32U01 Instruction manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "TPCC32U01",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1424111/Waterfurnace-Tpcc32u01.html"
+  },
+  {
+   "manualId": "963051",
+   "slug": "Waterfurnace-Tpcm32u03",
+   "title": "TPCM32U03 Instruction manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "TPCM32U03",
+   "extraModels": [
+    "TPCM32U04"
+   ],
+   "url": "https://www.manualslib.com/manual/963051/Waterfurnace-Tpcm32u03.html"
+  },
+  {
+   "manualId": "3483475",
+   "slug": "Waterfurnace-Truclimate-100",
+   "title": "TruClimate 100 installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "TruClimate 100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3483475/Waterfurnace-Truclimate-100.html"
+  },
+  {
+   "manualId": "3646368",
+   "slug": "Waterfurnace-Truclimate-100",
+   "title": "TruClimate 100 installation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "TruClimate 100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3646368/Waterfurnace-Truclimate-100.html"
+  },
+  {
+   "manualId": "3000091",
+   "slug": "Waterfurnace-Truclimate-300",
+   "title": "TruClimate 300 installation manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "TruClimate 300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3000091/Waterfurnace-Truclimate-300.html"
+  },
+  {
+   "manualId": "3408092",
+   "slug": "Waterfurnace-Truclimate-300",
+   "title": "TruClimate 500 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 82,
+   "productModel": "TruClimate 500",
+   "extraModels": [
+    "TruClimate 500",
+    "TruClimate 700"
+   ],
+   "url": "https://www.manualslib.com/manual/3408092/Waterfurnace-Truclimate-300.html"
+  },
+  {
+   "manualId": "3110721",
+   "slug": "Waterfurnace-Truclimate-700",
+   "title": "TruClimate 700 installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "TruClimate 700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3110721/Waterfurnace-Truclimate-700.html"
+  },
+  {
+   "manualId": "3364835",
+   "slug": "Waterfurnace-Truclimate-700",
+   "title": "TruClimate 700 installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "TruClimate 700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3364835/Waterfurnace-Truclimate-700.html"
+  },
+  {
+   "manualId": "1534290",
+   "slug": "Waterfurnace-Tp32u03",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1534290/Waterfurnace-Tp32u03.html"
+  },
+  {
+   "manualId": "3577975",
+   "slug": "Waterfurnace-Versatec-300-Series",
+   "title": "Versatec 300 Series Operation & maintenance manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "Versatec 300 Series",
+   "extraModels": [
+    "Versatec 300 WSHP"
+   ],
+   "url": "https://www.manualslib.com/manual/3577975/Waterfurnace-Versatec-300-Series.html"
+  },
+  {
+   "manualId": "3585839",
+   "slug": "Waterfurnace-Versatec-500-084",
+   "title": "Versatec 500 084 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 74,
+   "productModel": "Versatec 500 084",
+   "extraModels": [
+    "Versatec 500 096",
+    "Versatec 500 120",
+    "Versatec 500 150",
+    "Versatec 500 180",
+    "Versatec 500 240",
+    "Versatec 500 300",
+    "Versatec 500 360"
+   ],
+   "url": "https://www.manualslib.com/manual/3585839/Waterfurnace-Versatec-500-084.html"
+  },
+  {
+   "manualId": "3424079",
+   "slug": "Waterfurnace-Versatec-500",
+   "title": "Versatec 500 installation manual",
+   "type": "Installation",
+   "pages": 69,
+   "productModel": "Versatec 500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3424079/Waterfurnace-Versatec-500.html"
+  },
+  {
+   "manualId": "3712089",
+   "slug": "Waterfurnace-Versatec-500",
+   "title": "Versatec 500 installation manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "Versatec 500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3712089/Waterfurnace-Versatec-500.html"
+  },
+  {
+   "manualId": "4078022",
+   "slug": "Waterfurnace-Versatec-500-Series",
+   "title": "Versatec 500 Series installation manual",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "Versatec 500 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4078022/Waterfurnace-Versatec-500-Series.html"
+  },
+  {
+   "manualId": "3583902",
+   "slug": "Waterfurnace-Versatec-500-Series",
+   "title": "Versatec 500 Series Operation & maintenance manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "Versatec 500 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3583902/Waterfurnace-Versatec-500-Series.html"
+  },
+  {
+   "manualId": "3724554",
+   "slug": "Waterfurnace-Versatec-700",
+   "title": "Versatec 700 Application, Operation & Maintenance",
+   "type": "Service",
+   "pages": 86,
+   "productModel": "Versatec 700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3724554/Waterfurnace-Versatec-700.html"
+  },
+  {
+   "manualId": "2516009",
+   "slug": "Waterfurnace-Versatec-700",
+   "title": "Versatec 700 installation manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "Versatec 700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2516009/Waterfurnace-Versatec-700.html"
+  },
+  {
+   "manualId": "3681800",
+   "slug": "Waterfurnace-Versatec-700",
+   "title": "Versatec 700 installation manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "Versatec 700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3681800/Waterfurnace-Versatec-700.html"
+  },
+  {
+   "manualId": "3712919",
+   "slug": "Waterfurnace-Versatec-700-Indoor-Doas-180",
+   "title": "Versatec 700 installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "Versatec 700",
+   "extraModels": [
+    "Versatec 700 Indoor DOAS 120",
+    "Versatec 700 Indoor DOAS 180"
+   ],
+   "url": "https://www.manualslib.com/manual/3712919/Waterfurnace-Versatec-700-Indoor-Doas-180.html"
+  },
+  {
+   "manualId": "3681813",
+   "slug": "Waterfurnace-Versatec-700",
+   "title": "Versatec 700 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 82,
+   "productModel": "Versatec 700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3681813/Waterfurnace-Versatec-700.html"
+  },
+  {
+   "manualId": "3005385",
+   "slug": "Waterfurnace-7-Series",
+   "title": "Waterfurnace 7 Series Manual",
+   "type": "Other",
+   "pages": 42,
+   "productModel": null,
+   "extraModels": [
+    "700R11",
+    "700R11 033",
+    "700R11 042",
+    "700R11 050"
+   ],
+   "url": "https://www.manualslib.com/manual/3005385/Waterfurnace-7-Series.html"
+  },
+  {
+   "manualId": "1369175",
+   "slug": "Waterfurnace-Envision-Nsw018-Series",
+   "title": "Waterfurnace Envision NSW018 series Installation Information",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": null,
+   "extraModels": [
+    "Envision NSW025 series",
+    "Envision NSW040 series",
+    "Envision NSW050 series",
+    "Envision NSW070 series"
+   ],
+   "url": "https://www.manualslib.com/manual/1369175/Waterfurnace-Envision-Nsw018-Series.html"
+  },
+  {
+   "manualId": "1249875",
+   "slug": "Waterfurnace-Nskw06",
+   "title": "Waterfurnace NSKW06 Installation Information",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": null,
+   "extraModels": [
+    "NSKW08",
+    "NSKW12",
+    "NSKW17"
+   ],
+   "url": "https://www.manualslib.com/manual/1249875/Waterfurnace-Nskw06.html"
+  },
+  {
+   "manualId": "1898834",
+   "slug": "Waterfurnace-Wc-Series",
+   "title": "WC Series installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "WC Series",
+   "extraModels": [
+    "WCHVE 175",
+    "WCHVE 225",
+    "WCHVE 275"
+   ],
+   "url": "https://www.manualslib.com/manual/1898834/Waterfurnace-Wc-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "waterfurnace",
+  "waterfurnace-tech-services"
+ ]
+}

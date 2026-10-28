@@ -1,0 +1,47 @@
+{
+ "brand": "Precision Boilers",
+ "brandSlug": "precision-boilers",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/precision-boilers/"
+ ],
+ "slugUsed": "precision-boilers",
+ "capturedAt": "2026-10-28T09:12:00.509336+00:00",
+ "typePages": [
+  {
+   "path": "/brand/precision-boilers/boiler.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3009420",
+   "slug": "Precision-Boilers-Fts-Series",
+   "title": "FTS Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "FTS Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3009420/Precision-Boilers-Fts-Series.html"
+  },
+  {
+   "manualId": "3412622",
+   "slug": "Precision-Boilers-Hvj",
+   "title": "HVJ Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "HVJ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3412622/Precision-Boilers-Hvj.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "precision-boilers"
+ ]
+}

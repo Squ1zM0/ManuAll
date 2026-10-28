@@ -1,0 +1,141 @@
+{
+ "brand": "Fernox",
+ "brandSlug": "fernox",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/fernox/"
+ ],
+ "slugUsed": "fernox",
+ "capturedAt": "2026-10-28T07:07:04.097216+00:00",
+ "typePages": [
+  {
+   "path": "/brand/fernox/cleaning-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/fernox/heating-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/fernox/service-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/fernox/water-filtration-systems.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/fernox/water-pump.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4186059",
+   "slug": "Fernox-Ca1",
+   "title": "CA1 instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "CA1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4186059/Fernox-Ca1.html"
+  },
+  {
+   "manualId": "4179745",
+   "slug": "Fernox-Fd1-Combivalve",
+   "title": "FD1 CombiValve instruction manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "FD1 CombiValve",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4179745/Fernox-Fd1-Combivalve.html"
+  },
+  {
+   "manualId": "4180927",
+   "slug": "Fernox-Fd1-Fill",
+   "title": "FD1 Fill instruction manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "FD1 Fill",
+   "extraModels": [
+    "FD1 Fill+ 10"
+   ],
+   "url": "https://www.manualslib.com/manual/4180927/Fernox-Fd1-Fill.html"
+  },
+  {
+   "manualId": "2297428",
+   "slug": "Fernox-Mkiii",
+   "title": "MKIII user manual",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "MKIII",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2297428/Fernox-Mkiii.html"
+  },
+  {
+   "manualId": "4564339",
+   "slug": "Fernox-Powerflow-Flushing-Machine-Mkiii",
+   "title": "Powerflow Flushing Machine MKIII user manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "Powerflow Flushing Machine MKIII",
+   "extraModels": [
+    "Powerflow Flushing Machine MKIII"
+   ],
+   "url": "https://www.manualslib.com/manual/4564339/Fernox-Powerflow-Flushing-Machine-Mkiii.html"
+  },
+  {
+   "manualId": "2202444",
+   "slug": "Fernox-Powerflow-Mkiii",
+   "title": "Powerflow MKIII user manual",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "Powerflow MKIII",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2202444/Fernox-Powerflow-Mkiii.html"
+  },
+  {
+   "manualId": "1567723",
+   "slug": "Fernox-Powerflushing-Filter",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1567723/Fernox-Powerflushing-Filter.html"
+  },
+  {
+   "manualId": "1619771",
+   "slug": "Fernox-Total-Filter-Tf1",
+   "title": "Total Filter TF1 instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Total Filter TF1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1619771/Fernox-Total-Filter-Tf1.html"
+  },
+  {
+   "manualId": "1726706",
+   "slug": "Fernox-Tf1",
+   "title": "Total Filter TF1 Quick reference manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Total Filter TF1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1726706/Fernox-Tf1.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "fernox"
+ ]
+}

@@ -1,0 +1,205 @@
+{
+ "brand": "twin city",
+ "brandSlug": "twin-city",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/twin-city/"
+ ],
+ "slugUsed": "twin-city",
+ "capturedAt": "2026-10-28T09:32:43.225876+00:00",
+ "typePages": [
+  {
+   "path": "/brand/twin-city/fan.html",
+   "manuals": 71,
+   "status": 200
+  },
+  {
+   "path": "/brand/twin-city/ventilation-hood.html",
+   "manuals": 18,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2058921",
+   "slug": "Twin-City-Hib",
+   "title": "APF Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "APF",
+   "extraModels": [
+    "APF",
+    "APQ",
+    "BAE",
+    "BAE DWDI",
+    "BAE SWSI",
+    "BAF",
+    "BAF DWDI",
+    "BAF SWSI",
+    "BC",
+    "BC-DW",
+    "BC-SW",
+    "BCN",
+    "BCS",
+    "EPF",
+    "EPQ",
+    "FC",
+    "HRT",
+    "MBO",
+    "MBR",
+    "MBW",
+    "RBA",
+    "RBO",
+    "RBR",
+    "RTF",
+    "TSL"
+   ],
+   "url": "https://www.manualslib.com/manual/2058921/Twin-City-Hib.html"
+  },
+  {
+   "manualId": "1947429",
+   "slug": "Twin-City-Hib",
+   "title": "BAE Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "BAE",
+   "extraModels": [
+    "BAE",
+    "BAF",
+    "BC",
+    "BCLH",
+    "BCLP",
+    "BCN",
+    "BCRD",
+    "BCRD-E",
+    "BCRU",
+    "BCRUR",
+    "BCRUSH",
+    "BCRW",
+    "BCRWR",
+    "BCS",
+    "DCLH",
+    "DCLP",
+    "DCRD",
+    "DCRU",
+    "DCRUR",
+    "DCRW",
+    "DCRWR",
+    "EPF",
+    "EPQ",
+    "FC",
+    "HRT",
+    "MBO",
+    "MBR",
+    "MBW",
+    "RBA",
+    "RBO",
+    "RBR",
+    "RTF",
+    "TSL"
+   ],
+   "url": "https://www.manualslib.com/manual/1947429/Twin-City-Hib.html"
+  },
+  {
+   "manualId": "1227180",
+   "slug": "Twin-City-Es-52",
+   "title": "Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1227180/Twin-City-Es-52.html"
+  },
+  {
+   "manualId": "926982",
+   "slug": "Twin-City-T080",
+   "title": "T080 Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "T080",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/926982/Twin-City-T080.html"
+  },
+  {
+   "manualId": "904780",
+   "slug": "Twin-City-T100",
+   "title": "T100 Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "T100",
+   "extraModels": [
+    "T150",
+    "T200",
+    "T250",
+    "T300"
+   ],
+   "url": "https://www.manualslib.com/manual/904780/Twin-City-T100.html"
+  },
+  {
+   "manualId": "2688937",
+   "slug": "Twin-City-T050",
+   "title": "T100 instructions manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "T100",
+   "extraModels": [
+    "T100",
+    "T150",
+    "T200",
+    "T250",
+    "T300",
+    "T080",
+    "T1500"
+   ],
+   "url": "https://www.manualslib.com/manual/2688937/Twin-City-T050.html"
+  },
+  {
+   "manualId": "3899197",
+   "slug": "Twin-City-T400",
+   "title": "T400 instructions manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "T400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3899197/Twin-City-T400.html"
+  },
+  {
+   "manualId": "3899198",
+   "slug": "Twin-City-T500",
+   "title": "T500 instructions manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "T500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3899198/Twin-City-T500.html"
+  },
+  {
+   "manualId": "3899199",
+   "slug": "Twin-City-T700",
+   "title": "T700 instructions manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "T700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3899199/Twin-City-T700.html"
+  },
+  {
+   "manualId": "3899200",
+   "slug": "Twin-City-T900",
+   "title": "T900 instructions manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "T900",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3899200/Twin-City-T900.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "twin-city-fan"
+ ]
+}

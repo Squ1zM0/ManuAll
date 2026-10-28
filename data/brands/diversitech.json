@@ -1,0 +1,933 @@
+{
+ "brand": "DIVERSITECH",
+ "brandSlug": "diversitech",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/diversitech/"
+ ],
+ "slugUsed": "diversitech",
+ "capturedAt": "2026-10-28T07:00:41.236751+00:00",
+ "typePages": [
+  {
+   "path": "/brand/diversitech/indoor-furnishing.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/air-cleaner.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/air-conditioner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/cleaning-equipment.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/dust-collector.html",
+   "manuals": 19,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/engine.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/fan.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/fireplace-accessories.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/industrial-equipment.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/other.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/outdoor-storage.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/protection-device.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/scrubber.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/security-sensors.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/security-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/switch.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/thermostat.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/vacuum-cleaner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/ventilation-hood.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/water-heater.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/water-pump.html",
+   "manuals": 77,
+   "status": 200
+  },
+  {
+   "path": "/brand/diversitech/welding-accessories.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2462563",
+   "slug": "Diversitech-675-Ts21",
+   "title": "675-TS21 instruction manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "675-TS21",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2462563/Diversitech-675-Ts21.html"
+  },
+  {
+   "manualId": "882823",
+   "slug": "Diversitech-675-Ts32",
+   "title": "675-TS32 instruction manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "675-TS32",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/882823/Diversitech-675-Ts32.html"
+  },
+  {
+   "manualId": "2252250",
+   "slug": "Diversitech-675-Ts32h",
+   "title": "675-TS32H instruction manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "675-TS32H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2252250/Diversitech-675-Ts32h.html"
+  },
+  {
+   "manualId": "2898912",
+   "slug": "Diversitech-Am-Series",
+   "title": "AM Series Operation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "AM Series",
+   "extraModels": [
+    "AM-3000",
+    "AM-4500"
+   ],
+   "url": "https://www.manualslib.com/manual/2898912/Diversitech-Am-Series.html"
+  },
+  {
+   "manualId": "2373066",
+   "slug": "Diversitech-Asurity-Procp-22s",
+   "title": "ASURITY PROCP-22S installation instructions manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "ASURITY PROCP-22S",
+   "extraModels": [
+    "ASURITY PROCP-22S-230",
+    "ASURITY PROCP-22ST",
+    "ASURITY PROCP-22ST-230"
+   ],
+   "url": "https://www.manualslib.com/manual/2373066/Diversitech-Asurity-Procp-22s.html"
+  },
+  {
+   "manualId": "2897809",
+   "slug": "Diversitech-Asurity-Ultracp-22",
+   "title": "Asurity ULTRACP-22 installation instructions manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "Asurity ULTRACP-22",
+   "extraModels": [
+    "Asurity ULTRACP-22-230",
+    "Asurity ULTRACP-22T",
+    "Asurity ULTRACP-22T-230"
+   ],
+   "url": "https://www.manualslib.com/manual/2897809/Diversitech-Asurity-Ultracp-22.html"
+  },
+  {
+   "manualId": "2170049",
+   "slug": "Diversitech-Cp-22",
+   "title": "CP-22 Installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "CP-22",
+   "extraModels": [
+    "CP-22-230",
+    "CP-22LP",
+    "CP-22LP-230",
+    "CP-22T",
+    "CP-22T-230"
+   ],
+   "url": "https://www.manualslib.com/manual/2170049/Diversitech-Cp-22.html"
+  },
+  {
+   "manualId": "1446631",
+   "slug": "Diversitech-Cp-22",
+   "title": "CP-22 Quick reference manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "CP-22",
+   "extraModels": [
+    "CP-22-230",
+    "CP-22LP",
+    "CP-22LP-230",
+    "CP-22T",
+    "CP-22T-230"
+   ],
+   "url": "https://www.manualslib.com/manual/1446631/Diversitech-Cp-22.html"
+  },
+  {
+   "manualId": "1802040",
+   "slug": "Diversitech-Cp-22lp-P",
+   "title": "CP-22LP-230-P Installation manual",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "CP-22LP-230-P",
+   "extraModels": [
+    "CP-22LP-230-P"
+   ],
+   "url": "https://www.manualslib.com/manual/1802040/Diversitech-Cp-22lp-P.html"
+  },
+  {
+   "manualId": "2147782",
+   "slug": "Diversitech-D-Mister",
+   "title": "D MISTER Operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "D MISTER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2147782/Diversitech-D-Mister.html"
+  },
+  {
+   "manualId": "3879892",
+   "slug": "Diversitech-Dd-2x4-Plus-Sss",
+   "title": "DD-2X4 + SSS Operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "DD-2X4 + SSS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3879892/Diversitech-Dd-2x4-Plus-Sss.html"
+  },
+  {
+   "manualId": "3879891",
+   "slug": "Diversitech-Dd-2x4",
+   "title": "DD-2X4 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "DD-2X4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3879891/Diversitech-Dd-2x4.html"
+  },
+  {
+   "manualId": "2209920",
+   "slug": "Diversitech-Dd-Mini",
+   "title": "DD-2X4-EO Operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "DD-2X4-EO",
+   "extraModels": [
+    "DD-2X4-EO",
+    "DD-MINI 4",
+    "DD-MINI-EO"
+   ],
+   "url": "https://www.manualslib.com/manual/2209920/Diversitech-Dd-Mini.html"
+  },
+  {
+   "manualId": "1537515",
+   "slug": "Diversitech-Dd-3x4",
+   "title": "DD-3X4 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "DD-3X4",
+   "extraModels": [
+    "DD-3X8",
+    "DD-4X4",
+    "DD-4X6",
+    "DD-4X8",
+    "DD-5X10"
+   ],
+   "url": "https://www.manualslib.com/manual/1537515/Diversitech-Dd-3x4.html"
+  },
+  {
+   "manualId": "3854065",
+   "slug": "Diversitech-Dd-3x6",
+   "title": "DD-3X6 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "DD-3X6",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3854065/Diversitech-Dd-3x6.html"
+  },
+  {
+   "manualId": "1393912",
+   "slug": "Diversitech-Clearvue",
+   "title": "Diversitech ClearVue System Installation",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1393912/Diversitech-Clearvue.html"
+  },
+  {
+   "manualId": "1658164",
+   "slug": "Diversitech-Cp-16",
+   "title": "Diversitech CP-16 Installation And Safety Instructions",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1658164/Diversitech-Cp-16.html"
+  },
+  {
+   "manualId": "2029872",
+   "slug": "Diversitech-Cp-22",
+   "title": "Diversitech CP-22 Installation And Safety Instructions",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [
+    "CP-22-230",
+    "CP-22LP",
+    "CP-22LP-230",
+    "CP-22T",
+    "CP-22T-230"
+   ],
+   "url": "https://www.manualslib.com/manual/2029872/Diversitech-Cp-22.html"
+  },
+  {
+   "manualId": "2609968",
+   "slug": "Diversitech-Cp-Nl20",
+   "title": "Diversitech CP-NL20 Installation And Safety Instructions",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2609968/Diversitech-Cp-Nl20.html"
+  },
+  {
+   "manualId": "1778593",
+   "slug": "Diversitech-Mini-Split-Cp-M230",
+   "title": "Diversitech Mini-Split CP-M230 Installation",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1778593/Diversitech-Mini-Split-Cp-M230.html"
+  },
+  {
+   "manualId": "3186032",
+   "slug": "Diversitech-Pump-House-Ph-2le",
+   "title": "Diversitech Pump House PH-2LE Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3186032/Diversitech-Pump-House-Ph-2le.html"
+  },
+  {
+   "manualId": "4196487",
+   "slug": "Diversitech-Fh-02",
+   "title": "FH-02 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 39,
+   "productModel": "FH-02",
+   "extraModels": [
+    "FH-04",
+    "FH-06",
+    "FH-09"
+   ],
+   "url": "https://www.manualslib.com/manual/4196487/Diversitech-Fh-02.html"
+  },
+  {
+   "manualId": "1460275",
+   "slug": "Diversitech-Fred-Carbo",
+   "title": "FRED CARBO Operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "FRED CARBO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1460275/Diversitech-Fred-Carbo.html"
+  },
+  {
+   "manualId": "2149845",
+   "slug": "Diversitech-Fred-Eco",
+   "title": "FRED ECO Operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "FRED ECO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2149845/Diversitech-Fred-Eco.html"
+  },
+  {
+   "manualId": "1460268",
+   "slug": "Diversitech-Fred-Jr",
+   "title": "FRED JR Operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "FRED JR",
+   "extraModels": [
+    "FRED SR",
+    "FRED SR1 C",
+    "FRED SR2",
+    "FRED SR2 C",
+    "FRED-JR-T"
+   ],
+   "url": "https://www.manualslib.com/manual/1460268/Diversitech-Fred-Jr.html"
+  },
+  {
+   "manualId": "1666818",
+   "slug": "Diversitech-Fred-Sr2",
+   "title": "FRED SR Operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "FRED SR",
+   "extraModels": [
+    "FRED SR1 C",
+    "FRED SR2 C"
+   ],
+   "url": "https://www.manualslib.com/manual/1666818/Diversitech-Fred-Sr2.html"
+  },
+  {
+   "manualId": "2768366",
+   "slug": "Diversitech-Green",
+   "title": "GREEN owner's manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "GREEN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2768366/Diversitech-Green.html"
+  },
+  {
+   "manualId": "3430415",
+   "slug": "Diversitech-Wagner-Wg840730",
+   "title": "Installation And Safety Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3430415/Diversitech-Wagner-Wg840730.html"
+  },
+  {
+   "manualId": "1457847",
+   "slug": "Diversitech-Cs1200",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1457847/Diversitech-Cs1200.html"
+  },
+  {
+   "manualId": "1550435",
+   "slug": "Diversitech-Ua-1",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1550435/Diversitech-Ua-1.html"
+  },
+  {
+   "manualId": "1678170",
+   "slug": "Diversitech-True-Start-Ign-1f",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1678170/Diversitech-True-Start-Ign-1f.html"
+  },
+  {
+   "manualId": "1720662",
+   "slug": "Diversitech-Condensate-Cop-Cc-1",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1720662/Diversitech-Condensate-Cop-Cc-1.html"
+  },
+  {
+   "manualId": "2013891",
+   "slug": "Diversitech-Tlc-3-10",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2013891/Diversitech-Tlc-3-10.html"
+  },
+  {
+   "manualId": "3180555",
+   "slug": "Diversitech-Asurity-Bg-301Plus",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3180555/Diversitech-Asurity-Bg-301Plus.html"
+  },
+  {
+   "manualId": "3722826",
+   "slug": "Diversitech-Asurity-Connected-Wet-Switch",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3722826/Diversitech-Asurity-Connected-Wet-Switch.html"
+  },
+  {
+   "manualId": "4008037",
+   "slug": "Diversitech-Cvent-3-Ext",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4008037/Diversitech-Cvent-3-Ext.html"
+  },
+  {
+   "manualId": "4093824",
+   "slug": "Diversitech-Asurity-Quietmini-I",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4093824/Diversitech-Asurity-Quietmini-I.html"
+  },
+  {
+   "manualId": "4596438",
+   "slug": "Diversitech-Easy-Fit-Cg-750-Series",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4596438/Diversitech-Easy-Fit-Cg-750-Series.html"
+  },
+  {
+   "manualId": "1436718",
+   "slug": "Diversitech-Bp-46",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1436718/Diversitech-Bp-46.html"
+  },
+  {
+   "manualId": "3186023",
+   "slug": "Diversitech-InstallPlus-Ph-20-Sta",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3186023/Diversitech-InstallPlus-Ph-20-Sta.html"
+  },
+  {
+   "manualId": "3186038",
+   "slug": "Diversitech-InstallPlus-Ph-0-8-Lc",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3186038/Diversitech-InstallPlus-Ph-0-8-Lc.html"
+  },
+  {
+   "manualId": "3236824",
+   "slug": "Diversitech-Ph-2l-Hw",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3236824/Diversitech-Ph-2l-Hw.html"
+  },
+  {
+   "manualId": "4221506",
+   "slug": "Diversitech-Dcp-30v",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4221506/Diversitech-Dcp-30v.html"
+  },
+  {
+   "manualId": "1896998",
+   "slug": "Diversitech-Drainkat-Mbk-6",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1896998/Diversitech-Drainkat-Mbk-6.html"
+  },
+  {
+   "manualId": "3045828",
+   "slug": "Diversitech-Cvent-2-Ext",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3045828/Diversitech-Cvent-2-Ext.html"
+  },
+  {
+   "manualId": "3991122",
+   "slug": "Diversitech-Wet-Switch",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "WS-1"
+   ],
+   "url": "https://www.manualslib.com/manual/3991122/Diversitech-Wet-Switch.html"
+  },
+  {
+   "manualId": "1479460",
+   "slug": "Diversitech-Mini-Vac",
+   "title": "MINI-VAC Operation & maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "MINI-VAC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1479460/Diversitech-Mini-Vac.html"
+  },
+  {
+   "manualId": "2043297",
+   "slug": "Diversitech-Mini-Vac2-010n1",
+   "title": "MINI-VAC2-010N1 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "MINI-VAC2-010N1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2043297/Diversitech-Mini-Vac2-010n1.html"
+  },
+  {
+   "manualId": "3539733",
+   "slug": "Diversitech-Omu-600",
+   "title": "OMU 1000 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "OMU 1000",
+   "extraModels": [
+    "OMU 1000"
+   ],
+   "url": "https://www.manualslib.com/manual/3539733/Diversitech-Omu-600.html"
+  },
+  {
+   "manualId": "3186027",
+   "slug": "Diversitech-Pac-H-12",
+   "title": "PAC-H-12 instruction manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "PAC-H-12",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3186027/Diversitech-Pac-H-12.html"
+  },
+  {
+   "manualId": "1476297",
+   "slug": "Diversitech-Clearvue-Mini",
+   "title": "Quick reference manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1476297/Diversitech-Clearvue-Mini.html"
+  },
+  {
+   "manualId": "4142332",
+   "slug": "Diversitech-Redbox-Series",
+   "title": "REDBOX MINI COMPACT instruction manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "REDBOX MINI COMPACT",
+   "extraModels": [
+    "REDBOX MINI COMPACT"
+   ],
+   "url": "https://www.manualslib.com/manual/4142332/Diversitech-Redbox-Series.html"
+  },
+  {
+   "manualId": "4142299",
+   "slug": "Diversitech-Redbox-Series",
+   "title": "REDBOX MINI SLIM instruction manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "REDBOX MINI SLIM",
+   "extraModels": [
+    "REDBOX MINI SLIM",
+    "REDBOX SLIM"
+   ],
+   "url": "https://www.manualslib.com/manual/4142299/Diversitech-Redbox-Series.html"
+  },
+  {
+   "manualId": "4141578",
+   "slug": "Diversitech-Redbox-Trunk",
+   "title": "REDBOX MINI TRUNK instruction manual",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "REDBOX MINI TRUNK",
+   "extraModels": [
+    "REDBOX MINI TRUNK"
+   ],
+   "url": "https://www.manualslib.com/manual/4141578/Diversitech-Redbox-Trunk.html"
+  },
+  {
+   "manualId": "4140333",
+   "slug": "Diversitech-Redbox-Series",
+   "title": "Redbox mini TUBE instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Redbox mini TUBE",
+   "extraModels": [
+    "Redbox mini TUBE"
+   ],
+   "url": "https://www.manualslib.com/manual/4140333/Diversitech-Redbox-Series.html"
+  },
+  {
+   "manualId": "4142293",
+   "slug": "Diversitech-Redbox-Series",
+   "title": "REDBOX MINI UNIVERSAL instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "REDBOX MINI UNIVERSAL",
+   "extraModels": [
+    "REDBOX MINI UNIVERSAL"
+   ],
+   "url": "https://www.manualslib.com/manual/4142293/Diversitech-Redbox-Series.html"
+  },
+  {
+   "manualId": "4218564",
+   "slug": "Diversitech-Stormtower",
+   "title": "STORMTOWER Operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "STORMTOWER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4218564/Diversitech-Stormtower.html"
+  },
+  {
+   "manualId": "4515928",
+   "slug": "Diversitech-T-Storm-3000",
+   "title": "T-STORM 3000 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "T-STORM 3000",
+   "extraModels": [
+    "T-STORM 4500"
+   ],
+   "url": "https://www.manualslib.com/manual/4515928/Diversitech-T-Storm-3000.html"
+  },
+  {
+   "manualId": "1560178",
+   "slug": "Diversitech-T3500",
+   "title": "T3500 owner's manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "T3500",
+   "extraModels": [
+    "T4500"
+   ],
+   "url": "https://www.manualslib.com/manual/1560178/Diversitech-T3500.html"
+  },
+  {
+   "manualId": "2065980",
+   "slug": "Diversitech-Typhoon-Ty-8000",
+   "title": "Typhoon TY-10000 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Typhoon TY-10000",
+   "extraModels": [
+    "Typhoon TY-10000",
+    "Typhoon TY-12000"
+   ],
+   "url": "https://www.manualslib.com/manual/2065980/Diversitech-Typhoon-Ty-8000.html"
+  },
+  {
+   "manualId": "2004574",
+   "slug": "Diversitech-Typhoon-Wx-Series",
+   "title": "TYPHOON WX Series Operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "TYPHOON WX Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2004574/Diversitech-Typhoon-Wx-Series.html"
+  },
+  {
+   "manualId": "4027807",
+   "slug": "Diversitech-Typhoon-Wx-Series",
+   "title": "TYPHOON WX Series Operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "TYPHOON WX Series",
+   "extraModels": [
+    "WX 1200",
+    "WX 3000",
+    "WX 5000",
+    "WX 6500"
+   ],
+   "url": "https://www.manualslib.com/manual/4027807/Diversitech-Typhoon-Wx-Series.html"
+  },
+  {
+   "manualId": "1653224",
+   "slug": "Diversitech-Diversi-Flush",
+   "title": "Usage Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1653224/Diversitech-Diversi-Flush.html"
+  },
+  {
+   "manualId": "2037527",
+   "slug": "Diversitech-Wb-4000-D",
+   "title": "WB-4000-D Operation & maintenance manual",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "WB-4000-D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2037527/Diversitech-Wb-4000-D.html"
+  },
+  {
+   "manualId": "1504355",
+   "slug": "Diversitech-Ws-1",
+   "title": "WS-1 Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "WS-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1504355/Diversitech-Ws-1.html"
+  },
+  {
+   "manualId": "2876312",
+   "slug": "Diversitech-Asurity-Wet-Switch-Ws-1",
+   "title": "WS-1 Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "WS-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2876312/Diversitech-Asurity-Wet-Switch-Ws-1.html"
+  },
+  {
+   "manualId": "1991222",
+   "slug": "Diversitech-Wet-Switch-Ws-1",
+   "title": "WS-1 Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "WS-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1991222/Diversitech-Wet-Switch-Ws-1.html"
+  },
+  {
+   "manualId": "1939562",
+   "slug": "Diversitech-Wv-55",
+   "title": "WV-55 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "WV-55",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1939562/Diversitech-Wv-55.html"
+  },
+  {
+   "manualId": "3872734",
+   "slug": "Diversitech-Wx-1200",
+   "title": "WX 1200 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "WX 1200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3872734/Diversitech-Wx-1200.html"
+  },
+  {
+   "manualId": "3872735",
+   "slug": "Diversitech-Wx-3000",
+   "title": "WX 3000 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "WX 3000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3872735/Diversitech-Wx-3000.html"
+  },
+  {
+   "manualId": "3872736",
+   "slug": "Diversitech-Wx-5000",
+   "title": "WX 5000 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "WX 5000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3872736/Diversitech-Wx-5000.html"
+  },
+  {
+   "manualId": "3872737",
+   "slug": "Diversitech-Wx-6500",
+   "title": "WX 6500 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "WX 6500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3872737/Diversitech-Wx-6500.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "diversitech"
+ ]
+}

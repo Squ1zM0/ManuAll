@@ -1,0 +1,37 @@
+{
+ "brand": "hydro THERMAL",
+ "brandSlug": "hydro-thermal",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/hydro-thermal/"
+ ],
+ "slugUsed": "hydro-thermal",
+ "capturedAt": "2026-10-28T08:28:06.391107+00:00",
+ "typePages": [
+  {
+   "path": "/brand/hydro-thermal/heater.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2898271",
+   "slug": "Hydro-Thermal-K500",
+   "title": "K500 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 87,
+   "productModel": "K500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2898271/Hydro-Thermal-K500.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "hydro-thermal"
+ ]
+}

@@ -1,0 +1,355 @@
+{
+ "brand": "Adey",
+ "brandSlug": "adey",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/adey/"
+ ],
+ "slugUsed": "adey",
+ "capturedAt": "2026-10-28T06:22:09.230093+00:00",
+ "typePages": [
+  {
+   "path": "/brand/adey/heating-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/adey/industrial-equipment.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/adey/plumbing-product.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/adey/water-filtration-systems.html",
+   "manuals": 48,
+   "status": 200
+  },
+  {
+   "path": "/brand/adey/water-pump.html",
+   "manuals": 12,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1479551",
+   "slug": "Adey-Magnaclean-Micro-2",
+   "title": "Adey MagnaClean Micro 2 Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1479551/Adey-Magnaclean-Micro-2.html"
+  },
+  {
+   "manualId": "1992783",
+   "slug": "Adey-Magnaclean-Micro2",
+   "title": "Adey MagnaClean Micro2 Installation And Servicing",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1992783/Adey-Magnaclean-Micro2.html"
+  },
+  {
+   "manualId": "1565681",
+   "slug": "Adey-Magnaclean-Professional",
+   "title": "Adey MagnaClean Professional Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1565681/Adey-Magnaclean-Professional.html"
+  },
+  {
+   "manualId": "2041686",
+   "slug": "Adey-Magnaclean-Professional2",
+   "title": "Adey MagnaClean Professional2 Installation And Servicing",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2041686/Adey-Magnaclean-Professional2.html"
+  },
+  {
+   "manualId": "2174803",
+   "slug": "Adey-Magnaclean-Professional2xp",
+   "title": "Adey MagnaClean Professional2XP Installation And Servicing",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2174803/Adey-Magnaclean-Professional2xp.html"
+  },
+  {
+   "manualId": "1479557",
+   "slug": "Adey-Magnaclean-Professional2xp",
+   "title": "Adey MagnaClean Professional2XP Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1479557/Adey-Magnaclean-Professional2xp.html"
+  },
+  {
+   "manualId": "1532556",
+   "slug": "Adey-Magnaclean-Professional3-Sense",
+   "title": "Adey MagnaClean Professional3 Sense Installation And Servicing",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1532556/Adey-Magnaclean-Professional3-Sense.html"
+  },
+  {
+   "manualId": "3137339",
+   "slug": "Adey-Magnaclean-Professional3-Sense",
+   "title": "Adey MagnaClean Professional3 Sense Installation And Servicing",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3137339/Adey-Magnaclean-Professional3-Sense.html"
+  },
+  {
+   "manualId": "4365283",
+   "slug": "Adey-Magnascale-2",
+   "title": "Adey MagnaScale 2 Installation And Servicing",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4365283/Adey-Magnascale-2.html"
+  },
+  {
+   "manualId": "2012885",
+   "slug": "Adey-Midi-135",
+   "title": "CP1-03-04913 Installation And Servicing",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "CP1-03-04913",
+   "extraModels": [
+    "CP1-03-04913",
+    "CP1-03-04914",
+    "CP1-03-04915",
+    "CP1-03-04916",
+    "Midi 150",
+    "Midi 235",
+    "Midi 250"
+   ],
+   "url": "https://www.manualslib.com/manual/2012885/Adey-Midi-135.html"
+  },
+  {
+   "manualId": "3083519",
+   "slug": "Adey-Magnaclean-Cmx-Midi-Pro-Assist",
+   "title": "FL1-03-06631 Installation And Servicing",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "FL1-03-06631",
+   "extraModels": [
+    "FL1-03-06631",
+    "FL1-03-06632"
+   ],
+   "url": "https://www.manualslib.com/manual/3083519/Adey-Magnaclean-Cmx-Midi-Pro-Assist.html"
+  },
+  {
+   "manualId": "1744407",
+   "slug": "Adey-Electroscale",
+   "title": "Installation And Servicing",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1744407/Adey-Electroscale.html"
+  },
+  {
+   "manualId": "1836333",
+   "slug": "Adey-Magnaclean-Cp1-03-01123",
+   "title": "Installation And Servicing",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1836333/Adey-Magnaclean-Cp1-03-01123.html"
+  },
+  {
+   "manualId": "4092598",
+   "slug": "Adey-Magnaclean-Atomsc",
+   "title": "Installation And Servicing",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4092598/Adey-Magnaclean-Atomsc.html"
+  },
+  {
+   "manualId": "1489824",
+   "slug": "Adey-Magnaclean-Micro-2",
+   "title": "Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1489824/Adey-Magnaclean-Micro-2.html"
+  },
+  {
+   "manualId": "1532555",
+   "slug": "Adey-Magnaclean-Atom",
+   "title": "MagnaClean Atom Installation And Servicing",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "MagnaClean Atom",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1532555/Adey-Magnaclean-Atom.html"
+  },
+  {
+   "manualId": "2942477",
+   "slug": "Adey-Magnaclean-Atom",
+   "title": "MagnaClean Atom Installation And Servicing",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "MagnaClean Atom",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2942477/Adey-Magnaclean-Atom.html"
+  },
+  {
+   "manualId": "4365308",
+   "slug": "Adey-Magnaclean-Atom",
+   "title": "MagnaClean Atom Installation And Servicing",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "MagnaClean Atom",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4365308/Adey-Magnaclean-Atom.html"
+  },
+  {
+   "manualId": "2499097",
+   "slug": "Adey-Magnaclean-Cmx",
+   "title": "MagnaClean CMX Installation And Servicing",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "MagnaClean CMX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2499097/Adey-Magnaclean-Cmx.html"
+  },
+  {
+   "manualId": "4531177",
+   "slug": "Adey-Magnaclean-Drx",
+   "title": "MagnaClean DRX Installation And Servicing",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "MagnaClean DRX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4531177/Adey-Magnaclean-Drx.html"
+  },
+  {
+   "manualId": "3351506",
+   "slug": "Adey-Magnaclean-Hp",
+   "title": "MagnaClean HP Installation And Servicing",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "MagnaClean HP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3351506/Adey-Magnaclean-Hp.html"
+  },
+  {
+   "manualId": "3762130",
+   "slug": "Adey-Magnaclean-Hp",
+   "title": "MagnaClean HP Installation And Servicing",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "MagnaClean HP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3762130/Adey-Magnaclean-Hp.html"
+  },
+  {
+   "manualId": "3408527",
+   "slug": "Adey-Magnaclean-Micro2",
+   "title": "MagnaClean Micro2 Installation and servicing",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "MagnaClean Micro2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3408527/Adey-Magnaclean-Micro2.html"
+  },
+  {
+   "manualId": "3315387",
+   "slug": "Adey-Magnaclean-Micro3-Sense",
+   "title": "MagnaClean Micro3 Sense Installation And Servicing",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "MagnaClean Micro3 Sense",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3315387/Adey-Magnaclean-Micro3-Sense.html"
+  },
+  {
+   "manualId": "4088375",
+   "slug": "Adey-Magnacleanse-2",
+   "title": "MagnaCleanse 2 Assembly manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "MagnaCleanse 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4088375/Adey-Magnacleanse-2.html"
+  },
+  {
+   "manualId": "4088357",
+   "slug": "Adey-Magnacleanse-2",
+   "title": "MagnaCleanse 2 user manual",
+   "type": "User / Owner",
+   "pages": 70,
+   "productModel": "MagnaCleanse 2",
+   "extraModels": [
+    "MagnaCleanse RapidFlush",
+    "VibraClean"
+   ],
+   "url": "https://www.manualslib.com/manual/4088357/Adey-Magnacleanse-2.html"
+  },
+  {
+   "manualId": "1999551",
+   "slug": "Adey-Magnacleanse",
+   "title": "MagnaCleanse user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "MagnaCleanse",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1999551/Adey-Magnacleanse.html"
+  },
+  {
+   "manualId": "2877987",
+   "slug": "Adey-Magnacleanse",
+   "title": "MagnaCleanse user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "MagnaCleanse",
+   "extraModels": [
+    "MagnaCleanse RapidFlush"
+   ],
+   "url": "https://www.manualslib.com/manual/2877987/Adey-Magnacleanse.html"
+  },
+  {
+   "manualId": "3132372",
+   "slug": "Adey-Mini-130",
+   "title": "Mini 130 Installation And Servicing",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "Mini 130",
+   "extraModels": [
+    "Mini 230"
+   ],
+   "url": "https://www.manualslib.com/manual/3132372/Adey-Mini-130.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "adey"
+ ]
+}

@@ -1,0 +1,1794 @@
+{
+ "brand": "Crown Boiler",
+ "brandSlug": "crown-boiler",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/crown-boiler/"
+ ],
+ "slugUsed": "crown-boiler",
+ "capturedAt": "2026-10-28T06:45:24.832371+00:00",
+ "typePages": [
+  {
+   "path": "/brand/crown-boiler/accessories.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/crown-boiler/boiler.html",
+   "manuals": 719,
+   "status": 200
+  },
+  {
+   "path": "/brand/crown-boiler/boiler-supplies.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/crown-boiler/furnace.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/crown-boiler/voice-recorder.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/crown-boiler/water-heater.html",
+   "manuals": 27,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3950672",
+   "slug": "Crown-Boiler-300",
+   "title": "1000 installation instructions manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "1000",
+   "extraModels": [
+    "1000",
+    "1100",
+    "1200",
+    "1300",
+    "1400",
+    "1500",
+    "1600",
+    "1700",
+    "1800",
+    "1900",
+    "2000",
+    "2100",
+    "2200",
+    "2300",
+    "2400",
+    "2500",
+    "2600",
+    "2700",
+    "2800",
+    "2900",
+    "3000",
+    "400",
+    "500",
+    "600",
+    "700",
+    "800",
+    "900",
+    "C247 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3950672/Crown-Boiler-300.html"
+  },
+  {
+   "manualId": "469810",
+   "slug": "Crown-Boiler-16-Series",
+   "title": "16 Series and Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "16 Series and",
+   "extraModels": [
+    "16 Series and",
+    "16-325",
+    "16-390",
+    "16-455",
+    "16-520",
+    "16-585"
+   ],
+   "url": "https://www.manualslib.com/manual/469810/Crown-Boiler-16-Series.html"
+  },
+  {
+   "manualId": "1076975",
+   "slug": "Crown-Boiler-16h-340",
+   "title": "16H-340 installation instructions manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "16H-340",
+   "extraModels": [
+    "16H-410",
+    "16H-460",
+    "16H-505"
+   ],
+   "url": "https://www.manualslib.com/manual/1076975/Crown-Boiler-16h-340.html"
+  },
+  {
+   "manualId": "874564",
+   "slug": "Crown-Boiler-16h-340",
+   "title": "16H-340 installation instructions manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "16H-340",
+   "extraModels": [
+    "16H-410",
+    "16H-460",
+    "16H-505"
+   ],
+   "url": "https://www.manualslib.com/manual/874564/Crown-Boiler-16h-340.html"
+  },
+  {
+   "manualId": "469755",
+   "slug": "Crown-Boiler-24-03",
+   "title": "24-03 installation instructions manual",
+   "type": "Installation",
+   "pages": 90,
+   "productModel": "24-03",
+   "extraModels": [
+    "24-04",
+    "24-05",
+    "24-06",
+    "24-07",
+    "24-08",
+    "24-09",
+    "24-10",
+    "24-11",
+    "24-12"
+   ],
+   "url": "https://www.manualslib.com/manual/469755/Crown-Boiler-24-03.html"
+  },
+  {
+   "manualId": "469757",
+   "slug": "Crown-Boiler-32-Series",
+   "title": "32 Series and Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 71,
+   "productModel": "32 Series and",
+   "extraModels": [
+    "32 Series and",
+    "32-1045WN",
+    "32-1045WSN",
+    "32-1140WN",
+    "32-1140WSN",
+    "32-1235WN",
+    "32-1235WSN",
+    "32-1330WN",
+    "32-1330WSN",
+    "32-1425WN",
+    "32-1425WSN",
+    "32-1520WN",
+    "32-1520WSN",
+    "32-1615WN",
+    "32-1615WSN",
+    "32-1710WN",
+    "32-1710WSN",
+    "32-1805WN",
+    "32-1805WSN",
+    "32-1900WN",
+    "32-1900WSN",
+    "32-1995WN",
+    "32-1995WSN",
+    "32-2090WN",
+    "32-2090WSN",
+    "32-2185WN",
+    "32-2185WSN",
+    "32-2280WN",
+    "32-2280WSN",
+    "32-2375WN",
+    "32-2375WSN",
+    "32-2470WN",
+    "32-2470WSN",
+    "32-2565WN",
+    "32-2565WSN",
+    "32-2660WN",
+    "32-2660WSN",
+    "32-2755WN",
+    "32-2755WSN",
+    "32-2850WN",
+    "32-2850WSN",
+    "32-475WN",
+    "32-475WSN",
+    "32-570WN",
+    "32-570WSN",
+    "32-665WN",
+    "32-665WSN",
+    "32-760WN",
+    "32-760WSN",
+    "32-855WN",
+    "32-855WSN",
+    "32-950WN",
+    "32-950WSN"
+   ],
+   "url": "https://www.manualslib.com/manual/469757/Crown-Boiler-32-Series.html"
+  },
+  {
+   "manualId": "469758",
+   "slug": "Crown-Boiler-32-380ecs",
+   "title": "32-380ECS Installation supplement manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "32-380ECS",
+   "extraModels": [
+    "32-475ECS"
+   ],
+   "url": "https://www.manualslib.com/manual/469758/Crown-Boiler-32-380ecs.html"
+  },
+  {
+   "manualId": "33826",
+   "slug": "Crown-Boiler-Abf-Spd",
+   "title": "ABF-EID installation instructions manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "ABF-EID",
+   "extraModels": [
+    "ABF-EID",
+    "Aruba ABF-105EID",
+    "Aruba ABF-105SPD",
+    "Aruba ABF-140EID",
+    "Aruba ABF-140SPD",
+    "Aruba ABF-175EID",
+    "Aruba ABF-175SPD",
+    "Aruba ABF-210EID",
+    "Aruba ABF-210SPD",
+    "Aruba ABF-245EID",
+    "Aruba ABF-245SPD",
+    "Aruba ABF-280EID",
+    "Aruba ABF-280SPD",
+    "Aruba ABF-38EID",
+    "Aruba ABF-38SPD",
+    "Aruba ABF-70EID",
+    "Aruba ABF-70SPD"
+   ],
+   "url": "https://www.manualslib.com/manual/33826/Crown-Boiler-Abf-Spd.html"
+  },
+  {
+   "manualId": "1922938",
+   "slug": "Crown-Boiler-Am4",
+   "title": "AM4 installation instructions manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "AM4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1922938/Crown-Boiler-Am4.html"
+  },
+  {
+   "manualId": "3840838",
+   "slug": "Crown-Boiler-Awi-Series",
+   "title": "AWI Series Instructions for field conversion",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "AWI Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3840838/Crown-Boiler-Awi-Series.html"
+  },
+  {
+   "manualId": "33827",
+   "slug": "Crown-Boiler-Awi037",
+   "title": "AWI037 installation instructions manual",
+   "type": "Installation",
+   "pages": 42,
+   "productModel": "AWI037",
+   "extraModels": [
+    "AWI061",
+    "AWI095",
+    "AWI128",
+    "AWI162",
+    "AWI195",
+    "AWI229",
+    "AWI262",
+    "AWI295",
+    "TWI061",
+    "TWI095",
+    "TWI128",
+    "TWI162"
+   ],
+   "url": "https://www.manualslib.com/manual/33827/Crown-Boiler-Awi037.html"
+  },
+  {
+   "manualId": "2396679",
+   "slug": "Crown-Boiler-Awr-Series",
+   "title": "AWR Series installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "AWR Series",
+   "extraModels": [
+    "AWR038B",
+    "AWR070B",
+    "AWR140B",
+    "AWR175B",
+    "AWR210B",
+    "AWR245B",
+    "AWR280B"
+   ],
+   "url": "https://www.manualslib.com/manual/2396679/Crown-Boiler-Awr-Series.html"
+  },
+  {
+   "manualId": "2722369",
+   "slug": "Crown-Boiler-Awr070",
+   "title": "AWR Series installation instructions manual",
+   "type": "Installation",
+   "pages": 51,
+   "productModel": "AWR Series",
+   "extraModels": [
+    "AWR Series",
+    "AWR038",
+    "AWR105",
+    "AWR140",
+    "AWR140EN",
+    "AWR175",
+    "AWR210",
+    "AWR245",
+    "AWR280"
+   ],
+   "url": "https://www.manualslib.com/manual/2722369/Crown-Boiler-Awr070.html"
+  },
+  {
+   "manualId": "1241290",
+   "slug": "Crown-Boiler-Awr038",
+   "title": "AWR038 installation instructions manual",
+   "type": "Installation",
+   "pages": 51,
+   "productModel": "AWR038",
+   "extraModels": [
+    "AWR070",
+    "AWR105",
+    "AWR140",
+    "AWR175",
+    "AWR210",
+    "AWR245",
+    "AWR280"
+   ],
+   "url": "https://www.manualslib.com/manual/1241290/Crown-Boiler-Awr038.html"
+  },
+  {
+   "manualId": "3887274",
+   "slug": "Crown-Boiler-Awr105b",
+   "title": "AWR105B installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "AWR105B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3887274/Crown-Boiler-Awr105b.html"
+  },
+  {
+   "manualId": "3935508",
+   "slug": "Crown-Boiler-Awr105bn",
+   "title": "AWR105BN installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "AWR105BN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3935508/Crown-Boiler-Awr105bn.html"
+  },
+  {
+   "manualId": "4160417",
+   "slug": "Crown-Boiler-Bahama-D-74-Bahama-Bd-91",
+   "title": "BAHAMA BD-111 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "BAHAMA BD-111",
+   "extraModels": [
+    "BAHAMA BD-111",
+    "BAHAMA BD-120",
+    "BAHAMA BD-147",
+    "BAHAMA BD-151",
+    "BAHAMA BD-211",
+    "BAHAMA BD-238",
+    "BAHAMA BO-178"
+   ],
+   "url": "https://www.manualslib.com/manual/4160417/Crown-Boiler-Bahama-D-74-Bahama-Bd-91.html"
+  },
+  {
+   "manualId": "1000218",
+   "slug": "Crown-Boiler-Bahama",
+   "title": "Bahama installation instructions manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "Bahama",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1000218/Crown-Boiler-Bahama.html"
+  },
+  {
+   "manualId": "1012454",
+   "slug": "Crown-Boiler-Bds-080",
+   "title": "BDS-080 installation instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "BDS-080",
+   "extraModels": [
+    "BDS-092",
+    "BDS-111",
+    "BDS-119",
+    "BDS-147",
+    "BDS-150",
+    "BDS-178",
+    "BDS-209",
+    "BDS-236"
+   ],
+   "url": "https://www.manualslib.com/manual/1012454/Crown-Boiler-Bds-080.html"
+  },
+  {
+   "manualId": "745355",
+   "slug": "Crown-Boiler-Bsi069",
+   "title": "BERMUDA BSI069 Installation instruction",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "BERMUDA BSI069",
+   "extraModels": [
+    "BERMUDA BSI103",
+    "BERMUDA BSI138",
+    "BERMUDA BSI172",
+    "BERMUDA BSI207",
+    "BERMUDA BSI241",
+    "BERMUDA BSI276",
+    "BERMUDA BSI311",
+    "BERMUDA BSI346",
+    "BERMUDA BSI380",
+    "BSI SERIES",
+    "BSI310",
+    "BSI345",
+    "BSI379"
+   ],
+   "url": "https://www.manualslib.com/manual/745355/Crown-Boiler-Bsi069.html"
+  },
+  {
+   "manualId": "1016885",
+   "slug": "Crown-Boiler-Bsi172",
+   "title": "BERMUDA BSI069 installation instructions manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "BERMUDA BSI069",
+   "extraModels": [
+    "BERMUDA BSI069",
+    "BERMUDA BSI103",
+    "BERMUDA BSI138",
+    "BERMUDA BSI207",
+    "BERMUDA BSI241",
+    "BERMUDA BSI276",
+    "BSI310",
+    "BSI345",
+    "BSI379"
+   ],
+   "url": "https://www.manualslib.com/manual/1016885/Crown-Boiler-Bsi172.html"
+  },
+  {
+   "manualId": "3453007",
+   "slug": "Crown-Boiler-Bsi103",
+   "title": "BERMUDA BSI069 installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "BERMUDA BSI069",
+   "extraModels": [
+    "BERMUDA BSI069",
+    "BERMUDA BSI138",
+    "BERMUDA BSI172",
+    "BERMUDA BSI207",
+    "BERMUDA BSI241",
+    "BERMUDA BSI276",
+    "BERMUDA BSI311",
+    "BERMUDA BSI346",
+    "BERMUDA BSI380",
+    "BSI SERIES",
+    "BSI103ENP",
+    "BSI138ENP",
+    "BSI172ENP",
+    "BSI207ENF",
+    "BSI276ENP",
+    "BSI380EN"
+   ],
+   "url": "https://www.manualslib.com/manual/3453007/Crown-Boiler-Bsi103.html"
+  },
+  {
+   "manualId": "469779",
+   "slug": "Crown-Boiler-Bermuda-Bsi069",
+   "title": "BERMUDA BSI069 specification",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "BERMUDA BSI069",
+   "extraModels": [
+    "BERMUDA BSI103",
+    "BERMUDA BSI138",
+    "BERMUDA BSI172",
+    "BERMUDA BSI207",
+    "BERMUDA BSI241",
+    "BERMUDA BSI276",
+    "BERMUDA BSI311",
+    "BERMUDA BSI346",
+    "BERMUDA BSI380"
+   ],
+   "url": "https://www.manualslib.com/manual/469779/Crown-Boiler-Bermuda-Bsi069.html"
+  },
+  {
+   "manualId": "469751",
+   "slug": "Crown-Boiler-Bimini-Buddy-Bb100h",
+   "title": "Bimini Buddy BB100C installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Bimini Buddy BB100C",
+   "extraModels": [
+    "Bimini Buddy BB100C",
+    "Bimini Buddy BB100I"
+   ],
+   "url": "https://www.manualslib.com/manual/469751/Crown-Boiler-Bimini-Buddy-Bb100h.html"
+  },
+  {
+   "manualId": "469760",
+   "slug": "Crown-Boiler-Bb100c",
+   "title": "Bimini Buddy BB100C specification",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Bimini Buddy BB100C",
+   "extraModels": [
+    "Bimini Buddy BB100H",
+    "Bimini Buddy BB100I",
+    "BIMINI BUDDY BWC090",
+    "BIMINI BUDDY BWC120",
+    "BIMINI BUDDY BWC151"
+   ],
+   "url": "https://www.manualslib.com/manual/469760/Crown-Boiler-Bb100c.html"
+  },
+  {
+   "manualId": "701560",
+   "slug": "Crown-Boiler-Bimini-Series",
+   "title": "Bimini Buddy BB100C Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Bimini Buddy BB100C",
+   "extraModels": [
+    "Bimini Buddy BB100C",
+    "Bimini Buddy BB100H",
+    "Bimini Buddy BB100I",
+    "BIMINI BUDDY BWC090",
+    "BIMINI BUDDY BWC120",
+    "BIMINI BUDDY BWC151",
+    "BIMINI BWC150",
+    "BIMINI BWC225"
+   ],
+   "url": "https://www.manualslib.com/manual/701560/Crown-Boiler-Bimini-Series.html"
+  },
+  {
+   "manualId": "469770",
+   "slug": "Crown-Boiler-Bwc151",
+   "title": "BIMINI BUDDY BWC090 installation instructions manual",
+   "type": "Installation",
+   "pages": 81,
+   "productModel": "BIMINI BUDDY BWC090",
+   "extraModels": [
+    "BIMINI BUDDY BWC090",
+    "BIMINI BUDDY BWC120",
+    "BWC070"
+   ],
+   "url": "https://www.manualslib.com/manual/469770/Crown-Boiler-Bwc151.html"
+  },
+  {
+   "manualId": "842529",
+   "slug": "Crown-Boiler-Bwc090",
+   "title": "BIMINI BUDDY BWC090 installation instructions manual",
+   "type": "Installation",
+   "pages": 111,
+   "productModel": "BIMINI BUDDY BWC090",
+   "extraModels": [
+    "BIMINI BUDDY BWC120",
+    "BIMINI BUDDY BWC151",
+    "BWC070"
+   ],
+   "url": "https://www.manualslib.com/manual/842529/Crown-Boiler-Bwc090.html"
+  },
+  {
+   "manualId": "893201",
+   "slug": "Crown-Boiler-Bwc070",
+   "title": "BIMINI BUDDY BWC090 installation instructions manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "BIMINI BUDDY BWC090",
+   "extraModels": [
+    "BIMINI BUDDY BWC090",
+    "BIMINI BUDDY BWC120",
+    "BIMINI BUDDY BWC151"
+   ],
+   "url": "https://www.manualslib.com/manual/893201/Crown-Boiler-Bwc070.html"
+  },
+  {
+   "manualId": "33829",
+   "slug": "Crown-Boiler-Bwc070",
+   "title": "BIMINI BUDDY BWC090 Installation manual supplement",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "BIMINI BUDDY BWC090",
+   "extraModels": [
+    "BIMINI BUDDY BWC090",
+    "BIMINI BUDDY BWC120"
+   ],
+   "url": "https://www.manualslib.com/manual/33829/Crown-Boiler-Bwc070.html"
+  },
+  {
+   "manualId": "469763",
+   "slug": "Crown-Boiler-Bwc300",
+   "title": "BIMINI BUDDY BWC090 Installation supplement manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "BIMINI BUDDY BWC090",
+   "extraModels": [
+    "BIMINI BUDDY BWC090",
+    "BIMINI BUDDY BWC120",
+    "BIMINI BUDDY BWC151",
+    "BIMINI BWC150",
+    "BIMINI BWC225",
+    "BWC070"
+   ],
+   "url": "https://www.manualslib.com/manual/469763/Crown-Boiler-Bwc300.html"
+  },
+  {
+   "manualId": "1922892",
+   "slug": "Crown-Boiler-Bwc-Series",
+   "title": "BIMINI BUDDY BWC090 Service supplement manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "BIMINI BUDDY BWC090",
+   "extraModels": [
+    "BIMINI BUDDY BWC090",
+    "BIMINI BUDDY BWC120",
+    "BIMINI BWC150",
+    "BWC070",
+    "BWC225EL",
+    "BWC225EN"
+   ],
+   "url": "https://www.manualslib.com/manual/1922892/Crown-Boiler-Bwc-Series.html"
+  },
+  {
+   "manualId": "469771",
+   "slug": "Crown-Boiler-Bwc070-Bwc090",
+   "title": "BIMINI BUDDY BWC120 Installation supplement manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "BIMINI BUDDY BWC120",
+   "extraModels": [
+    "BIMINI BUDDY BWC120",
+    "BIMINI BUDDY BWC151",
+    "BIMINI BWC150",
+    "BIMINI BWC225"
+   ],
+   "url": "https://www.manualslib.com/manual/469771/Crown-Boiler-Bwc070-Bwc090.html"
+  },
+  {
+   "manualId": "33831",
+   "slug": "Crown-Boiler-Concentric-Venting-Bwc150-225",
+   "title": "BIMINI BWC150 installation instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "BIMINI BWC150",
+   "extraModels": [
+    "BIMINI BWC225"
+   ],
+   "url": "https://www.manualslib.com/manual/33831/Crown-Boiler-Concentric-Venting-Bwc150-225.html"
+  },
+  {
+   "manualId": "33834",
+   "slug": "Crown-Boiler-Bwc-Series",
+   "title": "BIMINI BWC150 installation instructions manual",
+   "type": "Installation",
+   "pages": 71,
+   "productModel": "BIMINI BWC150",
+   "extraModels": [
+    "BIMINI BWC150",
+    "BIMINI BWC225"
+   ],
+   "url": "https://www.manualslib.com/manual/33834/Crown-Boiler-Bwc-Series.html"
+  },
+  {
+   "manualId": "469767",
+   "slug": "Crown-Boiler-Bwc150",
+   "title": "BIMINI BWC150 installation instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "BIMINI BWC150",
+   "extraModels": [
+    "BIMINI BWC225"
+   ],
+   "url": "https://www.manualslib.com/manual/469767/Crown-Boiler-Bwc150.html"
+  },
+  {
+   "manualId": "469792",
+   "slug": "Crown-Boiler-Bwc150",
+   "title": "BIMINI BWC150 installation instructions manual",
+   "type": "Installation",
+   "pages": 74,
+   "productModel": "BIMINI BWC150",
+   "extraModels": [
+    "BIMINI BWC225"
+   ],
+   "url": "https://www.manualslib.com/manual/469792/Crown-Boiler-Bwc150.html"
+  },
+  {
+   "manualId": "948071",
+   "slug": "Crown-Boiler-Bwc225",
+   "title": "BIMINI BWC225 installation instructions manual",
+   "type": "Installation",
+   "pages": 73,
+   "productModel": "BIMINI BWC225",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/948071/Crown-Boiler-Bwc225.html"
+  },
+  {
+   "manualId": "913865",
+   "slug": "Crown-Boiler-Bwc300",
+   "title": "BWC300 installation instructions manual",
+   "type": "Installation",
+   "pages": 97,
+   "productModel": "BWC300",
+   "extraModels": [
+    "BWC399",
+    "BWC425"
+   ],
+   "url": "https://www.manualslib.com/manual/913865/Crown-Boiler-Bwc300.html"
+  },
+  {
+   "manualId": "735578",
+   "slug": "Crown-Boiler-Bwf-Series",
+   "title": "BWF Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": "BWF Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/735578/Crown-Boiler-Bwf-Series.html"
+  },
+  {
+   "manualId": "1934458",
+   "slug": "Crown-Boiler-Bwf-Series",
+   "title": "BWF Series installation instructions manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "BWF Series",
+   "extraModels": [
+    "BWF063BL",
+    "BWF070BN",
+    "BWF094BL",
+    "BWF105BN",
+    "BWF126BL",
+    "BWF140BN",
+    "BWF157BL",
+    "BWF175BN",
+    "BWF189BL",
+    "BWF210BN",
+    "BWF220BL",
+    "BWF245BN"
+   ],
+   "url": "https://www.manualslib.com/manual/1934458/Crown-Boiler-Bwf-Series.html"
+  },
+  {
+   "manualId": "1231740",
+   "slug": "Crown-Boiler-Awr-Series",
+   "title": "BWF Series Instructions For Field Conversion",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "BWF Series",
+   "extraModels": [
+    "BWF Series",
+    "BSI SERIES",
+    "CWDSeries",
+    "CWI Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1231740/Crown-Boiler-Awr-Series.html"
+  },
+  {
+   "manualId": "2921692",
+   "slug": "Crown-Boiler-Bwf-Series",
+   "title": "BWF Series Supplement manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "BWF Series",
+   "extraModels": [
+    "BWF061",
+    "BWF095",
+    "BWF128",
+    "BWF162",
+    "BWF195",
+    "BWF229",
+    "CWD060",
+    "CWD083",
+    "CWD110",
+    "CWD138",
+    "CWD165",
+    "CWD193",
+    "CWD220",
+    "CWD245",
+    "CWDSeries"
+   ],
+   "url": "https://www.manualslib.com/manual/2921692/Crown-Boiler-Bwf-Series.html"
+  },
+  {
+   "manualId": "944700",
+   "slug": "Crown-Boiler-Awr",
+   "title": "BWF Series User's information manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "BWF Series",
+   "extraModels": [
+    "BWF Series",
+    "BSI SERIES",
+    "BWC Series",
+    "CWD",
+    "CWI Series"
+   ],
+   "url": "https://www.manualslib.com/manual/944700/Crown-Boiler-Awr.html"
+  },
+  {
+   "manualId": "33830",
+   "slug": "Crown-Boiler-Bwf095",
+   "title": "BWF061 installation instructions manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "BWF061",
+   "extraModels": [
+    "BWF061",
+    "BWF128",
+    "BWF162",
+    "BWF195",
+    "BWF229"
+   ],
+   "url": "https://www.manualslib.com/manual/33830/Crown-Boiler-Bwf095.html"
+  },
+  {
+   "manualId": "469769",
+   "slug": "Crown-Boiler-C247-Series",
+   "title": "C247 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "C247 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/469769/Crown-Boiler-C247-Series.html"
+  },
+  {
+   "manualId": "254380",
+   "slug": "Crown-Boiler-Chb68-112",
+   "title": "CHB68-112 Installation, operation and service manual",
+   "type": "Service",
+   "pages": 50,
+   "productModel": "CHB68-112",
+   "extraModels": [
+    "CHC68-96",
+    "CLBF68-112",
+    "CLBR68-112"
+   ],
+   "url": "https://www.manualslib.com/manual/254380/Crown-Boiler-Chb68-112.html"
+  },
+  {
+   "manualId": "660708",
+   "slug": "Crown-Boiler-Chb68-112",
+   "title": "CHB68-112 Upgrade manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": "CHB68-112",
+   "extraModels": [
+    "CHC68-96",
+    "CLBF68-112",
+    "CLBR68-112"
+   ],
+   "url": "https://www.manualslib.com/manual/660708/Crown-Boiler-Chb68-112.html"
+  },
+  {
+   "manualId": "3013449",
+   "slug": "Crown-Boiler-Bsi-Series",
+   "title": "Crown Boiler BSI Series Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 56,
+   "productModel": null,
+   "extraModels": [
+    "BERMUDA BSI069",
+    "BERMUDA BSI103",
+    "BERMUDA BSI138",
+    "BERMUDA BSI172",
+    "BERMUDA BSI207",
+    "BERMUDA BSI241",
+    "BERMUDA BSI276"
+   ],
+   "url": "https://www.manualslib.com/manual/3013449/Crown-Boiler-Bsi-Series.html"
+  },
+  {
+   "manualId": "33833",
+   "slug": "Crown-Boiler-Csc-Series",
+   "title": "CSC Series installation instructions manual",
+   "type": "Installation",
+   "pages": 63,
+   "productModel": "CSC Series",
+   "extraModels": [
+    "CSC-050",
+    "CSC-075",
+    "CSC-100",
+    "CSC-125",
+    "CSC-150",
+    "CSC-175",
+    "CSC-200"
+   ],
+   "url": "https://www.manualslib.com/manual/33833/Crown-Boiler-Csc-Series.html"
+  },
+  {
+   "manualId": "1369161",
+   "slug": "Crown-Boiler-Csc-950f",
+   "title": "CSC-950F Service manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "CSC-950F",
+   "extraModels": [
+    "CSC-950L"
+   ],
+   "url": "https://www.manualslib.com/manual/1369161/Crown-Boiler-Csc-950f.html"
+  },
+  {
+   "manualId": "2303307",
+   "slug": "Crown-Boiler-Twz-Seies",
+   "title": "CT Series Installation supplement manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "CT Series",
+   "extraModels": [
+    "CT Series",
+    "ODV Series",
+    "TWZ065",
+    "TWZ075",
+    "TWZ090",
+    "TWZ100",
+    "TWZ120",
+    "TWZ125",
+    "TWZ150",
+    "TWZ175",
+    "TWZ200"
+   ],
+   "url": "https://www.manualslib.com/manual/2303307/Crown-Boiler-Twz-Seies.html"
+  },
+  {
+   "manualId": "1039280",
+   "slug": "Crown-Boiler-Cwd060",
+   "title": "CWD060 installation instructions manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "CWD060",
+   "extraModels": [
+    "CWD083",
+    "CWD110",
+    "CWD138",
+    "CWD165",
+    "CWD193",
+    "CWD220",
+    "CWD245"
+   ],
+   "url": "https://www.manualslib.com/manual/1039280/Crown-Boiler-Cwd060.html"
+  },
+  {
+   "manualId": "469793",
+   "slug": "Crown-Boiler-Cwd060",
+   "title": "CWD060 installation instructions manual",
+   "type": "Installation",
+   "pages": 78,
+   "productModel": "CWD060",
+   "extraModels": [
+    "CWD083",
+    "CWD110",
+    "CWD138",
+    "CWD165",
+    "CWD193",
+    "CWD220",
+    "CWD245"
+   ],
+   "url": "https://www.manualslib.com/manual/469793/Crown-Boiler-Cwd060.html"
+  },
+  {
+   "manualId": "33832",
+   "slug": "Crown-Boiler-Cwi-Series",
+   "title": "CWI Series installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "CWI Series",
+   "extraModels": [
+    "CWI069",
+    "CWI103",
+    "CWI138",
+    "CWI172",
+    "CWI207",
+    "CWI241",
+    "CWI276",
+    "CWI310",
+    "CWI345",
+    "CWI379"
+   ],
+   "url": "https://www.manualslib.com/manual/33832/Crown-Boiler-Cwi-Series.html"
+  },
+  {
+   "manualId": "848615",
+   "slug": "Crown-Boiler-Cwi311",
+   "title": "CWI103 installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "CWI103",
+   "extraModels": [
+    "CWI103",
+    "CWI138",
+    "CWI172",
+    "CWI207",
+    "CWI241",
+    "CWI276",
+    "CWI346",
+    "CWI380"
+   ],
+   "url": "https://www.manualslib.com/manual/848615/Crown-Boiler-Cwi311.html"
+  },
+  {
+   "manualId": "1002953",
+   "slug": "Crown-Boiler-Cxe-2",
+   "title": "CXE-2 installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "CXE-2",
+   "extraModels": [
+    "CXE-7"
+   ],
+   "url": "https://www.manualslib.com/manual/1002953/Crown-Boiler-Cxe-2.html"
+  },
+  {
+   "manualId": "3832690",
+   "slug": "Crown-Boiler-Cxe-3",
+   "title": "CXE-3 installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "CXE-3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3832690/Crown-Boiler-Cxe-3.html"
+  },
+  {
+   "manualId": "3832691",
+   "slug": "Crown-Boiler-Cxe-4",
+   "title": "CXE-4 installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "CXE-4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3832691/Crown-Boiler-Cxe-4.html"
+  },
+  {
+   "manualId": "3832692",
+   "slug": "Crown-Boiler-Cxe-5",
+   "title": "CXE-5 installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "CXE-5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3832692/Crown-Boiler-Cxe-5.html"
+  },
+  {
+   "manualId": "3832689",
+   "slug": "Crown-Boiler-Cxe-6",
+   "title": "CXE-6 installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "CXE-6",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3832689/Crown-Boiler-Cxe-6.html"
+  },
+  {
+   "manualId": "469753",
+   "slug": "Crown-Boiler-Dg-35",
+   "title": "DG-112 installation instructions manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "DG-112",
+   "extraModels": [
+    "DG-112",
+    "DG-150",
+    "DG-187",
+    "DG-225",
+    "DG-262",
+    "DG-300",
+    "DG-38",
+    "DG-75"
+   ],
+   "url": "https://www.manualslib.com/manual/469753/Crown-Boiler-Dg-35.html"
+  },
+  {
+   "manualId": "998775",
+   "slug": "Crown-Boiler-Dg-38-Ei",
+   "title": "DG-112-EI installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "DG-112-EI",
+   "extraModels": [
+    "DG-112-EI",
+    "DG-150-EI",
+    "DG-187-EI",
+    "DG-225-EI",
+    "DG-262-EI",
+    "DG-300-EI",
+    "DG-75-EI"
+   ],
+   "url": "https://www.manualslib.com/manual/998775/Crown-Boiler-Dg-38-Ei.html"
+  },
+  {
+   "manualId": "469783",
+   "slug": "Crown-Boiler-Mss-79s",
+   "title": "Dimensions and specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/469783/Crown-Boiler-Mss-79s.html"
+  },
+  {
+   "manualId": "469811",
+   "slug": "Crown-Boiler-Freeport-Odv-100",
+   "title": "Freeport ODV Series Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "Freeport ODV Series",
+   "extraModels": [
+    "Freeport ODV Series",
+    "Freeport ODV-125",
+    "Freeport ODV-75"
+   ],
+   "url": "https://www.manualslib.com/manual/469811/Crown-Boiler-Freeport-Odv-100.html"
+  },
+  {
+   "manualId": "897209",
+   "slug": "Crown-Boiler-Fsz080",
+   "title": "FSZ080 installation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "FSZ080",
+   "extraModels": [
+    "FSZ100",
+    "FSZ130",
+    "FSZ160"
+   ],
+   "url": "https://www.manualslib.com/manual/897209/Crown-Boiler-Fsz080.html"
+  },
+  {
+   "manualId": "913990",
+   "slug": "Crown-Boiler-Fw-4",
+   "title": "FW-4 installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "FW-4",
+   "extraModels": [
+    "FW-5",
+    "FW-6",
+    "FW-7",
+    "FW-8",
+    "FW-9"
+   ],
+   "url": "https://www.manualslib.com/manual/913990/Crown-Boiler-Fw-4.html"
+  },
+  {
+   "manualId": "1544713",
+   "slug": "Crown-Boiler-Fwz-Series",
+   "title": "FWZ Series installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "FWZ Series",
+   "extraModels": [
+    "FWZ060",
+    "FWZ080",
+    "FWZ081",
+    "FWZ100",
+    "FWZ130",
+    "FWZ160"
+   ],
+   "url": "https://www.manualslib.com/manual/1544713/Crown-Boiler-Fwz-Series.html"
+  },
+  {
+   "manualId": "1378159",
+   "slug": "Crown-Boiler-Fwz060",
+   "title": "FWZ060 installation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "FWZ060",
+   "extraModels": [
+    "FWZ080",
+    "FWZ100",
+    "FWZ130",
+    "FWZ160"
+   ],
+   "url": "https://www.manualslib.com/manual/1378159/Crown-Boiler-Fwz060.html"
+  },
+  {
+   "manualId": "890429",
+   "slug": "Crown-Boiler-Fwz060",
+   "title": "FWZ060 installation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "FWZ060",
+   "extraModels": [
+    "FWZ080",
+    "FWZ100",
+    "FWZ130",
+    "FWZ160"
+   ],
+   "url": "https://www.manualslib.com/manual/890429/Crown-Boiler-Fwz060.html"
+  },
+  {
+   "manualId": "469759",
+   "slug": "Crown-Boiler-50-003-3-Coaxial-Terminal",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/469759/Crown-Boiler-50-003-3-Coaxial-Terminal.html"
+  },
+  {
+   "manualId": "469790",
+   "slug": "Crown-Boiler-Chb68-112l",
+   "title": "Instructions for installation and connection manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/469790/Crown-Boiler-Chb68-112l.html"
+  },
+  {
+   "manualId": "33835",
+   "slug": "Crown-Boiler-Jbf-Eid",
+   "title": "Jamaica JBF-32EID installation instructions manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "Jamaica JBF-32EID",
+   "extraModels": [
+    "Jamaica JBF-32EID",
+    "Jamaica JBF-32SPD",
+    "Jamaica JBF-42EID",
+    "Jamaica JBF-42SPD",
+    "Jamaica JBF-52EID",
+    "Jamaica JBF-52SPD",
+    "Jamaica JBF-62EID",
+    "Jamaica JBF-62SPD",
+    "Jamaica JBF-72EID",
+    "Jamaica JBF-72SPD",
+    "Jamaica JBF-82EID",
+    "Jamaica JBF-82SPD",
+    "Jamaica JBF-92EID",
+    "Jamaica JBF-92SPD",
+    "JBF-SPD"
+   ],
+   "url": "https://www.manualslib.com/manual/33835/Crown-Boiler-Jbf-Eid.html"
+  },
+  {
+   "manualId": "3497683",
+   "slug": "Crown-Boiler-Jsi-Series",
+   "title": "JS1138 installation instructions manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "JS1138",
+   "extraModels": [
+    "JS1138",
+    "JSE Series",
+    "JSE207",
+    "JSE207E",
+    "JSE207S",
+    "JSE241",
+    "JSE241E",
+    "JSE241S",
+    "JSE276",
+    "JSE276E",
+    "JSE276S",
+    "JSE310",
+    "JSE310E",
+    "JSE310S",
+    "JSE345",
+    "JSE345E",
+    "JSE345S",
+    "JSE379",
+    "JSE379E",
+    "JSE379S",
+    "JSI069",
+    "JSI069E",
+    "JSI069S",
+    "JSI103",
+    "JSI103E",
+    "JSI103S",
+    "JSI138E",
+    "JSI138S",
+    "JSI172",
+    "JSI172E",
+    "JSI172S"
+   ],
+   "url": "https://www.manualslib.com/manual/3497683/Crown-Boiler-Jsi-Series.html"
+  },
+  {
+   "manualId": "33836",
+   "slug": "Crown-Boiler-Jse207",
+   "title": "JSE207 installation instructions manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "JSE207",
+   "extraModels": [
+    "JSE241",
+    "JSE276",
+    "JSE310",
+    "JSE345",
+    "JSE379",
+    "JSI069",
+    "JSI103",
+    "JSI138",
+    "JSI172"
+   ],
+   "url": "https://www.manualslib.com/manual/33836/Crown-Boiler-Jse207.html"
+  },
+  {
+   "manualId": "2430758",
+   "slug": "Crown-Boiler-Ksb-Series",
+   "title": "KSB Series installation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "KSB Series",
+   "extraModels": [
+    "KSB065",
+    "KSB075",
+    "KSB125",
+    "KSB150",
+    "KSB175",
+    "KSB200"
+   ],
+   "url": "https://www.manualslib.com/manual/2430758/Crown-Boiler-Ksb-Series.html"
+  },
+  {
+   "manualId": "3889002",
+   "slug": "Crown-Boiler-Ksb100",
+   "title": "KSB100 installation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "KSB100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3889002/Crown-Boiler-Ksb100.html"
+  },
+  {
+   "manualId": "2685488",
+   "slug": "Crown-Boiler-Ksz-Series",
+   "title": "KSZ Series installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "KSZ Series",
+   "extraModels": [
+    "KSZ065 KSZ075 KSZ100 KSZ090",
+    "KSZ075",
+    "KSZ090",
+    "KSZ100",
+    "KSZ120",
+    "KSZ125",
+    "KSZ150",
+    "KSZ175",
+    "KSZ175LC",
+    "KSZ175WC",
+    "KSZ200"
+   ],
+   "url": "https://www.manualslib.com/manual/2685488/Crown-Boiler-Ksz-Series.html"
+  },
+  {
+   "manualId": "469776",
+   "slug": "Crown-Boiler-Ksz065-Ksz075-Ksz100-Ksz090",
+   "title": "KSZ065 KSZ075 KSZ100 KSZ090 installation instructions manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "KSZ065 KSZ075 KSZ100 KSZ090",
+   "extraModels": [
+    "KSZ120",
+    "KSZ125",
+    "KSZ150",
+    "KSZ175",
+    "KSZ200"
+   ],
+   "url": "https://www.manualslib.com/manual/469776/Crown-Boiler-Ksz065-Ksz075-Ksz100-Ksz090.html"
+  },
+  {
+   "manualId": "840427",
+   "slug": "Crown-Boiler-Ksz065",
+   "title": "KSZ065 KSZ075 KSZ100 KSZ090 installation instructions manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "KSZ065 KSZ075 KSZ100 KSZ090",
+   "extraModels": [
+    "KSZ075",
+    "KSZ090",
+    "KSZ100",
+    "KSZ120",
+    "KSZ125",
+    "KSZ150",
+    "KSZ175",
+    "KSZ200"
+   ],
+   "url": "https://www.manualslib.com/manual/840427/Crown-Boiler-Ksz065.html"
+  },
+  {
+   "manualId": "811652",
+   "slug": "Crown-Boiler-Maxi-Therm-Mt040g",
+   "title": "MAXI-THERM MT040G Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "MAXI-THERM MT040G",
+   "extraModels": [
+    "MAXI-THERM MT050G",
+    "MAXI-THERM MT079G",
+    "MAXI-THERM MT100G"
+   ],
+   "url": "https://www.manualslib.com/manual/811652/Crown-Boiler-Maxi-Therm-Mt040g.html"
+  },
+  {
+   "manualId": "735301",
+   "slug": "Crown-Boiler-Mega-Stor",
+   "title": "Mega-Stor Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Mega-Stor",
+   "extraModels": [
+    "Mega-Stor MS-119",
+    "Mega-Stor MS-26",
+    "Mega-Stor MS-40",
+    "Mega-Stor MS-53",
+    "Mega-Stor MS-79",
+    "Mega-Stor MSH-40H"
+   ],
+   "url": "https://www.manualslib.com/manual/735301/Crown-Boiler-Mega-Stor.html"
+  },
+  {
+   "manualId": "887695",
+   "slug": "Crown-Boiler-Ms-26",
+   "title": "Mega-Stor MS-119 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Mega-Stor MS-119",
+   "extraModels": [
+    "Mega-Stor MS-119",
+    "Mega-Stor MS-26",
+    "Mega-Stor MS-40",
+    "Mega-Stor MS-53",
+    "Mega-Stor MS-79",
+    "Mega-Stor MSH-40",
+    "Mega-Stor MSH-53"
+   ],
+   "url": "https://www.manualslib.com/manual/887695/Crown-Boiler-Ms-26.html"
+  },
+  {
+   "manualId": "254379",
+   "slug": "Crown-Boiler-Mwc-Series",
+   "title": "MWC Series installation instructions manual",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "MWC Series",
+   "extraModels": [
+    "MWC116ELL",
+    "MWC116ELT",
+    "MWC116ENL",
+    "MWC116ENT"
+   ],
+   "url": "https://www.manualslib.com/manual/254379/Crown-Boiler-Mwc-Series.html"
+  },
+  {
+   "manualId": "907548",
+   "slug": "Crown-Boiler-Ns-118",
+   "title": "NS-118 Installation and operation manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "NS-118",
+   "extraModels": [
+    "NS-145",
+    "NS-156",
+    "NS-177",
+    "NS-204",
+    "NS-215"
+   ],
+   "url": "https://www.manualslib.com/manual/907548/Crown-Boiler-Ns-118.html"
+  },
+  {
+   "manualId": "1081396",
+   "slug": "Crown-Boiler-Phantom-X-Series",
+   "title": "Phantom X series Installation and operating information",
+   "type": "Installation",
+   "pages": 108,
+   "productModel": "Phantom X series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1081396/Crown-Boiler-Phantom-X-Series.html"
+  },
+  {
+   "manualId": "1242475",
+   "slug": "Crown-Boiler-Phantom-X-Series",
+   "title": "Phantom X series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 136,
+   "productModel": "Phantom X series",
+   "extraModels": [
+    "PHNTM399C",
+    "PHNTM500C"
+   ],
+   "url": "https://www.manualslib.com/manual/1242475/Crown-Boiler-Phantom-X-Series.html"
+  },
+  {
+   "manualId": "1046879",
+   "slug": "Crown-Boiler-Phantom-X-Phntm210",
+   "title": "Phantom-X PHNTM210 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 120,
+   "productModel": "Phantom-X PHNTM210",
+   "extraModels": [
+    "Phantom-X PHNTM285"
+   ],
+   "url": "https://www.manualslib.com/manual/1046879/Crown-Boiler-Phantom-X-Phntm210.html"
+  },
+  {
+   "manualId": "965571",
+   "slug": "Crown-Boiler-Phntm080",
+   "title": "PHNTM080 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 146,
+   "productModel": "PHNTM080",
+   "extraModels": [
+    "PHNTM100",
+    "PHNTM120",
+    "PHNTM150",
+    "PHNTM180"
+   ],
+   "url": "https://www.manualslib.com/manual/965571/Crown-Boiler-Phntm080.html"
+  },
+  {
+   "manualId": "1335812",
+   "slug": "Crown-Boiler-Phntm120",
+   "title": "PHNTM080 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 146,
+   "productModel": "PHNTM080",
+   "extraModels": [
+    "PHNTM080",
+    "PHNTM100",
+    "PHNTM150",
+    "PHNTM180"
+   ],
+   "url": "https://www.manualslib.com/manual/1335812/Crown-Boiler-Phntm120.html"
+  },
+  {
+   "manualId": "1077426",
+   "slug": "Crown-Boiler-Phntm080",
+   "title": "PHNTM080 installation instructions manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "PHNTM080",
+   "extraModels": [
+    "PHNTM100",
+    "PHNTM120",
+    "PHNTM150",
+    "PHNTM180"
+   ],
+   "url": "https://www.manualslib.com/manual/1077426/Crown-Boiler-Phntm080.html"
+  },
+  {
+   "manualId": "1239869",
+   "slug": "Crown-Boiler-Phntm080",
+   "title": "PHNTM080 Replacement instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "PHNTM080",
+   "extraModels": [
+    "PHNTM100",
+    "PHNTM120",
+    "PHNTM150",
+    "PHNTM180"
+   ],
+   "url": "https://www.manualslib.com/manual/1239869/Crown-Boiler-Phntm080.html"
+  },
+  {
+   "manualId": "988090",
+   "slug": "Crown-Boiler-Phntm399",
+   "title": "PHNTM399 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 120,
+   "productModel": "PHNTM399",
+   "extraModels": [
+    "PHNTM500"
+   ],
+   "url": "https://www.manualslib.com/manual/988090/Crown-Boiler-Phntm399.html"
+  },
+  {
+   "manualId": "923866",
+   "slug": "Crown-Boiler-Phntm399",
+   "title": "PHNTM399 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 112,
+   "productModel": "PHNTM399",
+   "extraModels": [
+    "PHNTM500"
+   ],
+   "url": "https://www.manualslib.com/manual/923866/Crown-Boiler-Phntm399.html"
+  },
+  {
+   "manualId": "3882571",
+   "slug": "Crown-Boiler-Tobago-Series",
+   "title": "Tobago Series Installation supplement manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Tobago Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3882571/Crown-Boiler-Tobago-Series.html"
+  },
+  {
+   "manualId": "2385233",
+   "slug": "Crown-Boiler-Twb-Series",
+   "title": "TWB Series installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "TWB Series",
+   "extraModels": [
+    "TWB065",
+    "TWB075",
+    "TWB125",
+    "TWB150",
+    "TWB175",
+    "TWB200"
+   ],
+   "url": "https://www.manualslib.com/manual/2385233/Crown-Boiler-Twb-Series.html"
+  },
+  {
+   "manualId": "3886508",
+   "slug": "Crown-Boiler-Twb100",
+   "title": "TWB100 installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "TWB100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3886508/Crown-Boiler-Twb100.html"
+  },
+  {
+   "manualId": "2685492",
+   "slug": "Crown-Boiler-Twz-Series",
+   "title": "TWZ Series installation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "TWZ Series",
+   "extraModels": [
+    "TWZ065",
+    "TWZ075",
+    "TWZ075BOL",
+    "TWZ090",
+    "TWZ100",
+    "TWZ100BOL",
+    "TWZ120",
+    "TWZ125",
+    "TWZ125BOL",
+    "TWZ150",
+    "TWZ150BOL",
+    "TWZ150BOT",
+    "TWZ175",
+    "TWZ175BOT",
+    "TWZ200"
+   ],
+   "url": "https://www.manualslib.com/manual/2685492/Crown-Boiler-Twz-Series.html"
+  },
+  {
+   "manualId": "469754",
+   "slug": "Crown-Boiler-Twz065",
+   "title": "TWZ065 installation instructions manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "TWZ065",
+   "extraModels": [
+    "TWZ075",
+    "TWZ090",
+    "TWZ100",
+    "TWZ120",
+    "TWZ125",
+    "TWZ150",
+    "TWZ175",
+    "TWZ200"
+   ],
+   "url": "https://www.manualslib.com/manual/469754/Crown-Boiler-Twz065.html"
+  },
+  {
+   "manualId": "469787",
+   "slug": "Crown-Boiler-Cwd060",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "CWD083",
+    "CWD110",
+    "CWD138",
+    "CWD165",
+    "CWD193",
+    "CWD220",
+    "CWD245"
+   ],
+   "url": "https://www.manualslib.com/manual/469787/Crown-Boiler-Cwd060.html"
+  },
+  {
+   "manualId": "3597073",
+   "slug": "Crown-Boiler-Xbf-Series",
+   "title": "XBF Series installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "XBF Series",
+   "extraModels": [
+    "XBF-112EID",
+    "XBF-112SPD",
+    "XBF-150EID",
+    "XBF-150SPD",
+    "XBF-187EID",
+    "XBF-187SPD",
+    "XBF-225EID",
+    "XBF-225SPD",
+    "XBF-262EID",
+    "XBF-262SPD",
+    "XBF-299EID",
+    "XBF-299SPD",
+    "XBF-75EID",
+    "XBF-75SPD",
+    "XBF-EID",
+    "XBF-SPD"
+   ],
+   "url": "https://www.manualslib.com/manual/3597073/Crown-Boiler-Xbf-Series.html"
+  },
+  {
+   "manualId": "33837",
+   "slug": "Crown-Boiler-Xbf-Eid",
+   "title": "XBF-112EID installation instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "XBF-112EID",
+   "extraModels": [
+    "XBF-112EID",
+    "XBF-112SPD",
+    "XBF-150EID",
+    "XBF-150SPD",
+    "XBF-187EID",
+    "XBF-187SPD",
+    "XBF-225EID",
+    "XBF-225SPD",
+    "XBF-262EID",
+    "XBF-262SPD",
+    "XBF-299EID",
+    "XBF-299SPD",
+    "XBF-75EID",
+    "XBF-75SPD",
+    "XBF-SPD"
+   ],
+   "url": "https://www.manualslib.com/manual/33837/Crown-Boiler-Xbf-Eid.html"
+  },
+  {
+   "manualId": "3799240",
+   "slug": "Crown-Boiler-Xe-Series",
+   "title": "XE Series installation instructions manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "XE Series",
+   "extraModels": [
+    "XE-2",
+    "XE-3",
+    "XE-4",
+    "XE-5"
+   ],
+   "url": "https://www.manualslib.com/manual/3799240/Crown-Boiler-Xe-Series.html"
+  },
+  {
+   "manualId": "469756",
+   "slug": "Crown-Boiler-Xe-2",
+   "title": "XE-2 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "XE-2",
+   "extraModels": [
+    "XE-3",
+    "XE-4",
+    "XE-5"
+   ],
+   "url": "https://www.manualslib.com/manual/469756/Crown-Boiler-Xe-2.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "crown-boiler"
+ ]
+}

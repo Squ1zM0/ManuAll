@@ -1,0 +1,3571 @@
+{
+ "brand": "elco",
+ "brandSlug": "elco",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/elco/"
+ ],
+ "slugUsed": "elco",
+ "capturedAt": "2026-10-28T07:04:15.666767+00:00",
+ "typePages": [
+  {
+   "path": "/brand/elco/accessories.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/air-conditioner.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/amplifier.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/boiler.html",
+   "manuals": 326,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/burner.html",
+   "manuals": 399,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/computer-hardware.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/control-panel.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/control-unit.html",
+   "manuals": 14,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/controller.html",
+   "manuals": 22,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/dimmer.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/enclosure.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/engine.html",
+   "manuals": 19,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/fan.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/gateway.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/heat-pump.html",
+   "manuals": 174,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/heating-system.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/home-automation.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/i-o-systems.html",
+   "manuals": 42,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/indoor-fireplace.html",
+   "manuals": 50,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/industrial-equipment.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/keypad.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/lighting-equipment.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/measuring-instruments.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/media-converter.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/microwave-oven.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/multimeter.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/network-router.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/other.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/outboard-motor.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/oven.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/personal-care-products.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/plumbing-product.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/power-supply.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/refrigerator.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/relays.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/remote-control.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/safety-equipment.html",
+   "manuals": 83,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/security-sensors.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/speakers.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/switch.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/tools.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/water-heater.html",
+   "manuals": 37,
+   "status": 200
+  },
+  {
+   "path": "/brand/elco/wireless-router.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2122038",
+   "slug": "Elco-200",
+   "title": "250 SYS Instructions For Installation, Use, Maintenance",
+   "type": "Service",
+   "pages": 73,
+   "productModel": "250 SYS",
+   "extraModels": [
+    "250 SYS",
+    "250 TWIN SYS",
+    "VARION C-POWER 25.0"
+   ],
+   "url": "https://www.manualslib.com/manual/2122038/Elco-200.html"
+  },
+  {
+   "manualId": "4639425",
+   "slug": "Elco-2d-Glue-Detection-Sensor",
+   "title": "2D glue detection sensor user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "2D glue detection sensor",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4639425/Elco-2d-Glue-Detection-Sensor.html"
+  },
+  {
+   "manualId": "2523074",
+   "slug": "Elco-Cb-Pl2-190-L",
+   "title": "3143665 Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "3143665",
+   "extraModels": [
+    "3143665",
+    "3143666",
+    "3143670",
+    "3143671",
+    "3143673",
+    "3143674",
+    "3143683",
+    "3143684",
+    "3143685",
+    "3143686",
+    "3143687",
+    "3143688",
+    "CB-PL2.240 L",
+    "CB-PL2.300 L"
+   ],
+   "url": "https://www.manualslib.com/manual/2523074/Elco-Cb-Pl2-190-L.html"
+  },
+  {
+   "manualId": "3562885",
+   "slug": "Elco-Firebird-Fb-3-K-Ln",
+   "title": "3146164 Assembly, Commissioning and Maintenance Instructions",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "3146164",
+   "extraModels": [
+    "3146164",
+    "3146165",
+    "414851",
+    "414857",
+    "Firebird FB 3 K 100 LN",
+    "Firebird FB 3 K 73 LN"
+   ],
+   "url": "https://www.manualslib.com/manual/3562885/Elco-Firebird-Fb-3-K-Ln.html"
+  },
+  {
+   "manualId": "3435315",
+   "slug": "Elco-Ek-Tron-5-300-G-E",
+   "title": "3148325 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 38,
+   "productModel": "3148325",
+   "extraModels": [
+    "3148325",
+    "3148326",
+    "3148327",
+    "3148328",
+    "3148330",
+    "3148331",
+    "3148332",
+    "3148333",
+    "3148334",
+    "3148498",
+    "3148499",
+    "3148500 3148501",
+    "3148502",
+    "3148503",
+    "3148504",
+    "3148505",
+    "3148506",
+    "3148507",
+    "3148784",
+    "3148785",
+    "3148786 3148329",
+    "3148787",
+    "3148788",
+    "3148794",
+    "3148795",
+    "3148796",
+    "3148797",
+    "3148798",
+    "EK-TRON 5.300 G-E KL 72H",
+    "EK-TRON 5.300 G-E KM 72H",
+    "EK-TRON 5.300 G-E KN 72H",
+    "EK-TRON 6.350 G-E",
+    "EK-TRON 6.350 G-E KL 72H",
+    "EK-TRON 6.350 G-E KM 72H",
+    "EK-TRON 6.350 G-E KN 72H",
+    "EK-TRON 6.400 G-E",
+    "EK-TRON 6.400 G-E KL 72H",
+    "EK-TRON 6.400 G-E KM 72H",
+    "EK-TRON 6.400 G-E KN 72H",
+    "EK-TRON 7.500 G-E",
+    "EK-TRON 7.500 G-E KL 72H",
+    "EK-TRON 7.500 G-E KM 72H",
+    "EK-TRON 7.500 G-E KN 72H",
+    "EK-TRON 7.600 G-E",
+    "EK-TRON 7.600 G-E KL 72H",
+    "EK-TRON 7.600 G-E KM 72H",
+    "EK-TRON 7.600 G-E KN 72H"
+   ],
+   "url": "https://www.manualslib.com/manual/3435315/Elco-Ek-Tron-5-300-G-E.html"
+  },
+  {
+   "manualId": "3519663",
+   "slug": "Elco-Firebird-Fb-4-1-R-Ln",
+   "title": "3149697 Assembly, Commissioning and Maintenance Instructions",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "3149697",
+   "extraModels": [
+    "3149697",
+    "416364",
+    "Firebird FB 4.1 R 20 LN"
+   ],
+   "url": "https://www.manualslib.com/manual/3519663/Elco-Firebird-Fb-4-1-R-Ln.html"
+  },
+  {
+   "manualId": "3011158",
+   "slug": "Elco-Ekevo-6-G-E",
+   "title": "4200 1029 3003 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "4200 1029 3003",
+   "extraModels": [
+    "4200 1029 3003",
+    "4200 1031 7903",
+    "4200 1043 1101",
+    "4200 1043 1501",
+    "4200 1054 2001",
+    "4200 1054 2200",
+    "4200 1060 5700",
+    "4200 1064 0400",
+    "4200 1075 2400",
+    "4200 1075 2500",
+    "4200 1075 2600",
+    "4200 1075 2700",
+    "4200 1079 0600",
+    "4200 1084 1301",
+    "4200 1084 1400",
+    "4200 1084 1501",
+    "4200 1084 1801",
+    "4200 1085 7400",
+    "4200 1104 8900",
+    "EKEVO 6 -EU2 FGR",
+    "EKEVO 6 G-EF3",
+    "EKEVO 6 G-EU2",
+    "EKEVO 6 G-EU2N",
+    "EKEVO 7 G-E",
+    "EKEVO 7 G-EF3",
+    "EKEVO 7 G-EU2",
+    "EKEVO 7 G-EU2 FGR",
+    "EKEVO 7 G-EU2N",
+    "EKEVO 7.5800 G-EF3",
+    "EKEVO 7.5800 G-EU2",
+    "EKEVO 7.5800 G-EU2 FGR",
+    "EKEVO 7.7000 G-EU3 FGR",
+    "EKEVO 8 G-E",
+    "EKEVO 8 G-EU3",
+    "EKEVO 8 G-EU3 FGR",
+    "EKEVO 9 G-E",
+    "EKEVO 9 G-EU2",
+    "EKEVO 9 G-EU2N",
+    "EKEVO 9 G-EU3",
+    "EKEVO 9 G-EU3 FGR",
+    "EKEVO N7 G-EU2",
+    "EKEVO N9 G-EU2",
+    "N6 G-E",
+    "N6 G-EF3",
+    "N6 G-EU2N",
+    "N7 G-E",
+    "N7 G-EF3",
+    "N7 G-EU2N",
+    "N8 G-E",
+    "N8 G-EU3",
+    "N9 G-E",
+    "N9 G-EU2N",
+    "N9 G-EU3"
+   ],
+   "url": "https://www.manualslib.com/manual/3011158/Elco-Ekevo-6-G-E.html"
+  },
+  {
+   "manualId": "1317677",
+   "slug": "Elco-6-170-L-E",
+   "title": "6.170 L-E Operation manual",
+   "type": "Other",
+   "pages": 43,
+   "productModel": "6.170 L-E",
+   "extraModels": [
+    "6.200 L-E",
+    "6.240 L-E",
+    "6.300 L-E",
+    "7.350 L-E",
+    "7.450 L-E",
+    "8.550 L-E",
+    "8.700 L-E",
+    "9. 850 L-E",
+    "9.1000 L-E"
+   ],
+   "url": "https://www.manualslib.com/manual/1317677/Elco-6-170-L-E.html"
+  },
+  {
+   "manualId": "1858381",
+   "slug": "Elco-619",
+   "title": "619 instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "619",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1858381/Elco-619.html"
+  },
+  {
+   "manualId": "3347194",
+   "slug": "Elco-A-6021-Bi",
+   "title": "A-6021 BI user manual",
+   "type": "User / Owner",
+   "pages": 42,
+   "productModel": "A-6021 BI",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3347194/Elco-A-6021-Bi.html"
+  },
+  {
+   "manualId": "3176111",
+   "slug": "Elco-Adi-Cd-70",
+   "title": "ADI CD 105 operating & maintenance manual",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "ADI CD 105",
+   "extraModels": [
+    "ADI CD 105",
+    "ADI CD 120",
+    "ADI CD 175",
+    "ADI CD 200",
+    "ADI CD 250",
+    "ADI CD 325",
+    "ADI CD 375",
+    "ADI CD 450",
+    "ADI CD 550",
+    "ADI CD 650",
+    "ADI CD 750",
+    "ADI CD 85",
+    "ADI CD 850",
+    "ADI CD 950"
+   ],
+   "url": "https://www.manualslib.com/manual/3176111/Elco-Adi-Cd-70.html"
+  },
+  {
+   "manualId": "1722832",
+   "slug": "Elco-Aeropur",
+   "title": "AEROPUR instruction manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "AEROPUR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1722832/Elco-Aeropur.html"
+  },
+  {
+   "manualId": "3586239",
+   "slug": "Elco-Aerotop-Evo-Plus",
+   "title": "AEROTOP EVO (PLUS) Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "AEROTOP EVO (PLUS)",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3586239/Elco-Aerotop-Evo-Plus.html"
+  },
+  {
+   "manualId": "1644222",
+   "slug": "Elco-Aerotop-G",
+   "title": "AEROTOP G Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 58,
+   "productModel": "AEROTOP G",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1644222/Elco-Aerotop-G.html"
+  },
+  {
+   "manualId": "2154416",
+   "slug": "Elco-Aerotop-L-054",
+   "title": "AEROTOP L 054 user manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "AEROTOP L 054",
+   "extraModels": [
+    "AEROTOP L 061",
+    "AEROTOP L 079",
+    "AEROTOP L 088",
+    "AEROTOP M 024",
+    "AEROTOP M 027",
+    "AEROTOP M 032",
+    "AEROTOP M 048"
+   ],
+   "url": "https://www.manualslib.com/manual/2154416/Elco-Aerotop-L-054.html"
+  },
+  {
+   "manualId": "3878198",
+   "slug": "Elco-Aerotop-L-065",
+   "title": "AEROTOP L 065 user manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "AEROTOP L 065",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878198/Elco-Aerotop-L-065.html"
+  },
+  {
+   "manualId": "2419359",
+   "slug": "Elco-Aerotop-L",
+   "title": "AEROTOP L Planner Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "AEROTOP L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2419359/Elco-Aerotop-L.html"
+  },
+  {
+   "manualId": "3586329",
+   "slug": "Elco-Aerotop-M",
+   "title": "AEROTOP L quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "AEROTOP L",
+   "extraModels": [
+    "AEROTOP L"
+   ],
+   "url": "https://www.manualslib.com/manual/3586329/Elco-Aerotop-M.html"
+  },
+  {
+   "manualId": "3680506",
+   "slug": "Elco-Aerotop-Split",
+   "title": "AEROTOP SPLIT User's operating manual",
+   "type": "User / Owner",
+   "pages": 116,
+   "productModel": "AEROTOP SPLIT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3680506/Elco-Aerotop-Split.html"
+  },
+  {
+   "manualId": "1626983",
+   "slug": "Elco-Aerotop-T-Series",
+   "title": "AEROTOP T Series Planning Document",
+   "type": "Other",
+   "pages": 88,
+   "productModel": "AEROTOP T Series",
+   "extraModels": [
+    "T07",
+    "T07C",
+    "T10",
+    "T10C",
+    "T12C",
+    "T14",
+    "T16",
+    "T26",
+    "T32"
+   ],
+   "url": "https://www.manualslib.com/manual/1626983/Elco-Aerotop-T-Series.html"
+  },
+  {
+   "manualId": "906908",
+   "slug": "Elco-Aerotop-T",
+   "title": "AEROTOP T user manual",
+   "type": "User / Owner",
+   "pages": 54,
+   "productModel": "AEROTOP T",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/906908/Elco-Aerotop-T.html"
+  },
+  {
+   "manualId": "2940863",
+   "slug": "Elco-Aquatop-T-Series",
+   "title": "AQUATOP T Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 85,
+   "productModel": "AQUATOP T Series",
+   "extraModels": [
+    "T05C",
+    "T05CRX",
+    "T05CX",
+    "T06C",
+    "T06CR",
+    "T06CRX",
+    "T06CX",
+    "T07CHT",
+    "T08C",
+    "T08CR",
+    "T08CRX",
+    "T08CX",
+    "T10C",
+    "T10CR",
+    "T10CRX",
+    "T10CX",
+    "T11CHT",
+    "T12C",
+    "T12CR",
+    "T12CRX",
+    "T12CX",
+    "T14C",
+    "T14CR",
+    "T17CH",
+    "T17CHR",
+    "T22H",
+    "T22HR",
+    "T28H",
+    "T28HR",
+    "T35H",
+    "T35HR",
+    "T43H",
+    "T43HR"
+   ],
+   "url": "https://www.manualslib.com/manual/2940863/Elco-Aquatop-T-Series.html"
+  },
+  {
+   "manualId": "963339",
+   "slug": "Elco-Aquatop-Tc-Series",
+   "title": "Aquatop TC Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "Aquatop TC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/963339/Elco-Aquatop-Tc-Series.html"
+  },
+  {
+   "manualId": "1974677",
+   "slug": "Elco-Wire-Wizard-Vertical-Dereeler",
+   "title": "Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1974677/Elco-Wire-Wizard-Vertical-Dereeler.html"
+  },
+  {
+   "manualId": "2056341",
+   "slug": "Elco-Vectron-L04",
+   "title": "Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2056341/Elco-Vectron-L04.html"
+  },
+  {
+   "manualId": "2934076",
+   "slug": "Elco-Auron-B-15-Df",
+   "title": "AURON B 15 DF operating manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "AURON B 15 DF",
+   "extraModels": [
+    "AURON B 20 DF",
+    "AURON E 15 DF",
+    "AURON E 20 DF"
+   ],
+   "url": "https://www.manualslib.com/manual/2934076/Elco-Auron-B-15-Df.html"
+  },
+  {
+   "manualId": "1654815",
+   "slug": "Elco-Bypass-R600",
+   "title": "Bypass R600 Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "Bypass R600",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1654815/Elco-Bypass-R600.html"
+  },
+  {
+   "manualId": "826739",
+   "slug": "Elco-R-600",
+   "title": "Bypass R600 Operation and installation manual",
+   "type": "Installation",
+   "pages": 164,
+   "productModel": "Bypass R600",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/826739/Elco-R-600.html"
+  },
+  {
+   "manualId": "1516778",
+   "slug": "Elco-Combi-24",
+   "title": "Combi 24 operating manual",
+   "type": "User / Owner",
+   "pages": 68,
+   "productModel": "Combi 24",
+   "extraModels": [
+    "THISION S PLUS"
+   ],
+   "url": "https://www.manualslib.com/manual/1516778/Elco-Combi-24.html"
+  },
+  {
+   "manualId": "3853050",
+   "slug": "Elco-Combi-34",
+   "title": "Combi 34 operating manual",
+   "type": "User / Owner",
+   "pages": 68,
+   "productModel": "Combi 34",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3853050/Elco-Combi-34.html"
+  },
+  {
+   "manualId": "1514304",
+   "slug": "Elco-De-38-Nf",
+   "title": "DE-38 NF SI instruction manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "DE-38 NF SI",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1514304/Elco-De-38-Nf.html"
+  },
+  {
+   "manualId": "4188653",
+   "slug": "Elco-Firebird-Enviroqreen-Combi-Xceed-12-20kw",
+   "title": "ECE020EXC Technical manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "ECE020EXC",
+   "extraModels": [
+    "ECE020EXC",
+    "ECE020IXC",
+    "ECE0261XC",
+    "ECE026EXC",
+    "ECE035EXC",
+    "ECE035IXC",
+    "Firebird Enviroqreen Combi Xceed 20-26kW",
+    "Firebird Enviroqreen Combi Xceed 26-35kW"
+   ],
+   "url": "https://www.manualslib.com/manual/4188653/Elco-Firebird-Enviroqreen-Combi-Xceed-12-20kw.html"
+  },
+  {
+   "manualId": "2487122",
+   "slug": "Elco-Ecm-Hbr",
+   "title": "ECM HBR Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "ECM HBR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2487122/Elco-Ecm-Hbr.html"
+  },
+  {
+   "manualId": "4211001",
+   "slug": "Elco-Edge-R-Series",
+   "title": "EDGE-R Series user manual",
+   "type": "User / Owner",
+   "pages": 23,
+   "productModel": "EDGE-R Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4211001/Elco-Edge-R-Series.html"
+  },
+  {
+   "manualId": "3440371",
+   "slug": "Elco-Top7",
+   "title": "EFPLCAC0 user manual",
+   "type": "User / Owner",
+   "pages": 53,
+   "productModel": "EFPLCAC0",
+   "extraModels": [
+    "EFPLCAC0"
+   ],
+   "url": "https://www.manualslib.com/manual/3440371/Elco-Top7.html"
+  },
+  {
+   "manualId": "1373421",
+   "slug": "Elco-Ek-4-100-L-Za",
+   "title": "EK 4.100 L-ZA operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "EK 4.100 L-ZA",
+   "extraModels": [
+    "EK 4.160 L-ZA"
+   ],
+   "url": "https://www.manualslib.com/manual/1373421/Elco-Ek-4-100-L-Za.html"
+  },
+  {
+   "manualId": "3632242",
+   "slug": "Elco-Ek-Tron-5-300-G-R-Kn",
+   "title": "EK-TRON 5.300 G-R KN Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 46,
+   "productModel": "EK-TRON 5.300 G-R KN",
+   "extraModels": [
+    "3148337",
+    "3148338",
+    "3148339",
+    "3148340",
+    "3148341",
+    "3148342",
+    "3148343",
+    "3148344",
+    "3148345",
+    "3148346",
+    "3148510",
+    "3148511",
+    "3148512",
+    "3148513",
+    "3148514",
+    "3148515",
+    "3148789",
+    "3148790",
+    "3148791",
+    "3148792",
+    "3148793",
+    "3148799",
+    "3148800",
+    "3148801",
+    "EK-TRON 5.300 G-R KL 72H",
+    "EK-TRON 5.300 G-R KM 72H",
+    "EK-TRON 6.350 G-R KL 72H",
+    "EK-TRON 6.350 G-R KM 72H",
+    "EK-TRON 6.350 G-R KN",
+    "EK-TRON 6.400 G-R KL 72H",
+    "EK-TRON 6.400 G-R KM 72H",
+    "EK-TRON 6.400 G-R KN",
+    "EK-TRON 7.400 G-R KN",
+    "EK-TRON 7.500 G-R KL 72H",
+    "EK-TRON 7.500 G-R KM 72H",
+    "EK-TRON 7.500 G-R KN",
+    "EK-TRON 7.600 G-R KL 72H",
+    "EK-TRON 7.600 G-R KM 72H",
+    "EK-TRON 7.600 G-R KN"
+   ],
+   "url": "https://www.manualslib.com/manual/3632242/Elco-Ek-Tron-5-300-G-R-Kn.html"
+  },
+  {
+   "manualId": "3604784",
+   "slug": "Elco-Ek-Tron-8-1000-Gl-E-X2-Fce-S",
+   "title": "EK-TRON 8.1000 GL-E X2 FCE S Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 50,
+   "productModel": "EK-TRON 8.1000 GL-E X2 FCE S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3604784/Elco-Ek-Tron-8-1000-Gl-E-X2-Fce-S.html"
+  },
+  {
+   "manualId": "2971793",
+   "slug": "Elco-Ekevo-6-L-E",
+   "title": "EKEVO 6 L-E Original operating instructions",
+   "type": "User / Owner",
+   "pages": 68,
+   "productModel": "EKEVO 6 L-E",
+   "extraModels": [
+    "EKEVO 6 L-EF3",
+    "EKEVO 7 L-E",
+    "EKEVO 7 L-EF3",
+    "EKEVO 8 L-E",
+    "EKEVO 8 L-EF3",
+    "EKEVO 9 L-E",
+    "EKEVO 9 L-EUF",
+    "N6 L-E",
+    "N6-EF3",
+    "N7 L-E",
+    "N7 L-EF3",
+    "N8 L-E",
+    "N8 L-EF3",
+    "N9 L-E",
+    "N9 L-EUF"
+   ],
+   "url": "https://www.manualslib.com/manual/2971793/Elco-Ekevo-6-L-E.html"
+  },
+  {
+   "manualId": "3926080",
+   "slug": "Elco-Ekevo-6-2400-Gl-E",
+   "title": "EKEVO 6.2400 GL-E Original operating instructions",
+   "type": "User / Owner",
+   "pages": 76,
+   "productModel": "EKEVO 6.2400 GL-E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3926080/Elco-Ekevo-6-2400-Gl-E.html"
+  },
+  {
+   "manualId": "3274620",
+   "slug": "Elco-Ekevo-6-N6-2400-Gl-Ez3",
+   "title": "EKEVO 6/N6.2400 GL-EZ3 Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "EKEVO 6/N6.2400 GL-EZ3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3274620/Elco-Ekevo-6-N6-2400-Gl-Ez3.html"
+  },
+  {
+   "manualId": "3926081",
+   "slug": "Elco-Ekevo-7-3600-Gl-E",
+   "title": "EKEVO 7.3600 GL-E Original operating instructions",
+   "type": "User / Owner",
+   "pages": 76,
+   "productModel": "EKEVO 7.3600 GL-E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3926081/Elco-Ekevo-7-3600-Gl-E.html"
+  },
+  {
+   "manualId": "3926082",
+   "slug": "Elco-Ekevo-7-4500-Gl-E",
+   "title": "EKEVO 7.4500 GL-E Original operating instructions",
+   "type": "User / Owner",
+   "pages": 76,
+   "productModel": "EKEVO 7.4500 GL-E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3926082/Elco-Ekevo-7-4500-Gl-E.html"
+  },
+  {
+   "manualId": "3253227",
+   "slug": "Elco-Ekevo-N6-2400-Gl-E",
+   "title": "EKEVO N6.2400 GL-E Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 76,
+   "productModel": "EKEVO N6.2400 GL-E",
+   "extraModels": [
+    "EKEVO 10.400 GL-E",
+    "EKEVO 6.2900 GL-E",
+    "EKEVO 8.5800 GL-E",
+    "EKEVO 8.7100 GL-E",
+    "EKEVO 9.8700 GL-E",
+    "EKEVO N6.2900 GL-E",
+    "EKEVO N7.3600 GL-E",
+    "EKEVO N7.4500 GL-E",
+    "EKEVO N8.5800 GL-E",
+    "EKEVO N8.7100 GL-E",
+    "EKEVO N9.10400 GL-E",
+    "EKEVO N9.8700 GL-E"
+   ],
+   "url": "https://www.manualslib.com/manual/3253227/Elco-Ekevo-N6-2400-Gl-E.html"
+  },
+  {
+   "manualId": "2388455",
+   "slug": "Elco-Eko07042",
+   "title": "EKO07042 user manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "EKO07042",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2388455/Elco-Eko07042.html"
+  },
+  {
+   "manualId": "2355451",
+   "slug": "Elco-Aerotop-Hybrid",
+   "title": "Elco AEROTOP HYBRID Technical Instructions",
+   "type": "User / Owner",
+   "pages": 96,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2355451/Elco-Aerotop-Hybrid.html"
+  },
+  {
+   "manualId": "2399934",
+   "slug": "Elco-Aquatop-T-Series",
+   "title": "Elco AQUATOP T Series Planning Document",
+   "type": "Other",
+   "pages": 111,
+   "productModel": null,
+   "extraModels": [
+    "T05C",
+    "T05CRX",
+    "T05CX",
+    "T06C",
+    "T06CR",
+    "T06CRX",
+    "T06CX",
+    "T07CHT",
+    "T08C",
+    "T08CR",
+    "T08CRX",
+    "T08CX",
+    "T10C",
+    "T10CR",
+    "T10CRX",
+    "T10CX",
+    "T11CHT",
+    "T12C",
+    "T12CR",
+    "T12CRX",
+    "T12CX",
+    "T14C",
+    "T14CR",
+    "T17CH",
+    "T17CHR",
+    "T22H",
+    "T22HR",
+    "T28H",
+    "T28HR",
+    "T35H",
+    "T35HR",
+    "T43H",
+    "T43HR"
+   ],
+   "url": "https://www.manualslib.com/manual/2399934/Elco-Aquatop-T-Series.html"
+  },
+  {
+   "manualId": "3418135",
+   "slug": "Elco-Ekevo-6-N6-2400",
+   "title": "Elco EKEVO 6/N6.2400 Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 76,
+   "productModel": null,
+   "extraModels": [
+    "EKEVO 6/N6.2900 GL-EF3",
+    "EKEVO 7/N7.3600"
+   ],
+   "url": "https://www.manualslib.com/manual/3418135/Elco-Ekevo-6-N6-2400.html"
+  },
+  {
+   "manualId": "3622789",
+   "slug": "Elco-Osc1-Uc2b6-Q8-485",
+   "title": "Elco OSC1-UC2B6-Q8/485 Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3622789/Elco-Osc1-Uc2b6-Q8-485.html"
+  },
+  {
+   "manualId": "2154464",
+   "slug": "Elco-Pisces-Minifill-E1-1",
+   "title": "Elco PISCES MINIFILL E1/1 Instructions For Installation, Servicing & Maintenance",
+   "type": "Service",
+   "pages": 17,
+   "productModel": null,
+   "extraModels": [
+    "PISCES MINIFILL E1/2"
+   ],
+   "url": "https://www.manualslib.com/manual/2154464/Elco-Pisces-Minifill-E1-1.html"
+  },
+  {
+   "manualId": "1654812",
+   "slug": "Elco-Pisces-Minifill",
+   "title": "Elco PISCES MINIFILL Instructions For Installation, Servicing & Operation",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": null,
+   "extraModels": [
+    "M1/1"
+   ],
+   "url": "https://www.manualslib.com/manual/1654812/Elco-Pisces-Minifill.html"
+  },
+  {
+   "manualId": "3858770",
+   "slug": "Elco-T35",
+   "title": "Elco T35 Planning Document",
+   "type": "Other",
+   "pages": 88,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3858770/Elco-T35.html"
+  },
+  {
+   "manualId": "4419317",
+   "slug": "elk-38-digital-electronic-controller-operating-instructions",
+   "title": "ELK 38 Digital Electronic Controller Operating Instructions",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4419317/elk-38-digital-electronic-controller-operating-instructions.html"
+  },
+  {
+   "manualId": "1799973",
+   "slug": "Elco-Elk-38",
+   "title": "ELK 38 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "ELK 38",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1799973/Elco-Elk-38.html"
+  },
+  {
+   "manualId": "2793615",
+   "slug": "Elco-Elk22mp",
+   "title": "ELK22MP Instructions for use manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "ELK22MP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2793615/Elco-Elk22mp.html"
+  },
+  {
+   "manualId": "2843038",
+   "slug": "Elco-Elm-4d1p",
+   "title": "ELM-4D1P instruction manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "ELM-4D1P",
+   "extraModels": [
+    "ELM-4D1P-485A"
+   ],
+   "url": "https://www.manualslib.com/manual/2843038/Elco-Elm-4d1p.html"
+  },
+  {
+   "manualId": "2186795",
+   "slug": "Elco-Elm-96",
+   "title": "ELM-96 instruction manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "ELM-96",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2186795/Elco-Elm-96.html"
+  },
+  {
+   "manualId": "2651883",
+   "slug": "Elco-Elm-961",
+   "title": "ELM-961 instruction manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "ELM-961",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2651883/Elco-Elm-961.html"
+  },
+  {
+   "manualId": "2151040",
+   "slug": "Elco-Elm-96bp-Lon",
+   "title": "ELM-96BP-LON instruction manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "ELM-96BP-LON",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2151040/Elco-Elm-96bp-Lon.html"
+  },
+  {
+   "manualId": "3050755",
+   "slug": "Elco-Ems24-Series",
+   "title": "EMS24 Series Instructions for use manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "EMS24 Series",
+   "extraModels": [
+    "EMS24-R Series",
+    "EMS24-RC Series",
+    "EMS24-RCS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3050755/Elco-Ems24-Series.html"
+  },
+  {
+   "manualId": "4171801",
+   "slug": "Elco-Ep-6",
+   "title": "EP-100 User'smanual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "EP-100",
+   "extraModels": [
+    "EP-100",
+    "EP-12",
+    "EP-20",
+    "EP-200",
+    "EP-25",
+    "EP-250",
+    "EP-40",
+    "EP-70"
+   ],
+   "url": "https://www.manualslib.com/manual/4171801/Elco-Ep-6.html"
+  },
+  {
+   "manualId": "4596302",
+   "slug": "Elco-Ep-600",
+   "title": "EP-10000 installation instructions manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "EP-10000",
+   "extraModels": [
+    "EP-10000",
+    "EP-1200",
+    "EP-2000",
+    "EP-4000",
+    "EP-7000"
+   ],
+   "url": "https://www.manualslib.com/manual/4596302/Elco-Ep-600.html"
+  },
+  {
+   "manualId": "4180284",
+   "slug": "Elco-Ep-9-9",
+   "title": "EP-20 User'smanual",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "EP-20",
+   "extraModels": [
+    "EP-20",
+    "EP-14",
+    "EP-30",
+    "EP-5",
+    "EP-50"
+   ],
+   "url": "https://www.manualslib.com/manual/4180284/Elco-Ep-9-9.html"
+  },
+  {
+   "manualId": "1227376",
+   "slug": "Elco-Es08-2800-G-F-Vt",
+   "title": "ES08.2800 G/F-VT operating instructions manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "ES08.2800 G/F-VT",
+   "extraModels": [
+    "ES08.3700 G/F-VT",
+    "ES08.4000 G/F-VT",
+    "ES08.5000 G/F-VT"
+   ],
+   "url": "https://www.manualslib.com/manual/1227376/Elco-Es08-2800-G-F-Vt.html"
+  },
+  {
+   "manualId": "1227418",
+   "slug": "Elco-Es08-5200-G-F-Vt",
+   "title": "ES08.5200 G/F-VT operating instructions manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "ES08.5200 G/F-VT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1227418/Elco-Es08-5200-G-F-Vt.html"
+  },
+  {
+   "manualId": "1770827",
+   "slug": "Elco-Ethercat-Compact67-Slim",
+   "title": "EtherCAT Compact67 Slim Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "EtherCAT Compact67 Slim",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1770827/Elco-Ethercat-Compact67-Slim.html"
+  },
+  {
+   "manualId": "3575748",
+   "slug": "Elco-Ethercat-Slim67",
+   "title": "EtherCAT Slim67 System manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "EtherCAT Slim67",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3575748/Elco-Ethercat-Slim67.html"
+  },
+  {
+   "manualId": "1864142",
+   "slug": "Elco-Euron-Hg-12",
+   "title": "EURON HG 12 operating manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "EURON HG 12",
+   "extraModels": [
+    "EURON HSG 24 Combi",
+    "EURON HSG 30 Combi"
+   ],
+   "url": "https://www.manualslib.com/manual/1864142/Elco-Euron-Hg-12.html"
+  },
+  {
+   "manualId": "3867106",
+   "slug": "Elco-Euron-Hg-18",
+   "title": "EURON HG 18 operating manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "EURON HG 18",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3867106/Elco-Euron-Hg-18.html"
+  },
+  {
+   "manualId": "3867107",
+   "slug": "Elco-Euron-Hg-24",
+   "title": "EURON HG 24 operating manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "EURON HG 24",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3867107/Elco-Euron-Hg-24.html"
+  },
+  {
+   "manualId": "3867108",
+   "slug": "Elco-Euron-Hg-30",
+   "title": "EURON HG 30 operating manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "EURON HG 30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3867108/Elco-Euron-Hg-30.html"
+  },
+  {
+   "manualId": "4377159",
+   "slug": "Elco-Fcec-8lkm-8a-M",
+   "title": "FCEC-8LKM-8A-M System manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "FCEC-8LKM-8A-M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4377159/Elco-Fcec-8lkm-8a-M.html"
+  },
+  {
+   "manualId": "4224598",
+   "slug": "Elco-Fcei-8lkm-4a4b",
+   "title": "FCEI-4LKM-4A4S System manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": "FCEI-4LKM-4A4S",
+   "extraModels": [
+    "FCEI-4LKM-4A4S",
+    "FCEI-8LKM-8A"
+   ],
+   "url": "https://www.manualslib.com/manual/4224598/Elco-Fcei-8lkm-4a4b.html"
+  },
+  {
+   "manualId": "3695695",
+   "slug": "Elco-Fcen-16up-M12-M",
+   "title": "FCEN-16UP-M12-M Manual",
+   "type": "Other",
+   "pages": 76,
+   "productModel": "FCEN-16UP-M12-M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3695695/Elco-Fcen-16up-M12-M.html"
+  },
+  {
+   "manualId": "4382714",
+   "slug": "Elco-Fepn-0800p-M8",
+   "title": "FEPN-0404P-M8 user manual",
+   "type": "User / Owner",
+   "pages": 35,
+   "productModel": "FEPN-0404P-M8",
+   "extraModels": [
+    "FEPN-0404P-M8",
+    "FEPN-08UP-M8"
+   ],
+   "url": "https://www.manualslib.com/manual/4382714/Elco-Fepn-0800p-M8.html"
+  },
+  {
+   "manualId": "3558369",
+   "slug": "Elco-Fepn-04ua-M12-T",
+   "title": "FEPN-04UA-M12-T Manual",
+   "type": "Other",
+   "pages": 34,
+   "productModel": "FEPN-04UA-M12-T",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3558369/Elco-Fepn-04ua-M12-T.html"
+  },
+  {
+   "manualId": "3524908",
+   "slug": "Elco-Firebird-Envirogreen-Silver-Slimline-Systempac",
+   "title": "FireBird Envirogreen Silver Slimline Systempac Technical manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "FireBird Envirogreen Silver Slimline Systempac",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3524908/Elco-Firebird-Envirogreen-Silver-Slimline-Systempac.html"
+  },
+  {
+   "manualId": "1770422",
+   "slug": "Elco-Firebird-Fb-2-K-Ln",
+   "title": "Firebird FB 2 K LN instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "Firebird FB 2 K LN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1770422/Elco-Firebird-Fb-2-K-Ln.html"
+  },
+  {
+   "manualId": "2268056",
+   "slug": "Elco-Firebird-Fb-4-R-Ln",
+   "title": "Firebird FB 4 R LN instructions manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "Firebird FB 4 R LN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2268056/Elco-Firebird-Fb-4-R-Ln.html"
+  },
+  {
+   "manualId": "3519092",
+   "slug": "Elco-Firebird-Fb-4-1-26-Ln",
+   "title": "Firebird FB 4.1 26 LN Assembly, Commissioning And Maintenance Instructions",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Firebird FB 4.1 26 LN",
+   "extraModels": [
+    "3149698",
+    "3149699",
+    "416365",
+    "416366",
+    "Firebird FB 4.1 35 LN",
+    "Firebird FB 4.1 R 26 LN"
+   ],
+   "url": "https://www.manualslib.com/manual/3519092/Elco-Firebird-Fb-4-1-26-Ln.html"
+  },
+  {
+   "manualId": "1770404",
+   "slug": "Elco-Fs200-Im",
+   "title": "FS200 IM Manual",
+   "type": "Other",
+   "pages": 59,
+   "productModel": "FS200 IM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1770404/Elco-Fs200-Im.html"
+  },
+  {
+   "manualId": "4387378",
+   "slug": "Elco-Fx20-Scm-Bb00",
+   "title": "FX20 Serial Communication Module user manual",
+   "type": "User / Owner",
+   "pages": 29,
+   "productModel": "FX20 Serial Communication Module",
+   "extraModels": [
+    "FX20 Serial Communication Module"
+   ],
+   "url": "https://www.manualslib.com/manual/4387378/Elco-Fx20-Scm-Bb00.html"
+  },
+  {
+   "manualId": "3736618",
+   "slug": "Elco-Fx20-Series",
+   "title": "FX20 Series user manual",
+   "type": "User / Owner",
+   "pages": 75,
+   "productModel": "FX20 Series",
+   "extraModels": [
+    "FX20-AI-BD60",
+    "FX20-AI-BD80",
+    "FX20-AI-BD90",
+    "FX20-AI-BF60",
+    "FX20-AO-BD60",
+    "FX20-AO-BF60",
+    "FX20-DI-BF60",
+    "FX20-DI-BH60",
+    "FX20-DI-BL60",
+    "FX20-DO-BF00",
+    "FX20-DO-BF50",
+    "FX20-DO-BH00",
+    "FX20-DO-BH50",
+    "FX20-DO-BL00",
+    "FX20-DO-BL50",
+    "FX20-DO-RF00",
+    "FX20-DO-RF50",
+    "FX20-GW-EP00"
+   ],
+   "url": "https://www.manualslib.com/manual/3736618/Elco-Fx20-Series.html"
+  },
+  {
+   "manualId": "3789401",
+   "slug": "Elco-Fx20-Series",
+   "title": "FX20 Series user manual",
+   "type": "User / Owner",
+   "pages": 71,
+   "productModel": "FX20 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3789401/Elco-Fx20-Series.html"
+  },
+  {
+   "manualId": "3963066",
+   "slug": "Elco-Fx20-Series",
+   "title": "FX20 Series user manual",
+   "type": "User / Owner",
+   "pages": 76,
+   "productModel": "FX20 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3963066/Elco-Fx20-Series.html"
+  },
+  {
+   "manualId": "4086893",
+   "slug": "Elco-Fx20",
+   "title": "FX20 Series user manual",
+   "type": "User / Owner",
+   "pages": 35,
+   "productModel": "FX20 Series",
+   "extraModels": [
+    "FX20-CNT-BB00"
+   ],
+   "url": "https://www.manualslib.com/manual/4086893/Elco-Fx20.html"
+  },
+  {
+   "manualId": "3591589",
+   "slug": "Elco-Gemini-Hsc-Series",
+   "title": "Gemini HSC 200-i Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Gemini HSC 200-i",
+   "extraModels": [
+    "Gemini HSC 200-i",
+    "Gemini HSC 300-i",
+    "Gemini HSC 500-i"
+   ],
+   "url": "https://www.manualslib.com/manual/3591589/Elco-Gemini-Hsc-Series.html"
+  },
+  {
+   "manualId": "2529468",
+   "slug": "Elco-Gho-Tron-7-15000-R",
+   "title": "GHO-Tron 7.15000 R operating instructions manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "GHO-Tron 7.15000 R",
+   "extraModels": [
+    "GHO-Tron 7.17000 R"
+   ],
+   "url": "https://www.manualslib.com/manual/2529468/Elco-Gho-Tron-7-15000-R.html"
+  },
+  {
+   "manualId": "3891231",
+   "slug": "Elco-Hbr-12-10",
+   "title": "HBR 12-10 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "HBR 12-10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3891231/Elco-Hbr-12-10.html"
+  },
+  {
+   "manualId": "3891232",
+   "slug": "Elco-Hbr-20-25",
+   "title": "HBR 20-25 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "HBR 20-25",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3891232/Elco-Hbr-20-25.html"
+  },
+  {
+   "manualId": "1320688",
+   "slug": "Elco-Hf-20",
+   "title": "HF-20 instruction manual",
+   "type": "User / Owner",
+   "pages": 29,
+   "productModel": "HF-20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1320688/Elco-Hf-20.html"
+  },
+  {
+   "manualId": "909860",
+   "slug": "Elco-Hf-85",
+   "title": "HF-85 instruction manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "HF-85",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/909860/Elco-Hf-85.html"
+  },
+  {
+   "manualId": "4373010",
+   "slug": "Elco-Hi-Pro-C-O-R-Identifier",
+   "title": "Hi Pro C.O.R. Identifier instruction manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "Hi Pro C.O.R. Identifier",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4373010/Elco-Hi-Pro-C-O-R-Identifier.html"
+  },
+  {
+   "manualId": "2637721",
+   "slug": "Elco-Inels-Rfdac-71b",
+   "title": "iNELS RFDAC-71B quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "iNELS RFDAC-71B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2637721/Elco-Inels-Rfdac-71b.html"
+  },
+  {
+   "manualId": "3176092",
+   "slug": "Elco-Inels-Rfdel-76m",
+   "title": "iNels RFDEL-76M Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "iNels RFDEL-76M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3176092/Elco-Inels-Rfdel-76m.html"
+  },
+  {
+   "manualId": "2637024",
+   "slug": "Elco-Inels-Rfdsc-71n",
+   "title": "iNELS RFDSC-71N quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "iNELS RFDSC-71N",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2637024/Elco-Inels-Rfdsc-71n.html"
+  },
+  {
+   "manualId": "1850856",
+   "slug": "Elco-Wire-Wizard",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1850856/Elco-Wire-Wizard.html"
+  },
+  {
+   "manualId": "2110812",
+   "slug": "Elco-Rfda-11b",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2110812/Elco-Rfda-11b.html"
+  },
+  {
+   "manualId": "2164348",
+   "slug": "Elco-Osm40",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2164348/Elco-Osm40.html"
+  },
+  {
+   "manualId": "2536382",
+   "slug": "Elco-Osm40",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2536382/Elco-Osm40.html"
+  },
+  {
+   "manualId": "2494571",
+   "slug": "Elco-Vistron-G-Sch-N-200",
+   "title": "Instruction Manual For The Installer",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2494571/Elco-Vistron-G-Sch-N-200.html"
+  },
+  {
+   "manualId": "3220942",
+   "slug": "Elco-Ecd-Series",
+   "title": "Instructions For Use",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3220942/Elco-Ecd-Series.html"
+  },
+  {
+   "manualId": "1332462",
+   "slug": "Elco-L-03-240-Duo",
+   "title": "L 03.240 DUO operating instructions manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "L 03.240 DUO",
+   "extraModels": [
+    "L 03.300 DUO"
+   ],
+   "url": "https://www.manualslib.com/manual/1332462/Elco-L-03-240-Duo.html"
+  },
+  {
+   "manualId": "4327776",
+   "slug": "Elco-Lkha-04ua-Tc",
+   "title": "LKHA-04UA-QC System manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "LKHA-04UA-QC",
+   "extraModels": [
+    "LKHA-04UA-QC"
+   ],
+   "url": "https://www.manualslib.com/manual/4327776/Elco-Lkha-04ua-Tc.html"
+  },
+  {
+   "manualId": "3780974",
+   "slug": "Elco-Lkha-08ua-Tc",
+   "title": "LKHA-08UA-QC System manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "LKHA-08UA-QC",
+   "extraModels": [
+    "LKHA-08UA-QC"
+   ],
+   "url": "https://www.manualslib.com/manual/3780974/Elco-Lkha-08ua-Tc.html"
+  },
+  {
+   "manualId": "3780847",
+   "slug": "Elco-Lkha-16up-M12g",
+   "title": "LKHA-16UP-M12G System manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "LKHA-16UP-M12G",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3780847/Elco-Lkha-16up-M12g.html"
+  },
+  {
+   "manualId": "4335569",
+   "slug": "Elco-Lkha-16up-M12g-Ap4",
+   "title": "LKHA-16UP-M12G-AP4 System manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "LKHA-16UP-M12G-AP4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4335569/Elco-Lkha-16up-M12g-Ap4.html"
+  },
+  {
+   "manualId": "2985497",
+   "slug": "Elco-Lms",
+   "title": "LMS operating manual",
+   "type": "User / Owner",
+   "pages": 100,
+   "productModel": "LMS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2985497/Elco-Lms.html"
+  },
+  {
+   "manualId": "4212572",
+   "slug": "Elco-Logic-X-Series",
+   "title": "Logic X Series User'smanual",
+   "type": "User / Owner",
+   "pages": 81,
+   "productModel": "Logic X Series",
+   "extraModels": [
+    "Logic X0",
+    "Logic X1",
+    "Logic X3"
+   ],
+   "url": "https://www.manualslib.com/manual/4212572/Elco-Logic-X-Series.html"
+  },
+  {
+   "manualId": "894259",
+   "slug": "Elco-Logon-Sol-Plus",
+   "title": "LOGON SOL plus operating manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "LOGON SOL plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/894259/Elco-Logon-Sol-Plus.html"
+  },
+  {
+   "manualId": "1391302",
+   "slug": "Elco-Low-Nox-N10-12000-30-G-Eu2",
+   "title": "Low-NOx N10.12000.30 G-EU2 Operation manual",
+   "type": "Other",
+   "pages": 34,
+   "productModel": "Low-NOx N10.12000.30 G-EU2",
+   "extraModels": [
+    "Low-NOx N10.12000.37 G-EU2",
+    "Low-NOx N10.14000.37 G-EU2",
+    "Low-NOx N10.14000.45 G-EU2 FQ",
+    "Low-NOx N10.16000.45 G-EU2 FQ"
+   ],
+   "url": "https://www.manualslib.com/manual/1391302/Elco-Low-Nox-N10-12000-30-G-Eu2.html"
+  },
+  {
+   "manualId": "1674951",
+   "slug": "Elco-Agu2-550a109",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1674951/Elco-Agu2-550a109.html"
+  },
+  {
+   "manualId": "2604147",
+   "slug": "Elco-Inels-Rfsa-62b",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2604147/Elco-Inels-Rfsa-62b.html"
+  },
+  {
+   "manualId": "3508189",
+   "slug": "Elco-Inels-Zsb3-40",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3508189/Elco-Inels-Zsb3-40.html"
+  },
+  {
+   "manualId": "4345921",
+   "slug": "Elco-Sl100",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4345921/Elco-Sl100.html"
+  },
+  {
+   "manualId": "2154426",
+   "slug": "Elco-Mhs-Boilers-Trispace-Ar-60",
+   "title": "MHS Boilers Trispace AR 135 operating & maintenance manual",
+   "type": "Service",
+   "pages": 26,
+   "productModel": "MHS Boilers Trispace AR 135",
+   "extraModels": [
+    "MHS Boilers Trispace AR 135",
+    "MHS Boilers Trispace AR 160",
+    "MHS Boilers Trispace AR 180",
+    "MHS Boilers Trispace AR 240",
+    "MHS Boilers Trispace AR 280",
+    "MHS Boilers Trispace AR 315",
+    "MHS Boilers Trispace AR 360",
+    "MHS Boilers Trispace AR 400",
+    "MHS Boilers Trispace AR 460",
+    "MHS Boilers Trispace AR 650",
+    "MHS Boilers Trispace AR 800",
+    "MHS Boilers Trispace AR 90"
+   ],
+   "url": "https://www.manualslib.com/manual/2154426/Elco-Mhs-Boilers-Trispace-Ar-60.html"
+  },
+  {
+   "manualId": "2941049",
+   "slug": "Elco-Minifill-E",
+   "title": "Minifill-E Installation, Commissioning & Servicing Instructions",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "Minifill-E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2941049/Elco-Minifill-E.html"
+  },
+  {
+   "manualId": "4377402",
+   "slug": "Elco-Mvt-Valve-Terminal-Node",
+   "title": "MVT Valve Terminal Node user manual",
+   "type": "User / Owner",
+   "pages": 37,
+   "productModel": "MVT Valve Terminal Node",
+   "extraModels": [
+    "MVT-C-EC",
+    "MVT-E-EC"
+   ],
+   "url": "https://www.manualslib.com/manual/4377402/Elco-Mvt-Valve-Terminal-Node.html"
+  },
+  {
+   "manualId": "1425956",
+   "slug": "Elco-Mw-23-Bi-Inox",
+   "title": "MW-23 BI INOX owner's manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "MW-23 BI INOX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1425956/Elco-Mw-23-Bi-Inox.html"
+  },
+  {
+   "manualId": "1447389",
+   "slug": "Elco-Mw-900d23-I",
+   "title": "MW-900D23 I owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "MW-900D23 I",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1447389/Elco-Mw-900d23-I.html"
+  },
+  {
+   "manualId": "3253385",
+   "slug": "Elco-Mw-900d25",
+   "title": "MW-900D25 owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "MW-900D25",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3253385/Elco-Mw-900d25.html"
+  },
+  {
+   "manualId": "3775689",
+   "slug": "Elco-N11-19000-55-G-Eu2",
+   "title": "N11.19000.55 G-EU2 Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "N11.19000.55 G-EU2",
+   "extraModels": [
+    "N11.22000.75 G-EU2"
+   ],
+   "url": "https://www.manualslib.com/manual/3775689/Elco-N11-19000-55-G-Eu2.html"
+  },
+  {
+   "manualId": "2403296",
+   "slug": "Elco-N6-G-E-Bt3-Series",
+   "title": "N6 G-E/BT3 Series Schematic diagrams",
+   "type": "Parts & Wiring",
+   "pages": 11,
+   "productModel": "N6 G-E/BT3 Series",
+   "extraModels": [
+    "N7 G-E/BT3 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2403296/Elco-N6-G-E-Bt3-Series.html"
+  },
+  {
+   "manualId": "1819465",
+   "slug": "Elco-N6-G-Ef3-Bt3-Series",
+   "title": "N6 G-EF3/BT3 Series Electrical and Hydraulic Schematic",
+   "type": "Parts & Wiring",
+   "pages": 11,
+   "productModel": "N6 G-EF3/BT3 Series",
+   "extraModels": [
+    "N7 G-EF3/BT3 Series",
+    "N7.4500 G-EF3/BT3"
+   ],
+   "url": "https://www.manualslib.com/manual/1819465/Elco-N6-G-Ef3-Bt3-Series.html"
+  },
+  {
+   "manualId": "1499324",
+   "slug": "Elco-N6-2400-G-R",
+   "title": "N6.2400 G-R operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "N6.2400 G-R",
+   "extraModels": [
+    "N6.2900 G-R",
+    "N7.3600 G-R",
+    "N7.4500 G-R"
+   ],
+   "url": "https://www.manualslib.com/manual/1499324/Elco-N6-2400-G-R.html"
+  },
+  {
+   "manualId": "3241526",
+   "slug": "Elco-N6-2400-G-V",
+   "title": "N6.2400 G-V operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "N6.2400 G-V",
+   "extraModels": [
+    "N6.2900 G-V",
+    "N7.3600 G-V",
+    "N7.4500 G-V"
+   ],
+   "url": "https://www.manualslib.com/manual/3241526/Elco-N6-2400-G-V.html"
+  },
+  {
+   "manualId": "3304167",
+   "slug": "Elco-N6-2400-G-Vf3",
+   "title": "N6.2400 G-VF3 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "N6.2400 G-VF3",
+   "extraModels": [
+    "N6.2900 G-VF3",
+    "N7.3600 G-VF3",
+    "N7.4500 G-VF3"
+   ],
+   "url": "https://www.manualslib.com/manual/3304167/Elco-N6-2400-G-Vf3.html"
+  },
+  {
+   "manualId": "1524913",
+   "slug": "Elco-N6-2400-Gl-Rz3-Lfl",
+   "title": "N6.2400 GL-RZ3/LFL operating instructions manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "N6.2400 GL-RZ3/LFL",
+   "extraModels": [
+    "N6.2900 GL-RZ3/LFL",
+    "N7.3600 GL-RZ3/LFL",
+    "N7.4500 GL-RZ3/LFL"
+   ],
+   "url": "https://www.manualslib.com/manual/1524913/Elco-N6-2400-Gl-Rz3-Lfl.html"
+  },
+  {
+   "manualId": "1809963",
+   "slug": "Elco-N8-Gl-E-Bt3-Series",
+   "title": "N8 GL-E/BT3 Series Hydraulic schematics",
+   "type": "Parts & Wiring",
+   "pages": 11,
+   "productModel": "N8 GL-E/BT3 Series",
+   "extraModels": [
+    "N9 GL-E/BT3 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1809963/Elco-N8-Gl-E-Bt3-Series.html"
+  },
+  {
+   "manualId": "1805736",
+   "slug": "Elco-N8-L-E-Bt3-Series",
+   "title": "N8 L-E/BT3 Series Electrical and Hydraulic Schematic",
+   "type": "Parts & Wiring",
+   "pages": 11,
+   "productModel": "N8 L-E/BT3 Series",
+   "extraModels": [
+    "N8.7100 L-E/BT3",
+    "N9 L-E/BT3 Series",
+    "N9.10400 L-E/BT3",
+    "N9.8700 L-E/BT3"
+   ],
+   "url": "https://www.manualslib.com/manual/1805736/Elco-N8-L-E-Bt3-Series.html"
+  },
+  {
+   "manualId": "3558746",
+   "slug": "Elco-Osm47",
+   "title": "OSM47 instruction manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "OSM47",
+   "extraModels": [
+    "OSM47-CK500C2B6",
+    "OSM47-CK500C2B6/IO",
+    "OSM47-CK500C2B6Q12.1",
+    "OSM47-CK500C2B6Q12.1/IO"
+   ],
+   "url": "https://www.manualslib.com/manual/3558746/Elco-Osm47.html"
+  },
+  {
+   "manualId": "1687456",
+   "slug": "Elco-P2-120-G",
+   "title": "P2.120 G Original operating instructions",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "P2.120 G",
+   "extraModels": [
+    "P2.160 G",
+    "P2.70 G"
+   ],
+   "url": "https://www.manualslib.com/manual/1687456/Elco-P2-120-G.html"
+  },
+  {
+   "manualId": "3278597",
+   "slug": "Elco-P2-120-G-U",
+   "title": "P2.120 G-U operating instructions manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "P2.120 G-U",
+   "extraModels": [
+    "P2.160 G-U",
+    "P2.160 G-UTC",
+    "P2.210 G-U",
+    "P2.210 G-UTC"
+   ],
+   "url": "https://www.manualslib.com/manual/3278597/Elco-P2-120-G-U.html"
+  },
+  {
+   "manualId": "2154171",
+   "slug": "Elco-P2-190-L-Z-Lmo",
+   "title": "P2.190 L-Z/LMO operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "P2.190 L-Z/LMO",
+   "extraModels": [
+    "P2.300 L-Z/LMO"
+   ],
+   "url": "https://www.manualslib.com/manual/2154171/Elco-P2-190-L-Z-Lmo.html"
+  },
+  {
+   "manualId": "4509480",
+   "slug": "Elco-P3-350-G-U-Tcg",
+   "title": "P3.350 G-U/TCG Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "P3.350 G-U/TCG",
+   "extraModels": [
+    "P3.500 G-U/TCG"
+   ],
+   "url": "https://www.manualslib.com/manual/4509480/Elco-P3-350-G-U-Tcg.html"
+  },
+  {
+   "manualId": "3125533",
+   "slug": "Elco-Pc-7730",
+   "title": "PC-7730 quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "PC-7730",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3125533/Elco-Pc-7730.html"
+  },
+  {
+   "manualId": "3109161",
+   "slug": "Elco-Pd-96bt",
+   "title": "PD-96BT Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "PD-96BT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3109161/Elco-Pd-96bt.html"
+  },
+  {
+   "manualId": "2912643",
+   "slug": "Elco-Polywarm-Maxi-Pwc1-500",
+   "title": "Polywarm-Maxi PWB-1000 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "Polywarm-Maxi PWB-1000",
+   "extraModels": [
+    "Polywarm-Maxi PWB-1000",
+    "Polywarm-Maxi PWB-1500",
+    "Polywarm-Maxi PWB-2000",
+    "Polywarm-Maxi PWB-2500",
+    "Polywarm-Maxi PWB-3000",
+    "Polywarm-Maxi PWB-500",
+    "Polywarm-Maxi PWB-800",
+    "Polywarm-Maxi PWC1-1000",
+    "Polywarm-Maxi PWC1-1500",
+    "Polywarm-Maxi PWC1-800",
+    "Polywarm-Maxi PWC2-1000",
+    "Polywarm-Maxi PWC2-1500",
+    "Polywarm-Maxi PWC2-500",
+    "Polywarm-Maxi PWC2-800"
+   ],
+   "url": "https://www.manualslib.com/manual/2912643/Elco-Polywarm-Maxi-Pwc1-500.html"
+  },
+  {
+   "manualId": "4360765",
+   "slug": "Elco-Pv-49c",
+   "title": "PV-49C user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "PV-49C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4360765/Elco-Pv-49c.html"
+  },
+  {
+   "manualId": "1831816",
+   "slug": "Elco-Qaa74",
+   "title": "QAA74 Operation manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "QAA74",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1831816/Elco-Qaa74.html"
+  },
+  {
+   "manualId": "2903844",
+   "slug": "Elco-Elkm43",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2903844/Elco-Elkm43.html"
+  },
+  {
+   "manualId": "1730048",
+   "slug": "Elco-Crm-2h",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1730048/Elco-Crm-2h.html"
+  },
+  {
+   "manualId": "2877607",
+   "slug": "Elco-Ts-5021",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2877607/Elco-Ts-5021.html"
+  },
+  {
+   "manualId": "2883737",
+   "slug": "Elco-Ssrsmc3-32-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2883737/Elco-Ssrsmc3-32-Series.html"
+  },
+  {
+   "manualId": "1805742",
+   "slug": "Elco-Trigon-Xxl-Evo-600",
+   "title": "R3400 Series Operation and installation manual",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "R3400 Series",
+   "extraModels": [
+    "R3400 Series",
+    "R3401",
+    "R3402",
+    "R3403",
+    "R3404",
+    "R3405",
+    "R3406",
+    "R3500 Series",
+    "R3501",
+    "R3502",
+    "R3503",
+    "R3504",
+    "R3505",
+    "TRIGON XXL EVO 1000",
+    "TRIGON XXL EVO 1100",
+    "TRIGON XXL EVO 1700",
+    "TRIGON XXL EVO 700",
+    "TRIGON XXL EVO 800",
+    "TRIGON XXL EVO 900",
+    "R3600 Series",
+    "R3603",
+    "R3604"
+   ],
+   "url": "https://www.manualslib.com/manual/1805742/Elco-Trigon-Xxl-Evo-600.html"
+  },
+  {
+   "manualId": "3530869",
+   "slug": "Elco-R3400",
+   "title": "R3400 Series Operation and installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "R3400 Series",
+   "extraModels": [
+    "R3401",
+    "R3402",
+    "R3403",
+    "R3404",
+    "R3405",
+    "R3406",
+    "R3407",
+    "R3408",
+    "R3409",
+    "R3410",
+    "R3500 Series",
+    "R3501",
+    "R3502",
+    "R3503",
+    "R3504",
+    "R3505",
+    "R3600SB",
+    "R3601SB",
+    "R3602SB",
+    "R3603SB",
+    "R3604SB",
+    "R3605SB"
+   ],
+   "url": "https://www.manualslib.com/manual/3530869/Elco-R3400.html"
+  },
+  {
+   "manualId": "3865102",
+   "slug": "Elco-R3601",
+   "title": "R3601 Operation and installation manual",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "R3601",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3865102/Elco-R3601.html"
+  },
+  {
+   "manualId": "3865103",
+   "slug": "Elco-R3602",
+   "title": "R3602 Operation and installation manual",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "R3602",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3865103/Elco-R3602.html"
+  },
+  {
+   "manualId": "3865104",
+   "slug": "Elco-R3605",
+   "title": "R3605 Operation and installation manual",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "R3605",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3865104/Elco-R3605.html"
+  },
+  {
+   "manualId": "2940299",
+   "slug": "Elco-Remocon-Net-B",
+   "title": "REMOCON NET B Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "REMOCON NET B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2940299/Elco-Remocon-Net-B.html"
+  },
+  {
+   "manualId": "4260213",
+   "slug": "Elco-Remocon-Net-B",
+   "title": "REMOCON NET B Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "REMOCON NET B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4260213/Elco-Remocon-Net-B.html"
+  },
+  {
+   "manualId": "2993677",
+   "slug": "Elco-Remocon-Net-Mini",
+   "title": "REMOCON NET MINI Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "REMOCON NET MINI",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2993677/Elco-Remocon-Net-Mini.html"
+  },
+  {
+   "manualId": "4253198",
+   "slug": "Elco-Remocon-Net-Mini",
+   "title": "REMOCON NET MINI Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "REMOCON NET MINI",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4253198/Elco-Remocon-Net-Mini.html"
+  },
+  {
+   "manualId": "2964441",
+   "slug": "Elco-Remocon-Plus-2",
+   "title": "REMOCON PLUS 2 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 152,
+   "productModel": "REMOCON PLUS 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2964441/Elco-Remocon-Plus-2.html"
+  },
+  {
+   "manualId": "1142257",
+   "slug": "Elco-Rendamax-30",
+   "title": "RENDAMAX 30 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "RENDAMAX 30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1142257/Elco-Rendamax-30.html"
+  },
+  {
+   "manualId": "1206963",
+   "slug": "Elco-Rpd-30",
+   "title": "RPD 100 Operation manual",
+   "type": "Other",
+   "pages": 91,
+   "productModel": "RPD 100",
+   "extraModels": [
+    "RPD 100",
+    "RPD 40",
+    "RPD 50",
+    "RPD 60",
+    "RPD 70",
+    "RPD 80",
+    "RPD 90"
+   ],
+   "url": "https://www.manualslib.com/manual/1206963/Elco-Rpd-30.html"
+  },
+  {
+   "manualId": "3787304",
+   "slug": "Elco-Se4",
+   "title": "SE4 instruction manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "SE4",
+   "extraModels": [
+    "SE4P14-1000",
+    "SE4P14-1000L",
+    "SE4P14-150",
+    "SE4P14-150L",
+    "SE4P14-200",
+    "SE4P14-200L",
+    "SE4P14-300",
+    "SE4P14-300L",
+    "SE4P14-450",
+    "SE4P14-450L",
+    "SE4P14-600",
+    "SE4P14-600L",
+    "SE4P14-750",
+    "SE4P14-750L",
+    "SE4P14-900",
+    "SE4P14-900L",
+    "SE4P30-1050",
+    "SE4P30-1050L",
+    "SE4P30-1200",
+    "SE4P30-1200L",
+    "SE4P30-1350",
+    "SE4P30-1350L",
+    "SE4P30-150",
+    "SE4P30-1500",
+    "SE4P30-1500L",
+    "SE4P30-150L",
+    "SE4P30-1650",
+    "SE4P30-1650L",
+    "SE4P30-1700",
+    "SE4P30-1700L",
+    "SE4P30-200",
+    "SE4P30-200L",
+    "SE4P30-300",
+    "SE4P30-300L",
+    "SE4P30-450",
+    "SE4P30-450L",
+    "SE4P30-600",
+    "SE4P30-600L",
+    "SE4P30-750",
+    "SE4P30-750L",
+    "SE4P30-900",
+    "SE4P30-900L",
+    "SE4P50-1050",
+    "SE4P50-1050L",
+    "SE4P50-1200",
+    "SE4P50-1200L",
+    "SE4P50-1350",
+    "SE4P50-1350L",
+    "SE4P50-150",
+    "SE4P50-1500",
+    "SE4P50-1500L",
+    "SE4P50-150L",
+    "SE4P50-1650",
+    "SE4P50-1650L",
+    "SE4P50-1800",
+    "SE4P50-1800L",
+    "SE4P50-200",
+    "SE4P50-200L",
+    "SE4P50-300",
+    "SE4P50-300L",
+    "SE4P50-450",
+    "SE4P50-450L",
+    "SE4P50-600",
+    "SE4P50-600L",
+    "SE4P50-750",
+    "SE4P50-750L",
+    "SE4P50-900",
+    "SE4P50-900L"
+   ],
+   "url": "https://www.manualslib.com/manual/3787304/Elco-Se4.html"
+  },
+  {
+   "manualId": "3046733",
+   "slug": "Elco-Spider67",
+   "title": "Spider67 Manual",
+   "type": "Other",
+   "pages": 50,
+   "productModel": "Spider67",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3046733/Elco-Spider67.html"
+  },
+  {
+   "manualId": "3419096",
+   "slug": "Elco-Ssc-Series",
+   "title": "SSB Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "SSB Series",
+   "extraModels": [
+    "SSB Series",
+    "SSB-1000",
+    "SSB-1300",
+    "SSB-1500",
+    "SSB-2000",
+    "SSB-2500",
+    "SSB-3000",
+    "SSB-500",
+    "SSB-800",
+    "SSC1-1000",
+    "SSC1-1300",
+    "SSC1-1500",
+    "SSC1-2000",
+    "SSC1-500",
+    "SSC1-800",
+    "SSC2-1000",
+    "SSC2-1300",
+    "SSC2-1500",
+    "SSC2-2000",
+    "SSC2-500",
+    "SSC2-800"
+   ],
+   "url": "https://www.manualslib.com/manual/3419096/Elco-Ssc-Series.html"
+  },
+  {
+   "manualId": "3858768",
+   "slug": "Elco-T12",
+   "title": "T12 Planning Document",
+   "type": "Other",
+   "pages": 88,
+   "productModel": "T12",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3858768/Elco-T12.html"
+  },
+  {
+   "manualId": "3858769",
+   "slug": "Elco-T20",
+   "title": "T20 Planning Document",
+   "type": "Other",
+   "pages": 88,
+   "productModel": "T20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3858769/Elco-T20.html"
+  },
+  {
+   "manualId": "2394421",
+   "slug": "Elco-Thision-Evo-Wh-Series",
+   "title": "Thision EVO WH 250-120 Operation and installation manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "Thision EVO WH 250-120",
+   "extraModels": [
+    "Thision EVO WH 250-120",
+    "Thision EVO WH 250-70",
+    "Thision EVO WH 500-120",
+    "Thision EVO WH 500-70"
+   ],
+   "url": "https://www.manualslib.com/manual/2394421/Elco-Thision-Evo-Wh-Series.html"
+  },
+  {
+   "manualId": "1611747",
+   "slug": "Elco-Thision-L-Evo-Series",
+   "title": "THISION L Eco 100 System manual",
+   "type": "Other",
+   "pages": 33,
+   "productModel": "THISION L Eco 100",
+   "extraModels": [
+    "THISION L Eco 100",
+    "THISION L Eco 120",
+    "THISION L Eco 70",
+    "THISION L ECO Series",
+    "THISION L Evo 100",
+    "THISION L Evo 120",
+    "THISION L Evo 140",
+    "THISION L Evo 60",
+    "THISION L Evo 70",
+    "THISION L Evo 80",
+    "THISION S Plus 34",
+    "THISION S Plus 46",
+    "THISION S Plus 54",
+    "THISION S PLUS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1611747/Elco-Thision-L-Evo-Series.html"
+  },
+  {
+   "manualId": "1614201",
+   "slug": "Elco-Thision-L-Evo-R40-Evo-60",
+   "title": "THISION L EVO / R40 EVO 60 Technical documentation manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "THISION L EVO / R40 EVO 60",
+   "extraModels": [
+    "THISION L EVO / R40 EVO 70",
+    "THISION L EVO / R40 EVO 80"
+   ],
+   "url": "https://www.manualslib.com/manual/1614201/Elco-Thision-L-Evo-R40-Evo-60.html"
+  },
+  {
+   "manualId": "1072327",
+   "slug": "Elco-Thision-L",
+   "title": "THISION L Operation and installation manual",
+   "type": "Installation",
+   "pages": 252,
+   "productModel": "THISION L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1072327/Elco-Thision-L.html"
+  },
+  {
+   "manualId": "1190890",
+   "slug": "Elco-Thision-L",
+   "title": "THISION L Operation and installation manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "THISION L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1190890/Elco-Thision-L.html"
+  },
+  {
+   "manualId": "2006027",
+   "slug": "Elco-Thision-L-Plus",
+   "title": "THISION L PLUS operating manual",
+   "type": "User / Owner",
+   "pages": 109,
+   "productModel": "THISION L PLUS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2006027/Elco-Thision-L-Plus.html"
+  },
+  {
+   "manualId": "1836219",
+   "slug": "Elco-Trigon-S-Plus",
+   "title": "THISION S Combi user manual",
+   "type": "User / Owner",
+   "pages": 100,
+   "productModel": "THISION S Combi",
+   "extraModels": [
+    "THISION S Combi",
+    "THISION S Compact",
+    "THISION S DUO",
+    "THISION S PLUS",
+    "THISION S Solar"
+   ],
+   "url": "https://www.manualslib.com/manual/1836219/Elco-Trigon-S-Plus.html"
+  },
+  {
+   "manualId": "923790",
+   "slug": "Elco-Thision-Wh",
+   "title": "THISION WH Operation and installation manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "THISION WH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/923790/Elco-Thision-Wh.html"
+  },
+  {
+   "manualId": "3877585",
+   "slug": "Elco-Trigon-100",
+   "title": "TRIGON 100 operating manual",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "TRIGON 100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877585/Elco-Trigon-100.html"
+  },
+  {
+   "manualId": "3877586",
+   "slug": "Elco-Trigon-120",
+   "title": "TRIGON 120 operating manual",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "TRIGON 120",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877586/Elco-Trigon-120.html"
+  },
+  {
+   "manualId": "3877583",
+   "slug": "Elco-Trigon-65",
+   "title": "TRIGON 65 operating manual",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "TRIGON 65",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877583/Elco-Trigon-65.html"
+  },
+  {
+   "manualId": "3877584",
+   "slug": "Elco-Trigon-85",
+   "title": "TRIGON 85 operating manual",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "TRIGON 85",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877584/Elco-Trigon-85.html"
+  },
+  {
+   "manualId": "2132675",
+   "slug": "Elco-Trigon-L",
+   "title": "TRIGON L operating manual",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "TRIGON L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2132675/Elco-Trigon-L.html"
+  },
+  {
+   "manualId": "2409116",
+   "slug": "Elco-Trigon-L-Plus",
+   "title": "TRIGON L PLUS operating manual",
+   "type": "User / Owner",
+   "pages": 108,
+   "productModel": "TRIGON L PLUS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2409116/Elco-Trigon-L-Plus.html"
+  },
+  {
+   "manualId": "1863969",
+   "slug": "Elco-Trigon-Xl-Series",
+   "title": "Trigon XL 115 Operation and installation manual",
+   "type": "Installation",
+   "pages": 242,
+   "productModel": "Trigon XL 115",
+   "extraModels": [
+    "Trigon XL 115",
+    "Trigon XL 150",
+    "Trigon XL 200",
+    "Trigon XL 250",
+    "Trigon XL 300",
+    "Trigon XL 350",
+    "Trigon XL 400",
+    "Trigon XL 500",
+    "Trigon XL 570"
+   ],
+   "url": "https://www.manualslib.com/manual/1863969/Elco-Trigon-Xl-Series.html"
+  },
+  {
+   "manualId": "2154438",
+   "slug": "Elco-Trigon-Xl-150",
+   "title": "Trigon XL 115 Operation and installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Trigon XL 115",
+   "extraModels": [
+    "Trigon XL 115",
+    "Trigon XL 200",
+    "Trigon XL 250",
+    "Trigon XL 300",
+    "Trigon XL 350",
+    "Trigon XL 400",
+    "Trigon XL 500",
+    "Trigon XL 570"
+   ],
+   "url": "https://www.manualslib.com/manual/2154438/Elco-Trigon-Xl-150.html"
+  },
+  {
+   "manualId": "1863972",
+   "slug": "Elco-Trigon-Xxl-Series",
+   "title": "TRIGON XXL ECO 1050 Installation and operation manual",
+   "type": "Installation",
+   "pages": 55,
+   "productModel": "TRIGON XXL ECO 1050",
+   "extraModels": [
+    "TRIGON XXL ECO 1050",
+    "TRIGON XXL ECO 1150",
+    "TRIGON XXL ECO 1300",
+    "TRIGON XXL ECO 1450",
+    "TRIGON XXL ECO 1600",
+    "TRIGON XXL ECO 650",
+    "TRIGON XXL ECO 750",
+    "TRIGON XXL ECO 850",
+    "TRIGON XXL ECO 950",
+    "TRIGON XXL EVO 1000",
+    "TRIGON XXL EVO 1100",
+    "TRIGON XXL EVO 1200",
+    "TRIGON XXL EVO 1400",
+    "TRIGON XXL EVO 1550",
+    "TRIGON XXL EVO 1700",
+    "TRIGON XXL EVO 2000",
+    "TRIGON XXL EVO 700",
+    "TRIGON XXL EVO 800",
+    "TRIGON XXL EVO 900",
+    "TRIGON XXL SE 1000",
+    "TRIGON XXL SE 1100",
+    "TRIGON XXL SE 1200",
+    "TRIGON XXL SE 1300",
+    "TRIGON XXL SE 1500",
+    "TRIGON XXL SE 1700",
+    "TRIGON XXL SE 1900",
+    "TRIGON XXL SE 650",
+    "TRIGON XXL SE 750",
+    "TRIGON XXL SE 850"
+   ],
+   "url": "https://www.manualslib.com/manual/1863972/Elco-Trigon-Xxl-Series.html"
+  },
+  {
+   "manualId": "3697079",
+   "slug": "Elco-Trigon-Xxl-Series",
+   "title": "TRIGON XXL ECO 1050 Installation and operation manual",
+   "type": "Installation",
+   "pages": 272,
+   "productModel": "TRIGON XXL ECO 1050",
+   "extraModels": [
+    "TRIGON XXL ECO 1050",
+    "TRIGON XXL ECO 1150",
+    "TRIGON XXL ECO 1300",
+    "TRIGON XXL ECO 1450",
+    "TRIGON XXL ECO 1600",
+    "TRIGON XXL ECO 650",
+    "TRIGON XXL ECO 750",
+    "TRIGON XXL ECO 850",
+    "TRIGON XXL ECO 950",
+    "TRIGON XXL EVO 1000",
+    "TRIGON XXL EVO 1100",
+    "TRIGON XXL EVO 1200",
+    "TRIGON XXL EVO 1400",
+    "TRIGON XXL EVO 1550",
+    "TRIGON XXL EVO 1700",
+    "TRIGON XXL EVO 2000",
+    "TRIGON XXL EVO 700",
+    "TRIGON XXL EVO 800",
+    "TRIGON XXL EVO 900",
+    "TRIGON XXL SE 1000",
+    "TRIGON XXL SE 1100",
+    "TRIGON XXL SE 1200",
+    "TRIGON XXL SE 1300",
+    "TRIGON XXL SE 1500",
+    "TRIGON XXL SE 1700",
+    "TRIGON XXL SE 1900",
+    "TRIGON XXL SE 650",
+    "TRIGON XXL SE 750",
+    "TRIGON XXL SE 850"
+   ],
+   "url": "https://www.manualslib.com/manual/3697079/Elco-Trigon-Xxl-Series.html"
+  },
+  {
+   "manualId": "1620350",
+   "slug": "Elco-Trigon-Xxl-Series",
+   "title": "TRIGON XXL ECO 1050 Planner Documentation",
+   "type": "Other",
+   "pages": 65,
+   "productModel": "TRIGON XXL ECO 1050",
+   "extraModels": [
+    "TRIGON XXL ECO 1050",
+    "TRIGON XXL ECO 1150",
+    "TRIGON XXL ECO 1300",
+    "TRIGON XXL ECO 1450",
+    "TRIGON XXL ECO 1600",
+    "TRIGON XXL ECO 650",
+    "TRIGON XXL ECO 750",
+    "TRIGON XXL ECO 850",
+    "TRIGON XXL ECO 950",
+    "TRIGON XXL ECO Series",
+    "TRIGON XXL EVO 1000",
+    "TRIGON XXL EVO 1100",
+    "TRIGON XXL EVO 1200",
+    "TRIGON XXL EVO 1400",
+    "TRIGON XXL EVO 1550",
+    "TRIGON XXL EVO 1700",
+    "TRIGON XXL EVO 2000",
+    "TRIGON XXL EVO 700",
+    "TRIGON XXL EVO 800",
+    "TRIGON XXL EVO 900",
+    "TRIGON XXL EVO Series",
+    "TRIGON XXL SE 1000",
+    "TRIGON XXL SE 1100",
+    "TRIGON XXL SE 1200",
+    "TRIGON XXL SE 1300",
+    "TRIGON XXL SE 1500",
+    "TRIGON XXL SE 1700",
+    "TRIGON XXL SE 1900",
+    "TRIGON XXL SE 650",
+    "TRIGON XXL SE 750",
+    "TRIGON XXL SE 850",
+    "TRIGON XXL SE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1620350/Elco-Trigon-Xxl-Series.html"
+  },
+  {
+   "manualId": "2154410",
+   "slug": "Elco-Trinox-1000",
+   "title": "Trinox 1000 operating & maintenance manual",
+   "type": "Service",
+   "pages": 22,
+   "productModel": "Trinox 1000",
+   "extraModels": [
+    "Trinox 1200",
+    "Trinox 1500",
+    "Trinox 1750",
+    "Trinox 2150",
+    "Trinox 2580",
+    "Trinox 3000",
+    "Trinox 3500",
+    "Trinox 4000",
+    "Trinox 4300",
+    "Trinox 5000",
+    "Trinox 6000",
+    "Trinox 7500",
+    "Trinox 9000"
+   ],
+   "url": "https://www.manualslib.com/manual/2154410/Elco-Trinox-1000.html"
+  },
+  {
+   "manualId": "2030449",
+   "slug": "Elco-Tudor-Nhrec",
+   "title": "Tudor NHREC Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "Tudor NHREC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2030449/Elco-Tudor-Nhrec.html"
+  },
+  {
+   "manualId": "2030451",
+   "slug": "Elco-Tudor-Nhrex",
+   "title": "Tudor NHREX Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Tudor NHREX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2030451/Elco-Tudor-Nhrex.html"
+  },
+  {
+   "manualId": "2143541",
+   "slug": "Elco-Elk4b",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2143541/Elco-Elk4b.html"
+  },
+  {
+   "manualId": "2530754",
+   "slug": "Elco-Elk4c",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2530754/Elco-Elk4c.html"
+  },
+  {
+   "manualId": "3071740",
+   "slug": "Elco-Tse-485-Wifi",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3071740/Elco-Tse-485-Wifi.html"
+  },
+  {
+   "manualId": "4221516",
+   "slug": "Elco-Elc40",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4221516/Elco-Elc40.html"
+  },
+  {
+   "manualId": "4339118",
+   "slug": "Elco-Pdt-1123",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4339118/Elco-Pdt-1123.html"
+  },
+  {
+   "manualId": "849638",
+   "slug": "Elco-Note_box_010",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/849638/Elco-Note_box_010.html"
+  },
+  {
+   "manualId": "1676957",
+   "slug": "Elco-Varion-C-Power-S-Series",
+   "title": "VARION C-POWER 20.0 Operation manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "VARION C-POWER 20.0",
+   "extraModels": [
+    "VARION C-POWER 20.0",
+    "VARION C-POWER 25.0",
+    "VARION C-POWER 11.0",
+    "VARION C-POWER 16.0",
+    "VARION C-POWER 30.0",
+    "VARION C-POWER 7.2",
+    "VARION C-POWER M Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1676957/Elco-Varion-C-Power-S-Series.html"
+  },
+  {
+   "manualId": "4564820",
+   "slug": "Elco-Varion-C-Power-50-0-Standard",
+   "title": "VARION C-POWER 50.0 Calorific value Operation manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "VARION C-POWER 50.0 Calorific value",
+   "extraModels": [
+    "VARION C-POWER 50.0 Calorific value",
+    "VARION C-POWER 50.0 High temperature"
+   ],
+   "url": "https://www.manualslib.com/manual/4564820/Elco-Varion-C-Power-50-0-Standard.html"
+  },
+  {
+   "manualId": "1863970",
+   "slug": "Elco-Varion-C-Power-50-0",
+   "title": "VARION C-POWER 50.0 operating manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "VARION C-POWER 50.0",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1863970/Elco-Varion-C-Power-50-0.html"
+  },
+  {
+   "manualId": "1588452",
+   "slug": "Elco-Vb-2-Vd-Series",
+   "title": "VB 2.** VD Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "VB 2.** VD Series",
+   "extraModels": [
+    "VB 2.38 VD",
+    "VB 2.45 VD",
+    "VB 2.54 VD",
+    "VB 2.66 VD",
+    "VB 2.77 VD",
+    "VB 2.85 VD",
+    "VB 2.95 VD"
+   ],
+   "url": "https://www.manualslib.com/manual/1588452/Elco-Vb-2-Vd-Series.html"
+  },
+  {
+   "manualId": "2763095",
+   "slug": "Elco-Vb1-20",
+   "title": "VB1.20 operating manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "VB1.20",
+   "extraModels": [
+    "VB1.24",
+    "VB1.28",
+    "VB1.30",
+    "VB1.35",
+    "VB1.47"
+   ],
+   "url": "https://www.manualslib.com/manual/2763095/Elco-Vb1-20.html"
+  },
+  {
+   "manualId": "3246198",
+   "slug": "Elco-Ve-2-100-D",
+   "title": "VE 2.100 D operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "VE 2.100 D",
+   "extraModels": [
+    "VE 2.150 D"
+   ],
+   "url": "https://www.manualslib.com/manual/3246198/Elco-Ve-2-100-D.html"
+  },
+  {
+   "manualId": "4383617",
+   "slug": "Elco-Vectron-B-30-120-Duo",
+   "title": "VECTRON B 30.120 DUO operating manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "VECTRON B 30.120 DUO",
+   "extraModels": [
+    "VECTRON B 30.190 DUO",
+    "VECTRON B 30.230 DUO",
+    "VECTRON B 35.320 DUO",
+    "VECTRON B 35.370 DUO"
+   ],
+   "url": "https://www.manualslib.com/manual/4383617/Elco-Vectron-B-30-120-Duo.html"
+  },
+  {
+   "manualId": "1137289",
+   "slug": "Elco-Vectron-Eco-1-34",
+   "title": "VECTRON ECO 1.34 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "VECTRON ECO 1.34",
+   "extraModels": [
+    "VECTRON ECO 1.35",
+    "VECTRON ECO 1.50",
+    "VECTRON ECO 1.52",
+    "VECTRON ECO 1.75"
+   ],
+   "url": "https://www.manualslib.com/manual/1137289/Elco-Vectron-Eco-1-34.html"
+  },
+  {
+   "manualId": "3177206",
+   "slug": "Elco-Vectron-Eco-1-34a",
+   "title": "VECTRON ECO 1.34 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "VECTRON ECO 1.34",
+   "extraModels": [
+    "VECTRON ECO 1.35",
+    "VECTRON ECO 1.50",
+    "VECTRON ECO 1.52A",
+    "VECTRON ECO 1.75"
+   ],
+   "url": "https://www.manualslib.com/manual/3177206/Elco-Vectron-Eco-1-34a.html"
+  },
+  {
+   "manualId": "1216697",
+   "slug": "Elco-Vectron-G-03-200-Duo",
+   "title": "VECTRON G 03.200 DUO operating instructions manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "VECTRON G 03.200 DUO",
+   "extraModels": [
+    "VECTRON G 03.240 DUO",
+    "VECTRON G 03.300 DUO"
+   ],
+   "url": "https://www.manualslib.com/manual/1216697/Elco-Vectron-G-03-200-Duo.html"
+  },
+  {
+   "manualId": "1770722",
+   "slug": "Elco-Vectron-G-03-240-Duo-Plus",
+   "title": "VECTRON G 03.240 DUO PLUS operating instructions manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "VECTRON G 03.240 DUO PLUS",
+   "extraModels": [
+    "VECTRON G 03.300 DUO PLUS"
+   ],
+   "url": "https://www.manualslib.com/manual/1770722/Elco-Vectron-G-03-240-Duo-Plus.html"
+  },
+  {
+   "manualId": "3192782",
+   "slug": "Elco-Vectron-G-04-430-Duo",
+   "title": "VECTRON G 04.430 DUO operating instructions manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "VECTRON G 04.430 DUO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3192782/Elco-Vectron-G-04-430-Duo.html"
+  },
+  {
+   "manualId": "1662368",
+   "slug": "Elco-Variatron-K1-5mt",
+   "title": "VECTRON G 05.1000 DUO PLUS operating instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "VECTRON G 05.1000 DUO PLUS",
+   "extraModels": [
+    "VECTRON G 05.1000 DUO PLUS",
+    "VECTRON G 05.700 DUO PLUS"
+   ],
+   "url": "https://www.manualslib.com/manual/1662368/Elco-Variatron-K1-5mt.html"
+  },
+  {
+   "manualId": "2188911",
+   "slug": "Elco-Vectron-G-05-700-Duo-Plus",
+   "title": "VECTRON G 05.1000 DUO PLUS operating instructions manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "VECTRON G 05.1000 DUO PLUS",
+   "extraModels": [
+    "VECTRON G 05.1000 DUO PLUS"
+   ],
+   "url": "https://www.manualslib.com/manual/2188911/Elco-Vectron-G-05-700-Duo-Plus.html"
+  },
+  {
+   "manualId": "1072634",
+   "slug": "Elco-Vectron-G-05-700-Modulo",
+   "title": "VECTRON G 05.1000 MODULO operating instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "VECTRON G 05.1000 MODULO",
+   "extraModels": [
+    "VECTRON G 05.1000 MODULO"
+   ],
+   "url": "https://www.manualslib.com/manual/1072634/Elco-Vectron-G-05-700-Modulo.html"
+  },
+  {
+   "manualId": "1373114",
+   "slug": "Elco-Vectron-G-06-1200-Duo-Plus",
+   "title": "VECTRON G 06.1200 DUO PLUS operating instructions manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "VECTRON G 06.1200 DUO PLUS",
+   "extraModels": [
+    "VECTRON G 06.1600 DUO PLUS",
+    "VECTRON G 06.2100 DUO PLUS"
+   ],
+   "url": "https://www.manualslib.com/manual/1373114/Elco-Vectron-G-06-1200-Duo-Plus.html"
+  },
+  {
+   "manualId": "901072",
+   "slug": "Elco-Vectron-G-1-40",
+   "title": "VECTRON G 1.40 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "VECTRON G 1.40",
+   "extraModels": [
+    "VECTRON G 1.55",
+    "VECTRON G 1.85"
+   ],
+   "url": "https://www.manualslib.com/manual/901072/Elco-Vectron-G-1-40.html"
+  },
+  {
+   "manualId": "1733283",
+   "slug": "Elco-Vectron-Gl-05-700-Duo-Plus",
+   "title": "VECTRON GL 05.1000 DUO PLUS operating instructions manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "VECTRON GL 05.1000 DUO PLUS",
+   "extraModels": [
+    "VECTRON GL 05.1000 DUO PLUS"
+   ],
+   "url": "https://www.manualslib.com/manual/1733283/Elco-Vectron-Gl-05-700-Duo-Plus.html"
+  },
+  {
+   "manualId": "1889621",
+   "slug": "Elco-Vectron-L-04-410-Duo",
+   "title": "VECTRON L 04.410 DUO operating instructions manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "VECTRON L 04.410 DUO",
+   "extraModels": [
+    "VECTRON L 04.500 DUO"
+   ],
+   "url": "https://www.manualslib.com/manual/1889621/Elco-Vectron-L-04-410-Duo.html"
+  },
+  {
+   "manualId": "3121087",
+   "slug": "Elco-Vectron-L1-40",
+   "title": "VECTRON L1.40 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "VECTRON L1.40",
+   "extraModels": [
+    "VECTRON L1.42",
+    "VECTRON L1.55",
+    "VECTRON L1.95"
+   ],
+   "url": "https://www.manualslib.com/manual/3121087/Elco-Vectron-L1-40.html"
+  },
+  {
+   "manualId": "1699656",
+   "slug": "Elco-Vg-1-105-D-E",
+   "title": "VG 1.105 D E operating instructions manual",
+   "type": "User / Owner",
+   "pages": 33,
+   "productModel": "VG 1.105 D E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1699656/Elco-Vg-1-105-D-E.html"
+  },
+  {
+   "manualId": "1693426",
+   "slug": "Elco-Vg-1-40",
+   "title": "VG 1.105/TC operating instructions manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "VG 1.105/TC",
+   "extraModels": [
+    "VG 1.105/TC",
+    "VG 1.40/TC",
+    "VG 1.55",
+    "VG 1.55/TC",
+    "VG 1.85 VG 1.105",
+    "VG 1.85/TC"
+   ],
+   "url": "https://www.manualslib.com/manual/1693426/Elco-Vg-1-40.html"
+  },
+  {
+   "manualId": "3149421",
+   "slug": "Elco-Vg-2-120-D",
+   "title": "VG 2.120 D operating instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "VG 2.120 D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3149421/Elco-Vg-2-120-D.html"
+  },
+  {
+   "manualId": "1655610",
+   "slug": "Elco-Vg-2-140",
+   "title": "VG 2.140 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "VG 2.140",
+   "extraModels": [
+    "VG 2.200"
+   ],
+   "url": "https://www.manualslib.com/manual/1655610/Elco-Vg-2-140.html"
+  },
+  {
+   "manualId": "3920621",
+   "slug": "Elco-Vg-2-160-D",
+   "title": "VG 2.160 D operating instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "VG 2.160 D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3920621/Elco-Vg-2-160-D.html"
+  },
+  {
+   "manualId": "3920622",
+   "slug": "Elco-Vg-2-210-D",
+   "title": "VG 2.210 D operating instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "VG 2.210 D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3920622/Elco-Vg-2-210-D.html"
+  },
+  {
+   "manualId": "1603647",
+   "slug": "Elco-Vg-2-210-V",
+   "title": "VG 2.210 V operating instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "VG 2.210 V",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1603647/Elco-Vg-2-210-V.html"
+  },
+  {
+   "manualId": "1767155",
+   "slug": "Elco-Vg-6-1600-M-Tc-Series",
+   "title": "VG 6.1600 M/TC Original operating instructions",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "VG 6.1600 M/TC",
+   "extraModels": [
+    "VG 6.1600 M/TC",
+    "VG 6.1600 M/TC Series",
+    "VG 6.1600 MV/TC Series",
+    "VG 6.2100 MV/TC Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1767155/Elco-Vg-6-1600-M-Tc-Series.html"
+  },
+  {
+   "manualId": "3149424",
+   "slug": "Elco-Vg2-120-M-E-Tc",
+   "title": "VG2.120 M E /TC Original operating instructions",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "VG2.120 M E /TC",
+   "extraModels": [
+    "VG2.120 M E /TC"
+   ],
+   "url": "https://www.manualslib.com/manual/3149424/Elco-Vg2-120-M-E-Tc.html"
+  },
+  {
+   "manualId": "1602784",
+   "slug": "Elco-Vg2-120-M-Tc",
+   "title": "VG2.120 M/TC Original operating instructions",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "VG2.120 M/TC",
+   "extraModels": [
+    "VG2.120 M/TC"
+   ],
+   "url": "https://www.manualslib.com/manual/1602784/Elco-Vg2-120-M-Tc.html"
+  },
+  {
+   "manualId": "1357130",
+   "slug": "Elco-Vg3-290-D",
+   "title": "VG3.290 D operating instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "VG3.290 D",
+   "extraModels": [
+    "VG3.360 D"
+   ],
+   "url": "https://www.manualslib.com/manual/1357130/Elco-Vg3-290-D.html"
+  },
+  {
+   "manualId": "3118724",
+   "slug": "Elco-Vg4-460-D",
+   "title": "VG4.460 D operating instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "VG4.460 D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3118724/Elco-Vg4-460-D.html"
+  },
+  {
+   "manualId": "1436544",
+   "slug": "Elco-Vg4-610-Dp",
+   "title": "VG4.460 DP operating instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "VG4.460 DP",
+   "extraModels": [
+    "VG4.460 DP"
+   ],
+   "url": "https://www.manualslib.com/manual/1436544/Elco-Vg4-610-Dp.html"
+  },
+  {
+   "manualId": "3252170",
+   "slug": "Elco-Vg4-460-M-Tc",
+   "title": "VG4.460 M/TC Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "VG4.460 M/TC",
+   "extraModels": [
+    "VG4.460 M/TC"
+   ],
+   "url": "https://www.manualslib.com/manual/3252170/Elco-Vg4-460-M-Tc.html"
+  },
+  {
+   "manualId": "2402020",
+   "slug": "Elco-Vg5-M-Tc-Series",
+   "title": "VG5.1200 MV/TC PED Original operating instructions",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "VG5.1200 MV/TC PED",
+   "extraModels": [
+    "VG5.1200 MV/TC PED",
+    "VG5.950 M/TC",
+    "VG5.950 MV/TC",
+    "VG5.950 M/TC PED"
+   ],
+   "url": "https://www.manualslib.com/manual/2402020/Elco-Vg5-M-Tc-Series.html"
+  },
+  {
+   "manualId": "3149431",
+   "slug": "Elco-Vg5-950-M-Tc",
+   "title": "VG5.1200 MV/TC PED Original operating instructions",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "VG5.1200 MV/TC PED",
+   "extraModels": [
+    "VG5.1200 MV/TC PED",
+    "VG5.1200 MV/TC/PED",
+    "VG5.950 M/TC",
+    "VG5.950 M/TC/PED",
+    "VG5.950 MV/TC/PED"
+   ],
+   "url": "https://www.manualslib.com/manual/3149431/Elco-Vg5-950-M-Tc.html"
+  },
+  {
+   "manualId": "1669901",
+   "slug": "Elco-Vgl-06-1600-Dp",
+   "title": "VGL 06.1200 DP Manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "VGL 06.1200 DP",
+   "extraModels": [
+    "VGL 06.1200 DP",
+    "VGL 06.2100 DP"
+   ],
+   "url": "https://www.manualslib.com/manual/1669901/Elco-Vgl-06-1600-Dp.html"
+  },
+  {
+   "manualId": "2569660",
+   "slug": "Elco-Vgl05-700-Dp",
+   "title": "VGL05.1000 DP Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "VGL05.1000 DP",
+   "extraModels": [
+    "VGL05.1000 DP"
+   ],
+   "url": "https://www.manualslib.com/manual/2569660/Elco-Vgl05-700-Dp.html"
+  },
+  {
+   "manualId": "1701614",
+   "slug": "Elco-Vgl4-460-Dp",
+   "title": "VGL4.460 DP operating instructions manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "VGL4.460 DP",
+   "extraModels": [
+    "VGL4.610 DP"
+   ],
+   "url": "https://www.manualslib.com/manual/1701614/Elco-Vgl4-460-Dp.html"
+  },
+  {
+   "manualId": "1665039",
+   "slug": "Elco-Vistron-Fs-300",
+   "title": "VISTRON FS 1000 Instruction for installation and maintenance",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "VISTRON FS 1000",
+   "extraModels": [
+    "VISTRON FS 1000",
+    "VISTRON FS 1500",
+    "VISTRON FS 200",
+    "VISTRON FS 2000",
+    "VISTRON FS 2500",
+    "VISTRON FS 3000",
+    "VISTRON FS 600",
+    "VISTRON FS 800"
+   ],
+   "url": "https://www.manualslib.com/manual/1665039/Elco-Vistron-Fs-300.html"
+  },
+  {
+   "manualId": "3860818",
+   "slug": "Elco-Vistron-Fs-500",
+   "title": "VISTRON FS 500 Instruction for installation and maintenance",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "VISTRON FS 500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3860818/Elco-Vistron-Fs-500.html"
+  },
+  {
+   "manualId": "2144461",
+   "slug": "Elco-Vl-04-540-Dp",
+   "title": "VL 04.540 DP operating instructions manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "VL 04.540 DP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2144461/Elco-Vl-04-540-Dp.html"
+  },
+  {
+   "manualId": "1247806",
+   "slug": "Elco-Vl-1-40",
+   "title": "VL 1.40 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "VL 1.40",
+   "extraModels": [
+    "VL 1.40P",
+    "VL 1.42",
+    "VL 1.55",
+    "VL 1.55P",
+    "VL 1.95"
+   ],
+   "url": "https://www.manualslib.com/manual/1247806/Elco-Vl-1-40.html"
+  },
+  {
+   "manualId": "1339653",
+   "slug": "Elco-Vl-2-120-D",
+   "title": "VL 2.120 D operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "VL 2.120 D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1339653/Elco-Vl-2-120-D.html"
+  },
+  {
+   "manualId": "3845600",
+   "slug": "Elco-Vl-2-160-D",
+   "title": "VL 2.160 D operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "VL 2.160 D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3845600/Elco-Vl-2-160-D.html"
+  },
+  {
+   "manualId": "3845601",
+   "slug": "Elco-Vl-2-210-D",
+   "title": "VL 2.210 D operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "VL 2.210 D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3845601/Elco-Vl-2-210-D.html"
+  },
+  {
+   "manualId": "3088535",
+   "slug": "Elco-Vl-4-460-D",
+   "title": "VL 4.460 D operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "VL 4.460 D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3088535/Elco-Vl-4-460-D.html"
+  },
+  {
+   "manualId": "3916928",
+   "slug": "Elco-Vl-4-610-D",
+   "title": "VL 4.610 D operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "VL 4.610 D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3916928/Elco-Vl-4-610-D.html"
+  },
+  {
+   "manualId": "2591618",
+   "slug": "Elco-Vl3-290-D",
+   "title": "VL3.290 D Manual",
+   "type": "Other",
+   "pages": 41,
+   "productModel": "VL3.290 D",
+   "extraModels": [
+    "VL3.360 D"
+   ],
+   "url": "https://www.manualslib.com/manual/2591618/Elco-Vl3-290-D.html"
+  },
+  {
+   "manualId": "3254569",
+   "slug": "Elco-Vl3-360-D",
+   "title": "VL3.290 D operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "VL3.290 D",
+   "extraModels": [
+    "VL3.290 D"
+   ],
+   "url": "https://www.manualslib.com/manual/3254569/Elco-Vl3-360-D.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4419317",
+   "slug": "elk-38-digital-electronic-controller-operating-instructions",
+   "title": "ELK 38 Digital Electronic Controller Operating Instructions"
+  }
+ ],
+ "techDirectIds": [
+  "elco"
+ ]
+}

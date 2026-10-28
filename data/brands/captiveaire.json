@@ -1,0 +1,162 @@
+{
+ "brand": "CaptiveAire",
+ "brandSlug": "captiveaire",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/captiveaire/"
+ ],
+ "slugUsed": "captiveaire",
+ "capturedAt": "2026-10-28T06:33:44.687967+00:00",
+ "typePages": [
+  {
+   "path": "/brand/captiveaire/air-conditioner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/captiveaire/fan.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/captiveaire/fire-extinguisher.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/captiveaire/heater.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/captiveaire/industrial-equipment.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/captiveaire/ventilation-hood.html",
+   "manuals": 5,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1820557",
+   "slug": "Captiveaire-D76",
+   "title": "D76 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "D76",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1820557/Captiveaire-D76.html"
+  },
+  {
+   "manualId": "1983587",
+   "slug": "Captiveaire-Doas-Rtu-Series",
+   "title": "DOAS RTU Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 136,
+   "productModel": "DOAS RTU Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1983587/Captiveaire-Doas-Rtu-Series.html"
+  },
+  {
+   "manualId": "1668167",
+   "slug": "Captiveaire-Dw",
+   "title": "DW Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "DW",
+   "extraModels": [
+    "DW-2R",
+    "DW-2R Type HT",
+    "DW-3R",
+    "DW-3Z"
+   ],
+   "url": "https://www.manualslib.com/manual/1668167/Captiveaire-Dw.html"
+  },
+  {
+   "manualId": "1918025",
+   "slug": "Captiveaire-Ewc",
+   "title": "EWC Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "EWC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1918025/Captiveaire-Ewc.html"
+  },
+  {
+   "manualId": "1955875",
+   "slug": "Captiveaire-Hvls",
+   "title": "HVLS Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "HVLS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1955875/Captiveaire-Hvls.html"
+  },
+  {
+   "manualId": "2519040",
+   "slug": "Captiveaire-Di-Psp",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2519040/Captiveaire-Di-Psp.html"
+  },
+  {
+   "manualId": "2549306",
+   "slug": "Captiveaire-Di-Psp",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2549306/Captiveaire-Di-Psp.html"
+  },
+  {
+   "manualId": "2210960",
+   "slug": "Captiveaire-Rtulink",
+   "title": "RTULink Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "RTULink",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2210960/Captiveaire-Rtulink.html"
+  },
+  {
+   "manualId": "3389634",
+   "slug": "Captiveaire-Tank",
+   "title": "TANK Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "TANK",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3389634/Captiveaire-Tank.html"
+  },
+  {
+   "manualId": "1915406",
+   "slug": "Captiveaire-Wrh-30",
+   "title": "WRH-30 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "WRH-30",
+   "extraModels": [
+    "WRH-36",
+    "WRH-48",
+    "WRH-60",
+    "WRH-72"
+   ],
+   "url": "https://www.manualslib.com/manual/1915406/Captiveaire-Wrh-30.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "captiveaire"
+ ]
+}

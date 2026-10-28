@@ -1,0 +1,205 @@
+{
+ "brand": "SECOP",
+ "brandSlug": "secop",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/secop/"
+ ],
+ "slugUsed": "secop",
+ "capturedAt": "2026-10-28T09:20:17.859473+00:00",
+ "typePages": [
+  {
+   "path": "/brand/secop/compressor.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/secop/controller.html",
+   "manuals": 28,
+   "status": 200
+  },
+  {
+   "path": "/brand/secop/industrial-equipment.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1541604",
+   "slug": "Secop-101n07-Series",
+   "title": "101N07 Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "101N07 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1541604/Secop-101n07-Series.html"
+  },
+  {
+   "manualId": "1541607",
+   "slug": "Secop-101n08-Series",
+   "title": "101N08 Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 49,
+   "productModel": "101N08 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1541607/Secop-101n08-Series.html"
+  },
+  {
+   "manualId": "1541605",
+   "slug": "Secop-101n1010",
+   "title": "101N1010 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": "101N1010",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1541605/Secop-101n1010.html"
+  },
+  {
+   "manualId": "4271725",
+   "slug": "Secop-101n2020",
+   "title": "101N2020 Service manual",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "101N2020",
+   "extraModels": [
+    "101N2030",
+    "101N2050"
+   ],
+   "url": "https://www.manualslib.com/manual/4271725/Secop-101n2020.html"
+  },
+  {
+   "manualId": "3671868",
+   "slug": "Secop-101n2720",
+   "title": "101N2700 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "101N2700",
+   "extraModels": [
+    "101N2700",
+    "101N2701",
+    "101N2710",
+    "101N2711",
+    "101N2713",
+    "101N2730",
+    "101N2731",
+    "101N2733"
+   ],
+   "url": "https://www.manualslib.com/manual/3671868/Secop-101n2720.html"
+  },
+  {
+   "manualId": "3358487",
+   "slug": "Secop-105n4866",
+   "title": "105H6365 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "105H6365",
+   "extraModels": [
+    "105H6365",
+    "105H6366",
+    "105H7003",
+    "105H7004",
+    "105H7808",
+    "105H7809",
+    "105N4867",
+    "NLV8.0CN"
+   ],
+   "url": "https://www.manualslib.com/manual/3358487/Secop-105n4866.html"
+  },
+  {
+   "manualId": "3860047",
+   "slug": "Secop-D-Series",
+   "title": "D Series Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "D Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3860047/Secop-D-Series.html"
+  },
+  {
+   "manualId": "3860049",
+   "slug": "Secop-Delta",
+   "title": "Delta Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "Delta",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3860049/Secop-Delta.html"
+  },
+  {
+   "manualId": "1649604",
+   "slug": "Secop-P-Series",
+   "title": "F Series Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "F Series",
+   "extraModels": [
+    "F Series",
+    "G Series",
+    "Kappa",
+    "N Series",
+    "T Series",
+    "X Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1649604/Secop-P-Series.html"
+  },
+  {
+   "manualId": "2374979",
+   "slug": "Secop-101n2130",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2374979/Secop-101n2130.html"
+  },
+  {
+   "manualId": "3035091",
+   "slug": "Secop-101n2740",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3035091/Secop-101n2740.html"
+  },
+  {
+   "manualId": "3931156",
+   "slug": "Secop-Nlv10cn",
+   "title": "NLV10CN operating instructions manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "NLV10CN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3931156/Secop-Nlv10cn.html"
+  },
+  {
+   "manualId": "3931155",
+   "slug": "Secop-Nlv12-6cn",
+   "title": "NLV12.6CN operating instructions manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "NLV12.6CN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3931155/Secop-Nlv12-6cn.html"
+  },
+  {
+   "manualId": "3860048",
+   "slug": "Secop-S-Series",
+   "title": "S Series Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "S Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3860048/Secop-S-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "secop"
+ ]
+}

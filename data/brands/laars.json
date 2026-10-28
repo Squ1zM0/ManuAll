@@ -1,0 +1,2111 @@
+{
+ "brand": "Laars",
+ "brandSlug": "laars",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/laars/"
+ ],
+ "slugUsed": "laars",
+ "capturedAt": "2026-10-28T08:32:29.108718+00:00",
+ "typePages": [
+  {
+   "path": "/brand/laars/boiler.html",
+   "manuals": 423,
+   "status": 200
+  },
+  {
+   "path": "/brand/laars/control-unit.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/laars/gateway.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/laars/heater.html",
+   "manuals": 31,
+   "status": 200
+  },
+  {
+   "path": "/brand/laars/heating-system.html",
+   "manuals": 15,
+   "status": 200
+  },
+  {
+   "path": "/brand/laars/industrial-equipment.html",
+   "manuals": 23,
+   "status": 200
+  },
+  {
+   "path": "/brand/laars/racks-and-stands.html",
+   "manuals": 20,
+   "status": 200
+  },
+  {
+   "path": "/brand/laars/swimming-pool-heater.html",
+   "manuals": 33,
+   "status": 200
+  },
+  {
+   "path": "/brand/laars/water-heater.html",
+   "manuals": 122,
+   "status": 200
+  },
+  {
+   "path": "/brand/laars/water-heater-accessories.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2317143",
+   "slug": "Laars-Luhe120t",
+   "title": "120T400 Installation & Operation Manual with Troubleshooting manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "120T400",
+   "extraModels": [
+    "120T400",
+    "120T500"
+   ],
+   "url": "https://www.manualslib.com/manual/2317143/Laars-Luhe120t.html"
+  },
+  {
+   "manualId": "2535480",
+   "slug": "Laars-Ft-Combi-Series",
+   "title": "1487 quick start manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "1487",
+   "extraModels": [
+    "1487",
+    "1505"
+   ],
+   "url": "https://www.manualslib.com/manual/2535480/Laars-Ft-Combi-Series.html"
+  },
+  {
+   "manualId": "1394733",
+   "slug": "Laars-Hwg-M2-250",
+   "title": "9600 CB Service manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "9600 CB",
+   "extraModels": [
+    "9600 CB",
+    "9600 HWG",
+    "CB-M2-150",
+    "CB-M2-175",
+    "CB-M2-200",
+    "CB-M2-250",
+    "HWG-M2-150",
+    "HWG-M2-175",
+    "HWG-M2-200"
+   ],
+   "url": "https://www.manualslib.com/manual/1394733/Laars-Hwg-M2-250.html"
+  },
+  {
+   "manualId": "2193462",
+   "slug": "Laars-9600-Hwg",
+   "title": "9600 HWG Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "9600 HWG",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2193462/Laars-9600-Hwg.html"
+  },
+  {
+   "manualId": "2350376",
+   "slug": "Laars-Ft-Series",
+   "title": "B/LFTHF199 instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "B/LFTHF199",
+   "extraModels": [
+    "B/LFTHF199",
+    "B/MFTHW 100",
+    "B/MFTHW 140",
+    "B/MFTHW 199"
+   ],
+   "url": "https://www.manualslib.com/manual/2350376/Laars-Ft-Series.html"
+  },
+  {
+   "manualId": "3133026",
+   "slug": "Laars-N-Series",
+   "title": "C Series Installation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "C Series",
+   "extraModels": [
+    "C Series",
+    "LCTEC216",
+    "LCTEC252",
+    "LCTEC288",
+    "LCTEN108",
+    "LCTEN126",
+    "LCTEN144"
+   ],
+   "url": "https://www.manualslib.com/manual/3133026/Laars-N-Series.html"
+  },
+  {
+   "manualId": "807250",
+   "slug": "Laars-Cb-M2-150",
+   "title": "CB-M2-150 User Information",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "CB-M2-150",
+   "extraModels": [
+    "CB-M2-175",
+    "CB-M2-200",
+    "CB-M2-250"
+   ],
+   "url": "https://www.manualslib.com/manual/807250/Laars-Cb-M2-150.html"
+  },
+  {
+   "manualId": "3558655",
+   "slug": "Laars-G-Series",
+   "title": "CTEG018M installation manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "CTEG018M",
+   "extraModels": [
+    "CTEG018M",
+    "CTEG018N",
+    "CTEG018P",
+    "CTEG018S",
+    "CTEG018T",
+    "CTEG025M",
+    "CTEG025N",
+    "CTEG025P",
+    "CTEG025S",
+    "CTEG025T",
+    "LCTEG018",
+    "LCTEG025"
+   ],
+   "url": "https://www.manualslib.com/manual/3558655/Laars-G-Series.html"
+  },
+  {
+   "manualId": "811765",
+   "slug": "Laars-Dp2000",
+   "title": "DP2000 Installation, operation and service manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "DP2000",
+   "extraModels": [
+    "DP3000"
+   ],
+   "url": "https://www.manualslib.com/manual/811765/Laars-Dp2000.html"
+  },
+  {
+   "manualId": "3710175",
+   "slug": "Laars-E2425800",
+   "title": "E2425800 Installation and operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "E2425800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3710175/Laars-E2425800.html"
+  },
+  {
+   "manualId": "841531",
+   "slug": "Laars-Ebp-Series",
+   "title": "EBP Series User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "EBP Series",
+   "extraModels": [
+    "EDN Series",
+    "EDP Series",
+    "Endurance EBP Series",
+    "Endurance EDN Series",
+    "Endurance EDP Series"
+   ],
+   "url": "https://www.manualslib.com/manual/841531/Laars-Ebp-Series.html"
+  },
+  {
+   "manualId": "946298",
+   "slug": "Laars-Ebp0110",
+   "title": "EBP0110 Installation, operation and maintanance manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "EBP0110",
+   "extraModels": [
+    "EDN0110",
+    "EDN0175",
+    "EDP0110",
+    "EDP0175"
+   ],
+   "url": "https://www.manualslib.com/manual/946298/Laars-Ebp0110.html"
+  },
+  {
+   "manualId": "3830594",
+   "slug": "Laars-Ebp0175",
+   "title": "EBP0175 Installation, operation and maintanance manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "EBP0175",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3830594/Laars-Ebp0175.html"
+  },
+  {
+   "manualId": "883259",
+   "slug": "Laars-Everhot-Ige-199r-Series",
+   "title": "Everhot IGE-199C Series Installation and operating instruction manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Everhot IGE-199C Series",
+   "extraModels": [
+    "Everhot IGE-199C Series"
+   ],
+   "url": "https://www.manualslib.com/manual/883259/Laars-Everhot-Ige-199r-Series.html"
+  },
+  {
+   "manualId": "3549903",
+   "slug": "Laars-Ft-Series",
+   "title": "FT Series Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "FT Series",
+   "extraModels": [
+    "FTHF199N"
+   ],
+   "url": "https://www.manualslib.com/manual/3549903/Laars-Ft-Series.html"
+  },
+  {
+   "manualId": "3758856",
+   "slug": "Laars-Ft-Series",
+   "title": "FT Series Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "FT Series",
+   "extraModels": [
+    "FTHW301",
+    "FTHW399"
+   ],
+   "url": "https://www.manualslib.com/manual/3758856/Laars-Ft-Series.html"
+  },
+  {
+   "manualId": "1752910",
+   "slug": "Laars-Ft-Series",
+   "title": "FT Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "FT Series",
+   "extraModels": [
+    "FTCW199"
+   ],
+   "url": "https://www.manualslib.com/manual/1752910/Laars-Ft-Series.html"
+  },
+  {
+   "manualId": "1752914",
+   "slug": "Laars-Ftcf140",
+   "title": "FT Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "FT Series",
+   "extraModels": [
+    "FT Series",
+    "FTCF199"
+   ],
+   "url": "https://www.manualslib.com/manual/1752914/Laars-Ftcf140.html"
+  },
+  {
+   "manualId": "2152968",
+   "slug": "Laars-Ft-Series",
+   "title": "FT Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "FT Series",
+   "extraModels": [
+    "FTHW100",
+    "FTHW140",
+    "FTHW199"
+   ],
+   "url": "https://www.manualslib.com/manual/2152968/Laars-Ft-Series.html"
+  },
+  {
+   "manualId": "2199603",
+   "slug": "Laars-Ft-Series",
+   "title": "FT Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "FT Series",
+   "extraModels": [
+    "FTCF199N"
+   ],
+   "url": "https://www.manualslib.com/manual/2199603/Laars-Ft-Series.html"
+  },
+  {
+   "manualId": "2396562",
+   "slug": "Laars-Ft-Series",
+   "title": "FT Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "FT Series",
+   "extraModels": [
+    "FTHW",
+    "FTHW100",
+    "FTHW120",
+    "FTHW140",
+    "FTHW199",
+    "FTHW80"
+   ],
+   "url": "https://www.manualslib.com/manual/2396562/Laars-Ft-Series.html"
+  },
+  {
+   "manualId": "2009975",
+   "slug": "Laars-Ft-Series",
+   "title": "FT Series user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "FT Series",
+   "extraModels": [
+    "FTCW"
+   ],
+   "url": "https://www.manualslib.com/manual/2009975/Laars-Ft-Series.html"
+  },
+  {
+   "manualId": "2102136",
+   "slug": "Laars-Ft-Series",
+   "title": "FT Series user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "FT Series",
+   "extraModels": [
+    "FTHW"
+   ],
+   "url": "https://www.manualslib.com/manual/2102136/Laars-Ft-Series.html"
+  },
+  {
+   "manualId": "2412835",
+   "slug": "Laars-Ft-Series",
+   "title": "FT Series user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "FT Series",
+   "extraModels": [
+    "FTHF199N"
+   ],
+   "url": "https://www.manualslib.com/manual/2412835/Laars-Ft-Series.html"
+  },
+  {
+   "manualId": "2448270",
+   "slug": "Laars-Ft-Series",
+   "title": "FT Series user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "FT Series",
+   "extraModels": [
+    "FTCF199N"
+   ],
+   "url": "https://www.manualslib.com/manual/2448270/Laars-Ft-Series.html"
+  },
+  {
+   "manualId": "3520283",
+   "slug": "Laars-Ft-Series",
+   "title": "FT Series user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "FT Series",
+   "extraModels": [
+    "FTCF199N"
+   ],
+   "url": "https://www.manualslib.com/manual/3520283/Laars-Ft-Series.html"
+  },
+  {
+   "manualId": "2395125",
+   "slug": "Laars-Ftcw",
+   "title": "FTCW user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "FTCW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2395125/Laars-Ftcw.html"
+  },
+  {
+   "manualId": "3863303",
+   "slug": "Laars-Ftcw140",
+   "title": "FTCW140 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "FTCW140",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3863303/Laars-Ftcw140.html"
+  },
+  {
+   "manualId": "2575643",
+   "slug": "Laars-H-Series",
+   "title": "H Series Installation manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "H Series",
+   "extraModels": [
+    "LCTEH005",
+    "LCTEH006",
+    "LCTEH010",
+    "LCTEH015",
+    "LCTEH018",
+    "LCTEH025",
+    "LCTEHV010",
+    "LCTEHV015",
+    "LCTEHV018"
+   ],
+   "url": "https://www.manualslib.com/manual/2575643/Laars-H-Series.html"
+  },
+  {
+   "manualId": "1193829",
+   "slug": "Laars-Horizon",
+   "title": "Horizon Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "Horizon",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1193829/Laars-Horizon.html"
+  },
+  {
+   "manualId": "1533188",
+   "slug": "Laars-Hot-Shot-Lhs",
+   "title": "Hot Shot LHS Installation and operation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Hot Shot LHS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1533188/Laars-Hot-Shot-Lhs.html"
+  },
+  {
+   "manualId": "809836",
+   "slug": "Laars-Hwg-M2-150",
+   "title": "HWG-M2-150 Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "HWG-M2-150",
+   "extraModels": [
+    "HWG-M2-175",
+    "HWG-M2-200",
+    "HWG-M2-250"
+   ],
+   "url": "https://www.manualslib.com/manual/809836/Laars-Hwg-M2-150.html"
+  },
+  {
+   "manualId": "945412",
+   "slug": "Laars-Igi-180r-10n",
+   "title": "IGI-180C-5N Installation and operating instruction manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "IGI-180C-5N",
+   "extraModels": [
+    "IGI-180C-5N",
+    "IGI-180C-5X",
+    "IGI-180R-10X"
+   ],
+   "url": "https://www.manualslib.com/manual/945412/Laars-Igi-180r-10n.html"
+  },
+  {
+   "manualId": "849489",
+   "slug": "Laars-Indirect-Fired",
+   "title": "INDIRECT-FIRED Installation and operating manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "INDIRECT-FIRED",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/849489/Laars-Indirect-Fired.html"
+  },
+  {
+   "manualId": "1296108",
+   "slug": "Laars-Duraflow",
+   "title": "Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1296108/Laars-Duraflow.html"
+  },
+  {
+   "manualId": "1291952",
+   "slug": "Laars-Outdoor-Cover",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1291952/Laars-Outdoor-Cover.html"
+  },
+  {
+   "manualId": "91129",
+   "slug": "Laars-Iw",
+   "title": "IW Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "IW",
+   "extraModels": [
+    "Mighty Therm IW",
+    "Mighty Therm PW",
+    "Mighty Therm VW",
+    "PW",
+    "VW"
+   ],
+   "url": "https://www.manualslib.com/manual/91129/Laars-Iw.html"
+  },
+  {
+   "manualId": "745594",
+   "slug": "Laars-Jvs",
+   "title": "JVS Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "JVS",
+   "extraModels": [
+    "Mini-Therm II JVS Series",
+    "Mini-Therm II JVS-100",
+    "Mini-Therm II JVS-125",
+    "Mini-Therm II JVS-160",
+    "Mini-Therm II JVS-225",
+    "Mini-Therm II JVS-50",
+    "Mini-Therm II JVS-75",
+    "Mini-Therm II JVT Series",
+    "Mini-Therm II JVT-160",
+    "Mini-Therm II JVT-225",
+    "Mini-Therm II JVT-75"
+   ],
+   "url": "https://www.manualslib.com/manual/745594/Laars-Jvs.html"
+  },
+  {
+   "manualId": "3822948",
+   "slug": "Laars-Jvt",
+   "title": "JVT Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "JVT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3822948/Laars-Jvt.html"
+  },
+  {
+   "manualId": "3935509",
+   "slug": "Laars-Jx075npxu1",
+   "title": "JX075NPXU1 Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "JX075NPXU1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3935509/Laars-Jx075npxu1.html"
+  },
+  {
+   "manualId": "3453016",
+   "slug": "Laars-Mini-Therm-Jx-200",
+   "title": "JX100NXIU1 Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "JX100NXIU1",
+   "extraModels": [
+    "JX100NXIU1",
+    "JX125NLXU1",
+    "JX150NLXU1",
+    "MINI-THERM JX Series",
+    "MINI-THERM JX-100 Series",
+    "MINI-THERM JX-125 Series",
+    "MINI-THERM JX-150 Series",
+    "MINI-THERM JX-50 Series",
+    "MINI-THERM JX-75 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3453016/Laars-Mini-Therm-Jx-200.html"
+  },
+  {
+   "manualId": "3619482",
+   "slug": "laars-ft-series-ftcw-manual",
+   "title": "Laars FT Series, FTCW Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3619482/laars-ft-series-ftcw-manual.html"
+  },
+  {
+   "manualId": "4241826",
+   "slug": "laars-lt199nxx1-appliance-rack-system-installation-manual",
+   "title": "Laars LT199NXX1 Appliance Rack System Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4241826/laars-lt199nxx1-appliance-rack-system-installation-manual.html"
+  },
+  {
+   "manualId": "4198621",
+   "slug": "Laars-Magnatherm-Ft-Cfh1000",
+   "title": "Laars MAGNATHERM FT CFH1000 Installation And Operation Instructions For",
+   "type": "Installation",
+   "pages": 136,
+   "productModel": null,
+   "extraModels": [
+    "MAGNATHERM FT CFH1500",
+    "MAGNATHERM FT CFH2000",
+    "MAGNATHERM FT CFH3000"
+   ],
+   "url": "https://www.manualslib.com/manual/4198621/Laars-Magnatherm-Ft-Cfh1000.html"
+  },
+  {
+   "manualId": "1978178",
+   "slug": "Laars-Mighty-Max-Vw-Series",
+   "title": "Laars Mighty Max VW Series Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 32,
+   "productModel": null,
+   "extraModels": [
+    "Mighty Max VW",
+    "Mighty Max VW Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1978178/Laars-Mighty-Max-Vw-Series.html"
+  },
+  {
+   "manualId": "3917408",
+   "slug": "Laars-Mt2v",
+   "title": "Laars MT2V Assembly, Installation And Operation Instructions",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3917408/Laars-Mt2v.html"
+  },
+  {
+   "manualId": "4256884",
+   "slug": "laars-n-series-tankless-water-heater-installation-and-operation-manual",
+   "title": "Laars N Series Tankless Water Heater Installation & Operation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4256884/laars-n-series-tankless-water-heater-installation-and-operation-manual.html"
+  },
+  {
+   "manualId": "3533199",
+   "slug": "Laars-Neotherm-Xtr-Series",
+   "title": "Laars NeoTherm XTR Series Assembly, Installation And Operation Instructions",
+   "type": "Installation",
+   "pages": 116,
+   "productModel": null,
+   "extraModels": [
+    "NT2 H 0399",
+    "NT2 H 0500",
+    "NT2 H 0650",
+    "NT2 H 0800",
+    "NT2 H 0999",
+    "NT2 H 1500",
+    "NT2 V 0399",
+    "NT2 V 0500",
+    "NT2 V 0650",
+    "NT2 V 0800",
+    "NT2 v 0999",
+    "NT2 V 1500"
+   ],
+   "url": "https://www.manualslib.com/manual/3533199/Laars-Neotherm-Xtr-Series.html"
+  },
+  {
+   "manualId": "2728384",
+   "slug": "Laars-Omnitherm-Onh1250",
+   "title": "Laars OMNITHERM ONH1250 Assembly, Installation And Operation Instructions",
+   "type": "Installation",
+   "pages": 136,
+   "productModel": null,
+   "extraModels": [
+    "OMNITHERM ONH1500",
+    "OMNITHERM ONH1750",
+    "OMNITHERM ONH2000",
+    "OMNITHERM ONH2500",
+    "OMNITHERM ONV1250",
+    "OMNITHERM ONV1500",
+    "OMNITHERM ONV1750",
+    "OMNITHERM ONV2000",
+    "OMNITHERM ONV2500"
+   ],
+   "url": "https://www.manualslib.com/manual/2728384/Laars-Omnitherm-Onh1250.html"
+  },
+  {
+   "manualId": "1183557",
+   "slug": "Laars-Vw-Pw-Series",
+   "title": "Laars VW-PW Series Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 32,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1183557/Laars-Vw-Pw-Series.html"
+  },
+  {
+   "manualId": "3719924",
+   "slug": "Laars-N-Series",
+   "title": "LCTEN036 Installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "LCTEN036",
+   "extraModels": [
+    "LCTEN036",
+    "LCTEN054",
+    "LCTEN063",
+    "LCTEN072",
+    "LCTEN108",
+    "LCTEN126",
+    "LCTEN144"
+   ],
+   "url": "https://www.manualslib.com/manual/3719924/Laars-N-Series.html"
+  },
+  {
+   "manualId": "91128",
+   "slug": "Laars-Lite-2-Lg-Lite-2-Ld",
+   "title": "LD Installation and operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "LD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/91128/Laars-Lite-2-Lg-Lite-2-Ld.html"
+  },
+  {
+   "manualId": "850410",
+   "slug": "Laars-Lite-2-Lc",
+   "title": "Lite 2 LC Installation and operation manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "Lite 2 LC",
+   "extraModels": [
+    "Lite 2 LC 125",
+    "Lite 2 LC 175",
+    "Lite 2 LC 250",
+    "Lite 2 LC 325",
+    "Lite 2 LC 400"
+   ],
+   "url": "https://www.manualslib.com/manual/850410/Laars-Lite-2-Lc.html"
+  },
+  {
+   "manualId": "188558",
+   "slug": "Jandy-Ld",
+   "title": "Lite 2 LG, Lite 2 LD Installation and operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Lite 2 LG, Lite 2 LD",
+   "extraModels": [
+    "Lite 2 LG, Lite 2 LD"
+   ],
+   "url": "https://www.manualslib.com/manual/188558/Jandy-Ld.html"
+  },
+  {
+   "manualId": "4145671",
+   "slug": "Laars-Lite-Llg-Series",
+   "title": "Lite LLD 125 Manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "Lite LLD 125",
+   "extraModels": [
+    "Lite LLD 125",
+    "Lite LLD 175",
+    "Lite LLD 250",
+    "Lite LLD 325",
+    "Lite LLD 400",
+    "Lite LLD Series",
+    "Lite LLG 125",
+    "Lite LLG 175",
+    "Lite LLG 250",
+    "Lite LLG 325",
+    "Lite LLG 400"
+   ],
+   "url": "https://www.manualslib.com/manual/4145671/Laars-Lite-Llg-Series.html"
+  },
+  {
+   "manualId": "762710",
+   "slug": "Laars-Mascot-Ii",
+   "title": "LMC Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "LMC",
+   "extraModels": [
+    "LMC",
+    "Mascot II LMC",
+    "MASCOT II LMH"
+   ],
+   "url": "https://www.manualslib.com/manual/762710/Laars-Mascot-Ii.html"
+  },
+  {
+   "manualId": "812480",
+   "slug": "Laars-Lmh",
+   "title": "LMC Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "LMC",
+   "extraModels": [
+    "LMC",
+    "LMC Series",
+    "LMH Series",
+    "Mascot II",
+    "MASCOT II LMH"
+   ],
+   "url": "https://www.manualslib.com/manual/812480/Laars-Lmh.html"
+  },
+  {
+   "manualId": "840537",
+   "slug": "Laars-Lmh",
+   "title": "LMC user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "LMC",
+   "extraModels": [
+    "LMC",
+    "LMC Series",
+    "LMH Series",
+    "Mascot II"
+   ],
+   "url": "https://www.manualslib.com/manual/840537/Laars-Lmh.html"
+  },
+  {
+   "manualId": "844752",
+   "slug": "Laars-Lmc",
+   "title": "LMC user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "LMC",
+   "extraModels": [
+    "LMH",
+    "Mascot II LMC",
+    "MASCOT II LMH"
+   ],
+   "url": "https://www.manualslib.com/manual/844752/Laars-Lmc.html"
+  },
+  {
+   "manualId": "1176639",
+   "slug": "Laars-Mighty-Therm",
+   "title": "Lo-Nox Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Lo-Nox",
+   "extraModels": [
+    "Lo-Nox"
+   ],
+   "url": "https://www.manualslib.com/manual/1176639/Laars-Mighty-Therm.html"
+  },
+  {
+   "manualId": "3531390",
+   "slug": "Laars-Lt-Series",
+   "title": "LT Series Operation instructions manual",
+   "type": "User / Owner",
+   "pages": 94,
+   "productModel": "LT Series",
+   "extraModels": [
+    "LT199N 1 Series",
+    "LT199P 1 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3531390/Laars-Lt-Series.html"
+  },
+  {
+   "manualId": "3036718",
+   "slug": "Laars-Lt199nxx1",
+   "title": "LT199NRX1 Installation and instruction manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": "LT199NRX1",
+   "extraModels": [
+    "LT199NRX1",
+    "LT199PRX1"
+   ],
+   "url": "https://www.manualslib.com/manual/3036718/Laars-Lt199nxx1.html"
+  },
+  {
+   "manualId": "3274902",
+   "slug": "Laars-Lt199nxx1",
+   "title": "LT199NRX1 Installation and instruction manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": "LT199NRX1",
+   "extraModels": [
+    "LT199NRX1",
+    "LT199PRX1"
+   ],
+   "url": "https://www.manualslib.com/manual/3274902/Laars-Lt199nxx1.html"
+  },
+  {
+   "manualId": "2883741",
+   "slug": "Laars-Lt-Series",
+   "title": "LT199NRX1 Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "LT199NRX1",
+   "extraModels": [
+    "LT199NRX1",
+    "LT199PRX1"
+   ],
+   "url": "https://www.manualslib.com/manual/2883741/Laars-Lt-Series.html"
+  },
+  {
+   "manualId": "3521087",
+   "slug": "Laars-Lt-Series",
+   "title": "LT199NRX1 Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 98,
+   "productModel": "LT199NRX1",
+   "extraModels": [
+    "LT199NRX1",
+    "LT199PRX1"
+   ],
+   "url": "https://www.manualslib.com/manual/3521087/Laars-Lt-Series.html"
+  },
+  {
+   "manualId": "1646661",
+   "slug": "Laars-Magnatherm-Htd-Series",
+   "title": "MagnaTherm HTD Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 144,
+   "productModel": "MagnaTherm HTD Series",
+   "extraModels": [
+    "MagnaTherm MGH1600",
+    "MAGNATHERM MGH2000",
+    "MagnaTherm MGH2500",
+    "MAGNATHERM MGH3000",
+    "MagnaTherm MGH3500",
+    "MAGNATHERM MGH4000",
+    "MagnaTherm MGV1600",
+    "MAGNATHERM MGV2000",
+    "MagnaTherm MGV2500",
+    "MAGNATHERM MGV3000",
+    "MagnaTherm MGV3500",
+    "MAGNATHERM MGV4000"
+   ],
+   "url": "https://www.manualslib.com/manual/1646661/Laars-Magnatherm-Htd-Series.html"
+  },
+  {
+   "manualId": "1657191",
+   "slug": "Laars-Magnatherm-Htd-Series",
+   "title": "MagnaTherm HTD Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 132,
+   "productModel": "MagnaTherm HTD Series",
+   "extraModels": [
+    "MagnaTherm MGH1600",
+    "MAGNATHERM MGH2000",
+    "MagnaTherm MGH2500",
+    "MAGNATHERM MGH3000",
+    "MagnaTherm MGH3500",
+    "MAGNATHERM MGH4000",
+    "MagnaTherm MGV1600",
+    "MAGNATHERM MGV2000",
+    "MagnaTherm MGV2500",
+    "MAGNATHERM MGV3000",
+    "MagnaTherm MGV3500",
+    "MAGNATHERM MGV4000"
+   ],
+   "url": "https://www.manualslib.com/manual/1657191/Laars-Magnatherm-Htd-Series.html"
+  },
+  {
+   "manualId": "1551239",
+   "slug": "Laars-Magnatherm-Mgh1600",
+   "title": "MagnaTherm MGH1600 Installation and operation instructions for",
+   "type": "Installation",
+   "pages": 124,
+   "productModel": "MagnaTherm MGH1600",
+   "extraModels": [
+    "MAGNATHERM MGH2000",
+    "MagnaTherm MGH2500",
+    "MAGNATHERM MGH3000",
+    "MagnaTherm MGH3500",
+    "MAGNATHERM MGH4000",
+    "MagnaTherm MGV1600",
+    "MAGNATHERM MGV2000",
+    "MagnaTherm MGV2500",
+    "MAGNATHERM MGV3000",
+    "MagnaTherm MGV3500",
+    "MAGNATHERM MGV4000"
+   ],
+   "url": "https://www.manualslib.com/manual/1551239/Laars-Magnatherm-Mgh1600.html"
+  },
+  {
+   "manualId": "1043926",
+   "slug": "Laars-Magnatherm-Mgh1600",
+   "title": "MagnaTherm MGH1600 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 116,
+   "productModel": "MagnaTherm MGH1600",
+   "extraModels": [
+    "MAGNATHERM MGH2000",
+    "MagnaTherm MGH2500",
+    "MAGNATHERM MGH3000",
+    "MagnaTherm MGH3500",
+    "MAGNATHERM MGH4000",
+    "MagnaTherm MGV1600",
+    "MAGNATHERM MGV2000",
+    "MagnaTherm MGV2500",
+    "MAGNATHERM MGV3000",
+    "MagnaTherm MGV3500",
+    "MAGNATHERM MGV4000"
+   ],
+   "url": "https://www.manualslib.com/manual/1043926/Laars-Magnatherm-Mgh1600.html"
+  },
+  {
+   "manualId": "845759",
+   "slug": "Laars-Magnatherm-Mgh2000",
+   "title": "MAGNATHERM MGH2000 Installation and operation instructions for",
+   "type": "Installation",
+   "pages": 104,
+   "productModel": "MAGNATHERM MGH2000",
+   "extraModels": [
+    "MAGNATHERM MGH3000",
+    "MAGNATHERM MGH4000",
+    "MAGNATHERM MGV2000",
+    "MAGNATHERM MGV3000",
+    "MAGNATHERM MGV4000"
+   ],
+   "url": "https://www.manualslib.com/manual/845759/Laars-Magnatherm-Mgh2000.html"
+  },
+  {
+   "manualId": "1751564",
+   "slug": "Laars-Mascot-Ht-3-30",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "MASCOT HT 1.450",
+    "MASCOT HT 1.650"
+   ],
+   "url": "https://www.manualslib.com/manual/1751564/Laars-Mascot-Ht-3-30.html"
+  },
+  {
+   "manualId": "1356111",
+   "slug": "Laars-Mascot-Ft-Combi-Wall",
+   "title": "Mascot FT COMBI-FLOOR quick start manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Mascot FT COMBI-FLOOR",
+   "extraModels": [
+    "Mascot FT COMBI-FLOOR",
+    "Mascot FT Heating Only"
+   ],
+   "url": "https://www.manualslib.com/manual/1356111/Laars-Mascot-Ft-Combi-Wall.html"
+  },
+  {
+   "manualId": "1008920",
+   "slug": "Laars-Mascot-Ft-Mftcw",
+   "title": "mascot ft Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "mascot ft",
+   "extraModels": [
+    "MFTHW"
+   ],
+   "url": "https://www.manualslib.com/manual/1008920/Laars-Mascot-Ft-Mftcw.html"
+  },
+  {
+   "manualId": "1751562",
+   "slug": "Laars-Mascot-Ft",
+   "title": "mascot ft Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "mascot ft",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1751562/Laars-Mascot-Ft.html"
+  },
+  {
+   "manualId": "1055458",
+   "slug": "Laars-Mascot-Ft-Mftcw",
+   "title": "MASCOT FT MFTCW user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "MASCOT FT MFTCW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1055458/Laars-Mascot-Ft-Mftcw.html"
+  },
+  {
+   "manualId": "1228499",
+   "slug": "Laars-Mascot-Ft-Mfthw",
+   "title": "mascot ft MFTHW Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "mascot ft MFTHW",
+   "extraModels": [
+    "MFTHW100",
+    "MFTHW120",
+    "MFTHW140",
+    "MFTHW175",
+    "MFTHW199",
+    "MFTHW80"
+   ],
+   "url": "https://www.manualslib.com/manual/1228499/Laars-Mascot-Ft-Mfthw.html"
+  },
+  {
+   "manualId": "1412988",
+   "slug": "Laars-Mascot-Ht-330",
+   "title": "MASCOT HT 1.330 Quick setup manual",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "MASCOT HT 1.330",
+   "extraModels": [
+    "MASCOT HT 1.330",
+    "MASCOT HT 1.450",
+    "MASCOT HT 1.650"
+   ],
+   "url": "https://www.manualslib.com/manual/1412988/Laars-Mascot-Ht-330.html"
+  },
+  {
+   "manualId": "938378",
+   "slug": "Laars-Mascot-Lx",
+   "title": "MASCOT LX Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "MASCOT LX",
+   "extraModels": [
+    "MLXC 125 MBHl",
+    "MLXC 150 MBH",
+    "MLXC 175 MBH",
+    "MLXH 100 MBH",
+    "MLXH 125 MBH",
+    "MLXH 150 MBH",
+    "MLXH 175 MBH",
+    "MLXH 220 MBH",
+    "MLXH 50 MBH",
+    "MLXH 75 MBH"
+   ],
+   "url": "https://www.manualslib.com/manual/938378/Laars-Mascot-Lx.html"
+  },
+  {
+   "manualId": "2599003",
+   "slug": "Laars-Mascot-Lx",
+   "title": "MASCOT LX Service manual",
+   "type": "Service",
+   "pages": 94,
+   "productModel": "MASCOT LX",
+   "extraModels": [
+    "MLXC",
+    "MLXH"
+   ],
+   "url": "https://www.manualslib.com/manual/2599003/Laars-Mascot-Lx.html"
+  },
+  {
+   "manualId": "1057113",
+   "slug": "Laars-Mascot-Lx",
+   "title": "MASCOT LX user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "MASCOT LX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1057113/Laars-Mascot-Lx.html"
+  },
+  {
+   "manualId": "3165250",
+   "slug": "Laars-Mstww199",
+   "title": "MASCOT ST MSTWW Operation instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "MASCOT ST MSTWW",
+   "extraModels": [
+    "MASCOT ST MSTWW"
+   ],
+   "url": "https://www.manualslib.com/manual/3165250/Laars-Mstww199.html"
+  },
+  {
+   "manualId": "1739234",
+   "slug": "Laars-Mascot-St-Mstww",
+   "title": "MASCOT ST MSTWW user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "MASCOT ST MSTWW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1739234/Laars-Mascot-St-Mstww.html"
+  },
+  {
+   "manualId": "828316",
+   "slug": "Laars-Mch",
+   "title": "MCH Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "MCH",
+   "extraModels": [
+    "Mini-Combo id MCH"
+   ],
+   "url": "https://www.manualslib.com/manual/828316/Laars-Mch.html"
+  },
+  {
+   "manualId": "1330166",
+   "slug": "Laars-Mftcf140",
+   "title": "MFTCF140 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "MFTCF140",
+   "extraModels": [
+    "MFTCF199"
+   ],
+   "url": "https://www.manualslib.com/manual/1330166/Laars-Mftcf140.html"
+  },
+  {
+   "manualId": "1194179",
+   "slug": "Laars-Mighty-Max-Hh1000m",
+   "title": "Mighty Max HH0320M Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Mighty Max HH0320M",
+   "extraModels": [
+    "Mighty Max HH0320M",
+    "Mighty Max HH0400M",
+    "Mighty Max HH0520M",
+    "Mighty Max HH0625M",
+    "Mighty Max HH0775M"
+   ],
+   "url": "https://www.manualslib.com/manual/1194179/Laars-Mighty-Max-Hh1000m.html"
+  },
+  {
+   "manualId": "1296110",
+   "slug": "Laars-Mighty-Max-Vw",
+   "title": "Mighty Max VW Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Mighty Max VW",
+   "extraModels": [
+    "Mighty Max VW"
+   ],
+   "url": "https://www.manualslib.com/manual/1296110/Laars-Mighty-Max-Vw.html"
+  },
+  {
+   "manualId": "996223",
+   "slug": "Laars-Mighty-Stack-Ms-080",
+   "title": "Mighty Stack MS-080 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "Mighty Stack MS-080",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/996223/Laars-Mighty-Stack-Ms-080.html"
+  },
+  {
+   "manualId": "849284",
+   "slug": "Laars-Mighty-Therm-2-Mt2h",
+   "title": "Mighty Therm 2 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 42,
+   "productModel": "Mighty Therm 2",
+   "extraModels": [
+    "Mighty Therm 2 MT2V 200",
+    "Mighty Therm 2 MT2V 300",
+    "Mighty Therm 2 MT2V 400",
+    "MT2V"
+   ],
+   "url": "https://www.manualslib.com/manual/849284/Laars-Mighty-Therm-2-Mt2h.html"
+  },
+  {
+   "manualId": "1424024",
+   "slug": "Laars-Mighty-Therm-2",
+   "title": "Mighty Therm 2 Installation and operation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Mighty Therm 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1424024/Laars-Mighty-Therm-2.html"
+  },
+  {
+   "manualId": "1354632",
+   "slug": "Laars-Mighty-Therm-Ap",
+   "title": "Mighty Therm AP Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "Mighty Therm AP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1354632/Laars-Mighty-Therm-Ap.html"
+  },
+  {
+   "manualId": "2451813",
+   "slug": "Laars-Mightytherm-Ap",
+   "title": "Mighty Therm AP Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Mighty Therm AP",
+   "extraModels": [
+    "MIGHTYTHERM AP 1010",
+    "MIGHTYTHERM AP 1200",
+    "MIGHTYTHERM AP 1430",
+    "MIGHTYTHERM AP 1670",
+    "MIGHTYTHERM AP 1825",
+    "MIGHTYTHERM AP 500",
+    "MIGHTYTHERM AP 850"
+   ],
+   "url": "https://www.manualslib.com/manual/2451813/Laars-Mightytherm-Ap.html"
+  },
+  {
+   "manualId": "1463837",
+   "slug": "Laars-Mighty-Therm-Hh-500",
+   "title": "Mighty Therm HH 1010 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Mighty Therm HH 1010",
+   "extraModels": [
+    "Mighty Therm HH 1010",
+    "Mighty Therm HH 1200",
+    "Mighty Therm HH 1430",
+    "Mighty Therm HH 1670",
+    "Mighty Therm HH 1825",
+    "Mighty Therm HH 600",
+    "Mighty Therm HH 715",
+    "Mighty Therm HH 850",
+    "Mighty Therm PH 1010",
+    "Mighty Therm PH 1200",
+    "Mighty Therm PH 1430",
+    "Mighty Therm PH 1670",
+    "Mighty Therm PH 1825",
+    "Mighty Therm PH 500",
+    "Mighty Therm PH 600",
+    "Mighty Therm PH 715",
+    "Mighty Therm PH 850"
+   ],
+   "url": "https://www.manualslib.com/manual/1463837/Laars-Mighty-Therm-Hh-500.html"
+  },
+  {
+   "manualId": "803999",
+   "slug": "Laars-Vw",
+   "title": "Mighty Therm PW-175 Installation & operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Mighty Therm PW-175",
+   "extraModels": [
+    "Mighty Therm PW-175",
+    "Mighty Therm PW-250",
+    "Mighty Therm PW-325",
+    "Mighty Therm PW-400",
+    "Mighty Therm VW-175",
+    "Mighty Therm VW-250",
+    "Mighty Therm VW-325",
+    "Mighty Therm VW-400"
+   ],
+   "url": "https://www.manualslib.com/manual/803999/Laars-Vw.html"
+  },
+  {
+   "manualId": "3097092",
+   "slug": "Laars-Mighty-Therm2",
+   "title": "MIGHTY THERM2 Assembly, installation and operation instructions",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "MIGHTY THERM2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3097092/Laars-Mighty-Therm2.html"
+  },
+  {
+   "manualId": "3307187",
+   "slug": "Laars-Mighty-Therm2-Mt2h",
+   "title": "MIGHTY THERM2 MT2H Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "MIGHTY THERM2 MT2H",
+   "extraModels": [
+    "MIGHTY THERM2 MT2V"
+   ],
+   "url": "https://www.manualslib.com/manual/3307187/Laars-Mighty-Therm2-Mt2h.html"
+  },
+  {
+   "manualId": "3381453",
+   "slug": "Laars-Mighty-Therm2-Mt2h",
+   "title": "MIGHTY THERM2 MT2H User's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "MIGHTY THERM2 MT2H",
+   "extraModels": [
+    "MIGHTY THERM2 MT2V"
+   ],
+   "url": "https://www.manualslib.com/manual/3381453/Laars-Mighty-Therm2-Mt2h.html"
+  },
+  {
+   "manualId": "977321",
+   "slug": "Laars-Mini-Combo-Ii-Mct",
+   "title": "Mini-Combo II MCS Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Mini-Combo II MCS",
+   "extraModels": [
+    "Mini-Combo II MCS"
+   ],
+   "url": "https://www.manualslib.com/manual/977321/Laars-Mini-Combo-Ii-Mct.html"
+  },
+  {
+   "manualId": "1378089",
+   "slug": "Laars-Mini-Therm-Ii-Jv",
+   "title": "Mini-Therm II JV Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "Mini-Therm II JV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1378089/Laars-Mini-Therm-Ii-Jv.html"
+  },
+  {
+   "manualId": "3822950",
+   "slug": "Laars-Mini-Therm-Ii-Jvt-100",
+   "title": "Mini-Therm II JVT-100 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Mini-Therm II JVT-100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3822950/Laars-Mini-Therm-Ii-Jvt-100.html"
+  },
+  {
+   "manualId": "3822951",
+   "slug": "Laars-Mini-Therm-Ii-Jvt-125",
+   "title": "Mini-Therm II JVT-125 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Mini-Therm II JVT-125",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3822951/Laars-Mini-Therm-Ii-Jvt-125.html"
+  },
+  {
+   "manualId": "3822949",
+   "slug": "Laars-Mini-Therm-Ii-Jvt-50",
+   "title": "Mini-Therm II JVT-50 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Mini-Therm II JVT-50",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3822949/Laars-Mini-Therm-Ii-Jvt-50.html"
+  },
+  {
+   "manualId": "3213105",
+   "slug": "Laars-Mini-Therm-Jvh",
+   "title": "Mini-Therm JVH Installation and operation instruction",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": "Mini-Therm JVH",
+   "extraModels": [
+    "Mini-Therm JVS"
+   ],
+   "url": "https://www.manualslib.com/manual/3213105/Laars-Mini-Therm-Jvh.html"
+  },
+  {
+   "manualId": "837811",
+   "slug": "Laars-Mini-Therm-Jvh",
+   "title": "Mini-Therm JVH Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "Mini-Therm JVH",
+   "extraModels": [
+    "Mini-Therm JVS"
+   ],
+   "url": "https://www.manualslib.com/manual/837811/Laars-Mini-Therm-Jvh.html"
+  },
+  {
+   "manualId": "831784",
+   "slug": "Laars-Mini-Therm-Jvi-Jvh",
+   "title": "Mini-Therm JVi JVH Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "Mini-Therm JVi JVH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/831784/Laars-Mini-Therm-Jvi-Jvh.html"
+  },
+  {
+   "manualId": "832698",
+   "slug": "Laars-Mini-Therm-Jvi-Jvh",
+   "title": "Mini-Therm JVi JVH Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Mini-Therm JVi JVH",
+   "extraModels": [
+    "Mini-Therm JVi JVP"
+   ],
+   "url": "https://www.manualslib.com/manual/832698/Laars-Mini-Therm-Jvi-Jvh.html"
+  },
+  {
+   "manualId": "2635137",
+   "slug": "Laars-Mini-Therm-Jx",
+   "title": "MINI-THERM JX Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "MINI-THERM JX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2635137/Laars-Mini-Therm-Jx.html"
+  },
+  {
+   "manualId": "2035071",
+   "slug": "Laars-Mini-Therm-Jx-Series",
+   "title": "MINI-THERM JX Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "MINI-THERM JX Series",
+   "extraModels": [
+    "MINI-THERM JX-100 Series",
+    "MINI-THERM JX-125 Series",
+    "MINI-THERM JX-150 Series",
+    "MINI-THERM JX-200 Series",
+    "MINI-THERM JX-50 Series",
+    "MINI-THERM JX-75 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2035071/Laars-Mini-Therm-Jx-Series.html"
+  },
+  {
+   "manualId": "2067682",
+   "slug": "Laars-Mini-Therm-Jx-Series",
+   "title": "MINI-THERM JX Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "MINI-THERM JX Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2067682/Laars-Mini-Therm-Jx-Series.html"
+  },
+  {
+   "manualId": "2150366",
+   "slug": "Laars-Mini-Therm-Jx",
+   "title": "MINI-THERM JX user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "MINI-THERM JX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2150366/Laars-Mini-Therm-Jx.html"
+  },
+  {
+   "manualId": "3917407",
+   "slug": "Laars-Mt2h",
+   "title": "MT2H Assembly, installation and operation instructions",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "MT2H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3917407/Laars-Mt2h.html"
+  },
+  {
+   "manualId": "2794192",
+   "slug": "Laars-Mv2",
+   "title": "MV2 Installation & Operation Instructions",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "MV2",
+   "extraModels": [
+    "MV3",
+    "MV4",
+    "MV5"
+   ],
+   "url": "https://www.manualslib.com/manual/2794192/Laars-Mv2.html"
+  },
+  {
+   "manualId": "1289211",
+   "slug": "Laars-Neotherm-Ntv",
+   "title": "NeoThem NTH Service manual",
+   "type": "Service",
+   "pages": 118,
+   "productModel": "NeoThem NTH",
+   "extraModels": [
+    "NeoThem NTH",
+    "NeoThem NTV",
+    "Neotherm NTH",
+    "NEOTHERM NTH"
+   ],
+   "url": "https://www.manualslib.com/manual/1289211/Laars-Neotherm-Ntv.html"
+  },
+  {
+   "manualId": "3313104",
+   "slug": "Laars-Neotherm-Lc",
+   "title": "NEOTHERM LC user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "NEOTHERM LC",
+   "extraModels": [
+    "NTH1000",
+    "NTV1000",
+    "NTV1200"
+   ],
+   "url": "https://www.manualslib.com/manual/3313104/Laars-Neotherm-Lc.html"
+  },
+  {
+   "manualId": "3192527",
+   "slug": "Laars-Neotherm-Nth",
+   "title": "Neotherm NTH Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 104,
+   "productModel": "Neotherm NTH",
+   "extraModels": [
+    "Neotherm NTH-500FPCSD",
+    "Neotherm NTH-750FPCSD",
+    "Neotherm NTV",
+    "Neotherm NTV-399FP",
+    "Neotherm NTV500NXX3",
+    "Neotherm NTV600NJX3",
+    "Neotherm NTV600PJN3",
+    "Neotherm NTV750NJN3",
+    "Neotherm NTV750NXN3",
+    "Neotherm NTV750NXX3",
+    "Neotherm NTV750PJX3",
+    "Neotherm NTV750PXN3",
+    "Neotherm NTV850NXX3",
+    "Neotherm NTV850PXX3"
+   ],
+   "url": "https://www.manualslib.com/manual/3192527/Laars-Neotherm-Nth.html"
+  },
+  {
+   "manualId": "2116525",
+   "slug": "Laars-Neotherm-Nth",
+   "title": "Neotherm NTH Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 104,
+   "productModel": "Neotherm NTH",
+   "extraModels": [
+    "NEOTHERM NTH Series",
+    "Neotherm NTV",
+    "NEOTHERM NTV Series",
+    "NEOTHERM NTV"
+   ],
+   "url": "https://www.manualslib.com/manual/2116525/Laars-Neotherm-Nth.html"
+  },
+  {
+   "manualId": "727443",
+   "slug": "Laars-Neotherm-Nth",
+   "title": "Neotherm NTH Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Neotherm NTH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/727443/Laars-Neotherm-Nth.html"
+  },
+  {
+   "manualId": "787919",
+   "slug": "Laars-Neotherm-Nth",
+   "title": "Neotherm NTH Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "Neotherm NTH",
+   "extraModels": [
+    "Neotherm NTV",
+    "NEOTHERM NTV"
+   ],
+   "url": "https://www.manualslib.com/manual/787919/Laars-Neotherm-Nth.html"
+  },
+  {
+   "manualId": "869645",
+   "slug": "Laars-Neotherm-Nth",
+   "title": "Neotherm NTH Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "Neotherm NTH",
+   "extraModels": [
+    "Neotherm NTV",
+    "NEOTHERM NTV"
+   ],
+   "url": "https://www.manualslib.com/manual/869645/Laars-Neotherm-Nth.html"
+  },
+  {
+   "manualId": "1934216",
+   "slug": "Laars-Neotherm-Nth-Series",
+   "title": "NEOTHERM NTH Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "NEOTHERM NTH Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1934216/Laars-Neotherm-Nth-Series.html"
+  },
+  {
+   "manualId": "1646853",
+   "slug": "Laars-Neotherm-Nth-Series",
+   "title": "NEOTHERM NTH Series Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "NEOTHERM NTH Series",
+   "extraModels": [
+    "NEOTHERM NTV Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1646853/Laars-Neotherm-Nth-Series.html"
+  },
+  {
+   "manualId": "1646782",
+   "slug": "Laars-Neotherm-Nth-Series",
+   "title": "NEOTHERM NTH Series Startup manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "NEOTHERM NTH Series",
+   "extraModels": [
+    "NEOTHERM NTV Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1646782/Laars-Neotherm-Nth-Series.html"
+  },
+  {
+   "manualId": "845403",
+   "slug": "Laars-Neotherm-Nth",
+   "title": "NEOTHERM NTH User Information",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "NEOTHERM NTH",
+   "extraModels": [
+    "NEOTHERM NTV",
+    "Neotherm NTV"
+   ],
+   "url": "https://www.manualslib.com/manual/845403/Laars-Neotherm-Nth.html"
+  },
+  {
+   "manualId": "4558832",
+   "slug": "Laars-Neotherm-Nth",
+   "title": "NEOTHERM NTH User'smanual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "NEOTHERM NTH",
+   "extraModels": [
+    "NEOTHERM NTV"
+   ],
+   "url": "https://www.manualslib.com/manual/4558832/Laars-Neotherm-Nth.html"
+  },
+  {
+   "manualId": "1203817",
+   "slug": "Laars-Newport",
+   "title": "newport Installation, operation and maintanance",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "newport",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1203817/Laars-Newport.html"
+  },
+  {
+   "manualId": "1203844",
+   "slug": "Laars-Newport-Np-75",
+   "title": "newport NP 100 Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "newport NP 100",
+   "extraModels": [
+    "newport NP 100",
+    "newport NP 110",
+    "newport NP 125",
+    "newport NP 135",
+    "newport NP 150",
+    "newport NP 85"
+   ],
+   "url": "https://www.manualslib.com/manual/1203844/Laars-Newport-Np-75.html"
+  },
+  {
+   "manualId": "1180434",
+   "slug": "Laars-Nth",
+   "title": "NTH Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "NTH",
+   "extraModels": [
+    "NTV"
+   ],
+   "url": "https://www.manualslib.com/manual/1180434/Laars-Nth.html"
+  },
+  {
+   "manualId": "1191034",
+   "slug": "Laars-Ntv",
+   "title": "NTH Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "NTH",
+   "extraModels": [
+    "NTH"
+   ],
+   "url": "https://www.manualslib.com/manual/1191034/Laars-Ntv.html"
+  },
+  {
+   "manualId": "1191259",
+   "slug": "Laars-Ntv",
+   "title": "NTH user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "NTH",
+   "extraModels": [
+    "NTH"
+   ],
+   "url": "https://www.manualslib.com/manual/1191259/Laars-Ntv.html"
+  },
+  {
+   "manualId": "4133159",
+   "slug": "Laars-Neotherm-Lc-Ntv1200",
+   "title": "NTH1000 Assembly, installation and operation instructions",
+   "type": "Installation",
+   "pages": 128,
+   "productModel": "NTH1000",
+   "extraModels": [
+    "NTH1000",
+    "NTH1200",
+    "NTV1000"
+   ],
+   "url": "https://www.manualslib.com/manual/4133159/Laars-Neotherm-Lc-Ntv1200.html"
+  },
+  {
+   "manualId": "1191116",
+   "slug": "Laars-Ntv1000",
+   "title": "NTH1000 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 138,
+   "productModel": "NTH1000",
+   "extraModels": [
+    "NTH1000"
+   ],
+   "url": "https://www.manualslib.com/manual/1191116/Laars-Ntv1000.html"
+  },
+  {
+   "manualId": "822190",
+   "slug": "Laars-Nth1000",
+   "title": "NTH1000 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 140,
+   "productModel": "NTH1000",
+   "extraModels": [
+    "NTV1000",
+    "NTV1700"
+   ],
+   "url": "https://www.manualslib.com/manual/822190/Laars-Nth1000.html"
+  },
+  {
+   "manualId": "845615",
+   "slug": "Laars-Neotherm-Lc-Nth1000",
+   "title": "NTH1000 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "NTH1000",
+   "extraModels": [
+    "NTH1700",
+    "NTV1000",
+    "NTV1700"
+   ],
+   "url": "https://www.manualslib.com/manual/845615/Laars-Neotherm-Lc-Nth1000.html"
+  },
+  {
+   "manualId": "3928847",
+   "slug": "Laars-Nth1200",
+   "title": "NTH1200 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "NTH1200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3928847/Laars-Nth1200.html"
+  },
+  {
+   "manualId": "3825780",
+   "slug": "Laars-Nth1700",
+   "title": "NTH1700 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 140,
+   "productModel": "NTH1700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3825780/Laars-Nth1700.html"
+  },
+  {
+   "manualId": "1165413",
+   "slug": "Laars-Pennant-Pnch",
+   "title": "Pennant PNCH Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Pennant PNCH",
+   "extraModels": [
+    "Pennant PNCV"
+   ],
+   "url": "https://www.manualslib.com/manual/1165413/Laars-Pennant-Pnch.html"
+  },
+  {
+   "manualId": "819136",
+   "slug": "Laars-Pennant-Pnch",
+   "title": "Pennant PNCH Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "Pennant PNCH",
+   "extraModels": [
+    "Pennant PNCH Series",
+    "Pennant PNCH0500",
+    "Pennant PNCH0750",
+    "Pennant PNCH1000",
+    "Pennant PNCH1250",
+    "Pennant PNCH1500",
+    "Pennant PNCH1750",
+    "Pennant PNCH2000",
+    "Pennant PNCV",
+    "Pennant PNCV Series",
+    "Pennant PNCV0500",
+    "Pennant PNCV0750",
+    "Pennant PNCV1000",
+    "Pennant PNCV1250",
+    "Pennant PNCV1500",
+    "Pennant PNCV1750",
+    "Pennant PNCV2000"
+   ],
+   "url": "https://www.manualslib.com/manual/819136/Laars-Pennant-Pnch.html"
+  },
+  {
+   "manualId": "1296622",
+   "slug": "Laars-Pennant-Pncp-500",
+   "title": "Pennant PNCP 1000 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Pennant PNCP 1000",
+   "extraModels": [
+    "Pennant PNCP 1000",
+    "Pennant PNCP 1250",
+    "Pennant PNCP 1500",
+    "Pennant PNCP 1750",
+    "Pennant PNCP 2000",
+    "Pennant PNCP 750"
+   ],
+   "url": "https://www.manualslib.com/manual/1296622/Laars-Pennant-Pncp-500.html"
+  },
+  {
+   "manualId": "732669",
+   "slug": "Laars-Pncp",
+   "title": "Pennant PNCP Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Pennant PNCP",
+   "extraModels": [
+    "Pennant PNCP"
+   ],
+   "url": "https://www.manualslib.com/manual/732669/Laars-Pncp.html"
+  },
+  {
+   "manualId": "854467",
+   "slug": "Laars-Pennant-Pncp",
+   "title": "Pennant PNCP Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Pennant PNCP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/854467/Laars-Pennant-Pncp.html"
+  },
+  {
+   "manualId": "1664170",
+   "slug": "Laars-Protonode-Fpc-N34",
+   "title": "ProtoNode FPC-N34 Startup manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "ProtoNode FPC-N34",
+   "extraModels": [
+    "ProtoNode FPC-N35"
+   ],
+   "url": "https://www.manualslib.com/manual/1664170/Laars-Protonode-Fpc-N34.html"
+  },
+  {
+   "manualId": "2294646",
+   "slug": "Laars-Protonode-Fpc-N34",
+   "title": "ProtoNode FPC-N34 Startup manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "ProtoNode FPC-N34",
+   "extraModels": [
+    "ProtoNode FPC-N35"
+   ],
+   "url": "https://www.manualslib.com/manual/2294646/Laars-Protonode-Fpc-N34.html"
+  },
+  {
+   "manualId": "2797651",
+   "slug": "Laars-Protonode-Fpc-N54",
+   "title": "ProtoNode FPC-N54 Installation and operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "ProtoNode FPC-N54",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2797651/Laars-Protonode-Fpc-N54.html"
+  },
+  {
+   "manualId": "3825031",
+   "slug": "Laars-Pw",
+   "title": "PW Installation & operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "PW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3825031/Laars-Pw.html"
+  },
+  {
+   "manualId": "1186244",
+   "slug": "Laars-Rheos-Rhch",
+   "title": "Rheos RHCH Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Rheos RHCH",
+   "extraModels": [
+    "Rheos RHCV"
+   ],
+   "url": "https://www.manualslib.com/manual/1186244/Laars-Rheos-Rhch.html"
+  },
+  {
+   "manualId": "1306923",
+   "slug": "Laars-Sc6",
+   "title": "SC 12 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "SC 12",
+   "extraModels": [
+    "SC 12",
+    "SC6P"
+   ],
+   "url": "https://www.manualslib.com/manual/1306923/Laars-Sc6.html"
+  },
+  {
+   "manualId": "866273",
+   "slug": "Laars-U-H-E",
+   "title": "U.H.E Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "U.H.E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/866273/Laars-U-H-E.html"
+  },
+  {
+   "manualId": "1710851",
+   "slug": "Laars-Summit-Smb-200",
+   "title": "User information",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1710851/Laars-Summit-Smb-200.html"
+  },
+  {
+   "manualId": "1316525",
+   "slug": "Laars-Mighty-Therm-2-200",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1316525/Laars-Mighty-Therm-2-200.html"
+  },
+  {
+   "manualId": "3360869",
+   "slug": "Laars-Mightytherm-Hh",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3360869/Laars-Mightytherm-Hh.html"
+  },
+  {
+   "manualId": "3544414",
+   "slug": "Laars-Pennant-Pnch-200",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3544414/Laars-Pennant-Pnch-200.html"
+  },
+  {
+   "manualId": "803047",
+   "slug": "Laars-Vw-Pw",
+   "title": "VW-PW Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "VW-PW",
+   "extraModels": [
+    "VW-PW175",
+    "VW-PW250",
+    "VW-PW325",
+    "VW-PW400"
+   ],
+   "url": "https://www.manualslib.com/manual/803047/Laars-Vw-Pw.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "3619482",
+   "slug": "laars-ft-series-ftcw-manual",
+   "title": "Laars FT Series, FTCW Manual"
+  },
+  {
+   "manualId": "4256884",
+   "slug": "laars-n-series-tankless-water-heater-installation-and-operation-manual",
+   "title": "Laars N Series Tankless Water Heater Installation & Operation Manual"
+  },
+  {
+   "manualId": "4241826",
+   "slug": "laars-lt199nxx1-appliance-rack-system-installation-manual",
+   "title": "Laars LT199NXX1 Appliance Rack System Installation Manual"
+  }
+ ],
+ "techDirectIds": [
+  "laars"
+ ]
+}

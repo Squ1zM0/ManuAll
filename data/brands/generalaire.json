@@ -1,0 +1,1161 @@
+{
+ "brand": "GeneralAire",
+ "brandSlug": "generalaire",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/generalaire/"
+ ],
+ "slugUsed": "generalaire",
+ "capturedAt": "2026-10-28T07:16:46.749888+00:00",
+ "typePages": [
+  {
+   "path": "/brand/generalaire/air-cleaner.html",
+   "manuals": 59,
+   "status": 200
+  },
+  {
+   "path": "/brand/generalaire/control-unit.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/generalaire/controller.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/generalaire/dehumidifier.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/generalaire/humidifier.html",
+   "manuals": 159,
+   "status": 200
+  },
+  {
+   "path": "/brand/generalaire/humidistats.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/generalaire/monitor.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/generalaire/thermostat.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1445756",
+   "slug": "Generalaire-1000",
+   "title": "1000 SERIES Installation & owner's manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "1000 SERIES",
+   "extraModels": [
+    "1000A",
+    "1000M"
+   ],
+   "url": "https://www.manualslib.com/manual/1445756/Generalaire-1000.html"
+  },
+  {
+   "manualId": "795592",
+   "slug": "Generalaire-1000-Series",
+   "title": "1000 SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "1000 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/795592/Generalaire-1000-Series.html"
+  },
+  {
+   "manualId": "3769986",
+   "slug": "Generalaire-1000-Series",
+   "title": "1000 SERIES Manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": "1000 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3769986/Generalaire-1000-Series.html"
+  },
+  {
+   "manualId": "2926367",
+   "slug": "Generalaire-3200",
+   "title": "1000 SERIES owner's manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": "1000 SERIES",
+   "extraModels": [
+    "1000 SERIES",
+    "1000M",
+    "1042LH",
+    "1099LHS",
+    "1137 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2926367/Generalaire-3200.html"
+  },
+  {
+   "manualId": "890414",
+   "slug": "Generalaire-1000-Series",
+   "title": "1000 SERIES User Instructions",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": "1000 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/890414/Generalaire-1000-Series.html"
+  },
+  {
+   "manualId": "638643",
+   "slug": "Generalaire-1042-Series",
+   "title": "1042 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "1042 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/638643/Generalaire-1042-Series.html"
+  },
+  {
+   "manualId": "617931",
+   "slug": "Generalaire-1042-Series",
+   "title": "1042 Series installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "1042 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/617931/Generalaire-1042-Series.html"
+  },
+  {
+   "manualId": "802316",
+   "slug": "Generalaire-1042-Series",
+   "title": "1042 Series instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "1042 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/802316/Generalaire-1042-Series.html"
+  },
+  {
+   "manualId": "3782173",
+   "slug": "Generalaire-1042r",
+   "title": "1042 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "1042 Series",
+   "extraModels": [
+    "1042LH"
+   ],
+   "url": "https://www.manualslib.com/manual/3782173/Generalaire-1042r.html"
+  },
+  {
+   "manualId": "3965412",
+   "slug": "Generalaire-1042-Series",
+   "title": "1042 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "1042 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3965412/Generalaire-1042-Series.html"
+  },
+  {
+   "manualId": "4033104",
+   "slug": "Generalaire-1042l",
+   "title": "1042 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "1042 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4033104/Generalaire-1042l.html"
+  },
+  {
+   "manualId": "2666549",
+   "slug": "Generalaire-1042lh",
+   "title": "1042LH Installation & owner's manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "1042LH",
+   "extraModels": [
+    "5144"
+   ],
+   "url": "https://www.manualslib.com/manual/2666549/Generalaire-1042lh.html"
+  },
+  {
+   "manualId": "1984381",
+   "slug": "Generalaire-1099lhs",
+   "title": "1099LHS Installation & owner's manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "1099LHS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1984381/Generalaire-1099lhs.html"
+  },
+  {
+   "manualId": "638645",
+   "slug": "Generalaire-1099lhs",
+   "title": "1099LHS installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "1099LHS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/638645/Generalaire-1099lhs.html"
+  },
+  {
+   "manualId": "989936",
+   "slug": "Generalaire-1099lhs",
+   "title": "1099LHS instruction manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "1099LHS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/989936/Generalaire-1099lhs.html"
+  },
+  {
+   "manualId": "1717042",
+   "slug": "Generalaire-1137",
+   "title": "1137 Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "1137 Series",
+   "extraModels": [
+    "5137"
+   ],
+   "url": "https://www.manualslib.com/manual/1717042/Generalaire-1137.html"
+  },
+  {
+   "manualId": "638641",
+   "slug": "Generalaire-1137-Series",
+   "title": "1137 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "1137 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/638641/Generalaire-1137-Series.html"
+  },
+  {
+   "manualId": "840273",
+   "slug": "Generalaire-1137-Series",
+   "title": "1137 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "1137 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/840273/Generalaire-1137-Series.html"
+  },
+  {
+   "manualId": "3576907",
+   "slug": "Generalaire-1137r",
+   "title": "1137 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "1137 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3576907/Generalaire-1137r.html"
+  },
+  {
+   "manualId": "1190345",
+   "slug": "Generalaire-1300",
+   "title": "1300 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "1300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1190345/Generalaire-1300.html"
+  },
+  {
+   "manualId": "3053356",
+   "slug": "Generalaire-4400a",
+   "title": "4400A installation manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": "4400A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3053356/Generalaire-4400a.html"
+  },
+  {
+   "manualId": "2150248",
+   "slug": "Generalaire-Tersus-1200",
+   "title": "4560 installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "4560",
+   "extraModels": [
+    "4560",
+    "4570",
+    "Tersus 2000"
+   ],
+   "url": "https://www.manualslib.com/manual/2150248/Generalaire-Tersus-1200.html"
+  },
+  {
+   "manualId": "1839028",
+   "slug": "Generalaire-5500",
+   "title": "5500 Installation & user manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "5500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1839028/Generalaire-5500.html"
+  },
+  {
+   "manualId": "2169135",
+   "slug": "Generalaire-5500",
+   "title": "5500 Installation & user manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "5500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2169135/Generalaire-5500.html"
+  },
+  {
+   "manualId": "2052843",
+   "slug": "Generalaire-5500",
+   "title": "5500 Replacement instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "5500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2052843/Generalaire-5500.html"
+  },
+  {
+   "manualId": "2667761",
+   "slug": "Generalaire-Elite-570",
+   "title": "5705 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "5705",
+   "extraModels": [
+    "5705",
+    "570A",
+    "570M",
+    "5710",
+    "Elite 1000",
+    "Elite 900"
+   ],
+   "url": "https://www.manualslib.com/manual/2667761/Generalaire-Elite-570.html"
+  },
+  {
+   "manualId": "2912488",
+   "slug": "Generalaire-570dmm",
+   "title": "570DMD Installation & owner's manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "570DMD",
+   "extraModels": [
+    "570DMD",
+    "570DMMNR"
+   ],
+   "url": "https://www.manualslib.com/manual/2912488/Generalaire-570dmm.html"
+  },
+  {
+   "manualId": "638636",
+   "slug": "Generalaire-747-L",
+   "title": "747-L Installation insrtuctions",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "747-L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/638636/Generalaire-747-L.html"
+  },
+  {
+   "manualId": "875469",
+   "slug": "Generalaire-747-L",
+   "title": "747-L installation manual",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": "747-L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/875469/Generalaire-747-L.html"
+  },
+  {
+   "manualId": "1456746",
+   "slug": "Generalaire-900a",
+   "title": "900 SERIES Installation & owner's manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "900 SERIES",
+   "extraModels": [
+    "900M"
+   ],
+   "url": "https://www.manualslib.com/manual/1456746/Generalaire-900a.html"
+  },
+  {
+   "manualId": "848762",
+   "slug": "Generalaire-900-Series",
+   "title": "900 SERIES Instructions for use and installation",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "900 SERIES",
+   "extraModels": [
+    "Elite 900"
+   ],
+   "url": "https://www.manualslib.com/manual/848762/Generalaire-900-Series.html"
+  },
+  {
+   "manualId": "883235",
+   "slug": "Generalaire-Ac500",
+   "title": "AC500 Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 6,
+   "productModel": "AC500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/883235/Generalaire-Ac500.html"
+  },
+  {
+   "manualId": "1273209",
+   "slug": "Generalaire-Ac500",
+   "title": "AC500 installation, operation & maintenence manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "AC500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1273209/Generalaire-Ac500.html"
+  },
+  {
+   "manualId": "629592",
+   "slug": "Generalaire-Ds-50",
+   "title": "DS 50 user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "DS 50",
+   "extraModels": [
+    "DS 50 LC"
+   ],
+   "url": "https://www.manualslib.com/manual/629592/Generalaire-Ds-50.html"
+  },
+  {
+   "manualId": "3782625",
+   "slug": "Generalaire-Ds-20",
+   "title": "DS-20 user manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "DS-20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3782625/Generalaire-Ds-20.html"
+  },
+  {
+   "manualId": "1190444",
+   "slug": "Generalaire-Elite-1000",
+   "title": "Elite 1000 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Elite 1000",
+   "extraModels": [
+    "Elite 570",
+    "Elite 900"
+   ],
+   "url": "https://www.manualslib.com/manual/1190444/Generalaire-Elite-1000.html"
+  },
+  {
+   "manualId": "1190383",
+   "slug": "Generalaire-Elite-Steam-Rs20a",
+   "title": "Elite Steam DS15 user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Elite Steam DS15",
+   "extraModels": [
+    "Elite Steam DS15",
+    "Elite Steam DS20A",
+    "Elite Steam DS25",
+    "Elite Steam DS35",
+    "Elite Steam RS15",
+    "Elite Steam RS15P",
+    "Elite Steam RS25",
+    "Elite Steam RS25LC",
+    "Elite Steam RS35"
+   ],
+   "url": "https://www.manualslib.com/manual/1190383/Generalaire-Elite-Steam-Rs20a.html"
+  },
+  {
+   "manualId": "4040662",
+   "slug": "Generalaire-Elite-Ds15",
+   "title": "Elite Steam DS15 user manual",
+   "type": "User / Owner",
+   "pages": 29,
+   "productModel": "Elite Steam DS15",
+   "extraModels": [
+    "Elite Steam DS20A",
+    "Elite Steam DS35",
+    "Elite Steam RS15",
+    "Elite Steam RS20A",
+    "Elite Steam RS35",
+    "RS-20"
+   ],
+   "url": "https://www.manualslib.com/manual/4040662/Generalaire-Elite-Ds15.html"
+  },
+  {
+   "manualId": "3839252",
+   "slug": "Generalaire-Elite-Steam-Ds15p",
+   "title": "Elite Steam DS15P user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Elite Steam DS15P",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3839252/Generalaire-Elite-Steam-Ds15p.html"
+  },
+  {
+   "manualId": "3666448",
+   "slug": "Generalaire-Gf-Rs25",
+   "title": "Elite Steam DS25 user manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "Elite Steam DS25",
+   "extraModels": [
+    "Elite Steam DS25"
+   ],
+   "url": "https://www.manualslib.com/manual/3666448/Generalaire-Gf-Rs25.html"
+  },
+  {
+   "manualId": "3839253",
+   "slug": "Generalaire-Elite-Steam-Ds25lc",
+   "title": "Elite Steam DS25LC user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Elite Steam DS25LC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3839253/Generalaire-Elite-Steam-Ds25lc.html"
+  },
+  {
+   "manualId": "878109",
+   "slug": "Generalaire-Elite-Steam",
+   "title": "Elite Steam Installation, operating and maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "Elite Steam",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/878109/Generalaire-Elite-Steam.html"
+  },
+  {
+   "manualId": "622635",
+   "slug": "Generalaire-Elite-Steam",
+   "title": "Elite Steam user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Elite Steam",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/622635/Generalaire-Elite-Steam.html"
+  },
+  {
+   "manualId": "629490",
+   "slug": "Generalaire-Elite-Steam",
+   "title": "Elite Steam user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Elite Steam",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/629490/Generalaire-Elite-Steam.html"
+  },
+  {
+   "manualId": "629604",
+   "slug": "Generalaire-Elite-Stream",
+   "title": "Elite Steam user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Elite Steam",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/629604/Generalaire-Elite-Stream.html"
+  },
+  {
+   "manualId": "626127",
+   "slug": "Generalaire-Ga50a14",
+   "title": "GA50A14 owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "GA50A14",
+   "extraModels": [
+    "GA50A20",
+    "GA50A22"
+   ],
+   "url": "https://www.manualslib.com/manual/626127/Generalaire-Ga50a14.html"
+  },
+  {
+   "manualId": "791100",
+   "slug": "Generalaire-Ga52f32",
+   "title": "GA52F32 owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "GA52F32",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/791100/Generalaire-Ga52f32.html"
+  },
+  {
+   "manualId": "4035286",
+   "slug": "generalaire-1042-series-1042r-1042lh-manual",
+   "title": "GeneralAire 1042 Series, 1042R, 1042LH Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4035286/generalaire-1042-series-1042r-1042lh-manual.html"
+  },
+  {
+   "manualId": "638640",
+   "slug": "Generalaire-General-81",
+   "title": "Generalaire GENERAL 81 Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/638640/Generalaire-General-81.html"
+  },
+  {
+   "manualId": "2585749",
+   "slug": "Generalaire-Guv-2000",
+   "title": "Generalaire GUV-2000 Installation & Maintenance Instructions",
+   "type": "Service",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2585749/Generalaire-Guv-2000.html"
+  },
+  {
+   "manualId": "2165125",
+   "slug": "Generalaire-Guv25403a",
+   "title": "Generalaire GUV25403A Installation & Maintenance Instructions",
+   "type": "Service",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2165125/Generalaire-Guv25403a.html"
+  },
+  {
+   "manualId": "1181735",
+   "slug": "Generalaire-Mac-2000",
+   "title": "Generalaire MAC 2000 Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1181735/Generalaire-Mac-2000.html"
+  },
+  {
+   "manualId": "901235",
+   "slug": "Generalaire-Mini-Mac-1200",
+   "title": "Generalaire Mini Mac 1200 Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/901235/Generalaire-Mini-Mac-1200.html"
+  },
+  {
+   "manualId": "3336805",
+   "slug": "Generalaire-Gf-1000lhm",
+   "title": "GF-1000LHD Installation & owner's manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "GF-1000LHD",
+   "extraModels": [
+    "GF-1000LHD"
+   ],
+   "url": "https://www.manualslib.com/manual/3336805/Generalaire-Gf-1000lhm.html"
+  },
+  {
+   "manualId": "2181500",
+   "slug": "Generalaire-Gf-1042dmm",
+   "title": "GF-1042DMM Installation & owner's manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "GF-1042DMM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2181500/Generalaire-Gf-1042dmm.html"
+  },
+  {
+   "manualId": "3169508",
+   "slug": "Generalaire-Gf-1099lhs",
+   "title": "GF-1099LHD owner's manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "GF-1099LHD",
+   "extraModels": [
+    "GF-1099LHD"
+   ],
+   "url": "https://www.manualslib.com/manual/3169508/Generalaire-Gf-1099lhs.html"
+  },
+  {
+   "manualId": "3369902",
+   "slug": "Generalaire-Gf-1137l",
+   "title": "GF-1137L Installation & owner's manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "GF-1137L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3369902/Generalaire-Gf-1137l.html"
+  },
+  {
+   "manualId": "3270520",
+   "slug": "Generalaire-Gf-5500",
+   "title": "GF-5500 Installation & user manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "GF-5500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3270520/Generalaire-Gf-5500.html"
+  },
+  {
+   "manualId": "689026",
+   "slug": "Generalaire-Gfx50",
+   "title": "GFX50 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "GFX50",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/689026/Generalaire-Gfx50.html"
+  },
+  {
+   "manualId": "3791562",
+   "slug": "Generalaire-Healthyaire-Dh95",
+   "title": "HEALTHYAire DH95 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "HEALTHYAire DH95",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3791562/Generalaire-Healthyaire-Dh95.html"
+  },
+  {
+   "manualId": "702992",
+   "slug": "Generalaire-Pco-2450-Uvc",
+   "title": "Installation & maintenance instructions",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/702992/Generalaire-Pco-2450-Uvc.html"
+  },
+  {
+   "manualId": "4025021",
+   "slug": "Generalaire-Guv-2018",
+   "title": "Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4025021/Generalaire-Guv-2018.html"
+  },
+  {
+   "manualId": "1067357",
+   "slug": "Generalaire-Gfi-4545",
+   "title": "Installation & owner's manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1067357/Generalaire-Gfi-4545.html"
+  },
+  {
+   "manualId": "1414468",
+   "slug": "Generalaire-Gfx3",
+   "title": "Installation and operating instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1414468/Generalaire-Gfx3.html"
+  },
+  {
+   "manualId": "2565872",
+   "slug": "Generalaire-Gfx4",
+   "title": "Installation and operating instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2565872/Generalaire-Gfx4.html"
+  },
+  {
+   "manualId": "2738725",
+   "slug": "Generalaire-Gf-3200-Dmm",
+   "title": "Installation And Operating Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2738725/Generalaire-Gf-3200-Dmm.html"
+  },
+  {
+   "manualId": "1444048",
+   "slug": "Generalaire-E2",
+   "title": "Installation and owner's manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1444048/Generalaire-E2.html"
+  },
+  {
+   "manualId": "1549403",
+   "slug": "Generalaire-Water-Savor",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1549403/Generalaire-Water-Savor.html"
+  },
+  {
+   "manualId": "3785744",
+   "slug": "Generalaire-1099r",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3785744/Generalaire-1099r.html"
+  },
+  {
+   "manualId": "3788186",
+   "slug": "Generalaire-1099l",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3788186/Generalaire-1099l.html"
+  },
+  {
+   "manualId": "638642",
+   "slug": "Generalaire-General-65",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/638642/Generalaire-General-65.html"
+  },
+  {
+   "manualId": "747473",
+   "slug": "Generalaire-Ac-22",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/747473/Generalaire-Ac-22.html"
+  },
+  {
+   "manualId": "3968435",
+   "slug": "Generalaire-Ac-24",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3968435/Generalaire-Ac-24.html"
+  },
+  {
+   "manualId": "638638",
+   "slug": "Generalaire-800",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/638638/Generalaire-800.html"
+  },
+  {
+   "manualId": "1454425",
+   "slug": "Generalaire-Gfx3",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1454425/Generalaire-Gfx3.html"
+  },
+  {
+   "manualId": "2169134",
+   "slug": "Generalaire-400-Series",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2169134/Generalaire-400-Series.html"
+  },
+  {
+   "manualId": "2300501",
+   "slug": "Generalaire-Guv100a83",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2300501/Generalaire-Guv100a83.html"
+  },
+  {
+   "manualId": "2765517",
+   "slug": "Generalaire-Gf-3200pft",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2765517/Generalaire-Gf-3200pft.html"
+  },
+  {
+   "manualId": "2771552",
+   "slug": "Generalaire-Gf-3200pft",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2771552/Generalaire-Gf-3200pft.html"
+  },
+  {
+   "manualId": "2890925",
+   "slug": "Generalaire-Gf-3200dmm",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2890925/Generalaire-Gf-3200dmm.html"
+  },
+  {
+   "manualId": "3083407",
+   "slug": "Generalaire-G-99",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3083407/Generalaire-G-99.html"
+  },
+  {
+   "manualId": "3139601",
+   "slug": "Generalaire-Gf-200-Series",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3139601/Generalaire-Gf-200-Series.html"
+  },
+  {
+   "manualId": "3154957",
+   "slug": "Generalaire-Gf3200dmm",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3154957/Generalaire-Gf3200dmm.html"
+  },
+  {
+   "manualId": "3221349",
+   "slug": "Generalaire-Gf4400a",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3221349/Generalaire-Gf4400a.html"
+  },
+  {
+   "manualId": "3226431",
+   "slug": "Generalaire-Gf4200dmd",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3226431/Generalaire-Gf4200dmd.html"
+  },
+  {
+   "manualId": "3579842",
+   "slug": "Generalaire-Gf3200",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3579842/Generalaire-Gf3200.html"
+  },
+  {
+   "manualId": "4601121",
+   "slug": "Generalaire-3200",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4601121/Generalaire-3200.html"
+  },
+  {
+   "manualId": "2580038",
+   "slug": "Generalaire-Breathe-Healthier-Gf-4200pft",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2580038/Generalaire-Breathe-Healthier-Gf-4200pft.html"
+  },
+  {
+   "manualId": "1289679",
+   "slug": "Generalaire-950-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1289679/Generalaire-950-Series.html"
+  },
+  {
+   "manualId": "1426966",
+   "slug": "Generalaire-Mhx3",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1426966/Generalaire-Mhx3.html"
+  },
+  {
+   "manualId": "3173131",
+   "slug": "Generalaire-570-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3173131/Generalaire-570-Series.html"
+  },
+  {
+   "manualId": "3491430",
+   "slug": "Generalaire-Tersus-1200",
+   "title": "Mini Mac 1200 installation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "Mini Mac 1200",
+   "extraModels": [
+    "Mini Mac 1200",
+    "Tersus 2000"
+   ],
+   "url": "https://www.manualslib.com/manual/3491430/Generalaire-Tersus-1200.html"
+  },
+  {
+   "manualId": "1396593",
+   "slug": "Generalaire-E1",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1396593/Generalaire-E1.html"
+  },
+  {
+   "manualId": "2420084",
+   "slug": "Generalaire-M3",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2420084/Generalaire-M3.html"
+  },
+  {
+   "manualId": "3616439",
+   "slug": "Generalaire-800",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3616439/Generalaire-800.html"
+  },
+  {
+   "manualId": "3956157",
+   "slug": "Generalaire-507-Series",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "Elite 1000",
+    "Elite 570",
+    "Elite 900"
+   ],
+   "url": "https://www.manualslib.com/manual/3956157/Generalaire-507-Series.html"
+  },
+  {
+   "manualId": "3304355",
+   "slug": "Generalaire-Dh75",
+   "title": "Replacement Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3304355/Generalaire-Dh75.html"
+  },
+  {
+   "manualId": "1190530",
+   "slug": "Generalaire-Sscb-15-Series",
+   "title": "SSCB-15 SERIES Operation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "SSCB-15 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1190530/Generalaire-Sscb-15-Series.html"
+  },
+  {
+   "manualId": "1047053",
+   "slug": "Generalaire-Sscb-7-Series",
+   "title": "SSCB-7 SERIES Operation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "SSCB-7 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1047053/Generalaire-Sscb-7-Series.html"
+  },
+  {
+   "manualId": "638639",
+   "slug": "Generalaire-Streamline-Sl-16",
+   "title": "Streamline SL-16 installation instructions manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "Streamline SL-16",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/638639/Generalaire-Streamline-Sl-16.html"
+  },
+  {
+   "manualId": "1190242",
+   "slug": "Generalaire-Tersus-2000",
+   "title": "Tersus 1200 Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Tersus 1200",
+   "extraModels": [
+    "Tersus 1200"
+   ],
+   "url": "https://www.manualslib.com/manual/1190242/Generalaire-Tersus-2000.html"
+  },
+  {
+   "manualId": "815128",
+   "slug": "Generalaire-Whole-Housedehumidifier",
+   "title": "WHOLE HOUSE DEHUMIDIFIER Installation, operating and maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "WHOLE HOUSE DEHUMIDIFIER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/815128/Generalaire-Whole-Housedehumidifier.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4035286",
+   "slug": "generalaire-1042-series-1042r-1042lh-manual",
+   "title": "GeneralAire 1042 Series, 1042R, 1042LH Manual"
+  }
+ ],
+ "techDirectIds": [
+  "generalaire"
+ ]
+}

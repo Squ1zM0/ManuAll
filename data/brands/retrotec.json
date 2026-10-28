@@ -1,0 +1,334 @@
+{
+ "brand": "Retrotec",
+ "brandSlug": "retrotec",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/retrotec/"
+ ],
+ "slugUsed": "retrotec",
+ "capturedAt": "2026-10-28T09:16:58.825817+00:00",
+ "typePages": [
+  {
+   "path": "/brand/retrotec/fan.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/retrotec/fog-machine.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/retrotec/industrial-equipment.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/retrotec/measuring-instruments.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/retrotec/test-equipment.html",
+   "manuals": 28,
+   "status": 200
+  },
+  {
+   "path": "/brand/retrotec/touchscreen.html",
+   "manuals": 4,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3982739",
+   "slug": "Retrotec-300-Series",
+   "title": "300 Series instruction manual",
+   "type": "User / Owner",
+   "pages": 38,
+   "productModel": "300 Series",
+   "extraModels": [
+    "5000 Series",
+    "6000 Series",
+    "7000 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3982739/Retrotec-300-Series.html"
+  },
+  {
+   "manualId": "4120372",
+   "slug": "Retrotec-300",
+   "title": "5000 Series quick manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "5000 Series",
+   "extraModels": [
+    "5000 Series",
+    "6000 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4120372/Retrotec-300.html"
+  },
+  {
+   "manualId": "1507009",
+   "slug": "Retrotec-Dm-2",
+   "title": "DM-2 Operation manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "DM-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1507009/Retrotec-Dm-2.html"
+  },
+  {
+   "manualId": "2769844",
+   "slug": "Retrotec-Dm-2-Series",
+   "title": "DM-2 quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "DM-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2769844/Retrotec-Dm-2-Series.html"
+  },
+  {
+   "manualId": "540191",
+   "slug": "Retrotec-Dm-2a-Mark-Ii",
+   "title": "DM-2A mark II user manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "DM-2A mark II",
+   "extraModels": [
+    "DM-2A mark II"
+   ],
+   "url": "https://www.manualslib.com/manual/540191/Retrotec-Dm-2a-Mark-Ii.html"
+  },
+  {
+   "manualId": "2225551",
+   "slug": "Retrotec-Dm32",
+   "title": "DM32 Getting Started",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "DM32",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2225551/Retrotec-Dm32.html"
+  },
+  {
+   "manualId": "1257635",
+   "slug": "Retrotec-Dm32",
+   "title": "DM32 Operation manual",
+   "type": "Other",
+   "pages": 91,
+   "productModel": "DM32",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1257635/Retrotec-Dm32.html"
+  },
+  {
+   "manualId": "1644683",
+   "slug": "Retrotec-Dm32",
+   "title": "DM32 Operation manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "DM32",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1644683/Retrotec-Dm32.html"
+  },
+  {
+   "manualId": "1294848",
+   "slug": "Retrotec-Dm32",
+   "title": "DM32 quick manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": "DM32",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1294848/Retrotec-Dm32.html"
+  },
+  {
+   "manualId": "2975593",
+   "slug": "Retrotec-Dm32x",
+   "title": "DM32X Operation manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "DM32X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2975593/Retrotec-Dm32x.html"
+  },
+  {
+   "manualId": "4162725",
+   "slug": "Retrotec-Dm32x-Pressure-Pan",
+   "title": "DM32X quick manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "DM32X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4162725/Retrotec-Dm32x-Pressure-Pan.html"
+  },
+  {
+   "manualId": "3763886",
+   "slug": "Retrotec-Dm32x",
+   "title": "DM32X Update manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "DM32X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3763886/Retrotec-Dm32x.html"
+  },
+  {
+   "manualId": "1671730",
+   "slug": "Retrotec-Ductester-340",
+   "title": "DucTester 300 Operation manual",
+   "type": "Other",
+   "pages": 89,
+   "productModel": "DucTester 300",
+   "extraModels": [
+    "DucTester 300",
+    "DucTester 340x",
+    "DucTester 440x",
+    "DucTester 450x"
+   ],
+   "url": "https://www.manualslib.com/manual/1671730/Retrotec-Ductester-340.html"
+  },
+  {
+   "manualId": "4315328",
+   "slug": "Retrotec-340x",
+   "title": "DucTester 340 Operation manual",
+   "type": "Other",
+   "pages": 86,
+   "productModel": "DucTester 340",
+   "extraModels": [
+    "US340X"
+   ],
+   "url": "https://www.manualslib.com/manual/4315328/Retrotec-340x.html"
+  },
+  {
+   "manualId": "3228835",
+   "slug": "Retrotec-Ductester-350x",
+   "title": "DucTester 350 Operation manual",
+   "type": "Other",
+   "pages": 58,
+   "productModel": "DucTester 350",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3228835/Retrotec-Ductester-350x.html"
+  },
+  {
+   "manualId": "3194181",
+   "slug": "Retrotec-Ductester-350",
+   "title": "DucTester 350 quick manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "DucTester 350",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3194181/Retrotec-Ductester-350.html"
+  },
+  {
+   "manualId": "3673477",
+   "slug": "Retrotec-Airtracer",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3673477/Retrotec-Airtracer.html"
+  },
+  {
+   "manualId": "1282643",
+   "slug": "Retrotec-Q5e",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1282643/Retrotec-Q5e.html"
+  },
+  {
+   "manualId": "1493669",
+   "slug": "Retrotec-Dm2mkii",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1493669/Retrotec-Dm2mkii.html"
+  },
+  {
+   "manualId": "1782131",
+   "slug": "Retrotec-450-Series",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1782131/Retrotec-450-Series.html"
+  },
+  {
+   "manualId": "2121490",
+   "slug": "Retrotec-441",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2121490/Retrotec-441.html"
+  },
+  {
+   "manualId": "2633512",
+   "slug": "Retrotec-Ductester-Du200",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2633512/Retrotec-Ductester-Du200.html"
+  },
+  {
+   "manualId": "3041884",
+   "slug": "Retrotec-500-Series",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3041884/Retrotec-500-Series.html"
+  },
+  {
+   "manualId": "2226226",
+   "slug": "Retrotec-1000",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2226226/Retrotec-1000.html"
+  },
+  {
+   "manualId": "4244738",
+   "slug": "retrotec-dm32x-gauge-getting-started-guide",
+   "title": "Retrotec DM32X gauge Getting Started Guide",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4244738/retrotec-dm32x-gauge-getting-started-guide.html"
+  },
+  {
+   "manualId": "3511414",
+   "slug": "Retrotec-Solo",
+   "title": "Solo Operation manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "Solo",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3511414/Retrotec-Solo.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4244738",
+   "slug": "retrotec-dm32x-gauge-getting-started-guide",
+   "title": "Retrotec DM32X gauge Getting Started Guide"
+  }
+ ],
+ "techDirectIds": [
+  "retrotec"
+ ]
+}

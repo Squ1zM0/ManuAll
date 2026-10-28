@@ -1,0 +1,2155 @@
+{
+ "brand": "ECR International",
+ "brandSlug": "ecr-international",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/ecr-international/"
+ ],
+ "slugUsed": "ecr-international",
+ "capturedAt": "2026-10-28T07:03:33.530004+00:00",
+ "typePages": [
+  {
+   "path": "/brand/ecr-international/air-conditioner.html",
+   "manuals": 39,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecr-international/air-handlers.html",
+   "manuals": 16,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecr-international/boiler.html",
+   "manuals": 557,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecr-international/boiler-supplies.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecr-international/control-systems.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecr-international/control-unit.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecr-international/controller.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecr-international/fan.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecr-international/furnace.html",
+   "manuals": 23,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecr-international/heat-pump.html",
+   "manuals": 29,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecr-international/heater.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecr-international/relays.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecr-international/remote-control.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecr-international/temperature-controller.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecr-international/water-heater.html",
+   "manuals": 35,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "815704",
+   "slug": "Ecr-International-75",
+   "title": "075 97gb Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "075 97gb",
+   "extraModels": [
+    "075 97gb",
+    "100",
+    "100 97gb"
+   ],
+   "url": "https://www.manualslib.com/manual/815704/Ecr-International-75.html"
+  },
+  {
+   "manualId": "2538884",
+   "slug": "Ecr-International-100",
+   "title": "100 Application manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "100",
+   "extraModels": [
+    "115",
+    "125",
+    "165",
+    "205",
+    "75"
+   ],
+   "url": "https://www.manualslib.com/manual/2538884/Ecr-International-100.html"
+  },
+  {
+   "manualId": "4592932",
+   "slug": "Ecr-International-050",
+   "title": "100 Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "100",
+   "extraModels": [
+    "100",
+    "150"
+   ],
+   "url": "https://www.manualslib.com/manual/4592932/Ecr-International-050.html"
+  },
+  {
+   "manualId": "3102147",
+   "slug": "Ecr-International-150-Combi",
+   "title": "100 User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "100",
+   "extraModels": [
+    "100",
+    "125",
+    "165",
+    "COMBI 115",
+    "COMBI 150",
+    "COMBI 205"
+   ],
+   "url": "https://www.manualslib.com/manual/3102147/Ecr-International-150-Combi.html"
+  },
+  {
+   "manualId": "2643412",
+   "slug": "Ecr-International-75f",
+   "title": "100F Application manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "100F",
+   "extraModels": [
+    "100F",
+    "115F",
+    "125F",
+    "150F",
+    "165F",
+    "205F"
+   ],
+   "url": "https://www.manualslib.com/manual/2643412/Ecr-International-75f.html"
+  },
+  {
+   "manualId": "3892943",
+   "slug": "Ecr-International-150",
+   "title": "150 Application manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "150",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3892943/Ecr-International-150.html"
+  },
+  {
+   "manualId": "3107044",
+   "slug": "Ecr-International-15b-K",
+   "title": "15B-060K Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "15B-060K",
+   "extraModels": [
+    "15B-060K",
+    "15B-095K",
+    "15B-120K",
+    "15B-150K",
+    "15B-175K",
+    "15B-205K",
+    "15B-235K"
+   ],
+   "url": "https://www.manualslib.com/manual/3107044/Ecr-International-15b-K.html"
+  },
+  {
+   "manualId": "1278587",
+   "slug": "Ecr-International-18k",
+   "title": "18k Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "18k",
+   "extraModels": [
+    "27k",
+    "36k",
+    "45k"
+   ],
+   "url": "https://www.manualslib.com/manual/1278587/Ecr-International-18k.html"
+  },
+  {
+   "manualId": "3131939",
+   "slug": "Ecr-International-Emi-I-Verter-9k",
+   "title": "18k Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "18k",
+   "extraModels": [
+    "18k",
+    "36k",
+    "EMI I verter 12k",
+    "EMI I verter 24k",
+    "EMI I verter 30k"
+   ],
+   "url": "https://www.manualslib.com/manual/3131939/Ecr-International-Emi-I-Verter-9k.html"
+  },
+  {
+   "manualId": "2029184",
+   "slug": "Ecr-International-550003792",
+   "title": "550003792 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "550003792",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2029184/Ecr-International-550003792.html"
+  },
+  {
+   "manualId": "2650327",
+   "slug": "Ecr-International-95m-200",
+   "title": "95M-200 Parameter manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "95M-200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2650327/Ecr-International-95m-200.html"
+  },
+  {
+   "manualId": "1049131",
+   "slug": "Ecr-International-95m-200",
+   "title": "95M-200 User's manual and troubleshooting manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "95M-200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1049131/Ecr-International-95m-200.html"
+  },
+  {
+   "manualId": "2317613",
+   "slug": "Ecr-International-A-Series",
+   "title": "A Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "A Series",
+   "extraModels": [
+    "UMLA",
+    "UMLVA"
+   ],
+   "url": "https://www.manualslib.com/manual/2317613/Ecr-International-A-Series.html"
+  },
+  {
+   "manualId": "2757924",
+   "slug": "Ecr-International-Argo",
+   "title": "AMB-4 Application manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "AMB-4",
+   "extraModels": [
+    "AMB-4"
+   ],
+   "url": "https://www.manualslib.com/manual/2757924/Ecr-International-Argo.html"
+  },
+  {
+   "manualId": "2553711",
+   "slug": "Ecr-International-Argo-Ar-Series",
+   "title": "ARGO AR Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "ARGO AR Series",
+   "extraModels": [
+    "ARGO AR822-II",
+    "ARGO AR861-2II",
+    "ARGO AR861-3II"
+   ],
+   "url": "https://www.manualslib.com/manual/2553711/Ecr-International-Argo-Ar-Series.html"
+  },
+  {
+   "manualId": "2375106",
+   "slug": "Ecr-International-Argo-Arh-1",
+   "title": "Argo ARH-1 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "Argo ARH-1",
+   "extraModels": [
+    "Argo ARH-2",
+    "Argo ARH-3"
+   ],
+   "url": "https://www.manualslib.com/manual/2375106/Ecr-International-Argo-Arh-1.html"
+  },
+  {
+   "manualId": "2553111",
+   "slug": "Ecr-International-Argo-Dpm-2",
+   "title": "ARGO DPM-2 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "ARGO DPM-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2553111/Ecr-International-Argo-Dpm-2.html"
+  },
+  {
+   "manualId": "3572497",
+   "slug": "Ecr-International-Argo-Universal-Control-Series",
+   "title": "Argo EZ1 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "Argo EZ1",
+   "extraModels": [
+    "Argo EZ1",
+    "Argo EZ3",
+    "Argo Universal Control Series",
+    "Argo Universal Control UZ3",
+    "Argo Universal Control UZ4",
+    "Argo Universal Control UZ6"
+   ],
+   "url": "https://www.manualslib.com/manual/3572497/Ecr-International-Argo-Universal-Control-Series.html"
+  },
+  {
+   "manualId": "3132504",
+   "slug": "Ecr-International-B-Series",
+   "title": "B Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "B Series",
+   "extraModels": [
+    "BS2AAN000075",
+    "BS2AAN000112",
+    "BS2AAN000150",
+    "BS2AAN000187",
+    "BS2AAN000225",
+    "BS2AAN000262",
+    "BS2AAN000299"
+   ],
+   "url": "https://www.manualslib.com/manual/3132504/Ecr-International-B-Series.html"
+  },
+  {
+   "manualId": "2873091",
+   "slug": "Ecr-International-Bcl",
+   "title": "BCL Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "BCL",
+   "extraModels": [
+    "BCL-S",
+    "BFL"
+   ],
+   "url": "https://www.manualslib.com/manual/2873091/Ecr-International-Bcl.html"
+  },
+  {
+   "manualId": "2345589",
+   "slug": "Ecr-International-C13181var",
+   "title": "C1318-601VAR Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 15,
+   "productModel": "C1318-601VAR",
+   "extraModels": [
+    "C1318-601VAR",
+    "C13241VAR",
+    "C13301VAR",
+    "C13361VAR",
+    "C13421VAR",
+    "C13481VAR",
+    "C13601VAR"
+   ],
+   "url": "https://www.manualslib.com/manual/2345589/Ecr-International-C13181var.html"
+  },
+  {
+   "manualId": "1167987",
+   "slug": "Ecr-International-C1318-601var",
+   "title": "C1318-601VAR use and care manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "C1318-601VAR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1167987/Ecr-International-C1318-601var.html"
+  },
+  {
+   "manualId": "1215518",
+   "slug": "Ecr-International-Cacg",
+   "title": "CACG Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "CACG",
+   "extraModels": [
+    "CACH",
+    "CAHG",
+    "CAHH",
+    "CAHJ",
+    "CAHK"
+   ],
+   "url": "https://www.manualslib.com/manual/1215518/Ecr-International-Cacg.html"
+  },
+  {
+   "manualId": "3846245",
+   "slug": "Ecr-International-Ccb",
+   "title": "CCB Application manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": "CCB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3846245/Ecr-International-Ccb.html"
+  },
+  {
+   "manualId": "1354799",
+   "slug": "Ecr-International-Chb",
+   "title": "CCB-150 Application manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": "CCB-150",
+   "extraModels": [
+    "CCB-150",
+    "CHB-100",
+    "CHB-130",
+    "CHB-150"
+   ],
+   "url": "https://www.manualslib.com/manual/1354799/Ecr-International-Chb.html"
+  },
+  {
+   "manualId": "1134599",
+   "slug": "Ecr-International-Ccb-150",
+   "title": "CCB-150 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 92,
+   "productModel": "CCB-150",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1134599/Ecr-International-Ccb-150.html"
+  },
+  {
+   "manualId": "960965",
+   "slug": "Ecr-International-Ccb-150",
+   "title": "CCB-150 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "CCB-150",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/960965/Ecr-International-Ccb-150.html"
+  },
+  {
+   "manualId": "3691497",
+   "slug": "Ecr-International-Ch-80",
+   "title": "CH-100 Installation and service manual",
+   "type": "Service",
+   "pages": 168,
+   "productModel": "CH-100",
+   "extraModels": [
+    "CH-100",
+    "CH-120",
+    "CH-150",
+    "CH-180",
+    "CO-150",
+    "CO-200",
+    "CO-90"
+   ],
+   "url": "https://www.manualslib.com/manual/3691497/Ecr-International-Ch-80.html"
+  },
+  {
+   "manualId": "3698308",
+   "slug": "Ecr-International-Ch-299",
+   "title": "CH-299 Installation and service manual",
+   "type": "Service",
+   "pages": 156,
+   "productModel": "CH-299",
+   "extraModels": [
+    "CH-399",
+    "CH-499"
+   ],
+   "url": "https://www.manualslib.com/manual/3698308/Ecr-International-Ch-299.html"
+  },
+  {
+   "manualId": "1111107",
+   "slug": "Ecr-International-Chb-100",
+   "title": "CHB-100 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 92,
+   "productModel": "CHB-100",
+   "extraModels": [
+    "CHB-130",
+    "CHB-150"
+   ],
+   "url": "https://www.manualslib.com/manual/1111107/Ecr-International-Chb-100.html"
+  },
+  {
+   "manualId": "4234233",
+   "slug": "Ecr-International-Cm-Series",
+   "title": "CM Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "CM Series",
+   "extraModels": [
+    "CMHG08",
+    "CMHG12",
+    "CW Series",
+    "CWHG10",
+    "CWHG13",
+    "WM Series",
+    "WMHG09",
+    "WMHG12"
+   ],
+   "url": "https://www.manualslib.com/manual/4234233/Ecr-International-Cm-Series.html"
+  },
+  {
+   "manualId": "3440644",
+   "slug": "Ecr-International-Columbia-Csfh-Iv-4-Series",
+   "title": "Columbia CSFH IV 4 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Columbia CSFH IV 4 Series",
+   "extraModels": [
+    "Columbia CSFH-3085",
+    "Columbia CSFH-3100",
+    "Columbia CSFH-4100",
+    "Columbia CSFH-4125",
+    "Columbia CSFH-4145",
+    "Columbia CSFH-5160",
+    "Columbia CSFH-5185",
+    "Columbia CSFH-6175",
+    "Columbia CSFH-6210"
+   ],
+   "url": "https://www.manualslib.com/manual/3440644/Ecr-International-Columbia-Csfh-Iv-4-Series.html"
+  },
+  {
+   "manualId": "3597393",
+   "slug": "Ecr-International-Columbia-Csfh-3085",
+   "title": "Columbia CSFH IV 4 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Columbia CSFH IV 4 Series",
+   "extraModels": [
+    "Columbia CSFH IV 4 Series",
+    "Columbia CSFH-3100",
+    "Columbia CSFH-4100",
+    "Columbia CSFH-4125",
+    "Columbia CSFH-4145",
+    "Columbia CSFH-5160",
+    "Columbia CSFH-5185",
+    "Columbia CSFH-6175",
+    "Columbia CSFH-6210"
+   ],
+   "url": "https://www.manualslib.com/manual/3597393/Ecr-International-Columbia-Csfh-3085.html"
+  },
+  {
+   "manualId": "2680198",
+   "slug": "Ecr-International-Columbia-Mcc-Ii-Series",
+   "title": "Columbia MCC II Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Columbia MCC II Series",
+   "extraModels": [
+    "Columbia MCC-8D",
+    "Columbia MCC-8DP",
+    "Columbia MCC-9D",
+    "Columbia MCC-9DP"
+   ],
+   "url": "https://www.manualslib.com/manual/2680198/Ecr-International-Columbia-Mcc-Ii-Series.html"
+  },
+  {
+   "manualId": "3594334",
+   "slug": "Ecr-International-Columbia-Mcc-Series",
+   "title": "Columbia MCC Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Columbia MCC Series",
+   "extraModels": [
+    "Columbia MCC-8",
+    "Columbia MCC-8D",
+    "Columbia MCC-8DP",
+    "Columbia MCC-9",
+    "Columbia MCC-9D",
+    "Columbia MCC-9DP"
+   ],
+   "url": "https://www.manualslib.com/manual/3594334/Ecr-International-Columbia-Mcc-Series.html"
+  },
+  {
+   "manualId": "3066161",
+   "slug": "Ecr-International-Combi-115",
+   "title": "COMBI 115 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 143,
+   "productModel": "COMBI 115",
+   "extraModels": [
+    "COMBI 150",
+    "COMBI 205",
+    "HEATING ONLY 100",
+    "HEATING ONLY 125",
+    "HEATING ONLY 165",
+    "HEATING ONLY 75"
+   ],
+   "url": "https://www.manualslib.com/manual/3066161/Ecr-International-Combi-115.html"
+  },
+  {
+   "manualId": "3141665",
+   "slug": "Ecr-International-Combi-205",
+   "title": "COMBI 115 User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "COMBI 115",
+   "extraModels": [
+    "COMBI 115",
+    "COMBI 150",
+    "HEATING ONLY 100",
+    "HEATING ONLY 125",
+    "HEATING ONLY 165",
+    "HEATING ONLY 75"
+   ],
+   "url": "https://www.manualslib.com/manual/3141665/Ecr-International-Combi-205.html"
+  },
+  {
+   "manualId": "3687684",
+   "slug": "Ecr-International-D250-Series",
+   "title": "D250 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "D250 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3687684/Ecr-International-D250-Series.html"
+  },
+  {
+   "manualId": "3144548",
+   "slug": "Ecr-International-Mac-115-Combi",
+   "title": "DCB 125 HEATING ONLY User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "DCB 125 HEATING ONLY",
+   "extraModels": [
+    "DCB 125 HEATING ONLY",
+    "DCB 165 HEATING ONLY",
+    "DCC 115 COMBI",
+    "DCC 150 COMBI",
+    "DCC 205 COMBI",
+    "MAC 150 COMBI",
+    "MAC 205 COMBI",
+    "MAH 125 HEATING ONLY",
+    "MAH 165 HEATING ONLY"
+   ],
+   "url": "https://www.manualslib.com/manual/3144548/Ecr-International-Mac-115-Combi.html"
+  },
+  {
+   "manualId": "2166367",
+   "slug": "Ecr-International-Deluxe-Heat-Dhsz109da",
+   "title": "Deluxe Heat DHSZ109DA installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "Deluxe Heat DHSZ109DA",
+   "extraModels": [
+    "Deluxe Heat DHSZ109DA",
+    "Deluxe Heat DHSZ112DA",
+    "Deluxe Heat DHSZ118DA",
+    "Deluxe Heat DHSZ124DA"
+   ],
+   "url": "https://www.manualslib.com/manual/2166367/Ecr-International-Deluxe-Heat-Dhsz109da.html"
+  },
+  {
+   "manualId": "2068373",
+   "slug": "Ecr-International-Ductless-Series",
+   "title": "Ductless Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "Ductless Series",
+   "extraModels": [
+    "EMI ComfortWave CAW08",
+    "EMI ComfortWave CAW12",
+    "EMI ComfortWave CAW18",
+    "EMI ComfortWave CAW20",
+    "EMI ComfortWave CAW33",
+    "EMI ComfortWave CAW36"
+   ],
+   "url": "https://www.manualslib.com/manual/2068373/Ecr-International-Ductless-Series.html"
+  },
+  {
+   "manualId": "2359128",
+   "slug": "Ecr-International-Dunkirk-4-Series",
+   "title": "Dunkirk 4 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "Dunkirk 4 Series",
+   "extraModels": [
+    "Dunkirk Q90-100",
+    "Dunkirk Q90-50",
+    "Dunkirk Q90-75"
+   ],
+   "url": "https://www.manualslib.com/manual/2359128/Ecr-International-Dunkirk-4-Series.html"
+  },
+  {
+   "manualId": "4205045",
+   "slug": "Ecr-International-Dunkirk-D249-Series",
+   "title": "Dunkirk D249 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "Dunkirk D249 Series",
+   "extraModels": [
+    "Dunkirk D2491000",
+    "Dunkirk D2491100",
+    "Dunkirk D2491200",
+    "Dunkirk D2491300",
+    "Dunkirk D2491400",
+    "Dunkirk D2491400S",
+    "Dunkirk D2491500",
+    "Dunkirk D2491500S",
+    "Dunkirk D249300",
+    "Dunkirk D249400",
+    "Dunkirk D249500",
+    "Dunkirk D249500S",
+    "Dunkirk D249600",
+    "Dunkirk D249600S",
+    "Dunkirk D249700",
+    "Dunkirk D249800",
+    "Dunkirk D249900"
+   ],
+   "url": "https://www.manualslib.com/manual/4205045/Ecr-International-Dunkirk-D249-Series.html"
+  },
+  {
+   "manualId": "4205073",
+   "slug": "Ecr-International-Dunkirk-D249600s",
+   "title": "Dunkirk D2491400S User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Dunkirk D2491400S",
+   "extraModels": [
+    "Dunkirk D2491400S",
+    "Dunkirk D2491500S",
+    "Dunkirk D249500S"
+   ],
+   "url": "https://www.manualslib.com/manual/4205073/Ecr-International-Dunkirk-D249600s.html"
+  },
+  {
+   "manualId": "2762527",
+   "slug": "Ecr-International-Dunkirk-Dcb-75",
+   "title": "Dunkirk DCB-100 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 143,
+   "productModel": "Dunkirk DCB-100",
+   "extraModels": [
+    "Dunkirk DCB-100",
+    "Dunkirk DCB-115",
+    "Dunkirk DCB-125",
+    "Dunkirk DCB-150",
+    "Dunkirk DCB-165",
+    "Dunkirk DCC-205"
+   ],
+   "url": "https://www.manualslib.com/manual/2762527/Ecr-International-Dunkirk-Dcb-75.html"
+  },
+  {
+   "manualId": "2358110",
+   "slug": "Ecr-International-Dunkirk-Dcb-100",
+   "title": "Dunkirk DCB-100 Manual",
+   "type": "Other",
+   "pages": 139,
+   "productModel": "Dunkirk DCB-100",
+   "extraModels": [
+    "Dunkirk DCB-125",
+    "Dunkirk DCB-165",
+    "Dunkirk DCC-115",
+    "Dunkirk DCC-150",
+    "Dunkirk DCC-205"
+   ],
+   "url": "https://www.manualslib.com/manual/2358110/Ecr-International-Dunkirk-Dcb-100.html"
+  },
+  {
+   "manualId": "3144551",
+   "slug": "Ecr-International-Dunkirk-Dcc-150",
+   "title": "Dunkirk DCB-125 User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Dunkirk DCB-125",
+   "extraModels": [
+    "Dunkirk DCB-125",
+    "Dunkirk DCB-165",
+    "Dunkirk DCBF",
+    "Dunkirk DCBF-125",
+    "Dunkirk DCC-205",
+    "Dunkirk DCCF",
+    "Dunkirk DCCF-150"
+   ],
+   "url": "https://www.manualslib.com/manual/3144551/Ecr-International-Dunkirk-Dcc-150.html"
+  },
+  {
+   "manualId": "3179115",
+   "slug": "Ecr-International-Dunkirk-Dcc-150f",
+   "title": "Dunkirk DCB-125F User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Dunkirk DCB-125F",
+   "extraModels": [
+    "Dunkirk DCB-125F",
+    "Dunkirk DCC-165F",
+    "Dunkirk DCC-205F"
+   ],
+   "url": "https://www.manualslib.com/manual/3179115/Ecr-International-Dunkirk-Dcc-150f.html"
+  },
+  {
+   "manualId": "2749167",
+   "slug": "Ecr-International-Dunkirk-Dcbf-75",
+   "title": "Dunkirk DCBF Manual",
+   "type": "Other",
+   "pages": 139,
+   "productModel": "Dunkirk DCBF",
+   "extraModels": [
+    "Dunkirk DCBF-100",
+    "Dunkirk DCBF-125",
+    "Dunkirk DCBF-165",
+    "Dunkirk DCCF",
+    "Dunkirk DCCF-115",
+    "Dunkirk DCCF-150",
+    "Dunkirk DCCF-205"
+   ],
+   "url": "https://www.manualslib.com/manual/2749167/Ecr-International-Dunkirk-Dcbf-75.html"
+  },
+  {
+   "manualId": "2751824",
+   "slug": "Ecr-International-Dunkirk-Dcbf-125",
+   "title": "Dunkirk DCBF-125 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 118,
+   "productModel": "Dunkirk DCBF-125",
+   "extraModels": [
+    "Dunkirk DCBF-165",
+    "Dunkirk DCCF-150",
+    "Dunkirk DCCF-205"
+   ],
+   "url": "https://www.manualslib.com/manual/2751824/Ecr-International-Dunkirk-Dcbf-125.html"
+  },
+  {
+   "manualId": "2322392",
+   "slug": "Ecr-International-Dunkirk-Dmg-240",
+   "title": "Dunkirk DMG-240 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 86,
+   "productModel": "Dunkirk DMG-240",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2322392/Ecr-International-Dunkirk-Dmg-240.html"
+  },
+  {
+   "manualId": "2386905",
+   "slug": "Ecr-International-Dunkirk-Dmg-380",
+   "title": "Dunkirk DMG-380 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "Dunkirk DMG-380",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2386905/Ecr-International-Dunkirk-Dmg-380.html"
+  },
+  {
+   "manualId": "2946721",
+   "slug": "Ecr-International-Dunkirk-Dxl-060k",
+   "title": "Dunkirk DXL-060K Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "Dunkirk DXL-060K",
+   "extraModels": [
+    "Dunkirk DXL-095K",
+    "Dunkirk DXL-120K",
+    "Dunkirk DXL-150K",
+    "Dunkirk DXL-175K",
+    "Dunkirk DXL-205K",
+    "Dunkirk DXL-235K"
+   ],
+   "url": "https://www.manualslib.com/manual/2946721/Ecr-International-Dunkirk-Dxl-060k.html"
+  },
+  {
+   "manualId": "2356716",
+   "slug": "Ecr-International-Dunkirk-Excelsior-3-Series",
+   "title": "Dunkirk EXCELSIOR 3 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "Dunkirk EXCELSIOR 3 Series",
+   "extraModels": [
+    "Dunkirk EXCELSIOR EXB4075",
+    "Dunkirk EXCELSIOR EXB4090",
+    "Dunkirk EXCELSIOR EXB5100",
+    "Dunkirk EXCELSIOR EXB5120",
+    "Dunkirk EXCELSIOR EXB6130",
+    "Dunkirk EXCELSIOR EXB6145",
+    "Dunkirk EXCELSIOR EXB7165",
+    "Dunkirk EXCELSIOR EXB7180"
+   ],
+   "url": "https://www.manualslib.com/manual/2356716/Ecr-International-Dunkirk-Excelsior-3-Series.html"
+  },
+  {
+   "manualId": "3144000",
+   "slug": "Ecr-International-Dunkirk-Excelsior-Exb-Series",
+   "title": "Dunkirk EXCELSIOR EXB Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "Dunkirk EXCELSIOR EXB Series",
+   "extraModels": [
+    "Dunkirk EXCELSIOR EXB4075",
+    "Dunkirk EXCELSIOR EXB4095",
+    "Dunkirk EXCELSIOR EXB4110",
+    "Dunkirk EXCELSIOR EXB5100",
+    "Dunkirk EXCELSIOR EXB5115",
+    "Dunkirk EXCELSIOR EXB5135",
+    "Dunkirk EXCELSIOR EXB6130",
+    "Dunkirk EXCELSIOR EXB6145",
+    "Dunkirk EXCELSIOR EXB6165",
+    "Dunkirk EXCELSIOR EXB7165",
+    "Dunkirk EXCELSIOR EXB7180",
+    "Dunkirk EXCELSIOR EXB7190"
+   ],
+   "url": "https://www.manualslib.com/manual/3144000/Ecr-International-Dunkirk-Excelsior-Exb-Series.html"
+  },
+  {
+   "manualId": "2692370",
+   "slug": "Ecr-International-Dunkirk-Helix-Dkvlt-050",
+   "title": "Dunkirk Helix DKVLT-050 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "Dunkirk Helix DKVLT-050",
+   "extraModels": [
+    "Dunkirk Helix DKVLT-075",
+    "Dunkirk Helix DKVLT-100",
+    "Dunkirk Helix DKVLT-150",
+    "Dunkirk Helix DKVLT-200",
+    "Dunkirk Helix DKVLT-299"
+   ],
+   "url": "https://www.manualslib.com/manual/2692370/Ecr-International-Dunkirk-Helix-Dkvlt-050.html"
+  },
+  {
+   "manualId": "2357949",
+   "slug": "Ecr-International-Dunkirk-Helix-Vx",
+   "title": "Dunkirk HELIX VX Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "Dunkirk HELIX VX",
+   "extraModels": [
+    "Dunkirk HELIX VX-050",
+    "Dunkirk HELIX VX-075",
+    "Dunkirk HELIX VX-100",
+    "Dunkirk HELIX VX-150",
+    "Dunkirk HELIX VX-200"
+   ],
+   "url": "https://www.manualslib.com/manual/2357949/Ecr-International-Dunkirk-Helix-Vx.html"
+  },
+  {
+   "manualId": "3145009",
+   "slug": "Ecr-International-Dunkirk-Ii-Series",
+   "title": "Dunkirk II Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "Dunkirk II Series",
+   "extraModels": [
+    "Dunkirk Q90-125",
+    "Dunkirk Q90-150",
+    "Dunkirk Q90-175",
+    "Dunkirk Q90-200"
+   ],
+   "url": "https://www.manualslib.com/manual/3145009/Ecr-International-Dunkirk-Ii-Series.html"
+  },
+  {
+   "manualId": "2357748",
+   "slug": "Ecr-International-Dunkirk-Plymouth-Steam-2-Series",
+   "title": "Dunkirk PLYMOUTH STEAM 2 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "Dunkirk PLYMOUTH STEAM 2 Series",
+   "extraModels": [
+    "Dunkirk PLYMOUTH STEAM PSB-3D",
+    "Dunkirk PLYMOUTH STEAM PSB-3DP",
+    "Dunkirk PLYMOUTH STEAM PSB-4D",
+    "Dunkirk PLYMOUTH STEAM PSB-4DP",
+    "Dunkirk PLYMOUTH STEAM PSB-5D",
+    "Dunkirk PLYMOUTH STEAM PSB-5DP",
+    "Dunkirk PLYMOUTH STEAM PSB-6D",
+    "Dunkirk PLYMOUTH STEAM PSB-6DP",
+    "Dunkirk PLYMOUTH STEAM PSB-7D",
+    "Dunkirk PLYMOUTH STEAM PSB-7DP",
+    "Dunkirk PLYMOUTH STEAM PSB-8D",
+    "Dunkirk PLYMOUTH STEAM PSB-8DP",
+    "Dunkirk PLYMOUTH STEAM PSB-9D",
+    "Dunkirk PLYMOUTH STEAM PSB-9DP"
+   ],
+   "url": "https://www.manualslib.com/manual/2357748/Ecr-International-Dunkirk-Plymouth-Steam-2-Series.html"
+  },
+  {
+   "manualId": "2650334",
+   "slug": "Ecr-International-Dunkirk-Q90-125",
+   "title": "Dunkirk Q90-125 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Dunkirk Q90-125",
+   "extraModels": [
+    "Dunkirk Q90-200"
+   ],
+   "url": "https://www.manualslib.com/manual/2650334/Ecr-International-Dunkirk-Q90-125.html"
+  },
+  {
+   "manualId": "2650442",
+   "slug": "Ecr-International-Dunkirk-Q90-200",
+   "title": "Dunkirk Q90-125 Installation manual and operating instructions",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Dunkirk Q90-125",
+   "extraModels": [
+    "Dunkirk Q90-125"
+   ],
+   "url": "https://www.manualslib.com/manual/2650442/Ecr-International-Dunkirk-Q90-200.html"
+  },
+  {
+   "manualId": "2692162",
+   "slug": "Ecr-International-Dunkirk-Q95m-200",
+   "title": "Dunkirk Q95M-200 installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Dunkirk Q95M-200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2692162/Ecr-International-Dunkirk-Q95m-200.html"
+  },
+  {
+   "manualId": "2379150",
+   "slug": "Ecr-International-Dunkirk-Q95m-200",
+   "title": "Dunkirk Q95M-200 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "Dunkirk Q95M-200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2379150/Ecr-International-Dunkirk-Q95m-200.html"
+  },
+  {
+   "manualId": "2357904",
+   "slug": "Ecr-International-Dunkirk-Wpsb-3-Series",
+   "title": "Dunkirk WPSB 3 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "Dunkirk WPSB 3 Series",
+   "extraModels": [
+    "Dunkirk WPSB Series",
+    "Dunkirk WPSB-3D",
+    "Dunkirk WPSB-3DP",
+    "Dunkirk WPSB-4D",
+    "Dunkirk WPSB-4DP",
+    "Dunkirk WPSB-5D",
+    "Dunkirk WPSB-5DP",
+    "Dunkirk WPSB-6D",
+    "Dunkirk WPSB-6DP",
+    "Dunkirk WPSB-7D",
+    "Dunkirk WPSB-7DP",
+    "Dunkirk WPSB-8D",
+    "Dunkirk WPSB-8DP",
+    "Dunkirk WPSB-9D",
+    "Dunkirk WPSB-9DP"
+   ],
+   "url": "https://www.manualslib.com/manual/2357904/Ecr-International-Dunkirk-Wpsb-3-Series.html"
+  },
+  {
+   "manualId": "1957190",
+   "slug": "Ecr-International-Dunkirk-Wpsb-Ii-Series",
+   "title": "Dunkirk WPSB II Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Dunkirk WPSB II Series",
+   "extraModels": [
+    "Dunkirk WPSB-3D",
+    "Dunkirk WPSB-3DP",
+    "Dunkirk WPSB-4D",
+    "Dunkirk WPSB-4DP",
+    "Dunkirk WPSB-5D",
+    "Dunkirk WPSB-5DP",
+    "Dunkirk WPSB-6D",
+    "Dunkirk WPSB-6DP",
+    "Dunkirk WPSB-7D",
+    "Dunkirk WPSB-7DP",
+    "Dunkirk WPSB-8D",
+    "Dunkirk WPSB-8DP",
+    "Dunkirk WPSB-9D",
+    "Dunkirk WPSB-9DP"
+   ],
+   "url": "https://www.manualslib.com/manual/1957190/Ecr-International-Dunkirk-Wpsb-Ii-Series.html"
+  },
+  {
+   "manualId": "4256170",
+   "slug": "ecr-international-columbia-csfh-iv-4-series-oil-fired-boiler-manual",
+   "title": "ECR International Columbia CSFH IV 4 Series Oil-Fired Boiler Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4256170/ecr-international-columbia-csfh-iv-4-series-oil-fired-boiler-manual.html"
+  },
+  {
+   "manualId": "2625223",
+   "slug": "Ecr-International-Ultimate-Pf-Series",
+   "title": "Ecr International ULTIMATE PF Series Installation Manual And Operating Instructions",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": null,
+   "extraModels": [
+    "ULTIMATE PFO-3",
+    "ULTIMATE PFO-3T",
+    "ULTIMATE PFO-4",
+    "ULTIMATE PFO-4T",
+    "ULTIMATE PFO-4W",
+    "ULTIMATE PFO-5",
+    "ULTIMATE PFO-5T",
+    "ULTIMATE PFO-6T",
+    "ULTIMATE PFO-7",
+    "ULTIMATE PFO-7W",
+    "ULTIMATE PFO-8T",
+    "ULTIMATE PFO-9",
+    "ULTIMATE PFO-9W"
+   ],
+   "url": "https://www.manualslib.com/manual/2625223/Ecr-International-Ultimate-Pf-Series.html"
+  },
+  {
+   "manualId": "4198795",
+   "slug": "Ecr-International-Emi-America-S-Series",
+   "title": "EMI AMERICA S Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "EMI AMERICA S Series",
+   "extraModels": [
+    "EMI AMERICA S2HA",
+    "EMI AMERICA T Series",
+    "EMI AMERICA T2HA",
+    "EMI AMERICA T3HA",
+    "EMI AMERICA T4HA"
+   ],
+   "url": "https://www.manualslib.com/manual/4198795/Ecr-International-Emi-America-S-Series.html"
+  },
+  {
+   "manualId": "2096114",
+   "slug": "Ecr-International-Emi-Deluxe-Heat-Dhwal09da",
+   "title": "EMI Deluxe Heat DHWAL09DA Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "EMI Deluxe Heat DHWAL09DA",
+   "extraModels": [
+    "EMI Deluxe Heat DHWAL09DA",
+    "EMI Deluxe Heat DHWAL12DA",
+    "EMI Deluxe Heat DHWAL18DA",
+    "EMI Deluxe Heat DHWAL24DA"
+   ],
+   "url": "https://www.manualslib.com/manual/2096114/Ecr-International-Emi-Deluxe-Heat-Dhwal09da.html"
+  },
+  {
+   "manualId": "2367459",
+   "slug": "Ecr-International-Emi-Deluxe-Heat-Dhwal12da",
+   "title": "EMI Deluxe Heat DHWAL09DA user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "EMI Deluxe Heat DHWAL09DA",
+   "extraModels": [
+    "EMI Deluxe Heat DHWAL09DA",
+    "EMI Deluxe Heat DHWAL12DA",
+    "EMI Deluxe Heat DHWAL18DA",
+    "EMI Deluxe Heat DHWAL24DA"
+   ],
+   "url": "https://www.manualslib.com/manual/2367459/Ecr-International-Emi-Deluxe-Heat-Dhwal12da.html"
+  },
+  {
+   "manualId": "2096113",
+   "slug": "Ecr-International-Emi-Deluxe-Heat-I-Verter-Cash09da",
+   "title": "EMI Deluxe heat I verter CASH024DA Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "EMI Deluxe heat I verter CASH024DA",
+   "extraModels": [
+    "EMI Deluxe heat I verter CASH024DA",
+    "EMI Deluxe heat I verter CASH09DA",
+    "EMI Deluxe heat I verter CASH12DA",
+    "EMI Deluxe heat I verter CASH18DA"
+   ],
+   "url": "https://www.manualslib.com/manual/2096113/Ecr-International-Emi-Deluxe-Heat-I-Verter-Cash09da.html"
+  },
+  {
+   "manualId": "2885619",
+   "slug": "Ecr-International-Emi-Dhmz218da",
+   "title": "EMI DHMZ218DA Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "EMI DHMZ218DA",
+   "extraModels": [
+    "EMI DHMZ327DA",
+    "EMI DHMZ436DA"
+   ],
+   "url": "https://www.manualslib.com/manual/2885619/Ecr-International-Emi-Dhmz218da.html"
+  },
+  {
+   "manualId": "1205856",
+   "slug": "Ecr-International-Enviroair",
+   "title": "Enviroair Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "Enviroair",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1205856/Ecr-International-Enviroair.html"
+  },
+  {
+   "manualId": "1297550",
+   "slug": "Ecr-International-Enviroair-Mzi-Series",
+   "title": "EnviroAir MHA Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 34,
+   "productModel": "EnviroAir MHA",
+   "extraModels": [
+    "EnviroAir MHA",
+    "EnviroAir MWHA"
+   ],
+   "url": "https://www.manualslib.com/manual/1297550/Ecr-International-Enviroair-Mzi-Series.html"
+  },
+  {
+   "manualId": "2525886",
+   "slug": "Ecr-International-Enviroair-Ptac-Series",
+   "title": "ENVIROair PTAC Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "ENVIROair PTAC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2525886/Ecr-International-Enviroair-Ptac-Series.html"
+  },
+  {
+   "manualId": "3594786",
+   "slug": "Ecr-International-Freewatt-Fw95m-200",
+   "title": "freewatt FW95M-200 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "freewatt FW95M-200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3594786/Ecr-International-Freewatt-Fw95m-200.html"
+  },
+  {
+   "manualId": "3595000",
+   "slug": "Ecr-International-Freewatt-Fw95v",
+   "title": "freewatt FW95V Installation Manual And Operating Instructions",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "freewatt FW95V",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3595000/Ecr-International-Freewatt-Fw95v.html"
+  },
+  {
+   "manualId": "3622046",
+   "slug": "Ecr-International-Freewatt-Fwhrj",
+   "title": "freewatt FWHRJ Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "freewatt FWHRJ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3622046/Ecr-International-Freewatt-Fwhrj.html"
+  },
+  {
+   "manualId": "1239143",
+   "slug": "Ecr-International-G95v",
+   "title": "G95V Installation Manual And Operating Instructions",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "G95V",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1239143/Ecr-International-G95v.html"
+  },
+  {
+   "manualId": "3219110",
+   "slug": "Ecr-International-Green-Mountain-Gm90-50",
+   "title": "Green Mountain GM90-100 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "Green Mountain GM90-100",
+   "extraModels": [
+    "Green Mountain GM90-100",
+    "Green Mountain GM90-75"
+   ],
+   "url": "https://www.manualslib.com/manual/3219110/Ecr-International-Green-Mountain-Gm90-50.html"
+  },
+  {
+   "manualId": "2528154",
+   "slug": "Ecr-International-Green-Mountain-Gmhb125",
+   "title": "Green Mountain GMCB150 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 92,
+   "productModel": "Green Mountain GMCB150",
+   "extraModels": [
+    "Green Mountain GMCB150",
+    "Green Mountain GMCB200",
+    "Green Mountain GMHB160"
+   ],
+   "url": "https://www.manualslib.com/manual/2528154/Ecr-International-Green-Mountain-Gmhb125.html"
+  },
+  {
+   "manualId": "3219092",
+   "slug": "Ecr-International-Green-Mountain-Gmgw-Series",
+   "title": "Green Mountain GMGW Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "Green Mountain GMGW Series",
+   "extraModels": [
+    "Green Mountain GMGWB045FE",
+    "Green Mountain GMGWB070FE",
+    "Green Mountain GMGWB096FE",
+    "Green Mountain GMGWB120FE",
+    "Green Mountain GMGWB145FE",
+    "Green Mountain GMGWB170FE",
+    "Green Mountain GMGWB195FE",
+    "Green Mountain GMGWB245FE",
+    "Green Mountain GMGWB295FE"
+   ],
+   "url": "https://www.manualslib.com/manual/3219092/Ecr-International-Green-Mountain-Gmgw-Series.html"
+  },
+  {
+   "manualId": "3219116",
+   "slug": "Ecr-International-Green-Mountain-Gmpvb-3-Series",
+   "title": "Green Mountain GMPVB 3 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "Green Mountain GMPVB 3 Series",
+   "extraModels": [
+    "Green Mountain GMPVB-112",
+    "Green Mountain GMPVB-150",
+    "Green Mountain GMPVB-187",
+    "Green Mountain GMPVB-42",
+    "Green Mountain GMPVB-75"
+   ],
+   "url": "https://www.manualslib.com/manual/3219116/Ecr-International-Green-Mountain-Gmpvb-3-Series.html"
+  },
+  {
+   "manualId": "3219097",
+   "slug": "Ecr-International-Green-Mountain-Gmpvb-Ii-Series",
+   "title": "Green Mountain GMPVB II Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "Green Mountain GMPVB II Series",
+   "extraModels": [
+    "Green Mountain GMPVB-112",
+    "Green Mountain GMPVB-150",
+    "Green Mountain GMPVB-188",
+    "Green Mountain GMPVB-225",
+    "Green Mountain GMPVB-42",
+    "Green Mountain GMPVB-75"
+   ],
+   "url": "https://www.manualslib.com/manual/3219097/Ecr-International-Green-Mountain-Gmpvb-Ii-Series.html"
+  },
+  {
+   "manualId": "2925921",
+   "slug": "Ecr-International-Greenmountain-Gmgs075e",
+   "title": "GreenMountain GMGS075E Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "GreenMountain GMGS075E",
+   "extraModels": [
+    "GreenMountain GMGS112E",
+    "GreenMountain GMGS150E",
+    "GreenMountain GMGS187E",
+    "GreenMountain GMGS225E",
+    "GreenMountain GMGS262E",
+    "GreenMountain GMGS299E"
+   ],
+   "url": "https://www.manualslib.com/manual/2925921/Ecr-International-Greenmountain-Gmgs075e.html"
+  },
+  {
+   "manualId": "3121011",
+   "slug": "Ecr-International-Greenmountain-Gmgw",
+   "title": "GreenMountain GMGW Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "GreenMountain GMGW",
+   "extraModels": [
+    "GreenMountain GMGW-8D",
+    "GreenMountain GMGW-9D"
+   ],
+   "url": "https://www.manualslib.com/manual/3121011/Ecr-International-Greenmountain-Gmgw.html"
+  },
+  {
+   "manualId": "2028769",
+   "slug": "Ecr-International-Gth",
+   "title": "GTH User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "GTH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2028769/Ecr-International-Gth.html"
+  },
+  {
+   "manualId": "1619226",
+   "slug": "Ecr-International-Gtm-Series",
+   "title": "GTM Series User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "GTM Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1619226/Ecr-International-Gtm-Series.html"
+  },
+  {
+   "manualId": "1020940",
+   "slug": "Ecr-International-H2o115e",
+   "title": "H20115D Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "H20115D",
+   "extraModels": [
+    "H20115D",
+    "H20115DE",
+    "H2060D",
+    "H2080D",
+    "H2080DE",
+    "H2O080E",
+    "H2O60DE",
+    "H2O60E"
+   ],
+   "url": "https://www.manualslib.com/manual/1020940/Ecr-International-H2o115e.html"
+  },
+  {
+   "manualId": "1017274",
+   "slug": "Ecr-International-H2oi30",
+   "title": "H20I60 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "H20I60",
+   "extraModels": [
+    "H20I60",
+    "H2OI115",
+    "H2OI115C",
+    "H2OI115HO",
+    "H2OI115HOC",
+    "H2OI15HO",
+    "H2OI40",
+    "H2OI40L",
+    "H2OI50",
+    "H2OI60",
+    "H2OI60L",
+    "H2OI80",
+    "H2OI80C",
+    "H2OI80HO",
+    "H2OI80HOC",
+    "H2OI8H0C"
+   ],
+   "url": "https://www.manualslib.com/manual/1017274/Ecr-International-H2oi30.html"
+  },
+  {
+   "manualId": "2357638",
+   "slug": "Ecr-International-H2oi60d",
+   "title": "H2O60DE Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "H2O60DE",
+   "extraModels": [
+    "H2O60DE",
+    "H2O60E",
+    "H2OI115D",
+    "H2OI115DE",
+    "H2OI115E",
+    "H2OI80D",
+    "H2OI80DE",
+    "H2OI80E"
+   ],
+   "url": "https://www.manualslib.com/manual/2357638/Ecr-International-H2oi60d.html"
+  },
+  {
+   "manualId": "863305",
+   "slug": "Ecr-International-Hml-C",
+   "title": "HML-C Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "HML-C",
+   "extraModels": [
+    "HMLV-C"
+   ],
+   "url": "https://www.manualslib.com/manual/863305/Ecr-International-Hml-C.html"
+  },
+  {
+   "manualId": "4602892",
+   "slug": "Ecr-International-550003119",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4602892/Ecr-International-550003119.html"
+  },
+  {
+   "manualId": "2966764",
+   "slug": "Ecr-International-Argo-Az-Series",
+   "title": "Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2966764/Ecr-International-Argo-Az-Series.html"
+  },
+  {
+   "manualId": "4541014",
+   "slug": "Ecr-International-550003158",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4541014/Ecr-International-550003158.html"
+  },
+  {
+   "manualId": "1101316",
+   "slug": "Ecr-International-Iverter",
+   "title": "Iverter Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "Iverter",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1101316/Ecr-International-Iverter.html"
+  },
+  {
+   "manualId": "1229612",
+   "slug": "Ecr-International-Mgb-50j",
+   "title": "MGB-100J Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "MGB-100J",
+   "extraModels": [
+    "MGB-100J",
+    "MGB-125J",
+    "MGB-150J",
+    "MGB-170J",
+    "MGB-200J",
+    "MGB-75J"
+   ],
+   "url": "https://www.manualslib.com/manual/1229612/Ecr-International-Mgb-50j.html"
+  },
+  {
+   "manualId": "3496684",
+   "slug": "Ecr-International-Mhcas24da",
+   "title": "MHCAS24DA owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "MHCAS24DA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3496684/Ecr-International-Mhcas24da.html"
+  },
+  {
+   "manualId": "51416",
+   "slug": "Ecr-International-Wml-C",
+   "title": "MPL-B Operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "MPL-B",
+   "extraModels": [
+    "MPL-B"
+   ],
+   "url": "https://www.manualslib.com/manual/51416/Ecr-International-Wml-C.html"
+  },
+  {
+   "manualId": "3607376",
+   "slug": "Ecr-International-Olsen-Airco-Uml65",
+   "title": "Olsen Airco UML100 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Olsen Airco UML100",
+   "extraModels": [
+    "Olsen Airco UML100",
+    "Olsen Airco UML100RF",
+    "Olsen Airco UML65RF",
+    "Olsen Airco UML80",
+    "Olsen Airco UML80RF",
+    "Olsen Airco UML90",
+    "Olsen Airco UML90RF"
+   ],
+   "url": "https://www.manualslib.com/manual/3607376/Ecr-International-Olsen-Airco-Uml65.html"
+  },
+  {
+   "manualId": "2665654",
+   "slug": "Ecr-International-Olsen-Olssc-050",
+   "title": "Olsen OLSSC-050 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "Olsen OLSSC-050",
+   "extraModels": [
+    "Olsen OLSSC-075",
+    "Olsen OLSSC-100",
+    "Olsen OLSSC-150",
+    "Olsen OLSSC-200",
+    "Olsen OLSSC-299"
+   ],
+   "url": "https://www.manualslib.com/manual/2665654/Ecr-International-Olsen-Olssc-050.html"
+  },
+  {
+   "manualId": "2745489",
+   "slug": "Ecr-International-Olsen-Olssv-050",
+   "title": "Olsen OLSSV-050 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "Olsen OLSSV-050",
+   "extraModels": [
+    "Olsen OLSSV-075",
+    "Olsen OLSSV-100",
+    "Olsen OLSSV-150",
+    "Olsen OLSSV-200"
+   ],
+   "url": "https://www.manualslib.com/manual/2745489/Ecr-International-Olsen-Olssv-050.html"
+  },
+  {
+   "manualId": "2456050",
+   "slug": "Ecr-International-Olsen-Omgb-Ii-Series",
+   "title": "Olsen OMGB II Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Olsen OMGB II Series",
+   "extraModels": [
+    "Olsen OMGB-100J",
+    "Olsen OMGB-125J",
+    "Olsen OMGB-150J",
+    "Olsen OMGB-170J",
+    "Olsen OMGB-200J",
+    "Olsen OMGB-50J",
+    "Olsen OMGB-75J"
+   ],
+   "url": "https://www.manualslib.com/manual/2456050/Ecr-International-Olsen-Omgb-Ii-Series.html"
+  },
+  {
+   "manualId": "2376753",
+   "slug": "Ecr-International-Olsen-Q90-125-200-Ii-Series",
+   "title": "Olsen OQ90 II Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "Olsen OQ90 II Series",
+   "extraModels": [
+    "Olsen OQ90 II Series",
+    "Olsen OQ90-125",
+    "Olsen OQ90-150",
+    "Olsen OQ90-175",
+    "Olsen OQ90-200"
+   ],
+   "url": "https://www.manualslib.com/manual/2376753/Ecr-International-Olsen-Q90-125-200-Ii-Series.html"
+  },
+  {
+   "manualId": "2315107",
+   "slug": "Ecr-International-Olsen-Oq95m-200",
+   "title": "Olsen OQ95M-200 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "Olsen OQ95M-200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2315107/Ecr-International-Olsen-Oq95m-200.html"
+  },
+  {
+   "manualId": "2376755",
+   "slug": "Ecr-International-Olsen-Osvb-Ii-Series",
+   "title": "Olsen OSVB II Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "Olsen OSVB II Series",
+   "extraModels": [
+    "Olsen OSVB-2",
+    "Olsen OSVB-3",
+    "Olsen OSVB-4",
+    "Olsen OSVB-5",
+    "Olsen OSVB-6",
+    "Olsen OSVB-7"
+   ],
+   "url": "https://www.manualslib.com/manual/2376755/Ecr-International-Olsen-Osvb-Ii-Series.html"
+  },
+  {
+   "manualId": "2384082",
+   "slug": "Ecr-International-Pennco-15b-Iii-Series",
+   "title": "PENNCO 15B III Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "PENNCO 15B III Series",
+   "extraModels": [
+    "PENNCO 15B045FE",
+    "PENNCO 15B070FE",
+    "PENNCO 15B096FE",
+    "PENNCO 15B120FE",
+    "PENNCO 15B145FE",
+    "PENNCO 15B170FE",
+    "PENNCO 15B195FE",
+    "PENNCO 15B245FE",
+    "PENNCO 15B295FE"
+   ],
+   "url": "https://www.manualslib.com/manual/2384082/Ecr-International-Pennco-15b-Iii-Series.html"
+  },
+  {
+   "manualId": "3063833",
+   "slug": "Ecr-International-Pennco-15c-Series",
+   "title": "PENNCO 15C Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "PENNCO 15C Series",
+   "extraModels": [
+    "PENNCO 15C-8D",
+    "PENNCO 15C-9D"
+   ],
+   "url": "https://www.manualslib.com/manual/3063833/Ecr-International-Pennco-15c-Series.html"
+  },
+  {
+   "manualId": "2014468",
+   "slug": "Ecr-International-Pennco-Fsb-3-Series",
+   "title": "PENNCO FSB 3 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "PENNCO FSB 3 Series",
+   "extraModels": [
+    "PENNCO FSB-2",
+    "PENNCO FSB-4",
+    "PENNCO FSB-5",
+    "PENNCO FSB-6"
+   ],
+   "url": "https://www.manualslib.com/manual/2014468/Ecr-International-Pennco-Fsb-3-Series.html"
+  },
+  {
+   "manualId": "2676115",
+   "slug": "Ecr-International-Pennco-Fsb-Ii-Series",
+   "title": "PENNCO FSB 3 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "PENNCO FSB 3 Series",
+   "extraModels": [
+    "PENNCO FSB 3 Series",
+    "PENNCO FSB-2",
+    "PENNCO FSB-4",
+    "PENNCO FSB-5",
+    "PENNCO FSB-6",
+    "Pennco FSB-7"
+   ],
+   "url": "https://www.manualslib.com/manual/2676115/Ecr-International-Pennco-Fsb-Ii-Series.html"
+  },
+  {
+   "manualId": "904234",
+   "slug": "Ecr-International-R15c",
+   "title": "R15C Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "R15C",
+   "extraModels": [
+    "R50C",
+    "R60C",
+    "R60H",
+    "R65C"
+   ],
+   "url": "https://www.manualslib.com/manual/904234/Ecr-International-R15c.html"
+  },
+  {
+   "manualId": "4540745",
+   "slug": "Ecr-International-550003502",
+   "title": "Replacement Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4540745/Ecr-International-550003502.html"
+  },
+  {
+   "manualId": "2029188",
+   "slug": "Ecr-International-Sbo-Series",
+   "title": "SBO Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "SBO Series",
+   "extraModels": [
+    "SBO-3",
+    "SBO-4"
+   ],
+   "url": "https://www.manualslib.com/manual/2029188/Ecr-International-Sbo-Series.html"
+  },
+  {
+   "manualId": "2367567",
+   "slug": "Ecr-International-Utica-Boilers-Sfh-Iv",
+   "title": "SFH-3085 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "SFH-3085",
+   "extraModels": [
+    "SFH-3085",
+    "SFH-3100",
+    "SFH-4100",
+    "SFH-4125",
+    "SFH-4145",
+    "SFH-5160",
+    "SFH-5185",
+    "SFH-6185",
+    "SFH-6210"
+   ],
+   "url": "https://www.manualslib.com/manual/2367567/Ecr-International-Utica-Boilers-Sfh-Iv.html"
+  },
+  {
+   "manualId": "876130",
+   "slug": "Ecr-International-Ub90-125",
+   "title": "UB90-125 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "UB90-125",
+   "extraModels": [
+    "UB90-150",
+    "UB90-175",
+    "UB90-200"
+   ],
+   "url": "https://www.manualslib.com/manual/876130/Ecr-International-Ub90-125.html"
+  },
+  {
+   "manualId": "919998",
+   "slug": "Ecr-International-Ubssc-050",
+   "title": "UBSSC-050 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "UBSSC-050",
+   "extraModels": [
+    "UBSSC-075",
+    "UBSSC-100",
+    "UBSSC-150",
+    "UBSSC-200",
+    "UBSSC-299"
+   ],
+   "url": "https://www.manualslib.com/manual/919998/Ecr-International-Ubssc-050.html"
+  },
+  {
+   "manualId": "2361566",
+   "slug": "Ecr-International-Unhv30",
+   "title": "UNHV09 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "UNHV09",
+   "extraModels": [
+    "UNHV09",
+    "UNHV12",
+    "UNHV18",
+    "UNHV24",
+    "UNHV36"
+   ],
+   "url": "https://www.manualslib.com/manual/2361566/Ecr-International-Unhv30.html"
+  },
+  {
+   "manualId": "2440044",
+   "slug": "Ecr-International-H1318-601var",
+   "title": "use and care manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2440044/Ecr-International-H1318-601var.html"
+  },
+  {
+   "manualId": "3063116",
+   "slug": "Ecr-International-16-Series",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3063116/Ecr-International-16-Series.html"
+  },
+  {
+   "manualId": "3607353",
+   "slug": "Ecr-International-Utica-Boilers-Peg-C-Series",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3607353/Ecr-International-Utica-Boilers-Peg-C-Series.html"
+  },
+  {
+   "manualId": "2324619",
+   "slug": "Ecr-International-Utica-Boilers-Mah-100",
+   "title": "Utica Boilers MAC-115 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 138,
+   "productModel": "Utica Boilers MAC-115",
+   "extraModels": [
+    "Utica Boilers MAC-115",
+    "UTICA BOILERS MAC-150",
+    "Utica Boilers MAC-205",
+    "UTICA BOILERS MAH-125",
+    "Utica Boilers MAH-165"
+   ],
+   "url": "https://www.manualslib.com/manual/2324619/Ecr-International-Utica-Boilers-Mah-100.html"
+  },
+  {
+   "manualId": "2285234",
+   "slug": "Ecr-International-Utica-Boilers-Mac-150",
+   "title": "UTICA BOILERS MAC-150 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 92,
+   "productModel": "UTICA BOILERS MAC-150",
+   "extraModels": [
+    "UTICA BOILERS MAH-125"
+   ],
+   "url": "https://www.manualslib.com/manual/2285234/Ecr-International-Utica-Boilers-Mac-150.html"
+  },
+  {
+   "manualId": "3172844",
+   "slug": "Ecr-International-Utica-Boilers-Mah-125",
+   "title": "UTICA BOILERS MAC-150 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 120,
+   "productModel": "UTICA BOILERS MAC-150",
+   "extraModels": [
+    "UTICA BOILERS MAC-150",
+    "Utica Boilers MAC-205",
+    "Utica Boilers MAH-165"
+   ],
+   "url": "https://www.manualslib.com/manual/3172844/Ecr-International-Utica-Boilers-Mah-125.html"
+  },
+  {
+   "manualId": "2776912",
+   "slug": "Ecr-International-Utica-Boilers-Mahf-75",
+   "title": "UTICA BOILERS MACF-115 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 139,
+   "productModel": "UTICA BOILERS MACF-115",
+   "extraModels": [
+    "UTICA BOILERS MACF-115",
+    "Utica Boilers MACF-150",
+    "Utica Boilers MACF-205",
+    "UTICA BOILERS MAHF-100",
+    "Utica Boilers MAHF-125",
+    "Utica Boilers MAHF-165"
+   ],
+   "url": "https://www.manualslib.com/manual/2776912/Ecr-International-Utica-Boilers-Mahf-75.html"
+  },
+  {
+   "manualId": "2652385",
+   "slug": "Ecr-International-Utica-Boilers-Macf-150",
+   "title": "Utica Boilers MACF-150 User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Utica Boilers MACF-150",
+   "extraModels": [
+    "Utica Boilers MACF-205",
+    "Utica Boilers MAHF-125",
+    "Utica Boilers MAHF-165"
+   ],
+   "url": "https://www.manualslib.com/manual/2652385/Ecr-International-Utica-Boilers-Macf-150.html"
+  },
+  {
+   "manualId": "3203649",
+   "slug": "Ecr-International-Utica-Boilers-Mgc-3-Series",
+   "title": "UTICA BOILERS MGC 3 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "UTICA BOILERS MGC 3 Series",
+   "extraModels": [
+    "UTICA BOILERS MGC-8D",
+    "UTICA BOILERS MGC-8DP",
+    "UTICA BOILERS MGC-9D",
+    "UTICA BOILERS MGC-9DP"
+   ],
+   "url": "https://www.manualslib.com/manual/3203649/Ecr-International-Utica-Boilers-Mgc-3-Series.html"
+  },
+  {
+   "manualId": "3042668",
+   "slug": "Ecr-International-Utica-Boilers-Ssv-050",
+   "title": "UTICA BOILERS SSV-050 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "UTICA BOILERS SSV-050",
+   "extraModels": [
+    "UTICA BOILERS SSV-075",
+    "UTICA BOILERS SSV-100",
+    "UTICA BOILERS SSV-150",
+    "UTICA BOILERS SSV-200"
+   ],
+   "url": "https://www.manualslib.com/manual/3042668/Ecr-International-Utica-Boilers-Ssv-050.html"
+  },
+  {
+   "manualId": "2329966",
+   "slug": "Ecr-International-Utica-Boilers-Trifire-Ii-Series",
+   "title": "UTICA BOILERS TRB4075 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "UTICA BOILERS TRB4075",
+   "extraModels": [
+    "UTICA BOILERS TRB4075",
+    "UTICA BOILERS TRB4095",
+    "UTICA BOILERS TRB4110",
+    "UTICA BOILERS TRB5100",
+    "UTICA BOILERS TRB5115",
+    "UTICA BOILERS TRB5135",
+    "UTICA BOILERS TRB6130",
+    "UTICA BOILERS TRB6145",
+    "UTICA BOILERS TRB6165",
+    "UTICA BOILERS TRB7165",
+    "UTICA BOILERS TRB7180",
+    "UTICA BOILERS TRB7190"
+   ],
+   "url": "https://www.manualslib.com/manual/2329966/Ecr-International-Utica-Boilers-Trifire-Ii-Series.html"
+  },
+  {
+   "manualId": "2691587",
+   "slug": "Ecr-International-Utica-Boilers-Trifire-Trb4075",
+   "title": "UTICA BOILERS TRB4075 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "UTICA BOILERS TRB4075",
+   "extraModels": [
+    "UTICA BOILERS TRB5100",
+    "UTICA BOILERS TRB6130",
+    "UTICA BOILERS TRB7165",
+    "Utica Boilers TriFire TRB4090"
+   ],
+   "url": "https://www.manualslib.com/manual/2691587/Ecr-International-Utica-Boilers-Trifire-Trb4075.html"
+  },
+  {
+   "manualId": "3172794",
+   "slug": "Ecr-International-Utica-Boilers-Ub90-50",
+   "title": "Utica Boilers UB90-100 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "Utica Boilers UB90-100",
+   "extraModels": [
+    "Utica Boilers UB90-100",
+    "Utica Boilers UB90-75"
+   ],
+   "url": "https://www.manualslib.com/manual/3172794/Ecr-International-Utica-Boilers-Ub90-50.html"
+  },
+  {
+   "manualId": "2652257",
+   "slug": "Ecr-International-Utica-Boilers-Ub95m-200",
+   "title": "Utica Boilers UB95M-200 installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Utica Boilers UB95M-200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2652257/Ecr-International-Utica-Boilers-Ub95m-200.html"
+  },
+  {
+   "manualId": "3172905",
+   "slug": "Ecr-International-Utica-Boilers-Ucs-240",
+   "title": "Utica Boilers UCS 240 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 100,
+   "productModel": "Utica Boilers UCS 240",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3172905/Ecr-International-Utica-Boilers-Ucs-240.html"
+  },
+  {
+   "manualId": "2652409",
+   "slug": "Ecr-International-Utica-Boilers-Ucs-380",
+   "title": "Utica Boilers UCS-380 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "Utica Boilers UCS-380",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2652409/Ecr-International-Utica-Boilers-Ucs-380.html"
+  },
+  {
+   "manualId": "3552487",
+   "slug": "Ecr-International-Utica-Heating-Keystone-Uh3kw0-60",
+   "title": "UTICA HEATING KEYSTONE UH3KW0.60 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "UTICA HEATING KEYSTONE UH3KW0.60",
+   "extraModels": [
+    "UTICA HEATING KEYSTONE UH3KW0.75",
+    "UTICA HEATING KEYSTONE UH3KW1.00",
+    "UTICA HEATING KEYSTONE UH4KW0.90",
+    "UTICA HEATING KEYSTONE UH4KW1.25",
+    "UTICA HEATING KEYSTONE UH4KW1.50",
+    "UTICA HEATING KEYSTONE UH5KW1.20",
+    "UTICA HEATING KEYSTONE UH5KW1.75",
+    "UTICA HEATING KEYSTONE UH5KW2.00"
+   ],
+   "url": "https://www.manualslib.com/manual/3552487/Ecr-International-Utica-Heating-Keystone-Uh3kw0-60.html"
+  },
+  {
+   "manualId": "2380032",
+   "slug": "Ecr-International-Utica-Heating-Uh15b-Series",
+   "title": "Utica Heating UH15B Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "Utica Heating UH15B Series",
+   "extraModels": [
+    "Utica Heating UH15B045FE",
+    "Utica Heating UH15B070FE",
+    "Utica Heating UH15B096FE",
+    "Utica Heating UH15B120FE",
+    "Utica Heating UH15B145FE",
+    "Utica Heating UH15B170FE",
+    "Utica Heating UH15B195FE",
+    "Utica Heating UH15B245FE",
+    "Utica Heating UH15B295FE"
+   ],
+   "url": "https://www.manualslib.com/manual/2380032/Ecr-International-Utica-Heating-Uh15b-Series.html"
+  },
+  {
+   "manualId": "3322193",
+   "slug": "Ecr-International-Utica-Heating-Uh15b-K",
+   "title": "UTICA HEATING UH15B-060K Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "UTICA HEATING UH15B-060K",
+   "extraModels": [
+    "UTICA HEATING UH15B-060K",
+    "UTICA HEATING UH15B-095K",
+    "UTICA HEATING UH15B-120K",
+    "UTICA HEATING UH15B-150K",
+    "UTICA HEATING UH15B-175K",
+    "UTICA HEATING UH15B-205K",
+    "UTICA HEATING UH15B-235K"
+   ],
+   "url": "https://www.manualslib.com/manual/3322193/Ecr-International-Utica-Heating-Uh15b-K.html"
+  },
+  {
+   "manualId": "3144538",
+   "slug": "Ecr-International-Utica-Heating-Uh15c",
+   "title": "UTICA HEATING UH15C Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "UTICA HEATING UH15C",
+   "extraModels": [
+    "UTICA HEATING UH15C-8D",
+    "UTICA HEATING UH15C-9D"
+   ],
+   "url": "https://www.manualslib.com/manual/3144538/Ecr-International-Utica-Heating-Uh15c.html"
+  },
+  {
+   "manualId": "1083955",
+   "slug": "Ecr-International-Wlc-Series",
+   "title": "WLC Series Installation, operation and maintanance manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "WLC Series",
+   "extraModels": [
+    "WLH Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1083955/Ecr-International-Wlc-Series.html"
+  },
+  {
+   "manualId": "3278758",
+   "slug": "Ecr-International-Xeb-Series",
+   "title": "XEB Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "XEB Series",
+   "extraModels": [
+    "XEB-2",
+    "XEB-3",
+    "XEB-4",
+    "XEB-5",
+    "XEB-6"
+   ],
+   "url": "https://www.manualslib.com/manual/3278758/Ecr-International-Xeb-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4256170",
+   "slug": "ecr-international-columbia-csfh-iv-4-series-oil-fired-boiler-manual",
+   "title": "ECR International Columbia CSFH IV 4 Series Oil-Fired Boiler Manual"
+  }
+ ],
+ "techDirectIds": [
+  "ecr-international"
+ ]
+}

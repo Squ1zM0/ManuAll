@@ -1,0 +1,1259 @@
+{
+ "brand": "Aerco",
+ "brandSlug": "aerco",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/aerco/"
+ ],
+ "slugUsed": "aerco",
+ "capturedAt": "2026-10-28T06:22:34.312097+00:00",
+ "typePages": [
+  {
+   "path": "/brand/aerco/boiler.html",
+   "manuals": 314,
+   "status": 200
+  },
+  {
+   "path": "/brand/aerco/boiler-supplies.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/aerco/control-systems.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/aerco/controller.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/aerco/heater.html",
+   "manuals": 23,
+   "status": 200
+  },
+  {
+   "path": "/brand/aerco/industrial-equipment.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/aerco/recording-equipment.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/aerco/tools.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/aerco/water-heater.html",
+   "manuals": 99,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1278087",
+   "slug": "Aerco-750",
+   "title": "1000 Installation and startup manual",
+   "type": "Installation",
+   "pages": 116,
+   "productModel": "1000",
+   "extraModels": [
+    "1000",
+    "2000",
+    "2500",
+    "3000",
+    "Benchmark 1500"
+   ],
+   "url": "https://www.manualslib.com/manual/1278087/Aerco-750.html"
+  },
+  {
+   "manualId": "1281022",
+   "slug": "Aerco-750",
+   "title": "1000 user manual",
+   "type": "User / Owner",
+   "pages": 144,
+   "productModel": "1000",
+   "extraModels": [
+    "1000",
+    "2000",
+    "2500",
+    "3000",
+    "Benchmark 1500"
+   ],
+   "url": "https://www.manualslib.com/manual/1281022/Aerco-750.html"
+  },
+  {
+   "manualId": "1584354",
+   "slug": "Aerco-BPlus03",
+   "title": "1B+ II Series user manual",
+   "type": "User / Owner",
+   "pages": 50,
+   "productModel": "1B+ II Series",
+   "extraModels": [
+    "1B+ II Series",
+    "B+04",
+    "B+05",
+    "B+06",
+    "B+07",
+    "B+08",
+    "B+09",
+    "B+10",
+    "B+11",
+    "B+12",
+    "B+13",
+    "B+14",
+    "B+15"
+   ],
+   "url": "https://www.manualslib.com/manual/1584354/Aerco-BPlus03.html"
+  },
+  {
+   "manualId": "2102880",
+   "slug": "Aerco-210-Gal",
+   "title": "210 GAL. Technical Instructions",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "210 GAL.",
+   "extraModels": [
+    "340 GAL.",
+    "435 GAL.",
+    "505 GAL.",
+    "675 GAL.",
+    "860 GAL."
+   ],
+   "url": "https://www.manualslib.com/manual/2102880/Aerco-210-Gal.html"
+  },
+  {
+   "manualId": "1598791",
+   "slug": "Aerco-27035",
+   "title": "27035 Technical Instructions",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "27035",
+   "extraModels": [
+    "27036",
+    "27037",
+    "SWDW-24",
+    "SWDW-45",
+    "SWDW-68"
+   ],
+   "url": "https://www.manualslib.com/manual/1598791/Aerco-27035.html"
+  },
+  {
+   "manualId": "3861001",
+   "slug": "Aerco-500",
+   "title": "500 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 136,
+   "productModel": "500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3861001/Aerco-500.html"
+  },
+  {
+   "manualId": "1335253",
+   "slug": "Aerco-5r5-384",
+   "title": "5R5-384 user manual",
+   "type": "User / Owner",
+   "pages": 139,
+   "productModel": "5R5-384",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1335253/Aerco-5r5-384.html"
+  },
+  {
+   "manualId": "2941831",
+   "slug": "Aerco-89030",
+   "title": "89030 Technical Instruction",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "89030",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2941831/Aerco-89030.html"
+  },
+  {
+   "manualId": "4269657",
+   "slug": "aerco-esteem-399-boiler-installation-and-maintenance-manual",
+   "title": "Aerco Esteem 399 boiler Installation and Maintenance Manual",
+   "type": "Service",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4269657/aerco-esteem-399-boiler-installation-and-maintenance-manual.html"
+  },
+  {
+   "manualId": "1606891",
+   "slug": "Aerco-Modulex-Mlx-Series",
+   "title": "Aerco Modulex MLX Series Technical Instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": null,
+   "extraModels": [
+    "Modulex MLX-1060",
+    "Modulex MLX-303",
+    "Modulex MLX-454",
+    "Modulex MLX-606",
+    "Modulex MLX-757",
+    "Modulex MLX-909"
+   ],
+   "url": "https://www.manualslib.com/manual/1606891/Aerco-Modulex-Mlx-Series.html"
+  },
+  {
+   "manualId": "3860912",
+   "slug": "Aerco-Am-1000",
+   "title": "AM 1000 Technical Instructions",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "AM 1000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3860912/Aerco-Am-1000.html"
+  },
+  {
+   "manualId": "1661283",
+   "slug": "Aerco-Am-Series",
+   "title": "AM 1000B Application manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "AM 1000B",
+   "extraModels": [
+    "AM 1000B",
+    "AM 1000W",
+    "AM 399B",
+    "AM 399W",
+    "AM 500B",
+    "AM 500W",
+    "AM 750B",
+    "AM 750W"
+   ],
+   "url": "https://www.manualslib.com/manual/1661283/Aerco-Am-Series.html"
+  },
+  {
+   "manualId": "1892032",
+   "slug": "Aerco-Am-Series",
+   "title": "AM 1000B Application manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "AM 1000B",
+   "extraModels": [
+    "AM 1000B",
+    "AM 1000W",
+    "AM 399B",
+    "AM 399W",
+    "AM 500B",
+    "AM 500W",
+    "AM 750B",
+    "AM 750W"
+   ],
+   "url": "https://www.manualslib.com/manual/1892032/Aerco-Am-Series.html"
+  },
+  {
+   "manualId": "2873607",
+   "slug": "Aerco-Am-Series",
+   "title": "AM 1000B Application manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "AM 1000B",
+   "extraModels": [
+    "AM 1000B",
+    "AM 399B",
+    "AM 500B",
+    "AM 750B"
+   ],
+   "url": "https://www.manualslib.com/manual/2873607/Aerco-Am-Series.html"
+  },
+  {
+   "manualId": "1619646",
+   "slug": "Aerco-Am-Series",
+   "title": "AM 1000B Technical Instructions",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "AM 1000B",
+   "extraModels": [
+    "AM 1000B",
+    "AM 1000W",
+    "AM 399B",
+    "AM 399W",
+    "AM 500B",
+    "AM 500W",
+    "AM 750B",
+    "AM 750W"
+   ],
+   "url": "https://www.manualslib.com/manual/1619646/Aerco-Am-Series.html"
+  },
+  {
+   "manualId": "1174063",
+   "slug": "Aerco-Am-399b",
+   "title": "AM 1000B user manual",
+   "type": "User / Owner",
+   "pages": 154,
+   "productModel": "AM 1000B",
+   "extraModels": [
+    "AM 1000B",
+    "AM 1000W",
+    "AM 399W",
+    "AM 500B",
+    "AM 500W",
+    "AM 750B",
+    "AM 750W"
+   ],
+   "url": "https://www.manualslib.com/manual/1174063/Aerco-Am-399b.html"
+  },
+  {
+   "manualId": "3860911",
+   "slug": "Aerco-Am-399",
+   "title": "AM 399 Technical Instructions",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "AM 399",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3860911/Aerco-Am-399.html"
+  },
+  {
+   "manualId": "3860909",
+   "slug": "Aerco-Am-500",
+   "title": "AM 500 Technical Instructions",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "AM 500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3860909/Aerco-Am-500.html"
+  },
+  {
+   "manualId": "3860910",
+   "slug": "Aerco-Am-750",
+   "title": "AM 750 Technical Instructions",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "AM 750",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3860910/Aerco-Am-750.html"
+  },
+  {
+   "manualId": "1666597",
+   "slug": "Aerco-62632006",
+   "title": "AM Series Technical Instructions",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "AM Series",
+   "extraModels": [
+    "AM Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1666597/Aerco-62632006.html"
+  },
+  {
+   "manualId": "1778481",
+   "slug": "Aerco-62110095",
+   "title": "AM Series user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "AM Series",
+   "extraModels": [
+    "AM Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1778481/Aerco-62110095.html"
+  },
+  {
+   "manualId": "3052346",
+   "slug": "Aerco-Ext-Series",
+   "title": "Application manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3052346/Aerco-Ext-Series.html"
+  },
+  {
+   "manualId": "1180227",
+   "slug": "Aerco-Benchmark-1-5ln",
+   "title": "Benchmark 1.5LN Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 163,
+   "productModel": "Benchmark 1.5LN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1180227/Aerco-Benchmark-1-5ln.html"
+  },
+  {
+   "manualId": "1156807",
+   "slug": "Aerco-Bmk-1500",
+   "title": "Benchmark 1500 user manual",
+   "type": "User / Owner",
+   "pages": 182,
+   "productModel": "Benchmark 1500",
+   "extraModels": [
+    "Benchmark 2000",
+    "Benchmark BMK 2000"
+   ],
+   "url": "https://www.manualslib.com/manual/1156807/Aerco-Bmk-1500.html"
+  },
+  {
+   "manualId": "989256",
+   "slug": "Aerco-Benchmark-1500",
+   "title": "Benchmark 1500 user manual",
+   "type": "User / Owner",
+   "pages": 186,
+   "productModel": "Benchmark 1500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/989256/Aerco-Benchmark-1500.html"
+  },
+  {
+   "manualId": "4040818",
+   "slug": "Aerco-Benchmark-1500df-Dual-Fuel",
+   "title": "BENCHMARK 1500DF DUAL FUEL user manual",
+   "type": "User / Owner",
+   "pages": 194,
+   "productModel": "BENCHMARK 1500DF DUAL FUEL",
+   "extraModels": [
+    "BENCHMARK 2000DF DUAL FUEL",
+    "BMK 1500DF",
+    "BMK 2000DF"
+   ],
+   "url": "https://www.manualslib.com/manual/4040818/Aerco-Benchmark-1500df-Dual-Fuel.html"
+  },
+  {
+   "manualId": "1168388",
+   "slug": "Aerco-Benchmark-2-0",
+   "title": "Benchmark 2.0 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 123,
+   "productModel": "Benchmark 2.0",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1168388/Aerco-Benchmark-2-0.html"
+  },
+  {
+   "manualId": "1116820",
+   "slug": "Aerco-Benchmark-2-0-Ln",
+   "title": "Benchmark 2.0 LN user manual",
+   "type": "User / Owner",
+   "pages": 168,
+   "productModel": "Benchmark 2.0 LN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1116820/Aerco-Benchmark-2-0-Ln.html"
+  },
+  {
+   "manualId": "3832140",
+   "slug": "Aerco-Benchmark-2000",
+   "title": "Benchmark 2000 user manual",
+   "type": "User / Owner",
+   "pages": 186,
+   "productModel": "Benchmark 2000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3832140/Aerco-Benchmark-2000.html"
+  },
+  {
+   "manualId": "3240472",
+   "slug": "Aerco-Benchmark-2500df",
+   "title": "BENCHMARK 2500DF user manual",
+   "type": "User / Owner",
+   "pages": 232,
+   "productModel": "BENCHMARK 2500DF",
+   "extraModels": [
+    "BENCHMARK 3000DF"
+   ],
+   "url": "https://www.manualslib.com/manual/3240472/Aerco-Benchmark-2500df.html"
+  },
+  {
+   "manualId": "1356893",
+   "slug": "Aerco-Benchmark-3-0ln-Series",
+   "title": "Benchmark 3.0LN Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 127,
+   "productModel": "Benchmark 3.0LN Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1356893/Aerco-Benchmark-3-0ln-Series.html"
+  },
+  {
+   "manualId": "808511",
+   "slug": "Aerco-Gf-116",
+   "title": "Benchmark 3.0LN Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 121,
+   "productModel": "Benchmark 3.0LN Series",
+   "extraModels": [
+    "Benchmark 3.0LN Series"
+   ],
+   "url": "https://www.manualslib.com/manual/808511/Aerco-Gf-116.html"
+  },
+  {
+   "manualId": "1062162",
+   "slug": "Aerco-Benchmark-6000",
+   "title": "BENCHMARK 6000 user manual",
+   "type": "User / Owner",
+   "pages": 210,
+   "productModel": "BENCHMARK 6000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1062162/Aerco-Benchmark-6000.html"
+  },
+  {
+   "manualId": "758316",
+   "slug": "Aerco-Benchmark-6000",
+   "title": "BENCHMARK 6000 user manual",
+   "type": "User / Owner",
+   "pages": 210,
+   "productModel": "BENCHMARK 6000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/758316/Aerco-Benchmark-6000.html"
+  },
+  {
+   "manualId": "1644359",
+   "slug": "Aerco-Bmk-Series",
+   "title": "Benchmark BMK 1000 Installation and start-up manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "Benchmark BMK 1000",
+   "extraModels": [
+    "Benchmark BMK 1000",
+    "Benchmark BMK 750",
+    "BMK 1500",
+    "BMK 2000",
+    "BMK 2500",
+    "BMK 3000",
+    "BMK 5000",
+    "BMK 6000"
+   ],
+   "url": "https://www.manualslib.com/manual/1644359/Aerco-Bmk-Series.html"
+  },
+  {
+   "manualId": "1245425",
+   "slug": "Aerco-Bmk-750",
+   "title": "Benchmark BMK 1000 Installation and startup manual",
+   "type": "Installation",
+   "pages": 128,
+   "productModel": "Benchmark BMK 1000",
+   "extraModels": [
+    "Benchmark BMK 1000",
+    "Benchmark BMK 1000P",
+    "Benchmark BMK 1500",
+    "Benchmark BMK 1500DF",
+    "Benchmark BMK 1500P",
+    "Benchmark BMK 2000",
+    "Benchmark BMK 2000DF",
+    "Benchmark BMK 2000P",
+    "Benchmark BMK 2500",
+    "Benchmark BMK 3000",
+    "Benchmark BMK 750P",
+    "BMK 2500DF",
+    "BMK 2500P",
+    "BMK 3000DF",
+    "BMK 3000P"
+   ],
+   "url": "https://www.manualslib.com/manual/1245425/Aerco-Bmk-750.html"
+  },
+  {
+   "manualId": "1245426",
+   "slug": "Aerco-Bmk-1500",
+   "title": "Benchmark BMK 1000 Operation and service manual",
+   "type": "Service",
+   "pages": 178,
+   "productModel": "Benchmark BMK 1000",
+   "extraModels": [
+    "Benchmark BMK 1000",
+    "Benchmark BMK 1000P",
+    "Benchmark BMK 1500DF",
+    "Benchmark BMK 1500P",
+    "Benchmark BMK 2000",
+    "Benchmark BMK 2000DF",
+    "Benchmark BMK 2000P",
+    "Benchmark BMK 2500",
+    "Benchmark BMK 3000",
+    "Benchmark BMK 750",
+    "Benchmark BMK 750P",
+    "BMK 2500DF",
+    "BMK 2500P",
+    "BMK 3000DF",
+    "BMK 3000P"
+   ],
+   "url": "https://www.manualslib.com/manual/1245426/Aerco-Bmk-1500.html"
+  },
+  {
+   "manualId": "1584924",
+   "slug": "Aerco-Benchmark-Platinum-Series",
+   "title": "Benchmark BMK 1000 Pre-Installation Application manual",
+   "type": "Installation",
+   "pages": 51,
+   "productModel": "Benchmark BMK 1000",
+   "extraModels": [
+    "Benchmark BMK 1000",
+    "Benchmark BMK 750",
+    "Benchmark Series",
+    "BMK 1500",
+    "BMK 2000",
+    "BMK 2500",
+    "BMK 3000",
+    "BMK 5000",
+    "BMK 6000"
+   ],
+   "url": "https://www.manualslib.com/manual/1584924/Aerco-Benchmark-Platinum-Series.html"
+  },
+  {
+   "manualId": "1335248",
+   "slug": "Aerco-Benchmark-Bmk-750",
+   "title": "Benchmark BMK 1000 user manual",
+   "type": "User / Owner",
+   "pages": 164,
+   "productModel": "Benchmark BMK 1000",
+   "extraModels": [
+    "Benchmark BMK 1000",
+    "Benchmark BMK 1000P",
+    "Benchmark BMK 1500",
+    "Benchmark BMK 1500DF",
+    "Benchmark BMK 1500P",
+    "Benchmark BMK 2000",
+    "Benchmark BMK 2000DF",
+    "Benchmark BMK 2000P",
+    "Benchmark BMK 2500",
+    "BENCHMARK BMK 2500DF",
+    "BENCHMARK BMK 2500P",
+    "Benchmark BMK 3000",
+    "BENCHMARK BMK 3000DF",
+    "BENCHMARK BMK 3000P",
+    "Benchmark BMK 750P"
+   ],
+   "url": "https://www.manualslib.com/manual/1335248/Aerco-Benchmark-Bmk-750.html"
+  },
+  {
+   "manualId": "1335250",
+   "slug": "Aerco-Benchmark-Bmk-750",
+   "title": "Benchmark BMK 1000 user manual",
+   "type": "User / Owner",
+   "pages": 146,
+   "productModel": "Benchmark BMK 1000",
+   "extraModels": [
+    "Benchmark BMK 1000",
+    "Benchmark BMK 1500",
+    "Benchmark BMK 2000",
+    "Benchmark BMK 2500",
+    "Benchmark BMK 3000"
+   ],
+   "url": "https://www.manualslib.com/manual/1335250/Aerco-Benchmark-Bmk-750.html"
+  },
+  {
+   "manualId": "781708",
+   "slug": "Aerco-Bmk-750",
+   "title": "Benchmark BMK 1000 user manual",
+   "type": "User / Owner",
+   "pages": 192,
+   "productModel": "Benchmark BMK 1000",
+   "extraModels": [
+    "Benchmark BMK 1000"
+   ],
+   "url": "https://www.manualslib.com/manual/781708/Aerco-Bmk-750.html"
+  },
+  {
+   "manualId": "1128736",
+   "slug": "Aerco-Bmk-2500",
+   "title": "Benchmark BMK 1500DF user manual",
+   "type": "User / Owner",
+   "pages": 207,
+   "productModel": "Benchmark BMK 1500DF",
+   "extraModels": [
+    "Benchmark BMK 1500DF",
+    "Benchmark BMK 1500P",
+    "Benchmark BMK 2000DF",
+    "Benchmark BMK 2000P",
+    "BENCHMARK BMK 2500DF",
+    "BENCHMARK BMK 2500P",
+    "Benchmark BMK 3000",
+    "BENCHMARK BMK 3000DF",
+    "BENCHMARK BMK 3000P"
+   ],
+   "url": "https://www.manualslib.com/manual/1128736/Aerco-Bmk-2500.html"
+  },
+  {
+   "manualId": "1176609",
+   "slug": "Aerco-Bmk-2500",
+   "title": "Benchmark BMK 2500 user manual",
+   "type": "User / Owner",
+   "pages": 204,
+   "productModel": "Benchmark BMK 2500",
+   "extraModels": [
+    "Benchmark BMK 3000"
+   ],
+   "url": "https://www.manualslib.com/manual/1176609/Aerco-Bmk-2500.html"
+  },
+  {
+   "manualId": "1263775",
+   "slug": "Aerco-Benchmark-Bmk-5000",
+   "title": "Benchmark BMK 5000 Installation and startup manual",
+   "type": "Installation",
+   "pages": 98,
+   "productModel": "Benchmark BMK 5000",
+   "extraModels": [
+    "Benchmark BMK 5000 DF",
+    "Benchmark BMK 5000 P",
+    "Benchmark BMK 6000",
+    "Benchmark BMK 6000 DF",
+    "Benchmark BMK 6000 P"
+   ],
+   "url": "https://www.manualslib.com/manual/1263775/Aerco-Benchmark-Bmk-5000.html"
+  },
+  {
+   "manualId": "1263773",
+   "slug": "Aerco-Benchmark-Bmk-5000",
+   "title": "Benchmark BMK 5000 Operation, service and maintenance manual",
+   "type": "Service",
+   "pages": 136,
+   "productModel": "Benchmark BMK 5000",
+   "extraModels": [
+    "Benchmark BMK 5000 DF",
+    "Benchmark BMK 5000 P",
+    "Benchmark BMK 6000",
+    "Benchmark BMK 6000 DF",
+    "Benchmark BMK 6000 P"
+   ],
+   "url": "https://www.manualslib.com/manual/1263773/Aerco-Benchmark-Bmk-5000.html"
+  },
+  {
+   "manualId": "1335254",
+   "slug": "Aerco-Benchmark-Bmk-5000",
+   "title": "Benchmark BMK 5000 user manual",
+   "type": "User / Owner",
+   "pages": 136,
+   "productModel": "Benchmark BMK 5000",
+   "extraModels": [
+    "Benchmark BMK 5000 DF",
+    "Benchmark BMK 5000 P",
+    "Benchmark BMK 6000",
+    "Benchmark BMK 6000 DF",
+    "Benchmark BMK 6000 P"
+   ],
+   "url": "https://www.manualslib.com/manual/1335254/Aerco-Benchmark-Bmk-5000.html"
+  },
+  {
+   "manualId": "1357535",
+   "slug": "Aerco-Benchmark-Bmk-5000",
+   "title": "Benchmark BMK 5000 user manual",
+   "type": "User / Owner",
+   "pages": 128,
+   "productModel": "Benchmark BMK 5000",
+   "extraModels": [
+    "Benchmark BMK 6000"
+   ],
+   "url": "https://www.manualslib.com/manual/1357535/Aerco-Benchmark-Bmk-5000.html"
+  },
+  {
+   "manualId": "2314690",
+   "slug": "Aerco-Benchmark-Series",
+   "title": "Benchmark G-00-711 user manual",
+   "type": "User / Owner",
+   "pages": 79,
+   "productModel": "Benchmark G-00-711",
+   "extraModels": [
+    "Benchmark G-00-711",
+    "Benchmark G-01-095",
+    "Benchmark GF-107"
+   ],
+   "url": "https://www.manualslib.com/manual/2314690/Aerco-Benchmark-Series.html"
+  },
+  {
+   "manualId": "1546126",
+   "slug": "Aerco-Boiler-Management-System-Ii-5r5-384",
+   "title": "BOILER MANAGEMENT SYSTEM II 5R5-384 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 98,
+   "productModel": "BOILER MANAGEMENT SYSTEM II 5R5-384",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1546126/Aerco-Boiler-Management-System-Ii-5r5-384.html"
+  },
+  {
+   "manualId": "4057900",
+   "slug": "Aerco-Dw-Series",
+   "title": "DW Series Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "DW Series",
+   "extraModels": [
+    "DW-45",
+    "DW-68"
+   ],
+   "url": "https://www.manualslib.com/manual/4057900/Aerco-Dw-Series.html"
+  },
+  {
+   "manualId": "1245433",
+   "slug": "Aerco-E8",
+   "title": "E8 user manual",
+   "type": "User / Owner",
+   "pages": 112,
+   "productModel": "E8",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1245433/Aerco-E8.html"
+  },
+  {
+   "manualId": "1668696",
+   "slug": "Aerco-Am-R-Series",
+   "title": "Esteem 399 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 136,
+   "productModel": "Esteem 399",
+   "extraModels": [
+    "Esteem 399",
+    "199",
+    "250"
+   ],
+   "url": "https://www.manualslib.com/manual/1668696/Aerco-Am-R-Series.html"
+  },
+  {
+   "manualId": "1245435",
+   "slug": "Aerco-Esteem-399",
+   "title": "Esteem 399 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 98,
+   "productModel": "Esteem 399",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1245435/Aerco-Esteem-399.html"
+  },
+  {
+   "manualId": "3234795",
+   "slug": "Aerco-Esteem-399",
+   "title": "Esteem 399 Installation supplement manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "Esteem 399",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3234795/Aerco-Esteem-399.html"
+  },
+  {
+   "manualId": "3247281",
+   "slug": "Aerco-Esteem-399",
+   "title": "Esteem 399 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 188,
+   "productModel": "Esteem 399",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3247281/Aerco-Esteem-399.html"
+  },
+  {
+   "manualId": "3205017",
+   "slug": "Aerco-Esteem-399",
+   "title": "Esteem 399 product manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "Esteem 399",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3205017/Aerco-Esteem-399.html"
+  },
+  {
+   "manualId": "1245431",
+   "slug": "Aerco-Esteem-399",
+   "title": "Esteem 399 user manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "Esteem 399",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1245431/Aerco-Esteem-399.html"
+  },
+  {
+   "manualId": "739954",
+   "slug": "Aerco-Kn-Cosmxtr-Bca",
+   "title": "Esteem 399 user manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "Esteem 399",
+   "extraModels": [
+    "Esteem 399"
+   ],
+   "url": "https://www.manualslib.com/manual/739954/Aerco-Kn-Cosmxtr-Bca.html"
+  },
+  {
+   "manualId": "1245436",
+   "slug": "Aerco-Esteem",
+   "title": "esteem user manual",
+   "type": "User / Owner",
+   "pages": 188,
+   "productModel": "esteem",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1245436/Aerco-Esteem.html"
+  },
+  {
+   "manualId": "1102507",
+   "slug": "Aerco-G-13-1854",
+   "title": "G-13-1854 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 196,
+   "productModel": "G-13-1854",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1102507/Aerco-G-13-1854.html"
+  },
+  {
+   "manualId": "1108113",
+   "slug": "Aerco-Gf-102",
+   "title": "GF-102 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 63,
+   "productModel": "GF-102",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1108113/Aerco-Gf-102.html"
+  },
+  {
+   "manualId": "883294",
+   "slug": "Aerco-Gf-110-Benchmark-Series",
+   "title": "GF-110 Benchmark Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 117,
+   "productModel": "GF-110 Benchmark Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/883294/Aerco-Gf-110-Benchmark-Series.html"
+  },
+  {
+   "manualId": "1162152",
+   "slug": "Aerco-Gf-123",
+   "title": "GF-123 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 108,
+   "productModel": "GF-123",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1162152/Aerco-Gf-123.html"
+  },
+  {
+   "manualId": "1164168",
+   "slug": "Aerco-Gf-146-Ir",
+   "title": "GF-146-IR Installation, operation, maitenance manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "GF-146-IR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1164168/Aerco-Gf-146-Ir.html"
+  },
+  {
+   "manualId": "1372464",
+   "slug": "Aerco-Inn800",
+   "title": "INN1350 Electrical manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": "INN1350",
+   "extraModels": [
+    "INN1350",
+    "INNOVATION INN1060"
+   ],
+   "url": "https://www.manualslib.com/manual/1372464/Aerco-Inn800.html"
+  },
+  {
+   "manualId": "1091394",
+   "slug": "Aerco-Inn600",
+   "title": "INN1350 user manual",
+   "type": "User / Owner",
+   "pages": 206,
+   "productModel": "INN1350",
+   "extraModels": [
+    "INN1350",
+    "INNOVATION INN1060",
+    "INNOVATION INN800"
+   ],
+   "url": "https://www.manualslib.com/manual/1091394/Aerco-Inn600.html"
+  },
+  {
+   "manualId": "1101086",
+   "slug": "Aerco-Inn600",
+   "title": "INN1350 user manual",
+   "type": "User / Owner",
+   "pages": 190,
+   "productModel": "INN1350",
+   "extraModels": [
+    "INN1350",
+    "INNOVATION INN1060",
+    "INNOVATION INN800"
+   ],
+   "url": "https://www.manualslib.com/manual/1101086/Aerco-Inn600.html"
+  },
+  {
+   "manualId": "1101127",
+   "slug": "Aerco-Innovation-600",
+   "title": "Innovation 1060 user manual",
+   "type": "User / Owner",
+   "pages": 216,
+   "productModel": "Innovation 1060",
+   "extraModels": [
+    "Innovation 1060",
+    "Innovation 1350",
+    "Innovation 800"
+   ],
+   "url": "https://www.manualslib.com/manual/1101127/Aerco-Innovation-600.html"
+  },
+  {
+   "manualId": "1114807",
+   "slug": "Aerco-Innovation-600",
+   "title": "Innovation 1060 user manual",
+   "type": "User / Owner",
+   "pages": 208,
+   "productModel": "Innovation 1060",
+   "extraModels": [
+    "Innovation 1060",
+    "Innovation 1350",
+    "Innovation 800"
+   ],
+   "url": "https://www.manualslib.com/manual/1114807/Aerco-Innovation-600.html"
+  },
+  {
+   "manualId": "1305514",
+   "slug": "Aerco-Innovation-600",
+   "title": "Innovation 1060 user manual",
+   "type": "User / Owner",
+   "pages": 194,
+   "productModel": "Innovation 1060",
+   "extraModels": [
+    "Innovation 1060",
+    "innovation 1060p",
+    "Innovation 1350",
+    "innovation 1350p",
+    "innovation 600p",
+    "Innovation 800",
+    "innovation 800p"
+   ],
+   "url": "https://www.manualslib.com/manual/1305514/Aerco-Innovation-600.html"
+  },
+  {
+   "manualId": "1072620",
+   "slug": "Aerco-Innovation-Inn600",
+   "title": "INNOVATION INN1060 user manual",
+   "type": "User / Owner",
+   "pages": 200,
+   "productModel": "INNOVATION INN1060",
+   "extraModels": [
+    "INNOVATION INN1060",
+    "INNOVATION INN800"
+   ],
+   "url": "https://www.manualslib.com/manual/1072620/Aerco-Innovation-Inn600.html"
+  },
+  {
+   "manualId": "1168550",
+   "slug": "Aerco-Kc-Series",
+   "title": "KC Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 113,
+   "productModel": "KC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1168550/Aerco-Kc-Series.html"
+  },
+  {
+   "manualId": "891077",
+   "slug": "Aerco-Kc-Series",
+   "title": "KC Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "KC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/891077/Aerco-Kc-Series.html"
+  },
+  {
+   "manualId": "876511",
+   "slug": "Aerco-Kc-Series",
+   "title": "KC Series Operation and maintenance manual",
+   "type": "Service",
+   "pages": 107,
+   "productModel": "KC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/876511/Aerco-Kc-Series.html"
+  },
+  {
+   "manualId": "1168549",
+   "slug": "Aerco-Kc-Series",
+   "title": "KC Series user manual",
+   "type": "User / Owner",
+   "pages": 118,
+   "productModel": "KC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1168549/Aerco-Kc-Series.html"
+  },
+  {
+   "manualId": "1254397",
+   "slug": "Aerco-Mfc-3000",
+   "title": "MFC 10000 Application manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "MFC 10000",
+   "extraModels": [
+    "MFC 10000",
+    "MFC 4000",
+    "MFC 5000",
+    "MFC 6000",
+    "MFC 8000"
+   ],
+   "url": "https://www.manualslib.com/manual/1254397/Aerco-Mfc-3000.html"
+  },
+  {
+   "manualId": "1366143",
+   "slug": "Aerco-Mfc-3000",
+   "title": "MFC 10000 Installation and startup manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "MFC 10000",
+   "extraModels": [
+    "MFC 10000",
+    "MFC 4000",
+    "MFC 5000",
+    "MFC 6000",
+    "MFC 8000"
+   ],
+   "url": "https://www.manualslib.com/manual/1366143/Aerco-Mfc-3000.html"
+  },
+  {
+   "manualId": "1165584",
+   "slug": "Aerco-Mfc-3000",
+   "title": "MFC 10000 installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "MFC 10000",
+   "extraModels": [
+    "MFC 10000",
+    "MFC 4000",
+    "MFC 5000",
+    "MFC 6000",
+    "MFC 8000"
+   ],
+   "url": "https://www.manualslib.com/manual/1165584/Aerco-Mfc-3000.html"
+  },
+  {
+   "manualId": "1171537",
+   "slug": "Aerco-Mfc-3000",
+   "title": "MFC 10000 user manual",
+   "type": "User / Owner",
+   "pages": 170,
+   "productModel": "MFC 10000",
+   "extraModels": [
+    "MFC 10000",
+    "MFC 4000",
+    "MFC 5000",
+    "MFC 6000",
+    "MFC 8000"
+   ],
+   "url": "https://www.manualslib.com/manual/1171537/Aerco-Mfc-3000.html"
+  },
+  {
+   "manualId": "3318071",
+   "slug": "Aerco-Mlx-Series",
+   "title": "MLX Series Application manual",
+   "type": "Other",
+   "pages": 38,
+   "productModel": "MLX Series",
+   "extraModels": [
+    "Modulex MLX-1060",
+    "Modulex MLX-303",
+    "Modulex MLX-454",
+    "Modulex MLX-606",
+    "Modulex MLX-757",
+    "Modulex MLX-909"
+   ],
+   "url": "https://www.manualslib.com/manual/3318071/Aerco-Mlx-Series.html"
+  },
+  {
+   "manualId": "838817",
+   "slug": "Aerco-Modulex-303",
+   "title": "Modulex 1060 Installation & operation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Modulex 1060",
+   "extraModels": [
+    "Modulex 1060",
+    "Modulex 454",
+    "Modulex 606",
+    "Modulex 757",
+    "Modulex 909",
+    "Modulex MLX-1060",
+    "Modulex MLX-303",
+    "Modulex MLX-454",
+    "Modulex MLX-606",
+    "Modulex MLX-757",
+    "Modulex MLX-909"
+   ],
+   "url": "https://www.manualslib.com/manual/838817/Aerco-Modulex-303.html"
+  },
+  {
+   "manualId": "1034995",
+   "slug": "Aerco-Modulex-Ext-321",
+   "title": "MODULEX EXT 1123 user manual",
+   "type": "User / Owner",
+   "pages": 146,
+   "productModel": "MODULEX EXT 1123",
+   "extraModels": [
+    "MODULEX EXT 1123",
+    "MODULEX EXT 481",
+    "MODULEX EXT 641",
+    "MODULEX EXT 802",
+    "MODULEX EXT 962"
+   ],
+   "url": "https://www.manualslib.com/manual/1034995/Aerco-Modulex-Ext-321.html"
+  },
+  {
+   "manualId": "1650178",
+   "slug": "Aerco-Modulex-Mlx-Series",
+   "title": "Modulex MLX Series Technical instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "Modulex MLX Series",
+   "extraModels": [
+    "Modulex MLX-1060",
+    "Modulex MLX-303",
+    "Modulex MLX-454",
+    "Modulex MLX-606",
+    "Modulex MLX-757",
+    "Modulex MLX-909"
+   ],
+   "url": "https://www.manualslib.com/manual/1650178/Aerco-Modulex-Mlx-Series.html"
+  },
+  {
+   "manualId": "1112295",
+   "slug": "Aerco-Modulex-Mlx-303",
+   "title": "Modulex MLX-1060 user manual",
+   "type": "User / Owner",
+   "pages": 90,
+   "productModel": "Modulex MLX-1060",
+   "extraModels": [
+    "Modulex MLX-1060",
+    "Modulex MLX-454",
+    "Modulex MLX-606",
+    "Modulex MLX-757",
+    "Modulex MLX-909"
+   ],
+   "url": "https://www.manualslib.com/manual/1112295/Aerco-Modulex-Mlx-303.html"
+  },
+  {
+   "manualId": "1581402",
+   "slug": "Aerco-Smartplate-Series",
+   "title": "SmartPlate Series Application manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "SmartPlate Series",
+   "extraModels": [
+    "SmartPlate SP150",
+    "SmartPlate SP23",
+    "SmartPlate SP33",
+    "SmartPlate SP45",
+    "SmartPlate SP69",
+    "SmartPlate SPDW113",
+    "SmartPlate SPDW23",
+    "SmartPlate SPDW32",
+    "SmartPlate SPDW42",
+    "SmartPlate SPDW61"
+   ],
+   "url": "https://www.manualslib.com/manual/1581402/Aerco-Smartplate-Series.html"
+  },
+  {
+   "manualId": "1661268",
+   "slug": "Aerco-Swdw-24",
+   "title": "SWDW-24 Technical instructions",
+   "type": "User / Owner",
+   "pages": 58,
+   "productModel": "SWDW-24",
+   "extraModels": [
+    "SWDW-45",
+    "SWDW-68"
+   ],
+   "url": "https://www.manualslib.com/manual/1661268/Aerco-Swdw-24.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4269657",
+   "slug": "aerco-esteem-399-boiler-installation-and-maintenance-manual",
+   "title": "Aerco Esteem 399 boiler Installation and Maintenance Manual"
+  }
+ ],
+ "techDirectIds": [
+  "aerco"
+ ]
+}

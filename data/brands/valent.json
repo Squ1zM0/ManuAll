@@ -1,0 +1,238 @@
+{
+ "brand": "valent",
+ "brandSlug": "valent",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/valent/"
+ ],
+ "slugUsed": "valent",
+ "capturedAt": "2026-10-28T09:33:59.185584+00:00",
+ "typePages": [
+  {
+   "path": "/brand/valent/air-handlers.html",
+   "manuals": 20,
+   "status": 200
+  },
+  {
+   "path": "/brand/valent/chiller.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/valent/controller.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/valent/fan.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/valent/heat-pump.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/valent/industrial-equipment.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/valent/ventilation-hood.html",
+   "manuals": 4,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1528254",
+   "slug": "Valent-Vrc-Series",
+   "title": "478603 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "478603",
+   "extraModels": [
+    "478603",
+    "VRC-110",
+    "VRC-210",
+    "VRC-310",
+    "VRC-350"
+   ],
+   "url": "https://www.manualslib.com/manual/1528254/Valent-Vrc-Series.html"
+  },
+  {
+   "manualId": "3284251",
+   "slug": "Valent-Erc-M",
+   "title": "ERC-M Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "ERC-M",
+   "extraModels": [
+    "ERC-M1",
+    "ERC-M2"
+   ],
+   "url": "https://www.manualslib.com/manual/3284251/Valent-Erc-M.html"
+  },
+  {
+   "manualId": "4143251",
+   "slug": "Valent-Erw-E2",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4143251/Valent-Erw-E2.html"
+  },
+  {
+   "manualId": "2389402",
+   "slug": "Valent-Ryzup-Smartgrass-Pgr",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2389402/Valent-Ryzup-Smartgrass-Pgr.html"
+  },
+  {
+   "manualId": "3411225",
+   "slug": "Valent-Erv-Controller",
+   "title": "User and service manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3411225/Valent-Erv-Controller.html"
+  },
+  {
+   "manualId": "3798518",
+   "slug": "Valent-Vive",
+   "title": "VIV Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "VIV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3798518/Valent-Vive.html"
+  },
+  {
+   "manualId": "2127311",
+   "slug": "Valent-Vpr-Series",
+   "title": "VPR Series Controls Instruction Operation & Maintenance",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "VPR Series",
+   "extraModels": [
+    "VPRC/P Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2127311/Valent-Vpr-Series.html"
+  },
+  {
+   "manualId": "3877426",
+   "slug": "Valent-Vpre-Series",
+   "title": "VPRE Series Controls Instruction Operation & Maintenance",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "VPRE Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877426/Valent-Vpre-Series.html"
+  },
+  {
+   "manualId": "3877427",
+   "slug": "Valent-Vprx-Series",
+   "title": "VPRX Series Controls Instruction Operation & Maintenance",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "VPRX Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877427/Valent-Vprx-Series.html"
+  },
+  {
+   "manualId": "1899276",
+   "slug": "Valent-Vx-Series",
+   "title": "VX Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 73,
+   "productModel": "VX Series",
+   "extraModels": [
+    "VX-112",
+    "VX-212",
+    "VX-311",
+    "VX-352",
+    "VXE-311",
+    "VXE-352"
+   ],
+   "url": "https://www.manualslib.com/manual/1899276/Valent-Vx-Series.html"
+  },
+  {
+   "manualId": "1804198",
+   "slug": "Valent-Vx-Series",
+   "title": "VX Series reference manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "VX Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1804198/Valent-Vx-Series.html"
+  },
+  {
+   "manualId": "4137777",
+   "slug": "Valent-Vx-12",
+   "title": "VX-112 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 67,
+   "productModel": "VX-112",
+   "extraModels": [
+    "VX-112",
+    "VX-212",
+    "VX-352",
+    "VXE-112",
+    "VXE-212",
+    "VXE-352",
+    "VX-312",
+    "VXC-112",
+    "VXC-212",
+    "VXC-352",
+    "VXE-312"
+   ],
+   "url": "https://www.manualslib.com/manual/4137777/Valent-Vx-12.html"
+  },
+  {
+   "manualId": "3868387",
+   "slug": "Valent-Vxe-Series",
+   "title": "VXE Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 73,
+   "productModel": "VXE Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3868387/Valent-Vxe-Series.html"
+  },
+  {
+   "manualId": "3868388",
+   "slug": "Valent-Vxe-112",
+   "title": "VXE-112 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 73,
+   "productModel": "VXE-112",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3868388/Valent-Vxe-112.html"
+  },
+  {
+   "manualId": "3868389",
+   "slug": "Valent-Vxe-212",
+   "title": "VXE-212 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 73,
+   "productModel": "VXE-212",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3868389/Valent-Vxe-212.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "valent",
+  "valent-air"
+ ]
+}

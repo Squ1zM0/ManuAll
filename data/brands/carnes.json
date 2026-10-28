@@ -1,0 +1,311 @@
+{
+ "brand": "CARNES",
+ "brandSlug": "carnes",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/carnes/"
+ ],
+ "slugUsed": "carnes",
+ "capturedAt": "2026-10-28T06:35:06.144883+00:00",
+ "typePages": [
+  {
+   "path": "/brand/carnes/blower.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/carnes/fan.html",
+   "manuals": 29,
+   "status": 200
+  },
+  {
+   "path": "/brand/carnes/fire-and-smoke-dampers.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/carnes/humidifier.html",
+   "manuals": 21,
+   "status": 200
+  },
+  {
+   "path": "/brand/carnes/humidistats.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/carnes/thermostat.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/carnes/ventilation-hood.html",
+   "manuals": 13,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1593616",
+   "slug": "Carnes-Comfort-Control",
+   "title": "Comfort Control user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Comfort Control",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1593616/Carnes-Comfort-Control.html"
+  },
+  {
+   "manualId": "1710722",
+   "slug": "Carnes-Htah",
+   "title": "HBAH Manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "HBAH",
+   "extraModels": [
+    "HBAH",
+    "HBDH",
+    "HBGH",
+    "HBHH",
+    "HCAH",
+    "HCDH",
+    "HCGH",
+    "HCHH",
+    "HSAH",
+    "HSDH",
+    "HSGH",
+    "HSHH",
+    "HTDH",
+    "HTGH",
+    "HTHH"
+   ],
+   "url": "https://www.manualslib.com/manual/1710722/Carnes-Htah.html"
+  },
+  {
+   "manualId": "867466",
+   "slug": "Carnes-Hbgh",
+   "title": "HBGH Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "HBGH",
+   "extraModels": [
+    "HCAH",
+    "HCDH",
+    "HRAB"
+   ],
+   "url": "https://www.manualslib.com/manual/867466/Carnes-Hbgh.html"
+  },
+  {
+   "manualId": "2381271",
+   "slug": "Carnes-Hxhaf",
+   "title": "HXHAF Owner's manual and reference manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "HXHAF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2381271/Carnes-Hxhaf.html"
+  },
+  {
+   "manualId": "2422479",
+   "slug": "Carnes-Hxhas",
+   "title": "HXHAS owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "HXHAS",
+   "extraModels": [
+    "HXHAST",
+    "HXHAW",
+    "HXHAWT"
+   ],
+   "url": "https://www.manualslib.com/manual/2422479/Carnes-Hxhas.html"
+  },
+  {
+   "manualId": "3579993",
+   "slug": "Carnes-Avcd",
+   "title": "Installation and operation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3579993/Carnes-Avcd.html"
+  },
+  {
+   "manualId": "3569992",
+   "slug": "Carnes-Hxhat",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3569992/Carnes-Hxhat.html"
+  },
+  {
+   "manualId": "1338663",
+   "slug": "Carnes-Lw-Lm",
+   "title": "Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1338663/Carnes-Lw-Lm.html"
+  },
+  {
+   "manualId": "2016582",
+   "slug": "Carnes-Lw-Lm",
+   "title": "Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2016582/Carnes-Lw-Lm.html"
+  },
+  {
+   "manualId": "1987449",
+   "slug": "Carnes-Vdba-Series",
+   "title": "Installation, Operating And Maintenance Instructions",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1987449/Carnes-Vdba-Series.html"
+  },
+  {
+   "manualId": "2001839",
+   "slug": "Carnes-Vfbb",
+   "title": "Installation, Operating And Maintenance Instructions",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2001839/Carnes-Vfbb.html"
+  },
+  {
+   "manualId": "2278061",
+   "slug": "Carnes-Vw-Belt",
+   "title": "Installation, Operating And Maintenance Instructions",
+   "type": "Service",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2278061/Carnes-Vw-Belt.html"
+  },
+  {
+   "manualId": "2002030",
+   "slug": "Carnes-Vrbk",
+   "title": "Installation, Operating and Maintenance Instrutions",
+   "type": "Service",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2002030/Carnes-Vrbk.html"
+  },
+  {
+   "manualId": "2026793",
+   "slug": "Carnes-Efoa",
+   "title": "Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2026793/Carnes-Efoa.html"
+  },
+  {
+   "manualId": "2589100",
+   "slug": "Carnes-Hxbg",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2589100/Carnes-Hxbg.html"
+  },
+  {
+   "manualId": "2013310",
+   "slug": "Carnes-Vcdk040i",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2013310/Carnes-Vcdk040i.html"
+  },
+  {
+   "manualId": "2044233",
+   "slug": "Carnes-Vcdk040c",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2044233/Carnes-Vcdk040c.html"
+  },
+  {
+   "manualId": "2097997",
+   "slug": "Carnes-Vcdd090i",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2097997/Carnes-Vcdd090i.html"
+  },
+  {
+   "manualId": "2188487",
+   "slug": "Carnes-Vcdk090c",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2188487/Carnes-Vcdk090c.html"
+  },
+  {
+   "manualId": "2488732",
+   "slug": "Carnes-Vcdd040i",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2488732/Carnes-Vcdd040i.html"
+  },
+  {
+   "manualId": "2519816",
+   "slug": "Carnes-Vcdd040c",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2519816/Carnes-Vcdd040c.html"
+  },
+  {
+   "manualId": "2384724",
+   "slug": "Carnes-Vcdd210i",
+   "title": "Operation & instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2384724/Carnes-Vcdd210i.html"
+  },
+  {
+   "manualId": "2380982",
+   "slug": "Carnes-Vcdk090i",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2380982/Carnes-Vcdk090i.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "carnes"
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "brand": "Uniweld",
+ "brandSlug": "uniweld",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/uniweld/"
+ ],
+ "slugUsed": "uniweld",
+ "capturedAt": "2026-10-28T09:32:54.330546+00:00",
+ "typePages": [
+  {
+   "path": "/brand/uniweld/digital-manifolds.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/uniweld/flashlight.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3402948",
+   "slug": "Uniweld-Artorch-Art1001b",
+   "title": "ArTorch ART1001B operating instructions manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "ArTorch ART1001B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3402948/Uniweld-Artorch-Art1001b.html"
+  },
+  {
+   "manualId": "3162383",
+   "slug": "uniweld-smartech-usman5-wireless-digital-manifold-manual",
+   "title": "Uniweld SmarTech USMAN5 - Wireless Digital Manifold Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3162383/uniweld-smartech-usman5-wireless-digital-manifold-manual.html"
+  },
+  {
+   "manualId": "1466127",
+   "slug": "Uniweld-Smarttech-Usman5",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1466127/Uniweld-Smarttech-Usman5.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "3162383",
+   "slug": "uniweld-smartech-usman5-wireless-digital-manifold-manual",
+   "title": "Uniweld SmarTech USMAN5 - Wireless Digital Manifold Manual"
+  }
+ ],
+ "techDirectIds": [
+  "uniweld"
+ ]
+}

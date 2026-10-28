@@ -1,0 +1,390 @@
+{
+ "brand": "ENERGY KINETICS",
+ "brandSlug": "energy-kinetics",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/energy-kinetics/"
+ ],
+ "slugUsed": "energy-kinetics",
+ "capturedAt": "2026-10-28T07:04:53.000084+00:00",
+ "typePages": [
+  {
+   "path": "/brand/energy-kinetics/boiler.html",
+   "manuals": 69,
+   "status": 200
+  },
+  {
+   "path": "/brand/energy-kinetics/water-heater.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/energy-kinetics/water-system.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1726366",
+   "slug": "Energy-Kinetics-Resolute-90Plus",
+   "title": "90+RESOLUTE BOILER Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "90+RESOLUTE BOILER",
+   "extraModels": [
+    "90+RESOLUTE BOILER"
+   ],
+   "url": "https://www.manualslib.com/manual/1726366/Energy-Kinetics-Resolute-90Plus.html"
+  },
+  {
+   "manualId": "1486863",
+   "slug": "Energy-Kinetics-90Plusresolute-Boiler",
+   "title": "90+RESOLUTE BOILER Owners and installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "90+RESOLUTE BOILER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1486863/Energy-Kinetics-90Plusresolute-Boiler.html"
+  },
+  {
+   "manualId": "1788090",
+   "slug": "Energy-Kinetics-Resolute-90Plus",
+   "title": "90+RESOLUTE BOILER Tune Up And Inspection",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "90+RESOLUTE BOILER",
+   "extraModels": [
+    "90+RESOLUTE BOILER"
+   ],
+   "url": "https://www.manualslib.com/manual/1788090/Energy-Kinetics-Resolute-90Plus.html"
+  },
+  {
+   "manualId": "2209866",
+   "slug": "Energy-Kinetics-System-2000-Accel-Cs",
+   "title": "Annual Tune Up and Inspection",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2209866/Energy-Kinetics-System-2000-Accel-Cs.html"
+  },
+  {
+   "manualId": "2209856",
+   "slug": "Energy-Kinetics-Ascent-Combi",
+   "title": "Ascent Combi Annual Tune Up And Inspection",
+   "type": "Other",
+   "pages": 3,
+   "productModel": "Ascent Combi",
+   "extraModels": [
+    "Ascent Plus Combi"
+   ],
+   "url": "https://www.manualslib.com/manual/2209856/Energy-Kinetics-Ascent-Combi.html"
+  },
+  {
+   "manualId": "2116907",
+   "slug": "Energy-Kinetics-Ascent-Combi-Boilers",
+   "title": "Ascent Combi Boilers User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Ascent Combi Boilers",
+   "extraModels": [
+    "Ascent Plus Combi Boilers",
+    "EK1T"
+   ],
+   "url": "https://www.manualslib.com/manual/2116907/Energy-Kinetics-Ascent-Combi-Boilers.html"
+  },
+  {
+   "manualId": "3373141",
+   "slug": "Energy-Kinetics-Ascent-Combi",
+   "title": "Ascent Combi Owners and installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Ascent Combi",
+   "extraModels": [
+    "Ascent Plus Combi",
+    "EK1T"
+   ],
+   "url": "https://www.manualslib.com/manual/3373141/Energy-Kinetics-Ascent-Combi.html"
+  },
+  {
+   "manualId": "2008421",
+   "slug": "Energy-Kinetics-Ascent-Combi",
+   "title": "Ascent Combi Tune Up And Inspection",
+   "type": "Other",
+   "pages": 3,
+   "productModel": "Ascent Combi",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2008421/Energy-Kinetics-Ascent-Combi.html"
+  },
+  {
+   "manualId": "3647884",
+   "slug": "Energy-Kinetics-Ascent-Combi-Ek1t",
+   "title": "Ascent Plus Combi EK1T+ Owners and installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Ascent Plus Combi EK1T+",
+   "extraModels": [
+    "Ascent Plus Combi EK1T+",
+    "B100"
+   ],
+   "url": "https://www.manualslib.com/manual/3647884/Energy-Kinetics-Ascent-Combi-Ek1t.html"
+  },
+  {
+   "manualId": "3778353",
+   "slug": "Energy-Kinetics-Resolute-Rt",
+   "title": "Ascent Plus Combi installation instructions manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "Ascent Plus Combi",
+   "extraModels": [
+    "Ascent Plus Combi"
+   ],
+   "url": "https://www.manualslib.com/manual/3778353/Energy-Kinetics-Resolute-Rt.html"
+  },
+  {
+   "manualId": "4327904",
+   "slug": "Energy-Kinetics-Ascent-Plus-Combi",
+   "title": "Ascent Plus Combi Quick installation manual",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": "Ascent Plus Combi",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4327904/Energy-Kinetics-Ascent-Plus-Combi.html"
+  },
+  {
+   "manualId": "1878217",
+   "slug": "Energy-Kinetics-Ek-Pak",
+   "title": "EK-Pak Owners and installation manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "EK-Pak",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1878217/Energy-Kinetics-Ek-Pak.html"
+  },
+  {
+   "manualId": "1486965",
+   "slug": "Energy-Kinetics-System-2000",
+   "title": "EK1 Frontier Installation & service manual",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "EK1 Frontier",
+   "extraModels": [
+    "EK1 Frontier",
+    "EK2 Frontier"
+   ],
+   "url": "https://www.manualslib.com/manual/1486965/Energy-Kinetics-System-2000.html"
+  },
+  {
+   "manualId": "1865482",
+   "slug": "Energy-Kinetics-System-2000-Frontier",
+   "title": "EK1 Frontier instructions manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "EK1 Frontier",
+   "extraModels": [
+    "EK1 Frontier",
+    "EK2 Frontier"
+   ],
+   "url": "https://www.manualslib.com/manual/1865482/Energy-Kinetics-System-2000-Frontier.html"
+  },
+  {
+   "manualId": "3080089",
+   "slug": "Energy-Kinetics-Ek-1",
+   "title": "EK1 Frontier Manual",
+   "type": "Other",
+   "pages": 57,
+   "productModel": "EK1 Frontier",
+   "extraModels": [
+    "EK2 Frontier",
+    "EK3 Frontier"
+   ],
+   "url": "https://www.manualslib.com/manual/3080089/Energy-Kinetics-Ek-1.html"
+  },
+  {
+   "manualId": "1668076",
+   "slug": "Energy-Kinetics-Ek1",
+   "title": "EK1 Frontier Owners and installation manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "EK1 Frontier",
+   "extraModels": [
+    "EK2 Frontier",
+    "System 2000"
+   ],
+   "url": "https://www.manualslib.com/manual/1668076/Energy-Kinetics-Ek1.html"
+  },
+  {
+   "manualId": "2398559",
+   "slug": "Energy-Kinetics-System-2000",
+   "title": "EK1 Frontier Owners and installation manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "EK1 Frontier",
+   "extraModels": [
+    "EK1 Frontier",
+    "EK2 Frontier"
+   ],
+   "url": "https://www.manualslib.com/manual/2398559/Energy-Kinetics-System-2000.html"
+  },
+  {
+   "manualId": "3842084",
+   "slug": "Energy-Kinetics-Ek1c",
+   "title": "EK1C Installation & service manual",
+   "type": "Service",
+   "pages": 75,
+   "productModel": "EK1C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3842084/Energy-Kinetics-Ek1c.html"
+  },
+  {
+   "manualId": "1262847",
+   "slug": "Energy-Kinetics-Ek2c",
+   "title": "EK2C Installation & service manual",
+   "type": "Service",
+   "pages": 75,
+   "productModel": "EK2C",
+   "extraModels": [
+    "EK3C"
+   ],
+   "url": "https://www.manualslib.com/manual/1262847/Energy-Kinetics-Ek2c.html"
+  },
+  {
+   "manualId": "1658264",
+   "slug": "Energy-Kinetics-Ek3-Frontier",
+   "title": "EK3 Frontier Owners & installation manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "EK3 Frontier",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1658264/Energy-Kinetics-Ek3-Frontier.html"
+  },
+  {
+   "manualId": "3979838",
+   "slug": "energy-kinetics-system-2000-manual",
+   "title": "ENERGY KINETICS SYSTEM 2000 Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3979838/energy-kinetics-system-2000-manual.html"
+  },
+  {
+   "manualId": "1855153",
+   "slug": "Energy-Kinetics-Accel-Cs",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1855153/Energy-Kinetics-Accel-Cs.html"
+  },
+  {
+   "manualId": "1486862",
+   "slug": "Energy-Kinetics-Resolute-Boiler",
+   "title": "Resolute Installation & service manual",
+   "type": "Service",
+   "pages": 42,
+   "productModel": "Resolute",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1486862/Energy-Kinetics-Resolute-Boiler.html"
+  },
+  {
+   "manualId": "2165222",
+   "slug": "Energy-Kinetics-Resolute-Rt",
+   "title": "Resolute RT Owners and installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Resolute RT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2165222/Energy-Kinetics-Resolute-Rt.html"
+  },
+  {
+   "manualId": "1786756",
+   "slug": "Energy-Kinetics-Resolute-Rt",
+   "title": "Resolute RT Tune Up and Inspection",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Resolute RT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1786756/Energy-Kinetics-Resolute-Rt.html"
+  },
+  {
+   "manualId": "1824066",
+   "slug": "Energy-Kinetics-Smart-Solar-Ewra1",
+   "title": "Smart Solar EWRA1 installation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "Smart Solar EWRA1",
+   "extraModels": [
+    "Smart Solar EWRA1-DWHX",
+    "Smart Solar EWRA2",
+    "Smart Solar EWRA2-DWHX",
+    "Smart Solar EWRA3",
+    "Smart Solar EWRA3-DWHX",
+    "Smart Solar EWRA4",
+    "Smart Solar EWRA4-DWHX"
+   ],
+   "url": "https://www.manualslib.com/manual/1824066/Energy-Kinetics-Smart-Solar-Ewra1.html"
+  },
+  {
+   "manualId": "1633595",
+   "slug": "Energy-Kinetics-System-2000-Ascent-Combi",
+   "title": "SYSTEM 2000 Ascent Combi Owners and installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "SYSTEM 2000 Ascent Combi",
+   "extraModels": [
+    "SYSTEM 2000 Ascent EK1T+",
+    "SYSTEM 2000 Ascent Plus Combi"
+   ],
+   "url": "https://www.manualslib.com/manual/1633595/Energy-Kinetics-System-2000-Ascent-Combi.html"
+  },
+  {
+   "manualId": "2417538",
+   "slug": "Energy-Kinetics-System-2000-Ek1-Frontier",
+   "title": "System 2000 EK1 Frontier Owners and installation manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "System 2000 EK1 Frontier",
+   "extraModels": [
+    "System 2000 EK2 Frontier"
+   ],
+   "url": "https://www.manualslib.com/manual/2417538/Energy-Kinetics-System-2000-Ek1-Frontier.html"
+  },
+  {
+   "manualId": "3784650",
+   "slug": "Energy-Kinetics-System-2000",
+   "title": "System 2000 Owners and installation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "System 2000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3784650/Energy-Kinetics-System-2000.html"
+  },
+  {
+   "manualId": "2096699",
+   "slug": "Energy-Kinetics-System-2000",
+   "title": "System 2000 User's information manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "System 2000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2096699/Energy-Kinetics-System-2000.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "3979838",
+   "slug": "energy-kinetics-system-2000-manual",
+   "title": "ENERGY KINETICS SYSTEM 2000 Manual"
+  }
+ ],
+ "techDirectIds": [
+  "energy-kinetics"
+ ]
+}

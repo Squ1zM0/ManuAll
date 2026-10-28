@@ -1,0 +1,50 @@
+{
+ "brand": "AMERICAN METAL",
+ "brandSlug": "american-metal",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/american-metal/"
+ ],
+ "slugUsed": "american-metal",
+ "capturedAt": "2026-10-28T06:23:55.480926+00:00",
+ "typePages": [
+  {
+   "path": "/brand/american-metal/ventilation-hood.html",
+   "manuals": 5,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2609974",
+   "slug": "American-Metal-Ameri-Vent-E",
+   "title": "AMERI-VENT E Installation & assembly instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "AMERI-VENT E",
+   "extraModels": [
+    "AMERI-VENT O",
+    "AMERI-VENT R"
+   ],
+   "url": "https://www.manualslib.com/manual/2609974/American-Metal-Ameri-Vent-E.html"
+  },
+  {
+   "manualId": "2827891",
+   "slug": "American-Metal-Amerivent-Hs",
+   "title": "Installation & assembly instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2827891/American-Metal-Amerivent-Hs.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "american-metal-filter"
+ ]
+}

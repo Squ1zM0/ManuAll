@@ -1,0 +1,2393 @@
+{
+ "brand": "Neptronic",
+ "brandSlug": "neptronic",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/neptronic/"
+ ],
+ "slugUsed": "neptronic",
+ "capturedAt": "2026-10-28T08:45:25.235132+00:00",
+ "typePages": [
+  {
+   "path": "/brand/neptronic/accessories.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/air-handlers.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/conference-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/control-unit.html",
+   "manuals": 75,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/controller.html",
+   "manuals": 370,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/electronic-cigarettes.html",
+   "manuals": 34,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/fan.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/freezer.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/heater.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/humidifier.html",
+   "manuals": 461,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/humidistats.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/i-o-systems.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/industrial-equipment.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/network-router.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/service-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/switch.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/temperature-controller.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/thermostat.html",
+   "manuals": 123,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/water-filtration-systems.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/neptronic/water-pump.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1436914",
+   "slug": "Neptronic-Aro24t",
+   "title": "ARO24T installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "ARO24T",
+   "extraModels": [
+    "ARO24TGH",
+    "ARO24TGVH",
+    "ARO24TH"
+   ],
+   "url": "https://www.manualslib.com/manual/1436914/Neptronic-Aro24t.html"
+  },
+  {
+   "manualId": "1371461",
+   "slug": "Neptronic-Aro24t",
+   "title": "ARO24T Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "ARO24T",
+   "extraModels": [
+    "ARO24TGH",
+    "ARO24TGVH",
+    "ARO24TH",
+    "AROB24T",
+    "AROB24TGH",
+    "AROB24TGVH",
+    "AROB24TH"
+   ],
+   "url": "https://www.manualslib.com/manual/1371461/Neptronic-Aro24t.html"
+  },
+  {
+   "manualId": "1361574",
+   "slug": "Neptronic-Arob24t",
+   "title": "AROB24T user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "AROB24T",
+   "extraModels": [
+    "AROB24TGH",
+    "AROB24TGVH",
+    "AROB24TH"
+   ],
+   "url": "https://www.manualslib.com/manual/1361574/Neptronic-Arob24t.html"
+  },
+  {
+   "manualId": "3312904",
+   "slug": "Neptronic-Ske4",
+   "title": "BACnet SKE4 user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "BACnet SKE4",
+   "extraModels": [
+    "BACnet SKE4"
+   ],
+   "url": "https://www.manualslib.com/manual/3312904/Neptronic-Ske4.html"
+  },
+  {
+   "manualId": "1653837",
+   "slug": "Neptronic-Bacnet-Skg4",
+   "title": "Bacnet SKG4 user manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "Bacnet SKG4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1653837/Neptronic-Bacnet-Skg4.html"
+  },
+  {
+   "manualId": "2885031",
+   "slug": "Neptronic-Cmu-Series",
+   "title": "CMU Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "CMU",
+   "extraModels": [
+    "CMU06",
+    "CMU08",
+    "CMU10",
+    "CMU12"
+   ],
+   "url": "https://www.manualslib.com/manual/2885031/Neptronic-Cmu-Series.html"
+  },
+  {
+   "manualId": "3677563",
+   "slug": "Neptronic-Drain-Cooler",
+   "title": "Drain Cooler Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Drain Cooler",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3677563/Neptronic-Drain-Cooler.html"
+  },
+  {
+   "manualId": "1453029",
+   "slug": "Neptronic-Efc",
+   "title": "EFC Specification & Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "EFC",
+   "extraModels": [
+    "TFL24",
+    "TFLG24",
+    "TFLGH24",
+    "TFLH24"
+   ],
+   "url": "https://www.manualslib.com/manual/1453029/Neptronic-Efc.html"
+  },
+  {
+   "manualId": "2939212",
+   "slug": "Neptronic-Efcb-Series",
+   "title": "EFCB Series user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "EFCB Series",
+   "extraModels": [
+    "EFCB1 -OE1 Series",
+    "EFCB1 Q1 Series",
+    "EFCB1 Q2 Series",
+    "EFCB1 Q3 Series",
+    "EFCB1 Q4 Series",
+    "EFCB1 Series",
+    "EFCB12-GR Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2939212/Neptronic-Efcb-Series.html"
+  },
+  {
+   "manualId": "1453028",
+   "slug": "Neptronic-Efcb",
+   "title": "EFCB Specification & Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "EFCB",
+   "extraModels": [
+    "TFL54",
+    "TFLH54 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1453028/Neptronic-Efcb.html"
+  },
+  {
+   "manualId": "1453030",
+   "slug": "Neptronic-Efcb12t-Oe1",
+   "title": "EFCB10T-OE1 Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "EFCB10T-OE1",
+   "extraModels": [
+    "EFCB10T-OE1",
+    "EFCB10TU4-OE1",
+    "TFL24",
+    "TFLG24",
+    "TFLGH24",
+    "TFLH24",
+    "EFCB12TU2-OE1",
+    "EFCB12TU4-OE1",
+    "TDU10",
+    "TDU40",
+    "TDU70"
+   ],
+   "url": "https://www.manualslib.com/manual/1453030/Neptronic-Efcb12t-Oe1.html"
+  },
+  {
+   "manualId": "1453032",
+   "slug": "Neptronic-Efcb10tu2",
+   "title": "EFCB10TU2 Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "EFCB10TU2",
+   "extraModels": [
+    "EFCB10TU4",
+    "EFCB11TU2",
+    "EFCB11TU4",
+    "EFCB12TU2",
+    "EFCB12TU4",
+    "TFL54",
+    "TFLH54 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1453032/Neptronic-Efcb10tu2.html"
+  },
+  {
+   "manualId": "1911089",
+   "slug": "Neptronic-Tfl24-Series",
+   "title": "EFCB10TU2 Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "EFCB10TU2",
+   "extraModels": [
+    "EFCB10TU2",
+    "EFCB10TU4",
+    "EFCB11TU2",
+    "EFCB11TU4",
+    "EFCB12TU2",
+    "EFCB12TU4",
+    "TDF Series",
+    "TDF00",
+    "TDF10",
+    "TDF30",
+    "TDF40",
+    "TDF60",
+    "TDF70",
+    "TFLG24",
+    "TFLGH24",
+    "TFLH24"
+   ],
+   "url": "https://www.manualslib.com/manual/1911089/Neptronic-Tfl24-Series.html"
+  },
+  {
+   "manualId": "1650098",
+   "slug": "Neptronic-Electric-Heater",
+   "title": "Electric Heater installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Electric Heater",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1650098/Neptronic-Electric-Heater.html"
+  },
+  {
+   "manualId": "4142626",
+   "slug": "Neptronic-Evcb14n-T4x-Series",
+   "title": "EVCB14N T4X Series user manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "EVCB14N T4X Series",
+   "extraModels": [
+    "EVCB14NDT4X",
+    "EVCB14NIT0X",
+    "EVCB14NIT4X"
+   ],
+   "url": "https://www.manualslib.com/manual/4142626/Neptronic-Evcb14n-T4x-Series.html"
+  },
+  {
+   "manualId": "1440873",
+   "slug": "Neptronic-Evcb14nit2s",
+   "title": "EVCB14NDT4S Specification and installation instructions",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "EVCB14NDT4S",
+   "extraModels": [
+    "EVCB14NDT4S",
+    "EVCB14NIT0S",
+    "EVCB14NIT0SF",
+    "EVCB14NIT4S",
+    "EVCB14NIT4SF",
+    "TDU10",
+    "TDU40",
+    "TDU70",
+    "TRL24",
+    "TRLG24",
+    "TRLGH24",
+    "TRLH24"
+   ],
+   "url": "https://www.manualslib.com/manual/1440873/Neptronic-Evcb14nit2s.html"
+  },
+  {
+   "manualId": "1453027",
+   "slug": "Neptronic-Evcb14nit0s",
+   "title": "EVCB14NDT4S Specification and installation instructions",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "EVCB14NDT4S",
+   "extraModels": [
+    "EVCB14NDT4S",
+    "EVCB14NIT0SF",
+    "EVCB14NIT2S",
+    "EVCB14NIT4S",
+    "EVCB14NIT4SF",
+    "EVCB14NIT4X",
+    "EVCB14NDT2",
+    "TRL54"
+   ],
+   "url": "https://www.manualslib.com/manual/1453027/Neptronic-Evcb14nit0s.html"
+  },
+  {
+   "manualId": "2398221",
+   "slug": "Neptronic-Evcb-Series",
+   "title": "EVCB14NDT4S Specification and installation instructions",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "EVCB14NDT4S",
+   "extraModels": [
+    "EVCB14NDT4S",
+    "EVCB14NDT4X",
+    "EVCB14NIT0S",
+    "EVCB14NIT0SF",
+    "EVCB14NIT2S",
+    "EVCB14NIT4S",
+    "EVCB14NIT4SF",
+    "EVCB14NIT4X"
+   ],
+   "url": "https://www.manualslib.com/manual/2398221/Neptronic-Evcb-Series.html"
+  },
+  {
+   "manualId": "4336496",
+   "slug": "Neptronic-Evcb14ns-Series",
+   "title": "EVCB14NDT4S user manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "EVCB14NDT4S",
+   "extraModels": [
+    "EVCB14NDT4S",
+    "EVCB14NIT0S",
+    "EVCB14NIT0SF",
+    "EVCB14NIT2S",
+    "EVCB14NIT4S",
+    "EVCB14NIT4SF"
+   ],
+   "url": "https://www.manualslib.com/manual/4336496/Neptronic-Evcb14ns-Series.html"
+  },
+  {
+   "manualId": "4195527",
+   "slug": "Neptronic-Evcb44n-Series",
+   "title": "EVCB44N Series user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "EVCB44N Series",
+   "extraModels": [
+    "EVCB44NDT0S",
+    "EVCB44NIT0S"
+   ],
+   "url": "https://www.manualslib.com/manual/4195527/Neptronic-Evcb44n-Series.html"
+  },
+  {
+   "manualId": "1453024",
+   "slug": "Neptronic-Evcbm14nit2s",
+   "title": "EVCBM14NIT2S Specification and installation instructions",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "EVCBM14NIT2S",
+   "extraModels": [
+    "EVCS14N",
+    "TDU10",
+    "TDU40",
+    "TDU70",
+    "TRL24",
+    "TRLG24",
+    "TRLGH24",
+    "TRLH24"
+   ],
+   "url": "https://www.manualslib.com/manual/1453024/Neptronic-Evcbm14nit2s.html"
+  },
+  {
+   "manualId": "1384302",
+   "slug": "Neptronic-Hro20",
+   "title": "HRO20 Specification & Installation Instructions",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "HRO20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1384302/Neptronic-Hro20.html"
+  },
+  {
+   "manualId": "1316800",
+   "slug": "Neptronic-Hro20",
+   "title": "HRO20 Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "HRO20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1316800/Neptronic-Hro20.html"
+  },
+  {
+   "manualId": "3979574",
+   "slug": "Neptronic-Hrob20lss",
+   "title": "HROB20LSS Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "HROB20LSS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3979574/Neptronic-Hrob20lss.html"
+  },
+  {
+   "manualId": "1699801",
+   "slug": "Neptronic-Sk300-Ske",
+   "title": "Initial Verification",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1699801/Neptronic-Sk300-Ske.html"
+  },
+  {
+   "manualId": "2000304",
+   "slug": "Neptronic-Bbt24a",
+   "title": "Installation instruction",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2000304/Neptronic-Bbt24a.html"
+  },
+  {
+   "manualId": "1109090",
+   "slug": "Neptronic-Tro5404",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1109090/Neptronic-Tro5404.html"
+  },
+  {
+   "manualId": "1443707",
+   "slug": "Neptronic-Pump404cv",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1443707/Neptronic-Pump404cv.html"
+  },
+  {
+   "manualId": "1466964",
+   "slug": "Neptronic-Str1-11",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1466964/Neptronic-Str1-11.html"
+  },
+  {
+   "manualId": "1726478",
+   "slug": "Neptronic-Sks-Series",
+   "title": "Maintenance Procedure Instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1726478/Neptronic-Sks-Series.html"
+  },
+  {
+   "manualId": "2175502",
+   "slug": "Neptronic-Skge",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2175502/Neptronic-Skge.html"
+  },
+  {
+   "manualId": "2175526",
+   "slug": "Neptronic-Skg",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2175526/Neptronic-Skg.html"
+  },
+  {
+   "manualId": "2911617",
+   "slug": "Neptronic-St000s",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2911617/Neptronic-St000s.html"
+  },
+  {
+   "manualId": "4645542",
+   "slug": "Neptronic-Tdu-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "TDU10",
+    "TDU40",
+    "TDU70"
+   ],
+   "url": "https://www.manualslib.com/manual/4645542/Neptronic-Tdu-Series.html"
+  },
+  {
+   "manualId": "2132444",
+   "slug": "Neptronic-Nep-Afehr80t",
+   "title": "NEP AFEHR80S user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "NEP AFEHR80S",
+   "extraModels": [
+    "NEP AFEHR80S",
+    "NEP AFEHR90S",
+    "NEP AFEHR90T",
+    "VB0200",
+    "VB0201"
+   ],
+   "url": "https://www.manualslib.com/manual/2132444/Neptronic-Nep-Afehr80t.html"
+  },
+  {
+   "manualId": "2027946",
+   "slug": "Neptronic-Bbts1000",
+   "title": "Neptronic BBTS1000 Installation Instruction",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2027946/Neptronic-Bbts1000.html"
+  },
+  {
+   "manualId": "1614533",
+   "slug": "Neptronic-Bm000",
+   "title": "Neptronic BM000 Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1614533/Neptronic-Bm000.html"
+  },
+  {
+   "manualId": "2872761",
+   "slug": "Neptronic-Bm000n",
+   "title": "Neptronic BM000N Specification & Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2872761/Neptronic-Bm000n.html"
+  },
+  {
+   "manualId": "2901055",
+   "slug": "Neptronic-Bt000s",
+   "title": "Neptronic BT000S Specification & Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2901055/Neptronic-Bt000s.html"
+  },
+  {
+   "manualId": "2355337",
+   "slug": "Neptronic-Bt060x4",
+   "title": "Neptronic BT060X4 Specifications And Installation Instruction",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2355337/Neptronic-Bt060x4.html"
+  },
+  {
+   "manualId": "2165847",
+   "slug": "Neptronic-Bt060x8",
+   "title": "Neptronic BT060X8 Specification & Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2165847/Neptronic-Bt060x8.html"
+  },
+  {
+   "manualId": "3373942",
+   "slug": "Neptronic-Bt160",
+   "title": "Neptronic BT160 Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3373942/Neptronic-Bt160.html"
+  },
+  {
+   "manualId": "1787519",
+   "slug": "Neptronic-Evcb14nit4x-Trl24-Series",
+   "title": "Neptronic EVCB14NIT4X/TRL24 Series Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": null,
+   "extraModels": [
+    "EVCB14NIT4X/TRLG24",
+    "EVCB14NIT4X/TRLH24"
+   ],
+   "url": "https://www.manualslib.com/manual/1787519/Neptronic-Evcb14nit4x-Trl24-Series.html"
+  },
+  {
+   "manualId": "2258577",
+   "slug": "Neptronic-Hro20lss",
+   "title": "Neptronic HRO20LSS Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2258577/Neptronic-Hro20lss.html"
+  },
+  {
+   "manualId": "3953655",
+   "slug": "Neptronic-St100s",
+   "title": "Neptronic ST100S Specification & Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3953655/Neptronic-St100s.html"
+  },
+  {
+   "manualId": "2925375",
+   "slug": "Neptronic-Tm000",
+   "title": "Neptronic TM000 Specification & Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2925375/Neptronic-Tm000.html"
+  },
+  {
+   "manualId": "2919661",
+   "slug": "Neptronic-Tm100n",
+   "title": "Neptronic TM100N Specification & Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2919661/Neptronic-Tm100n.html"
+  },
+  {
+   "manualId": "2881988",
+   "slug": "Neptronic-Tm200n",
+   "title": "Neptronic TM200N Specification & Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2881988/Neptronic-Tm200n.html"
+  },
+  {
+   "manualId": "2254519",
+   "slug": "Neptronic-Tro24t4xyz1",
+   "title": "Neptronic TRO24T4XYZ1 Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2254519/Neptronic-Tro24t4xyz1.html"
+  },
+  {
+   "manualId": "2271133",
+   "slug": "Neptronic-Tsub00-Series",
+   "title": "Neptronic TSUB00 Series Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": null,
+   "extraModels": [
+    "TSUB00-100",
+    "TSUB00-101",
+    "TSUB00-104",
+    "TSUB00-105",
+    "TSUB30 Series",
+    "TSUB30-100",
+    "TSUB30-101",
+    "TSUB30-104",
+    "TSUB30-105",
+    "TSUB60 Series",
+    "TSUB60-100",
+    "TSUB60-101",
+    "TSUB60-104",
+    "TSUB60-105"
+   ],
+   "url": "https://www.manualslib.com/manual/2271133/Neptronic-Tsub00-Series.html"
+  },
+  {
+   "manualId": "4326504",
+   "slug": "Neptronic-Tt060",
+   "title": "Neptronic TT060 Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4326504/Neptronic-Tt060.html"
+  },
+  {
+   "manualId": "878259",
+   "slug": "Neptronic-Ptc",
+   "title": "PTC user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "PTC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/878259/Neptronic-Ptc.html"
+  },
+  {
+   "manualId": "1346210",
+   "slug": "Neptronic-Sarb24th",
+   "title": "SARB24TG Installation Instructions And Specification",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "SARB24TG",
+   "extraModels": [
+    "SARB24TG",
+    "SARB24TGH",
+    "SARB24TGVH",
+    "SARB24TV"
+   ],
+   "url": "https://www.manualslib.com/manual/1346210/Neptronic-Sarb24th.html"
+  },
+  {
+   "manualId": "807336",
+   "slug": "Neptronic-Sk-Vap",
+   "title": "SK VAP Installation & Operation Instruction",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "SK VAP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/807336/Neptronic-Sk-Vap.html"
+  },
+  {
+   "manualId": "806184",
+   "slug": "Neptronic-Sk300-Series",
+   "title": "SK300 series Installation instructions & user manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "SK300 series",
+   "extraModels": [
+    "SK302",
+    "SK304",
+    "SK306",
+    "SK310",
+    "SK314",
+    "SK320",
+    "SK330",
+    "SK340",
+    "SK360"
+   ],
+   "url": "https://www.manualslib.com/manual/806184/Neptronic-Sk300-Series.html"
+  },
+  {
+   "manualId": "824002",
+   "slug": "Neptronic-Sk300-Series-Bacnet",
+   "title": "SK300 series Installation instructions & user manual",
+   "type": "Installation",
+   "pages": 43,
+   "productModel": "SK300 series",
+   "extraModels": [
+    "SK302",
+    "SK304",
+    "SK306",
+    "SK310",
+    "SK314",
+    "SK320",
+    "SK330",
+    "SK340",
+    "SK360"
+   ],
+   "url": "https://www.manualslib.com/manual/824002/Neptronic-Sk300-Series-Bacnet.html"
+  },
+  {
+   "manualId": "1026237",
+   "slug": "Neptronic-Sk300",
+   "title": "SK300 series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "SK300 series",
+   "extraModels": [
+    "SK302",
+    "SK304",
+    "SK306",
+    "SK310",
+    "SK314",
+    "SK320",
+    "SK330",
+    "SK340",
+    "SK360"
+   ],
+   "url": "https://www.manualslib.com/manual/1026237/Neptronic-Sk300.html"
+  },
+  {
+   "manualId": "1196414",
+   "slug": "Neptronic-Sk300-Series",
+   "title": "SK300 series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "SK300 series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1196414/Neptronic-Sk300-Series.html"
+  },
+  {
+   "manualId": "2609067",
+   "slug": "Neptronic-Sk300-Series",
+   "title": "SK300 series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "SK300 series",
+   "extraModels": [
+    "SK302",
+    "SK304",
+    "SK306",
+    "SK310",
+    "SK314",
+    "SK320",
+    "SK330",
+    "SK340",
+    "SK360"
+   ],
+   "url": "https://www.manualslib.com/manual/2609067/Neptronic-Sk300-Series.html"
+  },
+  {
+   "manualId": "2614446",
+   "slug": "Neptronic-Sk300-Series",
+   "title": "SK300 series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "SK300 series",
+   "extraModels": [
+    "SK302",
+    "SK304",
+    "SK306",
+    "SK310",
+    "SK314",
+    "SK320",
+    "SK330",
+    "SK340",
+    "SK360"
+   ],
+   "url": "https://www.manualslib.com/manual/2614446/Neptronic-Sk300-Series.html"
+  },
+  {
+   "manualId": "926780",
+   "slug": "Neptronic-Sk-300-Series",
+   "title": "SK300 series installation instructions manual",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "SK300 series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/926780/Neptronic-Sk-300-Series.html"
+  },
+  {
+   "manualId": "1343987",
+   "slug": "Neptronic-Sk330m",
+   "title": "SK300-XL Series installation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "SK300-XL Series",
+   "extraModels": [
+    "SK300-XL Series",
+    "SK340M",
+    "SK370M",
+    "SK380M",
+    "SK390M"
+   ],
+   "url": "https://www.manualslib.com/manual/1343987/Neptronic-Sk330m.html"
+  },
+  {
+   "manualId": "825463",
+   "slug": "Neptronic-Sk300-Xl-Series",
+   "title": "SK300-XL Series installation instructions manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "SK300-XL Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/825463/Neptronic-Sk300-Xl-Series.html"
+  },
+  {
+   "manualId": "651946",
+   "slug": "Neptronic-Skd-Series",
+   "title": "SKD Series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "SKD Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/651946/Neptronic-Skd-Series.html"
+  },
+  {
+   "manualId": "806894",
+   "slug": "Neptronic-Ske-Series",
+   "title": "SKE Installation instructions & user manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "SKE",
+   "extraModels": [
+    "SKE05",
+    "SKE10",
+    "SKE20",
+    "SKE30",
+    "SKE40",
+    "SKE50",
+    "SKE60",
+    "SKE80"
+   ],
+   "url": "https://www.manualslib.com/manual/806894/Neptronic-Ske-Series.html"
+  },
+  {
+   "manualId": "1300052",
+   "slug": "Neptronic-Ske-Series",
+   "title": "SKE SERIES Installation instructions & user manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "SKE SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1300052/Neptronic-Ske-Series.html"
+  },
+  {
+   "manualId": "727768",
+   "slug": "Neptronic-Ske",
+   "title": "SKE user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "SKE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/727768/Neptronic-Ske.html"
+  },
+  {
+   "manualId": "1300053",
+   "slug": "Neptronic-Ske90",
+   "title": "SKE-XL installation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "SKE-XL",
+   "extraModels": [
+    "SKE-XL",
+    "SKE-XL Series",
+    "SKE100",
+    "SKE110",
+    "SKE120"
+   ],
+   "url": "https://www.manualslib.com/manual/1300053/Neptronic-Ske90.html"
+  },
+  {
+   "manualId": "1300054",
+   "slug": "Neptronic-Ske05",
+   "title": "SKE05 Installation instructions & user manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "SKE05",
+   "extraModels": [
+    "SKE10",
+    "SKE20",
+    "SKE30",
+    "SKE40",
+    "SKE50",
+    "SKE60",
+    "SKE80"
+   ],
+   "url": "https://www.manualslib.com/manual/1300054/Neptronic-Ske05.html"
+  },
+  {
+   "manualId": "1360241",
+   "slug": "Neptronic-Ske90",
+   "title": "SKE100 installation instructions manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "SKE100",
+   "extraModels": [
+    "SKE100",
+    "SKE110",
+    "SKE120"
+   ],
+   "url": "https://www.manualslib.com/manual/1360241/Neptronic-Ske90.html"
+  },
+  {
+   "manualId": "1555016",
+   "slug": "Neptronic-Ske4-Series",
+   "title": "SKE4 series Integration manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "SKE4 series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1555016/Neptronic-Ske4-Series.html"
+  },
+  {
+   "manualId": "1519377",
+   "slug": "Neptronic-Ske4",
+   "title": "SKE4 series user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "SKE4 series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1519377/Neptronic-Ske4.html"
+  },
+  {
+   "manualId": "1417801",
+   "slug": "Neptronic-Ske4-N02",
+   "title": "SKE4-E Series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "SKE4-E Series",
+   "extraModels": [
+    "SKE4-E Series",
+    "SKE4-N04",
+    "SKE4-N06",
+    "SKE4-N10",
+    "SKE4-N14",
+    "SKE4-N16",
+    "SKE4-N20 L",
+    "SKE4-N30 X",
+    "SKE4-N40 X",
+    "SKE4-N50",
+    "SKE4-N60",
+    "SKE4-N70",
+    "SKE4-N80",
+    "SKE4-N90"
+   ],
+   "url": "https://www.manualslib.com/manual/1417801/Neptronic-Ske4-N02.html"
+  },
+  {
+   "manualId": "1843014",
+   "slug": "Neptronic-Ske4-E-Series",
+   "title": "SKE4-E Series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "SKE4-E Series",
+   "extraModels": [
+    "SKE4-E05",
+    "SKE4-E10",
+    "SKE4-E100",
+    "SKE4-E110",
+    "SKE4-E120",
+    "SKE4-E20",
+    "SKE4-E30",
+    "SKE4-E40",
+    "SKE4-E50",
+    "SKE4-E60",
+    "SKE4-E80",
+    "SKE4-E90"
+   ],
+   "url": "https://www.manualslib.com/manual/1843014/Neptronic-Ske4-E-Series.html"
+  },
+  {
+   "manualId": "4326609",
+   "slug": "Neptronic-Ske4-E-Series",
+   "title": "SKE4-E Series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "SKE4-E Series",
+   "extraModels": [
+    "SKE4-E05",
+    "SKE4-E10",
+    "SKE4-E100",
+    "SKE4-E110",
+    "SKE4-E120",
+    "SKE4-E20",
+    "SKE4-E30",
+    "SKE4-E40",
+    "SKE4-E50",
+    "SKE4-E60",
+    "SKE4-E80",
+    "SKE4-E90"
+   ],
+   "url": "https://www.manualslib.com/manual/4326609/Neptronic-Ske4-E-Series.html"
+  },
+  {
+   "manualId": "3681266",
+   "slug": "Neptronic-Ske4-E-Series",
+   "title": "SKE4-E Series Manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "SKE4-E Series",
+   "extraModels": [
+    "SKE4-E05",
+    "SKE4-E10",
+    "SKE4-E20",
+    "SKE4-E30",
+    "SKE4-E40",
+    "SKE4-E50",
+    "SKE4-E60",
+    "SKE4-E80"
+   ],
+   "url": "https://www.manualslib.com/manual/3681266/Neptronic-Ske4-E-Series.html"
+  },
+  {
+   "manualId": "2398033",
+   "slug": "Neptronic-Ske4-E05",
+   "title": "SKE4-E05 Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "SKE4-E05",
+   "extraModels": [
+    "SKE4-E10",
+    "SKE4-E100",
+    "SKE4-E110",
+    "SKE4-E120",
+    "SKE4-E20",
+    "SKE4-E30",
+    "SKE4-E40",
+    "SKE4-E50",
+    "SKE4-E60",
+    "SKE4-E80",
+    "SKE4-E90"
+   ],
+   "url": "https://www.manualslib.com/manual/2398033/Neptronic-Ske4-E05.html"
+  },
+  {
+   "manualId": "2399085",
+   "slug": "Neptronic-Ske4-N",
+   "title": "SKE4-E05 installation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "SKE4-E05",
+   "extraModels": [
+    "SKE4-E05",
+    "SKE4-E10",
+    "SKE4-E20",
+    "SKE4-E30",
+    "SKE4-E40"
+   ],
+   "url": "https://www.manualslib.com/manual/2399085/Neptronic-Ske4-N.html"
+  },
+  {
+   "manualId": "3713796",
+   "slug": "Neptronic-Ske4-N-Series",
+   "title": "SKE4-N Series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "SKE4-N Series",
+   "extraModels": [
+    "SKE4-N02",
+    "SKE4-N04",
+    "SKE4-N06",
+    "SKE4-N10",
+    "SKE4-N100",
+    "SKE4-N14",
+    "SKE4-N16",
+    "SKE4-N20 L",
+    "SKE4-N27",
+    "SKE4-N30 X",
+    "SKE4-N32",
+    "SKE4-N40 X",
+    "SKE4-N50",
+    "SKE4-N60",
+    "SKE4-N70",
+    "SKE4-N80",
+    "SKE4-N90"
+   ],
+   "url": "https://www.manualslib.com/manual/3713796/Neptronic-Ske4-N-Series.html"
+  },
+  {
+   "manualId": "1534883",
+   "slug": "Neptronic-Ske4-N",
+   "title": "SKE4-N Series installation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "SKE4-N Series",
+   "extraModels": [
+    "SKE4-N02",
+    "SKE4-N04",
+    "SKE4-N06",
+    "SKE4-N10",
+    "SKE4-N14",
+    "SKE4-N16",
+    "SKE4-N20 L",
+    "SKE4-N30 X"
+   ],
+   "url": "https://www.manualslib.com/manual/1534883/Neptronic-Ske4-N.html"
+  },
+  {
+   "manualId": "734734",
+   "slug": "Neptronic-Skg-Series",
+   "title": "SKG Series user manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "SKG Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/734734/Neptronic-Skg-Series.html"
+  },
+  {
+   "manualId": "2372414",
+   "slug": "Neptronic-Skg3-Series",
+   "title": "SKG3 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "SKG3 Series",
+   "extraModels": [
+    "SKG3-110-1 N/P",
+    "SKG3-155-1 N/P",
+    "SKG3-180-1 N/P",
+    "SKG3-210-1 N/P",
+    "SKG3-265-2 N/P",
+    "SKG3-310-2 N/P",
+    "SKG3-350-2 N/P",
+    "SKG3-405-2 N/P",
+    "SKG3-505-3 N/P",
+    "SKG3-560-3 N/P",
+    "SKG3-610-3 N/P",
+    "SKG3-710-4 N/P",
+    "SKG3-765-4 N/P",
+    "SKG3-810-4 N/P"
+   ],
+   "url": "https://www.manualslib.com/manual/2372414/Neptronic-Skg3-Series.html"
+  },
+  {
+   "manualId": "802483",
+   "slug": "Neptronic-Skg3-Series",
+   "title": "SKG3 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "SKG3 Series",
+   "extraModels": [
+    "SKG3-110-1 N",
+    "SKG3-110-1 P",
+    "SKG3-155-1 N",
+    "SKG3-155-1 P",
+    "SKG3-180-1 N",
+    "SKG3-180-1 P",
+    "SKG3-210-1 N",
+    "SKG3-210-1 P",
+    "SKG3-265-2 N",
+    "SKG3-265-2 P",
+    "SKG3-310-2 N",
+    "SKG3-310-2 P",
+    "SKG3-350-2 N",
+    "SKG3-350-2 P",
+    "SKG3-405-2 N",
+    "SKG3-405-2 P",
+    "SKG3-505-3 N",
+    "SKG3-505-3 P",
+    "SKG3-560-3 N",
+    "SKG3-560-3 P",
+    "SKG3-610-3 N",
+    "SKG3-610-3 P",
+    "SKG3-710-4 N",
+    "SKG3-710-4 P",
+    "SKG3-765-4 N",
+    "SKG3-765-4 P",
+    "SKG3-810-4 N",
+    "SKG3-810-4 P"
+   ],
+   "url": "https://www.manualslib.com/manual/802483/Neptronic-Skg3-Series.html"
+  },
+  {
+   "manualId": "804714",
+   "slug": "Neptronic-Skg3-Series",
+   "title": "SKG3 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "SKG3 Series",
+   "extraModels": [
+    "SKG3-110-1 N",
+    "SKG3-110-1 P",
+    "SKG3-155-1 N",
+    "SKG3-155-1 P",
+    "SKG3-180-1 N",
+    "SKG3-180-1 P",
+    "SKG3-210-1 N",
+    "SKG3-210-1 P",
+    "SKG3-265-2 N",
+    "SKG3-265-2 P",
+    "SKG3-310-2 N",
+    "SKG3-310-2 P",
+    "SKG3-350-2 N",
+    "SKG3-350-2 P",
+    "SKG3-405-2 N",
+    "SKG3-405-2 P",
+    "SKG3-505-3 N",
+    "SKG3-505-3 P",
+    "SKG3-560-3 N",
+    "SKG3-560-3 P",
+    "SKG3-610-3 N",
+    "SKG3-610-3 P",
+    "SKG3-710-4 N",
+    "SKG3-710-4 P",
+    "SKG3-765-4 N",
+    "SKG3-765-4 P",
+    "SKG3-810-4 N",
+    "SKG3-810-4 P"
+   ],
+   "url": "https://www.manualslib.com/manual/804714/Neptronic-Skg3-Series.html"
+  },
+  {
+   "manualId": "1372981",
+   "slug": "Neptronic-Skg3-110-1-N-P",
+   "title": "SKG3-110-1 N/P Installation instructions and owner's manuals",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "SKG3-110-1 N/P",
+   "extraModels": [
+    "SKG3-155-1 N/P",
+    "SKG3-180-1 N/P",
+    "SKG3-210-1 N/P",
+    "SKG3-265-2 N/P",
+    "SKG3-310-2 N/P",
+    "SKG3-350-2 N/P",
+    "SKG3-405-2 N/P",
+    "SKG3-505-3 N/P",
+    "SKG3-560-3 N/P",
+    "SKG3-610-3 N/P",
+    "SKG3-710-4 N/P",
+    "SKG3-765-4 N/P",
+    "SKG3-810-4 N/P"
+   ],
+   "url": "https://www.manualslib.com/manual/1372981/Neptronic-Skg3-110-1-N-P.html"
+  },
+  {
+   "manualId": "2398480",
+   "slug": "Neptronic-Skg4-E-Series",
+   "title": "SKG4-E Series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "SKG4-E Series",
+   "extraModels": [
+    "SKG4-E0501 N/P",
+    "SKG4-E0701 N/P",
+    "SKG4-E0801 N/P",
+    "SKG4-E1001 N/P",
+    "SKG4-E1202 N/P",
+    "SKG4-E1502 N/P",
+    "SKG4-E1702 N/P",
+    "SKG4-E2002 N/P",
+    "SKG4-E2503 N/P",
+    "SKG4-E2703 N/P",
+    "SKG4-E3003 N/P",
+    "SKG4-E3504 N/P",
+    "SKG4-E3704 N/P",
+    "SKG4-E4004 N/P"
+   ],
+   "url": "https://www.manualslib.com/manual/2398480/Neptronic-Skg4-E-Series.html"
+  },
+  {
+   "manualId": "3248021",
+   "slug": "Neptronic-Skg4-E-Series",
+   "title": "SKG4-E Series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "SKG4-E Series",
+   "extraModels": [
+    "SKG4-E0501 N/P",
+    "SKG4-E0701 N/P",
+    "SKG4-E0801 N/P",
+    "SKG4-E1001 N/P",
+    "SKG4-E1202 N/P",
+    "SKG4-E1502 N/P",
+    "SKG4-E1702 N/P",
+    "SKG4-E2002 N/P",
+    "SKG4-E2503 N/P",
+    "SKG4-E2703 N/P",
+    "SKG4-E3003 N/P",
+    "SKG4-E3504 N/P",
+    "SKG4-E3704 N/P",
+    "SKG4-E4004 N/P"
+   ],
+   "url": "https://www.manualslib.com/manual/3248021/Neptronic-Skg4-E-Series.html"
+  },
+  {
+   "manualId": "2266330",
+   "slug": "Neptronic-Skg4-E",
+   "title": "SKG4-E Series Startup Procedure",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "SKG4-E Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2266330/Neptronic-Skg4-E.html"
+  },
+  {
+   "manualId": "1477819",
+   "slug": "Neptronic-Skg4-N1101",
+   "title": "SKG4-N Series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "SKG4-N Series",
+   "extraModels": [
+    "SKG4-N1551 N/P",
+    "SKG4-N1801 N/P",
+    "SKG4-N2101 N/P",
+    "SKG4-N2652 N/P",
+    "SKG4-N3102 N/P",
+    "SKG4-N3502 N/P",
+    "SKG4-N4052 N/P",
+    "SKG4-N5053 N/P",
+    "SKG4-N5603 N/P",
+    "SKG4-N6103 N/P",
+    "SKG4-N7104 N/P",
+    "SKG4-N7654 N/P",
+    "SKG4-N8104 N/P"
+   ],
+   "url": "https://www.manualslib.com/manual/1477819/Neptronic-Skg4-N1101.html"
+  },
+  {
+   "manualId": "1747313",
+   "slug": "Neptronic-Skg4-N",
+   "title": "SKG4-N Series Startup Procedure",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "SKG4-N Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1747313/Neptronic-Skg4-N.html"
+  },
+  {
+   "manualId": "1300056",
+   "slug": "Neptronic-Skge3-Series",
+   "title": "SKGE3 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "SKGE3 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1300056/Neptronic-Skge3-Series.html"
+  },
+  {
+   "manualId": "2495050",
+   "slug": "Neptronic-Skge3-Series",
+   "title": "SKGE3 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "SKGE3 Series",
+   "extraModels": [
+    "SKGE3-0501",
+    "SKGE3-0701",
+    "SKGE3-0801",
+    "SKGE3-1001",
+    "SKGE3-1202",
+    "SKGE3-1502",
+    "SKGE3-1702",
+    "SKGE3-2002",
+    "SKGE3-2503",
+    "SKGE3-2703",
+    "SKGE3-3003",
+    "SKGE3-3504",
+    "SKGE3-3704",
+    "SKGE3-4004"
+   ],
+   "url": "https://www.manualslib.com/manual/2495050/Neptronic-Skge3-Series.html"
+  },
+  {
+   "manualId": "806662",
+   "slug": "Neptronic-Skge3-Series",
+   "title": "SKGE3 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "SKGE3 Series",
+   "extraModels": [
+    "SKGE3-0501",
+    "SKGE3-0701",
+    "SKGE3-0801",
+    "SKGE3-1001",
+    "SKGE3-1202",
+    "SKGE3-1502",
+    "SKGE3-1702",
+    "SKGE3-2002",
+    "SKGE3-2503",
+    "SKGE3-2703",
+    "SKGE3-3003",
+    "SKGE3-3504",
+    "SKGE3-3704",
+    "SKGE3-4004"
+   ],
+   "url": "https://www.manualslib.com/manual/806662/Neptronic-Skge3-Series.html"
+  },
+  {
+   "manualId": "807032",
+   "slug": "Neptronic-Skge3-Series",
+   "title": "SKGE3 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "SKGE3 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/807032/Neptronic-Skge3-Series.html"
+  },
+  {
+   "manualId": "2100746",
+   "slug": "Neptronic-Skh-Series",
+   "title": "SKH Series user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "SKH Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2100746/Neptronic-Skh-Series.html"
+  },
+  {
+   "manualId": "3379353",
+   "slug": "Neptronic-Skh4",
+   "title": "SKH4 Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "SKH4",
+   "extraModels": [
+    "SKH4-N0140S-M",
+    "SKH4-N021B",
+    "SKH4-N0225S-M",
+    "SKH4-N0280S-M",
+    "SKH4-N050B",
+    "SKH4-N062S",
+    "SKH4-N062S-M",
+    "SKH4-N100B",
+    "SKH4-N140S",
+    "SKH4-N175B",
+    "SKH4-N225S",
+    "SKH4-N280S",
+    "SKH4-N300B"
+   ],
+   "url": "https://www.manualslib.com/manual/3379353/Neptronic-Skh4.html"
+  },
+  {
+   "manualId": "3379364",
+   "slug": "Neptronic-Skh4",
+   "title": "SKH4 Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "SKH4",
+   "extraModels": [
+    "SKH4-E008B",
+    "SKH4-E010B-M",
+    "SKH4-E018B",
+    "SKH4-E022B-M",
+    "SKH4-E037B",
+    "SKH4-E045B-M",
+    "SKH4-E070B",
+    "SKH4-E085B-M",
+    "SKH4-E104B",
+    "SKH4-E125B-M"
+   ],
+   "url": "https://www.manualslib.com/manual/3379364/Neptronic-Skh4.html"
+  },
+  {
+   "manualId": "3483007",
+   "slug": "Neptronic-Skh4",
+   "title": "SKH4 installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "SKH4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3483007/Neptronic-Skh4.html"
+  },
+  {
+   "manualId": "3483013",
+   "slug": "Neptronic-Skh4",
+   "title": "SKH4 manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "SKH4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3483013/Neptronic-Skh4.html"
+  },
+  {
+   "manualId": "3394468",
+   "slug": "Neptronic-Skh4",
+   "title": "SKH4 user manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "SKH4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3394468/Neptronic-Skh4.html"
+  },
+  {
+   "manualId": "3650140",
+   "slug": "Neptronic-Skh4",
+   "title": "SKH4 user manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "SKH4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3650140/Neptronic-Skh4.html"
+  },
+  {
+   "manualId": "3560348",
+   "slug": "Neptronic-Skr-Series",
+   "title": "SKR Series Installation instructions & user manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "SKR Series",
+   "extraModels": [
+    "SKR3E",
+    "SKR4E",
+    "SKR5E"
+   ],
+   "url": "https://www.manualslib.com/manual/3560348/Neptronic-Skr-Series.html"
+  },
+  {
+   "manualId": "803907",
+   "slug": "Neptronic-Skr-Series",
+   "title": "SKR Series Installation instructions & user manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "SKR Series",
+   "extraModels": [
+    "SKR-14 CASA",
+    "SKR-25 VILLA",
+    "SKR-30 CHATEAU",
+    "SKR-40 BELVEDERE"
+   ],
+   "url": "https://www.manualslib.com/manual/803907/Neptronic-Skr-Series.html"
+  },
+  {
+   "manualId": "861083",
+   "slug": "Neptronic-Skr-Series",
+   "title": "SKR Series Installation instructions & user manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "SKR Series",
+   "extraModels": [
+    "SKR3E",
+    "SKR4E",
+    "SKR5E"
+   ],
+   "url": "https://www.manualslib.com/manual/861083/Neptronic-Skr-Series.html"
+  },
+  {
+   "manualId": "1274115",
+   "slug": "Neptronic-Skr-14-Casa",
+   "title": "SKR-14 CASA Installation instructions & user manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "SKR-14 CASA",
+   "extraModels": [
+    "SKR-30 CHATEAU",
+    "SKR-40 BELVEDERE"
+   ],
+   "url": "https://www.manualslib.com/manual/1274115/Neptronic-Skr-14-Casa.html"
+  },
+  {
+   "manualId": "3842648",
+   "slug": "Neptronic-Skr-25-Villa",
+   "title": "SKR-25 VILLA Installation instructions & user manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "SKR-25 VILLA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3842648/Neptronic-Skr-25-Villa.html"
+  },
+  {
+   "manualId": "1274114",
+   "slug": "Neptronic-Skr3e",
+   "title": "SKR3E Installation instructions & user manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "SKR3E",
+   "extraModels": [
+    "SKR4E",
+    "SKR5E"
+   ],
+   "url": "https://www.manualslib.com/manual/1274114/Neptronic-Skr3e.html"
+  },
+  {
+   "manualId": "887806",
+   "slug": "Neptronic-Skr3e",
+   "title": "SKR3E Installation instructions & user manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "SKR3E",
+   "extraModels": [
+    "SKR4E",
+    "SKR5E"
+   ],
+   "url": "https://www.manualslib.com/manual/887806/Neptronic-Skr3e.html"
+  },
+  {
+   "manualId": "4026994",
+   "slug": "Neptronic-Skro",
+   "title": "SKRO Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "SKRO",
+   "extraModels": [
+    "SKRON012",
+    "SKRON022",
+    "SKRON023",
+    "SKRON046",
+    "SKRON091",
+    "SKRON137",
+    "SKRON205"
+   ],
+   "url": "https://www.manualslib.com/manual/4026994/Neptronic-Skro.html"
+  },
+  {
+   "manualId": "4100109",
+   "slug": "Neptronic-Skro",
+   "title": "SKRO user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "SKRO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4100109/Neptronic-Skro.html"
+  },
+  {
+   "manualId": "1372984",
+   "slug": "Neptronic-Sks-100-Slp",
+   "title": "SKS-100-SLP Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "SKS-100-SLP",
+   "extraModels": [
+    "SKS-110-CLP",
+    "SKS-1250-SLP",
+    "SKS-130-SLP",
+    "SKS-190-SLP",
+    "SKS-220-CLP",
+    "SKS-290-SLP",
+    "SKS-390-SLP",
+    "SKS-500-SLP",
+    "SKS-65-CLP",
+    "SKS-690-SLP",
+    "SKS-950-SLP"
+   ],
+   "url": "https://www.manualslib.com/manual/1372984/Neptronic-Sks-100-Slp.html"
+  },
+  {
+   "manualId": "2397758",
+   "slug": "Neptronic-Sks-100-Slp",
+   "title": "SKS-100-SLP Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "SKS-100-SLP",
+   "extraModels": [
+    "SKS-1250-SLP",
+    "SKS-130-SLP",
+    "SKS-190-SLP",
+    "SKS-200-CHP",
+    "SKS-290-SLP",
+    "SKS-333-CHP",
+    "SKS-390-SLP",
+    "SKS-500-SLP",
+    "SKS-667-CHP",
+    "SKS-690-SLP",
+    "SKS-950-SLP"
+   ],
+   "url": "https://www.manualslib.com/manual/2397758/Neptronic-Sks-100-Slp.html"
+  },
+  {
+   "manualId": "1726480",
+   "slug": "Neptronic-Sks4-Modbus",
+   "title": "SKS4 Modbus user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "SKS4 Modbus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1726480/Neptronic-Sks4-Modbus.html"
+  },
+  {
+   "manualId": "1455181",
+   "slug": "Neptronic-Sks4-100-Slp",
+   "title": "SKS4 Series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "SKS4 Series",
+   "extraModels": [
+    "SKS4-1250-SLP",
+    "SKS4-130-SLP",
+    "SKS4-190-SLP",
+    "SKS4-290-SLP",
+    "SKS4-390-SLP",
+    "SKS4-500-SLP",
+    "SKS4-690-SLP",
+    "SKS4-950-SLP"
+   ],
+   "url": "https://www.manualslib.com/manual/1455181/Neptronic-Sks4-100-Slp.html"
+  },
+  {
+   "manualId": "4127617",
+   "slug": "Neptronic-Sks4-Series",
+   "title": "SKS4 Series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "SKS4 Series",
+   "extraModels": [
+    "SKS4-050-SLP",
+    "SKS4-100-SLP",
+    "SKS4-1250-SLP",
+    "SKS4-130-SLP",
+    "SKS4-190-SLP",
+    "SKS4-290-SLP",
+    "SKS4-390-SLP",
+    "SKS4-500-SLP",
+    "SKS4-690-SLP",
+    "SKS4-950-SLP"
+   ],
+   "url": "https://www.manualslib.com/manual/4127617/Neptronic-Sks4-Series.html"
+  },
+  {
+   "manualId": "1726477",
+   "slug": "Neptronic-Sks4",
+   "title": "SKS4 Series Startup Procedure",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "SKS4 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1726477/Neptronic-Sks4.html"
+  },
+  {
+   "manualId": "1477250",
+   "slug": "Neptronic-Sks4",
+   "title": "SKS4 Series user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "SKS4 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1477250/Neptronic-Sks4.html"
+  },
+  {
+   "manualId": "714555",
+   "slug": "Neptronic-Skv-Series",
+   "title": "SKV Series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "SKV Series",
+   "extraModels": [
+    "SKVD",
+    "SKVD Series",
+    "SKVR",
+    "SKVR Series"
+   ],
+   "url": "https://www.manualslib.com/manual/714555/Neptronic-Skv-Series.html"
+  },
+  {
+   "manualId": "1449283",
+   "slug": "Neptronic-Skv",
+   "title": "SKV user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "SKV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1449283/Neptronic-Skv.html"
+  },
+  {
+   "manualId": "2417519",
+   "slug": "Neptronic-Skvf-Series",
+   "title": "SKVF 15 Series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "SKVF 15 Series",
+   "extraModels": [
+    "SKVF 15 Series",
+    "SKVF 30 Series",
+    "SKVF 60 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2417519/Neptronic-Skvf-Series.html"
+  },
+  {
+   "manualId": "4228963",
+   "slug": "Neptronic-Skvf-Series",
+   "title": "SKVF Series User'smanual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "SKVF Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4228963/Neptronic-Skvf-Series.html"
+  },
+  {
+   "manualId": "1163490",
+   "slug": "Neptronic-Tma54-Ext1",
+   "title": "Specification & installation instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1163490/Neptronic-Tma54-Ext1.html"
+  },
+  {
+   "manualId": "1582813",
+   "slug": "Neptronic-Bt100s",
+   "title": "Specification & installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1582813/Neptronic-Bt100s.html"
+  },
+  {
+   "manualId": "1582816",
+   "slug": "Neptronic-Bbthv1100a",
+   "title": "Specification & installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1582816/Neptronic-Bbthv1100a.html"
+  },
+  {
+   "manualId": "1611104",
+   "slug": "Neptronic-Bm000s",
+   "title": "Specification & Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1611104/Neptronic-Bm000s.html"
+  },
+  {
+   "manualId": "1612397",
+   "slug": "Neptronic-Bt000",
+   "title": "Specification & installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1612397/Neptronic-Bt000.html"
+  },
+  {
+   "manualId": "2343865",
+   "slug": "Neptronic-Lt060x11",
+   "title": "Specification & installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2343865/Neptronic-Lt060x11.html"
+  },
+  {
+   "manualId": "2877074",
+   "slug": "Neptronic-Dts",
+   "title": "Specification & installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2877074/Neptronic-Dts.html"
+  },
+  {
+   "manualId": "2898094",
+   "slug": "Neptronic-Bt000f",
+   "title": "Specification & installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2898094/Neptronic-Bt000f.html"
+  },
+  {
+   "manualId": "2919911",
+   "slug": "Neptronic-Tm000n",
+   "title": "Specification & installation instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2919911/Neptronic-Tm000n.html"
+  },
+  {
+   "manualId": "2919914",
+   "slug": "Neptronic-Tm200fn",
+   "title": "Specification & installation instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2919914/Neptronic-Tm200fn.html"
+  },
+  {
+   "manualId": "3060181",
+   "slug": "Neptronic-Bm200s",
+   "title": "Specification & installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3060181/Neptronic-Bm200s.html"
+  },
+  {
+   "manualId": "3537433",
+   "slug": "Neptronic-Bt800s",
+   "title": "Specification & installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3537433/Neptronic-Bt800s.html"
+  },
+  {
+   "manualId": "4598040",
+   "slug": "Neptronic-Tm300",
+   "title": "Specification & installation instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4598040/Neptronic-Tm300.html"
+  },
+  {
+   "manualId": "1437857",
+   "slug": "Neptronic-Sar24gh",
+   "title": "Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1437857/Neptronic-Sar24gh.html"
+  },
+  {
+   "manualId": "1443705",
+   "slug": "Neptronic-Hrc20",
+   "title": "Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1443705/Neptronic-Hrc20.html"
+  },
+  {
+   "manualId": "1443706",
+   "slug": "Neptronic-Shs20",
+   "title": "Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1443706/Neptronic-Shs20.html"
+  },
+  {
+   "manualId": "1447468",
+   "slug": "Neptronic-Rm020fn",
+   "title": "Specification and installation instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1447468/Neptronic-Rm020fn.html"
+  },
+  {
+   "manualId": "1647418",
+   "slug": "Neptronic-Spc",
+   "title": "Specification and installation instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1647418/Neptronic-Spc.html"
+  },
+  {
+   "manualId": "2877599",
+   "slug": "Neptronic-Imc10",
+   "title": "Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2877599/Neptronic-Imc10.html"
+  },
+  {
+   "manualId": "4050945",
+   "slug": "Neptronic-Bt260",
+   "title": "Specification and installation instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4050945/Neptronic-Bt260.html"
+  },
+  {
+   "manualId": "4602272",
+   "slug": "Neptronic-Bm000s-Oe1",
+   "title": "Specification and installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4602272/Neptronic-Bm000s-Oe1.html"
+  },
+  {
+   "manualId": "759480",
+   "slug": "Neptronic-Tfcb24f3xyz1",
+   "title": "TFCB24F3XY2 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "TFCB24F3XY2",
+   "extraModels": [
+    "TFCB24F3XY2",
+    "TFCB24P3-OE1",
+    "TFHB24F3XYZ1",
+    "TFHB24F3XYZ2",
+    "TFHB24P3-OE1",
+    "TFHB24P3-OE2"
+   ],
+   "url": "https://www.manualslib.com/manual/759480/Neptronic-Tfcb24f3xyz1.html"
+  },
+  {
+   "manualId": "1568489",
+   "slug": "Neptronic-Tfcb24f3xyz1",
+   "title": "TFCB24F3XYZ1 Specification and installation instructions",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "TFCB24F3XYZ1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1568489/Neptronic-Tfcb24f3xyz1.html"
+  },
+  {
+   "manualId": "2263357",
+   "slug": "Neptronic-Tfhb24f3xyz1",
+   "title": "TFHB24F3XYZ1 Specification and installation instructions",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "TFHB24F3XYZ1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2263357/Neptronic-Tfhb24f3xyz1.html"
+  },
+  {
+   "manualId": "1280611",
+   "slug": "Neptronic-Tfl24",
+   "title": "TFL24 Specification & installation instructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "TFL24",
+   "extraModels": [
+    "TFL25"
+   ],
+   "url": "https://www.manualslib.com/manual/1280611/Neptronic-Tfl24.html"
+  },
+  {
+   "manualId": "1424493",
+   "slug": "Neptronic-Trl54",
+   "title": "TRL54 Installation instructions manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "TRL54",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1424493/Neptronic-Trl54.html"
+  },
+  {
+   "manualId": "1084845",
+   "slug": "Neptronic-Tro24-Ext1",
+   "title": "TRO24-EXT1 installation instructions manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "TRO24-EXT1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1084845/Neptronic-Tro24-Ext1.html"
+  },
+  {
+   "manualId": "1115955",
+   "slug": "Neptronic-Tro24t4xyz3",
+   "title": "TRO24T4XYZ3 Specification & installation instructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "TRO24T4XYZ3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1115955/Neptronic-Tro24t4xyz3.html"
+  },
+  {
+   "manualId": "728052",
+   "slug": "Neptronic-Trob24-Series",
+   "title": "TROB24 Series user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "TROB24 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/728052/Neptronic-Trob24-Series.html"
+  },
+  {
+   "manualId": "1327634",
+   "slug": "Neptronic-Trt2422",
+   "title": "TRT2422 Specification and installation instructions",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "TRT2422",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1327634/Neptronic-Trt2422.html"
+  },
+  {
+   "manualId": "1837119",
+   "slug": "Neptronic-Tsu00-Series",
+   "title": "TSU00 Series Specification and installation instructions",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "TSU00 Series",
+   "extraModels": [
+    "TSU00-110",
+    "TSU00-111",
+    "TSU00-114",
+    "TSU00-115"
+   ],
+   "url": "https://www.manualslib.com/manual/1837119/Neptronic-Tsu00-Series.html"
+  },
+  {
+   "manualId": "4028462",
+   "slug": "Neptronic-Tsub-Series",
+   "title": "TSUB Series user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "TSUB Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4028462/Neptronic-Tsub-Series.html"
+  },
+  {
+   "manualId": "1610248",
+   "slug": "Neptronic-Tucb-Series",
+   "title": "TUCB Series user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "TUCB Series",
+   "extraModels": [
+    "TUCB24C6X2",
+    "TUHB Series",
+    "TUHB24C6X2"
+   ],
+   "url": "https://www.manualslib.com/manual/1610248/Neptronic-Tucb-Series.html"
+  },
+  {
+   "manualId": "1180168",
+   "slug": "Neptronic-Tucb24c6x2",
+   "title": "TUCB24C6X2 installation instructions manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "TUCB24C6X2",
+   "extraModels": [
+    "TUHB24C6X2"
+   ],
+   "url": "https://www.manualslib.com/manual/1180168/Neptronic-Tucb24c6x2.html"
+  },
+  {
+   "manualId": "1134461",
+   "slug": "Neptronic-Tucb24c6x2",
+   "title": "TUCB24C6X2 user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "TUCB24C6X2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1134461/Neptronic-Tucb24c6x2.html"
+  },
+  {
+   "manualId": "1182436",
+   "slug": "Neptronic-Tucb24c6x2",
+   "title": "TUCB24C6X2 user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "TUCB24C6X2",
+   "extraModels": [
+    "TUHB24C6X2"
+   ],
+   "url": "https://www.manualslib.com/manual/1182436/Neptronic-Tucb24c6x2.html"
+  },
+  {
+   "manualId": "4069448",
+   "slug": "Neptronic-Tuub-Series",
+   "title": "TUUB Series user manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "TUUB Series",
+   "extraModels": [
+    "TUUB00-200",
+    "TUUB00-201",
+    "TUUB00-202",
+    "TUUB00-203",
+    "TUUB00-204",
+    "TUUB00-205",
+    "TUUB00-206",
+    "TUUB00-207",
+    "TUUB30-200",
+    "TUUB30-201",
+    "TUUB30-202",
+    "TUUB30-203",
+    "TUUB30-204",
+    "TUUB30-205",
+    "TUUB30-206",
+    "TUUB30-207",
+    "TUUB60-200",
+    "TUUB60-201",
+    "TUUB60-202",
+    "TUUB60-203",
+    "TUUB60-204",
+    "TUUB60-205",
+    "TUUB60-206",
+    "TUUB60-207"
+   ],
+   "url": "https://www.manualslib.com/manual/4069448/Neptronic-Tuub-Series.html"
+  },
+  {
+   "manualId": "1283538",
+   "slug": "Neptronic-Cmmb1322",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1283538/Neptronic-Cmmb1322.html"
+  },
+  {
+   "manualId": "2782182",
+   "slug": "Neptronic-Wp-Series",
+   "title": "WP Series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "WP Series",
+   "extraModels": [
+    "WP25211",
+    "WP25212",
+    "WP25213"
+   ],
+   "url": "https://www.manualslib.com/manual/2782182/Neptronic-Wp-Series.html"
+  },
+  {
+   "manualId": "2782171",
+   "slug": "Neptronic-Wp440l-Series",
+   "title": "WP440L Series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "WP440L Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2782171/Neptronic-Wp440l-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "neptronic"
+ ]
+}

@@ -1,0 +1,1310 @@
+{
+ "brand": "UTICA BOILERS",
+ "brandSlug": "utica-boilers",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/utica-boilers/"
+ ],
+ "slugUsed": "utica-boilers",
+ "capturedAt": "2026-10-28T09:33:52.076382+00:00",
+ "typePages": [
+  {
+   "path": "/brand/utica-boilers/boiler.html",
+   "manuals": 429,
+   "status": 200
+  },
+  {
+   "path": "/brand/utica-boilers/boiler-supplies.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/utica-boilers/gas-boilers.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/utica-boilers/power-screwdriver.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/utica-boilers/power-tool.html",
+   "manuals": 17,
+   "status": 200
+  },
+  {
+   "path": "/brand/utica-boilers/transceiver.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/utica-boilers/water-boilers.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1024487",
+   "slug": "Utica-Boilers-Ub90-50",
+   "title": "4 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "4 Series",
+   "extraModels": [
+    "4 Series",
+    "UB90-100",
+    "UB90-75"
+   ],
+   "url": "https://www.manualslib.com/manual/1024487/Utica-Boilers-Ub90-50.html"
+  },
+  {
+   "manualId": "4207493",
+   "slug": "Utica-Boilers-650",
+   "title": "650 instruction manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "650",
+   "extraModels": [
+    "V650"
+   ],
+   "url": "https://www.manualslib.com/manual/4207493/Utica-Boilers-650.html"
+  },
+  {
+   "manualId": "1047495",
+   "slug": "Utica-Boilers-95m-200",
+   "title": "95M-200 Control manual and troubleshooting manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "95M-200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1047495/Utica-Boilers-95m-200.html"
+  },
+  {
+   "manualId": "975939",
+   "slug": "Utica-Boilers-95m-200",
+   "title": "95M-200 quick manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "95M-200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/975939/Utica-Boilers-95m-200.html"
+  },
+  {
+   "manualId": "4647531",
+   "slug": "Utica-Boilers-Aluminum-Ub90-Series",
+   "title": "Addendum",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4647531/Utica-Boilers-Aluminum-Ub90-Series.html"
+  },
+  {
+   "manualId": "1482010",
+   "slug": "Utica-Boilers-Trifire",
+   "title": "Assembly & instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1482010/Utica-Boilers-Trifire.html"
+  },
+  {
+   "manualId": "1447644",
+   "slug": "Utica-Boilers-Trifire",
+   "title": "Assembly instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1447644/Utica-Boilers-Trifire.html"
+  },
+  {
+   "manualId": "3049607",
+   "slug": "Utica-Boilers-Trifire",
+   "title": "Assembly instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3049607/Utica-Boilers-Trifire.html"
+  },
+  {
+   "manualId": "1058542",
+   "slug": "Utica-Boilers-Bc3d",
+   "title": "BC3 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "BC3",
+   "extraModels": [
+    "BC4",
+    "BC4D"
+   ],
+   "url": "https://www.manualslib.com/manual/1058542/Utica-Boilers-Bc3d.html"
+  },
+  {
+   "manualId": "1067055",
+   "slug": "Utica-Boilers-Bc3095",
+   "title": "BC3095 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "BC3095",
+   "extraModels": [
+    "BC4100",
+    "BC4115"
+   ],
+   "url": "https://www.manualslib.com/manual/1067055/Utica-Boilers-Bc3095.html"
+  },
+  {
+   "manualId": "3408502",
+   "slug": "Utica-Boilers-Ccb-150",
+   "title": "CCB-150 instruction manual",
+   "type": "User / Owner",
+   "pages": 73,
+   "productModel": "CCB-150",
+   "extraModels": [
+    "CHB-100",
+    "CHB-130"
+   ],
+   "url": "https://www.manualslib.com/manual/3408502/Utica-Boilers-Ccb-150.html"
+  },
+  {
+   "manualId": "1612085",
+   "slug": "Utica-Boilers-Chb-100",
+   "title": "CCB-150 instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "CCB-150",
+   "extraModels": [
+    "CCB-150",
+    "CHB-130"
+   ],
+   "url": "https://www.manualslib.com/manual/1612085/Utica-Boilers-Chb-100.html"
+  },
+  {
+   "manualId": "1035504",
+   "slug": "Utica-Boilers-Dv",
+   "title": "DV User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "DV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1035504/Utica-Boilers-Dv.html"
+  },
+  {
+   "manualId": "1276538",
+   "slug": "Utica-Boilers-Dvb-50",
+   "title": "DVB-100 Installation, operation & maintanance manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "DVB-100",
+   "extraModels": [
+    "DVB-100",
+    "DVB-125",
+    "DVB-150",
+    "DVB-200"
+   ],
+   "url": "https://www.manualslib.com/manual/1276538/Utica-Boilers-Dvb-50.html"
+  },
+  {
+   "manualId": "185532",
+   "slug": "Utica-Boilers-Gas-Fired-Boiler",
+   "title": "Gas-fired Boiler operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Gas-fired Boiler",
+   "extraModels": [
+    "MGB 100",
+    "MGB 125",
+    "MGB 150",
+    "MGB 175",
+    "MGB 200",
+    "MGB 225",
+    "MGB 275",
+    "MGB 300",
+    "MGB 38",
+    "MGB 50",
+    "MGB 75"
+   ],
+   "url": "https://www.manualslib.com/manual/185532/Utica-Boilers-Gas-Fired-Boiler.html"
+  },
+  {
+   "manualId": "1410769",
+   "slug": "Utica-Boilers-Tci-150ra-Series",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1410769/Utica-Boilers-Tci-150ra-Series.html"
+  },
+  {
+   "manualId": "3408518",
+   "slug": "Utica-Boilers-550003450",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3408518/Utica-Boilers-550003450.html"
+  },
+  {
+   "manualId": "3744696",
+   "slug": "Utica-Boilers-550003247",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3744696/Utica-Boilers-550003247.html"
+  },
+  {
+   "manualId": "2285000",
+   "slug": "Utica-Boilers-Mac-150",
+   "title": "MAC-150 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "MAC-150",
+   "extraModels": [
+    "MAH-125"
+   ],
+   "url": "https://www.manualslib.com/manual/2285000/Utica-Boilers-Mac-150.html"
+  },
+  {
+   "manualId": "1402947",
+   "slug": "Utica-Boilers-Mah-125",
+   "title": "MAC-150 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 116,
+   "productModel": "MAC-150",
+   "extraModels": [
+    "MAC-150",
+    "MAC-205",
+    "MAH-165"
+   ],
+   "url": "https://www.manualslib.com/manual/1402947/Utica-Boilers-Mah-125.html"
+  },
+  {
+   "manualId": "2359156",
+   "slug": "Utica-Boilers-Mac-205",
+   "title": "MAC-150 User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "MAC-150",
+   "extraModels": [
+    "MAC-150",
+    "MAH-125",
+    "MAH-165"
+   ],
+   "url": "https://www.manualslib.com/manual/2359156/Utica-Boilers-Mac-205.html"
+  },
+  {
+   "manualId": "2680201",
+   "slug": "Utica-Boilers-Macf-150",
+   "title": "MAC-150 User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "MAC-150",
+   "extraModels": [
+    "MAC-150",
+    "MAC-205",
+    "MAH-125",
+    "MAH-165",
+    "MAHF-125"
+   ],
+   "url": "https://www.manualslib.com/manual/2680201/Utica-Boilers-Macf-150.html"
+  },
+  {
+   "manualId": "3066162",
+   "slug": "Utica-Boilers-Mahf-75",
+   "title": "MACF-115 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 139,
+   "productModel": "MACF-115",
+   "extraModels": [
+    "MACF-115",
+    "MACF-150",
+    "MACF-205",
+    "MAHF-100",
+    "MAHF-125",
+    "MAHF-165"
+   ],
+   "url": "https://www.manualslib.com/manual/3066162/Utica-Boilers-Mahf-75.html"
+  },
+  {
+   "manualId": "2359366",
+   "slug": "Utica-Boilers-Mahf-100",
+   "title": "MACF-115 Manual",
+   "type": "Other",
+   "pages": 139,
+   "productModel": "MACF-115",
+   "extraModels": [
+    "MACF-115",
+    "MACF-150",
+    "MACF-205",
+    "MAHF-125",
+    "MAHF-165"
+   ],
+   "url": "https://www.manualslib.com/manual/2359366/Utica-Boilers-Mahf-100.html"
+  },
+  {
+   "manualId": "1609511",
+   "slug": "Utica-Boilers-Mahf-125",
+   "title": "MACF-150 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "MACF-150",
+   "extraModels": [
+    "MACF-150"
+   ],
+   "url": "https://www.manualslib.com/manual/1609511/Utica-Boilers-Mahf-125.html"
+  },
+  {
+   "manualId": "2358832",
+   "slug": "Utica-Boilers-Mahf-165",
+   "title": "MACF-150 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 118,
+   "productModel": "MACF-150",
+   "extraModels": [
+    "MACF-150",
+    "MACF-205",
+    "MAHF-125"
+   ],
+   "url": "https://www.manualslib.com/manual/2358832/Utica-Boilers-Mahf-165.html"
+  },
+  {
+   "manualId": "861182",
+   "slug": "Utica-Boilers-Magb",
+   "title": "MAGB Installation manual and operating instructions",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "MAGB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/861182/Utica-Boilers-Magb.html"
+  },
+  {
+   "manualId": "3460897",
+   "slug": "Utica-Boilers-Magb-Series",
+   "title": "MAGB Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "MAGB Series",
+   "extraModels": [
+    "MAGB1000",
+    "MAGB1200",
+    "MAGB1500",
+    "MAGB1800",
+    "MAGB2100",
+    "MAGB2400",
+    "MAGB500",
+    "MAGB600",
+    "MAGB750",
+    "MAGB900"
+   ],
+   "url": "https://www.manualslib.com/manual/3460897/Utica-Boilers-Magb-Series.html"
+  },
+  {
+   "manualId": "798562",
+   "slug": "Utica-Boilers-Mgb50",
+   "title": "MGB 100 Installation, operation & maintanance manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "MGB 100",
+   "extraModels": [
+    "MGB 100",
+    "MGB 125",
+    "MGB 150",
+    "MGB 175",
+    "MGB 200",
+    "MGB 300",
+    "MGB 75",
+    "MGB Series",
+    "MGB250"
+   ],
+   "url": "https://www.manualslib.com/manual/798562/Utica-Boilers-Mgb50.html"
+  },
+  {
+   "manualId": "1079014",
+   "slug": "Utica-Boilers-Mgb50",
+   "title": "MGB 100 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "MGB 100",
+   "extraModels": [
+    "MGB 100",
+    "MGB 125",
+    "MGB 150",
+    "MGB 175",
+    "MGB 200",
+    "MGB 300",
+    "MGB 75",
+    "MGB250"
+   ],
+   "url": "https://www.manualslib.com/manual/1079014/Utica-Boilers-Mgb50.html"
+  },
+  {
+   "manualId": "2014587",
+   "slug": "Utica-Boilers-Mgb-Series",
+   "title": "MGB Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "MGB Series",
+   "extraModels": [
+    "MGB-060K",
+    "MGB-095K",
+    "MGB-120K",
+    "MGB-150K",
+    "MGB-175K",
+    "MGB-205K",
+    "MGB-235K"
+   ],
+   "url": "https://www.manualslib.com/manual/2014587/Utica-Boilers-Mgb-Series.html"
+  },
+  {
+   "manualId": "1274736",
+   "slug": "Utica-Boilers-Mgb-Series",
+   "title": "MGB Series User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "MGB Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1274736/Utica-Boilers-Mgb-Series.html"
+  },
+  {
+   "manualId": "1026689",
+   "slug": "Utica-Boilers-Mgb-50j",
+   "title": "MGB-100J Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "MGB-100J",
+   "extraModels": [
+    "MGB-100J",
+    "MGB-125J",
+    "MGB-150J",
+    "MGB-170J",
+    "MGB-200J",
+    "MGB-75J"
+   ],
+   "url": "https://www.manualslib.com/manual/1026689/Utica-Boilers-Mgb-50j.html"
+  },
+  {
+   "manualId": "2677535",
+   "slug": "Utica-Boilers-Mgc-3-Series",
+   "title": "MGC 3 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "MGC 3 Series",
+   "extraModels": [
+    "MGC-8D",
+    "MGC-8DP",
+    "MGC-9D",
+    "MGC-9DP"
+   ],
+   "url": "https://www.manualslib.com/manual/2677535/Utica-Boilers-Mgc-3-Series.html"
+  },
+  {
+   "manualId": "1024924",
+   "slug": "Utica-Boilers-Mgc-8d",
+   "title": "MGC Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "MGC Series",
+   "extraModels": [
+    "MGC Series",
+    "MGC-8DP",
+    "MGC-9D",
+    "MGC-9DP"
+   ],
+   "url": "https://www.manualslib.com/manual/1024924/Utica-Boilers-Mgc-8d.html"
+  },
+  {
+   "manualId": "1055086",
+   "slug": "Utica-Boilers-Mgc-8d",
+   "title": "MGC Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "MGC Series",
+   "extraModels": [
+    "MGC Series",
+    "MGC-8DP",
+    "MGC-9D",
+    "MGC-9DP"
+   ],
+   "url": "https://www.manualslib.com/manual/1055086/Utica-Boilers-Mgc-8d.html"
+  },
+  {
+   "manualId": "2655430",
+   "slug": "Utica-Boilers-Olssv-050",
+   "title": "OLSSV-050 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "OLSSV-050",
+   "extraModels": [
+    "OLSSV-075",
+    "OLSSV-100",
+    "OLSSV-150",
+    "OLSSV-200"
+   ],
+   "url": "https://www.manualslib.com/manual/2655430/Utica-Boilers-Olssv-050.html"
+  },
+  {
+   "manualId": "2383995",
+   "slug": "Utica-Boilers-Omgb-Series",
+   "title": "OMGB Series Installation, operation & manintenance manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "OMGB Series",
+   "extraModels": [
+    "OMGB100",
+    "OMGB125",
+    "OMGB150",
+    "OMGB175",
+    "OMGB200",
+    "OMGB250",
+    "OMGB300",
+    "OMGB50",
+    "OMGB75"
+   ],
+   "url": "https://www.manualslib.com/manual/2383995/Utica-Boilers-Omgb-Series.html"
+  },
+  {
+   "manualId": "185533",
+   "slug": "Utica-Boilers-Peg-C",
+   "title": "PEG-C Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "PEG-C",
+   "extraModels": [
+    "PEG112C",
+    "PEG150C",
+    "PEG187C",
+    "PEG225C",
+    "PEG262C",
+    "PEG300C"
+   ],
+   "url": "https://www.manualslib.com/manual/185533/Utica-Boilers-Peg-C.html"
+  },
+  {
+   "manualId": "2251855",
+   "slug": "Utica-Boilers-Peg075did",
+   "title": "PEG075DID Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "PEG075DID",
+   "extraModels": [
+    "PEG112DID",
+    "PEG150DID",
+    "PEG187DID",
+    "PEG225DID",
+    "PEG262DID",
+    "PEG299DID"
+   ],
+   "url": "https://www.manualslib.com/manual/2251855/Utica-Boilers-Peg075did.html"
+  },
+  {
+   "manualId": "1063424",
+   "slug": "Utica-Boilers-Peg075eid",
+   "title": "PEG075EID Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "PEG075EID",
+   "extraModels": [
+    "PEG112EID",
+    "PEG150EID",
+    "PEG187EID",
+    "PEG225EID",
+    "PEG262EID",
+    "PEG299EID"
+   ],
+   "url": "https://www.manualslib.com/manual/1063424/Utica-Boilers-Peg075eid.html"
+  },
+  {
+   "manualId": "852550",
+   "slug": "Utica-Boilers-Peg075eid",
+   "title": "PEG075EID Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "PEG075EID",
+   "extraModels": [
+    "PEG112EID",
+    "PEG150EID",
+    "PEG187EID",
+    "PEG225EID",
+    "PEG262EID",
+    "PEG299EID"
+   ],
+   "url": "https://www.manualslib.com/manual/852550/Utica-Boilers-Peg075eid.html"
+  },
+  {
+   "manualId": "2643666",
+   "slug": "Utica-Boilers-Peg112c",
+   "title": "PEG112C installation manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "PEG112C",
+   "extraModels": [
+    "PEG150C",
+    "PEG187C",
+    "PEG225C",
+    "PEG262C",
+    "PEG300C"
+   ],
+   "url": "https://www.manualslib.com/manual/2643666/Utica-Boilers-Peg112c.html"
+  },
+  {
+   "manualId": "2432558",
+   "slug": "Utica-Boilers-Starfire-Iv-Steam-4-Series",
+   "title": "SFE-3090S Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "SFE-3090S",
+   "extraModels": [
+    "SFE-3090S",
+    "SFE-3090ST",
+    "SFE-4125S",
+    "SFE-4125ST",
+    "SFE-5185S",
+    "SFE-5185ST",
+    "SFE-6210S",
+    "SFE-6210ST"
+   ],
+   "url": "https://www.manualslib.com/manual/2432558/Utica-Boilers-Starfire-Iv-Steam-4-Series.html"
+  },
+  {
+   "manualId": "2435699",
+   "slug": "Utica-Boilers-Sfe0365",
+   "title": "SFE0365 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "SFE0365",
+   "extraModels": [
+    "SFE3100",
+    "SFE4100",
+    "SFE4125",
+    "SFE4150",
+    "SFE5175",
+    "SFE5200",
+    "SFE6225",
+    "SFE7275",
+    "STARFIRE 3 STEAM"
+   ],
+   "url": "https://www.manualslib.com/manual/2435699/Utica-Boilers-Sfe0365.html"
+  },
+  {
+   "manualId": "2960655",
+   "slug": "Utica-Boilers-Sfh-5-Series",
+   "title": "SFH 5 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "SFH 5 Series",
+   "extraModels": [
+    "SFH-3085W",
+    "SFH-3085WT",
+    "SFH-4100W",
+    "SFH-4100WT",
+    "SFH-4125W",
+    "SFH-4125WT",
+    "SFH-5160W",
+    "SFH-5160WT",
+    "SFH-6185W",
+    "SFH-6185WT"
+   ],
+   "url": "https://www.manualslib.com/manual/2960655/Utica-Boilers-Sfh-5-Series.html"
+  },
+  {
+   "manualId": "2960671",
+   "slug": "Utica-Boilers-Sfh-Series",
+   "title": "SFH Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "SFH Series",
+   "extraModels": [
+    "SFH-3085",
+    "SFH-3100",
+    "SFH-4100",
+    "SFH-4100W",
+    "SFH-4100WT",
+    "SFH-4125",
+    "SFH-4145",
+    "SFH-5160",
+    "SFH-5185",
+    "SFH-6175",
+    "SFH-6210"
+   ],
+   "url": "https://www.manualslib.com/manual/2960671/Utica-Boilers-Sfh-Series.html"
+  },
+  {
+   "manualId": "1005208",
+   "slug": "Utica-Boilers-Sfh-3085",
+   "title": "SFH-3085 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "SFH-3085",
+   "extraModels": [
+    "SFH-3100",
+    "SFH-4100",
+    "SFH-4125",
+    "SFH-4145",
+    "SFH-5160",
+    "SFH-5185",
+    "SFH-6175",
+    "SFH-6210"
+   ],
+   "url": "https://www.manualslib.com/manual/1005208/Utica-Boilers-Sfh-3085.html"
+  },
+  {
+   "manualId": "1060601",
+   "slug": "Utica-Boilers-Sfh-3085",
+   "title": "SFH-3085 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "SFH-3085",
+   "extraModels": [
+    "SFH-3100",
+    "SFH-4100",
+    "SFH-4100W",
+    "SFH-4100WT",
+    "SFH-4125",
+    "SFH-4145",
+    "SFH-5160",
+    "SFH-5185",
+    "SFH-6175",
+    "SFH-6210",
+    "STARFIRE IV 4 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1060601/Utica-Boilers-Sfh-3085.html"
+  },
+  {
+   "manualId": "3342506",
+   "slug": "Utica-Boilers-Sfm-Constellation-Series",
+   "title": "SFH6225W Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "SFH6225W",
+   "extraModels": [
+    "SFH6225W",
+    "SFH7275W",
+    "SFM24150W",
+    "SFM25175W",
+    "SFM25200W",
+    "SFM26225W",
+    "SFM27275W",
+    "SFM36225W",
+    "SFM37275W",
+    "SFM47275W",
+    "SFM57275W",
+    "SFM67275W",
+    "SFM77275W",
+    "SFM87275W"
+   ],
+   "url": "https://www.manualslib.com/manual/3342506/Utica-Boilers-Sfm-Constellation-Series.html"
+  },
+  {
+   "manualId": "987355",
+   "slug": "Utica-Boilers-Sfm6225w",
+   "title": "SFM24150W Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "SFM24150W",
+   "extraModels": [
+    "SFM24150W",
+    "SFM25175W",
+    "SFM25200W",
+    "SFM26225W",
+    "SFM27275W",
+    "SFM36225W",
+    "SFM37275W",
+    "SFM47275W",
+    "SFM57275W",
+    "SFM67275W",
+    "SFM7275W",
+    "SFM77275W",
+    "SFM87275W"
+   ],
+   "url": "https://www.manualslib.com/manual/987355/Utica-Boilers-Sfm6225w.html"
+  },
+  {
+   "manualId": "1025228",
+   "slug": "Utica-Boilers-Ssv-150",
+   "title": "SSV-050 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "SSV-050",
+   "extraModels": [
+    "SSV-050",
+    "SSV-075",
+    "SSV-100",
+    "SSV-200"
+   ],
+   "url": "https://www.manualslib.com/manual/1025228/Utica-Boilers-Ssv-150.html"
+  },
+  {
+   "manualId": "1024112",
+   "slug": "Utica-Boilers-Starfire-3-Steam",
+   "title": "STARFIRE 3 STEAM Installation manual and operating instructions",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "STARFIRE 3 STEAM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1024112/Utica-Boilers-Starfire-3-Steam.html"
+  },
+  {
+   "manualId": "1080407",
+   "slug": "Utica-Boilers-Starfire-3",
+   "title": "STARFIRE 3 STEAM Installation manual and operating instructions",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "STARFIRE 3 STEAM",
+   "extraModels": [
+    "STARFIRE 3 STEAM"
+   ],
+   "url": "https://www.manualslib.com/manual/1080407/Utica-Boilers-Starfire-3.html"
+  },
+  {
+   "manualId": "1238778",
+   "slug": "Utica-Boilers-Starfire-3-Water",
+   "title": "STARFIRE 3 WATER Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "STARFIRE 3 WATER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1238778/Utica-Boilers-Starfire-3-Water.html"
+  },
+  {
+   "manualId": "1168817",
+   "slug": "Utica-Boilers-Svb-2",
+   "title": "SVB II Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "SVB II Series",
+   "extraModels": [
+    "SVB II Series",
+    "SVB-3",
+    "SVB-4",
+    "SVB-5",
+    "SVB-6",
+    "SVB-7"
+   ],
+   "url": "https://www.manualslib.com/manual/1168817/Utica-Boilers-Svb-2.html"
+  },
+  {
+   "manualId": "3095606",
+   "slug": "Utica-Boilers-Svb-Series",
+   "title": "SVB Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "SVB Series",
+   "extraModels": [
+    "SVB-2",
+    "SVB-3",
+    "SVB-4",
+    "SVB-5",
+    "SVB-6"
+   ],
+   "url": "https://www.manualslib.com/manual/3095606/Utica-Boilers-Svb-Series.html"
+  },
+  {
+   "manualId": "1055762",
+   "slug": "Utica-Boilers-Sw3",
+   "title": "SW3 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "SW3",
+   "extraModels": [
+    "SW4",
+    "SW5"
+   ],
+   "url": "https://www.manualslib.com/manual/1055762/Utica-Boilers-Sw3.html"
+  },
+  {
+   "manualId": "2345535",
+   "slug": "Utica-Boilers-Trifire-3-Series",
+   "title": "TRB4075 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "TRB4075",
+   "extraModels": [
+    "TRB4075",
+    "TRB4090",
+    "TRB5100",
+    "TRB5120",
+    "TRB6130",
+    "TRB6145",
+    "TRB7165",
+    "TRB7180"
+   ],
+   "url": "https://www.manualslib.com/manual/2345535/Utica-Boilers-Trifire-3-Series.html"
+  },
+  {
+   "manualId": "2651654",
+   "slug": "Utica-Boilers-Trifire-Ii-Series",
+   "title": "TRB4075 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "TRB4075",
+   "extraModels": [
+    "TRB4075",
+    "TRB4095",
+    "TRB4110",
+    "TRB5100",
+    "TRB5115",
+    "TRB5135",
+    "TRB6130",
+    "TRB6145",
+    "TRB6165",
+    "TRB7165",
+    "TRB7180",
+    "TRB7190"
+   ],
+   "url": "https://www.manualslib.com/manual/2651654/Utica-Boilers-Trifire-Ii-Series.html"
+  },
+  {
+   "manualId": "1396124",
+   "slug": "Utica-Boilers-Ts-100",
+   "title": "TS-100 instruction manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": "TS-100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1396124/Utica-Boilers-Ts-100.html"
+  },
+  {
+   "manualId": "2655399",
+   "slug": "Utica-Boilers-Ub90",
+   "title": "UB100 installation manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "UB100",
+   "extraModels": [
+    "UB100"
+   ],
+   "url": "https://www.manualslib.com/manual/2655399/Utica-Boilers-Ub90.html"
+  },
+  {
+   "manualId": "799580",
+   "slug": "Utica-Boilers-Ub90125",
+   "title": "UB125 Installation, operation and maintanance manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "UB125",
+   "extraModels": [
+    "UB125",
+    "UB150",
+    "UB175",
+    "UB200",
+    "UB90 200"
+   ],
+   "url": "https://www.manualslib.com/manual/799580/Utica-Boilers-Ub90125.html"
+  },
+  {
+   "manualId": "1064961",
+   "slug": "Utica-Boilers-Ub90-125",
+   "title": "UB90 125 Installation manual and operating instructions",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "UB90 125",
+   "extraModels": [
+    "UB90 150",
+    "UB90 175",
+    "UB90 200"
+   ],
+   "url": "https://www.manualslib.com/manual/1064961/Utica-Boilers-Ub90-125.html"
+  },
+  {
+   "manualId": "803314",
+   "slug": "Utica-Boilers-Ub90-200",
+   "title": "UB90 125 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "UB90 125",
+   "extraModels": [
+    "UB90 125",
+    "UB90 150",
+    "UB90 175"
+   ],
+   "url": "https://www.manualslib.com/manual/803314/Utica-Boilers-Ub90-200.html"
+  },
+  {
+   "manualId": "1062054",
+   "slug": "Utica-Boilers-Ub90-50",
+   "title": "UB90-100 installation manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "UB90-100",
+   "extraModels": [
+    "UB90-100",
+    "UB90-75"
+   ],
+   "url": "https://www.manualslib.com/manual/1062054/Utica-Boilers-Ub90-50.html"
+  },
+  {
+   "manualId": "1174649",
+   "slug": "Utica-Boilers-Ub90-125",
+   "title": "UB90-150 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 50,
+   "productModel": "UB90-150",
+   "extraModels": [
+    "UB90-150",
+    "UB90-175",
+    "UB90-200"
+   ],
+   "url": "https://www.manualslib.com/manual/1174649/Utica-Boilers-Ub90-125.html"
+  },
+  {
+   "manualId": "1182996",
+   "slug": "Utica-Boilers-Ub95m-200",
+   "title": "UB95M-200 installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "UB95M-200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1182996/Utica-Boilers-Ub95m-200.html"
+  },
+  {
+   "manualId": "1060656",
+   "slug": "Utica-Boilers-Ub95m-200",
+   "title": "UB95M-200 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "UB95M-200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1060656/Utica-Boilers-Ub95m-200.html"
+  },
+  {
+   "manualId": "2436379",
+   "slug": "Utica-Boilers-Ssc-Ubssc-075",
+   "title": "UBSSC-050 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "UBSSC-050",
+   "extraModels": [
+    "UBSSC-050",
+    "UBSSC-100",
+    "UBSSC-150",
+    "UBSSC-200",
+    "UBSSC-299"
+   ],
+   "url": "https://www.manualslib.com/manual/2436379/Utica-Boilers-Ssc-Ubssc-075.html"
+  },
+  {
+   "manualId": "800700",
+   "slug": "Utica-Boilers-Ubssc-050",
+   "title": "UBSSC-050 Installation, operation & maintanance manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "UBSSC-050",
+   "extraModels": [
+    "UBSSC-075",
+    "UBSSC-100",
+    "UBSSC-150",
+    "UBSSC-200"
+   ],
+   "url": "https://www.manualslib.com/manual/800700/Utica-Boilers-Ubssc-050.html"
+  },
+  {
+   "manualId": "2345552",
+   "slug": "Utica-Boilers-Ubssc-299",
+   "title": "UBSSC-050 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "UBSSC-050",
+   "extraModels": [
+    "UBSSC-050",
+    "UBSSC-075",
+    "UBSSC-100",
+    "UBSSC-150",
+    "UBSSC-200"
+   ],
+   "url": "https://www.manualslib.com/manual/2345552/Utica-Boilers-Ubssc-299.html"
+  },
+  {
+   "manualId": "1266707",
+   "slug": "Utica-Boilers-Ucs-240",
+   "title": "UCS-240 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 92,
+   "productModel": "UCS-240",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1266707/Utica-Boilers-Ucs-240.html"
+  },
+  {
+   "manualId": "2257519",
+   "slug": "Utica-Boilers-Ucs-380",
+   "title": "UCS-380 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 90,
+   "productModel": "UCS-380",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2257519/Utica-Boilers-Ucs-380.html"
+  },
+  {
+   "manualId": "2677547",
+   "slug": "Utica-Boilers-Ucs-380",
+   "title": "UCS-380 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 102,
+   "productModel": "UCS-380",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2677547/Utica-Boilers-Ucs-380.html"
+  },
+  {
+   "manualId": "2718201",
+   "slug": "Utica-Boilers-Uh15b-Series",
+   "title": "UH15B Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "UH15B Series",
+   "extraModels": [
+    "UH15B045FE",
+    "UH15B070FE",
+    "UH15B096FE",
+    "UH15B120FE",
+    "UH15B145FE",
+    "UH15B170FE",
+    "UH15B195FE",
+    "UH15B245FE",
+    "UH15B295FE"
+   ],
+   "url": "https://www.manualslib.com/manual/2718201/Utica-Boilers-Uh15b-Series.html"
+  },
+  {
+   "manualId": "2663199",
+   "slug": "Utica-Boilers-Uh15b-K",
+   "title": "UH15B-060K Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "UH15B-060K",
+   "extraModels": [
+    "UH15B-060K",
+    "UH15B-095K",
+    "UH15B-120K",
+    "UH15B-150K",
+    "UH15B-175K",
+    "UH15B-205K",
+    "UH15B-235K"
+   ],
+   "url": "https://www.manualslib.com/manual/2663199/Utica-Boilers-Uh15b-K.html"
+  },
+  {
+   "manualId": "3139591",
+   "slug": "Utica-Boilers-Uh16-Series",
+   "title": "UH16 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "UH16 Series",
+   "extraModels": [
+    "UH1603HSID",
+    "UH1604HSID",
+    "UH1605HSID",
+    "UH1606HSID",
+    "UH1607HSID",
+    "UH1608HSID",
+    "UH1609HSID"
+   ],
+   "url": "https://www.manualslib.com/manual/3139591/Utica-Boilers-Uh16-Series.html"
+  },
+  {
+   "manualId": "2376887",
+   "slug": "Utica-Boilers-Uhsw-Series",
+   "title": "UHSW Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "UHSW Series",
+   "extraModels": [
+    "UHSW112",
+    "UHSW150",
+    "UHSW188",
+    "UHSW225",
+    "UHSW42",
+    "UHSW75"
+   ],
+   "url": "https://www.manualslib.com/manual/2376887/Utica-Boilers-Uhsw-Series.html"
+  },
+  {
+   "manualId": "854707",
+   "slug": "Utica-Boilers-Usc-Series",
+   "title": "USC SERIES Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 49,
+   "productModel": "USC SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/854707/Utica-Boilers-Usc-Series.html"
+  },
+  {
+   "manualId": "1447647",
+   "slug": "Utica-Boilers-Usc-Series",
+   "title": "USC SERIES User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "USC SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1447647/Utica-Boilers-Usc-Series.html"
+  },
+  {
+   "manualId": "1991525",
+   "slug": "Utica-Boilers-Dv-B-Series",
+   "title": "Utica Boilers DV-B Series Addendum",
+   "type": "Other",
+   "pages": 20,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1991525/Utica-Boilers-Dv-B-Series.html"
+  },
+  {
+   "manualId": "2345544",
+   "slug": "Utica-Boilers-Mah-100",
+   "title": "Utica Boilers MAH-100 Manual",
+   "type": "Other",
+   "pages": 139,
+   "productModel": null,
+   "extraModels": [
+    "MAC-115",
+    "MAC-150",
+    "MAC-205",
+    "MAH-125",
+    "MAH-165"
+   ],
+   "url": "https://www.manualslib.com/manual/2345544/Utica-Boilers-Mah-100.html"
+  },
+  {
+   "manualId": "988726",
+   "slug": "Utica-Boilers-Usc",
+   "title": "Utica Boilers USC Installation Manual And Operating Instructions",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": null,
+   "extraModels": [
+    "USC SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/988726/Utica-Boilers-Usc.html"
+  },
+  {
+   "manualId": "4415350",
+   "slug": "utica-ts-and-tt-series-torque-limiting-screwdrivers-manual",
+   "title": "Utica TS & TT Series Torque Limiting Screwdrivers Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4415350/utica-ts-and-tt-series-torque-limiting-screwdrivers-manual.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4415350",
+   "slug": "utica-ts-and-tt-series-torque-limiting-screwdrivers-manual",
+   "title": "Utica TS & TT Series Torque Limiting Screwdrivers Manual"
+  }
+ ],
+ "techDirectIds": [
+  "utica-boilers"
+ ]
+}

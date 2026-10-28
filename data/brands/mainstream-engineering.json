@@ -1,0 +1,67 @@
+{
+ "brand": "Mainstream Engineering",
+ "brandSlug": "mainstream-engineering",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/mainstream-engineering/"
+ ],
+ "slugUsed": "mainstream-engineering",
+ "capturedAt": "2026-10-28T08:33:55.706230+00:00",
+ "typePages": [
+  {
+   "path": "/brand/mainstream-engineering/air-cleaner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/mainstream-engineering/control-unit.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/mainstream-engineering/controller.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3291191",
+   "slug": "Mainstream-Engineering-Qwikswap-X3",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3291191/Mainstream-Engineering-Qwikswap-X3.html"
+  },
+  {
+   "manualId": "2964273",
+   "slug": "Mainstream-Engineering-Qwikswap-V3",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2964273/Mainstream-Engineering-Qwikswap-V3.html"
+  },
+  {
+   "manualId": "2812828",
+   "slug": "Mainstream-Engineering-Qwikpure-Tripleguard-Qt2730",
+   "title": "QwikPure TripleGuard QT2730 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "QwikPure TripleGuard QT2730",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2812828/Mainstream-Engineering-Qwikpure-Tripleguard-Qt2730.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "mainstream-engineering"
+ ]
+}

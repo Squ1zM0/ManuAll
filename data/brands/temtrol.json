@@ -1,0 +1,37 @@
+{
+ "brand": "Temtrol",
+ "brandSlug": "temtrol",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/temtrol/"
+ ],
+ "slugUsed": "temtrol",
+ "capturedAt": "2026-10-28T09:28:30.555255+00:00",
+ "typePages": [
+  {
+   "path": "/brand/temtrol/air-conditioner.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1311921",
+   "slug": "Temtrol-Series-Itf",
+   "title": "SERIES ITF instruction manual",
+   "type": "User / Owner",
+   "pages": 83,
+   "productModel": "SERIES ITF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1311921/Temtrol-Series-Itf.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "temtrol"
+ ]
+}

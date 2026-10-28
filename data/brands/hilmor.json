@@ -1,0 +1,155 @@
+{
+ "brand": "hilmor",
+ "brandSlug": "hilmor",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/hilmor/"
+ ],
+ "slugUsed": "hilmor",
+ "capturedAt": "2026-10-28T07:27:27.266068+00:00",
+ "typePages": [
+  {
+   "path": "/brand/hilmor/measuring-instruments.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/hilmor/power-tool.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/hilmor/security-sensors.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/hilmor/thermometer.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/hilmor/tools.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/hilmor/water-pump.html",
+   "manuals": 5,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3535151",
+   "slug": "Hilmor-1947970-3-Cfm",
+   "title": "1947970-3 CFM Operation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "1947970-3 CFM",
+   "extraModels": [
+    "1948121-5 CFM",
+    "1948122-9 CFM"
+   ],
+   "url": "https://www.manualslib.com/manual/3535151/Hilmor-1947970-3-Cfm.html"
+  },
+  {
+   "manualId": "1342862",
+   "slug": "Hilmor-1950217",
+   "title": "1950217 Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "1950217",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1342862/Hilmor-1950217.html"
+  },
+  {
+   "manualId": "3539046",
+   "slug": "Hilmor-1950532",
+   "title": "1950532 Operation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "1950532",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3539046/Hilmor-1950532.html"
+  },
+  {
+   "manualId": "2376991",
+   "slug": "Hilmor-1963826",
+   "title": "1963826 Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "1963826",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2376991/Hilmor-1963826.html"
+  },
+  {
+   "manualId": "1863564",
+   "slug": "Hilmor-Ldhd250",
+   "title": "LDHD250 Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "LDHD250",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1863564/Hilmor-Ldhd250.html"
+  },
+  {
+   "manualId": "1863441",
+   "slug": "Hilmor-Ldir150",
+   "title": "LDIR150 Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "LDIR150",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1863441/Hilmor-Ldir150.html"
+  },
+  {
+   "manualId": "3058047",
+   "slug": "Hilmor-1839010",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3058047/Hilmor-1839010.html"
+  },
+  {
+   "manualId": "3805338",
+   "slug": "Hilmor-1838952",
+   "title": "Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3805338/Hilmor-1838952.html"
+  },
+  {
+   "manualId": "3639543",
+   "slug": "Hilmor-Lineset-Cleaner",
+   "title": "Operation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3639543/Hilmor-Lineset-Cleaner.html"
+  },
+  {
+   "manualId": "1725986",
+   "slug": "Hilmor-Drot2tcc",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1725986/Hilmor-Drot2tcc.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "hilmor"
+ ]
+}

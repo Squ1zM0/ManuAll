@@ -1,0 +1,87 @@
+{
+ "brand": "Temp-Cool",
+ "brandSlug": "temp-cool",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/temp-cool/"
+ ],
+ "slugUsed": "temp-cool",
+ "capturedAt": "2026-10-28T09:28:28.983066+00:00",
+ "typePages": [
+  {
+   "path": "/brand/temp-cool/thermostat.html",
+   "manuals": 7,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "836773",
+   "slug": "Temp-Cool-Tc-18b",
+   "title": "TC-12B owner's manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "TC-12B",
+   "extraModels": [
+    "TC-12B",
+    "TC-36B",
+    "TC-60B3"
+   ],
+   "url": "https://www.manualslib.com/manual/836773/Temp-Cool-Tc-18b.html"
+  },
+  {
+   "manualId": "3826555",
+   "slug": "Temp-Cool-Tc-24b",
+   "title": "TC-24B owner's manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "TC-24B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3826555/Temp-Cool-Tc-24b.html"
+  },
+  {
+   "manualId": "3826556",
+   "slug": "Temp-Cool-Tc-60b",
+   "title": "TC-60B owner's manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "TC-60B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3826556/Temp-Cool-Tc-60b.html"
+  },
+  {
+   "manualId": "3826557",
+   "slug": "Temp-Cool-Tc-60b4",
+   "title": "TC-60B4 owner's manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "TC-60B4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3826557/Temp-Cool-Tc-60b4.html"
+  },
+  {
+   "manualId": "4413943",
+   "slug": "temp-cool-portable-cooling-systems-owner-s-manual",
+   "title": "TEMP-COOL Portable Cooling Systems Owner's Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4413943/temp-cool-portable-cooling-systems-owner-s-manual.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4413943",
+   "slug": "temp-cool-portable-cooling-systems-owner-s-manual",
+   "title": "TEMP-COOL Portable Cooling Systems Owner's Manual"
+  }
+ ],
+ "techDirectIds": [
+  "temp-cool"
+ ]
+}

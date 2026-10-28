@@ -1,0 +1,325 @@
+{
+ "brand": "Air-Care",
+ "brandSlug": "air-care",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/air-care/"
+ ],
+ "slugUsed": "air-care",
+ "capturedAt": "2026-10-28T06:22:42.050270+00:00",
+ "typePages": [
+  {
+   "path": "/brand/air-care/air-cleaner.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/air-care/analytical-instruments.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/air-care/cleaning-equipment.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/air-care/digital-camera.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/air-care/portable-generator.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/air-care/scrubber.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/air-care/steam-cleaner.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/air-care/ultrasonic-jewelry-cleaner.html",
+   "manuals": 4,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3002656",
+   "slug": "Air-Care-Bio-Cart-Hepa-10",
+   "title": "BIO CART HEPA 10 user manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "BIO CART HEPA 10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3002656/Air-Care-Bio-Cart-Hepa-10.html"
+  },
+  {
+   "manualId": "2384930",
+   "slug": "Air-Care-Bio-Cart-Hepa-Uvc-13-Lt",
+   "title": "Bio Cart HEPA-UVC 13 LT user manual",
+   "type": "User / Owner",
+   "pages": 33,
+   "productModel": "Bio Cart HEPA-UVC 13 LT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2384930/Air-Care-Bio-Cart-Hepa-Uvc-13-Lt.html"
+  },
+  {
+   "manualId": "4149921",
+   "slug": "Air-Care-Cobra-Vii",
+   "title": "COBRA VII user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "COBRA VII",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4149921/Air-Care-Cobra-Vii.html"
+  },
+  {
+   "manualId": "1406307",
+   "slug": "Air-Care-Cobra-5",
+   "title": "COBRA-5 user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "COBRA-5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1406307/Air-Care-Cobra-5.html"
+  },
+  {
+   "manualId": "1406308",
+   "slug": "Air-Care-Cobra-Vi",
+   "title": "COBRA-VI user manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "COBRA-VI",
+   "extraModels": [
+    "FG0194"
+   ],
+   "url": "https://www.manualslib.com/manual/1406308/Air-Care-Cobra-Vi.html"
+  },
+  {
+   "manualId": "1404242",
+   "slug": "Air-Care-Ductmaster-Iii-Fg0090",
+   "title": "DuctMaster III FG0090 Operating instructions & parts manual",
+   "type": "Parts & Wiring",
+   "pages": 26,
+   "productModel": "DuctMaster III FG0090",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1404242/Air-Care-Ductmaster-Iii-Fg0090.html"
+  },
+  {
+   "manualId": "1951528",
+   "slug": "Air-Care-Ductmaster-Iii",
+   "title": "DuctMaster III Operating instructions & parts manual",
+   "type": "Parts & Wiring",
+   "pages": 23,
+   "productModel": "DuctMaster III",
+   "extraModels": [
+    "FG0090"
+   ],
+   "url": "https://www.manualslib.com/manual/1951528/Air-Care-Ductmaster-Iii.html"
+  },
+  {
+   "manualId": "2504730",
+   "slug": "Air-Care-Sentinel-1500",
+   "title": "FG0157 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "FG0157",
+   "extraModels": [
+    "FG0157"
+   ],
+   "url": "https://www.manualslib.com/manual/2504730/Air-Care-Sentinel-1500.html"
+  },
+  {
+   "manualId": "1408380",
+   "slug": "Air-Care-Vis-Mini-Cam",
+   "title": "FG0175 owner's manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "FG0175",
+   "extraModels": [
+    "FG0175",
+    "FG0176",
+    "FG0178"
+   ],
+   "url": "https://www.manualslib.com/manual/1408380/Air-Care-Vis-Mini-Cam.html"
+  },
+  {
+   "manualId": "2380754",
+   "slug": "Air-Care-Truckmaster-Ii",
+   "title": "FG0193 Operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "FG0193",
+   "extraModels": [
+    "FG0193"
+   ],
+   "url": "https://www.manualslib.com/manual/2380754/Air-Care-Truckmaster-Ii.html"
+  },
+  {
+   "manualId": "2938913",
+   "slug": "Air-Care-Triton-440",
+   "title": "FG0278 user manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "FG0278",
+   "extraModels": [
+    "FG0278"
+   ],
+   "url": "https://www.manualslib.com/manual/2938913/Air-Care-Triton-440.html"
+  },
+  {
+   "manualId": "2073844",
+   "slug": "Air-Care-Max",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2073844/Air-Care-Max.html"
+  },
+  {
+   "manualId": "1440565",
+   "slug": "Air-Care-Max-36",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1440565/Air-Care-Max-36.html"
+  },
+  {
+   "manualId": "1558536",
+   "slug": "Air-Care-Truckmaster",
+   "title": "TruckMaster Operating instructions manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "TruckMaster",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1558536/Air-Care-Truckmaster.html"
+  },
+  {
+   "manualId": "3009960",
+   "slug": "Air-Care-Turbojet-Max-Fg0062",
+   "title": "TurboJet Max FG0062 user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "TurboJet Max FG0062",
+   "extraModels": [
+    "TurboJet Max II FG0061",
+    "TURBOMAX II 1.5 HP"
+   ],
+   "url": "https://www.manualslib.com/manual/3009960/Air-Care-Turbojet-Max-Fg0062.html"
+  },
+  {
+   "manualId": "2118851",
+   "slug": "Air-Care-Turbojet-Max",
+   "title": "TURBOJET MAX owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "TURBOJET MAX",
+   "extraModels": [
+    "TURBOJET MAX II"
+   ],
+   "url": "https://www.manualslib.com/manual/2118851/Air-Care-Turbojet-Max.html"
+  },
+  {
+   "manualId": "3009930",
+   "slug": "Air-Care-Turbojet-Supermax-Fg0130",
+   "title": "TurboJet SuperMax FG0130 user manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "TurboJet SuperMax FG0130",
+   "extraModels": [
+    "TurboJet SuperMax FG0131"
+   ],
+   "url": "https://www.manualslib.com/manual/3009930/Air-Care-Turbojet-Supermax-Fg0130.html"
+  },
+  {
+   "manualId": "3415406",
+   "slug": "Air-Care-Turbomax-Iii",
+   "title": "TURBOMax III user manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "TURBOMax III",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3415406/Air-Care-Turbomax-Iii.html"
+  },
+  {
+   "manualId": "2173626",
+   "slug": "Air-Care-Apollo",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2173626/Air-Care-Apollo.html"
+  },
+  {
+   "manualId": "2506718",
+   "slug": "Air-Care-Apollo-Fg0270",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2506718/Air-Care-Apollo-Fg0270.html"
+  },
+  {
+   "manualId": "4568234",
+   "slug": "Air-Care-Triox-20",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4568234/Air-Care-Triox-20.html"
+  },
+  {
+   "manualId": "2429234",
+   "slug": "Air-Care-Uvc-Max-25",
+   "title": "UVC MAX 25 user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "UVC MAX 25",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2429234/Air-Care-Uvc-Max-25.html"
+  },
+  {
+   "manualId": "3197461",
+   "slug": "Air-Care-Vent-Vac-Iii",
+   "title": "VENT VAC III user manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "VENT VAC III",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3197461/Air-Care-Vent-Vac-Iii.html"
+  },
+  {
+   "manualId": "3729770",
+   "slug": "Air-Care-Zephyr-Fg0285",
+   "title": "ZEPHYR FG0285 user manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "ZEPHYR FG0285",
+   "extraModels": [
+    "ZEPHYR FG60286"
+   ],
+   "url": "https://www.manualslib.com/manual/3729770/Air-Care-Zephyr-Fg0285.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "air-care"
+ ]
+}

@@ -1,0 +1,450 @@
+{
+ "brand": "Ruskin",
+ "brandSlug": "ruskin",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/ruskin/"
+ ],
+ "slugUsed": "ruskin",
+ "capturedAt": "2026-10-28T09:19:46.464849+00:00",
+ "typePages": [
+  {
+   "path": "/brand/ruskin/fan.html",
+   "manuals": 19,
+   "status": 200
+  },
+  {
+   "path": "/brand/ruskin/fire-and-smoke-dampers.html",
+   "manuals": 34,
+   "status": 200
+  },
+  {
+   "path": "/brand/ruskin/measuring-instruments.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/ruskin/smoke-alarm.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/ruskin/switch.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/ruskin/thermostat.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ruskin/transducer.html",
+   "manuals": 7,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1930011",
+   "slug": "Ruskin-Airflow-Iq",
+   "title": "AIRFLOW-IQ Start-up & Commissioning manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "AIRFLOW-IQ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1930011/Ruskin-Airflow-Iq.html"
+  },
+  {
+   "manualId": "1488027",
+   "slug": "Ruskin-Ams050",
+   "title": "AMS050 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "AMS050",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1488027/Ruskin-Ams050.html"
+  },
+  {
+   "manualId": "2172311",
+   "slug": "Ruskin-Ams-Series",
+   "title": "Assembly, installation and operation instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2172311/Ruskin-Ams-Series.html"
+  },
+  {
+   "manualId": "3639027",
+   "slug": "Ruskin-Btd830",
+   "title": "BTD830 Maintenance manual",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "BTD830",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3639027/Ruskin-Btd830.html"
+  },
+  {
+   "manualId": "1484084",
+   "slug": "Ruskin-Efams",
+   "title": "EFAMS Installation & maintenance manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "EFAMS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1484084/Ruskin-Efams.html"
+  },
+  {
+   "manualId": "1476469",
+   "slug": "Ruskin-Efams",
+   "title": "EFAMS Installation and maintenance manual",
+   "type": "Service",
+   "pages": 4,
+   "productModel": "EFAMS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1476469/Ruskin-Efams.html"
+  },
+  {
+   "manualId": "2026735",
+   "slug": "Ruskin-EnerventPlus-Evt-09-Series",
+   "title": "ENERVENT+ EVT-09 Series Installation, Start-Up And Maintenance Instructions",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "ENERVENT+ EVT-09 Series",
+   "extraModels": [
+    "ENERVENT+ EVT-10 Series",
+    "ENERVENT+ EVT-12 Series",
+    "ENERVENT+ EVT-19 Series",
+    "ENERVENT+ EVT-28 Series",
+    "ENERVENT+ EVT-36 Series",
+    "ENERVENT+ EVT-46 Series",
+    "ENERVENT+ EVT-62 Series",
+    "ENERVENT+ EVT-74 Series",
+    "ENERVENT+ EVT-88 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2026735/Ruskin-EnerventPlus-Evt-09-Series.html"
+  },
+  {
+   "manualId": "1479556",
+   "slug": "Ruskin-Dpt-Iq",
+   "title": "Installation & maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1479556/Ruskin-Dpt-Iq.html"
+  },
+  {
+   "manualId": "1495446",
+   "slug": "Ruskin-Ams",
+   "title": "Installation & maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1495446/Ruskin-Ams.html"
+  },
+  {
+   "manualId": "3023668",
+   "slug": "Ruskin-Ams-Series",
+   "title": "Installation And Operation Instruction",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3023668/Ruskin-Ams-Series.html"
+  },
+  {
+   "manualId": "1479035",
+   "slug": "Ruskin-Ams810",
+   "title": "Installation And Operation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1479035/Ruskin-Ams810.html"
+  },
+  {
+   "manualId": "1527446",
+   "slug": "Ruskin-Grille-Duct-Termination",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1527446/Ruskin-Grille-Duct-Termination.html"
+  },
+  {
+   "manualId": "4596018",
+   "slug": "Ruskin-Hnlj",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4596018/Ruskin-Hnlj.html"
+  },
+  {
+   "manualId": "1526906",
+   "slug": "Ruskin-Minicore-Mcv-500",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1526906/Ruskin-Minicore-Mcv-500.html"
+  },
+  {
+   "manualId": "2107753",
+   "slug": "Ruskin-Rrs-Rooftop-Ycd-Tcd",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2107753/Ruskin-Rrs-Rooftop-Ycd-Tcd.html"
+  },
+  {
+   "manualId": "2144755",
+   "slug": "Ruskin-Dibd2",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2144755/Ruskin-Dibd2.html"
+  },
+  {
+   "manualId": "2447869",
+   "slug": "Ruskin-Rrs-Rooftop",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2447869/Ruskin-Rrs-Rooftop.html"
+  },
+  {
+   "manualId": "2590506",
+   "slug": "Ruskin-Rrs-Systems-Ycd",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2590506/Ruskin-Rrs-Systems-Ycd.html"
+  },
+  {
+   "manualId": "3478514",
+   "slug": "Ruskin-Fsd60-3",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3478514/Ruskin-Fsd60-3.html"
+  },
+  {
+   "manualId": "3777154",
+   "slug": "Ruskin-Ibd2g",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3777154/Ruskin-Ibd2g.html"
+  },
+  {
+   "manualId": "4566911",
+   "slug": "Ruskin-Cd50",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4566911/Ruskin-Cd50.html"
+  },
+  {
+   "manualId": "4015716",
+   "slug": "Ruskin-Fsd35",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4015716/Ruskin-Fsd35.html"
+  },
+  {
+   "manualId": "4596016",
+   "slug": "Ruskin-Dsdn",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4596016/Ruskin-Dsdn.html"
+  },
+  {
+   "manualId": "2109847",
+   "slug": "Ruskin-Actionair-Es-Series",
+   "title": "Operating and maintenance manual",
+   "type": "Service",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2109847/Ruskin-Actionair-Es-Series.html"
+  },
+  {
+   "manualId": "4331101",
+   "slug": "Ruskin-Efl250",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4331101/Ruskin-Efl250.html"
+  },
+  {
+   "manualId": "1950061",
+   "slug": "Ruskin-Rrs-Rooftop-Systems-P28-Series",
+   "title": "RRS Rooftop Systems P28 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "RRS Rooftop Systems P28 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1950061/Ruskin-Rrs-Rooftop-Systems-P28-Series.html"
+  },
+  {
+   "manualId": "4274029",
+   "slug": "ruskin-btd830-damper-service-manual",
+   "title": "Ruskin BTD830 Damper Service Manual",
+   "type": "Service",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4274029/ruskin-btd830-damper-service-manual.html"
+  },
+  {
+   "manualId": "4243086",
+   "slug": "ruskin-ts150-heat-responsive-device-operating-manual",
+   "title": "Ruskin TS150 Heat Responsive Device Operating Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4243086/ruskin-ts150-heat-responsive-device-operating-manual.html"
+  },
+  {
+   "manualId": "1453375",
+   "slug": "Ruskin-Sp101",
+   "title": "SP101 Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "SP101",
+   "extraModels": [
+    "SP105"
+   ],
+   "url": "https://www.manualslib.com/manual/1453375/Ruskin-Sp101.html"
+  },
+  {
+   "manualId": "2455100",
+   "slug": "Ruskin-Tdfi-Rt",
+   "title": "TDFi-RT Installation and maintenance manual",
+   "type": "Service",
+   "pages": 26,
+   "productModel": "TDFi-RT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2455100/Ruskin-Tdfi-Rt.html"
+  },
+  {
+   "manualId": "2488574",
+   "slug": "Ruskin-Tdfi-Rt",
+   "title": "TDFi-RT Technical Bulletin",
+   "type": "Other",
+   "pages": 54,
+   "productModel": "TDFi-RT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2488574/Ruskin-Tdfi-Rt.html"
+  },
+  {
+   "manualId": "1643412",
+   "slug": "Ruskin-Tdp05k",
+   "title": "TDP05K Installation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "TDP05K",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1643412/Ruskin-Tdp05k.html"
+  },
+  {
+   "manualId": "2086306",
+   "slug": "Ruskin-Tdp05k",
+   "title": "TDP05K Technical Bulletin",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "TDP05K",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2086306/Ruskin-Tdp05k.html"
+  },
+  {
+   "manualId": "2912790",
+   "slug": "Ruskin-Tdp05k",
+   "title": "TDP05K Technical Bulletin",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "TDP05K",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2912790/Ruskin-Tdp05k.html"
+  },
+  {
+   "manualId": "3062955",
+   "slug": "Ruskin-Ts150",
+   "title": "TS150 Operation instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "TS150",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3062955/Ruskin-Ts150.html"
+  },
+  {
+   "manualId": "2159070",
+   "slug": "Ruskin-Ams810",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2159070/Ruskin-Ams810.html"
+  },
+  {
+   "manualId": "1363846",
+   "slug": "Ruskin-Z2000rt",
+   "title": "Z2000RT Installation & maintenance manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "Z2000RT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1363846/Ruskin-Z2000rt.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4274029",
+   "slug": "ruskin-btd830-damper-service-manual",
+   "title": "Ruskin BTD830 Damper Service Manual"
+  },
+  {
+   "manualId": "4243086",
+   "slug": "ruskin-ts150-heat-responsive-device-operating-manual",
+   "title": "Ruskin TS150 Heat Responsive Device Operating Manual"
+  }
+ ],
+ "techDirectIds": [
+  "ruskin"
+ ]
+}

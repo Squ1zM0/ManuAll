@@ -1,0 +1,2486 @@
+{
+ "brand": "Imperial",
+ "brandSlug": "imperial",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/imperial/"
+ ],
+ "slugUsed": "imperial",
+ "capturedAt": "2026-10-28T08:30:00.540735+00:00",
+ "typePages": [
+  {
+   "path": "/brand/imperial/freezer.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/indoor-furnishing.html",
+   "manuals": 106,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/adapter.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/barcode-reader.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/bathroom-fixtures.html",
+   "manuals": 37,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/broiler.html",
+   "manuals": 16,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/car-receiver.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/cd-player.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/clock-radio.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/commercial-food-equipment.html",
+   "manuals": 21,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/construction-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/controller.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/convection-oven.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/cookers.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/cutter.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/dab-system.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/docking-station.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/extractor-hood.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/fan.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/fencing-and-gates.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/fryer.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/grill.html",
+   "manuals": 26,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/headphone.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/headsets.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/hot-tub.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/industrial-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/kitchen-and-bath-fixtures.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/kitchen-appliances.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/kitchen-utensil.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/media-player.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/monitor.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/oven.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/pasta-maker.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/plumbing-product.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/portable-speakers.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/portable-stereo-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/radio.html",
+   "manuals": 88,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/ranges.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/receiver.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/refrigerator.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/satellite-tv-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/scanner.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/security-sensors.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/speakers.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/sports-and-outdoors.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/stereo-receiver.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/stereo-system.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/tools.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/transmitter.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/tuner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/turntable.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/tv-receiver.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/typewriter.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/utility-vehicle.html",
+   "manuals": 16,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/ventilation-hood.html",
+   "manuals": 89,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/video-gaming-accessories.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/imperial/water-heater.html",
+   "manuals": 5,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4592814",
+   "slug": "Imperial-Hb-12-Blake-Shuffleboard-Table",
+   "title": "0026-4505 Assembly instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "0026-4505",
+   "extraModels": [
+    "0026-4505"
+   ],
+   "url": "https://www.manualslib.com/manual/4592814/Imperial-Hb-12-Blake-Shuffleboard-Table.html"
+  },
+  {
+   "manualId": "4648830",
+   "slug": "Imperial-Ph-7-15-Hrv",
+   "title": "100076 installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "100076",
+   "extraModels": [
+    "100076",
+    "100077",
+    "100080",
+    "100086",
+    "100087",
+    "100835",
+    "100836",
+    "100838",
+    "100846",
+    "100847",
+    "101513",
+    "101552",
+    "DH 7.15 HRV",
+    "PE 10.22 ERV",
+    "PE 7.15 ERV",
+    "PH 10.22 HRV",
+    "SS 3.12 DD (TP) HRV"
+   ],
+   "url": "https://www.manualslib.com/manual/4648830/Imperial-Ph-7-15-Hrv.html"
+  },
+  {
+   "manualId": "3539787",
+   "slug": "Imperial-Dabman-Or-3",
+   "title": "22-107-00 user manual",
+   "type": "User / Owner",
+   "pages": 124,
+   "productModel": "22-107-00",
+   "extraModels": [
+    "22-107-00"
+   ],
+   "url": "https://www.manualslib.com/manual/3539787/Imperial-Dabman-Or-3.html"
+  },
+  {
+   "manualId": "3639415",
+   "slug": "Imperial-Dabman-I200",
+   "title": "22-230-00 operating manual",
+   "type": "User / Owner",
+   "pages": 116,
+   "productModel": "22-230-00",
+   "extraModels": [
+    "22-230-00",
+    "22-231-00",
+    "22-232-00"
+   ],
+   "url": "https://www.manualslib.com/manual/3639415/Imperial-Dabman-I200.html"
+  },
+  {
+   "manualId": "3639439",
+   "slug": "Imperial-Dabman-I200-Cd",
+   "title": "22-235-00 operating manual",
+   "type": "User / Owner",
+   "pages": 124,
+   "productModel": "22-235-00",
+   "extraModels": [
+    "22-235-00",
+    "22-236-00",
+    "22-237-00"
+   ],
+   "url": "https://www.manualslib.com/manual/3639439/Imperial-Dabman-I200-Cd.html"
+  },
+  {
+   "manualId": "2577168",
+   "slug": "Imperial-I110",
+   "title": "22-320-00 operating manual",
+   "type": "User / Owner",
+   "pages": 152,
+   "productModel": "22-320-00",
+   "extraModels": [
+    "22-320-00"
+   ],
+   "url": "https://www.manualslib.com/manual/2577168/Imperial-I110.html"
+  },
+  {
+   "manualId": "3697219",
+   "slug": "Imperial-I110",
+   "title": "22-320-00 operating manual",
+   "type": "User / Owner",
+   "pages": 96,
+   "productModel": "22-320-00",
+   "extraModels": [
+    "22-320-00",
+    "22-321-00",
+    "22-322-00"
+   ],
+   "url": "https://www.manualslib.com/manual/3697219/Imperial-I110.html"
+  },
+  {
+   "manualId": "4527670",
+   "slug": "Imperial-I110",
+   "title": "22-320-00 quick start manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "22-320-00",
+   "extraModels": [
+    "22-320-00",
+    "22-321-00"
+   ],
+   "url": "https://www.manualslib.com/manual/4527670/Imperial-I110.html"
+  },
+  {
+   "manualId": "3760123",
+   "slug": "Imperial-Blutc-Active-1",
+   "title": "22-9033-00 user manual",
+   "type": "User / Owner",
+   "pages": 88,
+   "productModel": "22-9033-00",
+   "extraModels": [
+    "22-9033-00"
+   ],
+   "url": "https://www.manualslib.com/manual/3760123/Imperial-Blutc-Active-1.html"
+  },
+  {
+   "manualId": "3709265",
+   "slug": "Imperial-Bas-9",
+   "title": "22-9054-00 operating manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "22-9054-00",
+   "extraModels": [
+    "22-9054-00"
+   ],
+   "url": "https://www.manualslib.com/manual/3709265/Imperial-Bas-9.html"
+  },
+  {
+   "manualId": "3584020",
+   "slug": "Imperial-Bas-9",
+   "title": "22-9054-00 user manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "22-9054-00",
+   "extraModels": [
+    "22-9054-00"
+   ],
+   "url": "https://www.manualslib.com/manual/3584020/Imperial-Bas-9.html"
+  },
+  {
+   "manualId": "2876702",
+   "slug": "Imperial-Laredo",
+   "title": "26-3590 Assembly And Instructions",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "26-3590",
+   "extraModels": [
+    "26-3590"
+   ],
+   "url": "https://www.manualslib.com/manual/2876702/Imperial-Laredo.html"
+  },
+  {
+   "manualId": "1220314",
+   "slug": "Imperial-2699w",
+   "title": "2699A owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "2699A",
+   "extraModels": [
+    "2699A"
+   ],
+   "url": "https://www.manualslib.com/manual/1220314/Imperial-2699w.html"
+  },
+  {
+   "manualId": "943634",
+   "slug": "Imperial-Imperial-66",
+   "title": "66 Instruction Book",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "66",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/943634/Imperial-Imperial-66.html"
+  },
+  {
+   "manualId": "1455204",
+   "slug": "Imperial-700-F",
+   "title": "700-F Operation and service instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "700-F",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1455204/Imperial-700-F.html"
+  },
+  {
+   "manualId": "4555083",
+   "slug": "Imperial-Aris",
+   "title": "ARIS Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "ARIS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4555083/Imperial-Aris.html"
+  },
+  {
+   "manualId": "4555072",
+   "slug": "Imperial-Ashford",
+   "title": "ASHFORD Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "ASHFORD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4555072/Imperial-Ashford.html"
+  },
+  {
+   "manualId": "4550136",
+   "slug": "Imperial-Eliminator",
+   "title": "Assembly instruction manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4550136/Imperial-Eliminator.html"
+  },
+  {
+   "manualId": "2426444",
+   "slug": "Imperial-Kool-Ray-Pro-Formance",
+   "title": "Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2426444/Imperial-Kool-Ray-Pro-Formance.html"
+  },
+  {
+   "manualId": "2314160",
+   "slug": "Imperial-Imp-29-840l",
+   "title": "Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2314160/Imperial-Imp-29-840l.html"
+  },
+  {
+   "manualId": "2780980",
+   "slug": "Imperial-Attica-Xm83400100",
+   "title": "Attica XM83400100 Mounting Instructions",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Attica XM83400100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2780980/Imperial-Attica-Xm83400100.html"
+  },
+  {
+   "manualId": "2000285",
+   "slug": "Imperial-Bart-1",
+   "title": "Bart 1 user manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "Bart 1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2000285/Imperial-Bart-1.html"
+  },
+  {
+   "manualId": "1906071",
+   "slug": "Imperial-Bart-Mini",
+   "title": "BART mini user manual",
+   "type": "User / Owner",
+   "pages": 88,
+   "productModel": "BART mini",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1906071/Imperial-Bart-Mini.html"
+  },
+  {
+   "manualId": "1061056",
+   "slug": "Imperial-Bas-1",
+   "title": "BAS 1 user manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "BAS 1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1061056/Imperial-Bas-1.html"
+  },
+  {
+   "manualId": "860078",
+   "slug": "Imperial-Bas-10",
+   "title": "BAS 10 quick start manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "BAS 10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/860078/Imperial-Bas-10.html"
+  },
+  {
+   "manualId": "1762179",
+   "slug": "Imperial-Bas-2",
+   "title": "BAS 2 operating manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "BAS 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1762179/Imperial-Bas-2.html"
+  },
+  {
+   "manualId": "3089942",
+   "slug": "Imperial-Bas-4",
+   "title": "BAS 4 operating manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "BAS 4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3089942/Imperial-Bas-4.html"
+  },
+  {
+   "manualId": "1683944",
+   "slug": "Imperial-Bas-5",
+   "title": "BAS 5 operating manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "BAS 5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1683944/Imperial-Bas-5.html"
+  },
+  {
+   "manualId": "2003607",
+   "slug": "Imperial-Bas-6",
+   "title": "BAS 6 Operation manual",
+   "type": "Other",
+   "pages": 100,
+   "productModel": "BAS 6",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2003607/Imperial-Bas-6.html"
+  },
+  {
+   "manualId": "4567315",
+   "slug": "Imperial-Bas-9",
+   "title": "BAS 9 user manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "BAS 9",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4567315/Imperial-Bas-9.html"
+  },
+  {
+   "manualId": "1170383",
+   "slug": "Imperial-Bat-1",
+   "title": "BAT 1 quick start manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "BAT 1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1170383/Imperial-Bat-1.html"
+  },
+  {
+   "manualId": "1036339",
+   "slug": "Imperial-Bat-2",
+   "title": "Bat 2 quick start manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "Bat 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1036339/Imperial-Bat-2.html"
+  },
+  {
+   "manualId": "1442128",
+   "slug": "Imperial-Beatsman",
+   "title": "BEATSMAN operating manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "BEATSMAN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1442128/Imperial-Beatsman.html"
+  },
+  {
+   "manualId": "3313626",
+   "slug": "Imperial-Blutc-Tws-Hp-1",
+   "title": "bluTC TWS HP 1 user manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "bluTC TWS HP 1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3313626/Imperial-Blutc-Tws-Hp-1.html"
+  },
+  {
+   "manualId": "3798426",
+   "slug": "Imperial-Blutc-Tws-Hp-1",
+   "title": "bluTC TWS HP 1 user manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "bluTC TWS HP 1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3798426/Imperial-Blutc-Tws-Hp-1.html"
+  },
+  {
+   "manualId": "2591906",
+   "slug": "Imperial-Bracket-Mounted-Basin",
+   "title": "Bracket Mounted Basin installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Bracket Mounted Basin",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2591906/Imperial-Bracket-Mounted-Basin.html"
+  },
+  {
+   "manualId": "2454510",
+   "slug": "Imperial-C2000sd2",
+   "title": "C2000BP Installation instructions & warranty information",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "C2000BP",
+   "extraModels": [
+    "C2000BP",
+    "C2000BP1",
+    "C2000BP1-TW",
+    "C2000BP1-TWB",
+    "C2000BP1B",
+    "C2000BPB",
+    "C2000PS",
+    "C2000PS-IS22",
+    "C2000PS1-TW",
+    "C2000PS1-TW-IS22",
+    "C2000PS1-TWB",
+    "C2000PSB",
+    "C2000SD4",
+    "C200SD4-12",
+    "C2042BPB-K-SS",
+    "C2048PS-8-SS",
+    "C2048PSB-K-SS",
+    "C2054BP1-TW-8-SS",
+    "C2054PS1-TWB-8-SS",
+    "C2060PS1-TWB-SS"
+   ],
+   "url": "https://www.manualslib.com/manual/2454510/Imperial-C2000sd2.html"
+  },
+  {
+   "manualId": "2377719",
+   "slug": "Imperial-Scoville-Live-Well",
+   "title": "Care And Use Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2377719/Imperial-Scoville-Live-Well.html"
+  },
+  {
+   "manualId": "2316358",
+   "slug": "Imperial-Carlyon-Xt50000342nsb",
+   "title": "Carlyon XJ50000220NSBW installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Carlyon XJ50000220NSBW",
+   "extraModels": [
+    "Carlyon XJ50000220NSBW",
+    "Carlyon XT50000210NSB",
+    "Carlyon XT50000210NSBG",
+    "Carlyon XT50000220NSB",
+    "Carlyon XT50000222NSB",
+    "Carlyon XT50000242NSB",
+    "Carlyon XT50000301NSB",
+    "Carlyon XT50000302NSB",
+    "Carlyon XT50000304NSB",
+    "Carlyon XT50000310NSB",
+    "Carlyon XT50000310NSBG",
+    "Carlyon XT50000313NSB",
+    "Carlyon XT50000314NSB",
+    "Carlyon XT50000315NSB",
+    "Carlyon XT50000316NSB",
+    "Carlyon XT50000318NSB",
+    "Carlyon XT50000319NSB",
+    "Carlyon XT50000320NSB",
+    "Carlyon XT50000322NSB",
+    "Carlyon XT500SS350SN",
+    "Windsor XT50000110",
+    "Windsor XT50000110G",
+    "Windsor XT50000120",
+    "Windsor XT50000122",
+    "Windsor XT50000142",
+    "Windsor XT50000210",
+    "Windsor XT50000210G",
+    "Windsor XT50000220",
+    "Windsor XT50000222",
+    "Windsor XT50000242",
+    "Windsor XT50000310",
+    "Windsor XT50000310G",
+    "Windsor XT50000320",
+    "Windsor XT50000322"
+   ],
+   "url": "https://www.manualslib.com/manual/2316358/Imperial-Carlyon-Xt50000342nsb.html"
+  },
+  {
+   "manualId": "1172644",
+   "slug": "Imperial-Dabman-1",
+   "title": "DABMAN 1 operating manual",
+   "type": "User / Owner",
+   "pages": 96,
+   "productModel": "DABMAN 1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1172644/Imperial-Dabman-1.html"
+  },
+  {
+   "manualId": "1124388",
+   "slug": "Imperial-Dabman-100",
+   "title": "DABMAN 100 operating manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "DABMAN 100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1124388/Imperial-Dabman-100.html"
+  },
+  {
+   "manualId": "3128443",
+   "slug": "Imperial-Dabman-100",
+   "title": "DABMAN 100 operating manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "DABMAN 100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3128443/Imperial-Dabman-100.html"
+  },
+  {
+   "manualId": "3217697",
+   "slug": "Imperial-Dabman-101-C",
+   "title": "DABMAN 101 C operating manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "DABMAN 101 C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3217697/Imperial-Dabman-101-C.html"
+  },
+  {
+   "manualId": "791564",
+   "slug": "Imperial-Dabman-110",
+   "title": "DABMAN 110 user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "DABMAN 110",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/791564/Imperial-Dabman-110.html"
+  },
+  {
+   "manualId": "1843434",
+   "slug": "Imperial-Dabman-12",
+   "title": "DABMAN 12 operating manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "DABMAN 12",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1843434/Imperial-Dabman-12.html"
+  },
+  {
+   "manualId": "4374400",
+   "slug": "Imperial-Dabman-120bk",
+   "title": "DABMAN 120BK quick start manual",
+   "type": "Other",
+   "pages": 120,
+   "productModel": "DABMAN 120BK",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4374400/Imperial-Dabman-120bk.html"
+  },
+  {
+   "manualId": "2224000",
+   "slug": "Imperial-Dabman-13",
+   "title": "DABMAN 13 Operation manual",
+   "type": "Other",
+   "pages": 168,
+   "productModel": "DABMAN 13",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2224000/Imperial-Dabman-13.html"
+  },
+  {
+   "manualId": "2149421",
+   "slug": "Imperial-Dabman-14",
+   "title": "DABMAN 14 Manual",
+   "type": "Other",
+   "pages": 200,
+   "productModel": "DABMAN 14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2149421/Imperial-Dabman-14.html"
+  },
+  {
+   "manualId": "2154055",
+   "slug": "Imperial-Dabman-15",
+   "title": "DABMAN 15 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 136,
+   "productModel": "DABMAN 15",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2154055/Imperial-Dabman-15.html"
+  },
+  {
+   "manualId": "2181781",
+   "slug": "Imperial-Dabman-16",
+   "title": "DABMAN 16 operating manual",
+   "type": "User / Owner",
+   "pages": 160,
+   "productModel": "DABMAN 16",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2181781/Imperial-Dabman-16.html"
+  },
+  {
+   "manualId": "1508271",
+   "slug": "Imperial-Dabman-2",
+   "title": "DABMAN 2 operating manual",
+   "type": "User / Owner",
+   "pages": 84,
+   "productModel": "DABMAN 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1508271/Imperial-Dabman-2.html"
+  },
+  {
+   "manualId": "1999236",
+   "slug": "Imperial-Dabman-30",
+   "title": "DABMAN 30 operating manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "DABMAN 30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1999236/Imperial-Dabman-30.html"
+  },
+  {
+   "manualId": "1651822",
+   "slug": "Imperial-Dabman-410",
+   "title": "DABMAN 410 operating manual",
+   "type": "User / Owner",
+   "pages": 120,
+   "productModel": "DABMAN 410",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1651822/Imperial-Dabman-410.html"
+  },
+  {
+   "manualId": "1650024",
+   "slug": "Imperial-Dabman-61-Plus",
+   "title": "DABMAN 61 plus operating manual",
+   "type": "User / Owner",
+   "pages": 41,
+   "productModel": "DABMAN 61 plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1650024/Imperial-Dabman-61-Plus.html"
+  },
+  {
+   "manualId": "1650023",
+   "slug": "Imperial-Dabman-65",
+   "title": "DABMAN 65 operating manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "DABMAN 65",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1650023/Imperial-Dabman-65.html"
+  },
+  {
+   "manualId": "1683709",
+   "slug": "Imperial-Dabman-70",
+   "title": "Dabman 70 Operation manual",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "Dabman 70",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1683709/Imperial-Dabman-70.html"
+  },
+  {
+   "manualId": "1047617",
+   "slug": "Imperial-Dabman-Bt-40",
+   "title": "DABMAN BT 40 operating manual",
+   "type": "User / Owner",
+   "pages": 78,
+   "productModel": "DABMAN BT 40",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1047617/Imperial-Dabman-Bt-40.html"
+  },
+  {
+   "manualId": "2076672",
+   "slug": "Imperial-Dabman-Car-1",
+   "title": "DABMAN CAR 1 Operating Manual And Installation Instructions",
+   "type": "Installation",
+   "pages": 180,
+   "productModel": "DABMAN CAR 1",
+   "extraModels": [
+    "DABMAN CAR 2"
+   ],
+   "url": "https://www.manualslib.com/manual/2076672/Imperial-Dabman-Car-1.html"
+  },
+  {
+   "manualId": "3371678",
+   "slug": "Imperial-Dabman-D105",
+   "title": "DABMAN d105 user manual",
+   "type": "User / Owner",
+   "pages": 220,
+   "productModel": "DABMAN d105",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3371678/Imperial-Dabman-D105.html"
+  },
+  {
+   "manualId": "2140426",
+   "slug": "Imperial-Dabman-D15",
+   "title": "DABMAN d15 quick start manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "DABMAN d15",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2140426/Imperial-Dabman-D15.html"
+  },
+  {
+   "manualId": "2039553",
+   "slug": "Imperial-Dabman-D20",
+   "title": "DABMAN d20 user manual",
+   "type": "User / Owner",
+   "pages": 264,
+   "productModel": "DABMAN d20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2039553/Imperial-Dabman-D20.html"
+  },
+  {
+   "manualId": "1995686",
+   "slug": "Imperial-Dabman-D30-Stereo",
+   "title": "DABMAN d30 Stereo operating manual",
+   "type": "User / Owner",
+   "pages": 224,
+   "productModel": "DABMAN d30 Stereo",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1995686/Imperial-Dabman-D30-Stereo.html"
+  },
+  {
+   "manualId": "1884315",
+   "slug": "Imperial-Dabman-D35-Bt",
+   "title": "DABMAN d35 operating manual",
+   "type": "User / Owner",
+   "pages": 204,
+   "productModel": "DABMAN d35",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1884315/Imperial-Dabman-D35-Bt.html"
+  },
+  {
+   "manualId": "3462504",
+   "slug": "Imperial-Dabman-Go",
+   "title": "DABMAN GO user manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "DABMAN GO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3462504/Imperial-Dabman-Go.html"
+  },
+  {
+   "manualId": "2750624",
+   "slug": "Imperial-Dabman-I150",
+   "title": "DABMAN i150 operating manual",
+   "type": "User / Owner",
+   "pages": 180,
+   "productModel": "DABMAN i150",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2750624/Imperial-Dabman-I150.html"
+  },
+  {
+   "manualId": "1189754",
+   "slug": "Imperial-Dabman-I200-Cd",
+   "title": "DABMAN i200 CD operating manual",
+   "type": "User / Owner",
+   "pages": 180,
+   "productModel": "DABMAN i200 CD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1189754/Imperial-Dabman-I200-Cd.html"
+  },
+  {
+   "manualId": "1116491",
+   "slug": "Imperial-Dabman-I200",
+   "title": "DABMAN i200 operating manual",
+   "type": "User / Owner",
+   "pages": 45,
+   "productModel": "DABMAN i200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1116491/Imperial-Dabman-I200.html"
+  },
+  {
+   "manualId": "3438182",
+   "slug": "Imperial-Dabman-I205-Cd",
+   "title": "DABMAN i205 CD instruction manual",
+   "type": "User / Owner",
+   "pages": 508,
+   "productModel": "DABMAN i205 CD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3438182/Imperial-Dabman-I205-Cd.html"
+  },
+  {
+   "manualId": "3125808",
+   "slug": "Imperial-Dabman-I205",
+   "title": "DABMAN i205 instruction manual",
+   "type": "User / Owner",
+   "pages": 100,
+   "productModel": "DABMAN i205",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3125808/Imperial-Dabman-I205.html"
+  },
+  {
+   "manualId": "2981053",
+   "slug": "Imperial-Dabman-I210-Cd",
+   "title": "DABMAN i210 CD operating manual",
+   "type": "User / Owner",
+   "pages": 440,
+   "productModel": "DABMAN i210 CD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2981053/Imperial-Dabman-I210-Cd.html"
+  },
+  {
+   "manualId": "1685942",
+   "slug": "Imperial-Dabman-I220",
+   "title": "DABMAN i220 operating manual",
+   "type": "User / Owner",
+   "pages": 196,
+   "productModel": "DABMAN i220",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1685942/Imperial-Dabman-I220.html"
+  },
+  {
+   "manualId": "2372437",
+   "slug": "Imperial-Dabman-I250",
+   "title": "DABMAN i250 operating manual",
+   "type": "User / Owner",
+   "pages": 45,
+   "productModel": "DABMAN i250",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2372437/Imperial-Dabman-I250.html"
+  },
+  {
+   "manualId": "1685947",
+   "slug": "Imperial-Dabman-I300-Cd",
+   "title": "DABMAN i300 CD operating manual",
+   "type": "User / Owner",
+   "pages": 290,
+   "productModel": "DABMAN i300 CD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1685947/Imperial-Dabman-I300-Cd.html"
+  },
+  {
+   "manualId": "3363509",
+   "slug": "Imperial-Dabman-I310-Cd",
+   "title": "DABMAN i310 CD user manual",
+   "type": "User / Owner",
+   "pages": 400,
+   "productModel": "DABMAN i310 CD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3363509/Imperial-Dabman-I310-Cd.html"
+  },
+  {
+   "manualId": "2256252",
+   "slug": "Imperial-Dabman-I400",
+   "title": "DABMAN i400 operating manual",
+   "type": "User / Owner",
+   "pages": 177,
+   "productModel": "DABMAN i400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2256252/Imperial-Dabman-I400.html"
+  },
+  {
+   "manualId": "3676739",
+   "slug": "Imperial-Dabman-I400",
+   "title": "DABMAN i400 operating manual",
+   "type": "User / Owner",
+   "pages": 112,
+   "productModel": "DABMAN i400",
+   "extraModels": [
+    "22-240-00",
+    "22-241-00"
+   ],
+   "url": "https://www.manualslib.com/manual/3676739/Imperial-Dabman-I400.html"
+  },
+  {
+   "manualId": "3376094",
+   "slug": "Imperial-Dabman-I410-Bt",
+   "title": "DABMAN i410 BT user manual",
+   "type": "User / Owner",
+   "pages": 364,
+   "productModel": "DABMAN i410 BT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3376094/Imperial-Dabman-I410-Bt.html"
+  },
+  {
+   "manualId": "2697769",
+   "slug": "Imperial-Dabman-I450",
+   "title": "DABMAN i450 operating manual",
+   "type": "User / Owner",
+   "pages": 184,
+   "productModel": "DABMAN i450",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2697769/Imperial-Dabman-I450.html"
+  },
+  {
+   "manualId": "1837075",
+   "slug": "Imperial-Dabman-I450cd",
+   "title": "DABMAN i450CD instruction manual",
+   "type": "User / Owner",
+   "pages": 508,
+   "productModel": "DABMAN i450CD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1837075/Imperial-Dabman-I450cd.html"
+  },
+  {
+   "manualId": "3376071",
+   "slug": "Imperial-Dabman-I460-D",
+   "title": "DABMAN i460 D operating instructions manual",
+   "type": "User / Owner",
+   "pages": 400,
+   "productModel": "DABMAN i460 D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3376071/Imperial-Dabman-I460-D.html"
+  },
+  {
+   "manualId": "1860616",
+   "slug": "Imperial-Dabman-I500",
+   "title": "DABMAN i500 quick start manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "DABMAN i500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1860616/Imperial-Dabman-I500.html"
+  },
+  {
+   "manualId": "2949010",
+   "slug": "Imperial-Dabman-I510-Bt",
+   "title": "DABMAN i510 BT user manual",
+   "type": "User / Owner",
+   "pages": 408,
+   "productModel": "DABMAN i510 BT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2949010/Imperial-Dabman-I510-Bt.html"
+  },
+  {
+   "manualId": "2017011",
+   "slug": "Imperial-Dabman-I550-Cd",
+   "title": "DABMAN i550 CD operating instructions manual",
+   "type": "User / Owner",
+   "pages": 292,
+   "productModel": "DABMAN i550 CD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2017011/Imperial-Dabman-I550-Cd.html"
+  },
+  {
+   "manualId": "2954331",
+   "slug": "Imperial-Dabman-I560-Cd",
+   "title": "DABMAN i560 CD Manual",
+   "type": "Other",
+   "pages": 452,
+   "productModel": "DABMAN i560 CD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2954331/Imperial-Dabman-I560-Cd.html"
+  },
+  {
+   "manualId": "3089631",
+   "slug": "Imperial-Dabman-I600",
+   "title": "DABMAN i600 operating manual",
+   "type": "User / Owner",
+   "pages": 184,
+   "productModel": "DABMAN i600",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3089631/Imperial-Dabman-I600.html"
+  },
+  {
+   "manualId": "3200441",
+   "slug": "Imperial-Dabman-I610",
+   "title": "DABMAN i610 instruction manual",
+   "type": "User / Owner",
+   "pages": 508,
+   "productModel": "DABMAN i610",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3200441/Imperial-Dabman-I610.html"
+  },
+  {
+   "manualId": "2973342",
+   "slug": "Imperial-Dabman-Or-2",
+   "title": "DABMAN OR 2 user manual",
+   "type": "User / Owner",
+   "pages": 152,
+   "productModel": "DABMAN OR 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2973342/Imperial-Dabman-Or-2.html"
+  },
+  {
+   "manualId": "3558779",
+   "slug": "Imperial-Dabman-Or-5",
+   "title": "DABMAN OR 5 user manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "DABMAN OR 5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3558779/Imperial-Dabman-Or-5.html"
+  },
+  {
+   "manualId": "2204252",
+   "slug": "Imperial-Dabman-Pbb-2",
+   "title": "DABMAN PBB 2 operating manual",
+   "type": "User / Owner",
+   "pages": 152,
+   "productModel": "DABMAN PBB 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2204252/Imperial-Dabman-Pbb-2.html"
+  },
+  {
+   "manualId": "4536765",
+   "slug": "Imperial-Dabmani420bk",
+   "title": "DABMANI420BK operating manual",
+   "type": "User / Owner",
+   "pages": 134,
+   "productModel": "DABMANI420BK",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4536765/Imperial-Dabmani420bk.html"
+  },
+  {
+   "manualId": "892286",
+   "slug": "Imperial-Dvb-T-Fta",
+   "title": "DB 1T installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "DB 1T",
+   "extraModels": [
+    "DB 1T"
+   ],
+   "url": "https://www.manualslib.com/manual/892286/Imperial-Dvb-T-Fta.html"
+  },
+  {
+   "manualId": "713818",
+   "slug": "Imperial-Ds1",
+   "title": "DS1 user manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "DS1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/713818/Imperial-Ds1.html"
+  },
+  {
+   "manualId": "4554835",
+   "slug": "Imperial-Durham",
+   "title": "DURHAM Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "DURHAM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4554835/Imperial-Durham.html"
+  },
+  {
+   "manualId": "2537845",
+   "slug": "Imperial-Freedom",
+   "title": "Freedom Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "Freedom",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2537845/Imperial-Freedom.html"
+  },
+  {
+   "manualId": "1366773",
+   "slug": "Imperial-G-2000",
+   "title": "G.2000 Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "G.2000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1366773/Imperial-G-2000.html"
+  },
+  {
+   "manualId": "1699659",
+   "slug": "Imperial-Adjustable-Rigid-Riser",
+   "title": "General Installation Instructions",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1699659/Imperial-Adjustable-Rigid-Riser.html"
+  },
+  {
+   "manualId": "2312736",
+   "slug": "Imperial-Diana-Xlu0049042",
+   "title": "General Installation Instructions",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2312736/Imperial-Diana-Xlu0049042.html"
+  },
+  {
+   "manualId": "1530608",
+   "slug": "Imperial-Good-Companion-Model-T",
+   "title": "Good Companion Model T Instruction Book",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Good Companion Model T",
+   "extraModels": [
+    "Good Companion Model T"
+   ],
+   "url": "https://www.manualslib.com/manual/1530608/Imperial-Good-Companion-Model-T.html"
+  },
+  {
+   "manualId": "4000659",
+   "slug": "Imperial-Good-Companion-4",
+   "title": "How To Use",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4000659/Imperial-Good-Companion-4.html"
+  },
+  {
+   "manualId": "4006709",
+   "slug": "Imperial-Rg3061",
+   "title": "How-To",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4006709/Imperial-Rg3061.html"
+  },
+  {
+   "manualId": "4555062",
+   "slug": "Imperial-Hudson",
+   "title": "HUDSON Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "HUDSON",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4555062/Imperial-Hudson.html"
+  },
+  {
+   "manualId": "1080820",
+   "slug": "Imperial-I10",
+   "title": "i10 operating manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "i10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1080820/Imperial-I10.html"
+  },
+  {
+   "manualId": "3383511",
+   "slug": "Imperial-I105",
+   "title": "i105 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 293,
+   "productModel": "i105",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3383511/Imperial-I105.html"
+  },
+  {
+   "manualId": "4526926",
+   "slug": "Imperial-I105",
+   "title": "i105 quick start manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "i105",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4526926/Imperial-I105.html"
+  },
+  {
+   "manualId": "2713325",
+   "slug": "Imperial-I110",
+   "title": "i110 operating manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "i110",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2713325/Imperial-I110.html"
+  },
+  {
+   "manualId": "4085175",
+   "slug": "Imperial-Iab-Series",
+   "title": "IAB Series owner's manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "IAB Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4085175/Imperial-Iab-Series.html"
+  },
+  {
+   "manualId": "743310",
+   "slug": "Imperial-Icsg100",
+   "title": "ICSG100 user manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "ICSG100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/743310/Imperial-Icsg100.html"
+  },
+  {
+   "manualId": "4367678",
+   "slug": "Imperial-Icve-1",
+   "title": "ICVE-1 Ownersmanual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "ICVE-1",
+   "extraModels": [
+    "ICVE-2"
+   ],
+   "url": "https://www.manualslib.com/manual/4367678/Imperial-Icve-1.html"
+  },
+  {
+   "manualId": "994173",
+   "slug": "Imperial-Ifs-Series",
+   "title": "IFS series owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "IFS series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/994173/Imperial-Ifs-Series.html"
+  },
+  {
+   "manualId": "4095295",
+   "slug": "Imperial-Pro-Series",
+   "title": "IFS-25 owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "IFS-25",
+   "extraModels": [
+    "IFS-25",
+    "IFS-2525",
+    "IFS-40",
+    "IFS-40-D",
+    "IFS-75",
+    "IFS-75-OP",
+    "IFST-25"
+   ],
+   "url": "https://www.manualslib.com/manual/4095295/Imperial-Pro-Series.html"
+  },
+  {
+   "manualId": "1033084",
+   "slug": "Imperial-Iabr-Series",
+   "title": "IHPA SERIES owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "IHPA SERIES",
+   "extraModels": [
+    "IHPA SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/1033084/Imperial-Iabr-Series.html"
+  },
+  {
+   "manualId": "882483",
+   "slug": "Imperial-Irb-Series",
+   "title": "IHPA SERIES owner's manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": "IHPA SERIES",
+   "extraModels": [
+    "IHPA SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/882483/Imperial-Irb-Series.html"
+  },
+  {
+   "manualId": "150083",
+   "slug": "Imperial-Imperial-216769700",
+   "title": "Imperial 216769700 owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "Imperial 216769700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/150083/Imperial-Imperial-216769700.html"
+  },
+  {
+   "manualId": "4261857",
+   "slug": "Imperial-Dabman-280cd",
+   "title": "Imperial Dabman 280CD User'smanual",
+   "type": "User / Owner",
+   "pages": 175,
+   "productModel": null,
+   "extraModels": [
+    "8711902091790",
+    "Dabman 280CDBK"
+   ],
+   "url": "https://www.manualslib.com/manual/4261857/Imperial-Dabman-280cd.html"
+  },
+  {
+   "manualId": "3802711",
+   "slug": "imperial-dabman-30-manual",
+   "title": "Imperial DABMAN 30 Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3802711/imperial-dabman-30-manual.html"
+  },
+  {
+   "manualId": "3660989",
+   "slug": "imperial-dabman-i200-manual",
+   "title": "Imperial DABMAN i200 Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3660989/imperial-dabman-i200-manual.html"
+  },
+  {
+   "manualId": "1934221",
+   "slug": "Imperial-Dabman-I500-Bt",
+   "title": "Imperial DABMAN i500 BT Manual",
+   "type": "Other",
+   "pages": 244,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1934221/Imperial-Dabman-I500-Bt.html"
+  },
+  {
+   "manualId": "4442152",
+   "slug": "imperial-iaba-radiant-smoke-broiler-owner-s-manual",
+   "title": "Imperial IABA Radiant Smoke Broiler Owner's Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4442152/imperial-iaba-radiant-smoke-broiler-owner-s-manual.html"
+  },
+  {
+   "manualId": "4236983",
+   "slug": "imperial-ir-series-range-installation-and-operation-manual",
+   "title": "Imperial IR Series Range Installation & Operation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4236983/imperial-ir-series-range-installation-and-operation-manual.html"
+  },
+  {
+   "manualId": "528281",
+   "slug": "Imperial-Imperial-Mdg-4-64-1-U",
+   "title": "Imperial MDG 4.64-1 U operating instructions manual",
+   "type": "User / Owner",
+   "pages": 68,
+   "productModel": "Imperial MDG 4.64-1 U",
+   "extraModels": [
+    "Imperial MDG 5.64-1 U"
+   ],
+   "url": "https://www.manualslib.com/manual/528281/Imperial-Imperial-Mdg-4-64-1-U.html"
+  },
+  {
+   "manualId": "4146886",
+   "slug": "imperial-pro-series-ifs-75-ifs-40-ifs-25-ifs-75-op-ifs-40-d-ifst-25-ifs-2525-manual",
+   "title": "Imperial Pro Series, IFS-75, IFS-40, IFS-25, IFS-75-OP, IFS-40-D, IFST-25, IFS-2525 Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4146886/imperial-pro-series-ifs-75-ifs-40-ifs-25-ifs-75-op-ifs-40-d-ifst-25-ifs-2525-manual.html"
+  },
+  {
+   "manualId": "1690905",
+   "slug": "Imperial-Oban-Marble",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1690905/Imperial-Oban-Marble.html"
+  },
+  {
+   "manualId": "953456",
+   "slug": "Imperial-Nv30",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/953456/Imperial-Nv30.html"
+  },
+  {
+   "manualId": "1036199",
+   "slug": "Imperial-Wh1900",
+   "title": "Installation instructions & warranty information",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1036199/Imperial-Wh1900.html"
+  },
+  {
+   "manualId": "1080941",
+   "slug": "Imperial-1900t-10",
+   "title": "Installation Instructions & Warranty Information",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1080941/Imperial-1900t-10.html"
+  },
+  {
+   "manualId": "2141671",
+   "slug": "Imperial-Slim-Line-Series",
+   "title": "Installation instructions & warranty information",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2141671/Imperial-Slim-Line-Series.html"
+  },
+  {
+   "manualId": "2745926",
+   "slug": "Imperial-42nv-Wh",
+   "title": "Installation Instructions & Warranty Information",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2745926/Imperial-42nv-Wh.html"
+  },
+  {
+   "manualId": "3040283",
+   "slug": "Imperial-Wh1900b-K",
+   "title": "Installation instructions & warranty information",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3040283/Imperial-Wh1900b-K.html"
+  },
+  {
+   "manualId": "3467419",
+   "slug": "Imperial-Wall-Shell-Wh1900b-8",
+   "title": "Installation Instructions & Warranty Information",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3467419/Imperial-Wall-Shell-Wh1900b-8.html"
+  },
+  {
+   "manualId": "2098482",
+   "slug": "Imperial-Radcliffe-Westbury-Twin-Vanity-Unit-With-3-Drawers",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2098482/Imperial-Radcliffe-Westbury-Twin-Vanity-Unit-With-3-Drawers.html"
+  },
+  {
+   "manualId": "814996",
+   "slug": "Imperial-1900d-Series",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/814996/Imperial-1900d-Series.html"
+  },
+  {
+   "manualId": "851160",
+   "slug": "Imperial-G3000-Series",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/851160/Imperial-G3000-Series.html"
+  },
+  {
+   "manualId": "851336",
+   "slug": "Imperial-Ma7",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/851336/Imperial-Ma7.html"
+  },
+  {
+   "manualId": "1084889",
+   "slug": "Imperial-Scantel-Im580",
+   "title": "Instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1084889/Imperial-Scantel-Im580.html"
+  },
+  {
+   "manualId": "1084903",
+   "slug": "Imperial-Scantel-Im630",
+   "title": "Instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1084903/Imperial-Scantel-Im630.html"
+  },
+  {
+   "manualId": "1091732",
+   "slug": "Imperial-Scantel-Opticon",
+   "title": "Instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1091732/Imperial-Scantel-Opticon.html"
+  },
+  {
+   "manualId": "1092772",
+   "slug": "Imperial-Scantel-510",
+   "title": "Instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1092772/Imperial-Scantel-510.html"
+  },
+  {
+   "manualId": "1118542",
+   "slug": "Imperial-Scantel-Im2001",
+   "title": "Instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1118542/Imperial-Scantel-Im2001.html"
+  },
+  {
+   "manualId": "1253693",
+   "slug": "Imperial-Cs-2000",
+   "title": "Instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1253693/Imperial-Cs-2000.html"
+  },
+  {
+   "manualId": "4116082",
+   "slug": "Imperial-664-Fh-Series",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4116082/Imperial-664-Fh-Series.html"
+  },
+  {
+   "manualId": "1653819",
+   "slug": "Imperial-Kwik-Coupler",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1653819/Imperial-Kwik-Coupler.html"
+  },
+  {
+   "manualId": "2066707",
+   "slug": "Imperial-2601",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2066707/Imperial-2601.html"
+  },
+  {
+   "manualId": "3186026",
+   "slug": "Imperial-270-F-Series",
+   "title": "Instructions For Use",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3186026/Imperial-270-F-Series.html"
+  },
+  {
+   "manualId": "4265184",
+   "slug": "Imperial-270-F-Series",
+   "title": "Instructions For Use",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4265184/Imperial-270-F-Series.html"
+  },
+  {
+   "manualId": "3328841",
+   "slug": "Imperial-1-1-8-Od",
+   "title": "Instructions Of Use",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3328841/Imperial-1-1-8-Od.html"
+  },
+  {
+   "manualId": "3769236",
+   "slug": "Imperial-Ipc-Series",
+   "title": "IPC Series owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "IPC Series",
+   "extraModels": [
+    "IPC-14",
+    "IPC-18"
+   ],
+   "url": "https://www.manualslib.com/manual/3769236/Imperial-Ipc-Series.html"
+  },
+  {
+   "manualId": "1006551",
+   "slug": "Imperial-Ir-Series",
+   "title": "IR series owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "IR series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1006551/Imperial-Ir-Series.html"
+  },
+  {
+   "manualId": "4193280",
+   "slug": "Imperial-Ir-6",
+   "title": "IR series Ownersmanual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "IR series",
+   "extraModels": [
+    "IR series",
+    "IR-10",
+    "IR-4",
+    "IR-6-C"
+   ],
+   "url": "https://www.manualslib.com/manual/4193280/Imperial-Ir-6.html"
+  },
+  {
+   "manualId": "1367794",
+   "slug": "Imperial-Ir-4-E",
+   "title": "IR-10-E owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "IR-10-E",
+   "extraModels": [
+    "IR-10-E",
+    "IR-6-E"
+   ],
+   "url": "https://www.manualslib.com/manual/1367794/Imperial-Ir-4-E.html"
+  },
+  {
+   "manualId": "895665",
+   "slug": "Imperial-Ir-4-E",
+   "title": "IR-10-E owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "IR-10-E",
+   "extraModels": [
+    "IR-10-E",
+    "IR-6-E"
+   ],
+   "url": "https://www.manualslib.com/manual/895665/Imperial-Ir-4-E.html"
+  },
+  {
+   "manualId": "4566555",
+   "slug": "Imperial-Ir-G24-Xb",
+   "title": "IR-6-E Ownersmanual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "IR-6-E",
+   "extraModels": [
+    "IR-6-E"
+   ],
+   "url": "https://www.manualslib.com/manual/4566555/Imperial-Ir-G24-Xb.html"
+  },
+  {
+   "manualId": "2395009",
+   "slug": "Imperial-Is1900bp",
+   "title": "IS1900BP installation instructions manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "IS1900BP",
+   "extraModels": [
+    "IS1900PS",
+    "IS1900PS1-TW",
+    "IS2000PS",
+    "IS2000PS1-TW",
+    "ISN2000PS",
+    "ISN2000PS1-TW",
+    "ISP1900PS",
+    "ISP1900PS1-TW"
+   ],
+   "url": "https://www.manualslib.com/manual/2395009/Imperial-Is1900bp.html"
+  },
+  {
+   "manualId": "3999998",
+   "slug": "Imperial-Kt-1420a",
+   "title": "KT-1420A instruction manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "KT-1420A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3999998/Imperial-Kt-1420a.html"
+  },
+  {
+   "manualId": "2247768",
+   "slug": "Imperial-Ld920",
+   "title": "LD920 user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "LD920",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2247768/Imperial-Ld920.html"
+  },
+  {
+   "manualId": "2362647",
+   "slug": "Imperial-Scoville-Neverstick",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2362647/Imperial-Scoville-Neverstick.html"
+  },
+  {
+   "manualId": "4012490",
+   "slug": "Imperial-370fh",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4012490/Imperial-370fh.html"
+  },
+  {
+   "manualId": "900300",
+   "slug": "Imperial-Opticon",
+   "title": "Opticon user manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "Opticon",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/900300/Imperial-Opticon.html"
+  },
+  {
+   "manualId": "2927217",
+   "slug": "Imperial-Oslo-29-29202747",
+   "title": "OSLO 29-29202747 Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "OSLO 29-29202747",
+   "extraModels": [
+    "OSLO 29-29202748"
+   ],
+   "url": "https://www.manualslib.com/manual/2927217/Imperial-Oslo-29-29202747.html"
+  },
+  {
+   "manualId": "1015137",
+   "slug": "Imperial-Ihr-Series",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1015137/Imperial-Ihr-Series.html"
+  },
+  {
+   "manualId": "2036552",
+   "slug": "Imperial-Msq",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2036552/Imperial-Msq.html"
+  },
+  {
+   "manualId": "3072861",
+   "slug": "Imperial-Icb-Series",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [
+    "IHPA SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/3072861/Imperial-Icb-Series.html"
+  },
+  {
+   "manualId": "792901",
+   "slug": "Imperial-Icv-Series",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/792901/Imperial-Icv-Series.html"
+  },
+  {
+   "manualId": "3143603",
+   "slug": "Imperial-Icve",
+   "title": "Owners Manual Installation, Operation, & Maintenance Instructions",
+   "type": "Service",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [
+    "ICVE-2"
+   ],
+   "url": "https://www.manualslib.com/manual/3143603/Imperial-Icve.html"
+  },
+  {
+   "manualId": "4022092",
+   "slug": "Imperial-Irtc-16-E",
+   "title": "Owners manual installation, operation, & maintenance instructions",
+   "type": "Service",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4022092/Imperial-Irtc-16-E.html"
+  },
+  {
+   "manualId": "4449220",
+   "slug": "Imperial-Icma-E",
+   "title": "Owners manual installation, operation, & maintenance instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4449220/Imperial-Icma-E.html"
+  },
+  {
+   "manualId": "903461",
+   "slug": "Imperial-Electric-Hot-Plates",
+   "title": "Owners Manual Installation, Operation, & Maintenance Instructions",
+   "type": "Service",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/903461/Imperial-Electric-Hot-Plates.html"
+  },
+  {
+   "manualId": "1079228",
+   "slug": "Imperial-Pastafacile",
+   "title": "PastaFacile instruction manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "PastaFacile",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1079228/Imperial-Pastafacile.html"
+  },
+  {
+   "manualId": "3709197",
+   "slug": "Imperial-Pbb-1",
+   "title": "PBB 1 user manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "PBB 1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3709197/Imperial-Pbb-1.html"
+  },
+  {
+   "manualId": "1030130",
+   "slug": "Imperial-Xdh-7-15-Hrv",
+   "title": "PH 10.22 HRV ES installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "PH 10.22 HRV ES",
+   "extraModels": [
+    "PH 10.22 HRV ES",
+    "PH 7.15 HRV ES",
+    "Solace XPH 1.5 HRV",
+    "Solace XPH 2.0 HRV"
+   ],
+   "url": "https://www.manualslib.com/manual/1030130/Imperial-Xdh-7-15-Hrv.html"
+  },
+  {
+   "manualId": "953041",
+   "slug": "Imperial-Powered-Liner-C2000-Series",
+   "title": "Powered Liner C2000 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Powered Liner C2000 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/953041/Imperial-Powered-Liner-C2000-Series.html"
+  },
+  {
+   "manualId": "1038706",
+   "slug": "Imperial-Bad-1",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1038706/Imperial-Bad-1.html"
+  },
+  {
+   "manualId": "4320932",
+   "slug": "Imperial-Westminster-Exposed-Thermostatic-Shower-Mixer",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4320932/Imperial-Westminster-Exposed-Thermostatic-Shower-Mixer.html"
+  },
+  {
+   "manualId": "875299",
+   "slug": "Imperial-Bad-1",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/875299/Imperial-Bad-1.html"
+  },
+  {
+   "manualId": "3878111",
+   "slug": "Imperial-Radcliffe",
+   "title": "Radcliffe installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Radcliffe",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878111/Imperial-Radcliffe.html"
+  },
+  {
+   "manualId": "1397292",
+   "slug": "Imperial-Radcliffe-Thurlestone-Series",
+   "title": "Radcliffe Thurlestone series General Installation Instructions",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Radcliffe Thurlestone series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1397292/Imperial-Radcliffe-Thurlestone-Series.html"
+  },
+  {
+   "manualId": "4554865",
+   "slug": "Imperial-Reno",
+   "title": "RENO Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "RENO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4554865/Imperial-Reno.html"
+  },
+  {
+   "manualId": "4116030",
+   "slug": "Imperial-Rk-3300-Hifi",
+   "title": "RK 3300 HiFi operating instructions manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "RK 3300 HiFi",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4116030/Imperial-Rk-3300-Hifi.html"
+  },
+  {
+   "manualId": "4555088",
+   "slug": "Imperial-Rowan",
+   "title": "ROWAN Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "ROWAN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4555088/Imperial-Rowan.html"
+  },
+  {
+   "manualId": "2314143",
+   "slug": "Imperial-Scottsdale",
+   "title": "SCOTTSDALE Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "SCOTTSDALE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2314143/Imperial-Scottsdale.html"
+  },
+  {
+   "manualId": "3625701",
+   "slug": "Imperial-Select-10-1900-10",
+   "title": "Select 10 1900-10 installation instructions manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "Select 10 1900-10",
+   "extraModels": [
+    "Select 10 1900SD4-10",
+    "Select 10 1930SD4-10-SS",
+    "Select 10 1936SD4-10-SS",
+    "Select 10 1942SD4-10-SS",
+    "Slim Line N1900",
+    "Slim Line N1900SD4",
+    "Slim Line N1900SD4SB",
+    "Slim Line N1930SD4-BL",
+    "Slim Line N1930SD4-SS",
+    "Slim Line N1930SD4-WH",
+    "Slim Line N1930SD4SB-BL",
+    "Slim Line N1930SD4SB-SS",
+    "Slim Line N1930SD4SB-WH",
+    "Slim Line N1936SD4-BL",
+    "Slim Line N1936SD4-SS",
+    "Slim Line N1936SD4-WH",
+    "Slim Line N1936SD4SB-BL",
+    "Slim Line N1936SD4SB-SS",
+    "Slim Line N1936SD4SB-WH",
+    "Slim Line N1942SD4-BL",
+    "Slim Line N1942SD4-SS",
+    "Slim Line N1942SD4-WH",
+    "Slim Line N1942SD4SB-BL",
+    "Slim Line N1942SD4SB-SS",
+    "Slim Line N1942SD4SB-WH"
+   ],
+   "url": "https://www.manualslib.com/manual/3625701/Imperial-Select-10-1900-10.html"
+  },
+  {
+   "manualId": "4328847",
+   "slug": "Imperial-200",
+   "title": "Short Instruction",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4328847/Imperial-200.html"
+  },
+  {
+   "manualId": "2440814",
+   "slug": "Imperial-Slim-Line-N1900",
+   "title": "Slim Line N1900 Installation instructions & warranty information",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Slim Line N1900",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2440814/Imperial-Slim-Line-N1900.html"
+  },
+  {
+   "manualId": "1184173",
+   "slug": "Imperial-Streamy-1",
+   "title": "STREAMY 1 user manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "STREAMY 1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1184173/Imperial-Streamy-1.html"
+  },
+  {
+   "manualId": "746391",
+   "slug": "Imperial-Tg5000ps-Ss",
+   "title": "TG5000PS-SS Installation manual and user's manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "TG5000PS-SS",
+   "extraModels": [
+    "TW5000PS-SS"
+   ],
+   "url": "https://www.manualslib.com/manual/746391/Imperial-Tg5000ps-Ss.html"
+  },
+  {
+   "manualId": "827787",
+   "slug": "Imperial-Tmv-1500",
+   "title": "TMV-1500 Operator's manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "TMV-1500",
+   "extraModels": [
+    "TMV-2000",
+    "TMV-2100",
+    "TMV-2300",
+    "TMV-2500 ALUM",
+    "TMV-3000",
+    "TMV-3200",
+    "TMV-3400",
+    "TMV-3600",
+    "TMV-3800",
+    "TMV-4000 ALUM",
+    "TMV-4300",
+    "TMV-4500",
+    "TMV-4800",
+    "TMV-5000",
+    "TMV-600 ALUM"
+   ],
+   "url": "https://www.manualslib.com/manual/827787/Imperial-Tmv-1500.html"
+  },
+  {
+   "manualId": "503759",
+   "slug": "Imperial-Ul1310a0",
+   "title": "UL1310A0 Important safety instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "UL1310A0",
+   "extraModels": [
+    "UL1710A0",
+    "UL1710A1",
+    "UL2110A0",
+    "UL2110A1",
+    "UL2500CA2",
+    "UL2500CA3",
+    "UL2500CA5"
+   ],
+   "url": "https://www.manualslib.com/manual/503759/Imperial-Ul1310a0.html"
+  },
+  {
+   "manualId": "628413",
+   "slug": "Imperial-Upright-Freezer",
+   "title": "UPRIGHT FREEZER Use & care manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "UPRIGHT FREEZER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/628413/Imperial-Upright-Freezer.html"
+  },
+  {
+   "manualId": "1355986",
+   "slug": "Imperial-Ld900",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1355986/Imperial-Ld900.html"
+  },
+  {
+   "manualId": "1743873",
+   "slug": "Imperial-Ld910",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1743873/Imperial-Ld910.html"
+  },
+  {
+   "manualId": "4545424",
+   "slug": "Imperial-364fhb",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4545424/Imperial-364fhb.html"
+  },
+  {
+   "manualId": "719791",
+   "slug": "Imperial-W10454005a",
+   "title": "W10454005A Use & care manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "W10454005A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/719791/Imperial-W10454005a.html"
+  },
+  {
+   "manualId": "2151423",
+   "slug": "Imperial-Westbury-1-Drawer",
+   "title": "Westbury 1 Drawer installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Westbury 1 Drawer",
+   "extraModels": [
+    "Westbury Open"
+   ],
+   "url": "https://www.manualslib.com/manual/2151423/Imperial-Westbury-1-Drawer.html"
+  },
+  {
+   "manualId": "628218",
+   "slug": "Imperial-Winchester",
+   "title": "Winchester owner's manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "Winchester",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/628218/Imperial-Winchester.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "3802711",
+   "slug": "imperial-dabman-30-manual",
+   "title": "Imperial DABMAN 30 Manual"
+  },
+  {
+   "manualId": "4236983",
+   "slug": "imperial-ir-series-range-installation-and-operation-manual",
+   "title": "Imperial IR Series Range Installation & Operation Manual"
+  },
+  {
+   "manualId": "3660989",
+   "slug": "imperial-dabman-i200-manual",
+   "title": "Imperial DABMAN i200 Manual"
+  },
+  {
+   "manualId": "4146886",
+   "slug": "imperial-pro-series-ifs-75-ifs-40-ifs-25-ifs-75-op-ifs-40-d-ifst-25-ifs-2525-manual",
+   "title": "Imperial Pro Series, IFS-75, IFS-40, IFS-25, IFS-75-OP, IFS-40-D, IFST-25, IFS-2525 Manual"
+  },
+  {
+   "manualId": "4442152",
+   "slug": "imperial-iaba-radiant-smoke-broiler-owner-s-manual",
+   "title": "Imperial IABA Radiant Smoke Broiler Owner's Manual"
+  }
+ ],
+ "techDirectIds": [
+  "imperial"
+ ]
+}

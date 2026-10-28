@@ -1,0 +1,585 @@
+{
+ "brand": "Senville",
+ "brandSlug": "senville",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/senville/"
+ ],
+ "slugUsed": "senville",
+ "capturedAt": "2026-10-28T09:21:23.546722+00:00",
+ "typePages": [
+  {
+   "path": "/brand/senville/air-conditioner.html",
+   "manuals": 163,
+   "status": 200
+  },
+  {
+   "path": "/brand/senville/air-cleaner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/senville/dehumidifier.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/senville/fan.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/senville/remote-control.html",
+   "manuals": 4,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4508647",
+   "slug": "Senville-A-Coil-Sendc-60co-C",
+   "title": "A-Coil SENDC-24CO Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 112,
+   "productModel": "A-Coil SENDC-24CO",
+   "extraModels": [
+    "A-Coil SENDC-24CO",
+    "A-Coil SENDC-24CO-B",
+    "A-Coil SENDC-36CO-B",
+    "A-Coil SENDC-36CO-C"
+   ],
+   "url": "https://www.manualslib.com/manual/4508647/Senville-A-Coil-Sendc-60co-C.html"
+  },
+  {
+   "manualId": "3217177",
+   "slug": "Senville-Leto-Series",
+   "title": "LETO Series installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "LETO Series",
+   "extraModels": [
+    "SENL09CD/IZ",
+    "SENL09CD/OZ",
+    "SENL12CD/IZ",
+    "SENL12CD/OZ",
+    "SENL18CD/IZ",
+    "SENL18CD/OZ",
+    "SENL24CD/IZ",
+    "SENL24CD/OZ",
+    "SENL30CD/IZ",
+    "SENL30CD/OZ"
+   ],
+   "url": "https://www.manualslib.com/manual/3217177/Senville-Leto-Series.html"
+  },
+  {
+   "manualId": "3273433",
+   "slug": "Senville-Moc-09hfn1-Bs0w",
+   "title": "MOC-09HFN1-BS0W installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "MOC-09HFN1-BS0W",
+   "extraModels": [
+    "MOC-12HFN1-BS0W",
+    "MOF-18HFN1-MS0W",
+    "MS9A-09HRDN1-BS0W",
+    "MS9A-12HRDN1-BS0W",
+    "MS9A-18HRDN1-MS0W"
+   ],
+   "url": "https://www.manualslib.com/manual/3273433/Senville-Moc-09hfn1-Bs0w.html"
+  },
+  {
+   "manualId": "814750",
+   "slug": "Senville-Ms9a-09hrdn1-Bs0w",
+   "title": "MOC-09HFN1-BS0W user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "MOC-09HFN1-BS0W",
+   "extraModels": [
+    "MOC-09HFN1-BS0W",
+    "MOC-12HFN1-BS0W",
+    "MOF-18HFN1-MS0W",
+    "MS9A-12HRDN1-BS0W",
+    "MS9A-18HRDN1-MS0W"
+   ],
+   "url": "https://www.manualslib.com/manual/814750/Senville-Ms9a-09hrdn1-Bs0w.html"
+  },
+  {
+   "manualId": "1031459",
+   "slug": "Senville-Rg51m1",
+   "title": "RG51EU1 user manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "RG51EU1",
+   "extraModels": [
+    "RG51EU1",
+    "RG51M5CEU",
+    "RG51M5EU"
+   ],
+   "url": "https://www.manualslib.com/manual/1031459/Senville-Rg51m1.html"
+  },
+  {
+   "manualId": "2378059",
+   "slug": "Senville-Sena-18hf-Moz",
+   "title": "SENA 18HF MOZ Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "SENA 18HF MOZ",
+   "extraModels": [
+    "SENA 36HF MOZ",
+    "SENA 48HF MOZ"
+   ],
+   "url": "https://www.manualslib.com/manual/2378059/Senville-Sena-18hf-Moz.html"
+  },
+  {
+   "manualId": "3886135",
+   "slug": "Senville-Sena-30hf-Moz",
+   "title": "SENA 30HF MOZ Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "SENA 30HF MOZ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3886135/Senville-Sena-30hf-Moz.html"
+  },
+  {
+   "manualId": "2731176",
+   "slug": "Senville-Sena-012hf",
+   "title": "SENA-012HF Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "SENA-012HF",
+   "extraModels": [
+    "SENA-012IF",
+    "SENA-18IF",
+    "SENA-24IF"
+   ],
+   "url": "https://www.manualslib.com/manual/2731176/Senville-Sena-012hf.html"
+  },
+  {
+   "manualId": "4315223",
+   "slug": "Senville-Sena-09hf-1wc",
+   "title": "SENA-06HF-1WC installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "SENA-06HF-1WC",
+   "extraModels": [
+    "SENA-06HF-1WC",
+    "SENA-12HF-1WC",
+    "SENA-18HF-1WC"
+   ],
+   "url": "https://www.manualslib.com/manual/4315223/Senville-Sena-09hf-1wc.html"
+  },
+  {
+   "manualId": "4088442",
+   "slug": "Senville-Sena-12hf-Oq",
+   "title": "SENA-09HF-16 Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "SENA-09HF-16",
+   "extraModels": [
+    "SENA-09HF-16",
+    "SENA-12HF-16",
+    "SENA-18HF-16",
+    "SENA-24HF-16",
+    "SENA/09HF/IQ",
+    "SENA/09HF/OQ",
+    "SENA/12HF/IQ",
+    "SENA/18HF/IQ",
+    "SENA/18HF/OQ",
+    "SENA/24HF/IQ",
+    "SENA/24HF/OQ"
+   ],
+   "url": "https://www.manualslib.com/manual/4088442/Senville-Sena-12hf-Oq.html"
+  },
+  {
+   "manualId": "3902614",
+   "slug": "Senville-Sena-18hf",
+   "title": "SENA-18HF Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "SENA-18HF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3902614/Senville-Sena-18hf.html"
+  },
+  {
+   "manualId": "3902615",
+   "slug": "Senville-Sena-24hf",
+   "title": "SENA-24HF Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "SENA-24HF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3902615/Senville-Sena-24hf.html"
+  },
+  {
+   "manualId": "3954836",
+   "slug": "Senville-Sena-24hf-Ic",
+   "title": "SENA/09HF/IC installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "SENA/09HF/IC",
+   "extraModels": [
+    "SENA/09HF/IC",
+    "SENA/12HF/IC",
+    "SENA/18HF/IC"
+   ],
+   "url": "https://www.manualslib.com/manual/3954836/Senville-Sena-24hf-Ic.html"
+  },
+  {
+   "manualId": "2571263",
+   "slug": "Senville-Sena-09hf-Iq",
+   "title": "SENA/09HF/IQ Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "SENA/09HF/IQ",
+   "extraModels": [
+    "SENA/09HF/OQ",
+    "SENA/12HF/OQ",
+    "SENA/18HF/IQ",
+    "SENA/18HF/OQ",
+    "SENA/24HF/IQ"
+   ],
+   "url": "https://www.manualslib.com/manual/2571263/Senville-Sena-09hf-Iq.html"
+  },
+  {
+   "manualId": "4081704",
+   "slug": "Senville-Sena-09hf-Oq",
+   "title": "SENA/09HF/IQ Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "SENA/09HF/IQ",
+   "extraModels": [
+    "SENA/09HF/IQ",
+    "SENA/12HF/IF",
+    "SENA/12HF/IQ",
+    "SENA/12HF/OQ",
+    "SENA/18HF/IQ",
+    "SENA/18HF/OQ",
+    "SENA/24HF/IQ",
+    "SENA/24HF/OQ"
+   ],
+   "url": "https://www.manualslib.com/manual/4081704/Senville-Sena-09hf-Oq.html"
+  },
+  {
+   "manualId": "3894127",
+   "slug": "Senville-Sena-12hf-Iq",
+   "title": "SENA/12HF/IQ Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "SENA/12HF/IQ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3894127/Senville-Sena-12hf-Iq.html"
+  },
+  {
+   "manualId": "2229186",
+   "slug": "Senville-Sena-18hf-If",
+   "title": "SENA/18HF/IF Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "SENA/18HF/IF",
+   "extraModels": [
+    "SENA/24HF/IF"
+   ],
+   "url": "https://www.manualslib.com/manual/2229186/Senville-Sena-18hf-If.html"
+  },
+  {
+   "manualId": "3237225",
+   "slug": "Senville-Sena-18hf-Moq",
+   "title": "SENA/18HF/MOQ Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "SENA/18HF/MOQ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3237225/Senville-Sena-18hf-Moq.html"
+  },
+  {
+   "manualId": "3894128",
+   "slug": "Senville-Sena-24hf-Oq",
+   "title": "SENA/24HF/OQ Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "SENA/24HF/OQ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3894128/Senville-Sena-24hf-Oq.html"
+  },
+  {
+   "manualId": "3925203",
+   "slug": "Senville-Sena-30hf-Moq",
+   "title": "SENA/30HF/MOQ Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "SENA/30HF/MOQ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3925203/Senville-Sena-30hf-Moq.html"
+  },
+  {
+   "manualId": "3925204",
+   "slug": "Senville-Sena-36hf-Moq",
+   "title": "SENA/36HF/MOQ Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "SENA/36HF/MOQ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3925204/Senville-Sena-36hf-Moq.html"
+  },
+  {
+   "manualId": "3925205",
+   "slug": "Senville-Sena-48hf-Moq",
+   "title": "SENA/48HF/MOQ Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "SENA/48HF/MOQ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3925205/Senville-Sena-48hf-Moq.html"
+  },
+  {
+   "manualId": "2532332",
+   "slug": "Senville-Senap-W36us",
+   "title": "SENAP-W36US instruction manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "SENAP-W36US",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2532332/Senville-Senap-W36us.html"
+  },
+  {
+   "manualId": "3959410",
+   "slug": "Senville-Sendh-22aen1x",
+   "title": "SENDH-22AEN1X owner's manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "SENDH-22AEN1X",
+   "extraModels": [
+    "SENDH-35AEN1X",
+    "SENDH-50AEN1X"
+   ],
+   "url": "https://www.manualslib.com/manual/3959410/Senville-Sendh-22aen1x.html"
+  },
+  {
+   "manualId": "4581178",
+   "slug": "Senville-Sene-09el-Oh",
+   "title": "SENE-09EL-NL owner's manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "SENE-09EL-NL",
+   "extraModels": [
+    "SENE-09EL-NL",
+    "SENE-12EL-OH",
+    "SENE-18EL-NL",
+    "SENE-24EL-NL"
+   ],
+   "url": "https://www.manualslib.com/manual/4581178/Senville-Sene-09el-Oh.html"
+  },
+  {
+   "manualId": "2705426",
+   "slug": "Senville-Senl-09cd-16",
+   "title": "SENL-09CD-16 Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "SENL-09CD-16",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2705426/Senville-Senl-09cd-16.html"
+  },
+  {
+   "manualId": "2351812",
+   "slug": "Senville-Senl-09cd-220-Ix",
+   "title": "SENL/09CD/220/IX Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "SENL/09CD/220/IX",
+   "extraModels": [
+    "SENL/09CD/220/OX",
+    "SENL/09CD/IX",
+    "SENL/09CD/OX",
+    "SENL/12CD/220/IX",
+    "SENL/12CD/220/OX",
+    "SENL/12CD/OX",
+    "SENL/18CD/IX",
+    "SENL/24CD/IX",
+    "SENL/24CD/OX",
+    "SENL/30CD/IX",
+    "SENL/30CD/OX"
+   ],
+   "url": "https://www.manualslib.com/manual/2351812/Senville-Senl-09cd-220-Ix.html"
+  },
+  {
+   "manualId": "1050645",
+   "slug": "Senville-Senl-09cd-I",
+   "title": "SENL/09CD/I user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "SENL/09CD/I",
+   "extraModels": [
+    "SENL/09CD/O",
+    "SENL/12CD/I",
+    "SENL/12CD/O",
+    "SENL/18CD/I",
+    "SENL/18CD/O",
+    "SENL/24CD/I",
+    "SENL/24CD/O"
+   ],
+   "url": "https://www.manualslib.com/manual/1050645/Senville-Senl-09cd-I.html"
+  },
+  {
+   "manualId": "3884804",
+   "slug": "Senville-Senl-12cd-Ix",
+   "title": "SENL/12CD/IX Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "SENL/12CD/IX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3884804/Senville-Senl-12cd-Ix.html"
+  },
+  {
+   "manualId": "3884805",
+   "slug": "Senville-Senl-18cd-Ox",
+   "title": "SENL/18CD/OX Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "SENL/18CD/OX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3884805/Senville-Senl-18cd-Ox.html"
+  },
+  {
+   "manualId": "827648",
+   "slug": "Senville-Senl09hd",
+   "title": "SENL09HD Function manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "SENL09HD",
+   "extraModels": [
+    "SENL09HDI",
+    "SENL09HDO",
+    "SENL12HD",
+    "SENL12HDI",
+    "SENL12HDMI",
+    "SENL12HDO",
+    "SENL18HD",
+    "SENL18HDI",
+    "SENL18HDMO",
+    "SENL18HDO",
+    "SENL24HD",
+    "SENL24HDI",
+    "SENL24HDO"
+   ],
+   "url": "https://www.manualslib.com/manual/827648/Senville-Senl09hd.html"
+  },
+  {
+   "manualId": "3241649",
+   "slug": "Senville-Senl-09hd-O",
+   "title": "SENL09HDI installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "SENL09HDI",
+   "extraModels": [
+    "SENL09HDI",
+    "SENL12HDI",
+    "SENL12HDO",
+    "SENL18HDI",
+    "SENL18HDO",
+    "SENL24HDI",
+    "SENL24HDO"
+   ],
+   "url": "https://www.manualslib.com/manual/3241649/Senville-Senl-09hd-O.html"
+  },
+  {
+   "manualId": "848289",
+   "slug": "Senville-Senl-09hd-I",
+   "title": "SENL09HDI user manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "SENL09HDI",
+   "extraModels": [
+    "SENL09HDO",
+    "SENL12HDI",
+    "SENL12HDO",
+    "SENL18HDI",
+    "SENL18HDO",
+    "SENL24HDI",
+    "SENL24HDO"
+   ],
+   "url": "https://www.manualslib.com/manual/848289/Senville-Senl-09hd-I.html"
+  },
+  {
+   "manualId": "1082869",
+   "slug": "Senville-Senl-12hd-Mi",
+   "title": "SENL12HDMI installation manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "SENL12HDMI",
+   "extraModels": [
+    "SENL18HDMO"
+   ],
+   "url": "https://www.manualslib.com/manual/1082869/Senville-Senl-12hd-Mi.html"
+  },
+  {
+   "manualId": "839814",
+   "slug": "Senville-Senl-12hd-Mi",
+   "title": "SENL12HDMI user manual",
+   "type": "User / Owner",
+   "pages": 41,
+   "productModel": "SENL12HDMI",
+   "extraModels": [
+    "SENL18HDMO"
+   ],
+   "url": "https://www.manualslib.com/manual/839814/Senville-Senl-12hd-Mi.html"
+  },
+  {
+   "manualId": "1941087",
+   "slug": "Senville-Senp-10",
+   "title": "SENP/10 user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "SENP/10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1941087/Senville-Senp-10.html"
+  },
+  {
+   "manualId": "2656987",
+   "slug": "Senville-Senp-14z",
+   "title": "SENP/14Z user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "SENP/14Z",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2656987/Senville-Senp-14z.html"
+  },
+  {
+   "manualId": "2017146",
+   "slug": "Senville-Sentf-19jra",
+   "title": "SENTF-19JRA Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "SENTF-19JRA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2017146/Senville-Sentf-19jra.html"
+  },
+  {
+   "manualId": "3792824",
+   "slug": "Senville-Senvwac-05cmn8",
+   "title": "SENVWAC-05CMN8 user manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "SENVWAC-05CMN8",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3792824/Senville-Senvwac-05cmn8.html"
+  },
+  {
+   "manualId": "856337",
+   "slug": "Senville-Ms9a-24hrdn1-Bs0w",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/856337/Senville-Ms9a-24hrdn1-Bs0w.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "senville"
+ ]
+}

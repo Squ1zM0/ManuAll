@@ -1,0 +1,138 @@
+{
+ "brand": "Purafil",
+ "brandSlug": "purafil",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/purafil/"
+ ],
+ "slugUsed": "purafil",
+ "capturedAt": "2026-10-28T09:12:16.378691+00:00",
+ "typePages": [
+  {
+   "path": "/brand/purafil/air-cleaner.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/purafil/measuring-instruments.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/purafil/monitor.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/purafil/water-filtration-systems.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2582854",
+   "slug": "Purafil-Purashield-1000",
+   "title": "CPUM-1000 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "CPUM-1000",
+   "extraModels": [
+    "CPUM-1000"
+   ],
+   "url": "https://www.manualslib.com/manual/2582854/Purafil-Purashield-1000.html"
+  },
+  {
+   "manualId": "2335959",
+   "slug": "Purafil-Onguard-4000",
+   "title": "ONGuard 4000 quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "ONGuard 4000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2335959/Purafil-Onguard-4000.html"
+  },
+  {
+   "manualId": "1506002",
+   "slug": "Purafil-Onguard-Smart",
+   "title": "ONGUARD SMART user manual",
+   "type": "User / Owner",
+   "pages": 38,
+   "productModel": "ONGUARD SMART",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1506002/Purafil-Onguard-Smart.html"
+  },
+  {
+   "manualId": "2056810",
+   "slug": "Purafil-Purashield-500",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2056810/Purafil-Purashield-500.html"
+  },
+  {
+   "manualId": "2837987",
+   "slug": "Purafil-Purashield-500",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2837987/Purafil-Purashield-500.html"
+  },
+  {
+   "manualId": "4426420",
+   "slug": "purafil-onguard-4000-quick-start-guide",
+   "title": "Purafil ONGuard 4000 Quick Start Guide",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4426420/purafil-onguard-4000-quick-start-guide.html"
+  },
+  {
+   "manualId": "2636003",
+   "slug": "Purafil-Purashield-Mini",
+   "title": "PuraShield MINI user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "PuraShield MINI",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2636003/Purafil-Purashield-Mini.html"
+  },
+  {
+   "manualId": "2061955",
+   "slug": "Purafil-Purashield-Smart-500",
+   "title": "PuraShield Smart 1000 user manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "PuraShield Smart 1000",
+   "extraModels": [
+    "PuraShield Smart 1000",
+    "SMART-1000-1",
+    "SMART-1000-2",
+    "SMART-1000-3",
+    "SMART-500-1",
+    "SMART-500-2",
+    "SMART-500-3"
+   ],
+   "url": "https://www.manualslib.com/manual/2061955/Purafil-Purashield-Smart-500.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4426420",
+   "slug": "purafil-onguard-4000-quick-start-guide",
+   "title": "Purafil ONGuard 4000 Quick Start Guide"
+  }
+ ],
+ "techDirectIds": [
+  "purafil"
+ ]
+}

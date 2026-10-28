@@ -1,0 +1,623 @@
+{
+ "brand": "Data Aire",
+ "brandSlug": "data-aire",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/data-aire/"
+ ],
+ "slugUsed": "data-aire",
+ "capturedAt": "2026-10-28T06:50:49.606326+00:00",
+ "typePages": [
+  {
+   "path": "/brand/data-aire/air-conditioner.html",
+   "manuals": 149,
+   "status": 200
+  },
+  {
+   "path": "/brand/data-aire/accessories.html",
+   "manuals": 77,
+   "status": 200
+  },
+  {
+   "path": "/brand/data-aire/chiller.html",
+   "manuals": 30,
+   "status": 200
+  },
+  {
+   "path": "/brand/data-aire/computer-hardware.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/data-aire/control-panel.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/data-aire/control-systems.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/data-aire/control-unit.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/data-aire/controller.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/data-aire/fan.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/data-aire/network-card.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/data-aire/security-system.html",
+   "manuals": 4,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2884251",
+   "slug": "Data-Aire-Dapa-2-5",
+   "title": "DA PA-04 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 81,
+   "productModel": "DA PA-04",
+   "extraModels": [
+    "DA PA-04",
+    "DAPA-03",
+    "DAPA-05"
+   ],
+   "url": "https://www.manualslib.com/manual/2884251/Data-Aire-Dapa-2-5.html"
+  },
+  {
+   "manualId": "1477135",
+   "slug": "Data-Aire-Dac-Series",
+   "title": "DAC Series Operation and maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "DAC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1477135/Data-Aire-Dac-Series.html"
+  },
+  {
+   "manualId": "2581219",
+   "slug": "Data-Aire-Ghfc-Series",
+   "title": "DAFC 06 Installation, operating and maintenance manual",
+   "type": "Service",
+   "pages": 45,
+   "productModel": "DAFC 06",
+   "extraModels": [
+    "DAFC 06",
+    "DAFC 07",
+    "DAFC 09",
+    "DAFC 11",
+    "DAFC 15",
+    "DAFC 17",
+    "DAFC 24",
+    "DAFC 28",
+    "DAFC 30",
+    "DAFC 100",
+    "DAFC 21",
+    "DAFC 37",
+    "DAFC 40",
+    "DAFC 44",
+    "DAFC 50",
+    "DAFC 57",
+    "DAFC 61",
+    "DAFC 75",
+    "DAFC 80",
+    "DAFC 88",
+    "GHFC 021",
+    "GHFC 025",
+    "GHFC 032",
+    "GHFC 039",
+    "GHFC 053",
+    "GHFC 060",
+    "GHFC 074",
+    "GHFC 084",
+    "GHFC 099",
+    "GHFC 106",
+    "GHFC 130",
+    "GHFC 141",
+    "GHFC 155",
+    "GHFC 176",
+    "GHFC 201",
+    "GHFC 215",
+    "GHFC 264",
+    "GHFC 281",
+    "GHFC 310",
+    "GHFC 352"
+   ],
+   "url": "https://www.manualslib.com/manual/2581219/Data-Aire-Ghfc-Series.html"
+  },
+  {
+   "manualId": "848962",
+   "slug": "Data-Aire-Lcs",
+   "title": "DAFC 06 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "DAFC 06",
+   "extraModels": [
+    "DAFC 06",
+    "DAFC 07",
+    "DAFC 09",
+    "DAFC 11",
+    "DAFC 15",
+    "DAFC 17",
+    "DAFC 24",
+    "DAFC 28",
+    "DAFC 30",
+    "DALA 06",
+    "DALA 08",
+    "DALA 10",
+    "DALA 13",
+    "DALC 06",
+    "DALC 08",
+    "DALC 10",
+    "DALC 13",
+    "DALG 06",
+    "DALG 08",
+    "DALG 10",
+    "DALG 13",
+    "DALW 06",
+    "DALW 08",
+    "DALW 10",
+    "DALW 13"
+   ],
+   "url": "https://www.manualslib.com/manual/848962/Data-Aire-Lcs.html"
+  },
+  {
+   "manualId": "848964",
+   "slug": "Data-Aire-Mini-Ceiling-Series",
+   "title": "DAFC 06 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 39,
+   "productModel": "DAFC 06",
+   "extraModels": [
+    "DAFC 06",
+    "DAFC 07",
+    "DAFC 09",
+    "DAFC 11",
+    "DAFC 15",
+    "DAFC 17",
+    "DAMA 0112",
+    "DAMA 0212",
+    "DAMA 1.512",
+    "DAMA 2.512",
+    "MINI CEILING SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/848964/Data-Aire-Mini-Ceiling-Series.html"
+  },
+  {
+   "manualId": "849550",
+   "slug": "Data-Aire-Lcs",
+   "title": "DAFC 06 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "DAFC 06",
+   "extraModels": [
+    "DAFC 06",
+    "DAFC 07",
+    "DAFC 09",
+    "DAFC 11",
+    "DAFC 15",
+    "DAFC 17",
+    "DAFC 24",
+    "DAFC 28",
+    "DAFC 30",
+    "DALA 06",
+    "DALA 08",
+    "DALA 10",
+    "DALA 13",
+    "DALC 06",
+    "DALC 08",
+    "DALC 10",
+    "DALC 13",
+    "DALG 06",
+    "DALG 08",
+    "DALG 10",
+    "DALG 13",
+    "DALW 06",
+    "DALW 08",
+    "DALW 10",
+    "DALW 13"
+   ],
+   "url": "https://www.manualslib.com/manual/849550/Data-Aire-Lcs.html"
+  },
+  {
+   "manualId": "2994076",
+   "slug": "Data-Aire-Dafc",
+   "title": "DAFC Manual And User Manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "DAFC",
+   "extraModels": [
+    "DAFC-PB"
+   ],
+   "url": "https://www.manualslib.com/manual/2994076/Data-Aire-Dafc.html"
+  },
+  {
+   "manualId": "3894514",
+   "slug": "Data-Aire-Dafc-Series",
+   "title": "DAFC Series Installation, operating and maintenance manual",
+   "type": "Service",
+   "pages": 45,
+   "productModel": "DAFC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3894514/Data-Aire-Dafc-Series.html"
+  },
+  {
+   "manualId": "866875",
+   "slug": "Data-Aire-Dama-01",
+   "title": "DAFC-06 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "DAFC-06",
+   "extraModels": [
+    "DAFC-06",
+    "DAFC-07",
+    "DAFC-09",
+    "DAFC-11",
+    "DAFC-15",
+    "DAFC-17",
+    "DAMA-02",
+    "DAMA-1.5",
+    "DAMA-2.5",
+    "DAMW/G-01",
+    "DAMW/G-02",
+    "DAMW/G-1.5",
+    "DAMW/G-2.5"
+   ],
+   "url": "https://www.manualslib.com/manual/866875/Data-Aire-Dama-01.html"
+  },
+  {
+   "manualId": "2884132",
+   "slug": "Data-Aire-Dal-06",
+   "title": "DAL-06 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 83,
+   "productModel": "DAL-06",
+   "extraModels": [
+    "DAL-08",
+    "DAL-10",
+    "DAL-13"
+   ],
+   "url": "https://www.manualslib.com/manual/2884132/Data-Aire-Dal-06.html"
+  },
+  {
+   "manualId": "2884373",
+   "slug": "Data-Aire-Dama-01",
+   "title": "DAMA-01 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 82,
+   "productModel": "DAMA-01",
+   "extraModels": [
+    "DAMA-02",
+    "DAMA-1.5",
+    "DAMA-2.5"
+   ],
+   "url": "https://www.manualslib.com/manual/2884373/Data-Aire-Dama-01.html"
+  },
+  {
+   "manualId": "1843604",
+   "slug": "Data-Aire-Dap-Iii",
+   "title": "DAP III instructions manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "DAP III",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1843604/Data-Aire-Dap-Iii.html"
+  },
+  {
+   "manualId": "1834530",
+   "slug": "Data-Aire-Dap-Iii",
+   "title": "DAP III Integration Information",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "DAP III",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1834530/Data-Aire-Dap-Iii.html"
+  },
+  {
+   "manualId": "1623144",
+   "slug": "Data-Aire-Dap-Iii",
+   "title": "DAP III Operation manual",
+   "type": "Other",
+   "pages": 94,
+   "productModel": "DAP III",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1623144/Data-Aire-Dap-Iii.html"
+  },
+  {
+   "manualId": "1645039",
+   "slug": "Data-Aire-Dap4",
+   "title": "dap4 touch Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "dap4 touch",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1645039/Data-Aire-Dap4.html"
+  },
+  {
+   "manualId": "1213342",
+   "slug": "Data-Aire-Dap-4",
+   "title": "dap4 touch Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 113,
+   "productModel": "dap4 touch",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1213342/Data-Aire-Dap-4.html"
+  },
+  {
+   "manualId": "1754566",
+   "slug": "Data-Aire-Dap4",
+   "title": "dap4 touch Protocol manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "dap4 touch",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1754566/Data-Aire-Dap4.html"
+  },
+  {
+   "manualId": "1260125",
+   "slug": "Data-Aire-Dap4",
+   "title": "dap4 touch quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "dap4 touch",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1260125/Data-Aire-Dap4.html"
+  },
+  {
+   "manualId": "1645706",
+   "slug": "Data-Aire-Dap4",
+   "title": "dap4 touch Supplement manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "dap4 touch",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1645706/Data-Aire-Dap4.html"
+  },
+  {
+   "manualId": "1549664",
+   "slug": "Data-Aire-Dap4-Touch",
+   "title": "dap4 touch user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "dap4 touch",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1549664/Data-Aire-Dap4-Touch.html"
+  },
+  {
+   "manualId": "1799512",
+   "slug": "Data-Aire-Dap4",
+   "title": "dap4 touch user manual",
+   "type": "User / Owner",
+   "pages": 118,
+   "productModel": "dap4 touch",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1799512/Data-Aire-Dap4.html"
+  },
+  {
+   "manualId": "2157868",
+   "slug": "Data-Aire-Dap4",
+   "title": "dap4 touch user manual",
+   "type": "User / Owner",
+   "pages": 137,
+   "productModel": "dap4 touch",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2157868/Data-Aire-Dap4.html"
+  },
+  {
+   "manualId": "1561858",
+   "slug": "Data-Aire-Dara-4g2",
+   "title": "dara-4g2 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "dara-4g2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1561858/Data-Aire-Dara-4g2.html"
+  },
+  {
+   "manualId": "2386607",
+   "slug": "Data-Aire-Darc-03",
+   "title": "DARC 03 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "DARC 03",
+   "extraModels": [
+    "DARC 05",
+    "DARC 07",
+    "DARC 09",
+    "DARC 100",
+    "DARC 100 DW2",
+    "DARC 11",
+    "DARC 15",
+    "DARC 17",
+    "DARC 21",
+    "DARC 24",
+    "DARC 28",
+    "DARC 30",
+    "DARC 37",
+    "DARC 40",
+    "DARC 44",
+    "DARC 50",
+    "DARC 57",
+    "DARC 57 DW2",
+    "DARC 61",
+    "DARC 61 DW2",
+    "DARC 75",
+    "DARC 75 DW2",
+    "DARC 80",
+    "DARC 80 DW2",
+    "DARC 88",
+    "DARC 88 DW2",
+    "GHRC 011",
+    "GHRC 018",
+    "GHRC 025",
+    "GHRC 032",
+    "GHRC 039",
+    "GHRC 053",
+    "GHRC 060",
+    "GHRC 074",
+    "GHRC 084",
+    "GHRC 099",
+    "GHRC 106",
+    "GHRC 130",
+    "GHRC 141",
+    "GHRC 155",
+    "GHRC 176",
+    "GHRC 201",
+    "GHRC 215",
+    "GHRC 264",
+    "GHRC 281",
+    "GHRC 310",
+    "GHRC 352"
+   ],
+   "url": "https://www.manualslib.com/manual/2386607/Data-Aire-Darc-03.html"
+  },
+  {
+   "manualId": "2833885",
+   "slug": "Data-Aire-Gforce-Dx",
+   "title": "gForce DX Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 85,
+   "productModel": "gForce DX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2833885/Data-Aire-Gforce-Dx.html"
+  },
+  {
+   "manualId": "2399226",
+   "slug": "Data-Aire-Gforce-Dx-Series",
+   "title": "gForce DX series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "gForce DX series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2399226/Data-Aire-Gforce-Dx-Series.html"
+  },
+  {
+   "manualId": "1549809",
+   "slug": "Data-Aire-Gforce-Gt-Series",
+   "title": "gForce GT series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "gForce GT series",
+   "extraModels": [
+    "gForce UltraI series"
+   ],
+   "url": "https://www.manualslib.com/manual/1549809/Data-Aire-Gforce-Gt-Series.html"
+  },
+  {
+   "manualId": "2919468",
+   "slug": "Data-Aire-Gforce-Ultra",
+   "title": "gForce Ultra Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 123,
+   "productModel": "gForce Ultra",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2919468/Data-Aire-Gforce-Ultra.html"
+  },
+  {
+   "manualId": "2078019",
+   "slug": "Data-Aire-Gforce-Ultra",
+   "title": "gForce Ultra Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "gForce Ultra",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2078019/Data-Aire-Gforce-Ultra.html"
+  },
+  {
+   "manualId": "1951907",
+   "slug": "Data-Aire-Gforce-Ultra",
+   "title": "gForce Ultra user manual",
+   "type": "User / Owner",
+   "pages": 133,
+   "productModel": "gForce Ultra",
+   "extraModels": [
+    "GUGD 036",
+    "GUGD 045",
+    "GUGD 056",
+    "GUGD 070",
+    "GUGD 106",
+    "GUGU 036",
+    "GUGU 045",
+    "GUGU 056",
+    "GUGU 070",
+    "GUGU 106"
+   ],
+   "url": "https://www.manualslib.com/manual/1951907/Data-Aire-Gforce-Ultra.html"
+  },
+  {
+   "manualId": "2078022",
+   "slug": "Data-Aire-Gpod",
+   "title": "gPod Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 100,
+   "productModel": "gPod",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2078022/Data-Aire-Gpod.html"
+  },
+  {
+   "manualId": "2078026",
+   "slug": "Data-Aire-Idap",
+   "title": "idap Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "idap",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2078026/Data-Aire-Idap.html"
+  },
+  {
+   "manualId": "1752602",
+   "slug": "Data-Aire-Lonworks-Dap4",
+   "title": "LonWorks dap4 instructions manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "LonWorks dap4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1752602/Data-Aire-Lonworks-Dap4.html"
+  },
+  {
+   "manualId": "1589850",
+   "slug": "Data-Aire-Mini-Dap4",
+   "title": "Mini dap4 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Mini dap4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1589850/Data-Aire-Mini-Dap4.html"
+  },
+  {
+   "manualId": "1181940",
+   "slug": "Data-Aire-Mini-Data-Alarm-Processor-Ii",
+   "title": "MINI DATA ALARM PROCESSOR II Operation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "MINI DATA ALARM PROCESSOR II",
+   "extraModels": [
+    "MINI DATA ALARM PROCESSOR II"
+   ],
+   "url": "https://www.manualslib.com/manual/1181940/Data-Aire-Mini-Data-Alarm-Processor-Ii.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "data-aire"
+ ]
+}

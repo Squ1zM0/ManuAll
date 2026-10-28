@@ -1,0 +1,2612 @@
+{
+ "brand": "Calpeda",
+ "brandSlug": "calpeda",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/calpeda/"
+ ],
+ "slugUsed": "calpeda",
+ "capturedAt": "2026-10-28T06:33:20.682528+00:00",
+ "typePages": [
+  {
+   "path": "/brand/calpeda/control-panel.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/calpeda/control-systems.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/calpeda/control-unit.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/calpeda/controller.html",
+   "manuals": 56,
+   "status": 200
+  },
+  {
+   "path": "/brand/calpeda/dc-drives.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/calpeda/engine.html",
+   "manuals": 32,
+   "status": 200
+  },
+  {
+   "path": "/brand/calpeda/extender.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/calpeda/media-converter.html",
+   "manuals": 32,
+   "status": 200
+  },
+  {
+   "path": "/brand/calpeda/security-system.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/calpeda/swimming-pool-pump.html",
+   "manuals": 34,
+   "status": 200
+  },
+  {
+   "path": "/brand/calpeda/water-filtration-systems.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/calpeda/water-pump.html",
+   "manuals": 929,
+   "status": 200
+  },
+  {
+   "path": "/brand/calpeda/water-system.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4142933",
+   "slug": "Calpeda-2meta-Bs2v",
+   "title": "2META SMALL BS2V operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "2META SMALL BS2V",
+   "extraModels": [
+    "BS2V 2META"
+   ],
+   "url": "https://www.manualslib.com/manual/4142933/Calpeda-2meta-Bs2v.html"
+  },
+  {
+   "manualId": "1975618",
+   "slug": "Calpeda-4cs-Series",
+   "title": "4CS Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "4CS Series",
+   "extraModels": [
+    "6CS-R 11",
+    "6CS-R 13",
+    "6CS-R 15",
+    "6CS-R 18,5",
+    "6CS-R 22",
+    "6CS-R 26",
+    "6CS-R 30",
+    "6CS-R 37",
+    "6CS-R 4",
+    "6CS-R 45",
+    "6CS-R 5,5",
+    "6CS-R 7,5",
+    "6CS-R 9,2",
+    "8CS-R 30",
+    "8CS-R 37",
+    "8CS-R 45",
+    "8CS-R 51",
+    "8CS-R 59",
+    "8CS-R 66",
+    "8CS-R 75",
+    "8CS-R 92"
+   ],
+   "url": "https://www.manualslib.com/manual/1975618/Calpeda-4cs-Series.html"
+  },
+  {
+   "manualId": "2139595",
+   "slug": "Calpeda-4cs",
+   "title": "4CS Series Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "4CS Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2139595/Calpeda-4cs.html"
+  },
+  {
+   "manualId": "2407878",
+   "slug": "Calpeda-4cs-R",
+   "title": "4CS-R operating instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "4CS-R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2407878/Calpeda-4cs-R.html"
+  },
+  {
+   "manualId": "3452868",
+   "slug": "Calpeda-4sdp",
+   "title": "4SDP operating instructions manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "4SDP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3452868/Calpeda-4sdp.html"
+  },
+  {
+   "manualId": "3122785",
+   "slug": "Calpeda-Cs-R-Series",
+   "title": "6CS-R operating instructions manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "6CS-R",
+   "extraModels": [
+    "6CS-R",
+    "8CS-R"
+   ],
+   "url": "https://www.manualslib.com/manual/3122785/Calpeda-Cs-R-Series.html"
+  },
+  {
+   "manualId": "4377075",
+   "slug": "Calpeda-Sd",
+   "title": "6SDN 21/28 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "6SDN 21/28",
+   "extraModels": [
+    "6SDN 21/28",
+    "6SDP 30/5 4SM",
+    "SDS",
+    "SDX"
+   ],
+   "url": "https://www.manualslib.com/manual/4377075/Calpeda-Sd.html"
+  },
+  {
+   "manualId": "1955376",
+   "slug": "Calpeda-Sd-Series",
+   "title": "6SDX Series Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "6SDX Series",
+   "extraModels": [
+    "6SDX Series",
+    "SDF Series",
+    "SDM Series",
+    "SDN Series",
+    "SDS Series",
+    "SDX Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1955376/Calpeda-Sd-Series.html"
+  },
+  {
+   "manualId": "2222078",
+   "slug": "Calpeda-Ct",
+   "title": "70020030000 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "70020030000",
+   "extraModels": [
+    "70020030000",
+    "T 65E",
+    "TP"
+   ],
+   "url": "https://www.manualslib.com/manual/2222078/Calpeda-Ct.html"
+  },
+  {
+   "manualId": "2877543",
+   "slug": "Calpeda-Gx-Series",
+   "title": "70T51562000 Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "70T51562000",
+   "extraModels": [
+    "70T51562000",
+    "70T51661000",
+    "70T52001000",
+    "70T53721000",
+    "70T54101000",
+    "70T55052000",
+    "71T54101000",
+    "71T54151000",
+    "73T51002000",
+    "73T54051000",
+    "B-GMN 30-80A/A",
+    "B-GMN 30-80B/A",
+    "GM Series",
+    "GMC",
+    "GMC 50",
+    "GMC 50-65",
+    "GMN 30-80B/A",
+    "GMN4 80-150C/B",
+    "GMV",
+    "GMV 50",
+    "GMV 50-65",
+    "GMV 70-80A/B",
+    "GMV 80-80S/A",
+    "GMV4 65-80C/A",
+    "GMVS 35-80G/A",
+    "GQ Series",
+    "GQG",
+    "GQN",
+    "GQR",
+    "GQS",
+    "GQV",
+    "GXC",
+    "GXV",
+    "I-GMN 30-65A/A",
+    "I-GMV 50-50B/B"
+   ],
+   "url": "https://www.manualslib.com/manual/2877543/Calpeda-Gx-Series.html"
+  },
+  {
+   "manualId": "3160268",
+   "slug": "Calpeda-Gm",
+   "title": "70T71310000 Original operating instructions",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "70T71310000",
+   "extraModels": [
+    "70T71310000",
+    "70T81260000",
+    "GQ",
+    "GQG",
+    "GQR",
+    "GQR 10-20 V.400/50",
+    "GQV 50-15 V.400/50",
+    "GX",
+    "GXC",
+    "GXV"
+   ],
+   "url": "https://www.manualslib.com/manual/3160268/Calpeda-Gm.html"
+  },
+  {
+   "manualId": "2901176",
+   "slug": "Calpeda-A",
+   "title": "A operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "A",
+   "extraModels": [
+    "A 40",
+    "A 50",
+    "AS"
+   ],
+   "url": "https://www.manualslib.com/manual/2901176/Calpeda-A.html"
+  },
+  {
+   "manualId": "4153577",
+   "slug": "Calpeda-As",
+   "title": "A operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "A",
+   "extraModels": [
+    "A 65-150A/C",
+    "A 65-150B/B",
+    "A 80-170A/A",
+    "AM 40-110A/A",
+    "AM 50-125AE",
+    "AM 50-125BE",
+    "B-A 40-110A/B",
+    "B-A 65-150B/A",
+    "B-A 65-150C/B"
+   ],
+   "url": "https://www.manualslib.com/manual/4153577/Calpeda-As.html"
+  },
+  {
+   "manualId": "1985047",
+   "slug": "Calpeda-Nmd-Series",
+   "title": "B-C operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "B-C",
+   "extraModels": [
+    "B-C",
+    "B-NM",
+    "B-NMD",
+    "C",
+    "C Series",
+    "NM4 25",
+    "NMD 20",
+    "NMD 25",
+    "NMD 32",
+    "NMD 40"
+   ],
+   "url": "https://www.manualslib.com/manual/1985047/Calpeda-Nmd-Series.html"
+  },
+  {
+   "manualId": "2751080",
+   "slug": "Calpeda-Nms",
+   "title": "B-NM 32/12F operating instructions manual",
+   "type": "User / Owner",
+   "pages": 88,
+   "productModel": "B-NM 32/12F",
+   "extraModels": [
+    "B-NM 32/12F",
+    "B-NM 50/25/C/C",
+    "B-NM 80/160B/C",
+    "B-NM 80/16A",
+    "B-NM4 100/20A/C",
+    "B-NM4 40/20B/B",
+    "B-NM4 40/25/C/C",
+    "B-NM4 50/25/C/C",
+    "B-NM4 65/31B/B",
+    "B-NM4 80/20A",
+    "B-NM4 80/20B",
+    "B-NM4 80/20C",
+    "B-NM4 80/25C",
+    "B-NMS4 125/250B/A",
+    "B-NMS4 125/250C/A",
+    "NM 50/25S",
+    "NM 80/16E/B",
+    "NM4",
+    "NM4 80/16C/C",
+    "NMS4"
+   ],
+   "url": "https://www.manualslib.com/manual/2751080/Calpeda-Nms.html"
+  },
+  {
+   "manualId": "1975620",
+   "slug": "Calpeda-Nmp-Series",
+   "title": "B-NMP 32/12A/A operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "B-NMP 32/12A/A",
+   "extraModels": [
+    "B-NMP 32/12A/A",
+    "B-NMP 32/12DE",
+    "B-NMP 32/12DE-FE",
+    "B-NMP 32/12FE",
+    "B-NMP 32/12S/A",
+    "B-NMP 32/12S/A-A/A",
+    "B-NMP 50/12D/A",
+    "B-NMP 50/12F/B",
+    "B-NMP 50/12G/A",
+    "B-NMP 50/12G/A-H/A",
+    "B-NMP 50/12H/A",
+    "B-NMP 65/16A/B",
+    "B-NMP 65/16C/B",
+    "B-NMP 65/16D/A",
+    "B-NMP 65/16D/A-E/A",
+    "B-NMP 65/16E/A",
+    "B-NMP 65/16F/B"
+   ],
+   "url": "https://www.manualslib.com/manual/1975620/Calpeda-Nmp-Series.html"
+  },
+  {
+   "manualId": "2113070",
+   "slug": "Calpeda-B-Vt",
+   "title": "B-VT operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "B-VT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2113070/Calpeda-B-Vt.html"
+  },
+  {
+   "manualId": "2896370",
+   "slug": "Calpeda-Bs-V-Emt-Series",
+   "title": "BS V EMT Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "BS V EMT Series",
+   "extraModels": [
+    "BS V ITT Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2896370/Calpeda-Bs-V-Emt-Series.html"
+  },
+  {
+   "manualId": "3365138",
+   "slug": "Calpeda-Bs2v-2meta",
+   "title": "BS2V 2META operating instructions manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "BS2V 2META",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3365138/Calpeda-Bs2v-2meta.html"
+  },
+  {
+   "manualId": "3872003",
+   "slug": "Calpeda-C-16-1e",
+   "title": "C 16/1E operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "C 16/1E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3872003/Calpeda-C-16-1e.html"
+  },
+  {
+   "manualId": "2066633",
+   "slug": "Calpeda-Nm",
+   "title": "C operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "C",
+   "extraModels": [
+    "C",
+    "NM4 25",
+    "NMD",
+    "NMD 20",
+    "NMD 25",
+    "NMD 32",
+    "NMD 40"
+   ],
+   "url": "https://www.manualslib.com/manual/2066633/Calpeda-Nm.html"
+  },
+  {
+   "manualId": "2399586",
+   "slug": "Calpeda-Nm-Series",
+   "title": "C Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "C Series",
+   "extraModels": [
+    "C Series",
+    "NM4 25",
+    "NMD 20",
+    "NMD 25",
+    "NMD 32",
+    "NMD 40",
+    "NMD Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2399586/Calpeda-Nm-Series.html"
+  },
+  {
+   "manualId": "3793440",
+   "slug": "Calpeda-Ca-Gsm",
+   "title": "CA GSM Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "CA GSM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3793440/Calpeda-Ca-Gsm.html"
+  },
+  {
+   "manualId": "1515406",
+   "slug": "Calpeda-Ca-Series",
+   "title": "CA Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "CA Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1515406/Calpeda-Ca-Series.html"
+  },
+  {
+   "manualId": "4204106",
+   "slug": "Calpeda-Cal40",
+   "title": "CAL170 Technical instructions",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "CAL170",
+   "extraModels": [
+    "CAL170",
+    "CAL230",
+    "CAL500",
+    "CALICOMPACT",
+    "CALICOMPACT 1200",
+    "CALICOMPACT 1600",
+    "CALICOMPACT 2000",
+    "CALICOMPACT 2400",
+    "CALICOMPACT 900",
+    "CALIDIS",
+    "CALIDIS 500-1100",
+    "CALIDIS 500-1400",
+    "CALIDIS 500-1900",
+    "CALIDIS 500-2400",
+    "CALIDIS 500-800",
+    "CALIDIS 650-1040",
+    "CALIDIS 650-1200",
+    "CALIDIS 650-1600",
+    "CALIDIS 650-2000",
+    "CALIDOM",
+    "CALIDOM 1200",
+    "CALIDOM 1600",
+    "CALIDOM 2000",
+    "CALIDOM 2400",
+    "CALIDOM 900",
+    "CALIDOUBLE",
+    "CALIDOUBLE 1000",
+    "CALIDOUBLE 1200",
+    "CALIDOUBLE 1600",
+    "CALIDOUBLE 2000",
+    "CALIDOUBLE 2500",
+    "CALIFILTRE",
+    "CALIFILTRE 1100",
+    "CALIFILTRE 1400",
+    "CALIFILTRE 1900",
+    "CALIFILTRE 2400",
+    "CALIFILTRE 800",
+    "CALIFOSSE",
+    "CALIFOSSE 1200",
+    "CALIFOSSE 1600",
+    "CALIFOSSE 2000",
+    "CALIFOSSE 2400",
+    "CALIFOSSE 900",
+    "CALIPRO",
+    "CALIPRO 1500",
+    "CALIPRO 2100"
+   ],
+   "url": "https://www.manualslib.com/manual/4204106/Calpeda-Cal40.html"
+  },
+  {
+   "manualId": "2187464",
+   "slug": "Calpeda-Cal170",
+   "title": "CAL170 TECHNICAL INSTRUCTIONS FOR USE",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "CAL170",
+   "extraModels": [
+    "CAL230",
+    "CAL500",
+    "CALI FILTRE 1100",
+    "CALI FILTRE 1400",
+    "CALI FILTRE 1900",
+    "CALI FILTRE 2400",
+    "CALI FILTRE 800",
+    "CALIDIS",
+    "CALIDIS 500-1100",
+    "CALIDIS 500-1400",
+    "CALIDIS 500-1900",
+    "CALIDIS 500-2400",
+    "CALIDIS 500-800",
+    "CALIDIS 650-1040",
+    "CALIDIS 650-1200",
+    "CALIDIS 650-1600",
+    "CALIDIS 650-2000",
+    "CALIDOM 1200",
+    "CALIDOM 1600",
+    "CALIDOM 2000",
+    "CALIDOM 2400",
+    "CALIDOM 900",
+    "CALIDOUBLE 1000",
+    "CALIDOUBLE 1200",
+    "CALIDOUBLE 1600",
+    "CALIDOUBLE 2000",
+    "CALIDOUBLE 2500",
+    "CALIFOSSE 1200",
+    "CALIFOSSE 1600",
+    "CALIFOSSE 2000",
+    "CALIFOSSE 2400",
+    "CALIFOSSE 900",
+    "CALIPRO",
+    "CALIPRO 1500",
+    "CALIPRO 2100"
+   ],
+   "url": "https://www.manualslib.com/manual/2187464/Calpeda-Cal170.html"
+  },
+  {
+   "manualId": "3879151",
+   "slug": "Calpeda-Calidom",
+   "title": "CALIDOM TECHNICAL INSTRUCTIONS FOR USE",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "CALIDOM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3879151/Calpeda-Calidom.html"
+  },
+  {
+   "manualId": "3879153",
+   "slug": "Calpeda-Calidouble",
+   "title": "CALIDOUBLE TECHNICAL INSTRUCTIONS FOR USE",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "CALIDOUBLE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3879153/Calpeda-Calidouble.html"
+  },
+  {
+   "manualId": "3879150",
+   "slug": "Calpeda-Califiltre",
+   "title": "CALIFILTRE TECHNICAL INSTRUCTIONS FOR USE",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "CALIFILTRE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3879150/Calpeda-Califiltre.html"
+  },
+  {
+   "manualId": "3879152",
+   "slug": "Calpeda-Califosse",
+   "title": "CALIFOSSE TECHNICAL INSTRUCTIONS FOR USE",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "CALIFOSSE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3879152/Calpeda-Califosse.html"
+  },
+  {
+   "manualId": "4145734",
+   "slug": "Calpeda-Gk-Series",
+   "title": "Calpeda GK Series Use And Maintenance Instructions",
+   "type": "Service",
+   "pages": 556,
+   "productModel": null,
+   "extraModels": [
+    "GK 080F Series",
+    "GK 65F Series",
+    "GKG 040F Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4145734/Calpeda-Gk-Series.html"
+  },
+  {
+   "manualId": "2608794",
+   "slug": "Calpeda-Gq",
+   "title": "Calpeda GQ Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": null,
+   "extraModels": [
+    "GM",
+    "GX"
+   ],
+   "url": "https://www.manualslib.com/manual/2608794/Calpeda-Gq.html"
+  },
+  {
+   "manualId": "2144603",
+   "slug": "Calpeda-Mxv",
+   "title": "Calpeda MXV Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": null,
+   "extraModels": [
+    "MXV4 Series",
+    "MXVL",
+    "MXVL4 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2144603/Calpeda-Mxv.html"
+  },
+  {
+   "manualId": "3769249",
+   "slug": "calpeda-nm-nms-nm4-nms4-manual",
+   "title": "Calpeda NM, NMS, NM4, NMS4 Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3769249/calpeda-nm-nms-nm4-nms4-manual.html"
+  },
+  {
+   "manualId": "1865405",
+   "slug": "Calpeda-Nr",
+   "title": "Calpeda NR Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": null,
+   "extraModels": [
+    "NR4",
+    "NRD",
+    "NRD4"
+   ],
+   "url": "https://www.manualslib.com/manual/1865405/Calpeda-Nr.html"
+  },
+  {
+   "manualId": "4094300",
+   "slug": "Calpeda-Catp-230v-9v-Zms",
+   "title": "CATP 230V/9V Instructions for use manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "CATP 230V/9V",
+   "extraModels": [
+    "CJKB0202"
+   ],
+   "url": "https://www.manualslib.com/manual/4094300/Calpeda-Catp-230v-9v-Zms.html"
+  },
+  {
+   "manualId": "922830",
+   "slug": "Calpeda-Spa",
+   "title": "Compact Spa Original operating instructions",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Compact Spa",
+   "extraModels": [
+    "Compact Spa"
+   ],
+   "url": "https://www.manualslib.com/manual/922830/Calpeda-Spa.html"
+  },
+  {
+   "manualId": "3365146",
+   "slug": "Calpeda-Cs-R-Series",
+   "title": "CS-R Series Use And Maintenance Instructions",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "CS-R Series",
+   "extraModels": [
+    "10CS-R",
+    "6CS-R",
+    "8CS-R"
+   ],
+   "url": "https://www.manualslib.com/manual/3365146/Calpeda-Cs-R-Series.html"
+  },
+  {
+   "manualId": "3623811",
+   "slug": "Calpeda-T",
+   "title": "CT operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "CT",
+   "extraModels": [
+    "CT",
+    "TP",
+    "TP 132R TRI",
+    "TP 78 TRI",
+    "TP 80 TRI"
+   ],
+   "url": "https://www.manualslib.com/manual/3623811/Calpeda-T.html"
+  },
+  {
+   "manualId": "2399584",
+   "slug": "Calpeda-Ct-Series",
+   "title": "CT Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "CT Series",
+   "extraModels": [
+    "CT60",
+    "CT61",
+    "TP Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2399584/Calpeda-Ct-Series.html"
+  },
+  {
+   "manualId": "1950292",
+   "slug": "Calpeda-Unimat-E-Series",
+   "title": "Duomat-E Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "Duomat-E Series",
+   "extraModels": [
+    "Duomat-E Series",
+    "Duomat-E35",
+    "Duomat-E50",
+    "Unimat-E35",
+    "Unimat-E50"
+   ],
+   "url": "https://www.manualslib.com/manual/1950292/Calpeda-Unimat-E-Series.html"
+  },
+  {
+   "manualId": "2176110",
+   "slug": "Calpeda-E-Idos-E-Mpsm-304-Sq",
+   "title": "e-idos E-MPSM 304 SQ operating instructions manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "e-idos E-MPSM 304 SQ",
+   "extraModels": [
+    "e-idos E-MPSM 305 SQ",
+    "e-idos E-MPSM 306 SQ",
+    "e-idos E-MPSM 504 SQ",
+    "e-idos E-MPSM 505 SQ"
+   ],
+   "url": "https://www.manualslib.com/manual/2176110/Calpeda-E-Idos-E-Mpsm-304-Sq.html"
+  },
+  {
+   "manualId": "2045457",
+   "slug": "Calpeda-E-Idos-E-Mpsm",
+   "title": "e-idos E-MPSM operating instructions manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "e-idos E-MPSM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2045457/Calpeda-E-Idos-E-Mpsm.html"
+  },
+  {
+   "manualId": "1615957",
+   "slug": "Calpeda-E-Idos-E-Mxpm",
+   "title": "e-idos E-MXAM operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "e-idos E-MXAM",
+   "extraModels": [
+    "e-idos E-MXAM",
+    "e-idos E-NGX",
+    "e-idos E-NGXM",
+    "e-idos META"
+   ],
+   "url": "https://www.manualslib.com/manual/1615957/Calpeda-E-Idos-E-Mxpm.html"
+  },
+  {
+   "manualId": "2899156",
+   "slug": "Calpeda-E-Idos-E-Mxpm",
+   "title": "e-idos E-MXAM operating instructions manual",
+   "type": "User / Owner",
+   "pages": 96,
+   "productModel": "e-idos E-MXAM",
+   "extraModels": [
+    "e-idos E-MXAM",
+    "e-idos E-NGXM"
+   ],
+   "url": "https://www.manualslib.com/manual/2899156/Calpeda-E-Idos-E-Mxpm.html"
+  },
+  {
+   "manualId": "2420335",
+   "slug": "Calpeda-E-Idos-Meta",
+   "title": "e-idos META operating instructions manual",
+   "type": "User / Owner",
+   "pages": 79,
+   "productModel": "e-idos META",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2420335/Calpeda-E-Idos-Meta.html"
+  },
+  {
+   "manualId": "3722994",
+   "slug": "Calpeda-E-Idos-Meta",
+   "title": "e-idos META quick start manual",
+   "type": "Other",
+   "pages": 116,
+   "productModel": "e-idos META",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3722994/Calpeda-E-Idos-Meta.html"
+  },
+  {
+   "manualId": "2201420",
+   "slug": "Calpeda-E-Mxpm",
+   "title": "E-MXAM operating instructions manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "E-MXAM",
+   "extraModels": [
+    "E-MXAM",
+    "E-MXPM203-PC",
+    "E-MXPM204-PC",
+    "E-MXPM205-PC",
+    "E-MXPM403-PC",
+    "E-MXPM404-PC"
+   ],
+   "url": "https://www.manualslib.com/manual/2201420/Calpeda-E-Mxpm.html"
+  },
+  {
+   "manualId": "1224573",
+   "slug": "Calpeda-Easymat-5mm",
+   "title": "EASYMAT 5MM Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 23,
+   "productModel": "EASYMAT 5MM",
+   "extraModels": [
+    "EASYMAT 5MT",
+    "EASYMAT 7",
+    "EASYMAT 9,2MM"
+   ],
+   "url": "https://www.manualslib.com/manual/1224573/Calpeda-Easymat-5mm.html"
+  },
+  {
+   "manualId": "1866430",
+   "slug": "Calpeda-Easymat-5mm",
+   "title": "EASYMAT 5MM quick start manual",
+   "type": "Other",
+   "pages": 112,
+   "productModel": "EASYMAT 5MM",
+   "extraModels": [
+    "EASYMAT 5MT",
+    "EASYMAT 7,5MT",
+    "EASYMAT 8,5MM"
+   ],
+   "url": "https://www.manualslib.com/manual/1866430/Calpeda-Easymat-5mm.html"
+  },
+  {
+   "manualId": "3052568",
+   "slug": "Calpeda-Easymat-5mm",
+   "title": "EASYMAT 5MM quick start manual",
+   "type": "Other",
+   "pages": 112,
+   "productModel": "EASYMAT 5MM",
+   "extraModels": [
+    "EASYMAT 5MT",
+    "EASYMAT 7,5MT",
+    "EASYMAT 8,5MM"
+   ],
+   "url": "https://www.manualslib.com/manual/3052568/Calpeda-Easymat-5mm.html"
+  },
+  {
+   "manualId": "3840568",
+   "slug": "Calpeda-Easymat-9",
+   "title": "EASYMAT 9 Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 23,
+   "productModel": "EASYMAT 9",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3840568/Calpeda-Easymat-9.html"
+  },
+  {
+   "manualId": "1515412",
+   "slug": "Calpeda-Easymat-9-2mt",
+   "title": "EASYMAT 9,2MM operating instructions manual",
+   "type": "User / Owner",
+   "pages": 97,
+   "productModel": "EASYMAT 9,2MM",
+   "extraModels": [
+    "EASYMAT 9,2MM"
+   ],
+   "url": "https://www.manualslib.com/manual/1515412/Calpeda-Easymat-9-2mt.html"
+  },
+  {
+   "manualId": "1567843",
+   "slug": "Calpeda-Easymat",
+   "title": "Easymat operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Easymat",
+   "extraModels": [
+    "IMAT"
+   ],
+   "url": "https://www.manualslib.com/manual/1567843/Calpeda-Easymat.html"
+  },
+  {
+   "manualId": "2293485",
+   "slug": "Calpeda-Geo",
+   "title": "GEO operating instructions manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "GEO",
+   "extraModels": [
+    "GEO 230",
+    "GEO 40",
+    "GEO 500"
+   ],
+   "url": "https://www.manualslib.com/manual/2293485/Calpeda-Geo.html"
+  },
+  {
+   "manualId": "3367711",
+   "slug": "Calpeda-Geoclean-Ff02-V30",
+   "title": "GEOCLEAN FF02-V30 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "GEOCLEAN FF02-V30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3367711/Calpeda-Geoclean-Ff02-V30.html"
+  },
+  {
+   "manualId": "3759585",
+   "slug": "Calpeda-Gep24",
+   "title": "GEP24 Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "GEP24",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3759585/Calpeda-Gep24.html"
+  },
+  {
+   "manualId": "2147551",
+   "slug": "Calpeda-Gm-10",
+   "title": "GM 10 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "GM 10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2147551/Calpeda-Gm-10.html"
+  },
+  {
+   "manualId": "2140539",
+   "slug": "Calpeda-Gm-10",
+   "title": "GM 10 Original operating instructions",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "GM 10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2140539/Calpeda-Gm-10.html"
+  },
+  {
+   "manualId": "3089431",
+   "slug": "Calpeda-Gx",
+   "title": "GM Original operating instructions",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "GM",
+   "extraModels": [
+    "GM",
+    "GMC",
+    "GMC 50",
+    "GMC 65",
+    "GMV",
+    "GMV 50",
+    "GMV 65",
+    "GQ",
+    "GQG",
+    "GQN",
+    "GQR",
+    "GQS",
+    "GQS 40",
+    "GQV",
+    "GQV 65",
+    "GX ZERO",
+    "GXC",
+    "GXV"
+   ],
+   "url": "https://www.manualslib.com/manual/3089431/Calpeda-Gx.html"
+  },
+  {
+   "manualId": "3145431",
+   "slug": "Calpeda-Gm-Series",
+   "title": "GM Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "GM Series",
+   "extraModels": [
+    "GM-50",
+    "GQ Series",
+    "GQG 6-25",
+    "GQGM 6-18",
+    "GQGM 6-21",
+    "GX Series",
+    "GX-40",
+    "GXCM 40-10",
+    "GXVM 40-9"
+   ],
+   "url": "https://www.manualslib.com/manual/3145431/Calpeda-Gm-Series.html"
+  },
+  {
+   "manualId": "1955395",
+   "slug": "Calpeda-Gq-Series",
+   "title": "GM Series Original operating instructions",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "GM Series",
+   "extraModels": [
+    "GM Series",
+    "GMC 50 Series",
+    "GMC 50-65 Series",
+    "GMV 50",
+    "GQR 10-10",
+    "GQR 10-12",
+    "GQR 10-14",
+    "GQR 10-16",
+    "GQR 10-18",
+    "GQR 10-20",
+    "GQRM 10-10 GF",
+    "GQRM 10-12 GF",
+    "GQRM 10-14 GF",
+    "GQRM 10-16 GF",
+    "GQRM 10-18 GF",
+    "GQS 50-10",
+    "GQS 50-11",
+    "GQS 50-13",
+    "GQS 50-15",
+    "GQS 50-9",
+    "GQV 50-10",
+    "GQV 50-11",
+    "GQV 50-13",
+    "GQV 50-15",
+    "GQV 50-8",
+    "GQV 50-9",
+    "GQVM 50-11",
+    "GQVM 50-13",
+    "GQVM 50-8",
+    "GQVM 50-9",
+    "GX Series",
+    "GXC 40-10",
+    "GXC 40-13",
+    "GXCM 40-10",
+    "GXCM 40-13",
+    "GXV 40-7",
+    "GXV 40-8",
+    "GXV 40-9",
+    "GXVM 40-7",
+    "GXVM 40-8",
+    "GXVM 40-9"
+   ],
+   "url": "https://www.manualslib.com/manual/1955395/Calpeda-Gq-Series.html"
+  },
+  {
+   "manualId": "1519183",
+   "slug": "Calpeda-Gx-40",
+   "title": "GM-50 operating instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "GM-50",
+   "extraModels": [
+    "GM-50"
+   ],
+   "url": "https://www.manualslib.com/manual/1519183/Calpeda-Gx-40.html"
+  },
+  {
+   "manualId": "1238760",
+   "slug": "Calpeda-Gx-40",
+   "title": "GM-50 Original operating instructions",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "GM-50",
+   "extraModels": [
+    "GM-50",
+    "GM-50-65"
+   ],
+   "url": "https://www.manualslib.com/manual/1238760/Calpeda-Gx-40.html"
+  },
+  {
+   "manualId": "1962561",
+   "slug": "Calpeda-Gx-Zero",
+   "title": "GX ZERO operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "GX ZERO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1962561/Calpeda-Gx-Zero.html"
+  },
+  {
+   "manualId": "2031568",
+   "slug": "Calpeda-Gxr-Series",
+   "title": "GXM 11 Original operating instructions",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "GXM 11",
+   "extraModels": [
+    "GXM 11",
+    "GXM 12-10",
+    "GXM 12-12",
+    "GXM 12-14",
+    "GXM 12-16",
+    "GXM 12-18",
+    "GXM 12-20",
+    "GXM 13",
+    "GXM 25-10",
+    "GXM 25-6",
+    "GXM 25-8",
+    "GXM 9",
+    "GXR 11",
+    "GXR 12-10",
+    "GXR 12-12",
+    "GXR 12-14",
+    "GXR 12-16",
+    "GXR 12-18",
+    "GXR 12-20",
+    "GXR 13",
+    "GXR 9",
+    "GXR-R 11",
+    "GXR-R 13",
+    "GXR-R 9",
+    "GXR-RM 11",
+    "GXR-RM 11 GF",
+    "GXR-RM 13",
+    "GXR-RM 13 GF",
+    "GXR-RM 9",
+    "GXR-RM 9 GF",
+    "GXRM 11 GF",
+    "GXRM 12-10 GF",
+    "GXRM 12-12 GF",
+    "GXRM 12-14 GF",
+    "GXRM 12-16 GF",
+    "GXRM 12-18 GF",
+    "GXRM 12-20 GF",
+    "GXRM 13 GF",
+    "GXRM 9 GF",
+    "GXRM GF Series",
+    "GXV 25 Series",
+    "GXV 25-10",
+    "GXV 25-6",
+    "GXV 25-8",
+    "GXV Series",
+    "GXVM 25-10 GFA",
+    "GXVM 25-6 GFA",
+    "GXVM 25-8 GFA",
+    "GXVM GFA Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2031568/Calpeda-Gxr-Series.html"
+  },
+  {
+   "manualId": "3787934",
+   "slug": "Calpeda-Gxr",
+   "title": "GXR operating instructions manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "GXR",
+   "extraModels": [
+    "GXR 11",
+    "GXR 13",
+    "GXR 9",
+    "GXR(M) 11",
+    "GXR(M) 13",
+    "GXR(M) 9",
+    "GXRM 11 GF",
+    "GXRM 13 GF",
+    "GXRM 9 GF",
+    "GXV"
+   ],
+   "url": "https://www.manualslib.com/manual/3787934/Calpeda-Gxr.html"
+  },
+  {
+   "manualId": "2399496",
+   "slug": "Calpeda-Gxr-Series",
+   "title": "GXR Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "GXR Series",
+   "extraModels": [
+    "GXR-RM 11 GF",
+    "GXR-RM 13 GF",
+    "GXR-RM 9 GF",
+    "GXV Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2399496/Calpeda-Gxr-Series.html"
+  },
+  {
+   "manualId": "1578721",
+   "slug": "Calpeda-Mp-Series",
+   "title": "GXR(M) 11 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "GXR(M) 11",
+   "extraModels": [
+    "GXR(M) 11",
+    "GXR(M) 12-10",
+    "GXR(M) 12-12",
+    "GXR(M) 12-14",
+    "GXR(M) 12-16",
+    "GXR(M) 12-18",
+    "GXR(M) 12-20",
+    "GXR(M) 13",
+    "GXR(M) 9",
+    "GXRM 11 GF",
+    "GXRM 12-10 GF",
+    "GXRM 12-12 GF",
+    "GXRM 12-14 GF",
+    "GXRM 12-16 GF",
+    "GXRM 13 GF",
+    "GXRM 9 GF",
+    "GXV(M) 25-10",
+    "GXV(M) 25-6",
+    "GXV(M) 25-8",
+    "GXVM 25-10 GFA",
+    "GXVM 25-6 GFA",
+    "GXVM 25-8 GFA"
+   ],
+   "url": "https://www.manualslib.com/manual/1578721/Calpeda-Mp-Series.html"
+  },
+  {
+   "manualId": "1972243",
+   "slug": "Calpeda-I",
+   "title": "I operating instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "I",
+   "extraModels": [
+    "IR",
+    "IRR"
+   ],
+   "url": "https://www.manualslib.com/manual/1972243/Calpeda-I.html"
+  },
+  {
+   "manualId": "2054106",
+   "slug": "Calpeda-I-Mat-5-2-Tt-A",
+   "title": "I-MAT 11,2 TT-B operating instructions manual",
+   "type": "User / Owner",
+   "pages": 164,
+   "productModel": "I-MAT 11,2 TT-B",
+   "extraModels": [
+    "I-MAT 11,2 TT-B",
+    "I-MAT 119 TT-E",
+    "I-MAT 25,8 TT-C",
+    "I-MAT 65,4 TT-D"
+   ],
+   "url": "https://www.manualslib.com/manual/2054106/Calpeda-I-Mat-5-2-Tt-A.html"
+  },
+  {
+   "manualId": "3000148",
+   "slug": "Calpeda-I-Mpc",
+   "title": "I-MPC operating instructions manual",
+   "type": "User / Owner",
+   "pages": 88,
+   "productModel": "I-MPC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3000148/Calpeda-I-Mpc.html"
+  },
+  {
+   "manualId": "1765939",
+   "slug": "Calpeda-Idromat-3",
+   "title": "IDROMAT 3 Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "IDROMAT 3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1765939/Calpeda-Idromat-3.html"
+  },
+  {
+   "manualId": "2188205",
+   "slug": "Calpeda-Idromat-Series",
+   "title": "IDROMAT 5 12 Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "IDROMAT 5 12",
+   "extraModels": [
+    "IDROMAT 5 12",
+    "IDROMAT 5 15",
+    "IDROMAT 5 22",
+    "IDROMAT 5 30",
+    "IDROMAT 5e",
+    "IDROMAT 6 15",
+    "IDROMAT 6 30"
+   ],
+   "url": "https://www.manualslib.com/manual/2188205/Calpeda-Idromat-Series.html"
+  },
+  {
+   "manualId": "1659878",
+   "slug": "Calpeda-Idromat-5",
+   "title": "IDROMAT 5 Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "IDROMAT 5",
+   "extraModels": [
+    "IDROMAT 5e"
+   ],
+   "url": "https://www.manualslib.com/manual/1659878/Calpeda-Idromat-5.html"
+  },
+  {
+   "manualId": "1687682",
+   "slug": "Calpeda-Idromat-5",
+   "title": "IDROMAT 5 quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "IDROMAT 5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1687682/Calpeda-Idromat-5.html"
+  },
+  {
+   "manualId": "3126729",
+   "slug": "Calpeda-Idromat",
+   "title": "IDROMAT operating instructions manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "IDROMAT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3126729/Calpeda-Idromat.html"
+  },
+  {
+   "manualId": "2597571",
+   "slug": "Calpeda-I-Mat",
+   "title": "IMAT operating instructions manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "IMAT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2597571/Calpeda-I-Mat.html"
+  },
+  {
+   "manualId": "2931312",
+   "slug": "Calpeda-I-Mat",
+   "title": "IMAT operating instructions manual",
+   "type": "User / Owner",
+   "pages": 136,
+   "productModel": "IMAT",
+   "extraModels": [
+    "I-MAT 11.2TT-B",
+    "I-MAT 25.8TT-C",
+    "I-MAT 5.2TT-A"
+   ],
+   "url": "https://www.manualslib.com/manual/2931312/Calpeda-I-Mat.html"
+  },
+  {
+   "manualId": "2958303",
+   "slug": "Calpeda-I-Mat",
+   "title": "IMAT operating instructions manual",
+   "type": "User / Owner",
+   "pages": 136,
+   "productModel": "IMAT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2958303/Calpeda-I-Mat.html"
+  },
+  {
+   "manualId": "4556433",
+   "slug": "Calpeda-Kpm-Series",
+   "title": "KPM Series Instructions for use manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "KPM Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4556433/Calpeda-Kpm-Series.html"
+  },
+  {
+   "manualId": "2384589",
+   "slug": "Calpeda-M-Comp-4-16",
+   "title": "M COMP 10-25 Original operating instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "M COMP 10-25",
+   "extraModels": [
+    "M COMP 10-25",
+    "M COMP 10-30",
+    "M COMP 10-35",
+    "M COMP 10-40",
+    "M COMP 12-35",
+    "M COMP 12-40",
+    "M COMP 12-50",
+    "M COMP 12-60",
+    "M COMP 12-70",
+    "M COMP 14-50",
+    "M COMP 16-60",
+    "M COMP 16-70",
+    "M COMP 18-70",
+    "M COMP 4-20",
+    "M COMP 5-20",
+    "M COMP 5-25",
+    "M COMP 6-16",
+    "M COMP 6-20",
+    "M COMP 6-30",
+    "M COMP 6-35",
+    "M COMP 7-20",
+    "M COMP 7-25",
+    "M COMP 7-30",
+    "M COMP 8-25",
+    "M COMP 8-30"
+   ],
+   "url": "https://www.manualslib.com/manual/2384589/Calpeda-M-Comp-4-16.html"
+  },
+  {
+   "manualId": "2901105",
+   "slug": "Calpeda-Meta",
+   "title": "META quick start manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "META",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2901105/Calpeda-Meta.html"
+  },
+  {
+   "manualId": "2555836",
+   "slug": "Calpeda-Mxp",
+   "title": "MGP operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "MGP",
+   "extraModels": [
+    "MGP"
+   ],
+   "url": "https://www.manualslib.com/manual/2555836/Calpeda-Mxp.html"
+  },
+  {
+   "manualId": "3019999",
+   "slug": "Calpeda-Mgp",
+   "title": "MGP Original operating instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "MGP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3019999/Calpeda-Mgp.html"
+  },
+  {
+   "manualId": "1515404",
+   "slug": "Calpeda-Mxp-Series",
+   "title": "MGP Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "MGP Series",
+   "extraModels": [
+    "MGP Series",
+    "MXA Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1515404/Calpeda-Mxp-Series.html"
+  },
+  {
+   "manualId": "3451886",
+   "slug": "Calpeda-Mxp-Series",
+   "title": "MGP Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "MGP Series",
+   "extraModels": [
+    "MGP Series",
+    "MXA Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3451886/Calpeda-Mxp-Series.html"
+  },
+  {
+   "manualId": "3372410",
+   "slug": "Calpeda-Mpc-11",
+   "title": "MPC 11 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "MPC 11",
+   "extraModels": [
+    "MPC 21",
+    "MPC 31",
+    "MPC 41",
+    "MPC 51",
+    "MPC 61",
+    "MPC 71",
+    "MPC Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3372410/Calpeda-Mpc-11.html"
+  },
+  {
+   "manualId": "971426",
+   "slug": "Calpeda-Mpc-Compact-Pool",
+   "title": "MPC Compact Pool operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "MPC Compact Pool",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/971426/Calpeda-Mpc-Compact-Pool.html"
+  },
+  {
+   "manualId": "2240844",
+   "slug": "Calpeda-Mpc",
+   "title": "MPC operating instructions manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "MPC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2240844/Calpeda-Mpc.html"
+  },
+  {
+   "manualId": "2521379",
+   "slug": "Calpeda-Mpc",
+   "title": "MPC operating instructions manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "MPC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2521379/Calpeda-Mpc.html"
+  },
+  {
+   "manualId": "4392428",
+   "slug": "Calpeda-Mps-Series",
+   "title": "MPS 303 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 96,
+   "productModel": "MPS 303",
+   "extraModels": [
+    "MPS 303",
+    "MPS 304",
+    "MPS 305",
+    "MPS 306",
+    "MPS 307",
+    "MPS 503",
+    "MPS 504",
+    "MPS 505",
+    "MPS 506",
+    "MPS 507",
+    "MPSM 303",
+    "MPSM 304",
+    "MPSM 305",
+    "MPSM 306",
+    "MPSM 307",
+    "MPSM 503",
+    "MPSM 504",
+    "MPSM 505",
+    "MPSM 506",
+    "MPSM 507",
+    "MXS 303",
+    "MXS 304",
+    "MXS 305",
+    "MXS 306",
+    "MXS 307",
+    "MXS 308",
+    "MXS 309",
+    "MXS 310",
+    "MXS 503",
+    "MXS 504",
+    "MXS 505",
+    "MXS 506",
+    "MXS 507",
+    "MXS 508",
+    "MXS 509",
+    "MXS 510",
+    "MXS Series",
+    "MXSM 303",
+    "MXSM 304",
+    "MXSM 305",
+    "MXSM 306",
+    "MXSM 307",
+    "MXSM 308",
+    "MXSM 309",
+    "MXSM 310",
+    "MXSM 503",
+    "MXSM 503 CG",
+    "MXSM 504",
+    "MXSM 505",
+    "MXSM 506",
+    "MXSM 507",
+    "MXSM 508",
+    "MXSM 509"
+   ],
+   "url": "https://www.manualslib.com/manual/4392428/Calpeda-Mps-Series.html"
+  },
+  {
+   "manualId": "1255432",
+   "slug": "Calpeda-Mps",
+   "title": "MPS operating instructions manual",
+   "type": "User / Owner",
+   "pages": 96,
+   "productModel": "MPS",
+   "extraModels": [
+    "MXS"
+   ],
+   "url": "https://www.manualslib.com/manual/1255432/Calpeda-Mps.html"
+  },
+  {
+   "manualId": "1975622",
+   "slug": "Calpeda-Mpsu-Series",
+   "title": "MPSU operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "MPSU",
+   "extraModels": [
+    "MPSUM CG Series",
+    "MPSUM Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1975622/Calpeda-Mpsu-Series.html"
+  },
+  {
+   "manualId": "3893489",
+   "slug": "Calpeda-Mxa",
+   "title": "MXA operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "MXA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3893489/Calpeda-Mxa.html"
+  },
+  {
+   "manualId": "1589034",
+   "slug": "Calpeda-Mxh-Series",
+   "title": "MXH 206 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "MXH 206",
+   "extraModels": [
+    "MXH 206",
+    "MXH 32",
+    "MXH 406",
+    "MXH48"
+   ],
+   "url": "https://www.manualslib.com/manual/1589034/Calpeda-Mxh-Series.html"
+  },
+  {
+   "manualId": "3623967",
+   "slug": "Calpeda-Mxh-805b-Tri",
+   "title": "MXH operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "MXH",
+   "extraModels": [
+    "MXH 403A TRI",
+    "MXH 404B TRI",
+    "MXH 405C TRI",
+    "MXH 406A TRI",
+    "MXH 802B TRI",
+    "MXH 803A TRI",
+    "MXH 804A TRI",
+    "MXH Series",
+    "MXHLM 404A MONO",
+    "MXHLM 802A MONO"
+   ],
+   "url": "https://www.manualslib.com/manual/3623967/Calpeda-Mxh-805b-Tri.html"
+  },
+  {
+   "manualId": "3623958",
+   "slug": "Calpeda-Mxhl-804a-Tri",
+   "title": "MXH Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "MXH Series",
+   "extraModels": [
+    "MXH Series",
+    "MXHL 404B",
+    "MXHL 405C TRI",
+    "MXHL 406A TRI",
+    "MXHL 802B TRI",
+    "MXHL 803A TRI",
+    "MXHL 805B TRI",
+    "MXHLM 404A MONO",
+    "MXHLM 802A MONO",
+    "MXHLM 805A MONO"
+   ],
+   "url": "https://www.manualslib.com/manual/3623958/Calpeda-Mxhl-804a-Tri.html"
+  },
+  {
+   "manualId": "1260814",
+   "slug": "Calpeda-Mxs-3",
+   "title": "MXS 3 Original operating instructions",
+   "type": "User / Owner",
+   "pages": 51,
+   "productModel": "MXS 3",
+   "extraModels": [
+    "MXS 5",
+    "MXS 9"
+   ],
+   "url": "https://www.manualslib.com/manual/1260814/Calpeda-Mxs-3.html"
+  },
+  {
+   "manualId": "2200691",
+   "slug": "Calpeda-Mxs",
+   "title": "MXS Original operating instructions",
+   "type": "User / Owner",
+   "pages": 33,
+   "productModel": "MXS",
+   "extraModels": [
+    "MXS 203",
+    "MXS 204",
+    "MXS 205",
+    "MXS 206",
+    "MXS 207",
+    "MXS 208",
+    "MXS 209",
+    "MXS 210",
+    "MXS 404",
+    "MXS 405",
+    "MXS 406",
+    "MXS 407",
+    "MXS 408",
+    "MXS 409",
+    "MXS 410",
+    "MXS 805",
+    "MXS 806",
+    "MXS 807",
+    "MXS 808",
+    "MXS 809"
+   ],
+   "url": "https://www.manualslib.com/manual/2200691/Calpeda-Mxs.html"
+  },
+  {
+   "manualId": "2202943",
+   "slug": "Calpeda-Mxsu",
+   "title": "MXSU Original operating instructions",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "MXSU",
+   "extraModels": [
+    "MXSU 803"
+   ],
+   "url": "https://www.manualslib.com/manual/2202943/Calpeda-Mxsu.html"
+  },
+  {
+   "manualId": "1820313",
+   "slug": "Calpeda-Mxv-B-Series",
+   "title": "MXV 100-65 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "MXV 100-65",
+   "extraModels": [
+    "MXV 100-65",
+    "MXV 100-90",
+    "MXV 80-48",
+    "MXV(L) 100",
+    "MXV(L) 25",
+    "MXV(L) 32",
+    "MXV(L) 40",
+    "MXV(L) 65-80",
+    "MXV(L)4 65-80",
+    "MXV-(B) 25-2",
+    "MXV-(B) 32-4",
+    "MXV-(B) 40-8",
+    "MXV-B 25",
+    "MXV-B 32",
+    "MXV-B 40",
+    "MXV-B 50",
+    "MXV-B 50-18",
+    "MXVL Series",
+    "MXVL4 25",
+    "MXVL4 32",
+    "MXVL4 40",
+    "MXVL4 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1820313/Calpeda-Mxv-B-Series.html"
+  },
+  {
+   "manualId": "3525004",
+   "slug": "Calpeda-Mxv-L-4",
+   "title": "MXV 25 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 136,
+   "productModel": "MXV 25",
+   "extraModels": [
+    "MXV 25",
+    "MXV 32",
+    "MXV 40",
+    "MXV(B) 25",
+    "MXV(B) 32",
+    "MXV(B) 40",
+    "MXV(B) 50",
+    "MXV(L) 100",
+    "MXV(L) 32",
+    "MXV(L) 40",
+    "MXV(L) 65",
+    "MXV-40-806",
+    "MXV-B",
+    "MXVL 25",
+    "MXVL 50",
+    "MXVL 80",
+    "MXVL4 25",
+    "MXVL4 32",
+    "MXVL4 40",
+    "MXVL4 50",
+    "MXVL4 65",
+    "MXVL4 80"
+   ],
+   "url": "https://www.manualslib.com/manual/3525004/Calpeda-Mxv-L-4.html"
+  },
+  {
+   "manualId": "1659543",
+   "slug": "Calpeda-Mxv-B-Series",
+   "title": "MXV 25 Original operating instructions",
+   "type": "User / Owner",
+   "pages": 100,
+   "productModel": "MXV 25",
+   "extraModels": [
+    "MXV 25",
+    "MXV 32",
+    "MXV 40",
+    "MXV 50",
+    "MXV 65",
+    "MXV 80",
+    "MXV Series",
+    "MXV-B 25",
+    "MXV-B 32",
+    "MXV-B 40",
+    "MXV-B 50",
+    "MXV4 25",
+    "MXV4 32",
+    "MXV4 40",
+    "MXV4 50",
+    "MXV4 65",
+    "MXV4 80",
+    "MXV4 Series",
+    "MXVL 25",
+    "MXVL 32",
+    "MXVL 40",
+    "MXVL 50",
+    "MXVL 65",
+    "MXVL 80",
+    "MXVL Series",
+    "MXVL4 25",
+    "MXVL4 32",
+    "MXVL4 40",
+    "MXVL4 50",
+    "MXVL4 65",
+    "MXVL4 80",
+    "MXVL4 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1659543/Calpeda-Mxv-B-Series.html"
+  },
+  {
+   "manualId": "3865665",
+   "slug": "Calpeda-Mxv-50-15",
+   "title": "MXV 50-15 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "MXV 50-15",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3865665/Calpeda-Mxv-50-15.html"
+  },
+  {
+   "manualId": "3865666",
+   "slug": "Calpeda-Mxv-50-20",
+   "title": "MXV 50-20 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "MXV 50-20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3865666/Calpeda-Mxv-50-20.html"
+  },
+  {
+   "manualId": "3865667",
+   "slug": "Calpeda-Mxv-65-32",
+   "title": "MXV 65-32 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "MXV 65-32",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3865667/Calpeda-Mxv-65-32.html"
+  },
+  {
+   "manualId": "2167418",
+   "slug": "Calpeda-Mxv-B-Mxv-Mxvl-Mxvl4-Mxv4",
+   "title": "MXV operating instructions manual",
+   "type": "User / Owner",
+   "pages": 136,
+   "productModel": "MXV",
+   "extraModels": [
+    "MXV 25",
+    "MXV 32",
+    "MXV 40",
+    "MXV 40-905",
+    "MXV 50",
+    "MXV 65",
+    "MXV 80",
+    "MXV B 25",
+    "MXV B 32",
+    "MXV B 40",
+    "MXV L 100",
+    "MXV L 25",
+    "MXV L 32",
+    "MXV L 4 25",
+    "MXV L 4 32",
+    "MXV L 4 40",
+    "MXV L 4 50",
+    "MXV L 4 65",
+    "MXV L 4 80",
+    "MXV L 40",
+    "MXV L 50",
+    "MXV L 65",
+    "MXV L 80",
+    "MXV L Series",
+    "MXV-B 25-203",
+    "MXV-B 25-204",
+    "MXV-B 25-205",
+    "MXV-B 25-206",
+    "MXV-B 25-207",
+    "MXV-B 25-208",
+    "MXV-B 32-407",
+    "MXV-B 40-803",
+    "MXV-B 40-804",
+    "MXV-B 50",
+    "MXV-B Series",
+    "MXV4 25",
+    "MXV4 32",
+    "MXV4 40",
+    "MXV4 50",
+    "MXV4 65",
+    "MXV4 80"
+   ],
+   "url": "https://www.manualslib.com/manual/2167418/Calpeda-Mxv-B-Mxv-Mxvl-Mxvl4-Mxv4.html"
+  },
+  {
+   "manualId": "2200687",
+   "slug": "Calpeda-Mxv-B",
+   "title": "MXV-B Original operating instructions",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "MXV-B",
+   "extraModels": [
+    "MXV-B 25-2",
+    "MXV-B 25-204",
+    "MXV-B 25-205",
+    "MXV-B 25-206",
+    "MXV-B 25-207",
+    "MXV-B 25-208",
+    "MXV-B 25-210",
+    "MXV-B 25-212",
+    "MXV-B 25-214",
+    "MXV-B 25-216",
+    "MXV-B 25-218",
+    "MXV-B 25-220",
+    "MXV-B 32-4",
+    "MXV-B 32-404",
+    "MXV-B 32-405",
+    "MXV-B 32-406",
+    "MXV-B 32-407",
+    "MXV-B 32-408",
+    "MXV-B 32-410",
+    "MXV-B 32-412",
+    "MXV-B 32-414",
+    "MXV-B 32-416",
+    "MXV-B 32-418",
+    "MXV-B 40-8",
+    "MXV-B 40-804",
+    "MXV-B 40-805",
+    "MXV-B 40-806",
+    "MXV-B 40-807",
+    "MXV-B 40-808",
+    "MXV-B 40-810",
+    "MXV-B 40-811",
+    "MXV-B 40-813",
+    "MXV-B 40-815",
+    "MXV-B 40-817",
+    "MXV-B 40-819",
+    "MXV-B 50-18",
+    "MXV-B 50-1803",
+    "MXV-B 50-1804",
+    "MXV-B 50-1805",
+    "MXV-B 50-1806",
+    "MXV-B 50-1807",
+    "MXV-B 50-1808",
+    "MXV-B 50-1809",
+    "MXV-B 50-1810",
+    "MXV-B 50-1811"
+   ],
+   "url": "https://www.manualslib.com/manual/2200687/Calpeda-Mxv-B.html"
+  },
+  {
+   "manualId": "2768263",
+   "slug": "Calpeda-N",
+   "title": "N operating instructions manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "N",
+   "extraModels": [
+    "N4 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2768263/Calpeda-N.html"
+  },
+  {
+   "manualId": "1955319",
+   "slug": "Calpeda-N",
+   "title": "N Original operating instructions",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "N",
+   "extraModels": [
+    "N4 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1955319/Calpeda-N.html"
+  },
+  {
+   "manualId": "1515402",
+   "slug": "Calpeda-N-Series",
+   "title": "N Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 88,
+   "productModel": "N Series",
+   "extraModels": [
+    "N4 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1515402/Calpeda-N-Series.html"
+  },
+  {
+   "manualId": "1975713",
+   "slug": "Calpeda-Nc-Series",
+   "title": "NC 40-120/250/A operating instructions manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "NC 40-120/250/A",
+   "extraModels": [
+    "NC 40-120/250/A",
+    "NC 40-60/250/A",
+    "NC 50-120/280/A",
+    "NC 65-120/340/A",
+    "NC 80-120/360/A",
+    "NC4 40-40/250/A",
+    "NC4 50-40/280/A",
+    "NC4 50-60/280/A",
+    "NC4 65-30/340/A",
+    "NC4 65-60/340/A",
+    "NC4 80-60/360/A",
+    "NCD 40-120/250/A",
+    "NCD 40-60/250/A",
+    "NCD 50-120/280/A",
+    "NCD 65-120/340/A",
+    "NCD 80-120/360/A",
+    "NCD Series",
+    "NCD4 40-40/250/A",
+    "NCD4 50-40/280/A",
+    "NCD4 50-60/280/A",
+    "NCD4 65-30/340/A",
+    "NCD4 65-60/340/A",
+    "NCD4 80-60/360/A",
+    "NCDG 40F-120/250",
+    "NCDM 40-120/250/A",
+    "NCDM 40-60/250/A",
+    "NCDM 50-120/280/A",
+    "NCDM4 50-60/280/A",
+    "NCM 40-120/250/A",
+    "NCM 40-60/250/A",
+    "NCM 50-120/280/A",
+    "NCM4 50-60/280/A"
+   ],
+   "url": "https://www.manualslib.com/manual/1975713/Calpeda-Nc-Series.html"
+  },
+  {
+   "manualId": "1678487",
+   "slug": "Calpeda-Nc-Series",
+   "title": "NC Series Original operating instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "NC Series",
+   "extraModels": [
+    "NCD Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1678487/Calpeda-Nc-Series.html"
+  },
+  {
+   "manualId": "3610186",
+   "slug": "Calpeda-Nc3",
+   "title": "NC3 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 86,
+   "productModel": "NC3",
+   "extraModels": [
+    "NCD3",
+    "NCS3"
+   ],
+   "url": "https://www.manualslib.com/manual/3610186/Calpeda-Nc3.html"
+  },
+  {
+   "manualId": "1584498",
+   "slug": "Calpeda-Nce-Es-Series",
+   "title": "NCE EA operating instructions manual",
+   "type": "User / Owner",
+   "pages": 96,
+   "productModel": "NCE EA",
+   "extraModels": [
+    "NCE EA",
+    "NCE EA Series",
+    "NCE EI",
+    "NCE EI Series",
+    "NCE EL",
+    "NCE EL Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1584498/Calpeda-Nce-Es-Series.html"
+  },
+  {
+   "manualId": "1577323",
+   "slug": "Calpeda-Nce-Gf-Series",
+   "title": "NCE G 50F Original operating instructions",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "NCE G 50F",
+   "extraModels": [
+    "NCE G 50F",
+    "NCED GF",
+    "NCED GF Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1577323/Calpeda-Nce-Gf-Series.html"
+  },
+  {
+   "manualId": "2540842",
+   "slug": "Calpeda-Nced-Hs-Series",
+   "title": "NCE H 25-100/180 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "NCE H 25-100/180",
+   "extraModels": [
+    "NCE H 25-100/180",
+    "NCE H 25-120/180",
+    "NCE H 25-40/180",
+    "NCE H 25-60/180",
+    "NCE H 25-80/180",
+    "NCE H 32-100/180",
+    "NCE H 32-120/180",
+    "NCE H 32-40/180",
+    "NCE H 32-60/180",
+    "NCE H 32-80/180",
+    "NCED HQS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2540842/Calpeda-Nced-Hs-Series.html"
+  },
+  {
+   "manualId": "1718920",
+   "slug": "Calpeda-Nce-Hf",
+   "title": "NCE H Original operating instructions",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "NCE H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1718920/Calpeda-Nce-Hf.html"
+  },
+  {
+   "manualId": "4142387",
+   "slug": "Calpeda-Nce-H2",
+   "title": "NCE H2 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 90,
+   "productModel": "NCE H2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4142387/Calpeda-Nce-H2.html"
+  },
+  {
+   "manualId": "3604358",
+   "slug": "Calpeda-Nce-Hq2",
+   "title": "NCE HQ F operating instructions manual",
+   "type": "User / Owner",
+   "pages": 200,
+   "productModel": "NCE HQ F",
+   "extraModels": [
+    "NCE HQ F"
+   ],
+   "url": "https://www.manualslib.com/manual/3604358/Calpeda-Nce-Hq2.html"
+  },
+  {
+   "manualId": "2211839",
+   "slug": "Calpeda-Nceh",
+   "title": "NCEDH operating instructions manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "NCEDH",
+   "extraModels": [
+    "NCEDH",
+    "NCEDHQ",
+    "NCEHQ"
+   ],
+   "url": "https://www.manualslib.com/manual/2211839/Calpeda-Nceh.html"
+  },
+  {
+   "manualId": "4511994",
+   "slug": "Calpeda-Nf",
+   "title": "NF operating instructions manual",
+   "type": "User / Owner",
+   "pages": 88,
+   "productModel": "NF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4511994/Calpeda-Nf.html"
+  },
+  {
+   "manualId": "1524668",
+   "slug": "Calpeda-Ngx",
+   "title": "NG operating instructions manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "NG",
+   "extraModels": [
+    "NGL"
+   ],
+   "url": "https://www.manualslib.com/manual/1524668/Calpeda-Ngx.html"
+  },
+  {
+   "manualId": "2085571",
+   "slug": "Calpeda-Ng",
+   "title": "NG operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "NG",
+   "extraModels": [
+    "NGL",
+    "NGX"
+   ],
+   "url": "https://www.manualslib.com/manual/2085571/Calpeda-Ng.html"
+  },
+  {
+   "manualId": "1589101",
+   "slug": "Calpeda-Nm-40",
+   "title": "NM 20 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "NM 20",
+   "extraModels": [
+    "NM 20"
+   ],
+   "url": "https://www.manualslib.com/manual/1589101/Calpeda-Nm-40.html"
+  },
+  {
+   "manualId": "1520130",
+   "slug": "Calpeda-Nm",
+   "title": "NM operating instructions manual",
+   "type": "User / Owner",
+   "pages": 88,
+   "productModel": "NM",
+   "extraModels": [
+    "NM4",
+    "NMS",
+    "NMS4"
+   ],
+   "url": "https://www.manualslib.com/manual/1520130/Calpeda-Nm.html"
+  },
+  {
+   "manualId": "3076791",
+   "slug": "Calpeda-Nm",
+   "title": "NM operating instructions manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "NM",
+   "extraModels": [
+    "NM4"
+   ],
+   "url": "https://www.manualslib.com/manual/3076791/Calpeda-Nm.html"
+  },
+  {
+   "manualId": "3747090",
+   "slug": "Calpeda-Nm4",
+   "title": "NM operating instructions manual",
+   "type": "User / Owner",
+   "pages": 88,
+   "productModel": "NM",
+   "extraModels": [
+    "NMS",
+    "NMS4"
+   ],
+   "url": "https://www.manualslib.com/manual/3747090/Calpeda-Nm4.html"
+  },
+  {
+   "manualId": "2334402",
+   "slug": "Calpeda-Nm",
+   "title": "NM Original operating instructions",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "NM",
+   "extraModels": [
+    "NM4",
+    "NMS",
+    "NMS4"
+   ],
+   "url": "https://www.manualslib.com/manual/2334402/Calpeda-Nm.html"
+  },
+  {
+   "manualId": "1206755",
+   "slug": "Calpeda-Nmp",
+   "title": "NMP operating instructions manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "NMP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1206755/Calpeda-Nmp.html"
+  },
+  {
+   "manualId": "2644085",
+   "slug": "Calpeda-Nmp",
+   "title": "NMP operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "NMP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2644085/Calpeda-Nmp.html"
+  },
+  {
+   "manualId": "3166649",
+   "slug": "Calpeda-Nmp",
+   "title": "NMP operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "NMP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3166649/Calpeda-Nmp.html"
+  },
+  {
+   "manualId": "4099552",
+   "slug": "Calpeda-Nmx",
+   "title": "NMX operating instructions manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "NMX",
+   "extraModels": [
+    "NMXL"
+   ],
+   "url": "https://www.manualslib.com/manual/4099552/Calpeda-Nmx.html"
+  },
+  {
+   "manualId": "1501704",
+   "slug": "Calpeda-Nr",
+   "title": "NR Original operating instructions",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "NR",
+   "extraModels": [
+    "NR4"
+   ],
+   "url": "https://www.manualslib.com/manual/1501704/Calpeda-Nr.html"
+  },
+  {
+   "manualId": "2140544",
+   "slug": "Calpeda-Nr",
+   "title": "NR Original operating instructions",
+   "type": "User / Owner",
+   "pages": 29,
+   "productModel": "NR",
+   "extraModels": [
+    "NR4"
+   ],
+   "url": "https://www.manualslib.com/manual/2140544/Calpeda-Nr.html"
+  },
+  {
+   "manualId": "2316037",
+   "slug": "Calpeda-Nr",
+   "title": "NR Original operating instructions",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "NR",
+   "extraModels": [
+    "NR4",
+    "NR4M",
+    "NRM"
+   ],
+   "url": "https://www.manualslib.com/manual/2316037/Calpeda-Nr.html"
+  },
+  {
+   "manualId": "1577319",
+   "slug": "Calpeda-Nces-Series",
+   "title": "Original operating instructions",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1577319/Calpeda-Nces-Series.html"
+  },
+  {
+   "manualId": "2885324",
+   "slug": "Calpeda-Nc",
+   "title": "Original operating instructions",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2885324/Calpeda-Nc.html"
+  },
+  {
+   "manualId": "3041617",
+   "slug": "Calpeda-Ct-61",
+   "title": "Original operating instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3041617/Calpeda-Ct-61.html"
+  },
+  {
+   "manualId": "3070204",
+   "slug": "Calpeda-Nce-25-60-130",
+   "title": "Original operating instructions",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3070204/Calpeda-Nce-25-60-130.html"
+  },
+  {
+   "manualId": "2957512",
+   "slug": "Calpeda-Pf",
+   "title": "PF operating instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "PF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2957512/Calpeda-Pf.html"
+  },
+  {
+   "manualId": "3184444",
+   "slug": "Calpeda-Pfc-M-Series",
+   "title": "PFC-M 18-16 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "PFC-M 18-16",
+   "extraModels": [
+    "PFC-M 18-16",
+    "PFC-M 18-20",
+    "PFC-M 18-25",
+    "PFC-M 18-30",
+    "PFC-M 18-35",
+    "PFC-M 18-40",
+    "PFC-M 18-50",
+    "PFC-M 18-60",
+    "PFC-M 18-70"
+   ],
+   "url": "https://www.manualslib.com/manual/3184444/Calpeda-Pfc-M-Series.html"
+  },
+  {
+   "manualId": "2500426",
+   "slug": "Calpeda-Pfc-M",
+   "title": "PFC-M Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "PFC-M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2500426/Calpeda-Pfc-M.html"
+  },
+  {
+   "manualId": "2468753",
+   "slug": "Calpeda-Pfc-T",
+   "title": "PFC-T Original operating instructions",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "PFC-T",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2468753/Calpeda-Pfc-T.html"
+  },
+  {
+   "manualId": "2425072",
+   "slug": "Calpeda-Qmld-1d-12a-Fa",
+   "title": "QMLD 1D 12A-FA Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "QMLD 1D 12A-FA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2425072/Calpeda-Qmld-1d-12a-Fa.html"
+  },
+  {
+   "manualId": "2428989",
+   "slug": "Calpeda-Qtld-1d-12a-Fa",
+   "title": "QTLD 1D 12A-FA Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "QTLD 1D 12A-FA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2428989/Calpeda-Qtld-1d-12a-Fa.html"
+  },
+  {
+   "manualId": "2428990",
+   "slug": "Calpeda-Qtld-2d-8a-Fa",
+   "title": "QTLD 2D 12A-FA Original Operating Instructions",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "QTLD 2D 12A-FA",
+   "extraModels": [
+    "QTLD 2D 12A-FA"
+   ],
+   "url": "https://www.manualslib.com/manual/2428990/Calpeda-Qtld-2d-8a-Fa.html"
+  },
+  {
+   "manualId": "2485574",
+   "slug": "Calpeda-Val",
+   "title": "SC operating instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "SC",
+   "extraModels": [
+    "SC",
+    "SC 30",
+    "SC 50",
+    "VAL 30"
+   ],
+   "url": "https://www.manualslib.com/manual/2485574/Calpeda-Val.html"
+  },
+  {
+   "manualId": "1994297",
+   "slug": "Calpeda-Sd-Series",
+   "title": "SD operating instructions manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "SD",
+   "extraModels": [
+    "SDF",
+    "SDF Series",
+    "SDN",
+    "SDN Series",
+    "SDP",
+    "SDS Series",
+    "SDX",
+    "SDX Series",
+    "SDXL"
+   ],
+   "url": "https://www.manualslib.com/manual/1994297/Calpeda-Sd-Series.html"
+  },
+  {
+   "manualId": "1814958",
+   "slug": "Calpeda-Spa",
+   "title": "SPA operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "SPA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1814958/Calpeda-Spa.html"
+  },
+  {
+   "manualId": "4168207",
+   "slug": "Calpeda-Eco-Display",
+   "title": "Technical Instructions",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4168207/Calpeda-Eco-Display.html"
+  },
+  {
+   "manualId": "1975331",
+   "slug": "Calpeda-Variomat-2-Series",
+   "title": "VARIOMAT 2 11MM Original operating instructions",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "VARIOMAT 2 11MM",
+   "extraModels": [
+    "VARIOMAT 2 11MM",
+    "VARIOMAT 2 11MT",
+    "VARIOMAT 2 12TT",
+    "VARIOMAT 2 13MM",
+    "VARIOMAT 2 16TT",
+    "VARIOMAT 2 9TT"
+   ],
+   "url": "https://www.manualslib.com/manual/1975331/Calpeda-Variomat-2-Series.html"
+  },
+  {
+   "manualId": "4093792",
+   "slug": "Calpeda-Vigical-V2rm-Elec",
+   "title": "VIGICAL V2RM ELEC Instructions for use manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "VIGICAL V2RM ELEC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4093792/Calpeda-Vigical-V2rm-Elec.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "3769249",
+   "slug": "calpeda-nm-nms-nm4-nms4-manual",
+   "title": "Calpeda NM, NMS, NM4, NMS4 Manual"
+  }
+ ],
+ "techDirectIds": [
+  "calpeda"
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "brand": "Fujitsu General",
+ "brandSlug": "fujitsu-general",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/fujitsu-general/"
+ ],
+ "slugUsed": "fujitsu-general",
+ "capturedAt": "2026-10-28T07:09:37.134566+00:00",
+ "typePages": [
+  {
+   "path": "/brand/fujitsu-general/air-conditioner.html",
+   "manuals": 10,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1302769",
+   "slug": "Fujitsu-General-Abhg36lrta",
+   "title": "ABHG36LRTA Service manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "ABHG36LRTA",
+   "extraModels": [
+    "ABHG45LRTA",
+    "ABHG54LRTA",
+    "AOHG36LATT",
+    "AOHG45LATT",
+    "AOHG54LATT"
+   ],
+   "url": "https://www.manualslib.com/manual/1302769/Fujitsu-General-Abhg36lrta.html"
+  },
+  {
+   "manualId": "1308603",
+   "slug": "Fujitsu-General-Ash9lsbcw",
+   "title": "AOH12LFBC Service manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "AOH12LFBC",
+   "extraModels": [
+    "AOH12LFBC",
+    "AOH9LFBC",
+    "ASH12LSBCW"
+   ],
+   "url": "https://www.manualslib.com/manual/1308603/Fujitsu-General-Ash9lsbcw.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "fujitsu-general"
+ ]
+}

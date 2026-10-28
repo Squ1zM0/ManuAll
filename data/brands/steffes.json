@@ -1,0 +1,631 @@
+{
+ "brand": "Steffes",
+ "brandSlug": "steffes",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/steffes/"
+ ],
+ "slugUsed": "steffes",
+ "capturedAt": "2026-10-28T09:23:35.894686+00:00",
+ "typePages": [
+  {
+   "path": "/brand/steffes/air-handlers.html",
+   "manuals": 23,
+   "status": 200
+  },
+  {
+   "path": "/brand/steffes/blower.html",
+   "manuals": 14,
+   "status": 200
+  },
+  {
+   "path": "/brand/steffes/boiler.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/steffes/computer-hardware.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/steffes/control-panel.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/steffes/control-unit.html",
+   "manuals": 24,
+   "status": 200
+  },
+  {
+   "path": "/brand/steffes/furnace.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/steffes/gas-heater.html",
+   "manuals": 55,
+   "status": 200
+  },
+  {
+   "path": "/brand/steffes/heat-pump.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/steffes/heater.html",
+   "manuals": 99,
+   "status": 200
+  },
+  {
+   "path": "/brand/steffes/heating-system.html",
+   "manuals": 63,
+   "status": 200
+  },
+  {
+   "path": "/brand/steffes/remote-control.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/steffes/thermostat.html",
+   "manuals": 33,
+   "status": 200
+  },
+  {
+   "path": "/brand/steffes/time-clocks.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1254437",
+   "slug": "Steffes-1002",
+   "title": "1002 Owner's and installer's manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "1002",
+   "extraModels": [
+    "1003"
+   ],
+   "url": "https://www.manualslib.com/manual/1254437/Steffes-1002.html"
+  },
+  {
+   "manualId": "3010299",
+   "slug": "Steffes-1023065r",
+   "title": "1023065R Installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "1023065R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3010299/Steffes-1023065r.html"
+  },
+  {
+   "manualId": "837029",
+   "slug": "Steffes-2002",
+   "title": "2002 Owner's and installer's manual",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "2002",
+   "extraModels": [
+    "2003",
+    "2004",
+    "2005",
+    "2006"
+   ],
+   "url": "https://www.manualslib.com/manual/837029/Steffes-2002.html"
+  },
+  {
+   "manualId": "2321165",
+   "slug": "Steffes-2100-Series",
+   "title": "2100 Series Homeowner user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "2100 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2321165/Steffes-2100-Series.html"
+  },
+  {
+   "manualId": "3214297",
+   "slug": "Steffes-2100-Series",
+   "title": "2100 Series install manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "2100 Series",
+   "extraModels": [
+    "2102",
+    "2103",
+    "2104",
+    "2105",
+    "2106",
+    "2102PI"
+   ],
+   "url": "https://www.manualslib.com/manual/3214297/Steffes-2100-Series.html"
+  },
+  {
+   "manualId": "3321845",
+   "slug": "Steffes-2100-Series",
+   "title": "2100 Series install manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "2100 Series",
+   "extraModels": [
+    "2102",
+    "2103",
+    "2104",
+    "2105"
+   ],
+   "url": "https://www.manualslib.com/manual/3321845/Steffes-2100-Series.html"
+  },
+  {
+   "manualId": "3438644",
+   "slug": "Steffes-2100-Series",
+   "title": "2100 Series Installation",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "2100 Series",
+   "extraModels": [
+    "2102",
+    "2103",
+    "2104",
+    "2105",
+    "2106"
+   ],
+   "url": "https://www.manualslib.com/manual/3438644/Steffes-2100-Series.html"
+  },
+  {
+   "manualId": "3584513",
+   "slug": "Steffes-2100-Series",
+   "title": "2100 Series Replacement Procedure",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "2100 Series",
+   "extraModels": [
+    "4100 series"
+   ],
+   "url": "https://www.manualslib.com/manual/3584513/Steffes-2100-Series.html"
+  },
+  {
+   "manualId": "876512",
+   "slug": "Steffes-2102",
+   "title": "2102 Owner's and installer's manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "2102",
+   "extraModels": [
+    "2103",
+    "2104",
+    "2105",
+    "2106"
+   ],
+   "url": "https://www.manualslib.com/manual/876512/Steffes-2102.html"
+  },
+  {
+   "manualId": "879377",
+   "slug": "Steffes-2102",
+   "title": "2102 Owner's and installer's manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "2102",
+   "extraModels": [
+    "2103",
+    "2104",
+    "2105",
+    "2106"
+   ],
+   "url": "https://www.manualslib.com/manual/879377/Steffes-2102.html"
+  },
+  {
+   "manualId": "2479619",
+   "slug": "Steffes-212",
+   "title": "212 owner's manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "212",
+   "extraModels": [
+    "312",
+    "412",
+    "512",
+    "612"
+   ],
+   "url": "https://www.manualslib.com/manual/2479619/Steffes-212.html"
+  },
+  {
+   "manualId": "627673",
+   "slug": "Steffes-212",
+   "title": "212 owner's manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "212",
+   "extraModels": [
+    "212EXT",
+    "212S",
+    "312",
+    "312EXT",
+    "312S",
+    "412",
+    "412EXT",
+    "412S",
+    "512",
+    "512EXT",
+    "512S",
+    "612",
+    "612EXT",
+    "612S",
+    "EXT Series",
+    "S Series"
+   ],
+   "url": "https://www.manualslib.com/manual/627673/Steffes-212.html"
+  },
+  {
+   "manualId": "953056",
+   "slug": "Steffes-212ext",
+   "title": "212EXT troubleshooting manual",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "212EXT",
+   "extraModels": [
+    "312EXT",
+    "412EXT",
+    "512EXT",
+    "612EXT"
+   ],
+   "url": "https://www.manualslib.com/manual/953056/Steffes-212ext.html"
+  },
+  {
+   "manualId": "1667802",
+   "slug": "Steffes-3100-Series",
+   "title": "4100 series Owner's and installer's manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "4100 series",
+   "extraModels": [
+    "4100 series",
+    "4120",
+    "4140",
+    "3120",
+    "4130"
+   ],
+   "url": "https://www.manualslib.com/manual/1667802/Steffes-3100-Series.html"
+  },
+  {
+   "manualId": "4317731",
+   "slug": "Steffes-4100-Series",
+   "title": "4100 series user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "4100 series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4317731/Steffes-4100-Series.html"
+  },
+  {
+   "manualId": "3540862",
+   "slug": "Steffes-4120",
+   "title": "4120 Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "4120",
+   "extraModels": [
+    "4140"
+   ],
+   "url": "https://www.manualslib.com/manual/3540862/Steffes-4120.html"
+  },
+  {
+   "manualId": "821360",
+   "slug": "Steffes-3120",
+   "title": "4120 Owner's and installer's manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "4120",
+   "extraModels": [
+    "4120",
+    "4140",
+    "4130",
+    "COMFORT PLUS 3100 Series",
+    "COMFORT PLUS 3120",
+    "COMFORT PLUS 4100 Series",
+    "COMFORT PLUS 4120",
+    "COMFORT PLUS 4130",
+    "COMFORT PLUS 4140"
+   ],
+   "url": "https://www.manualslib.com/manual/821360/Steffes-3120.html"
+  },
+  {
+   "manualId": "3642749",
+   "slug": "Steffes-5100-Series",
+   "title": "5100 Series install manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "5100 Series",
+   "extraModels": [
+    "5120",
+    "5130",
+    "5140"
+   ],
+   "url": "https://www.manualslib.com/manual/3642749/Steffes-5100-Series.html"
+  },
+  {
+   "manualId": "2967624",
+   "slug": "Steffes-5100-Series",
+   "title": "5100 Series Installation Instructions",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": "5100 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2967624/Steffes-5100-Series.html"
+  },
+  {
+   "manualId": "3017797",
+   "slug": "Steffes-5100-Series",
+   "title": "5100 Series Instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "5100 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3017797/Steffes-5100-Series.html"
+  },
+  {
+   "manualId": "1985071",
+   "slug": "Steffes-2100-Series",
+   "title": "5100 Series quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "5100 Series",
+   "extraModels": [
+    "5100 Series",
+    "4100 series",
+    "3100 Series",
+    "EXT Series",
+    "S Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1985071/Steffes-2100-Series.html"
+  },
+  {
+   "manualId": "3022175",
+   "slug": "Steffes-2100-Series",
+   "title": "5100 Series Setting instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "5100 Series",
+   "extraModels": [
+    "5100 Series",
+    "4100 series",
+    "3100 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3022175/Steffes-2100-Series.html"
+  },
+  {
+   "manualId": "3619767",
+   "slug": "Steffes-2100-Series",
+   "title": "5100 Series Trouble Error Codes List",
+   "type": "Other",
+   "pages": 7,
+   "productModel": "5100 Series",
+   "extraModels": [
+    "5100 Series",
+    "4100 series",
+    "3100 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3619767/Steffes-2100-Series.html"
+  },
+  {
+   "manualId": "3077592",
+   "slug": "Steffes-5120",
+   "title": "5120 Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "5120",
+   "extraModels": [
+    "5130",
+    "5140"
+   ],
+   "url": "https://www.manualslib.com/manual/3077592/Steffes-5120.html"
+  },
+  {
+   "manualId": "2542893",
+   "slug": "Steffes-5120",
+   "title": "5120 Owner's and installer's manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "5120",
+   "extraModels": [
+    "5130",
+    "5140"
+   ],
+   "url": "https://www.manualslib.com/manual/2542893/Steffes-5120.html"
+  },
+  {
+   "manualId": "2962400",
+   "slug": "Steffes-Ccrp",
+   "title": "CCRP Operations & installation manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "CCRP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2962400/Steffes-Ccrp.html"
+  },
+  {
+   "manualId": "2951445",
+   "slug": "Steffes-Comfort-Plus-4120",
+   "title": "COMFORT PLUS 4120 Owner's and installer's manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "COMFORT PLUS 4120",
+   "extraModels": [
+    "COMFORT PLUS 4130",
+    "COMFORT PLUS 4140"
+   ],
+   "url": "https://www.manualslib.com/manual/2951445/Steffes-Comfort-Plus-4120.html"
+  },
+  {
+   "manualId": "2969301",
+   "slug": "Steffes-Comfort-Plus-Commercial-6140",
+   "title": "Comfort Plus Commercial 6140 Owner's and installer's manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "Comfort Plus Commercial 6140",
+   "extraModels": [
+    "Comfort Plus Commercial 6140"
+   ],
+   "url": "https://www.manualslib.com/manual/2969301/Steffes-Comfort-Plus-Commercial-6140.html"
+  },
+  {
+   "manualId": "808398",
+   "slug": "Steffes-Comfort-Plus-Hydronic-5120",
+   "title": "Comfort Plus Hydronic 5120 Owner's and installer's manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "Comfort Plus Hydronic 5120",
+   "extraModels": [
+    "Comfort Plus Hydronic 5120",
+    "Comfort Plus Hydronic 5130",
+    "Comfort Plus Hydronic 5140"
+   ],
+   "url": "https://www.manualslib.com/manual/808398/Steffes-Comfort-Plus-Hydronic-5120.html"
+  },
+  {
+   "manualId": "1981600",
+   "slug": "Steffes-Comfort-Plus-Hydronic-5120",
+   "title": "Comfort Plus Hydronic 5120 Quick Reference Installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "Comfort Plus Hydronic 5120",
+   "extraModels": [
+    "Comfort Plus Hydronic 5120",
+    "Comfort Plus Hydronic 5130",
+    "Comfort Plus Hydronic 5140"
+   ],
+   "url": "https://www.manualslib.com/manual/1981600/Steffes-Comfort-Plus-Hydronic-5120.html"
+  },
+  {
+   "manualId": "817025",
+   "slug": "Steffes-Dlf30b",
+   "title": "DLF30B Owner's and installer's manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "DLF30B",
+   "extraModels": [
+    "DLF40B"
+   ],
+   "url": "https://www.manualslib.com/manual/817025/Steffes-Dlf30b.html"
+  },
+  {
+   "manualId": "3722564",
+   "slug": "Steffes-Aube-Telephone-Transponder",
+   "title": "Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3722564/Steffes-Aube-Telephone-Transponder.html"
+  },
+  {
+   "manualId": "3481765",
+   "slug": "Steffes-5100-Series",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3481765/Steffes-5100-Series.html"
+  },
+  {
+   "manualId": "4108335",
+   "slug": "Steffes-Origin-G10-Series",
+   "title": "Origin G10 Series Install manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "Origin G10 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4108335/Steffes-Origin-G10-Series.html"
+  },
+  {
+   "manualId": "1615285",
+   "slug": "Steffes-Theben-Tr610-Top2-1301007r",
+   "title": "Setting Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1615285/Steffes-Theben-Tr610-Top2-1301007r.html"
+  },
+  {
+   "manualId": "4238551",
+   "slug": "steffes-2100-series-room-heater-installation-manual",
+   "title": "Steffes 2100 Series Room Heater Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4238551/steffes-2100-series-room-heater-installation-manual.html"
+  },
+  {
+   "manualId": "2962397",
+   "slug": "Steffes-Thermelect-Hydronic-9100-Series",
+   "title": "Technical Data Sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "ThermElect Hydronic 9150",
+    "ThermElect Hydronic 9180"
+   ],
+   "url": "https://www.manualslib.com/manual/2962397/Steffes-Thermelect-Hydronic-9100-Series.html"
+  },
+  {
+   "manualId": "2969298",
+   "slug": "Steffes-Thermelect-8150",
+   "title": "ThermElect 8150 Owner's and installer's manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "ThermElect 8150",
+   "extraModels": [
+    "ThermElect 8155",
+    "ThermElect 8180",
+    "ThermElect 8185",
+    "ThermElect 8188"
+   ],
+   "url": "https://www.manualslib.com/manual/2969298/Steffes-Thermelect-8150.html"
+  },
+  {
+   "manualId": "2296157",
+   "slug": "Steffes-Thermelect-Hydronic-9150",
+   "title": "ThermElect Hydronic 9150 Owner's and installer's manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "ThermElect Hydronic 9150",
+   "extraModels": [
+    "ThermElect Hydronic 9180"
+   ],
+   "url": "https://www.manualslib.com/manual/2296157/Steffes-Thermelect-Hydronic-9150.html"
+  },
+  {
+   "manualId": "2969294",
+   "slug": "Steffes-Thermelect-Hydronic-9150",
+   "title": "ThermElect Hydronic 9150 Owner's and installer's manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "ThermElect Hydronic 9150",
+   "extraModels": [
+    "ThermElect Hydronic 9180"
+   ],
+   "url": "https://www.manualslib.com/manual/2969294/Steffes-Thermelect-Hydronic-9150.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4238551",
+   "slug": "steffes-2100-series-room-heater-installation-manual",
+   "title": "Steffes 2100 Series Room Heater Installation Manual"
+  }
+ ],
+ "techDirectIds": [
+  "steffes"
+ ]
+}

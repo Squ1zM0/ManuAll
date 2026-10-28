@@ -1,0 +1,590 @@
+{
+ "brand": "Ecobee",
+ "brandSlug": "ecobee",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/ecobee/"
+ ],
+ "slugUsed": "ecobee",
+ "capturedAt": "2026-10-28T07:03:18.364649+00:00",
+ "typePages": [
+  {
+   "path": "/brand/ecobee/accessories.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecobee/digital-camera.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecobee/home-automation.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecobee/security-camera.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecobee/switch.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ecobee/thermostat.html",
+   "manuals": 39,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1300018",
+   "slug": "Ecobee-Ebrse3-01",
+   "title": "3 smarter wi-fi thermostat user manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": "3 smarter wi-fi thermostat",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1300018/Ecobee-Ebrse3-01.html"
+  },
+  {
+   "manualId": "817319",
+   "slug": "Ecobee-3-Smarter-Wi-Fi-Thermostat",
+   "title": "3 smarter wi-fi thermostat user manual",
+   "type": "User / Owner",
+   "pages": 41,
+   "productModel": "3 smarter wi-fi thermostat",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/817319/Ecobee-3-Smarter-Wi-Fi-Thermostat.html"
+  },
+  {
+   "manualId": "1345448",
+   "slug": "Ecobee-Ecobee3",
+   "title": "DRAFT quick start manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "DRAFT",
+   "extraModels": [
+    "DRAFT",
+    "EBSTATZBE3"
+   ],
+   "url": "https://www.manualslib.com/manual/1345448/Ecobee-Ecobee3.html"
+  },
+  {
+   "manualId": "3251694",
+   "slug": "Ecobee-Eb-State5bx-01",
+   "title": "EB-STATE5BX-01 How To Install",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "EB-STATE5BX-01",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3251694/Ecobee-Eb-State5bx-01.html"
+  },
+  {
+   "manualId": "3410308",
+   "slug": "Ecobee-Eb-State6-01",
+   "title": "EB-STATE6-01 How To Install",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "EB-STATE6-01",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3410308/Ecobee-Eb-State6-01.html"
+  },
+  {
+   "manualId": "2027615",
+   "slug": "Ecobee-Smartcamera",
+   "title": "EBSCV01 quick start manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": "EBSCV01",
+   "extraModels": [
+    "EBSCV01"
+   ],
+   "url": "https://www.manualslib.com/manual/2027615/Ecobee-Smartcamera.html"
+  },
+  {
+   "manualId": "3660659",
+   "slug": "ecobee-ebers42-manual",
+   "title": "ecobee EBERS42 Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3660659/ecobee-ebers42-manual.html"
+  },
+  {
+   "manualId": "3281757",
+   "slug": "ecobee-ecobee3-smart-thermostat-manual",
+   "title": "ecobee ecobee3 - Smart Thermostat Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3281757/ecobee-ecobee3-smart-thermostat-manual.html"
+  },
+  {
+   "manualId": "3279302",
+   "slug": "ecobee-ecobee3-lite-smart-thermostat-manual",
+   "title": "ecobee ecobee3 lite - Smart Thermostat Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3279302/ecobee-ecobee3-lite-smart-thermostat-manual.html"
+  },
+  {
+   "manualId": "4247670",
+   "slug": "ecobee-ecobee3-lite-thermostat-quick-start-guide",
+   "title": "Ecobee ecobee3 lite Thermostat Quick Start Guide",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4247670/ecobee-ecobee3-lite-thermostat-quick-start-guide.html"
+  },
+  {
+   "manualId": "3279303",
+   "slug": "ecobee-ecobee4-smart-thermostat-manual",
+   "title": "ecobee ecobee4 - Smart Thermostat Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3279303/ecobee-ecobee4-smart-thermostat-manual.html"
+  },
+  {
+   "manualId": "3279304",
+   "slug": "ecobee-ems-smart-thermostat-manual",
+   "title": "ecobee EMS - Smart Thermostat Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3279304/ecobee-ems-smart-thermostat-manual.html"
+  },
+  {
+   "manualId": "713371",
+   "slug": "Ecobee-Ems-Si",
+   "title": "Ecobee EMS Si Manual",
+   "type": "Other",
+   "pages": 73,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/713371/Ecobee-Ems-Si.html"
+  },
+  {
+   "manualId": "3279306",
+   "slug": "ecobee-smart-smart-thermostat-manual",
+   "title": "ecobee SMART - Smart Thermostat Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3279306/ecobee-smart-smart-thermostat-manual.html"
+  },
+  {
+   "manualId": "3279311",
+   "slug": "ecobee-smart-plug-manual",
+   "title": "ecobee Smart Plug - Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3279311/ecobee-smart-plug-manual.html"
+  },
+  {
+   "manualId": "3279305",
+   "slug": "ecobee-smart-si-smart-thermostat-manual",
+   "title": "ecobee Smart Si - Smart Thermostat Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3279305/ecobee-smart-si-smart-thermostat-manual.html"
+  },
+  {
+   "manualId": "2863482",
+   "slug": "ecobee-smart-thermostat-manual",
+   "title": "Ecobee SMART THERMOSTAT Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2863482/ecobee-smart-thermostat-manual.html"
+  },
+  {
+   "manualId": "4034887",
+   "slug": "ecobee-smartcamera-manual",
+   "title": "Ecobee SmartCamera Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4034887/ecobee-smartcamera-manual.html"
+  },
+  {
+   "manualId": "3279307",
+   "slug": "ecobee-smartcamera-with-voice-control-manual",
+   "title": "ecobee SmartCamera with voice control - Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3279307/ecobee-smartcamera-with-voice-control-manual.html"
+  },
+  {
+   "manualId": "3279309",
+   "slug": "ecobee-smartsensor-manual",
+   "title": "ecobee SmartSensor - Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3279309/ecobee-smartsensor-manual.html"
+  },
+  {
+   "manualId": "3279310",
+   "slug": "ecobee-smartsensor-for-doors-and-windows-ebdwc01-manual",
+   "title": "ecobee SmartSensor for Doors and Windows, EBDWC01 - Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3279310/ecobee-smartsensor-for-doors-and-windows-ebdwc01-manual.html"
+  },
+  {
+   "manualId": "3279301",
+   "slug": "ecobee-smartthermostat-with-voice-control-installation-manual",
+   "title": "ecobee SmartThermostat with Voice Control Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3279301/ecobee-smartthermostat-with-voice-control-installation-manual.html"
+  },
+  {
+   "manualId": "3279308",
+   "slug": "ecobee-switch-light-switch-manual",
+   "title": "ecobee Switch+ - Light Switch Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3279308/ecobee-switch-light-switch-manual.html"
+  },
+  {
+   "manualId": "942861",
+   "slug": "Ecobee-Ecobee3",
+   "title": "ecobee3 lite installation manual",
+   "type": "Installation",
+   "pages": 45,
+   "productModel": "ecobee3 lite",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/942861/Ecobee-Ecobee3.html"
+  },
+  {
+   "manualId": "1339307",
+   "slug": "Ecobee-Ecobee3-Lite",
+   "title": "ecobee3 lite Manual",
+   "type": "Other",
+   "pages": 37,
+   "productModel": "ecobee3 lite",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1339307/Ecobee-Ecobee3-Lite.html"
+  },
+  {
+   "manualId": "4226888",
+   "slug": "Ecobee-Ecobee3-Lite",
+   "title": "ecobee3 lite quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "ecobee3 lite",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4226888/Ecobee-Ecobee3-Lite.html"
+  },
+  {
+   "manualId": "864955",
+   "slug": "Ecobee-Ecobee3",
+   "title": "ecobee3 lite quick start manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "ecobee3 lite",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/864955/Ecobee-Ecobee3.html"
+  },
+  {
+   "manualId": "1359751",
+   "slug": "Ecobee-Ecobee4",
+   "title": "ecobee4 install manual",
+   "type": "Installation",
+   "pages": 81,
+   "productModel": "ecobee4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1359751/Ecobee-Ecobee4.html"
+  },
+  {
+   "manualId": "1954852",
+   "slug": "Ecobee-Smartsensor",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1954852/Ecobee-Smartsensor.html"
+  },
+  {
+   "manualId": "1809766",
+   "slug": "Ecobee-Ebrse4-01",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1809766/Ecobee-Ebrse4-01.html"
+  },
+  {
+   "manualId": "3769312",
+   "slug": "Ecobee-Smart-Doorbell-Camera",
+   "title": "Smart Doorbell Camera installation manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "Smart Doorbell Camera",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3769312/Ecobee-Smart-Doorbell-Camera.html"
+  },
+  {
+   "manualId": "744513",
+   "slug": "Ecobee-Smart",
+   "title": "SMART installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "SMART",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/744513/Ecobee-Smart.html"
+  },
+  {
+   "manualId": "1665177",
+   "slug": "Ecobee-Smart-Plug",
+   "title": "Smart Plug instruction manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "Smart Plug",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1665177/Ecobee-Smart-Plug.html"
+  },
+  {
+   "manualId": "704416",
+   "slug": "Ecobee-Smart-Si",
+   "title": "Smart Si installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Smart Si",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/704416/Ecobee-Smart-Si.html"
+  },
+  {
+   "manualId": "703283",
+   "slug": "Ecobee-Smart-Si-Thermostat",
+   "title": "Smart Si user manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "Smart Si",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/703283/Ecobee-Smart-Si-Thermostat.html"
+  },
+  {
+   "manualId": "902837",
+   "slug": "Ecobee-Smart-Thermostat",
+   "title": "SMART THERMOSTAT installation manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "SMART THERMOSTAT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/902837/Ecobee-Smart-Thermostat.html"
+  },
+  {
+   "manualId": "970675",
+   "slug": "Ecobee-Smart-Thermostat",
+   "title": "SMART THERMOSTAT installation manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "SMART THERMOSTAT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/970675/Ecobee-Smart-Thermostat.html"
+  },
+  {
+   "manualId": "596080",
+   "slug": "Ecobee-Smart-Thermostat",
+   "title": "SMART THERMOSTAT user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "SMART THERMOSTAT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/596080/Ecobee-Smart-Thermostat.html"
+  },
+  {
+   "manualId": "745375",
+   "slug": "Ecobee-Smart-Thermostat",
+   "title": "SMART THERMOSTAT user manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "SMART THERMOSTAT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/745375/Ecobee-Smart-Thermostat.html"
+  },
+  {
+   "manualId": "790460",
+   "slug": "Ecobee-Smart",
+   "title": "SMART user manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "SMART",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/790460/Ecobee-Smart.html"
+  },
+  {
+   "manualId": "3031840",
+   "slug": "Ecobee-Smartsensor-Ebdwc01",
+   "title": "SmartSensor EBDWC01 user manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "SmartSensor EBDWC01",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3031840/Ecobee-Smartsensor-Ebdwc01.html"
+  },
+  {
+   "manualId": "4130240",
+   "slug": "Ecobee-Smartcamera-Ebscv01",
+   "title": "SmartSensor EBDWC01 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "SmartSensor EBDWC01",
+   "extraModels": [
+    "SmartSensor EBDWC01"
+   ],
+   "url": "https://www.manualslib.com/manual/4130240/Ecobee-Smartcamera-Ebscv01.html"
+  },
+  {
+   "manualId": "1461233",
+   "slug": "Ecobee-SwitchPlus",
+   "title": "Switch+ How To Install",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "Switch+",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1461233/Ecobee-SwitchPlus.html"
+  },
+  {
+   "manualId": "1302627",
+   "slug": "Ecobee-3-Lite",
+   "title": "Technical manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1302627/Ecobee-3-Lite.html"
+  },
+  {
+   "manualId": "1411822",
+   "slug": "Ecobee-Power-Extender-Kit",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1411822/Ecobee-Power-Extender-Kit.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "3279302",
+   "slug": "ecobee-ecobee3-lite-smart-thermostat-manual",
+   "title": "ecobee ecobee3 lite - Smart Thermostat Manual"
+  },
+  {
+   "manualId": "2863482",
+   "slug": "ecobee-smart-thermostat-manual",
+   "title": "Ecobee SMART THERMOSTAT Manual"
+  },
+  {
+   "manualId": "3279304",
+   "slug": "ecobee-ems-smart-thermostat-manual",
+   "title": "ecobee EMS - Smart Thermostat Manual"
+  },
+  {
+   "manualId": "3279309",
+   "slug": "ecobee-smartsensor-manual",
+   "title": "ecobee SmartSensor - Manual"
+  },
+  {
+   "manualId": "3279301",
+   "slug": "ecobee-smartthermostat-with-voice-control-installation-manual",
+   "title": "ecobee SmartThermostat with Voice Control Installation Manual"
+  },
+  {
+   "manualId": "3279303",
+   "slug": "ecobee-ecobee4-smart-thermostat-manual",
+   "title": "ecobee ecobee4 - Smart Thermostat Manual"
+  },
+  {
+   "manualId": "3279306",
+   "slug": "ecobee-smart-smart-thermostat-manual",
+   "title": "ecobee SMART - Smart Thermostat Manual"
+  },
+  {
+   "manualId": "3281757",
+   "slug": "ecobee-ecobee3-smart-thermostat-manual",
+   "title": "ecobee ecobee3 - Smart Thermostat Manual"
+  },
+  {
+   "manualId": "3279308",
+   "slug": "ecobee-switch-light-switch-manual",
+   "title": "ecobee Switch+ - Light Switch Manual"
+  },
+  {
+   "manualId": "3279311",
+   "slug": "ecobee-smart-plug-manual",
+   "title": "ecobee Smart Plug - Manual"
+  },
+  {
+   "manualId": "4247670",
+   "slug": "ecobee-ecobee3-lite-thermostat-quick-start-guide",
+   "title": "Ecobee ecobee3 lite Thermostat Quick Start Guide"
+  },
+  {
+   "manualId": "4034887",
+   "slug": "ecobee-smartcamera-manual",
+   "title": "Ecobee SmartCamera Manual"
+  },
+  {
+   "manualId": "3660659",
+   "slug": "ecobee-ebers42-manual",
+   "title": "ecobee EBERS42 Manual"
+  },
+  {
+   "manualId": "3279310",
+   "slug": "ecobee-smartsensor-for-doors-and-windows-ebdwc01-manual",
+   "title": "ecobee SmartSensor for Doors and Windows, EBDWC01 - Manual"
+  },
+  {
+   "manualId": "3279307",
+   "slug": "ecobee-smartcamera-with-voice-control-manual",
+   "title": "ecobee SmartCamera with voice control - Manual"
+  },
+  {
+   "manualId": "3279305",
+   "slug": "ecobee-smart-si-smart-thermostat-manual",
+   "title": "ecobee Smart Si - Smart Thermostat Manual"
+  }
+ ],
+ "techDirectIds": [
+  "ecobee"
+ ]
+}

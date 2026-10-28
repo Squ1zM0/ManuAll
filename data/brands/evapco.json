@@ -1,0 +1,864 @@
+{
+ "brand": "EVAPCO",
+ "brandSlug": "evapco",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/evapco/"
+ ],
+ "slugUsed": "evapco",
+ "capturedAt": "2026-10-28T07:05:28.283306+00:00",
+ "typePages": [
+  {
+   "path": "/brand/evapco/air-conditioner.html",
+   "manuals": 140,
+   "status": 200
+  },
+  {
+   "path": "/brand/evapco/freezer.html",
+   "manuals": 46,
+   "status": 200
+  },
+  {
+   "path": "/brand/evapco/accessories.html",
+   "manuals": 121,
+   "status": 200
+  },
+  {
+   "path": "/brand/evapco/control-systems.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/evapco/controller.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/evapco/cooling-boxes.html",
+   "manuals": 83,
+   "status": 200
+  },
+  {
+   "path": "/brand/evapco/fan.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/evapco/industrial-equipment.html",
+   "manuals": 105,
+   "status": 200
+  },
+  {
+   "path": "/brand/evapco/switch.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/evapco/water-system.html",
+   "manuals": 9,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1616771",
+   "slug": "Evapco-At-Series",
+   "title": "AT 110-112 Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "AT 110-112",
+   "extraModels": [
+    "AT 110-112",
+    "AT 112-012",
+    "AT 114-0124",
+    "AT 14-64",
+    "AT 14-912",
+    "AT 18-49",
+    "AT 19-56",
+    "AT 19-98",
+    "AT 212-59",
+    "AT 212-99",
+    "LPT Series",
+    "LSTE Series",
+    "AT 215-29",
+    "AT 215-99",
+    "AT 216-49",
+    "AT 216-914",
+    "AT 220-112",
+    "AT 220-918",
+    "AT 224-018",
+    "AT 224-920",
+    "AT 228-0124",
+    "AT 26-517",
+    "AT 28-917",
+    "AT 310-954",
+    "AT 312-960",
+    "AT 314-1272",
+    "AT 38-942",
+    "AT 420-124",
+    "AT 424-936",
+    "AT 428-1248",
+    "LPT 8812",
+    "LSTE 10-112",
+    "LSTE 10-636",
+    "LSTE 416",
+    "LSTE 4612",
+    "LSTE 5112",
+    "LSTE 5718",
+    "LSTE 8P-112",
+    "LSTE 8P-536",
+    "PMTQ 12924",
+    "UAT Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1616771/Evapco-At-Series.html"
+  },
+  {
+   "manualId": "4030985",
+   "slug": "Evapco-At-Atlas",
+   "title": "AT ATLAS Rigging & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "AT ATLAS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4030985/Evapco-At-Atlas.html"
+  },
+  {
+   "manualId": "2010982",
+   "slug": "Evapco-At-Atlas",
+   "title": "AT ATLAS Rigging And Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "AT ATLAS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2010982/Evapco-At-Atlas.html"
+  },
+  {
+   "manualId": "3642683",
+   "slug": "Evapco-At-Series",
+   "title": "AT ATLAS Series Operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "AT ATLAS Series",
+   "extraModels": [
+    "AT ATLAS Series",
+    "AXS Series",
+    "LPT Series",
+    "LSTE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3642683/Evapco-At-Series.html"
+  },
+  {
+   "manualId": "3675441",
+   "slug": "Evapco-At-Series",
+   "title": "AT ATLAS Series Operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "AT ATLAS Series",
+   "extraModels": [
+    "AT ATLAS Series",
+    "AXS Series",
+    "LPT Series",
+    "LSTE Series",
+    "SUN Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3675441/Evapco-At-Series.html"
+  },
+  {
+   "manualId": "2908728",
+   "slug": "Evapco-Esw-Series",
+   "title": "AT Series Operation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 58,
+   "productModel": "AT Series",
+   "extraModels": [
+    "AT Series",
+    "ATC-E",
+    "ATWB",
+    "eco-ATC-A",
+    "eco-ATC-H",
+    "eco-ATWB",
+    "eco-ATWB-H",
+    "ESW4",
+    "PM Series",
+    "eco-ATWB-E",
+    "ESWA",
+    "LRC",
+    "LS Series",
+    "LSCE",
+    "PMCQ",
+    "eco-PMC",
+    "LR Series",
+    "LRWB",
+    "LSWE",
+    "PMC-E"
+   ],
+   "url": "https://www.manualslib.com/manual/2908728/Evapco-Esw-Series.html"
+  },
+  {
+   "manualId": "1214486",
+   "slug": "Evapco-At-Series",
+   "title": "AT Series Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "AT Series",
+   "extraModels": [
+    "LPT Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1214486/Evapco-At-Series.html"
+  },
+  {
+   "manualId": "2176420",
+   "slug": "Evapco-Atc-Dc-Series",
+   "title": "ATC-B Series Rigging And Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "ATC-B Series",
+   "extraModels": [
+    "ATC-B Series",
+    "ATWB Series",
+    "eco-ATWB-H",
+    "Mr. GoodTower eco-ATC-H",
+    "Mr. GoodTower eco-ATWB-H"
+   ],
+   "url": "https://www.manualslib.com/manual/2176420/Evapco-Atc-Dc-Series.html"
+  },
+  {
+   "manualId": "2626630",
+   "slug": "Evapco-Atc-E",
+   "title": "ATC-E Maintenance Instruction",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "ATC-E",
+   "extraModels": [
+    "ATW",
+    "eco-ATC",
+    "eco-ATW",
+    "ESW4",
+    "eco-ATWE",
+    "LRC",
+    "LRW",
+    "LRW-H",
+    "LSCE",
+    "LSWA",
+    "LSWA-H",
+    "PHC-E",
+    "PMCE/Q"
+   ],
+   "url": "https://www.manualslib.com/manual/2626630/Evapco-Atc-E.html"
+  },
+  {
+   "manualId": "3024956",
+   "slug": "Evapco-Atc-E",
+   "title": "ATC-E Operation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "ATC-E",
+   "extraModels": [
+    "ATWB",
+    "eco-ATC",
+    "eco-ATW",
+    "eco-ATWE",
+    "ESWA",
+    "LRC",
+    "LSCE",
+    "LRWB",
+    "LSWE",
+    "PMC-E",
+    "PMWQ",
+    "WDW"
+   ],
+   "url": "https://www.manualslib.com/manual/3024956/Evapco-Atc-E.html"
+  },
+  {
+   "manualId": "1478626",
+   "slug": "Evapco-Atc-E",
+   "title": "ATC-E Operation and maintenance instruction manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "ATC-E",
+   "extraModels": [
+    "ATW",
+    "eco-ATC",
+    "eco-ATW",
+    "eco-ATWE",
+    "ESWA",
+    "LRC",
+    "LRW",
+    "LRW-H",
+    "LSCE",
+    "LSWA",
+    "LSWA-H",
+    "PMCQ"
+   ],
+   "url": "https://www.manualslib.com/manual/1478626/Evapco-Atc-E.html"
+  },
+  {
+   "manualId": "2013375",
+   "slug": "Evapco-Atc-E",
+   "title": "ATC-E Rigging And Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "ATC-E",
+   "extraModels": [
+    "ATWB",
+    "eco-ATWB",
+    "ATC-ES",
+    "eco-ATWB-E"
+   ],
+   "url": "https://www.manualslib.com/manual/2013375/Evapco-Atc-E.html"
+  },
+  {
+   "manualId": "4149811",
+   "slug": "Evapco-Atc-E",
+   "title": "ATC-E Rigging And Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "ATC-E",
+   "extraModels": [
+    "ATWB",
+    "eco-ATWB",
+    "ATC-ES",
+    "eco-ATWB-E"
+   ],
+   "url": "https://www.manualslib.com/manual/4149811/Evapco-Atc-E.html"
+  },
+  {
+   "manualId": "4090728",
+   "slug": "Evapco-Atc-E-Series",
+   "title": "ATC-E Series Operation And Maintenance Instruction",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "ATC-E Series",
+   "extraModels": [
+    "ATCP Series",
+    "ATWB Series",
+    "ATWP Series",
+    "CATC Series",
+    "CATW Series",
+    "eco-ATC-A Series",
+    "eco-ATW Series",
+    "eco-ATWE Series",
+    "eco-PMC Series",
+    "ESW4",
+    "LRC Series",
+    "LRWB Series",
+    "LSC-E Series",
+    "LSWE Series",
+    "PHC-E Series",
+    "PMC-E Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4090728/Evapco-Atc-E-Series.html"
+  },
+  {
+   "manualId": "4085811",
+   "slug": "Evapco-Axs",
+   "title": "AXS Rigging & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "AXS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4085811/Evapco-Axs.html"
+  },
+  {
+   "manualId": "1906804",
+   "slug": "Evapco-Cpa",
+   "title": "CPA Maintenance instructions manual",
+   "type": "Service",
+   "pages": 10,
+   "productModel": "CPA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1906804/Evapco-Cpa.html"
+  },
+  {
+   "manualId": "2165408",
+   "slug": "Evapco-Eafwd",
+   "title": "EAFCD Additional Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "EAFCD",
+   "extraModels": [
+    "EAFCD",
+    "EAVCA",
+    "EAVCD",
+    "EAVCS",
+    "EAVWA",
+    "EAVWS"
+   ],
+   "url": "https://www.manualslib.com/manual/2165408/Evapco-Eafwd.html"
+  },
+  {
+   "manualId": "3405733",
+   "slug": "Evapco-Eco-Air-Eaw-Fd-Series",
+   "title": "eco-Air EAW-FD Series Rigging & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "eco-Air EAW-FD Series",
+   "extraModels": [
+    "eco-AIR EADWA",
+    "eco-Air EADWA Series",
+    "eco-AIR EADWD",
+    "eco-Air EADWD Series",
+    "eco-AIR EAFCD",
+    "eco-Air EAFCD Series",
+    "eco-AIR EAFWD",
+    "eco-Air EAFWD Series",
+    "eco-AIR EAVCA",
+    "eco-Air EAVCA Series",
+    "eco-AIR EAVCD",
+    "eco-Air EAVCD Series",
+    "eco-AIR EAVCS",
+    "eco-Air EAVCS Series",
+    "eco-AIR EAVGA",
+    "eco-Air EAVGA Series",
+    "eco-AIR EAVGD",
+    "eco-Air EAVGD Series",
+    "eco-AIR EAVWA",
+    "eco-Air EAVWA Series",
+    "eco-AIR EAVWD",
+    "eco-Air EAVWD Series",
+    "eco-AIR EAVWS",
+    "eco-Air EAVWS Series",
+    "eco-AIR EAW-DA",
+    "eco-Air EAW-DA Series",
+    "eco-AIR EAW-DD",
+    "eco-Air EAW-DD Series",
+    "eco-AIR EAW-VA",
+    "eco-Air EAW-VA Series",
+    "eco-AIR EAW-VD",
+    "eco-Air EAW-VD Series",
+    "eco-AIR EAW-VS",
+    "eco-Air EAW-VS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3405733/Evapco-Eco-Air-Eaw-Fd-Series.html"
+  },
+  {
+   "manualId": "3560136",
+   "slug": "Evapco-Eco-Air-Series",
+   "title": "eco-Air Series Rigging & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "eco-Air Series",
+   "extraModels": [
+    "EAFCD",
+    "EAVCA",
+    "EAVCD",
+    "EAVCS",
+    "EAVGA",
+    "EAVGD",
+    "EAW-DA/EADWA",
+    "EAW-DD/EADWD",
+    "EAW-FD/EAFWD",
+    "EAW-VA/EAVWA",
+    "EAW-VD/EAVWD",
+    "EAW-VS/EAVWS"
+   ],
+   "url": "https://www.manualslib.com/manual/3560136/Evapco-Eco-Air-Series.html"
+  },
+  {
+   "manualId": "2728721",
+   "slug": "Evapco-Eco-Air-Series",
+   "title": "eco-Air Series user manual",
+   "type": "User / Owner",
+   "pages": 39,
+   "productModel": "eco-Air Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2728721/Evapco-Eco-Air-Series.html"
+  },
+  {
+   "manualId": "1474167",
+   "slug": "Evapco-Eco-Air",
+   "title": "Eco-Air user manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "Eco-Air",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1474167/Evapco-Eco-Air.html"
+  },
+  {
+   "manualId": "3726237",
+   "slug": "Evapco-Eco-Atc-H",
+   "title": "eco-ATC-H Rigging & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "eco-ATC-H",
+   "extraModels": [
+    "eco-ATWB-H"
+   ],
+   "url": "https://www.manualslib.com/manual/3726237/Evapco-Eco-Atc-H.html"
+  },
+  {
+   "manualId": "3672716",
+   "slug": "Evapco-Eco-Atwb-H",
+   "title": "eco-ATWB-H Rigging & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "eco-ATWB-H",
+   "extraModels": [
+    "eco-ATWB-H 12x12",
+    "eco-ATWB-H 12x14",
+    "eco-ATWB-H 12x18",
+    "eco-ATWB-H 12x20",
+    "eco-ATWB-H 12x24",
+    "eco-ATWB-H 12x28",
+    "eco-ATWB-H 12x36",
+    "eco-ATWB-H 12x40",
+    "eco-ATWB-H 17x12",
+    "eco-ATWB-H 17x14",
+    "eco-ATWB-H 24x12",
+    "eco-ATWB-H 24x14",
+    "eco-ATWB-H 24x18",
+    "eco-ATWB-H 24x20",
+    "eco-ATWB-H 9x12",
+    "eco-ATWB-H 9x14",
+    "eco-ATWB-H 9x18",
+    "eco-ATWB-H 9x21",
+    "eco-ATWB-H 9x9"
+   ],
+   "url": "https://www.manualslib.com/manual/3672716/Evapco-Eco-Atwb-H.html"
+  },
+  {
+   "manualId": "3878855",
+   "slug": "Evapco-Eco-Atwb-H-Series",
+   "title": "eco-ATWB-H Series Rigging and Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "eco-ATWB-H Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878855/Evapco-Eco-Atwb-H-Series.html"
+  },
+  {
+   "manualId": "3909271",
+   "slug": "Evapco-Eco-Lrwb",
+   "title": "eco-LRWB Operation and maintenance instruction",
+   "type": "Service",
+   "pages": 58,
+   "productModel": "eco-LRWB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3909271/Evapco-Eco-Lrwb.html"
+  },
+  {
+   "manualId": "3909272",
+   "slug": "Evapco-Eco-Lswe",
+   "title": "eco-LSWE Operation and maintenance instruction",
+   "type": "Service",
+   "pages": 58,
+   "productModel": "eco-LSWE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3909272/Evapco-Eco-Lswe.html"
+  },
+  {
+   "manualId": "2144600",
+   "slug": "Evapco-Pmc-Series",
+   "title": "eco-PMC Series Rigging & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "eco-PMC Series",
+   "extraModels": [
+    "eco-PMC Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2144600/Evapco-Pmc-Series.html"
+  },
+  {
+   "manualId": "2053557",
+   "slug": "Evapco-Esw4",
+   "title": "ESW4 Rigging and Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "ESW4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2053557/Evapco-Esw4.html"
+  },
+  {
+   "manualId": "4419490",
+   "slug": "evapco-cpa-maintenance-instructions",
+   "title": "EVAPCO CPA Maintenance Instructions",
+   "type": "Service",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4419490/evapco-cpa-maintenance-instructions.html"
+  },
+  {
+   "manualId": "3878582",
+   "slug": "Evapco-Eavwd",
+   "title": "Evapco EAVWD Additional Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 28,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878582/Evapco-Eavwd.html"
+  },
+  {
+   "manualId": "4244611",
+   "slug": "evapco-eco-air-series-cooler-condenser-installation-manual",
+   "title": "EVAPCO eco-AIR Series Cooler Condenser Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4244611/evapco-eco-air-series-cooler-condenser-installation-manual.html"
+  },
+  {
+   "manualId": "3047651",
+   "slug": "Evapco-Mr-Goodtower-Eaw-Fd-Series",
+   "title": "Evapco Mr. GoodTower EAW-FD Series Additional Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 24,
+   "productModel": null,
+   "extraModels": [
+    "Mr. GoodTower EADWA Series",
+    "Mr. GoodTower EADWD Series",
+    "Mr. GoodTower EAFCD Series",
+    "Mr. GoodTower EAFWD Series",
+    "Mr. GoodTower EAVCA Series",
+    "Mr. GoodTower EAVCD Series",
+    "Mr. GoodTower EAVCS Series",
+    "Mr. GoodTower EAVGA Series",
+    "Mr. GoodTower EAVGD Series",
+    "Mr. GoodTower EAVWA Series",
+    "Mr. GoodTower EAVWD Series",
+    "Mr. GoodTower EAVWS Series",
+    "Mr. GoodTower EAW-DA Series",
+    "Mr. GoodTower EAW-DD Series",
+    "Mr. GoodTower EAW-VA Series",
+    "Mr. GoodTower EAW-VD Series",
+    "Mr. GoodTower EAW-VS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3047651/Evapco-Mr-Goodtower-Eaw-Fd-Series.html"
+  },
+  {
+   "manualId": "4235469",
+   "slug": "evapco-pm-series-evaporative-condenser-installation-and-operation-manual",
+   "title": "EVAPCO PM Series Evaporative Condenser Installation & Operation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4235469/evapco-pm-series-evaporative-condenser-installation-and-operation-manual.html"
+  },
+  {
+   "manualId": "3384396",
+   "slug": "Evapco-017-00464p",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3384396/Evapco-017-00464p.html"
+  },
+  {
+   "manualId": "1949890",
+   "slug": "Evapco-Lpt-Series",
+   "title": "LPT Series Rigging and Installation Manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "LPT Series",
+   "extraModels": [
+    "LRW Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1949890/Evapco-Lpt-Series.html"
+  },
+  {
+   "manualId": "3870636",
+   "slug": "Evapco-Lrc-Series",
+   "title": "LRC Series Rigging and Installation Manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "LRC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3870636/Evapco-Lrc-Series.html"
+  },
+  {
+   "manualId": "2159515",
+   "slug": "Evapco-Ls-Series",
+   "title": "LS Series Rigging and Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "LS Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2159515/Evapco-Ls-Series.html"
+  },
+  {
+   "manualId": "3840194",
+   "slug": "Evapco-Lstb-Series",
+   "title": "LSTB Series Operation and maintenance instructions",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "LSTB Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3840194/Evapco-Lstb-Series.html"
+  },
+  {
+   "manualId": "2555912",
+   "slug": "Evapco-Phc-E-Series",
+   "title": "PHC-E Series Rigging & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "PHC-E Series",
+   "extraModels": [
+    "GoodTower PHW",
+    "PHC-D-E",
+    "PHC-S-E"
+   ],
+   "url": "https://www.manualslib.com/manual/2555912/Evapco-Phc-E-Series.html"
+  },
+  {
+   "manualId": "4088945",
+   "slug": "Evapco-Phw",
+   "title": "PHW Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "PHW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4088945/Evapco-Phw.html"
+  },
+  {
+   "manualId": "3488223",
+   "slug": "Evapco-Pm-Series",
+   "title": "PM Series Rigging & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "PM Series",
+   "extraModels": [
+    "PMC-175E",
+    "PMC-240E",
+    "PMC-250E",
+    "PMC-375E",
+    "PMRC-1006",
+    "PMRC-1012",
+    "PMRC-1056",
+    "PMRC-1074",
+    "PMRC-1137",
+    "PMRC-1362",
+    "PMRC-1586",
+    "PMRC-1705",
+    "PMRC-2024",
+    "PMRC-2138",
+    "PMRC-332",
+    "PMRC-376",
+    "PMRC-503",
+    "PMRC-530",
+    "PMRC-568",
+    "PMRC-678",
+    "PMRC-715",
+    "PMRC-725",
+    "PMRC-792",
+    "PMRC-816"
+   ],
+   "url": "https://www.manualslib.com/manual/3488223/Evapco-Pm-Series.html"
+  },
+  {
+   "manualId": "3029749",
+   "slug": "Evapco-Pmc-E",
+   "title": "PMC-E Rigging & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "PMC-E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3029749/Evapco-Pmc-E.html"
+  },
+  {
+   "manualId": "3858302",
+   "slug": "Evapco-Pmtq-Series",
+   "title": "PMTQ Series Operation and maintenance instructions",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "PMTQ Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3858302/Evapco-Pmtq-Series.html"
+  },
+  {
+   "manualId": "1649693",
+   "slug": "Evapco-Pulsepure-Integrated-Controller-2",
+   "title": "PulsePure Integrated Controller-2 Instruction, Operation And Installation Manual Addendum",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "PulsePure Integrated Controller-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1649693/Evapco-Pulsepure-Integrated-Controller-2.html"
+  },
+  {
+   "manualId": "2012461",
+   "slug": "Evapco-Esw-Series",
+   "title": "Rigging and Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2012461/Evapco-Esw-Series.html"
+  },
+  {
+   "manualId": "3771565",
+   "slug": "Evapco-Sage",
+   "title": "SAGE Operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 42,
+   "productModel": "SAGE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3771565/Evapco-Sage.html"
+  },
+  {
+   "manualId": "3840193",
+   "slug": "Evapco-Uss-Series",
+   "title": "USS Series Operation and maintenance instructions",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "USS Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3840193/Evapco-Uss-Series.html"
+  },
+  {
+   "manualId": "3840195",
+   "slug": "Evapco-Ut-Series",
+   "title": "UT Series Operation and maintenance instructions",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "UT Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3840195/Evapco-Ut-Series.html"
+  },
+  {
+   "manualId": "2602017",
+   "slug": "Evapco-Water-Saver-Ews-22",
+   "title": "Water Saver EWS-22 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 23,
+   "productModel": "Water Saver EWS-22",
+   "extraModels": [
+    "Water Saver EWS-23",
+    "Water Saver EWS-24",
+    "Water Saver EWS-33",
+    "Water Saver EWS-34",
+    "Water Saver EWS-53",
+    "Water Saver EWS-54",
+    "Water Saver EWS-63",
+    "Water Saver EWS-64"
+   ],
+   "url": "https://www.manualslib.com/manual/2602017/Evapco-Water-Saver-Ews-22.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4235469",
+   "slug": "evapco-pm-series-evaporative-condenser-installation-and-operation-manual",
+   "title": "EVAPCO PM Series Evaporative Condenser Installation & Operation Manual"
+  },
+  {
+   "manualId": "4244611",
+   "slug": "evapco-eco-air-series-cooler-condenser-installation-manual",
+   "title": "EVAPCO eco-AIR Series Cooler Condenser Installation Manual"
+  },
+  {
+   "manualId": "4419490",
+   "slug": "evapco-cpa-maintenance-instructions",
+   "title": "EVAPCO CPA Maintenance Instructions"
+  }
+ ],
+ "techDirectIds": [
+  "evapco"
+ ]
+}

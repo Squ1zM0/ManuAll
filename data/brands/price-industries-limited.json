@@ -1,0 +1,98 @@
+{
+ "brand": "Price Industries Limited",
+ "brandSlug": "price-industries-limited",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/price-industries-limited/"
+ ],
+ "slugUsed": "price-industries-limited",
+ "capturedAt": "2026-10-28T09:12:04.969121+00:00",
+ "typePages": [
+  {
+   "path": "/brand/price-industries-limited/air-cleaner.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/price-industries-limited/engine.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/price-industries-limited/fan.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/price-industries-limited/touch-terminals.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2542587",
+   "slug": "Price-Industries-Limited-Dms",
+   "title": "DMS Manual Installation",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "DMS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2542587/Price-Industries-Limited-Dms.html"
+  },
+  {
+   "manualId": "2034965",
+   "slug": "Price-Industries-Limited-Ecm-Series",
+   "title": "ECM Series troubleshooting manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "ECM Series",
+   "extraModels": [
+    "ECM-DX Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2034965/Price-Industries-Limited-Ecm-Series.html"
+  },
+  {
+   "manualId": "1551236",
+   "slug": "Price-Industries-Limited-Fdc",
+   "title": "FDC Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "FDC",
+   "extraModels": [
+    "FDCLP2"
+   ],
+   "url": "https://www.manualslib.com/manual/1551236/Price-Industries-Limited-Fdc.html"
+  },
+  {
+   "manualId": "2437473",
+   "slug": "Price-Industries-Limited-Holyoake-Rap-Series",
+   "title": "HOLYOAKE RAP Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "HOLYOAKE RAP Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2437473/Price-Industries-Limited-Holyoake-Rap-Series.html"
+  },
+  {
+   "manualId": "4112884",
+   "slug": "Price-Industries-Limited-Prodigy-With-Disio",
+   "title": "Prodigy with Disio installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Prodigy with Disio",
+   "extraModels": [
+    "Prodigy with Disio"
+   ],
+   "url": "https://www.manualslib.com/manual/4112884/Price-Industries-Limited-Prodigy-With-Disio.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "price-industries"
+ ]
+}

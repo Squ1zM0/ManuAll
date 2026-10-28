@@ -1,0 +1,663 @@
+{
+ "brand": "True Manufacturing Company",
+ "brandSlug": "true-manufacturing-company",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/true-manufacturing-company/"
+ ],
+ "slugUsed": "true-manufacturing-company",
+ "capturedAt": "2026-10-28T09:32:07.409839+00:00",
+ "typePages": [
+  {
+   "path": "/brand/true-manufacturing-company/freezer.html",
+   "manuals": 89,
+   "status": 200
+  },
+  {
+   "path": "/brand/true-manufacturing-company/refrigerator.html",
+   "manuals": 66,
+   "status": 200
+  },
+  {
+   "path": "/brand/true-manufacturing-company/commercial-food-equipment.html",
+   "manuals": 16,
+   "status": 200
+  },
+  {
+   "path": "/brand/true-manufacturing-company/display-case.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/true-manufacturing-company/exercise-bike.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/true-manufacturing-company/food-prep-table.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/true-manufacturing-company/food-warmer.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/true-manufacturing-company/heater.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/true-manufacturing-company/heaters.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/true-manufacturing-company/ice-maker.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/true-manufacturing-company/merchandiser.html",
+   "manuals": 11,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1006392",
+   "slug": "True-Manufacturing-Company-30",
+   "title": "30 installation manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "30",
+   "extraModels": [
+    "TAC-36",
+    "TAC-48",
+    "TAC-48GS",
+    "TAC-72RC"
+   ],
+   "url": "https://www.manualslib.com/manual/1006392/True-Manufacturing-Company-30.html"
+  },
+  {
+   "manualId": "266321",
+   "slug": "True-Manufacturing-Company-922341",
+   "title": "922341 installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "922341",
+   "extraModels": [
+    "TFM-29FL",
+    "TFM-41FL"
+   ],
+   "url": "https://www.manualslib.com/manual/266321/True-Manufacturing-Company-922341.html"
+  },
+  {
+   "manualId": "266318",
+   "slug": "True-Manufacturing-Company-Es9-0",
+   "title": "ES9.0 owner's manual",
+   "type": "User / Owner",
+   "pages": 41,
+   "productModel": "ES9.0",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/266318/True-Manufacturing-Company-Es9-0.html"
+  },
+  {
+   "manualId": "680934",
+   "slug": "True-Manufacturing-Company-Es9-0",
+   "title": "ES9.0 owner's manual",
+   "type": "User / Owner",
+   "pages": 94,
+   "productModel": "ES9.0",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/680934/True-Manufacturing-Company-Es9-0.html"
+  },
+  {
+   "manualId": "1979925",
+   "slug": "True-Manufacturing-Company-Gdm-Series",
+   "title": "GDM Series installation manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "GDM Series",
+   "extraModels": [
+    "GDM-23-LD",
+    "GDM-23F-LD",
+    "GDM-26-LD",
+    "GDM-26F-LD"
+   ],
+   "url": "https://www.manualslib.com/manual/1979925/True-Manufacturing-Company-Gdm-Series.html"
+  },
+  {
+   "manualId": "3681531",
+   "slug": "True-Manufacturing-Company-Gdm-Series",
+   "title": "GDM Series installation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "GDM Series",
+   "extraModels": [
+    "GDM-49-SCI-HC-TSL01",
+    "T Series",
+    "T-49-SCI-HC"
+   ],
+   "url": "https://www.manualslib.com/manual/3681531/True-Manufacturing-Company-Gdm-Series.html"
+  },
+  {
+   "manualId": "484342",
+   "slug": "True-Manufacturing-Company-Gdm-26",
+   "title": "GDM-26 Training booklet manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "GDM-26",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/484342/True-Manufacturing-Company-Gdm-26.html"
+  },
+  {
+   "manualId": "266324",
+   "slug": "True-Manufacturing-Company-Gdm-3",
+   "title": "GDM-3 installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "GDM-3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/266324/True-Manufacturing-Company-Gdm-3.html"
+  },
+  {
+   "manualId": "4075796",
+   "slug": "True-Manufacturing-Company-Gdm-Hst",
+   "title": "GDM-HST Control manual",
+   "type": "Other",
+   "pages": 144,
+   "productModel": "GDM-HST",
+   "extraModels": [
+    "GDM-HST02",
+    "GDM/T-CHROMO",
+    "GDM/T-SCI",
+    "TGO-POP01",
+    "TRM",
+    "TSCI",
+    "TSCI-TSL01"
+   ],
+   "url": "https://www.manualslib.com/manual/4075796/True-Manufacturing-Company-Gdm-Hst.html"
+  },
+  {
+   "manualId": "2767767",
+   "slug": "True-Manufacturing-Company-Gdm-Hst02-Hc-Tsl01",
+   "title": "GDM-HST02-HC-TSL01 installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "GDM-HST02-HC-TSL01",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2767767/True-Manufacturing-Company-Gdm-Hst02-Hc-Tsl01.html"
+  },
+  {
+   "manualId": "2449345",
+   "slug": "True-Manufacturing-Company-T-23-Hc",
+   "title": "L1125-016 installation manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "L1125-016",
+   "extraModels": [
+    "L1125-016",
+    "PRO-26R-N",
+    "STR-72",
+    "T-11-HC",
+    "T-12-HC",
+    "T-12F-HC",
+    "T-19-HC",
+    "T-19F-HC",
+    "T-19FZ-HC",
+    "T-23-2-HC",
+    "T-23DT-HC",
+    "T-23F-2-HC",
+    "T-23F-HC",
+    "T-23PT-HC",
+    "T-35-HC",
+    "T-35F-HC",
+    "T-35G-LD",
+    "T-43-HC",
+    "T-43F-HC",
+    "T-49-4-HC",
+    "T-49-HC",
+    "T-49DT-4-HC",
+    "T-49DT-HC",
+    "T-49F-4-HC",
+    "T-49F-HC",
+    "T-49G-4",
+    "T-72-HC",
+    "T-72F-HC",
+    "TS-23-2-HC",
+    "TS-23-HC",
+    "TS-23F-HC",
+    "TS-35-HC",
+    "TS-35F-HC",
+    "TS-43F-HC",
+    "TS-49-4-HC",
+    "TS-49-HC",
+    "TS-49F-4-HC",
+    "TS-49F-HC",
+    "TS-72-HC",
+    "TS-72F-HC",
+    "TSD-33-HC",
+    "TSD-47-HC",
+    "TSD-69G-LD"
+   ],
+   "url": "https://www.manualslib.com/manual/2449345/True-Manufacturing-Company-T-23-Hc.html"
+  },
+  {
+   "manualId": "3730456",
+   "slug": "True-Manufacturing-Company-Spec-Str",
+   "title": "SPEC STA installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "SPEC STA",
+   "extraModels": [
+    "SPEC STA",
+    "SPEC STG",
+    "SPEC STR1RRI89-1S",
+    "SPEC STR2RRT-2G-2S"
+   ],
+   "url": "https://www.manualslib.com/manual/3730456/True-Manufacturing-Company-Spec-Str.html"
+  },
+  {
+   "manualId": "3369214",
+   "slug": "True-Manufacturing-Company-Str-Series",
+   "title": "STA Series installation manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "STA Series",
+   "extraModels": [
+    "STA Series",
+    "STG Series",
+    "STG2DT-4HS",
+    "STG2DT-4S",
+    "STG2H-2S",
+    "STG3F-3S-HC",
+    "STG3F-6HS",
+    "STG3R-3G-HC",
+    "STG3R-3S-HC",
+    "STR1R-1S-HC",
+    "STR2DT-2S",
+    "STR2DT-4HS",
+    "STR2F-2S-HC",
+    "STR2R-2S-HC",
+    "STR3R-3S-HC"
+   ],
+   "url": "https://www.manualslib.com/manual/3369214/True-Manufacturing-Company-Str-Series.html"
+  },
+  {
+   "manualId": "3657445",
+   "slug": "True-Manufacturing-Company-Traditional-Reach-Ins-T-Series",
+   "title": "T-23-HC installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "T-23-HC",
+   "extraModels": [
+    "T-23-HC",
+    "T-49-HC",
+    "TRADITIONAL REACH-INS TSD-69"
+   ],
+   "url": "https://www.manualslib.com/manual/3657445/True-Manufacturing-Company-Traditional-Reach-Ins-T-Series.html"
+  },
+  {
+   "manualId": "1365315",
+   "slug": "True-Manufacturing-Company-T-23df-Hc",
+   "title": "T-23DF-HC installation manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "T-23DF-HC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1365315/True-Manufacturing-Company-T-23df-Hc.html"
+  },
+  {
+   "manualId": "2962660",
+   "slug": "True-Manufacturing-Company-Tac-14gs-Hc-Ld",
+   "title": "TAC-14GS-HC-LD installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "TAC-14GS-HC-LD",
+   "extraModels": [
+    "TAC-48SM-LD",
+    "TAC-72-LD"
+   ],
+   "url": "https://www.manualslib.com/manual/2962660/True-Manufacturing-Company-Tac-14gs-Hc-Ld.html"
+  },
+  {
+   "manualId": "2716154",
+   "slug": "True-Manufacturing-Company-Tdb-24-48-1-G-1",
+   "title": "TBB-1-B instruction manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "TBB-1-B",
+   "extraModels": [
+    "TBB-1-B",
+    "TBB-2",
+    "TBB-3G-S",
+    "TD-50-18-S",
+    "TDD-4"
+   ],
+   "url": "https://www.manualslib.com/manual/2716154/True-Manufacturing-Company-Tdb-24-48-1-G-1.html"
+  },
+  {
+   "manualId": "266326",
+   "slug": "True-Manufacturing-Company-Tbb-2",
+   "title": "TBB-2 installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "TBB-2",
+   "extraModels": [
+    "TBB-3G-S",
+    "TD-50-18-S-LT",
+    "TDB-24-48-1-G-1",
+    "TDD-4"
+   ],
+   "url": "https://www.manualslib.com/manual/266326/True-Manufacturing-Company-Tbb-2.html"
+  },
+  {
+   "manualId": "2280332",
+   "slug": "True-Manufacturing-Company-Tbr-Series",
+   "title": "TBR Series installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "TBR Series",
+   "extraModels": [
+    "TBR60-PTSZ1-L-B-GSG-GSG",
+    "TBR60-PTSZ1-L-B-SS-SS",
+    "TBR72-RISZ1-L-S-GGG",
+    "TDR Series",
+    "TDR48-RISZ1-L-B-SG"
+   ],
+   "url": "https://www.manualslib.com/manual/2280332/True-Manufacturing-Company-Tbr-Series.html"
+  },
+  {
+   "manualId": "266327",
+   "slug": "True-Manufacturing-Company-Tcgd-50",
+   "title": "TCGD-50 installation manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "TCGD-50",
+   "extraModels": [
+    "TCGD-77"
+   ],
+   "url": "https://www.manualslib.com/manual/266327/True-Manufacturing-Company-Tcgd-50.html"
+  },
+  {
+   "manualId": "266328",
+   "slug": "True-Manufacturing-Company-Tcgdz-50",
+   "title": "TCGDZ-50 installation manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "TCGDZ-50",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/266328/True-Manufacturing-Company-Tcgdz-50.html"
+  },
+  {
+   "manualId": "1006397",
+   "slug": "True-Manufacturing-Company-Tcgr-50",
+   "title": "TCGR-50 installation manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "TCGR-50",
+   "extraModels": [
+    "TCGR-50-CD",
+    "TGGR-77"
+   ],
+   "url": "https://www.manualslib.com/manual/1006397/True-Manufacturing-Company-Tcgr-50.html"
+  },
+  {
+   "manualId": "266329",
+   "slug": "True-Manufacturing-Company-Tcgr-50",
+   "title": "TCGR-50 installation manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "TCGR-50",
+   "extraModels": [
+    "TCGR-50-CD",
+    "TCGR-77"
+   ],
+   "url": "https://www.manualslib.com/manual/266329/True-Manufacturing-Company-Tcgr-50.html"
+  },
+  {
+   "manualId": "266322",
+   "slug": "True-Manufacturing-Company-Tdc-47",
+   "title": "TDC-47 installation manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "TDC-47",
+   "extraModels": [
+    "THDC-4",
+    "THDC-6"
+   ],
+   "url": "https://www.manualslib.com/manual/266322/True-Manufacturing-Company-Tdc-47.html"
+  },
+  {
+   "manualId": "2056149",
+   "slug": "True-Manufacturing-Company-Twt-67d-2",
+   "title": "TFP-72-30M-D-2 installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "TFP-72-30M-D-2",
+   "extraModels": [
+    "TFP-72-30M-D-2",
+    "TPP-67",
+    "TSSU-48-10-HC"
+   ],
+   "url": "https://www.manualslib.com/manual/2056149/True-Manufacturing-Company-Twt-67d-2.html"
+  },
+  {
+   "manualId": "2776949",
+   "slug": "True-Manufacturing-Company-Tpp-67",
+   "title": "TFP-72-30M-D-2 installation manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "TFP-72-30M-D-2",
+   "extraModels": [
+    "TFP-72-30M-D-2",
+    "TSSU-48-10-HC",
+    "TWT-60-HC",
+    "TWT-67D-2"
+   ],
+   "url": "https://www.manualslib.com/manual/2776949/True-Manufacturing-Company-Tpp-67.html"
+  },
+  {
+   "manualId": "4639649",
+   "slug": "True-Manufacturing-Company-Tgo-Pop-Series",
+   "title": "TGO POP Series installation manual",
+   "type": "Installation",
+   "pages": 47,
+   "productModel": "TGO POP Series",
+   "extraModels": [
+    "TGO-27-POP01 TSL01 Series",
+    "TGO-30-POP01 TSL01 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4639649/True-Manufacturing-Company-Tgo-Pop-Series.html"
+  },
+  {
+   "manualId": "266331",
+   "slug": "True-Manufacturing-Company-Tgu-2",
+   "title": "TGU-2 installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "TGU-2",
+   "extraModels": [
+    "TGU-3F"
+   ],
+   "url": "https://www.manualslib.com/manual/266331/True-Manufacturing-Company-Tgu-2.html"
+  },
+  {
+   "manualId": "2344076",
+   "slug": "True-Manufacturing-Company-Tgu-2-Hc",
+   "title": "TGU-2-HC installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "TGU-2-HC",
+   "extraModels": [
+    "TGU-3-HC"
+   ],
+   "url": "https://www.manualslib.com/manual/2344076/True-Manufacturing-Company-Tgu-2-Hc.html"
+  },
+  {
+   "manualId": "266320",
+   "slug": "True-Manufacturing-Company-Th",
+   "title": "TH installation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "TH",
+   "extraModels": [
+    "TH Series",
+    "TH-23",
+    "TH-23G"
+   ],
+   "url": "https://www.manualslib.com/manual/266320/True-Manufacturing-Company-Th.html"
+  },
+  {
+   "manualId": "2259394",
+   "slug": "True-Manufacturing-Company-Th-Series",
+   "title": "TH Series installation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "TH Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2259394/True-Manufacturing-Company-Th-Series.html"
+  },
+  {
+   "manualId": "4148736",
+   "slug": "True-Manufacturing-Company-Tib-422",
+   "title": "TIB-322 installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "TIB-322",
+   "extraModels": [
+    "TIB-322",
+    "TIB-430",
+    "TIB-530",
+    "TIB-948"
+   ],
+   "url": "https://www.manualslib.com/manual/4148736/True-Manufacturing-Company-Tib-422.html"
+  },
+  {
+   "manualId": "1006395",
+   "slug": "True-Manufacturing-Company-Tmw-36f",
+   "title": "TMW TMW-36F installation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "TMW TMW-36F",
+   "extraModels": [
+    "TMW TMW-36F-QT"
+   ],
+   "url": "https://www.manualslib.com/manual/1006395/True-Manufacturing-Company-Tmw-36f.html"
+  },
+  {
+   "manualId": "266330",
+   "slug": "True-Manufacturing-Company-Tmw-Tmw-36f",
+   "title": "TMW TMW-36F installation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "TMW TMW-36F",
+   "extraModels": [
+    "TMW TMW-36F-QT"
+   ],
+   "url": "https://www.manualslib.com/manual/266330/True-Manufacturing-Company-Tmw-Tmw-36f.html"
+  },
+  {
+   "manualId": "2344075",
+   "slug": "True-Manufacturing-Company-Tmw-36f-Qt-Sd",
+   "title": "TMW-36F-FT-SD installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "TMW-36F-FT-SD",
+   "extraModels": [
+    "TMW-36F-FT-SD"
+   ],
+   "url": "https://www.manualslib.com/manual/2344075/True-Manufacturing-Company-Tmw-36f-Qt-Sd.html"
+  },
+  {
+   "manualId": "266333",
+   "slug": "True-Manufacturing-Company-Tr1rri-1s",
+   "title": "TR1RRI-1S installation manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "TR1RRI-1S",
+   "extraModels": [
+    "TR2R-2G",
+    "TR2RRT-2S-2S"
+   ],
+   "url": "https://www.manualslib.com/manual/266333/True-Manufacturing-Company-Tr1rri-1s.html"
+  },
+  {
+   "manualId": "4527963",
+   "slug": "True-Manufacturing-Company-Trcb-Series",
+   "title": "TRCB Series installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "TRCB Series",
+   "extraModels": [
+    "TRCB-110-HC",
+    "TRCB-36-HC",
+    "TRCB-52-HC",
+    "TRCB-82-HC"
+   ],
+   "url": "https://www.manualslib.com/manual/4527963/True-Manufacturing-Company-Trcb-Series.html"
+  },
+  {
+   "manualId": "3681541",
+   "slug": "True-Manufacturing-Company-Trm",
+   "title": "TRM owner's manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "TRM",
+   "extraModels": [
+    "TRM2L",
+    "TRM2M",
+    "TRM3L",
+    "TRM3M",
+    "TRM4L",
+    "TRM4M",
+    "TRM5L",
+    "TRM5M"
+   ],
+   "url": "https://www.manualslib.com/manual/3681541/True-Manufacturing-Company-Trm.html"
+  },
+  {
+   "manualId": "3748302",
+   "slug": "True-Manufacturing-Company-True-Ice-Tcim-422",
+   "title": "TRUE ICE TCIM-422 installation manual",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "TRUE ICE TCIM-422",
+   "extraModels": [
+    "TRUE ICE TCIM-430",
+    "TRUE ICE TCIM-522",
+    "TRUE ICE TCIM-530",
+    "TRUE ICE TCIM-622",
+    "TRUE ICE TCIM-630",
+    "TRUE ICE TCIM-822",
+    "TRUE ICE TCIM-830"
+   ],
+   "url": "https://www.manualslib.com/manual/3748302/True-Manufacturing-Company-True-Ice-Tcim-422.html"
+  },
+  {
+   "manualId": "266323",
+   "slug": "True-Manufacturing-Company-Tuc-27fg",
+   "title": "TUC-27FG installation manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "TUC-27FG",
+   "extraModels": [
+    "TUC-48F-D-4",
+    "TWT-44F-HD",
+    "TWT-60F",
+    "TWT-67F"
+   ],
+   "url": "https://www.manualslib.com/manual/266323/True-Manufacturing-Company-Tuc-27fg.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "true-manufacturing"
+ ]
+}

@@ -1,0 +1,364 @@
+{
+ "brand": "Camfil",
+ "brandSlug": "camfil",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/camfil/"
+ ],
+ "slugUsed": "camfil",
+ "capturedAt": "2026-10-28T06:33:33.888687+00:00",
+ "typePages": [
+  {
+   "path": "/brand/camfil/accessories.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/camfil/air-cleaner.html",
+   "manuals": 15,
+   "status": 200
+  },
+  {
+   "path": "/brand/camfil/controller.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/camfil/dust-collector.html",
+   "manuals": 49,
+   "status": 200
+  },
+  {
+   "path": "/brand/camfil/fan.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/camfil/ilmanpuhdistimet.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/camfil/luftrenare.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/camfil/measuring-instruments.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/camfil/water-filtration-systems.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4589069",
+   "slug": "Camfil-Camcleaner-800",
+   "title": "Air Cleaner 800 Bruksanvisning",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Air Cleaner 800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4589069/Camfil-Camcleaner-800.html"
+  },
+  {
+   "manualId": "4581132",
+   "slug": "Camfil-Air-Cleaner-800",
+   "title": "Air Cleaner 800 Kayttoohje",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Air Cleaner 800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4581132/Camfil-Air-Cleaner-800.html"
+  },
+  {
+   "manualId": "4556485",
+   "slug": "Camfil-Airimage-2-0",
+   "title": "AirImage 2.0 user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "AirImage 2.0",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4556485/Camfil-Airimage-2-0.html"
+  },
+  {
+   "manualId": "4589051",
+   "slug": "Camfil-Camcleaner-2000",
+   "title": "CamCleaner 2000 Bruksanvisning",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "CamCleaner 2000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4589051/Camfil-Camcleaner-2000.html"
+  },
+  {
+   "manualId": "4592524",
+   "slug": "Camfil-Camcleaner-6000",
+   "title": "CamCleaner 6000 Bruksanvisning",
+   "type": "Other",
+   "pages": 22,
+   "productModel": "CamCleaner 6000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4592524/Camfil-Camcleaner-6000.html"
+  },
+  {
+   "manualId": "3485940",
+   "slug": "Camfil-Camcleaner-Cch2000",
+   "title": "CamCleaner CCH2000 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "CamCleaner CCH2000",
+   "extraModels": [
+    "CamCleaner CCH4000"
+   ],
+   "url": "https://www.manualslib.com/manual/3485940/Camfil-Camcleaner-Cch2000.html"
+  },
+  {
+   "manualId": "3486019",
+   "slug": "Camfil-Camcleaner-Vertical-System",
+   "title": "CamCleaner Vertical System Technical manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "CamCleaner Vertical System",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3486019/Camfil-Camcleaner-Vertical-System.html"
+  },
+  {
+   "manualId": "2524854",
+   "slug": "Camfil-Camsafe",
+   "title": "CamSafe Installation & operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "CamSafe",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2524854/Camfil-Camsafe.html"
+  },
+  {
+   "manualId": "4584012",
+   "slug": "Camfil-Cc400",
+   "title": "CC400 Kayttoohje",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "CC400",
+   "extraModels": [
+    "Air Cleaner Concealed"
+   ],
+   "url": "https://www.manualslib.com/manual/4584012/Camfil-Cc400.html"
+  },
+  {
+   "manualId": "2596114",
+   "slug": "Camfil-Cc400",
+   "title": "CC400 Technical manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "CC400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2596114/Camfil-Cc400.html"
+  },
+  {
+   "manualId": "3616184",
+   "slug": "Camfil-City-H",
+   "title": "City H user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "City H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3616184/Camfil-City-H.html"
+  },
+  {
+   "manualId": "4573135",
+   "slug": "Camfil-City-M-Connect",
+   "title": "CITY L CONNECT Kayttoohje",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "CITY L CONNECT",
+   "extraModels": [
+    "CITY L CONNECT"
+   ],
+   "url": "https://www.manualslib.com/manual/4573135/Camfil-City-M-Connect.html"
+  },
+  {
+   "manualId": "3913921",
+   "slug": "Camfil-City-L-Connect",
+   "title": "CITY L CONNECT user manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "CITY L CONNECT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3913921/Camfil-City-L-Connect.html"
+  },
+  {
+   "manualId": "2186093",
+   "slug": "Camfil-City-M",
+   "title": "CITY M Technical manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "CITY M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2186093/Camfil-City-M.html"
+  },
+  {
+   "manualId": "1083401",
+   "slug": "Camfil-City-S",
+   "title": "CITY M user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "CITY M",
+   "extraModels": [
+    "CITY M"
+   ],
+   "url": "https://www.manualslib.com/manual/1083401/Camfil-City-S.html"
+  },
+  {
+   "manualId": "3023281",
+   "slug": "Camfil-City-M-Connect",
+   "title": "CITY M user manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "CITY M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3023281/Camfil-City-M-Connect.html"
+  },
+  {
+   "manualId": "2314844",
+   "slug": "Camfil-City-Touch",
+   "title": "City Touch user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "City Touch",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2314844/Camfil-City-Touch.html"
+  },
+  {
+   "manualId": "2490496",
+   "slug": "Camfil-Cleanseal-V3",
+   "title": "CleanSeal Exhaust V3 Installation & operating manual",
+   "type": "Installation",
+   "pages": 63,
+   "productModel": "CleanSeal Exhaust V3",
+   "extraModels": [
+    "CleanSeal Exhaust V3",
+    "CleanSeal Exhaust V3 CR",
+    "CleanSeal V3 CL"
+   ],
+   "url": "https://www.manualslib.com/manual/2490496/Camfil-Cleanseal-V3.html"
+  },
+  {
+   "manualId": "3541504",
+   "slug": "Camfil-Farr-Gold-Gs2",
+   "title": "FARR GOLD GS10 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 206,
+   "productModel": "FARR GOLD GS10",
+   "extraModels": [
+    "FARR GOLD GS10",
+    "FARR GOLD GS108",
+    "FARR GOLD GS12",
+    "FARR GOLD GS120",
+    "FARR GOLD GS16L",
+    "FARR GOLD GS16SQ",
+    "FARR GOLD GS20",
+    "FARR GOLD GS24",
+    "FARR GOLD GS32",
+    "FARR GOLD GS36",
+    "FARR GOLD GS4",
+    "FARR GOLD GS48",
+    "FARR GOLD GS6",
+    "FARR GOLD GS60",
+    "FARR GOLD GS72",
+    "FARR GOLD GS8",
+    "FARR GOLD GS84",
+    "FARR GOLD GS96",
+    "STINGER ST-10",
+    "STINGER ST-12",
+    "STINGER ST-14",
+    "STINGER ST-20",
+    "STINGER ST-22",
+    "STINGER ST-24",
+    "STINGER ST-28",
+    "STINGER ST-32",
+    "STINGER ST-36",
+    "STINGER ST-40",
+    "STINGER ST-6",
+    "STINGER ST-8",
+    "STINGER ST1-10",
+    "STINGER ST1-12",
+    "STINGER ST1-14",
+    "STINGER ST1-16",
+    "STINGER ST1-18",
+    "STINGER ST1-20",
+    "STINGER ST1-22",
+    "STINGER ST1-24",
+    "STINGER ST1-28",
+    "STINGER ST1-32",
+    "STINGER ST1-36",
+    "STINGER ST1-40",
+    "STINGER ST1-6",
+    "STINGER ST1-8"
+   ],
+   "url": "https://www.manualslib.com/manual/3541504/Camfil-Farr-Gold-Gs2.html"
+  },
+  {
+   "manualId": "2045414",
+   "slug": "Camfil-Fb-Series",
+   "title": "FB Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "FB Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2045414/Camfil-Fb-Series.html"
+  },
+  {
+   "manualId": "3759236",
+   "slug": "Camfil-Gold-X-Flo",
+   "title": "Gold X-Flo Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 82,
+   "productModel": "Gold X-Flo",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3759236/Camfil-Gold-X-Flo.html"
+  },
+  {
+   "manualId": "1478629",
+   "slug": "Camfil-Handte-Vortex-Dual",
+   "title": "Handte Vortex Dual operating instructions manual",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": "Handte Vortex Dual",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1478629/Camfil-Handte-Vortex-Dual.html"
+  },
+  {
+   "manualId": "1314785",
+   "slug": "Camfil-Pm1-Tracker",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1314785/Camfil-Pm1-Tracker.html"
+  },
+  {
+   "manualId": "2871831",
+   "slug": "Camfil-Air-Image",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2871831/Camfil-Air-Image.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "camfil"
+ ]
+}

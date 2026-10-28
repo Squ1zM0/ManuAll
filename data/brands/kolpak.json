@@ -1,0 +1,84 @@
+{
+ "brand": "Kolpak",
+ "brandSlug": "kolpak",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/kolpak/"
+ ],
+ "slugUsed": "kolpak",
+ "capturedAt": "2026-10-28T08:31:44.192715+00:00",
+ "typePages": [
+  {
+   "path": "/brand/kolpak/refrigerator.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/kolpak/accessories.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2235869",
+   "slug": "Kolpak-Pr",
+   "title": "PC Original Instructions Installation, Operation And Maintenance Manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "PC",
+   "extraModels": [
+    "PC"
+   ],
+   "url": "https://www.manualslib.com/manual/2235869/Kolpak-Pr.html"
+  },
+  {
+   "manualId": "3880645",
+   "slug": "Kolpak-Pcl",
+   "title": "PCL Original Instructions Installation, Operation And Maintenance Manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "PCL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3880645/Kolpak-Pcl.html"
+  },
+  {
+   "manualId": "3511445",
+   "slug": "Kolpak-Polar-Pak-Pc039t2",
+   "title": "Polar-Pak PC039T2 owner's manual",
+   "type": "User / Owner",
+   "pages": 31,
+   "productModel": "Polar-Pak PC039T2",
+   "extraModels": [
+    "Polar-Pak PC049T2",
+    "Polar-Pak PC069T2",
+    "Polar-Pak PC069T3",
+    "Polar-Pak PC099T2",
+    "Polar-Pak PC099T3",
+    "Polar-Pak PF064T3",
+    "Polar-Pak PF094T3",
+    "Polar-Pak PF144T3",
+    "Polar-Pak PF194T3"
+   ],
+   "url": "https://www.manualslib.com/manual/3511445/Kolpak-Polar-Pak-Pc039t2.html"
+  },
+  {
+   "manualId": "1366279",
+   "slug": "Kolpak-Walk-In",
+   "title": "Walk-In Installation & operation manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "Walk-In",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1366279/Kolpak-Walk-In.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "kolpak"
+ ]
+}

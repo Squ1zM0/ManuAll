@@ -1,0 +1,47 @@
+{
+ "brand": "genteq",
+ "brandSlug": "genteq",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/genteq/"
+ ],
+ "slugUsed": "genteq",
+ "capturedAt": "2026-10-28T07:16:48.501409+00:00",
+ "typePages": [
+  {
+   "path": "/brand/genteq/engine.html",
+   "manuals": 10,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4606560",
+   "slug": "Genteq-Evergreen-Om",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4606560/Genteq-Evergreen-Om.html"
+  },
+  {
+   "manualId": "4614730",
+   "slug": "Genteq-Evergreen-Em-6103e",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4614730/Genteq-Evergreen-Em-6103e.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "genteq"
+ ]
+}

@@ -1,0 +1,231 @@
+{
+ "brand": "SpacePak",
+ "brandSlug": "spacepak",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/spacepak/"
+ ],
+ "slugUsed": "spacepak",
+ "capturedAt": "2026-10-28T09:22:15.848552+00:00",
+ "typePages": [
+  {
+   "path": "/brand/spacepak/air-conditioner.html",
+   "manuals": 25,
+   "status": 200
+  },
+  {
+   "path": "/brand/spacepak/controller.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/spacepak/fan.html",
+   "manuals": 15,
+   "status": 200
+  },
+  {
+   "path": "/brand/spacepak/heat-pump.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/spacepak/ranges.html",
+   "manuals": 4,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "741380",
+   "slug": "Spacepak-Esp-F",
+   "title": "ESP-2430F Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "ESP-2430F",
+   "extraModels": [
+    "ESP-2430F",
+    "ESP-3642F",
+    "ESP-4860F"
+   ],
+   "url": "https://www.manualslib.com/manual/741380/Spacepak-Esp-F.html"
+  },
+  {
+   "manualId": "3025862",
+   "slug": "Spacepak-Esp-J",
+   "title": "ESP-J Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "ESP-J",
+   "extraModels": [
+    "ESP-JV"
+   ],
+   "url": "https://www.manualslib.com/manual/3025862/Spacepak-Esp-J.html"
+  },
+  {
+   "manualId": "2019990",
+   "slug": "Spacepak-Espv2-109",
+   "title": "ESPV2-109 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "ESPV2-109",
+   "extraModels": [
+    "W30-WG0134-01"
+   ],
+   "url": "https://www.manualslib.com/manual/2019990/Spacepak-Espv2-109.html"
+  },
+  {
+   "manualId": "3497542",
+   "slug": "Spacepak-Zonepak-45ac-Zphp-2",
+   "title": "Installation & Operation Instructions",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3497542/Spacepak-Zonepak-45ac-Zphp-2.html"
+  },
+  {
+   "manualId": "4189237",
+   "slug": "Spacepak-Wpak-Series",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4189237/Spacepak-Wpak-Series.html"
+  },
+  {
+   "manualId": "1841349",
+   "slug": "Spacepak-2430gh4c",
+   "title": "Replacement Procedure",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1841349/Spacepak-2430gh4c.html"
+  },
+  {
+   "manualId": "1845333",
+   "slug": "Spacepak-Sim-036",
+   "title": "SIM-036 installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "SIM-036",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1845333/Spacepak-Sim-036.html"
+  },
+  {
+   "manualId": "3866513",
+   "slug": "Spacepak-Sim-060",
+   "title": "SIM-060 installation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "SIM-060",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3866513/Spacepak-Sim-060.html"
+  },
+  {
+   "manualId": "3492492",
+   "slug": "Spacepak-Solstice-Cc32-Series",
+   "title": "Solstice CC32 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Solstice CC32 Series",
+   "extraModels": [
+    "Solstice CC32-18",
+    "Solstice CC32-40",
+    "Solstice CC32-60"
+   ],
+   "url": "https://www.manualslib.com/manual/3492492/Spacepak-Solstice-Cc32-Series.html"
+  },
+  {
+   "manualId": "2771747",
+   "slug": "Spacepak-Solstice-Ilahp48",
+   "title": "Solstice ILAHP48 Installation and operation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "Solstice ILAHP48",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2771747/Spacepak-Solstice-Ilahp48.html"
+  },
+  {
+   "manualId": "1567227",
+   "slug": "Spacepak-Wcsp-D-Series",
+   "title": "WCSP-2430D Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "WCSP-2430D",
+   "extraModels": [
+    "WCSP-2430D",
+    "WCSP-3642D",
+    "WCSP-4860D"
+   ],
+   "url": "https://www.manualslib.com/manual/1567227/Spacepak-Wcsp-D-Series.html"
+  },
+  {
+   "manualId": "1898176",
+   "slug": "Spacepak-Wcspj-Series",
+   "title": "WCSP-2430J Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "WCSP-2430J",
+   "extraModels": [
+    "WCSP-2430J",
+    "WCSP-2430JV",
+    "WCSP-3642J",
+    "WCSP-3642JV",
+    "WCSP-4860J",
+    "WCSP-4860JV",
+    "WCSP-JV Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1898176/Spacepak-Wcspj-Series.html"
+  },
+  {
+   "manualId": "1972207",
+   "slug": "Spacepak-Wcsp-J-Series",
+   "title": "WCSP-2430J Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "WCSP-2430J",
+   "extraModels": [
+    "WCSP-2430J",
+    "WCSP-3642J",
+    "WCSP-4860J"
+   ],
+   "url": "https://www.manualslib.com/manual/1972207/Spacepak-Wcsp-J-Series.html"
+  },
+  {
+   "manualId": "1989306",
+   "slug": "Spacepak-Wcsp-Jv-Series",
+   "title": "WCSP-2430JV Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "WCSP-2430JV",
+   "extraModels": [
+    "WCSP-2430JV",
+    "WCSP-3642JV",
+    "WCSP-4860JV"
+   ],
+   "url": "https://www.manualslib.com/manual/1989306/Spacepak-Wcsp-Jv-Series.html"
+  },
+  {
+   "manualId": "4089228",
+   "slug": "Spacepak-Wcsp-J",
+   "title": "WCSP-J Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "WCSP-J",
+   "extraModels": [
+    "WCSP-JV"
+   ],
+   "url": "https://www.manualslib.com/manual/4089228/Spacepak-Wcsp-J.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "spacepak"
+ ]
+}

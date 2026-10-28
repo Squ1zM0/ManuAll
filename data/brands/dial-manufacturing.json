@@ -1,0 +1,37 @@
+{
+ "brand": "Dial Manufacturing",
+ "brandSlug": "dial-manufacturing",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/dial-manufacturing/"
+ ],
+ "slugUsed": "dial-manufacturing",
+ "capturedAt": "2026-10-28T06:59:12.378466+00:00",
+ "typePages": [
+  {
+   "path": "/brand/dial-manufacturing/ventilation-hood.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1758020",
+   "slug": "Dial-Manufacturing-Extended-Height-Up-Dux-Top-R-Adr",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1758020/Dial-Manufacturing-Extended-Height-Up-Dux-Top-R-Adr.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "dial-manufacturing"
+ ]
+}

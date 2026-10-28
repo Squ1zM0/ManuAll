@@ -1,0 +1,480 @@
+{
+ "brand": "Luxaire",
+ "brandSlug": "luxaire",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/luxaire/"
+ ],
+ "slugUsed": "luxaire",
+ "capturedAt": "2026-10-28T08:33:28.405878+00:00",
+ "typePages": [
+  {
+   "path": "/brand/luxaire/air-conditioner.html",
+   "manuals": 79,
+   "status": 200
+  },
+  {
+   "path": "/brand/luxaire/furnace.html",
+   "manuals": 15,
+   "status": 200
+  },
+  {
+   "path": "/brand/luxaire/heat-pump.html",
+   "manuals": 80,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1671175",
+   "slug": "Luxaire-Acclimate-Al21b2421s",
+   "title": "ACCLIMATE AL21 Series Technical manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "ACCLIMATE AL21 Series",
+   "extraModels": [
+    "ACCLIMATE AL21B3621S",
+    "ACCLIMATE AL21B4821S",
+    "ACCLIMATE AL21B6021S"
+   ],
+   "url": "https://www.manualslib.com/manual/1671175/Luxaire-Acclimate-Al21b2421s.html"
+  },
+  {
+   "manualId": "899465",
+   "slug": "Luxaire-Acclimate-Al6b024f3",
+   "title": "ACCLIMATE AL6B024F3 Technical manual",
+   "type": "Other",
+   "pages": 26,
+   "productModel": "ACCLIMATE AL6B024F3",
+   "extraModels": [
+    "ACCLIMATE AL6B024F3C",
+    "ACCLIMATE AL6B030F3",
+    "ACCLIMATE AL6B030F3C",
+    "ACCLIMATE AL6B036F3",
+    "ACCLIMATE AL6B036F3C",
+    "ACCLIMATE AL6B042F3",
+    "ACCLIMATE AL6B042F3C",
+    "ACCLIMATE AL6B048F3",
+    "ACCLIMATE AL6B048F3C",
+    "ACCLIMATE AL6B060F3",
+    "ACCLIMATE AL6B060F3C"
+   ],
+   "url": "https://www.manualslib.com/manual/899465/Luxaire-Acclimate-Al6b024f3.html"
+  },
+  {
+   "manualId": "2932393",
+   "slug": "Luxaire-Acclimate-Series",
+   "title": "ACCLIMATE Series Technical manual",
+   "type": "Other",
+   "pages": 66,
+   "productModel": "ACCLIMATE Series",
+   "extraModels": [
+    "HL19B24",
+    "HL19B2421S",
+    "HL19B3621S",
+    "HL19B4821S",
+    "HL19B6021S"
+   ],
+   "url": "https://www.manualslib.com/manual/2932393/Luxaire-Acclimate-Series.html"
+  },
+  {
+   "manualId": "3789371",
+   "slug": "Luxaire-Lx-Series",
+   "title": "CF24AXA1 Technical manual",
+   "type": "Other",
+   "pages": 181,
+   "productModel": "CF24AXA1",
+   "extraModels": [
+    "CF24AXA1",
+    "CF30BXA1",
+    "CF36BXA1",
+    "CF42CXA1",
+    "CF48CXA1",
+    "CF60CXA1",
+    "TC3B1823S",
+    "TC3B2423S",
+    "TC3B3022S",
+    "TC3B3623S",
+    "TC3B4223S",
+    "TC3B4821S",
+    "TC3B6022S",
+    "XAF214A"
+   ],
+   "url": "https://www.manualslib.com/manual/3789371/Luxaire-Lx-Series.html"
+  },
+  {
+   "manualId": "1355535",
+   "slug": "Luxaire-Climasure-Pac030",
+   "title": "Climasure PAC024 Technical manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "Climasure PAC024",
+   "extraModels": [
+    "Climasure PAC024",
+    "Climasure PAC036",
+    "Climasure PAC042",
+    "Climasure PAC048",
+    "Climasure PAC060",
+    "Climasure PHP024",
+    "Climasure PHP030",
+    "Climasure PHP036",
+    "Climasure PHP042",
+    "Climasure PHP048",
+    "Climasure PHP060"
+   ],
+   "url": "https://www.manualslib.com/manual/1355535/Luxaire-Climasure-Pac030.html"
+  },
+  {
+   "manualId": "1681559",
+   "slug": "Luxaire-Fhp180",
+   "title": "FHP 240 installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "FHP 240",
+   "extraModels": [
+    "FHP 240"
+   ],
+   "url": "https://www.manualslib.com/manual/1681559/Luxaire-Fhp180.html"
+  },
+  {
+   "manualId": "3567816",
+   "slug": "Luxaire-Hh8-Series",
+   "title": "HH8 Series Technical manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "HH8 Series",
+   "extraModels": [
+    "HH824E2S11",
+    "HH836E2S11",
+    "HH860E2S11"
+   ],
+   "url": "https://www.manualslib.com/manual/3567816/Luxaire-Hh8-Series.html"
+  },
+  {
+   "manualId": "1358559",
+   "slug": "Luxaire-Hl8b024f4c",
+   "title": "HL8B024F4C Technical manual",
+   "type": "Other",
+   "pages": 74,
+   "productModel": "HL8B024F4C",
+   "extraModels": [
+    "HL8B036F4C",
+    "HL8B048F4C",
+    "HL8B060F4C"
+   ],
+   "url": "https://www.manualslib.com/manual/1358559/Luxaire-Hl8b024f4c.html"
+  },
+  {
+   "manualId": "1616148",
+   "slug": "Luxaire-K-Bu060a-Series",
+   "title": "K*BC090A Series Installation instruction",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "K*BC090A Series",
+   "extraModels": [
+    "K*BC090A Series",
+    "K*BC120A Series",
+    "KBBC090A33",
+    "KBBC120A33",
+    "KBBU060A06"
+   ],
+   "url": "https://www.manualslib.com/manual/1616148/Luxaire-K-Bu060a-Series.html"
+  },
+  {
+   "manualId": "2898019",
+   "slug": "Luxaire-Lx-Series",
+   "title": "LX Series Technical manual",
+   "type": "Other",
+   "pages": 84,
+   "productModel": "LX Series",
+   "extraModels": [
+    "TH6B1821S",
+    "TH6B2421S",
+    "TH6B3021S",
+    "TH6B3621S",
+    "TH6B4221SS",
+    "TH6B4821S",
+    "TH6B6021S"
+   ],
+   "url": "https://www.manualslib.com/manual/2898019/Luxaire-Lx-Series.html"
+  },
+  {
+   "manualId": "2899214",
+   "slug": "Luxaire-Lx-Series",
+   "title": "LX Series Technical manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "LX Series",
+   "extraModels": [
+    "TC7B1821S",
+    "TC7B2421S",
+    "TC7B3021S",
+    "TC7B3621S",
+    "TC7B4221S",
+    "TC7B4821S",
+    "TC7B6021S"
+   ],
+   "url": "https://www.manualslib.com/manual/2899214/Luxaire-Lx-Series.html"
+  },
+  {
+   "manualId": "2913356",
+   "slug": "Luxaire-Lx-Series",
+   "title": "LX Series Technical manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "LX Series",
+   "extraModels": [
+    "TE4B1821S",
+    "TE4B2421S",
+    "TE4B3021S",
+    "TE4B3621S",
+    "TE4B4221S",
+    "TE4B4821S",
+    "TE4B6021S"
+   ],
+   "url": "https://www.manualslib.com/manual/2913356/Luxaire-Lx-Series.html"
+  },
+  {
+   "manualId": "2948737",
+   "slug": "Luxaire-Lx-Series",
+   "title": "LX Series Technical manual",
+   "type": "Other",
+   "pages": 192,
+   "productModel": "LX Series",
+   "extraModels": [
+    "TH4B1821S",
+    "TH4B2421S",
+    "TH4B3021S",
+    "TH4B3521S",
+    "TH4B3622S",
+    "TH4B4223S",
+    "TH4B4822S",
+    "TH4B6022S"
+   ],
+   "url": "https://www.manualslib.com/manual/2948737/Luxaire-Lx-Series.html"
+  },
+  {
+   "manualId": "2987420",
+   "slug": "Luxaire-Lx-Series",
+   "title": "LX Series Technical manual",
+   "type": "Other",
+   "pages": 78,
+   "productModel": "LX Series",
+   "extraModels": [
+    "TH4B1821S",
+    "TH4B2421S",
+    "TH4B3021S",
+    "TH4B3521S",
+    "TH4B3622S",
+    "TH4B4222S",
+    "TH4B4822S",
+    "TH4B6022S"
+   ],
+   "url": "https://www.manualslib.com/manual/2987420/Luxaire-Lx-Series.html"
+  },
+  {
+   "manualId": "3080794",
+   "slug": "Luxaire-Lx-Series",
+   "title": "LX Series Technical manual",
+   "type": "Other",
+   "pages": 132,
+   "productModel": "LX Series",
+   "extraModels": [
+    "TCD2B18S21S",
+    "TCD2B24S21S",
+    "TCD2B30S21S",
+    "TCD2B36S21S",
+    "TCD2B42S21S",
+    "TCD2B48S21S",
+    "TCD2B60S21S"
+   ],
+   "url": "https://www.manualslib.com/manual/3080794/Luxaire-Lx-Series.html"
+  },
+  {
+   "manualId": "4599778",
+   "slug": "Luxaire-Lx-Series",
+   "title": "LX Series Technical manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "LX Series",
+   "extraModels": [
+    "TH4B1821S",
+    "TH4B2421S",
+    "TH4B3021S",
+    "TH4B3521S"
+   ],
+   "url": "https://www.manualslib.com/manual/4599778/Luxaire-Lx-Series.html"
+  },
+  {
+   "manualId": "1268442",
+   "slug": "Luxaire-Lx-Series-Tw4b18",
+   "title": "LX SERIES TW4B18 Technical manual",
+   "type": "Other",
+   "pages": 70,
+   "productModel": "LX SERIES TW4B18",
+   "extraModels": [
+    "LX SERIES TW4B18"
+   ],
+   "url": "https://www.manualslib.com/manual/1268442/Luxaire-Lx-Series-Tw4b18.html"
+  },
+  {
+   "manualId": "1080237",
+   "slug": "Luxaire-P-Du-And-G8d-Uh-Series",
+   "title": "P*DD & G8D-DN series installation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "P*DD & G8D-DN series",
+   "extraModels": [
+    "P*DD & G8D-DN series"
+   ],
+   "url": "https://www.manualslib.com/manual/1080237/Luxaire-P-Du-And-G8d-Uh-Series.html"
+  },
+  {
+   "manualId": "1228716",
+   "slug": "Luxaire-R-410a",
+   "title": "R-410A Technical manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "R-410A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1228716/Luxaire-R-410a.html"
+  },
+  {
+   "manualId": "1427095",
+   "slug": "Luxaire-Tc17b2421s",
+   "title": "TC17B2421S Technical manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "TC17B2421S",
+   "extraModels": [
+    "TC17B3621S",
+    "TC17B4821S",
+    "TC17B6021S"
+   ],
+   "url": "https://www.manualslib.com/manual/1427095/Luxaire-Tc17b2421s.html"
+  },
+  {
+   "manualId": "1273285",
+   "slug": "Luxaire-Tc4b18-Thru-60",
+   "title": "TC4B18 THRU 60 Technical manual",
+   "type": "Other",
+   "pages": 70,
+   "productModel": "TC4B18 THRU 60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1273285/Luxaire-Tc4b18-Thru-60.html"
+  },
+  {
+   "manualId": "3916612",
+   "slug": "Luxaire-Tcd2b",
+   "title": "TCD2B Technical manual",
+   "type": "Other",
+   "pages": 132,
+   "productModel": "TCD2B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3916612/Luxaire-Tcd2b.html"
+  },
+  {
+   "manualId": "921504",
+   "slug": "Luxaire-Tcjd30-Thru-76",
+   "title": "TCJD30 THRU 76 Technical manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "TCJD30 THRU 76",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/921504/Luxaire-Tcjd30-Thru-76.html"
+  },
+  {
+   "manualId": "1045569",
+   "slug": "Luxaire-Lm8m",
+   "title": "Technical manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1045569/Luxaire-Lm8m.html"
+  },
+  {
+   "manualId": "1061675",
+   "slug": "Luxaire-G8d08016uhb11",
+   "title": "Technical manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1061675/Luxaire-G8d08016uhb11.html"
+  },
+  {
+   "manualId": "1237372",
+   "slug": "Luxaire-Tg8s",
+   "title": "Technical manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1237372/Luxaire-Tg8s.html"
+  },
+  {
+   "manualId": "1275656",
+   "slug": "Luxaire-Tm9t",
+   "title": "Technical manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1275656/Luxaire-Tm9t.html"
+  },
+  {
+   "manualId": "962343",
+   "slug": "Luxaire-Tm9x",
+   "title": "Technical manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/962343/Luxaire-Tm9x.html"
+  },
+  {
+   "manualId": "1546862",
+   "slug": "Luxaire-Thgd18",
+   "title": "THGD18 Technical manual",
+   "type": "Other",
+   "pages": 34,
+   "productModel": "THGD18",
+   "extraModels": [
+    "THGD18S41S2",
+    "THGD24S41S2",
+    "THGD30S41S2",
+    "THGD36S41S2",
+    "THGD42S41S1",
+    "THGD48S41S1",
+    "THGD60S41S2"
+   ],
+   "url": "https://www.manualslib.com/manual/1546862/Luxaire-Thgd18.html"
+  },
+  {
+   "manualId": "1357898",
+   "slug": "Luxaire-Thrd18s41s1",
+   "title": "THRD18S41S1 Technical manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "THRD18S41S1",
+   "extraModels": [
+    "THRD24S41S1",
+    "THRD30S41S1",
+    "THRD36S41S1",
+    "THRD42S41S1",
+    "THRD48S41S1",
+    "THRD60S41S1"
+   ],
+   "url": "https://www.manualslib.com/manual/1357898/Luxaire-Thrd18s41s1.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "luxaire"
+ ]
+}

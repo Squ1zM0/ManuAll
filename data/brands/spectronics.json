@@ -1,0 +1,234 @@
+{
+ "brand": "Spectronics",
+ "brandSlug": "spectronics",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/spectronics/"
+ ],
+ "slugUsed": "spectronics",
+ "capturedAt": "2026-10-28T09:22:24.505304+00:00",
+ "typePages": [
+  {
+   "path": "/brand/spectronics/control-unit.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/spectronics/flashlight.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/spectronics/headlamp.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/spectronics/lighting-equipment.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/spectronics/measuring-instruments.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/spectronics/monitor.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/spectronics/outdoor-light.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/spectronics/power-tool.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/spectronics/toy.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1369884",
+   "slug": "Spectronics-Dm-254xa",
+   "title": "DM-254HA Operator's manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "DM-254HA",
+   "extraModels": [
+    "DM-254HA",
+    "DM-300HA",
+    "DM-300XA",
+    "DM-365HA",
+    "DM-365XA",
+    "DM-450HA",
+    "DM-450XA"
+   ],
+   "url": "https://www.manualslib.com/manual/1369884/Spectronics-Dm-254xa.html"
+  },
+  {
+   "manualId": "2857232",
+   "slug": "Spectronics-Spectroline-Leaktracker-Spi-Lt",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2857232/Spectronics-Spectroline-Leaktracker-Spi-Lt.html"
+  },
+  {
+   "manualId": "3320744",
+   "slug": "Spectronics-Tracerline-09870-Dyekit",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3320744/Spectronics-Tracerline-09870-Dyekit.html"
+  },
+  {
+   "manualId": "4272847",
+   "slug": "Spectronics-Dd-1c",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4272847/Spectronics-Dd-1c.html"
+  },
+  {
+   "manualId": "4353793",
+   "slug": "Spectronics-Dd-1t",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4353793/Spectronics-Dd-1t.html"
+  },
+  {
+   "manualId": "2014346",
+   "slug": "Spectronics-Minimo",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2014346/Spectronics-Minimo.html"
+  },
+  {
+   "manualId": "2226093",
+   "slug": "Spectronics-Leak-Finder-Lf500cs",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2226093/Spectronics-Leak-Finder-Lf500cs.html"
+  },
+  {
+   "manualId": "1531790",
+   "slug": "Spectronics-Spectroline-Accumax-Series",
+   "title": "Spectroline AccuMax Series Operator's manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "Spectroline AccuMax Series",
+   "extraModels": [
+    "Spectroline AccuMax XRP-3000"
+   ],
+   "url": "https://www.manualslib.com/manual/1531790/Spectronics-Spectroline-Accumax-Series.html"
+  },
+  {
+   "manualId": "1494473",
+   "slug": "Spectronics-Spectroline-Dmxa-Series",
+   "title": "Spectroline DMHA Series Operator's manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "Spectroline DMHA Series",
+   "extraModels": [
+    "Spectroline DMHA Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1494473/Spectronics-Spectroline-Dmxa-Series.html"
+  },
+  {
+   "manualId": "2034151",
+   "slug": "Spectronics-Spectroline-Eagleeye-Ek-3000",
+   "title": "Spectroline EagleEye EK-3000 Manual",
+   "type": "Other",
+   "pages": 22,
+   "productModel": "Spectroline EagleEye EK-3000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2034151/Spectronics-Spectroline-Eagleeye-Ek-3000.html"
+  },
+  {
+   "manualId": "3290802",
+   "slug": "Spectronics-Spectroline-Maxima-Ml-3500m-Series",
+   "title": "Spectroline Maxima ML-3500M Operator's manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "Spectroline Maxima ML-3500M",
+   "extraModels": [
+    "Spectroline Maxima ML-3500M Series",
+    "Spectroline Maxima ML-3500M/F",
+    "Spectroline Maxima ML-3500M/J"
+   ],
+   "url": "https://www.manualslib.com/manual/3290802/Spectronics-Spectroline-Maxima-Ml-3500m-Series.html"
+  },
+  {
+   "manualId": "2065763",
+   "slug": "Spectronics-Spectroline-Select-Xle-1000",
+   "title": "Spectroline Select XLE-1000 Operator's manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "Spectroline Select XLE-1000",
+   "extraModels": [
+    "Spectrolinker XL-1000",
+    "Spectrolinker XL-1500",
+    "Spectronics XL-1500A"
+   ],
+   "url": "https://www.manualslib.com/manual/2065763/Spectronics-Spectroline-Select-Xle-1000.html"
+  },
+  {
+   "manualId": "1932879",
+   "slug": "Spectronics-Spectroline-Superflood-Uv-400-Series",
+   "title": "Spectroline SuperFlood UV-400 Series Operator's manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "Spectroline SuperFlood UV-400 Series",
+   "extraModels": [
+    "Spectroline SuperFlood UV-400A",
+    "Spectroline SuperFlood UV-400A/FE",
+    "Spectroline SuperFlood UV-400B",
+    "Spectroline SuperFlood UV-400B/FE"
+   ],
+   "url": "https://www.manualslib.com/manual/1932879/Spectronics-Spectroline-Superflood-Uv-400-Series.html"
+  },
+  {
+   "manualId": "2045812",
+   "slug": "Spectronics-Spectroline-Tritan-450-Ac",
+   "title": "Spectroline TRF-450 quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "Spectroline TRF-450",
+   "extraModels": [
+    "Spectroline TRF-450"
+   ],
+   "url": "https://www.manualslib.com/manual/2045812/Spectronics-Spectroline-Tritan-450-Ac.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "spectronics"
+ ]
+}

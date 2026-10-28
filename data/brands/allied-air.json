@@ -1,0 +1,669 @@
+{
+ "brand": "Allied Air",
+ "brandSlug": "allied-air",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/allied-air/"
+ ],
+ "slugUsed": "allied-air",
+ "capturedAt": "2026-10-28T06:23:53.671752+00:00",
+ "typePages": [
+  {
+   "path": "/brand/allied-air/air-conditioner.html",
+   "manuals": 38,
+   "status": 200
+  },
+  {
+   "path": "/brand/allied-air/air-handlers.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/allied-air/furnace.html",
+   "manuals": 76,
+   "status": 200
+  },
+  {
+   "path": "/brand/allied-air/gas-heater.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/allied-air/heat-pump.html",
+   "manuals": 30,
+   "status": 200
+  },
+  {
+   "path": "/brand/allied-air/thermostat.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4256",
+   "slug": "Allied-Air-2",
+   "title": "(2 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "(2",
+   "extraModels": [
+    "15)",
+    "2PHP13 Series",
+    "2PHP15 Series",
+    "4)PCE(13",
+    "4PHP13 Series",
+    "4PHP15 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4256/Allied-Air-2.html"
+  },
+  {
+   "manualId": "2433462",
+   "slug": "Allied-Air-A93uh1e",
+   "title": "030-B12 installation instructions manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "030-B12",
+   "extraModels": [
+    "030-B12",
+    "045-B12",
+    "070-B12",
+    "090-C12",
+    "090-C16",
+    "110-C16",
+    "110-C20",
+    "92G1UHE"
+   ],
+   "url": "https://www.manualslib.com/manual/2433462/Allied-Air-A93uh1e.html"
+  },
+  {
+   "manualId": "2433470",
+   "slug": "Allied-Air-A93df1e",
+   "title": "045-B12 installation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "045-B12",
+   "extraModels": [
+    "045-B12",
+    "070-B12",
+    "090-C16",
+    "92G1DFE"
+   ],
+   "url": "https://www.manualslib.com/manual/2433470/Allied-Air-A93df1e.html"
+  },
+  {
+   "manualId": "41034",
+   "slug": "Allied-Air-2hp13",
+   "title": "2HP13 installation manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "2HP13",
+   "extraModels": [
+    "2HP14"
+   ],
+   "url": "https://www.manualslib.com/manual/41034/Allied-Air-2hp13.html"
+  },
+  {
+   "manualId": "4246",
+   "slug": "Allied-Air-4ac16lt-Series",
+   "title": "4AC16LT Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 22,
+   "productModel": "4AC16LT Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4246/Allied-Air-4ac16lt-Series.html"
+  },
+  {
+   "manualId": "4247",
+   "slug": "Allied-Air-4ac18lt-Series",
+   "title": "4AC18LT Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "4AC18LT Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4247/Allied-Air-4ac18lt-Series.html"
+  },
+  {
+   "manualId": "3036138",
+   "slug": "Allied-Air-Ducane-4hp16",
+   "title": "4HP16LT Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "4HP16LT Series",
+   "extraModels": [
+    "4HP16LT Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3036138/Allied-Air-Ducane-4hp16.html"
+  },
+  {
+   "manualId": "4257",
+   "slug": "Allied-Air-4hp16lt-Series",
+   "title": "4HP16LT Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 31,
+   "productModel": "4HP16LT Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4257/Allied-Air-4hp16lt-Series.html"
+  },
+  {
+   "manualId": "4248",
+   "slug": "Allied-Air-4pge",
+   "title": "4PGE Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "4PGE",
+   "extraModels": [
+    "4PGE13 Series",
+    "4PGE15 Series",
+    "4SG13 Series",
+    "4SG15 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4248/Allied-Air-4pge.html"
+  },
+  {
+   "manualId": "923801",
+   "slug": "Allied-Air-4scu13",
+   "title": "4SCU13 Installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "4SCU13",
+   "extraModels": [
+    "4SCU14"
+   ],
+   "url": "https://www.manualslib.com/manual/923801/Allied-Air-4scu13.html"
+  },
+  {
+   "manualId": "1041330",
+   "slug": "Allied-Air-4scu14le-Series",
+   "title": "4SCU14LE SERIES Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "4SCU14LE SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1041330/Allied-Air-4scu14le-Series.html"
+  },
+  {
+   "manualId": "2859466",
+   "slug": "Allied-Air-4scu16lt-Series",
+   "title": "4SCU16LT Series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "4SCU16LT Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2859466/Allied-Air-4scu16lt-Series.html"
+  },
+  {
+   "manualId": "1958275",
+   "slug": "Allied-Air-4scu20lx",
+   "title": "4SCU20LX installation instructions manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "4SCU20LX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1958275/Allied-Air-4scu20lx.html"
+  },
+  {
+   "manualId": "810636",
+   "slug": "Allied-Air-4shp13-Series",
+   "title": "4SHP13 series Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 26,
+   "productModel": "4SHP13 series",
+   "extraModels": [
+    "4SHP13-24",
+    "4SHP13-30",
+    "4SHP13-36",
+    "4SHP13-42",
+    "4SHP13-48",
+    "4SHP13-60"
+   ],
+   "url": "https://www.manualslib.com/manual/810636/Allied-Air-4shp13-Series.html"
+  },
+  {
+   "manualId": "923234",
+   "slug": "Allied-Air-4shp13-Series",
+   "title": "4SHP13 series installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "4SHP13 series",
+   "extraModels": [
+    "4SHP14 series"
+   ],
+   "url": "https://www.manualslib.com/manual/923234/Allied-Air-4shp13-Series.html"
+  },
+  {
+   "manualId": "4255",
+   "slug": "Allied-Air-506271-01",
+   "title": "506271-01 installation instructions manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "506271-01",
+   "extraModels": [
+    "RGE Series",
+    "RPGE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4255/Allied-Air-506271-01.html"
+  },
+  {
+   "manualId": "4258",
+   "slug": "Allied-Air-506299-01",
+   "title": "506299-01 User's information manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "506299-01",
+   "extraModels": [
+    "RGE Series",
+    "RPGE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4258/Allied-Air-506299-01.html"
+  },
+  {
+   "manualId": "3714459",
+   "slug": "Allied-Air-7ac14f",
+   "title": "7AC14F installation instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "7AC14F",
+   "extraModels": [
+    "7AC14F18P",
+    "7AC14F24P",
+    "7AC14F30P",
+    "7AC14F36P",
+    "7AC14F41P",
+    "7AC14F42P",
+    "7AC14F47P",
+    "7AC14F48P",
+    "7AC14F59P",
+    "7AC14F60P"
+   ],
+   "url": "https://www.manualslib.com/manual/3714459/Allied-Air-7ac14f.html"
+  },
+  {
+   "manualId": "3720718",
+   "slug": "Allied-Air-7ah2ae-Series",
+   "title": "7AH2AE 060 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "7AH2AE 060 Series",
+   "extraModels": [
+    "7AH2AE 060 Series",
+    "7AH2AE018 Series",
+    "7AH2AE024 Series",
+    "7AH2AE036 Series",
+    "7AH2AE042 Series",
+    "7AH2AE048 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3720718/Allied-Air-7ah2ae-Series.html"
+  },
+  {
+   "manualId": "3780529",
+   "slug": "Allied-Air-7hp14f",
+   "title": "7HP14F installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "7HP14F",
+   "extraModels": [
+    "7HP14F18P",
+    "7HP14F24P",
+    "7HP14F30P",
+    "7HP14F36P",
+    "7HP14F42P",
+    "7HP14F48P",
+    "7HP14F60P"
+   ],
+   "url": "https://www.manualslib.com/manual/3780529/Allied-Air-7hp14f.html"
+  },
+  {
+   "manualId": "4249",
+   "slug": "Allied-Air-80g1uh",
+   "title": "80G1UH installation instructions manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "80G1UH",
+   "extraModels": [
+    "A80UH",
+    "A80US2V"
+   ],
+   "url": "https://www.manualslib.com/manual/4249/Allied-Air-80g1uh.html"
+  },
+  {
+   "manualId": "4250",
+   "slug": "Allied-Air-80g1uh2v",
+   "title": "80G1UH2V installation instructions manual",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "80G1UH2V",
+   "extraModels": [
+    "A80UH2V"
+   ],
+   "url": "https://www.manualslib.com/manual/4250/Allied-Air-80g1uh2v.html"
+  },
+  {
+   "manualId": "1189007",
+   "slug": "Allied-Air-A80uh1e",
+   "title": "80G1UHE installation instructions manual",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "80G1UHE",
+   "extraModels": [
+    "80G1UHE"
+   ],
+   "url": "https://www.manualslib.com/manual/1189007/Allied-Air-A80uh1e.html"
+  },
+  {
+   "manualId": "4643310",
+   "slug": "Allied-Air-80g2uhvk",
+   "title": "80G2UHVK installation instructions manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "80G2UHVK",
+   "extraModels": [
+    "80G2VK"
+   ],
+   "url": "https://www.manualslib.com/manual/4643310/Allied-Air-80g2uhvk.html"
+  },
+  {
+   "manualId": "4251",
+   "slug": "Allied-Air-92g1df",
+   "title": "92G1DF installation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "92G1DF",
+   "extraModels": [
+    "95G1DF",
+    "A93DF",
+    "A95DF"
+   ],
+   "url": "https://www.manualslib.com/manual/4251/Allied-Air-92g1df.html"
+  },
+  {
+   "manualId": "4642818",
+   "slug": "Allied-Air-A93df1ek",
+   "title": "92G1DFEK installation instructions manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "92G1DFEK",
+   "extraModels": [
+    "92G1DFEK",
+    "92G1EK",
+    "A931EK"
+   ],
+   "url": "https://www.manualslib.com/manual/4642818/Allied-Air-A93df1ek.html"
+  },
+  {
+   "manualId": "4643122",
+   "slug": "Allied-Air-92g1uhek",
+   "title": "92G1EK installation instructions manual",
+   "type": "Installation",
+   "pages": 65,
+   "productModel": "92G1EK",
+   "extraModels": [
+    "92G1EK",
+    "A931EK",
+    "A93UH1EK"
+   ],
+   "url": "https://www.manualslib.com/manual/4643122/Allied-Air-92g1uhek.html"
+  },
+  {
+   "manualId": "2371601",
+   "slug": "Allied-Air-A95uh1d",
+   "title": "92G1UH-P installation instructions manual",
+   "type": "Installation",
+   "pages": 59,
+   "productModel": "92G1UH-P",
+   "extraModels": [
+    "92G1UH-P",
+    "95F1UHD",
+    "95G1UH-P",
+    "A93UH1D"
+   ],
+   "url": "https://www.manualslib.com/manual/2371601/Allied-Air-A95uh1d.html"
+  },
+  {
+   "manualId": "3958762",
+   "slug": "Allied-Air-A93uh1ek",
+   "title": "92G1UHEK installation instructions manual",
+   "type": "Installation",
+   "pages": 59,
+   "productModel": "92G1UHEK",
+   "extraModels": [
+    "92G1UHEK"
+   ],
+   "url": "https://www.manualslib.com/manual/3958762/Allied-Air-A93uh1ek.html"
+  },
+  {
+   "manualId": "1065418",
+   "slug": "Allied-Air-A95df2v",
+   "title": "95G2DFV installation instructions manual",
+   "type": "Installation",
+   "pages": 49,
+   "productModel": "95G2DFV",
+   "extraModels": [
+    "95G2DFV"
+   ],
+   "url": "https://www.manualslib.com/manual/1065418/Allied-Air-A95df2v.html"
+  },
+  {
+   "manualId": "4642826",
+   "slug": "Allied-Air-A96df1ek",
+   "title": "96G1DFEK installation instructions manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "96G1DFEK",
+   "extraModels": [
+    "96G1DFEK",
+    "96G1EK",
+    "A961EK"
+   ],
+   "url": "https://www.manualslib.com/manual/4642826/Allied-Air-A96df1ek.html"
+  },
+  {
+   "manualId": "4642831",
+   "slug": "Allied-Air-A96uh1ek",
+   "title": "96G1EK installation instructions manual",
+   "type": "Installation",
+   "pages": 66,
+   "productModel": "96G1EK",
+   "extraModels": [
+    "96G1EK",
+    "96G1UHEK",
+    "A961EK"
+   ],
+   "url": "https://www.manualslib.com/manual/4642831/Allied-Air-A96uh1ek.html"
+  },
+  {
+   "manualId": "2478751",
+   "slug": "Allied-Air-96g2dfv",
+   "title": "96G2DFV installation instructions manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "96G2DFV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2478751/Allied-Air-96g2dfv.html"
+  },
+  {
+   "manualId": "4643117",
+   "slug": "Allied-Air-A97df2ek",
+   "title": "97G2DFEK installation instructions manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "97G2DFEK",
+   "extraModels": [
+    "97G2DFEK",
+    "97G2EK",
+    "A972EK"
+   ],
+   "url": "https://www.manualslib.com/manual/4643117/Allied-Air-A97df2ek.html"
+  },
+  {
+   "manualId": "3377764",
+   "slug": "Allied-Air-97g2dfv",
+   "title": "97G2DFV installation instructions manual",
+   "type": "Installation",
+   "pages": 53,
+   "productModel": "97G2DFV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3377764/Allied-Air-97g2dfv.html"
+  },
+  {
+   "manualId": "4642801",
+   "slug": "Allied-Air-97g2dfvk",
+   "title": "97G2DFVK installation instructions manual",
+   "type": "Installation",
+   "pages": 66,
+   "productModel": "97G2DFVK",
+   "extraModels": [
+    "97G2VK"
+   ],
+   "url": "https://www.manualslib.com/manual/4642801/Allied-Air-97g2dfvk.html"
+  },
+  {
+   "manualId": "4643214",
+   "slug": "Allied-Air-A97uh2ek",
+   "title": "97G2EK installation instructions manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "97G2EK",
+   "extraModels": [
+    "97G2EK",
+    "97G2UHEK",
+    "A972EK"
+   ],
+   "url": "https://www.manualslib.com/manual/4643214/Allied-Air-A97uh2ek.html"
+  },
+  {
+   "manualId": "3669746",
+   "slug": "Allied-Air-A7ac13f",
+   "title": "A7AC13F installation instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "A7AC13F",
+   "extraModels": [
+    "A7AC13F18P",
+    "A7AC13F24P",
+    "A7AC13F42P",
+    "A7AC13F48P",
+    "A7AC13F60P"
+   ],
+   "url": "https://www.manualslib.com/manual/3669746/Allied-Air-A7ac13f.html"
+  },
+  {
+   "manualId": "3666500",
+   "slug": "Allied-Air-A7ac14f",
+   "title": "A7AC14F installation instructions manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "A7AC14F",
+   "extraModels": [
+    "A7AC14F18P",
+    "A7AC14F24P",
+    "A7AC14F30P",
+    "A7AC14F36P",
+    "A7AC14F41P",
+    "A7AC14F42P",
+    "A7AC14F47P",
+    "A7AC14F48P",
+    "A7AC14F59P",
+    "A7AC14F60P"
+   ],
+   "url": "https://www.manualslib.com/manual/3666500/Allied-Air-A7ac14f.html"
+  },
+  {
+   "manualId": "4643232",
+   "slug": "Allied-Air-A80us2vk",
+   "title": "A802VK installation instructions manual",
+   "type": "Installation",
+   "pages": 70,
+   "productModel": "A802VK",
+   "extraModels": [
+    "A802VK",
+    "Pro Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4643232/Allied-Air-A80us2vk.html"
+  },
+  {
+   "manualId": "802496",
+   "slug": "Allied-Air-A80ds2v",
+   "title": "A80DS2V installation instructions manual",
+   "type": "Installation",
+   "pages": 63,
+   "productModel": "A80DS2V",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/802496/Allied-Air-A80ds2v.html"
+  },
+  {
+   "manualId": "1194166",
+   "slug": "Allied-Air-A96us2v",
+   "title": "A96US2V installation instructions manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "A96US2V",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1194166/Allied-Air-A96us2v.html"
+  },
+  {
+   "manualId": "4642807",
+   "slug": "Allied-Air-Pro-Series",
+   "title": "A972VK installation instructions manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "A972VK",
+   "extraModels": [
+    "A972VK",
+    "A97DS2VK"
+   ],
+   "url": "https://www.manualslib.com/manual/4642807/Allied-Air-Pro-Series.html"
+  },
+  {
+   "manualId": "4643229",
+   "slug": "Allied-Air-A97us2vk",
+   "title": "A972VK installation instructions manual",
+   "type": "Installation",
+   "pages": 83,
+   "productModel": "A972VK",
+   "extraModels": [
+    "A972VK",
+    "Pro Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4643229/Allied-Air-A97us2vk.html"
+  },
+  {
+   "manualId": "1192283",
+   "slug": "Allied-Air-A97usmv",
+   "title": "A97USMV installation instructions manual",
+   "type": "Installation",
+   "pages": 74,
+   "productModel": "A97USMV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1192283/Allied-Air-A97usmv.html"
+  },
+  {
+   "manualId": "4031907",
+   "slug": "Allied-Air-Ba713s",
+   "title": "BA713S installation instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "BA713S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4031907/Allied-Air-Ba713s.html"
+  },
+  {
+   "manualId": "4539373",
+   "slug": "Allied-Air-Myhomecomfort-Ca4",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4539373/Allied-Air-Myhomecomfort-Ca4.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "allied-air-allied"
+ ]
+}

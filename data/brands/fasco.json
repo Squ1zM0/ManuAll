@@ -1,0 +1,62 @@
+{
+ "brand": "Fasco",
+ "brandSlug": "fasco",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/fasco/"
+ ],
+ "slugUsed": "fasco",
+ "capturedAt": "2026-10-28T07:06:52.446759+00:00",
+ "typePages": [
+  {
+   "path": "/brand/fasco/blower.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/fasco/engine.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4618257",
+   "slug": "Fasco-D1138",
+   "title": "D1138 Installation Information",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "D1138",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4618257/Fasco-D1138.html"
+  },
+  {
+   "manualId": "4625453",
+   "slug": "Fasco-B160",
+   "title": "Installation & operation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4625453/Fasco-B160.html"
+  },
+  {
+   "manualId": "4653259",
+   "slug": "Fasco-Sp4l-80473",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4653259/Fasco-Sp4l-80473.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "fasco"
+ ]
+}

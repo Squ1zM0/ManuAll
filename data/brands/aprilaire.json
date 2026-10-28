@@ -1,0 +1,5371 @@
+{
+ "brand": "Aprilaire",
+ "brandSlug": "aprilaire",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/aprilaire/"
+ ],
+ "slugUsed": "aprilaire",
+ "capturedAt": "2026-10-28T06:26:38.838254+00:00",
+ "typePages": [
+  {
+   "path": "/brand/aprilaire/accessories.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/adapter.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/air-cleaner.html",
+   "manuals": 140,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/air-conditioner.html",
+   "manuals": 44,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/boiler.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/cleaning-equipment.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/control-panel.html",
+   "manuals": 14,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/control-systems.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/control-unit.html",
+   "manuals": 68,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/controller.html",
+   "manuals": 106,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/dehumidifier.html",
+   "manuals": 317,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/fan.html",
+   "manuals": 50,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/fire-and-smoke-dampers.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/humidifier.html",
+   "manuals": 444,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/humidistats.html",
+   "manuals": 25,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/monitor.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/other.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/personal-care-products.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/racks-and-stands.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/security-sensors.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/temperature-controller.html",
+   "manuals": 16,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/thermostat.html",
+   "manuals": 204,
+   "status": 200
+  },
+  {
+   "path": "/brand/aprilaire/ultrasonic-jewelry-cleaner.html",
+   "manuals": 4,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "792176",
+   "slug": "Aprilaire-10-112",
+   "title": "10-112 Maintenance instructions manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "10-112",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/792176/Aprilaire-10-112.html"
+  },
+  {
+   "manualId": "2570370",
+   "slug": "Aprilaire-110",
+   "title": "110 Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "110",
+   "extraModels": [
+    "220",
+    "500",
+    "500A",
+    "500M",
+    "558"
+   ],
+   "url": "https://www.manualslib.com/manual/2570370/Aprilaire-110.html"
+  },
+  {
+   "manualId": "2386977",
+   "slug": "Aprilaire-110",
+   "title": "110 Maintenance Instructions",
+   "type": "Service",
+   "pages": 2,
+   "productModel": "110",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2386977/Aprilaire-110.html"
+  },
+  {
+   "manualId": "3977665",
+   "slug": "Aprilaire-768",
+   "title": "110 owner's manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "110",
+   "extraModels": [
+    "110",
+    "112",
+    "224",
+    "440",
+    "445",
+    "360",
+    "220",
+    "350",
+    "448",
+    "550",
+    "558",
+    "558A",
+    "560",
+    "568",
+    "760"
+   ],
+   "url": "https://www.manualslib.com/manual/3977665/Aprilaire-768.html"
+  },
+  {
+   "manualId": "502118",
+   "slug": "Aprilaire-1606x-Series",
+   "title": "110 owner's manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "110",
+   "extraModels": [
+    "110",
+    "112",
+    "224",
+    "440",
+    "445",
+    "360",
+    "220",
+    "350",
+    "448",
+    "550",
+    "558",
+    "560",
+    "568",
+    "760",
+    "768"
+   ],
+   "url": "https://www.manualslib.com/manual/502118/Aprilaire-1606x-Series.html"
+  },
+  {
+   "manualId": "8835",
+   "slug": "Aprilaire-110",
+   "title": "110 owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "110",
+   "extraModels": [
+    "112",
+    "224",
+    "440",
+    "445",
+    "360",
+    "220",
+    "350",
+    "448",
+    "558",
+    "560",
+    "568",
+    "760",
+    "768"
+   ],
+   "url": "https://www.manualslib.com/manual/8835/Aprilaire-110.html"
+  },
+  {
+   "manualId": "8836",
+   "slug": "Aprilaire-112",
+   "title": "110 owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "110",
+   "extraModels": [
+    "110",
+    "224",
+    "440",
+    "445",
+    "360",
+    "220",
+    "350",
+    "448",
+    "550",
+    "558",
+    "560",
+    "568",
+    "760",
+    "768"
+   ],
+   "url": "https://www.manualslib.com/manual/8836/Aprilaire-112.html"
+  },
+  {
+   "manualId": "572021",
+   "slug": "Aprilaire-110",
+   "title": "110 Safety And Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "110",
+   "extraModels": [
+    "112",
+    "224",
+    "440",
+    "445",
+    "220",
+    "400 Series",
+    "600",
+    "700 SERIES",
+    "448",
+    "550",
+    "558",
+    "560",
+    "568",
+    "760"
+   ],
+   "url": "https://www.manualslib.com/manual/572021/Aprilaire-110.html"
+  },
+  {
+   "manualId": "530687",
+   "slug": "Aprilaire-220",
+   "title": "110 Service manual",
+   "type": "Service",
+   "pages": 26,
+   "productModel": "110",
+   "extraModels": [
+    "110",
+    "112",
+    "224",
+    "440",
+    "445",
+    "445A",
+    "360",
+    "400 Series",
+    "600",
+    "700 SERIES",
+    "350",
+    "448",
+    "550",
+    "550A",
+    "558",
+    "560",
+    "560A",
+    "568",
+    "760",
+    "760,760A",
+    "760A"
+   ],
+   "url": "https://www.manualslib.com/manual/530687/Aprilaire-220.html"
+  },
+  {
+   "manualId": "618518",
+   "slug": "Aprilaire-220",
+   "title": "110 Service manual",
+   "type": "Service",
+   "pages": 26,
+   "productModel": "110",
+   "extraModels": [
+    "110",
+    "112",
+    "224",
+    "440",
+    "445",
+    "445A",
+    "360",
+    "400 Series",
+    "600",
+    "700 SERIES",
+    "350",
+    "448",
+    "550",
+    "550A",
+    "558",
+    "560",
+    "560A",
+    "568",
+    "760",
+    "760A",
+    "768"
+   ],
+   "url": "https://www.manualslib.com/manual/618518/Aprilaire-220.html"
+  },
+  {
+   "manualId": "3427260",
+   "slug": "Aprilaire-1110",
+   "title": "1110 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "1110",
+   "extraModels": [
+    "1210",
+    "1310",
+    "1410",
+    "1910",
+    "2210",
+    "2216",
+    "2310",
+    "2410",
+    "2416"
+   ],
+   "url": "https://www.manualslib.com/manual/3427260/Aprilaire-1110.html"
+  },
+  {
+   "manualId": "4645440",
+   "slug": "Aprilaire-1110",
+   "title": "1110 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "1110",
+   "extraModels": [
+    "1210",
+    "1310",
+    "1410",
+    "1910",
+    "2210",
+    "2216",
+    "2310",
+    "2410",
+    "2416",
+    "3210",
+    "3310",
+    "3410"
+   ],
+   "url": "https://www.manualslib.com/manual/4645440/Aprilaire-1110.html"
+  },
+  {
+   "manualId": "1642046",
+   "slug": "Aprilaire-1110",
+   "title": "1110 owner's manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "1110",
+   "extraModels": [
+    "1210",
+    "1310",
+    "1410",
+    "1510",
+    "1610",
+    "1620",
+    "1910"
+   ],
+   "url": "https://www.manualslib.com/manual/1642046/Aprilaire-1110.html"
+  },
+  {
+   "manualId": "3618561",
+   "slug": "Aprilaire-112",
+   "title": "112 Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "112",
+   "extraModels": [
+    "224",
+    "440",
+    "445",
+    "445A"
+   ],
+   "url": "https://www.manualslib.com/manual/3618561/Aprilaire-112.html"
+  },
+  {
+   "manualId": "2786126",
+   "slug": "Aprilaire-112",
+   "title": "112 Maintenance Instruction",
+   "type": "Service",
+   "pages": 2,
+   "productModel": "112",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2786126/Aprilaire-112.html"
+  },
+  {
+   "manualId": "703907",
+   "slug": "Aprilaire-1150",
+   "title": "1150 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "1150",
+   "extraModels": [
+    "1160",
+    "1180"
+   ],
+   "url": "https://www.manualslib.com/manual/703907/Aprilaire-1150.html"
+  },
+  {
+   "manualId": "673179",
+   "slug": "Aprilaire-1150",
+   "title": "1150 quick manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "1150",
+   "extraModels": [
+    "1160",
+    "1180"
+   ],
+   "url": "https://www.manualslib.com/manual/673179/Aprilaire-1150.html"
+  },
+  {
+   "manualId": "530703",
+   "slug": "Aprilaire-1150",
+   "title": "1150 Safety, installation, and operation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "1150",
+   "extraModels": [
+    "1160"
+   ],
+   "url": "https://www.manualslib.com/manual/530703/Aprilaire-1150.html"
+  },
+  {
+   "manualId": "872451",
+   "slug": "Aprilaire-1210",
+   "title": "1210 Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "1210",
+   "extraModels": [
+    "1310",
+    "1410",
+    "2210",
+    "2310",
+    "2410",
+    "3210",
+    "3310",
+    "3410"
+   ],
+   "url": "https://www.manualslib.com/manual/872451/Aprilaire-1210.html"
+  },
+  {
+   "manualId": "3102757",
+   "slug": "Aprilaire-1310",
+   "title": "1210 owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "1210",
+   "extraModels": [
+    "1210",
+    "1410",
+    "1510",
+    "1610"
+   ],
+   "url": "https://www.manualslib.com/manual/3102757/Aprilaire-1310.html"
+  },
+  {
+   "manualId": "448811",
+   "slug": "Aprilaire-1210",
+   "title": "1210 owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "1210",
+   "extraModels": [
+    "1310",
+    "1410"
+   ],
+   "url": "https://www.manualslib.com/manual/448811/Aprilaire-1210.html"
+  },
+  {
+   "manualId": "872452",
+   "slug": "Aprilaire-1510",
+   "title": "1510 Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "1510",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/872452/Aprilaire-1510.html"
+  },
+  {
+   "manualId": "3065173",
+   "slug": "Aprilaire-1510",
+   "title": "1510 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "1510",
+   "extraModels": [
+    "2516"
+   ],
+   "url": "https://www.manualslib.com/manual/3065173/Aprilaire-1510.html"
+  },
+  {
+   "manualId": "872448",
+   "slug": "Aprilaire-1610",
+   "title": "1610 Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "1610",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/872448/Aprilaire-1610.html"
+  },
+  {
+   "manualId": "2987972",
+   "slug": "Aprilaire-Easy-Install-1610",
+   "title": "1610 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "1610",
+   "extraModels": [
+    "1620"
+   ],
+   "url": "https://www.manualslib.com/manual/2987972/Aprilaire-Easy-Install-1610.html"
+  },
+  {
+   "manualId": "530710",
+   "slug": "Aprilaire-1700",
+   "title": "1700 installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "1700",
+   "extraModels": [
+    "1710A",
+    "1720",
+    "1750",
+    "1750A",
+    "1770",
+    "1770A"
+   ],
+   "url": "https://www.manualslib.com/manual/530710/Aprilaire-1700.html"
+  },
+  {
+   "manualId": "8830",
+   "slug": "Aprilaire-1700",
+   "title": "1700 owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "1700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8830/Aprilaire-1700.html"
+  },
+  {
+   "manualId": "2367070",
+   "slug": "Aprilaire-1700",
+   "title": "1700 Safety and installation instructions manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "1700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2367070/Aprilaire-1700.html"
+  },
+  {
+   "manualId": "2367072",
+   "slug": "Aprilaire-1700",
+   "title": "1700 Safety and installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "1700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2367072/Aprilaire-1700.html"
+  },
+  {
+   "manualId": "448816",
+   "slug": "Aprilaire-1700",
+   "title": "1700 Safety and installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "1700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/448816/Aprilaire-1700.html"
+  },
+  {
+   "manualId": "530671",
+   "slug": "Aprilaire-1710a",
+   "title": "1710A Installation & owner's manual",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": "1710A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530671/Aprilaire-1710a.html"
+  },
+  {
+   "manualId": "448818",
+   "slug": "Aprilaire-1710a-Installation-And-Owner-S",
+   "title": "1710A Installation and owner's manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "1710A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/448818/Aprilaire-1710a-Installation-And-Owner-S.html"
+  },
+  {
+   "manualId": "573959",
+   "slug": "Aprilaire-1710a",
+   "title": "1710A troubleshooting manual",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "1710A",
+   "extraModels": [
+    "1750A",
+    "1770A"
+   ],
+   "url": "https://www.manualslib.com/manual/573959/Aprilaire-1710a.html"
+  },
+  {
+   "manualId": "573961",
+   "slug": "Aprilaire-1710a",
+   "title": "1710A troubleshooting manual",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "1710A",
+   "extraModels": [
+    "1750A",
+    "1770A"
+   ],
+   "url": "https://www.manualslib.com/manual/573961/Aprilaire-1710a.html"
+  },
+  {
+   "manualId": "530698",
+   "slug": "Aprilaire-1720",
+   "title": "1720 Installation,safety & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "1720",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530698/Aprilaire-1720.html"
+  },
+  {
+   "manualId": "530711",
+   "slug": "Aprilaire-1730a",
+   "title": "1730A installation instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "1730A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530711/Aprilaire-1730a.html"
+  },
+  {
+   "manualId": "722667",
+   "slug": "Aprilaire-1730a",
+   "title": "1730A installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "1730A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/722667/Aprilaire-1730a.html"
+  },
+  {
+   "manualId": "4333093",
+   "slug": "Aprilaire-1730a",
+   "title": "1730A owner's manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": "1730A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4333093/Aprilaire-1730a.html"
+  },
+  {
+   "manualId": "530706",
+   "slug": "Aprilaire-1730a",
+   "title": "1730A owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "1730A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530706/Aprilaire-1730a.html"
+  },
+  {
+   "manualId": "8865",
+   "slug": "Aprilaire-Compact-Dehumidifier-1730a",
+   "title": "1730A owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "1730A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8865/Aprilaire-Compact-Dehumidifier-1730a.html"
+  },
+  {
+   "manualId": "573958",
+   "slug": "Aprilaire-1730a",
+   "title": "1730A troubleshooting manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "1730A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/573958/Aprilaire-1730a.html"
+  },
+  {
+   "manualId": "530672",
+   "slug": "Aprilaire-1750",
+   "title": "1750 Installation,safety & maintenance manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "1750",
+   "extraModels": [
+    "1770"
+   ],
+   "url": "https://www.manualslib.com/manual/530672/Aprilaire-1750.html"
+  },
+  {
+   "manualId": "452856",
+   "slug": "Aprilaire-1750",
+   "title": "1750 owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "1750",
+   "extraModels": [
+    "1770"
+   ],
+   "url": "https://www.manualslib.com/manual/452856/Aprilaire-1750.html"
+  },
+  {
+   "manualId": "1559284",
+   "slug": "Aprilaire-1750",
+   "title": "1750 Specification Sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "1750",
+   "extraModels": [
+    "1770"
+   ],
+   "url": "https://www.manualslib.com/manual/1559284/Aprilaire-1750.html"
+  },
+  {
+   "manualId": "1066032",
+   "slug": "Aprilaire-1750a",
+   "title": "1750A installation instructions manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "1750A",
+   "extraModels": [
+    "1770A"
+   ],
+   "url": "https://www.manualslib.com/manual/1066032/Aprilaire-1750a.html"
+  },
+  {
+   "manualId": "793944",
+   "slug": "Aprilaire-1750a",
+   "title": "1750A installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "1750A",
+   "extraModels": [
+    "1770A"
+   ],
+   "url": "https://www.manualslib.com/manual/793944/Aprilaire-1750a.html"
+  },
+  {
+   "manualId": "530705",
+   "slug": "Aprilaire-1750a",
+   "title": "1750A Installation,safety & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "1750A",
+   "extraModels": [
+    "1770A"
+   ],
+   "url": "https://www.manualslib.com/manual/530705/Aprilaire-1750a.html"
+  },
+  {
+   "manualId": "210089",
+   "slug": "Aprilaire-1750a",
+   "title": "1750A owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "1750A",
+   "extraModels": [
+    "1770A"
+   ],
+   "url": "https://www.manualslib.com/manual/210089/Aprilaire-1750a.html"
+  },
+  {
+   "manualId": "448815",
+   "slug": "Aprilaire-1750a",
+   "title": "1750A owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "1750A",
+   "extraModels": [
+    "1770A"
+   ],
+   "url": "https://www.manualslib.com/manual/448815/Aprilaire-1750a.html"
+  },
+  {
+   "manualId": "1426649",
+   "slug": "Aprilaire-1820",
+   "title": "1820 Installation instructions and owner's manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "1820",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1426649/Aprilaire-1820.html"
+  },
+  {
+   "manualId": "4179824",
+   "slug": "Aprilaire-1820",
+   "title": "1820 owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "1820",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4179824/Aprilaire-1820.html"
+  },
+  {
+   "manualId": "814686",
+   "slug": "Aprilaire-1830",
+   "title": "1830 installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "1830",
+   "extraModels": [
+    "1870",
+    "1870W"
+   ],
+   "url": "https://www.manualslib.com/manual/814686/Aprilaire-1830.html"
+  },
+  {
+   "manualId": "4150408",
+   "slug": "Aprilaire-1830",
+   "title": "1830 owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "1830",
+   "extraModels": [
+    "1850",
+    "1850W"
+   ],
+   "url": "https://www.manualslib.com/manual/4150408/Aprilaire-1830.html"
+  },
+  {
+   "manualId": "582501",
+   "slug": "Aprilaire-1830",
+   "title": "1830 owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "1830",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/582501/Aprilaire-1830.html"
+  },
+  {
+   "manualId": "1695038",
+   "slug": "Aprilaire-1830",
+   "title": "1830 quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "1830",
+   "extraModels": [
+    "1850",
+    "1870"
+   ],
+   "url": "https://www.manualslib.com/manual/1695038/Aprilaire-1830.html"
+  },
+  {
+   "manualId": "2045734",
+   "slug": "Aprilaire-1830",
+   "title": "1830 troubleshooting manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "1830",
+   "extraModels": [
+    "1850",
+    "1870"
+   ],
+   "url": "https://www.manualslib.com/manual/2045734/Aprilaire-1830.html"
+  },
+  {
+   "manualId": "2299550",
+   "slug": "Aprilaire-1830cs",
+   "title": "1830CS Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "1830CS",
+   "extraModels": [
+    "1850CS"
+   ],
+   "url": "https://www.manualslib.com/manual/2299550/Aprilaire-1830cs.html"
+  },
+  {
+   "manualId": "2752887",
+   "slug": "Aprilaire-1830cs",
+   "title": "1830CS owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "1830CS",
+   "extraModels": [
+    "1850CS"
+   ],
+   "url": "https://www.manualslib.com/manual/2752887/Aprilaire-1830cs.html"
+  },
+  {
+   "manualId": "2370560",
+   "slug": "Aprilaire-1850f",
+   "title": "1850F Installation and operating manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "1850F",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2370560/Aprilaire-1850f.html"
+  },
+  {
+   "manualId": "992815",
+   "slug": "Aprilaire-1870",
+   "title": "1870 installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "1870",
+   "extraModels": [
+    "1870W"
+   ],
+   "url": "https://www.manualslib.com/manual/992815/Aprilaire-1870.html"
+  },
+  {
+   "manualId": "972453",
+   "slug": "Aprilaire-1870",
+   "title": "1870 owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "1870",
+   "extraModels": [
+    "1870W"
+   ],
+   "url": "https://www.manualslib.com/manual/972453/Aprilaire-1870.html"
+  },
+  {
+   "manualId": "973779",
+   "slug": "Aprilaire-1870f",
+   "title": "1870F Installation and operating manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "1870F",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/973779/Aprilaire-1870f.html"
+  },
+  {
+   "manualId": "1626626",
+   "slug": "Aprilaire-1872",
+   "title": "1872 Installation and operating manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "1872",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1626626/Aprilaire-1872.html"
+  },
+  {
+   "manualId": "452853",
+   "slug": "Aprilaire-1910",
+   "title": "1910 owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "1910",
+   "extraModels": [
+    "1930"
+   ],
+   "url": "https://www.manualslib.com/manual/452853/Aprilaire-1910.html"
+  },
+  {
+   "manualId": "8838",
+   "slug": "Aprilaire-1952",
+   "title": "1952 Safety, installation and service manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "1952",
+   "extraModels": [
+    "1953",
+    "1953 & 1972",
+    "1972"
+   ],
+   "url": "https://www.manualslib.com/manual/8838/Aprilaire-1952.html"
+  },
+  {
+   "manualId": "8824",
+   "slug": "Aprilaire-2210",
+   "title": "2210 owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "2210",
+   "extraModels": [
+    "2310",
+    "2410"
+   ],
+   "url": "https://www.manualslib.com/manual/8824/Aprilaire-2210.html"
+  },
+  {
+   "manualId": "3796765",
+   "slug": "Aprilaire-300",
+   "title": "300 installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3796765/Aprilaire-300.html"
+  },
+  {
+   "manualId": "3806439",
+   "slug": "Aprilaire-300",
+   "title": "300 installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3806439/Aprilaire-300.html"
+  },
+  {
+   "manualId": "448820",
+   "slug": "Aprilaire-3210",
+   "title": "3210 owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "3210",
+   "extraModels": [
+    "3310",
+    "3410"
+   ],
+   "url": "https://www.manualslib.com/manual/448820/Aprilaire-3210.html"
+  },
+  {
+   "manualId": "792012",
+   "slug": "Aprilaire-350",
+   "title": "350 installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "350",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/792012/Aprilaire-350.html"
+  },
+  {
+   "manualId": "1470501",
+   "slug": "Aprilaire-360",
+   "title": "360 installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "360",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1470501/Aprilaire-360.html"
+  },
+  {
+   "manualId": "4155188",
+   "slug": "Aprilaire-360",
+   "title": "360 installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "360",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4155188/Aprilaire-360.html"
+  },
+  {
+   "manualId": "210086",
+   "slug": "Aprilaire-350",
+   "title": "360 owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "360",
+   "extraModels": [
+    "360",
+    "400 Series",
+    "500",
+    "600",
+    "700 SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/210086/Aprilaire-350.html"
+  },
+  {
+   "manualId": "4003934",
+   "slug": "Aprilaire-350",
+   "title": "360 owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "360",
+   "extraModels": [
+    "360",
+    "400 Series",
+    "400M",
+    "500",
+    "500M",
+    "600",
+    "700 SERIES",
+    "700M",
+    "60M"
+   ],
+   "url": "https://www.manualslib.com/manual/4003934/Aprilaire-350.html"
+  },
+  {
+   "manualId": "475364",
+   "slug": "Aprilaire-350",
+   "title": "360 owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "360",
+   "extraModels": [
+    "360",
+    "400A",
+    "400M",
+    "500A",
+    "500M",
+    "600A",
+    "600M",
+    "700A",
+    "700M"
+   ],
+   "url": "https://www.manualslib.com/manual/475364/Aprilaire-350.html"
+  },
+  {
+   "manualId": "8832",
+   "slug": "Aprilaire-Humudifiers-400a",
+   "title": "360 owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "360",
+   "extraModels": [
+    "360",
+    "360: 400A: 500A: 500M",
+    "400M",
+    "500",
+    "500A",
+    "500M",
+    "600",
+    "600A",
+    "600M",
+    "700 SERIES",
+    "700A",
+    "700M"
+   ],
+   "url": "https://www.manualslib.com/manual/8832/Aprilaire-Humudifiers-400a.html"
+  },
+  {
+   "manualId": "8844",
+   "slug": "Aprilaire-350",
+   "title": "360 owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "360",
+   "extraModels": [
+    "360",
+    "400 Series",
+    "400A",
+    "400M",
+    "500",
+    "500A",
+    "500M",
+    "600",
+    "600A",
+    "600M",
+    "700 SERIES",
+    "700A",
+    "700M"
+   ],
+   "url": "https://www.manualslib.com/manual/8844/Aprilaire-350.html"
+  },
+  {
+   "manualId": "919271",
+   "slug": "Aprilaire-360",
+   "title": "360 owner's manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "360",
+   "extraModels": [
+    "400A",
+    "500A",
+    "500M",
+    "600A",
+    "600M",
+    "700A",
+    "700M",
+    "350"
+   ],
+   "url": "https://www.manualslib.com/manual/919271/Aprilaire-360.html"
+  },
+  {
+   "manualId": "975673",
+   "slug": "Aprilaire-350",
+   "title": "360 Safety & Operating Instructions manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "360",
+   "extraModels": [
+    "360",
+    "400 Series",
+    "400M",
+    "500",
+    "500M",
+    "600",
+    "600M",
+    "700 SERIES",
+    "700M"
+   ],
+   "url": "https://www.manualslib.com/manual/975673/Aprilaire-350.html"
+  },
+  {
+   "manualId": "530716",
+   "slug": "Aprilaire-700",
+   "title": "400 Series Application manual",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "400 Series",
+   "extraModels": [
+    "400 Series",
+    "400M",
+    "500",
+    "500M",
+    "600",
+    "600M",
+    "700M",
+    "800 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/530716/Aprilaire-700.html"
+  },
+  {
+   "manualId": "530715",
+   "slug": "Aprilaire-400",
+   "title": "400 Series Dealer parts list",
+   "type": "Parts & Wiring",
+   "pages": 8,
+   "productModel": "400 Series",
+   "extraModels": [
+    "400M"
+   ],
+   "url": "https://www.manualslib.com/manual/530715/Aprilaire-400.html"
+  },
+  {
+   "manualId": "3238353",
+   "slug": "Aprilaire-400-Series",
+   "title": "400 Series Installation template",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "400 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3238353/Aprilaire-400-Series.html"
+  },
+  {
+   "manualId": "2548098",
+   "slug": "Aprilaire-400",
+   "title": "400 Series instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "400 Series",
+   "extraModels": [
+    "400A"
+   ],
+   "url": "https://www.manualslib.com/manual/2548098/Aprilaire-400.html"
+  },
+  {
+   "manualId": "745761",
+   "slug": "Aprilaire-400",
+   "title": "400 Series Instructions and installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "400 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/745761/Aprilaire-400.html"
+  },
+  {
+   "manualId": "1705440",
+   "slug": "Aprilaire-400",
+   "title": "400 Series Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "400 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1705440/Aprilaire-400.html"
+  },
+  {
+   "manualId": "914024",
+   "slug": "Aprilaire-400-Series",
+   "title": "400 Series Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "400 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/914024/Aprilaire-400-Series.html"
+  },
+  {
+   "manualId": "3359457",
+   "slug": "Aprilaire-300",
+   "title": "400 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "400 Series",
+   "extraModels": [
+    "400 Series",
+    "400M",
+    "500",
+    "500M",
+    "600",
+    "600M",
+    "700 SERIES",
+    "700M"
+   ],
+   "url": "https://www.manualslib.com/manual/3359457/Aprilaire-300.html"
+  },
+  {
+   "manualId": "452865",
+   "slug": "Aprilaire-550",
+   "title": "400 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "400 Series",
+   "extraModels": [
+    "400 Series",
+    "600",
+    "700 SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/452865/Aprilaire-550.html"
+  },
+  {
+   "manualId": "452871",
+   "slug": "Aprilaire-600",
+   "title": "400 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "400 Series",
+   "extraModels": [
+    "400 Series",
+    "500",
+    "700 SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/452871/Aprilaire-600.html"
+  },
+  {
+   "manualId": "8839",
+   "slug": "Aprilaire-400",
+   "title": "400 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "400 Series",
+   "extraModels": [
+    "600",
+    "700 SERIES",
+    "550"
+   ],
+   "url": "https://www.manualslib.com/manual/8839/Aprilaire-400.html"
+  },
+  {
+   "manualId": "8841",
+   "slug": "Aprilaire-550",
+   "title": "400 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "400 Series",
+   "extraModels": [
+    "400 Series",
+    "600",
+    "700 SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/8841/Aprilaire-550.html"
+  },
+  {
+   "manualId": "8843",
+   "slug": "Aprilaire-600-And700",
+   "title": "400 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "400 Series",
+   "extraModels": [
+    "400 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/8843/Aprilaire-600-And700.html"
+  },
+  {
+   "manualId": "3236457",
+   "slug": "Aprilaire-400",
+   "title": "400 Series quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "400 Series",
+   "extraModels": [
+    "400A",
+    "400M"
+   ],
+   "url": "https://www.manualslib.com/manual/3236457/Aprilaire-400.html"
+  },
+  {
+   "manualId": "926435",
+   "slug": "Aprilaire-700m",
+   "title": "400 Series reference manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "400 Series",
+   "extraModels": [
+    "400 Series",
+    "400M",
+    "500",
+    "500M",
+    "600",
+    "600M"
+   ],
+   "url": "https://www.manualslib.com/manual/926435/Aprilaire-700m.html"
+  },
+  {
+   "manualId": "1403981",
+   "slug": "Aprilaire-400",
+   "title": "400 Series Safety and installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "400 Series",
+   "extraModels": [
+    "400A"
+   ],
+   "url": "https://www.manualslib.com/manual/1403981/Aprilaire-400.html"
+  },
+  {
+   "manualId": "618538",
+   "slug": "Aprilaire-400-Series",
+   "title": "400 Series Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "400 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/618538/Aprilaire-400-Series.html"
+  },
+  {
+   "manualId": "530712",
+   "slug": "Aprilaire-600k",
+   "title": "400M Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "400M",
+   "extraModels": [
+    "400M",
+    "800 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/530712/Aprilaire-600k.html"
+  },
+  {
+   "manualId": "841415",
+   "slug": "Aprilaire-4200",
+   "title": "4200 installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "4200",
+   "extraModels": [
+    "4400"
+   ],
+   "url": "https://www.manualslib.com/manual/841415/Aprilaire-4200.html"
+  },
+  {
+   "manualId": "8826",
+   "slug": "Aprilaire-4200",
+   "title": "4200 owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "4200",
+   "extraModels": [
+    "4400"
+   ],
+   "url": "https://www.manualslib.com/manual/8826/Aprilaire-4200.html"
+  },
+  {
+   "manualId": "8827",
+   "slug": "Aprilaire-4300",
+   "title": "4200 owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "4200",
+   "extraModels": [
+    "4200",
+    "4400"
+   ],
+   "url": "https://www.manualslib.com/manual/8827/Aprilaire-4300.html"
+  },
+  {
+   "manualId": "2298666",
+   "slug": "Aprilaire-440",
+   "title": "440 Maintenance Instructions",
+   "type": "Service",
+   "pages": 2,
+   "productModel": "440",
+   "extraModels": [
+    "445",
+    "445A"
+   ],
+   "url": "https://www.manualslib.com/manual/2298666/Aprilaire-440.html"
+  },
+  {
+   "manualId": "1714534",
+   "slug": "Aprilaire-448",
+   "title": "445 owner's manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": "445",
+   "extraModels": [
+    "445",
+    "445A"
+   ],
+   "url": "https://www.manualslib.com/manual/1714534/Aprilaire-448.html"
+  },
+  {
+   "manualId": "1072519",
+   "slug": "Aprilaire-60",
+   "title": "4655 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "4655",
+   "extraModels": [
+    "4655",
+    "62"
+   ],
+   "url": "https://www.manualslib.com/manual/1072519/Aprilaire-60.html"
+  },
+  {
+   "manualId": "3143787",
+   "slug": "Aprilaire-6055",
+   "title": "4655 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "4655",
+   "extraModels": [
+    "4655",
+    "6255"
+   ],
+   "url": "https://www.manualslib.com/manual/3143787/Aprilaire-6055.html"
+  },
+  {
+   "manualId": "3606256",
+   "slug": "Aprilaire-Ap62",
+   "title": "4655 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "4655",
+   "extraModels": [
+    "4655",
+    "60"
+   ],
+   "url": "https://www.manualslib.com/manual/3606256/Aprilaire-Ap62.html"
+  },
+  {
+   "manualId": "3230687",
+   "slug": "Aprilaire-4655",
+   "title": "4655 Safety and installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "4655",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3230687/Aprilaire-4655.html"
+  },
+  {
+   "manualId": "1408624",
+   "slug": "Aprilaire-500-Series",
+   "title": "500 installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1408624/Aprilaire-500-Series.html"
+  },
+  {
+   "manualId": "3805470",
+   "slug": "Aprilaire-500-Series",
+   "title": "500 Installation template",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3805470/Aprilaire-500-Series.html"
+  },
+  {
+   "manualId": "2116886",
+   "slug": "Aprilaire-500",
+   "title": "500 Maintenance instructions",
+   "type": "Service",
+   "pages": 2,
+   "productModel": "500",
+   "extraModels": [
+    "500A",
+    "500M"
+   ],
+   "url": "https://www.manualslib.com/manual/2116886/Aprilaire-500.html"
+  },
+  {
+   "manualId": "872449",
+   "slug": "Aprilaire-500-Series",
+   "title": "500 Safety instructions and installation template",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "500",
+   "extraModels": [
+    "500M"
+   ],
+   "url": "https://www.manualslib.com/manual/872449/Aprilaire-500-Series.html"
+  },
+  {
+   "manualId": "3350774",
+   "slug": "Aprilaire-5000",
+   "title": "5000 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "5000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3350774/Aprilaire-5000.html"
+  },
+  {
+   "manualId": "1007651",
+   "slug": "Aprilaire-5000-Safety",
+   "title": "5000 owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "5000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1007651/Aprilaire-5000-Safety.html"
+  },
+  {
+   "manualId": "210087",
+   "slug": "Aprilaire-5000",
+   "title": "5000 owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "5000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/210087/Aprilaire-5000.html"
+  },
+  {
+   "manualId": "452859",
+   "slug": "Aprilaire-5000",
+   "title": "5000 owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "5000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/452859/Aprilaire-5000.html"
+  },
+  {
+   "manualId": "628600",
+   "slug": "Aprilaire-5000",
+   "title": "5000 owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "5000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/628600/Aprilaire-5000.html"
+  },
+  {
+   "manualId": "763778",
+   "slug": "Aprilaire-5000",
+   "title": "5000 owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "5000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/763778/Aprilaire-5000.html"
+  },
+  {
+   "manualId": "8828",
+   "slug": "Aprilaire-5000",
+   "title": "5000 Safety and installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "5000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8828/Aprilaire-5000.html"
+  },
+  {
+   "manualId": "944939",
+   "slug": "Aprilaire-5000",
+   "title": "5000 Safety and installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "5000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/944939/Aprilaire-5000.html"
+  },
+  {
+   "manualId": "1408625",
+   "slug": "Aprilaire-500m",
+   "title": "500A installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "500A",
+   "extraModels": [
+    "500A"
+   ],
+   "url": "https://www.manualslib.com/manual/1408625/Aprilaire-500m.html"
+  },
+  {
+   "manualId": "2058069",
+   "slug": "Aprilaire-550",
+   "title": "550 Maintenance instructions",
+   "type": "Service",
+   "pages": 2,
+   "productModel": "550",
+   "extraModels": [
+    "550A",
+    "558"
+   ],
+   "url": "https://www.manualslib.com/manual/2058069/Aprilaire-550.html"
+  },
+  {
+   "manualId": "3892028",
+   "slug": "Aprilaire-5558",
+   "title": "5558 installation instructions manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "5558",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3892028/Aprilaire-5558.html"
+  },
+  {
+   "manualId": "1289075",
+   "slug": "Aprilaire-850",
+   "title": "5658 Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "5658",
+   "extraModels": [
+    "5658"
+   ],
+   "url": "https://www.manualslib.com/manual/1289075/Aprilaire-850.html"
+  },
+  {
+   "manualId": "3466333",
+   "slug": "Aprilaire-5658",
+   "title": "5658 Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": "5658",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3466333/Aprilaire-5658.html"
+  },
+  {
+   "manualId": "3803564",
+   "slug": "Aprilaire-5822",
+   "title": "5822 Installation Instructions",
+   "type": "Installation",
+   "pages": null,
+   "productModel": "5822",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3803564/Aprilaire-5822.html"
+  },
+  {
+   "manualId": "1377034",
+   "slug": "Aprilaire-62",
+   "title": "60 Safety and installation instructions manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "60",
+   "extraModels": [
+    "60"
+   ],
+   "url": "https://www.manualslib.com/manual/1377034/Aprilaire-62.html"
+  },
+  {
+   "manualId": "1585828",
+   "slug": "Aprilaire-60",
+   "title": "60 Safety and installation instructions manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "60",
+   "extraModels": [
+    "62"
+   ],
+   "url": "https://www.manualslib.com/manual/1585828/Aprilaire-60.html"
+  },
+  {
+   "manualId": "530680",
+   "slug": "Aprilaire-60",
+   "title": "60 Safety and installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "60",
+   "extraModels": [
+    "62"
+   ],
+   "url": "https://www.manualslib.com/manual/530680/Aprilaire-60.html"
+  },
+  {
+   "manualId": "3571600",
+   "slug": "Aprilaire-720",
+   "title": "60 Wiring Instructions",
+   "type": "Parts & Wiring",
+   "pages": 7,
+   "productModel": "60",
+   "extraModels": [
+    "4655",
+    "60"
+   ],
+   "url": "https://www.manualslib.com/manual/3571600/Aprilaire-720.html"
+  },
+  {
+   "manualId": "964189",
+   "slug": "Aprilaire-600-Series",
+   "title": "600 installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "600",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/964189/Aprilaire-600-Series.html"
+  },
+  {
+   "manualId": "4390996",
+   "slug": "Aprilaire-600-Series",
+   "title": "600 Installation template",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "600",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4390996/Aprilaire-600-Series.html"
+  },
+  {
+   "manualId": "8834",
+   "slug": "Aprilaire-And-700",
+   "title": "600 owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "600",
+   "extraModels": [
+    "600",
+    "448",
+    "558",
+    "568"
+   ],
+   "url": "https://www.manualslib.com/manual/8834/Aprilaire-And-700.html"
+  },
+  {
+   "manualId": "8840",
+   "slug": "Aprilaire-448",
+   "title": "600 owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "600",
+   "extraModels": [
+    "600",
+    "700 SERIES",
+    "558",
+    "568"
+   ],
+   "url": "https://www.manualslib.com/manual/8840/Aprilaire-448.html"
+  },
+  {
+   "manualId": "8842",
+   "slug": "Aprilaire-600-And-700",
+   "title": "600 owner's manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "600",
+   "extraModels": [
+    "448",
+    "558",
+    "568",
+    "Boardz Freestyle Frenzy"
+   ],
+   "url": "https://www.manualslib.com/manual/8842/Aprilaire-600-And-700.html"
+  },
+  {
+   "manualId": "1397565",
+   "slug": "Aprilaire-600",
+   "title": "600 Safety and installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "600",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1397565/Aprilaire-600.html"
+  },
+  {
+   "manualId": "784194",
+   "slug": "Aprilaire-600",
+   "title": "600 Safety instructions and installation template",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "600",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/784194/Aprilaire-600.html"
+  },
+  {
+   "manualId": "1746556",
+   "slug": "Aprilaire-6000-Series",
+   "title": "6000 Series Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "6000 Series",
+   "extraModels": [
+    "6010",
+    "6015",
+    "6020",
+    "6025",
+    "6030",
+    "6035",
+    "6040",
+    "6045",
+    "6045M"
+   ],
+   "url": "https://www.manualslib.com/manual/1746556/Aprilaire-6000-Series.html"
+  },
+  {
+   "manualId": "1400574",
+   "slug": "Aprilaire-600m",
+   "title": "600A installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "600A",
+   "extraModels": [
+    "600A"
+   ],
+   "url": "https://www.manualslib.com/manual/1400574/Aprilaire-600m.html"
+  },
+  {
+   "manualId": "2509619",
+   "slug": "Aprilaire-63",
+   "title": "63 installation instructions manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "63",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2509619/Aprilaire-63.html"
+  },
+  {
+   "manualId": "3817210",
+   "slug": "Aprilaire-6302",
+   "title": "6302 owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "6302",
+   "extraModels": [
+    "6303",
+    "Zoned Comfort Control 6203"
+   ],
+   "url": "https://www.manualslib.com/manual/3817210/Aprilaire-6302.html"
+  },
+  {
+   "manualId": "3080565",
+   "slug": "Aprilaire-Zoned-Comfort-Control-6302",
+   "title": "6302 Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "6302",
+   "extraModels": [
+    "6303"
+   ],
+   "url": "https://www.manualslib.com/manual/3080565/Aprilaire-Zoned-Comfort-Control-6302.html"
+  },
+  {
+   "manualId": "530704",
+   "slug": "Aprilaire-6202",
+   "title": "6303 owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "6303",
+   "extraModels": [
+    "6303",
+    "Zoned Comfort Control 6203"
+   ],
+   "url": "https://www.manualslib.com/manual/530704/Aprilaire-6202.html"
+  },
+  {
+   "manualId": "1076826",
+   "slug": "Aprilaire-Zoned-Comfort-Control-6404",
+   "title": "6404 Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "6404",
+   "extraModels": [
+    "Zoned Comfort Control 6403"
+   ],
+   "url": "https://www.manualslib.com/manual/1076826/Aprilaire-Zoned-Comfort-Control-6404.html"
+  },
+  {
+   "manualId": "530696",
+   "slug": "Aprilaire-6404",
+   "title": "6404 Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "6404",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530696/Aprilaire-6404.html"
+  },
+  {
+   "manualId": "2016719",
+   "slug": "Aprilaire-65",
+   "title": "65 installation instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "65",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2016719/Aprilaire-65.html"
+  },
+  {
+   "manualId": "3004798",
+   "slug": "Aprilaire-65",
+   "title": "65 installation instructions manual",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": "65",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3004798/Aprilaire-65.html"
+  },
+  {
+   "manualId": "3610181",
+   "slug": "Aprilaire-Ap65",
+   "title": "65 owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "65",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3610181/Aprilaire-Ap65.html"
+  },
+  {
+   "manualId": "3808989",
+   "slug": "Aprilaire-65",
+   "title": "65 owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "65",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3808989/Aprilaire-65.html"
+  },
+  {
+   "manualId": "688081",
+   "slug": "Aprilaire-65",
+   "title": "65 owner's manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "65",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/688081/Aprilaire-65.html"
+  },
+  {
+   "manualId": "530689",
+   "slug": "Aprilaire-6504",
+   "title": "6504 owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "6504",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530689/Aprilaire-6504.html"
+  },
+  {
+   "manualId": "1213804",
+   "slug": "Aprilaire-6504",
+   "title": "6504 Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "6504",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1213804/Aprilaire-6504.html"
+  },
+  {
+   "manualId": "530695",
+   "slug": "Aprilaire-70",
+   "title": "70 owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "70",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530695/Aprilaire-70.html"
+  },
+  {
+   "manualId": "1403990",
+   "slug": "Aprilaire-700-Series",
+   "title": "700 SERIES Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "700 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1403990/Aprilaire-700-Series.html"
+  },
+  {
+   "manualId": "1400660",
+   "slug": "Aprilaire-700",
+   "title": "700 SERIES instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "700 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1400660/Aprilaire-700.html"
+  },
+  {
+   "manualId": "1400673",
+   "slug": "Aprilaire-700",
+   "title": "700 SERIES instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "700 SERIES",
+   "extraModels": [
+    "700M"
+   ],
+   "url": "https://www.manualslib.com/manual/1400673/Aprilaire-700.html"
+  },
+  {
+   "manualId": "2471445",
+   "slug": "Aprilaire-700",
+   "title": "700 SERIES Maintenance instructions",
+   "type": "Service",
+   "pages": 2,
+   "productModel": "700 SERIES",
+   "extraModels": [
+    "700A",
+    "700M",
+    "760",
+    "768"
+   ],
+   "url": "https://www.manualslib.com/manual/2471445/Aprilaire-700.html"
+  },
+  {
+   "manualId": "3461521",
+   "slug": "Aprilaire-700-Series",
+   "title": "700 SERIES Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "700 SERIES",
+   "extraModels": [
+    "700M"
+   ],
+   "url": "https://www.manualslib.com/manual/3461521/Aprilaire-700-Series.html"
+  },
+  {
+   "manualId": "872450",
+   "slug": "Aprilaire-700-Series",
+   "title": "700 SERIES Safety instructions and installation template",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "700 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/872450/Aprilaire-700-Series.html"
+  },
+  {
+   "manualId": "530718",
+   "slug": "Aprilaire-400k",
+   "title": "700 SERIES Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": "700 SERIES",
+   "extraModels": [
+    "700 SERIES",
+    "700M",
+    "800 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/530718/Aprilaire-400k.html"
+  },
+  {
+   "manualId": "2394043",
+   "slug": "Aprilaire-700m",
+   "title": "700A installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "700A",
+   "extraModels": [
+    "700A"
+   ],
+   "url": "https://www.manualslib.com/manual/2394043/Aprilaire-700m.html"
+  },
+  {
+   "manualId": "1052806",
+   "slug": "Aprilaire-700a",
+   "title": "700A installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "700A",
+   "extraModels": [
+    "700M"
+   ],
+   "url": "https://www.manualslib.com/manual/1052806/Aprilaire-700a.html"
+  },
+  {
+   "manualId": "530713",
+   "slug": "Aprilaire-75",
+   "title": "75 installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "75",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530713/Aprilaire-75.html"
+  },
+  {
+   "manualId": "530688",
+   "slug": "Aprilaire-75",
+   "title": "75 owner's manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "75",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530688/Aprilaire-75.html"
+  },
+  {
+   "manualId": "1689992",
+   "slug": "Aprilaire-76",
+   "title": "76 installation instructions manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "76",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1689992/Aprilaire-76.html"
+  },
+  {
+   "manualId": "579486",
+   "slug": "Aprilaire-76",
+   "title": "76 installation instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "76",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/579486/Aprilaire-76.html"
+  },
+  {
+   "manualId": "530691",
+   "slug": "Aprilaire-76",
+   "title": "76 owner's manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "76",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530691/Aprilaire-76.html"
+  },
+  {
+   "manualId": "3116305",
+   "slug": "Aprilaire-800-Series",
+   "title": "800 Series Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "800 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3116305/Aprilaire-800-Series.html"
+  },
+  {
+   "manualId": "530684",
+   "slug": "Aprilaire-800",
+   "title": "800 Series Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "800 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530684/Aprilaire-800.html"
+  },
+  {
+   "manualId": "574031",
+   "slug": "Aprilaire-800",
+   "title": "800 Series Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 49,
+   "productModel": "800 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/574031/Aprilaire-800.html"
+  },
+  {
+   "manualId": "917697",
+   "slug": "Aprilaire-800-Series",
+   "title": "800 Series Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "800 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/917697/Aprilaire-800-Series.html"
+  },
+  {
+   "manualId": "2998893",
+   "slug": "Aprilaire-800-Series",
+   "title": "800 Series Maintenance Instruction",
+   "type": "Service",
+   "pages": 2,
+   "productModel": "800 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2998893/Aprilaire-800-Series.html"
+  },
+  {
+   "manualId": "2930037",
+   "slug": "Aprilaire-800-Series",
+   "title": "800 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": "800 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2930037/Aprilaire-800-Series.html"
+  },
+  {
+   "manualId": "574019",
+   "slug": "Aprilaire-800",
+   "title": "800 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "800 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/574019/Aprilaire-800.html"
+  },
+  {
+   "manualId": "865437",
+   "slug": "Aprilaire-Series-800",
+   "title": "800 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 23,
+   "productModel": "800 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/865437/Aprilaire-Series-800.html"
+  },
+  {
+   "manualId": "8845",
+   "slug": "Aprilaire-800",
+   "title": "800 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "800 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8845/Aprilaire-800.html"
+  },
+  {
+   "manualId": "2131285",
+   "slug": "Aprilaire-800-Series",
+   "title": "800 Series troubleshooting manual",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "800 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2131285/Aprilaire-800-Series.html"
+  },
+  {
+   "manualId": "3918621",
+   "slug": "Aprilaire-800lc",
+   "title": "800LC Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "800LC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3918621/Aprilaire-800lc.html"
+  },
+  {
+   "manualId": "3918622",
+   "slug": "Aprilaire-801",
+   "title": "801 Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "801",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3918622/Aprilaire-801.html"
+  },
+  {
+   "manualId": "1400662",
+   "slug": "Aprilaire-8052",
+   "title": "8052 Installation Instructions And Use",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "8052",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1400662/Aprilaire-8052.html"
+  },
+  {
+   "manualId": "530717",
+   "slug": "Aprilaire-8100",
+   "title": "8100 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "8100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530717/Aprilaire-8100.html"
+  },
+  {
+   "manualId": "1016197",
+   "slug": "Aprilaire-8100",
+   "title": "8100 owner's manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "8100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1016197/Aprilaire-8100.html"
+  },
+  {
+   "manualId": "530694",
+   "slug": "Aprilaire-8100",
+   "title": "8100 owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "8100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530694/Aprilaire-8100.html"
+  },
+  {
+   "manualId": "3179652",
+   "slug": "Aprilaire-8120-Series",
+   "title": "8120 Installation and operation manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "8120",
+   "extraModels": [
+    "8140NC",
+    "8142NC",
+    "8144NC",
+    "8145NC"
+   ],
+   "url": "https://www.manualslib.com/manual/3179652/Aprilaire-8120-Series.html"
+  },
+  {
+   "manualId": "574016",
+   "slug": "Aprilaire-8120",
+   "title": "8120 installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "8120",
+   "extraModels": [
+    "8126"
+   ],
+   "url": "https://www.manualslib.com/manual/574016/Aprilaire-8120.html"
+  },
+  {
+   "manualId": "530697",
+   "slug": "Aprilaire-8120",
+   "title": "8120 owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "8120",
+   "extraModels": [
+    "8126"
+   ],
+   "url": "https://www.manualslib.com/manual/530697/Aprilaire-8120.html"
+  },
+  {
+   "manualId": "574012",
+   "slug": "Aprilaire-8120",
+   "title": "8120 owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "8120",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/574012/Aprilaire-8120.html"
+  },
+  {
+   "manualId": "3669743",
+   "slug": "Aprilaire-8120x",
+   "title": "8120X Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "8120X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3669743/Aprilaire-8120x.html"
+  },
+  {
+   "manualId": "3756766",
+   "slug": "Aprilaire-8120x",
+   "title": "8120X Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "8120X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3756766/Aprilaire-8120x.html"
+  },
+  {
+   "manualId": "1305798",
+   "slug": "Aprilaire-8120x",
+   "title": "8120X Installation and operation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "8120X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1305798/Aprilaire-8120x.html"
+  },
+  {
+   "manualId": "2706191",
+   "slug": "Aprilaire-8126-Series",
+   "title": "8126 Installation and operation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "8126",
+   "extraModels": [
+    "8126A"
+   ],
+   "url": "https://www.manualslib.com/manual/2706191/Aprilaire-8126-Series.html"
+  },
+  {
+   "manualId": "1349735",
+   "slug": "Aprilaire-8140",
+   "title": "8140NC Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "8140NC",
+   "extraModels": [
+    "8140NC"
+   ],
+   "url": "https://www.manualslib.com/manual/1349735/Aprilaire-8140.html"
+  },
+  {
+   "manualId": "2161551",
+   "slug": "Aprilaire-8142",
+   "title": "8142NC Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "8142NC",
+   "extraModels": [
+    "8142NC"
+   ],
+   "url": "https://www.manualslib.com/manual/2161551/Aprilaire-8142.html"
+  },
+  {
+   "manualId": "4210197",
+   "slug": "Aprilaire-8142",
+   "title": "8142NC Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "8142NC",
+   "extraModels": [
+    "8142NC"
+   ],
+   "url": "https://www.manualslib.com/manual/4210197/Aprilaire-8142.html"
+  },
+  {
+   "manualId": "4160776",
+   "slug": "Aprilaire-8144nc",
+   "title": "8144NC Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "8144NC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4160776/Aprilaire-8144nc.html"
+  },
+  {
+   "manualId": "2483703",
+   "slug": "Aprilaire-8144nc",
+   "title": "8144NC Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "8144NC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2483703/Aprilaire-8144nc.html"
+  },
+  {
+   "manualId": "2890958",
+   "slug": "Aprilaire-8145a",
+   "title": "8145A Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "8145A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2890958/Aprilaire-8145a.html"
+  },
+  {
+   "manualId": "3469616",
+   "slug": "Aprilaire-8145",
+   "title": "8145NC Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "8145NC",
+   "extraModels": [
+    "8145NC"
+   ],
+   "url": "https://www.manualslib.com/manual/3469616/Aprilaire-8145.html"
+  },
+  {
+   "manualId": "3103461",
+   "slug": "Aprilaire-8145nc",
+   "title": "8145NC Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "8145NC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3103461/Aprilaire-8145nc.html"
+  },
+  {
+   "manualId": "2085856",
+   "slug": "Aprilaire-8191",
+   "title": "8191 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "8191",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2085856/Aprilaire-8191.html"
+  },
+  {
+   "manualId": "3875964",
+   "slug": "Aprilaire-8192",
+   "title": "8192 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "8192",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3875964/Aprilaire-8192.html"
+  },
+  {
+   "manualId": "3093527",
+   "slug": "Aprilaire-8192a",
+   "title": "8192A Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "8192A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3093527/Aprilaire-8192a.html"
+  },
+  {
+   "manualId": "729418",
+   "slug": "Aprilaire-8263",
+   "title": "8263 Installation and operation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "8263",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/729418/Aprilaire-8263.html"
+  },
+  {
+   "manualId": "729156",
+   "slug": "Aprilaire-8265",
+   "title": "8265 Installation and operation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "8265",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/729156/Aprilaire-8265.html"
+  },
+  {
+   "manualId": "8849",
+   "slug": "Aprilaire-8336",
+   "title": "8336 user manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "8336",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8849/Aprilaire-8336.html"
+  },
+  {
+   "manualId": "3804138",
+   "slug": "Aprilaire-8344",
+   "title": "8344 installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "8344",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3804138/Aprilaire-8344.html"
+  },
+  {
+   "manualId": "452870",
+   "slug": "Aprilaire-8365",
+   "title": "8344 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "8344",
+   "extraModels": [
+    "8344",
+    "8346",
+    "8348",
+    "8363",
+    "8366"
+   ],
+   "url": "https://www.manualslib.com/manual/452870/Aprilaire-8365.html"
+  },
+  {
+   "manualId": "8847",
+   "slug": "Aprilaire-8346",
+   "title": "8346 installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "8346",
+   "extraModels": [
+    "8348",
+    "8365"
+   ],
+   "url": "https://www.manualslib.com/manual/8847/Aprilaire-8346.html"
+  },
+  {
+   "manualId": "8850",
+   "slug": "Aprilaire-8353",
+   "title": "8353 user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "8353",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8850/Aprilaire-8353.html"
+  },
+  {
+   "manualId": "8851",
+   "slug": "Aprilaire-8355",
+   "title": "8355 user manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "8355",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8851/Aprilaire-8355.html"
+  },
+  {
+   "manualId": "3804139",
+   "slug": "Aprilaire-8363",
+   "title": "8363 installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "8363",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3804139/Aprilaire-8363.html"
+  },
+  {
+   "manualId": "3804140",
+   "slug": "Aprilaire-8366",
+   "title": "8366 installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "8366",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3804140/Aprilaire-8366.html"
+  },
+  {
+   "manualId": "1112819",
+   "slug": "Aprilaire-8400-Series",
+   "title": "8400 series installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "8400 series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1112819/Aprilaire-8400-Series.html"
+  },
+  {
+   "manualId": "574032",
+   "slug": "Aprilaire-8400-Series",
+   "title": "8400 series installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "8400 series",
+   "extraModels": [
+    "8444",
+    "8446",
+    "8448",
+    "8463",
+    "8465",
+    "8466"
+   ],
+   "url": "https://www.manualslib.com/manual/574032/Aprilaire-8400-Series.html"
+  },
+  {
+   "manualId": "3063041",
+   "slug": "Aprilaire-8400-Series",
+   "title": "8400 series owner's manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": "8400 series",
+   "extraModels": [
+    "8444",
+    "8446",
+    "8448",
+    "8463",
+    "8465",
+    "8466"
+   ],
+   "url": "https://www.manualslib.com/manual/3063041/Aprilaire-8400-Series.html"
+  },
+  {
+   "manualId": "8852",
+   "slug": "Aprilaire-8400-Series",
+   "title": "8400 series owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "8400 series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8852/Aprilaire-8400-Series.html"
+  },
+  {
+   "manualId": "2015090",
+   "slug": "Aprilaire-8400-Series",
+   "title": "8400 series Safety & installation instructions",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "8400 series",
+   "extraModels": [
+    "8444",
+    "8446",
+    "8448",
+    "8448HC",
+    "8448HP",
+    "8463",
+    "8465",
+    "8466",
+    "8466HC",
+    "8466HP"
+   ],
+   "url": "https://www.manualslib.com/manual/2015090/Aprilaire-8400-Series.html"
+  },
+  {
+   "manualId": "811642",
+   "slug": "Aprilaire-8400-Series",
+   "title": "8400 series Safety & installation instructions",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "8400 series",
+   "extraModels": [
+    "8444",
+    "8446",
+    "8448",
+    "8463",
+    "8465",
+    "8466"
+   ],
+   "url": "https://www.manualslib.com/manual/811642/Aprilaire-8400-Series.html"
+  },
+  {
+   "manualId": "628604",
+   "slug": "Aprilaire-8463",
+   "title": "8444 Features",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "8444",
+   "extraModels": [
+    "8444",
+    "8446",
+    "8448",
+    "8465",
+    "8466"
+   ],
+   "url": "https://www.manualslib.com/manual/628604/Aprilaire-8463.html"
+  },
+  {
+   "manualId": "667951",
+   "slug": "Aprilaire-8444",
+   "title": "8444 owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "8444",
+   "extraModels": [
+    "8446",
+    "8448",
+    "8463",
+    "8465",
+    "8466"
+   ],
+   "url": "https://www.manualslib.com/manual/667951/Aprilaire-8444.html"
+  },
+  {
+   "manualId": "633987",
+   "slug": "Aprilaire-8463",
+   "title": "8444 user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "8444",
+   "extraModels": [
+    "8444",
+    "8446",
+    "8448",
+    "8465",
+    "8466"
+   ],
+   "url": "https://www.manualslib.com/manual/633987/Aprilaire-8463.html"
+  },
+  {
+   "manualId": "857820",
+   "slug": "Aprilaire-8476",
+   "title": "8476 installation instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "8476",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/857820/Aprilaire-8476.html"
+  },
+  {
+   "manualId": "559332",
+   "slug": "Aprilaire-8476",
+   "title": "8476 owner's manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": "8476",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/559332/Aprilaire-8476.html"
+  },
+  {
+   "manualId": "1037557",
+   "slug": "Aprilaire-8476w",
+   "title": "8476W owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "8476W",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1037557/Aprilaire-8476w.html"
+  },
+  {
+   "manualId": "1066476",
+   "slug": "Aprilaire-8476w",
+   "title": "8476W Safety & installation instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "8476W",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1066476/Aprilaire-8476w.html"
+  },
+  {
+   "manualId": "574023",
+   "slug": "Aprilaire-850",
+   "title": "850 Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "850",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/574023/Aprilaire-850.html"
+  },
+  {
+   "manualId": "8853",
+   "slug": "Aprilaire-8533",
+   "title": "8533 owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "8533",
+   "extraModels": [
+    "8534",
+    "8538"
+   ],
+   "url": "https://www.manualslib.com/manual/8853/Aprilaire-8533.html"
+  },
+  {
+   "manualId": "8854",
+   "slug": "Aprilaire-8535",
+   "title": "8535 owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "8535",
+   "extraModels": [
+    "8536",
+    "8537"
+   ],
+   "url": "https://www.manualslib.com/manual/8854/Aprilaire-8535.html"
+  },
+  {
+   "manualId": "716630",
+   "slug": "Aprilaire-8537",
+   "title": "8537 Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "8537",
+   "extraModels": [
+    "8555"
+   ],
+   "url": "https://www.manualslib.com/manual/716630/Aprilaire-8537.html"
+  },
+  {
+   "manualId": "4353303",
+   "slug": "Aprilaire-8551",
+   "title": "8551 owner's manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "8551",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4353303/Aprilaire-8551.html"
+  },
+  {
+   "manualId": "452868",
+   "slug": "Aprilaire-8551",
+   "title": "8551 owner's manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "8551",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/452868/Aprilaire-8551.html"
+  },
+  {
+   "manualId": "719302",
+   "slug": "Aprilaire-8551",
+   "title": "8551 owner's manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "8551",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/719302/Aprilaire-8551.html"
+  },
+  {
+   "manualId": "8855",
+   "slug": "Aprilaire-8551",
+   "title": "8551 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "8551",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8855/Aprilaire-8551.html"
+  },
+  {
+   "manualId": "452869",
+   "slug": "Aprilaire-8552",
+   "title": "8552 owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "8552",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/452869/Aprilaire-8552.html"
+  },
+  {
+   "manualId": "719303",
+   "slug": "Aprilaire-8552",
+   "title": "8552 owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "8552",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/719303/Aprilaire-8552.html"
+  },
+  {
+   "manualId": "8856",
+   "slug": "Aprilaire-8552",
+   "title": "8552 owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "8552",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8856/Aprilaire-8552.html"
+  },
+  {
+   "manualId": "4352914",
+   "slug": "Aprilaire-8553",
+   "title": "8553 owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "8553",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4352914/Aprilaire-8553.html"
+  },
+  {
+   "manualId": "478262",
+   "slug": "Aprilaire-8553",
+   "title": "8553 owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "8553",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/478262/Aprilaire-8553.html"
+  },
+  {
+   "manualId": "719301",
+   "slug": "Aprilaire-8553",
+   "title": "8553 owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "8553",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/719301/Aprilaire-8553.html"
+  },
+  {
+   "manualId": "8857",
+   "slug": "Aprilaire-8553",
+   "title": "8553 owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "8553",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8857/Aprilaire-8553.html"
+  },
+  {
+   "manualId": "4351712",
+   "slug": "Aprilaire-8554",
+   "title": "8554 owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "8554",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4351712/Aprilaire-8554.html"
+  },
+  {
+   "manualId": "478261",
+   "slug": "Aprilaire-8554",
+   "title": "8554 owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "8554",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/478261/Aprilaire-8554.html"
+  },
+  {
+   "manualId": "704912",
+   "slug": "Aprilaire-8554",
+   "title": "8554 owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "8554",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/704912/Aprilaire-8554.html"
+  },
+  {
+   "manualId": "8858",
+   "slug": "Aprilaire-8554",
+   "title": "8554 owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "8554",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8858/Aprilaire-8554.html"
+  },
+  {
+   "manualId": "4348821",
+   "slug": "Aprilaire-8555",
+   "title": "8555 owner's manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "8555",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4348821/Aprilaire-8555.html"
+  },
+  {
+   "manualId": "477960",
+   "slug": "Aprilaire-8555",
+   "title": "8555 owner's manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "8555",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/477960/Aprilaire-8555.html"
+  },
+  {
+   "manualId": "719305",
+   "slug": "Aprilaire-8555",
+   "title": "8555 owner's manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "8555",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/719305/Aprilaire-8555.html"
+  },
+  {
+   "manualId": "8859",
+   "slug": "Aprilaire-8555",
+   "title": "8555 owner's manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "8555",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8859/Aprilaire-8555.html"
+  },
+  {
+   "manualId": "4353175",
+   "slug": "Aprilaire-8556",
+   "title": "8556 owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "8556",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4353175/Aprilaire-8556.html"
+  },
+  {
+   "manualId": "477959",
+   "slug": "Aprilaire-8556",
+   "title": "8556 owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "8556",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/477959/Aprilaire-8556.html"
+  },
+  {
+   "manualId": "719304",
+   "slug": "Aprilaire-8556",
+   "title": "8556 owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "8556",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/719304/Aprilaire-8556.html"
+  },
+  {
+   "manualId": "8860",
+   "slug": "Aprilaire-8556",
+   "title": "8556 owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "8556",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8860/Aprilaire-8556.html"
+  },
+  {
+   "manualId": "2434339",
+   "slug": "Aprilaire-8570",
+   "title": "8570 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "8570",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2434339/Aprilaire-8570.html"
+  },
+  {
+   "manualId": "530675",
+   "slug": "Aprilaire-8570",
+   "title": "8570 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "8570",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530675/Aprilaire-8570.html"
+  },
+  {
+   "manualId": "797223",
+   "slug": "Aprilaire-8570",
+   "title": "8570 Safety & installation instructions",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "8570",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/797223/Aprilaire-8570.html"
+  },
+  {
+   "manualId": "8861",
+   "slug": "Aprilaire-8570",
+   "title": "8570 Safety and installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "8570",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8861/Aprilaire-8570.html"
+  },
+  {
+   "manualId": "8864",
+   "slug": "Aprilaire-8600",
+   "title": "8600 owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "8600",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8864/Aprilaire-8600.html"
+  },
+  {
+   "manualId": "954857",
+   "slug": "Aprilaire-8600",
+   "title": "8600 Safety & installation instructions",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "8600",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/954857/Aprilaire-8600.html"
+  },
+  {
+   "manualId": "573963",
+   "slug": "Aprilaire-8620",
+   "title": "8620 installation instructions manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "8620",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/573963/Aprilaire-8620.html"
+  },
+  {
+   "manualId": "530692",
+   "slug": "Aprilaire-8620",
+   "title": "8620 owner's manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "8620",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530692/Aprilaire-8620.html"
+  },
+  {
+   "manualId": "3295205",
+   "slug": "Aprilaire-8620",
+   "title": "8620 Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "8620",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3295205/Aprilaire-8620.html"
+  },
+  {
+   "manualId": "530719",
+   "slug": "Aprilaire-8620",
+   "title": "8620 Specification",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "8620",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530719/Aprilaire-8620.html"
+  },
+  {
+   "manualId": "1036492",
+   "slug": "Aprilaire-8620w",
+   "title": "8620W owner's manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "8620W",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1036492/Aprilaire-8620w.html"
+  },
+  {
+   "manualId": "1068562",
+   "slug": "Aprilaire-8620w",
+   "title": "8620W Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "8620W",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1068562/Aprilaire-8620w.html"
+  },
+  {
+   "manualId": "3918624",
+   "slug": "Aprilaire-865",
+   "title": "865 Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "865",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3918624/Aprilaire-865.html"
+  },
+  {
+   "manualId": "3918623",
+   "slug": "Aprilaire-866",
+   "title": "866 Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "866",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3918623/Aprilaire-866.html"
+  },
+  {
+   "manualId": "826494",
+   "slug": "Aprilaire-8710",
+   "title": "8710 owner's manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": "8710",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/826494/Aprilaire-8710.html"
+  },
+  {
+   "manualId": "2236263",
+   "slug": "Aprilaire-8710",
+   "title": "8710 Safety & installation instructions",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "8710",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2236263/Aprilaire-8710.html"
+  },
+  {
+   "manualId": "860553",
+   "slug": "Aprilaire-8710",
+   "title": "8710 Safety & installation instructions",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "8710",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/860553/Aprilaire-8710.html"
+  },
+  {
+   "manualId": "700280",
+   "slug": "Aprilaire-8800",
+   "title": "8800 Features & specifications manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "8800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/700280/Aprilaire-8800.html"
+  },
+  {
+   "manualId": "574015",
+   "slug": "Aprilaire-8800",
+   "title": "8800 installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "8800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/574015/Aprilaire-8800.html"
+  },
+  {
+   "manualId": "3766546",
+   "slug": "Aprilaire-8800-Addendum",
+   "title": "8800 Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "8800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3766546/Aprilaire-8800-Addendum.html"
+  },
+  {
+   "manualId": "448814",
+   "slug": "Aprilaire-8800-Universal",
+   "title": "8800 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "8800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/448814/Aprilaire-8800-Universal.html"
+  },
+  {
+   "manualId": "530699",
+   "slug": "Aprilaire-8800",
+   "title": "8800 Programmer's manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "8800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530699/Aprilaire-8800.html"
+  },
+  {
+   "manualId": "1068452",
+   "slug": "Aprilaire-8800",
+   "title": "8800 Safety & installation instructions",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "8800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1068452/Aprilaire-8800.html"
+  },
+  {
+   "manualId": "530673",
+   "slug": "Aprilaire-8800",
+   "title": "8800 System installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "8800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530673/Aprilaire-8800.html"
+  },
+  {
+   "manualId": "1034284",
+   "slug": "Aprilaire-8810",
+   "title": "8810 owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "8810",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1034284/Aprilaire-8810.html"
+  },
+  {
+   "manualId": "2718514",
+   "slug": "Aprilaire-8810m",
+   "title": "8810 Safety & installation instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "8810",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2718514/Aprilaire-8810m.html"
+  },
+  {
+   "manualId": "1042494",
+   "slug": "Aprilaire-8820",
+   "title": "8820 owner's manual",
+   "type": "User / Owner",
+   "pages": 23,
+   "productModel": "8820",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1042494/Aprilaire-8820.html"
+  },
+  {
+   "manualId": "1599452",
+   "slug": "Aprilaire-8820",
+   "title": "8820 Safety & installation instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "8820",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1599452/Aprilaire-8820.html"
+  },
+  {
+   "manualId": "1013267",
+   "slug": "Aprilaire-8824",
+   "title": "8824 installation manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "8824",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1013267/Aprilaire-8824.html"
+  },
+  {
+   "manualId": "818537",
+   "slug": "Aprilaire-8825",
+   "title": "8825 Installation, configuration and user manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "8825",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/818537/Aprilaire-8825.html"
+  },
+  {
+   "manualId": "530690",
+   "slug": "Aprilaire-8826",
+   "title": "8826 Installation, configuration and user manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "8826",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530690/Aprilaire-8826.html"
+  },
+  {
+   "manualId": "1141371",
+   "slug": "Aprilaire-8920w",
+   "title": "8840 owner's manual",
+   "type": "User / Owner",
+   "pages": 39,
+   "productModel": "8840",
+   "extraModels": [
+    "8840"
+   ],
+   "url": "https://www.manualslib.com/manual/1141371/Aprilaire-8920w.html"
+  },
+  {
+   "manualId": "2722018",
+   "slug": "Aprilaire-8840m",
+   "title": "8840 owner's manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "8840",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2722018/Aprilaire-8840m.html"
+  },
+  {
+   "manualId": "1644715",
+   "slug": "Aprilaire-8840",
+   "title": "8840 Safety & installation instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "8840",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1644715/Aprilaire-8840.html"
+  },
+  {
+   "manualId": "3377812",
+   "slug": "Aprilaire-8840",
+   "title": "8840 Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "8840",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3377812/Aprilaire-8840.html"
+  },
+  {
+   "manualId": "3840235",
+   "slug": "Aprilaire-8844",
+   "title": "8844 installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "8844",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3840235/Aprilaire-8844.html"
+  },
+  {
+   "manualId": "1215794",
+   "slug": "Aprilaire-8846",
+   "title": "8846 installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "8846",
+   "extraModels": [
+    "8847",
+    "8848"
+   ],
+   "url": "https://www.manualslib.com/manual/1215794/Aprilaire-8846.html"
+  },
+  {
+   "manualId": "8862",
+   "slug": "Aprilaire-8870",
+   "title": "8870 installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "8870",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8862/Aprilaire-8870.html"
+  },
+  {
+   "manualId": "477956",
+   "slug": "Aprilaire-8870",
+   "title": "8870 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "8870",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/477956/Aprilaire-8870.html"
+  },
+  {
+   "manualId": "42054",
+   "slug": "Aprilaire-8870",
+   "title": "8870 System installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "8870",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/42054/Aprilaire-8870.html"
+  },
+  {
+   "manualId": "530678",
+   "slug": "Aprilaire-8910",
+   "title": "8910 owner's manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "8910",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530678/Aprilaire-8910.html"
+  },
+  {
+   "manualId": "1070042",
+   "slug": "Aprilaire-Home-Comfort-Control-8910",
+   "title": "8910 Safety & installation instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "8910",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1070042/Aprilaire-Home-Comfort-Control-8910.html"
+  },
+  {
+   "manualId": "3215022",
+   "slug": "Aprilaire-8910",
+   "title": "8910 Safety & installation instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "8910",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3215022/Aprilaire-8910.html"
+  },
+  {
+   "manualId": "530707",
+   "slug": "Aprilaire-8910",
+   "title": "8910 Specifications",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "8910",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530707/Aprilaire-8910.html"
+  },
+  {
+   "manualId": "1056366",
+   "slug": "Aprilaire-8910w",
+   "title": "8910W owner's manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "8910W",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1056366/Aprilaire-8910w.html"
+  },
+  {
+   "manualId": "1822162",
+   "slug": "Aprilaire-8910w",
+   "title": "8910W Safety & installation instructions",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "8910W",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1822162/Aprilaire-8910w.html"
+  },
+  {
+   "manualId": "3378090",
+   "slug": "Aprilaire-8920w",
+   "title": "8920W Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "8920W",
+   "extraModels": [
+    "AP8920W"
+   ],
+   "url": "https://www.manualslib.com/manual/3378090/Aprilaire-8920w.html"
+  },
+  {
+   "manualId": "1777352",
+   "slug": "Aprilaire-Allergy-Plus-Pet9550",
+   "title": "ALLERGY + PET9550 user manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "ALLERGY + PET9550",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1777352/Aprilaire-Allergy-Plus-Pet9550.html"
+  },
+  {
+   "manualId": "3976418",
+   "slug": "Aprilaire-Ap09550v",
+   "title": "ALLERGY 9550 instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "ALLERGY 9550",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3976418/Aprilaire-Ap09550v.html"
+  },
+  {
+   "manualId": "3492212",
+   "slug": "aprilaire-110-1210-1310-1410-1910-2210-air-cleaner-manual",
+   "title": "Aprilaire 110, 1210, 1310, 1410, 1910, 2210 - Air Cleaner Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492212/aprilaire-110-1210-1310-1410-1910-2210-air-cleaner-manual.html"
+  },
+  {
+   "manualId": "4239299",
+   "slug": "aprilaire-1110-air-cleaner-installation-and-operation-manual",
+   "title": "Aprilaire 1110 air cleaner Installation & Operation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4239299/aprilaire-1110-air-cleaner-installation-and-operation-manual.html"
+  },
+  {
+   "manualId": "3492206",
+   "slug": "aprilaire-1750-1770-dehumidifier-manual",
+   "title": "Aprilaire 1750, 1770 - Dehumidifier Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492206/aprilaire-1750-1770-dehumidifier-manual.html"
+  },
+  {
+   "manualId": "2863435",
+   "slug": "aprilaire-1830-1850-1850w-dehumidifier-manual",
+   "title": "Aprilaire 1830, 1850, 1850W - Dehumidifier Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2863435/aprilaire-1830-1850-1850w-dehumidifier-manual.html"
+  },
+  {
+   "manualId": "2863434",
+   "slug": "aprilaire-1830-1850-1850w-installation-manual",
+   "title": "Aprilaire 1830, 1850, 1850W Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2863434/aprilaire-1830-1850-1850w-installation-manual.html"
+  },
+  {
+   "manualId": "3492208",
+   "slug": "aprilaire-1870-1870w-dehumidifier-manual",
+   "title": "Aprilaire 1870, 1870W - Dehumidifier Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492208/aprilaire-1870-1870w-dehumidifier-manual.html"
+  },
+  {
+   "manualId": "3619673",
+   "slug": "aprilaire-300-manual",
+   "title": "Aprilaire 300 Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3619673/aprilaire-300-manual.html"
+  },
+  {
+   "manualId": "3614291",
+   "slug": "aprilaire-500-series-manual",
+   "title": "AprilAire 500 Series Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3614291/aprilaire-500-series-manual.html"
+  },
+  {
+   "manualId": "3492213",
+   "slug": "aprilaire-5000-air-cleaner-manual",
+   "title": "Aprilaire 5000 - Air Cleaner Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492213/aprilaire-5000-air-cleaner-manual.html"
+  },
+  {
+   "manualId": "573956",
+   "slug": "Aprilaire-5000",
+   "title": "Aprilaire 5000 Installation Insructions",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/573956/Aprilaire-5000.html"
+  },
+  {
+   "manualId": "4246921",
+   "slug": "aprilaire-5658-humidifier-fan-pack-installation-manual",
+   "title": "Aprilaire 5658 Humidifier Fan Pack Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4246921/aprilaire-5658-humidifier-fan-pack-installation-manual.html"
+  },
+  {
+   "manualId": "4255990",
+   "slug": "aprilaire-5822-dehumidifier-hanging-kit-installation-manual",
+   "title": "Aprilaire 5822 Dehumidifier Hanging Kit Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4255990/aprilaire-5822-dehumidifier-hanging-kit-installation-manual.html"
+  },
+  {
+   "manualId": "3492197",
+   "slug": "aprilaire-60-62-4655-humidifier-manual",
+   "title": "Aprilaire 60, 62, 4655 - Humidifier Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492197/aprilaire-60-62-4655-humidifier-manual.html"
+  },
+  {
+   "manualId": "2863433",
+   "slug": "aprilaire-600-700-550-automatic-humidifiers-manual",
+   "title": "Aprilaire 600, 700, 550 - Automatic Humidifiers Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2863433/aprilaire-600-700-550-automatic-humidifiers-manual.html"
+  },
+  {
+   "manualId": "3981641",
+   "slug": "Aprilaire-620-Series",
+   "title": "Aprilaire 620 Series Installation Template",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3981641/Aprilaire-620-Series.html"
+  },
+  {
+   "manualId": "3492198",
+   "slug": "aprilaire-65-humidifier-control-manual",
+   "title": "Aprilaire 65 - Humidifier Control Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492198/aprilaire-65-humidifier-control-manual.html"
+  },
+  {
+   "manualId": "3492211",
+   "slug": "aprilaire-70-living-space-control-manual",
+   "title": "Aprilaire 70 - Living Space Control Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492211/aprilaire-70-living-space-control-manual.html"
+  },
+  {
+   "manualId": "3492210",
+   "slug": "aprilaire-75-dehumidifier-control-manual",
+   "title": "Aprilaire 75 - Dehumidifier Control Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492210/aprilaire-75-dehumidifier-control-manual.html"
+  },
+  {
+   "manualId": "3492201",
+   "slug": "aprilaire-76-dehumidifier-control-manual",
+   "title": "Aprilaire 76 - Dehumidifier Control Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492201/aprilaire-76-dehumidifier-control-manual.html"
+  },
+  {
+   "manualId": "3492200",
+   "slug": "aprilaire-800-series-steam-humidifier-manual",
+   "title": "Aprilaire 800 Series - Steam Humidifier Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492200/aprilaire-800-series-steam-humidifier-manual.html"
+  },
+  {
+   "manualId": "2863474",
+   "slug": "aprilaire-800-steam-humidifier-manual",
+   "title": "Aprilaire 800 Steam Humidifier Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2863474/aprilaire-800-steam-humidifier-manual.html"
+  },
+  {
+   "manualId": "3212869",
+   "slug": "aprilaire-8052-temperature-sensor-installation-instructions",
+   "title": "Aprilaire 8052 - Temperature Sensor Installation Instructions",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3212869/aprilaire-8052-temperature-sensor-installation-instructions.html"
+  },
+  {
+   "manualId": "530669",
+   "slug": "Aprilaire-8120",
+   "title": "Aprilaire 8120 Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": null,
+   "extraModels": [
+    "8126A"
+   ],
+   "url": "https://www.manualslib.com/manual/530669/Aprilaire-8120.html"
+  },
+  {
+   "manualId": "806702",
+   "slug": "Aprilaire-8120",
+   "title": "Aprilaire 8120 Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [
+    "8126"
+   ],
+   "url": "https://www.manualslib.com/manual/806702/Aprilaire-8120.html"
+  },
+  {
+   "manualId": "2515742",
+   "slug": "Aprilaire-8190ff",
+   "title": "Aprilaire 8190FF Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2515742/Aprilaire-8190ff.html"
+  },
+  {
+   "manualId": "3492214",
+   "slug": "aprilaire-8444-8446-8448-8463-8465-8466-thermostat-manual",
+   "title": "Aprilaire 8444, 8446, 8448, 8463, 8465, 8466 - Thermostat Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492214/aprilaire-8444-8446-8448-8463-8465-8466-thermostat-manual.html"
+  },
+  {
+   "manualId": "3492224",
+   "slug": "aprilaire-8600-thermostat-manual",
+   "title": "Aprilaire 8600 - Thermostat Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492224/aprilaire-8600-thermostat-manual.html"
+  },
+  {
+   "manualId": "3492216",
+   "slug": "aprilaire-8910-home-comfort-control-manual",
+   "title": "Aprilaire 8910 - Home Comfort Control Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492216/aprilaire-8910-home-comfort-control-manual.html"
+  },
+  {
+   "manualId": "3492217",
+   "slug": "aprilaire-8910w-home-comfort-control-manual",
+   "title": "Aprilaire 8910W - Home Comfort Control Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492217/aprilaire-8910w-home-comfort-control-manual.html"
+  },
+  {
+   "manualId": "3492225",
+   "slug": "aprilaire-8920w-thermostat-manual",
+   "title": "Aprilaire 8920W - Thermostat Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492225/aprilaire-8920w-thermostat-manual.html"
+  },
+  {
+   "manualId": "1637061",
+   "slug": "Aprilaire-8920w",
+   "title": "Aprilaire 8920W Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1637061/Aprilaire-8920w.html"
+  },
+  {
+   "manualId": "1497253",
+   "slug": "Aprilaire-Allergy-9550",
+   "title": "Aprilaire ALLERGY 9550 Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1497253/Aprilaire-Allergy-9550.html"
+  },
+  {
+   "manualId": "4249332",
+   "slug": "aprilaire-auv24v-hvac-uv-lamp-installation-and-operating-manual",
+   "title": "Aprilaire AUV24V HVAC UV Lamp Installation & Operating Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4249332/aprilaire-auv24v-hvac-uv-lamp-installation-and-operating-manual.html"
+  },
+  {
+   "manualId": "3492202",
+   "slug": "aprilaire-e070-dehumidifier-manual",
+   "title": "Aprilaire E070 - Dehumidifier Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492202/aprilaire-e070-dehumidifier-manual.html"
+  },
+  {
+   "manualId": "4255782",
+   "slug": "aprilaire-e070w-dehumidifier-installation-and-operation-manual",
+   "title": "Aprilaire E070W dehumidifier Installation & Operation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4255782/aprilaire-e070w-dehumidifier-installation-and-operation-manual.html"
+  },
+  {
+   "manualId": "3492203",
+   "slug": "aprilaire-e080-e100-dehumidifier-manual",
+   "title": "Aprilaire E080, E100 - Dehumidifier Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492203/aprilaire-e080-e100-dehumidifier-manual.html"
+  },
+  {
+   "manualId": "3492204",
+   "slug": "aprilaire-e080cs-e100cs-dehumidifier-manual",
+   "title": "Aprilaire E080CS, E100CS - Dehumidifier Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492204/aprilaire-e080cs-e100cs-dehumidifier-manual.html"
+  },
+  {
+   "manualId": "3492205",
+   "slug": "aprilaire-e130-dehumidifier-manual",
+   "title": "Aprilaire E130 - Dehumidifier Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492205/aprilaire-e130-dehumidifier-manual.html"
+  },
+  {
+   "manualId": "3492215",
+   "slug": "aprilaire-event-based-8620-air-cleaning-control-manual",
+   "title": "Aprilaire Event-Based 8620 - Air Cleaning Control Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492215/aprilaire-event-based-8620-air-cleaning-control-manual.html"
+  },
+  {
+   "manualId": "3611667",
+   "slug": "aprilaire-event-based-8620w-air-cleaning-control-manual",
+   "title": "Aprilaire Event-Based 8620W - Air Cleaning Control Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3611667/aprilaire-event-based-8620w-air-cleaning-control-manual.html"
+  },
+  {
+   "manualId": "1071779",
+   "slug": "Aprilaire-Home-Comfort-Control-8910w",
+   "title": "Aprilaire Home Comfort Control 8910W Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1071779/Aprilaire-Home-Comfort-Control-8910w.html"
+  },
+  {
+   "manualId": "4408938",
+   "slug": "aprilaire-model-8100-erv-installation-instructions",
+   "title": "Aprilaire Model 8100 ERV Installation Instructions",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4408938/aprilaire-model-8100-erv-installation-instructions.html"
+  },
+  {
+   "manualId": "4426973",
+   "slug": "aprilaire-model-e070-dehumidifier-owner-s-manual",
+   "title": "Aprilaire Model E070 Dehumidifier Owner's Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4426973/aprilaire-model-e070-dehumidifier-owner-s-manual.html"
+  },
+  {
+   "manualId": "3492226",
+   "slug": "aprilaire-s84n-1h1c-s84n-su-thermostat-manual",
+   "title": "Aprilaire S84N 1H1C, S84N SU - Thermostat Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492226/aprilaire-s84n-1h1c-s84n-su-thermostat-manual.html"
+  },
+  {
+   "manualId": "3492227",
+   "slug": "aprilaire-s86n-mu-s86n-mupr-thermostat-manual",
+   "title": "Aprilaire S86N MU, S86N MUPR - Thermostat Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492227/aprilaire-s86n-mu-s86n-mupr-thermostat-manual.html"
+  },
+  {
+   "manualId": "3492229",
+   "slug": "aprilaire-s86w-mupr-thermostat-manual",
+   "title": "Aprilaire S86W MUPR - Thermostat Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3492229/aprilaire-s86w-mupr-thermostat-manual.html"
+  },
+  {
+   "manualId": "2942557",
+   "slug": "Aprilaire-S86w-Mupr",
+   "title": "Aprilaire S86W MUPR Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2942557/Aprilaire-S86w-Mupr.html"
+  },
+  {
+   "manualId": "827383",
+   "slug": "Aprilaire-Premium-Digital-Humidifier-Control",
+   "title": "Automatic Humidifier Control Safety and installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Automatic Humidifier Control",
+   "extraModels": [
+    "Automatic Humidifier Control",
+    "Premium Digital Humidifier Control"
+   ],
+   "url": "https://www.manualslib.com/manual/827383/Aprilaire-Premium-Digital-Humidifier-Control.html"
+  },
+  {
+   "manualId": "3527398",
+   "slug": "Aprilaire-Auv24v",
+   "title": "AUV24V Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "AUV24V",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3527398/Aprilaire-Auv24v.html"
+  },
+  {
+   "manualId": "3317537",
+   "slug": "Aprilaire-Auv24v",
+   "title": "AUV24V instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "AUV24V",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3317537/Aprilaire-Auv24v.html"
+  },
+  {
+   "manualId": "3633476",
+   "slug": "Aprilaire-Auv24v",
+   "title": "AUV24V Quick Instructions",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "AUV24V",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3633476/Aprilaire-Auv24v.html"
+  },
+  {
+   "manualId": "3733972",
+   "slug": "Aprilaire-720",
+   "title": "Cleaning Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3733972/Aprilaire-720.html"
+  },
+  {
+   "manualId": "1071201",
+   "slug": "Aprilaire-Control4",
+   "title": "Control4 user manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "Control4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1071201/Aprilaire-Control4.html"
+  },
+  {
+   "manualId": "3633837",
+   "slug": "Aprilaire-E050",
+   "title": "E050 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "E050",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3633837/Aprilaire-E050.html"
+  },
+  {
+   "manualId": "4393856",
+   "slug": "Aprilaire-E050w",
+   "title": "E050W Installation & owner's manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "E050W",
+   "extraModels": [
+    "E070W",
+    "E080W",
+    "E100W",
+    "E130W"
+   ],
+   "url": "https://www.manualslib.com/manual/4393856/Aprilaire-E050w.html"
+  },
+  {
+   "manualId": "3393676",
+   "slug": "Aprilaire-E070",
+   "title": "E070 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "E070",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3393676/Aprilaire-E070.html"
+  },
+  {
+   "manualId": "3113272",
+   "slug": "Aprilaire-E070",
+   "title": "E070 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "E070",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3113272/Aprilaire-E070.html"
+  },
+  {
+   "manualId": "4011792",
+   "slug": "Aprilaire-E070",
+   "title": "E070 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "E070",
+   "extraModels": [
+    "E070 Pro"
+   ],
+   "url": "https://www.manualslib.com/manual/4011792/Aprilaire-E070.html"
+  },
+  {
+   "manualId": "3095810",
+   "slug": "Aprilaire-E070",
+   "title": "E070 owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "E070",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3095810/Aprilaire-E070.html"
+  },
+  {
+   "manualId": "3745343",
+   "slug": "Aprilaire-E070w",
+   "title": "E070W Installation & owner's manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "E070W",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3745343/Aprilaire-E070w.html"
+  },
+  {
+   "manualId": "4034188",
+   "slug": "Aprilaire-E130w",
+   "title": "E070W Installation & owner's manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "E070W",
+   "extraModels": [
+    "E070W",
+    "E080W",
+    "E100W"
+   ],
+   "url": "https://www.manualslib.com/manual/4034188/Aprilaire-E130w.html"
+  },
+  {
+   "manualId": "3401761",
+   "slug": "Aprilaire-E080",
+   "title": "E080 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "E080",
+   "extraModels": [
+    "E080H",
+    "E100",
+    "E100C",
+    "E100H"
+   ],
+   "url": "https://www.manualslib.com/manual/3401761/Aprilaire-E080.html"
+  },
+  {
+   "manualId": "3046504",
+   "slug": "Aprilaire-E080",
+   "title": "E080 Installation and owner's manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "E080",
+   "extraModels": [
+    "E100"
+   ],
+   "url": "https://www.manualslib.com/manual/3046504/Aprilaire-E080.html"
+  },
+  {
+   "manualId": "3735318",
+   "slug": "Aprilaire-E100h",
+   "title": "E080 installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "E080",
+   "extraModels": [
+    "E080"
+   ],
+   "url": "https://www.manualslib.com/manual/3735318/Aprilaire-E100h.html"
+  },
+  {
+   "manualId": "3775429",
+   "slug": "Aprilaire-E080",
+   "title": "E080 owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "E080",
+   "extraModels": [
+    "E100"
+   ],
+   "url": "https://www.manualslib.com/manual/3775429/Aprilaire-E080.html"
+  },
+  {
+   "manualId": "4040237",
+   "slug": "Aprilaire-E100",
+   "title": "E080 owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "E080",
+   "extraModels": [
+    "E080",
+    "E100H"
+   ],
+   "url": "https://www.manualslib.com/manual/4040237/Aprilaire-E100.html"
+  },
+  {
+   "manualId": "2500286",
+   "slug": "Aprilaire-E080cs",
+   "title": "E080CS Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "E080CS",
+   "extraModels": [
+    "E100CS"
+   ],
+   "url": "https://www.manualslib.com/manual/2500286/Aprilaire-E080cs.html"
+  },
+  {
+   "manualId": "2923868",
+   "slug": "Aprilaire-E080cs",
+   "title": "E080CS owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "E080CS",
+   "extraModels": [
+    "E100CS"
+   ],
+   "url": "https://www.manualslib.com/manual/2923868/Aprilaire-E080cs.html"
+  },
+  {
+   "manualId": "3949019",
+   "slug": "Aprilaire-E080w",
+   "title": "E080W Installation & owner's manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "E080W",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3949019/Aprilaire-E080w.html"
+  },
+  {
+   "manualId": "3096218",
+   "slug": "Aprilaire-E100c",
+   "title": "E100C Installation and operating manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "E100C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3096218/Aprilaire-E100c.html"
+  },
+  {
+   "manualId": "3949020",
+   "slug": "Aprilaire-E100w",
+   "title": "E100W Installation & owner's manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "E100W",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3949020/Aprilaire-E100w.html"
+  },
+  {
+   "manualId": "3383012",
+   "slug": "Aprilaire-E130",
+   "title": "E130 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "E130",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3383012/Aprilaire-E130.html"
+  },
+  {
+   "manualId": "3535670",
+   "slug": "Aprilaire-E130",
+   "title": "E130 installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "E130",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3535670/Aprilaire-E130.html"
+  },
+  {
+   "manualId": "3138031",
+   "slug": "Aprilaire-E130c",
+   "title": "E130C Installation and operating manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "E130C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3138031/Aprilaire-E130c.html"
+  },
+  {
+   "manualId": "1036863",
+   "slug": "Aprilaire-Home-Comfort-Control-8830",
+   "title": "Home Comfort Control 8830 owner's manual",
+   "type": "User / Owner",
+   "pages": 23,
+   "productModel": "Home Comfort Control 8830",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1036863/Aprilaire-Home-Comfort-Control-8830.html"
+  },
+  {
+   "manualId": "1805373",
+   "slug": "Aprilaire-8830",
+   "title": "Home Comfort Control 8830 Safety & installation instructions",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "Home Comfort Control 8830",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1805373/Aprilaire-8830.html"
+  },
+  {
+   "manualId": "902586",
+   "slug": "Aprilaire-Humidifier",
+   "title": "Humidifier owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Humidifier",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/902586/Aprilaire-Humidifier.html"
+  },
+  {
+   "manualId": "1408616",
+   "slug": "Aprilaire-213",
+   "title": "Installation",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1408616/Aprilaire-213.html"
+  },
+  {
+   "manualId": "3264572",
+   "slug": "Aprilaire-Arnhpf",
+   "title": "Installation & Operating Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3264572/Aprilaire-Arnhpf.html"
+  },
+  {
+   "manualId": "4510652",
+   "slug": "Aprilaire-Zazw",
+   "title": "Installation & Operating Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4510652/Aprilaire-Zazw.html"
+  },
+  {
+   "manualId": "3680709",
+   "slug": "Aprilaire-V42sna",
+   "title": "Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3680709/Aprilaire-V42sna.html"
+  },
+  {
+   "manualId": "4509391",
+   "slug": "Aprilaire-Uvd1",
+   "title": "Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4509391/Aprilaire-Uvd1.html"
+  },
+  {
+   "manualId": "4514464",
+   "slug": "Aprilaire-Zawthcpv",
+   "title": "Installation & operation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4514464/Aprilaire-Zawthcpv.html"
+  },
+  {
+   "manualId": "8831",
+   "slug": "Aprilaire-1710",
+   "title": "Installation & owner's manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8831/Aprilaire-1710.html"
+  },
+  {
+   "manualId": "4339963",
+   "slug": "Aprilaire-1120",
+   "title": "Installation and maintenance instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4339963/Aprilaire-1120.html"
+  },
+  {
+   "manualId": "1913241",
+   "slug": "Aprilaire-1625fg",
+   "title": "Installation And Operating Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1913241/Aprilaire-1625fg.html"
+  },
+  {
+   "manualId": "3022454",
+   "slug": "Aprilaire-8142a",
+   "title": "Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3022454/Aprilaire-8142a.html"
+  },
+  {
+   "manualId": "760431",
+   "slug": "Aprilaire-8244",
+   "title": "Installation and operation manual",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/760431/Aprilaire-8244.html"
+  },
+  {
+   "manualId": "765021",
+   "slug": "Aprilaire-8246",
+   "title": "Installation and operation manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/765021/Aprilaire-8246.html"
+  },
+  {
+   "manualId": "3332169",
+   "slug": "Aprilaire-Z10odt",
+   "title": "Installation and operator's manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3332169/Aprilaire-Z10odt.html"
+  },
+  {
+   "manualId": "3332173",
+   "slug": "Aprilaire-Z10idt",
+   "title": "Installation and operator's manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3332173/Aprilaire-Z10idt.html"
+  },
+  {
+   "manualId": "530700",
+   "slug": "Aprilaire-8056",
+   "title": "Installation and operator's manual",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530700/Aprilaire-8056.html"
+  },
+  {
+   "manualId": "1431784",
+   "slug": "Aprilaire-8811",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1431784/Aprilaire-8811.html"
+  },
+  {
+   "manualId": "1492278",
+   "slug": "Aprilaire-6908",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1492278/Aprilaire-6908.html"
+  },
+  {
+   "manualId": "1538320",
+   "slug": "Aprilaire-5660",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1538320/Aprilaire-5660.html"
+  },
+  {
+   "manualId": "2170042",
+   "slug": "Aprilaire-6108",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2170042/Aprilaire-6108.html"
+  },
+  {
+   "manualId": "574020",
+   "slug": "Aprilaire-8051",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/574020/Aprilaire-8051.html"
+  },
+  {
+   "manualId": "574029",
+   "slug": "Aprilaire-8081-Tt",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/574029/Aprilaire-8081-Tt.html"
+  },
+  {
+   "manualId": "808496",
+   "slug": "Aprilaire-2120",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "5000"
+   ],
+   "url": "https://www.manualslib.com/manual/808496/Aprilaire-2120.html"
+  },
+  {
+   "manualId": "1559282",
+   "slug": "Aprilaire-8028",
+   "title": "Installation Instructions & Application Sheet",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1559282/Aprilaire-8028.html"
+  },
+  {
+   "manualId": "3106432",
+   "slug": "Aprilaire-S86wmupr",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3106432/Aprilaire-S86wmupr.html"
+  },
+  {
+   "manualId": "975651",
+   "slug": "Aprilaire-70-Living-Space-Control",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/975651/Aprilaire-70-Living-Space-Control.html"
+  },
+  {
+   "manualId": "2758743",
+   "slug": "Aprilaire-4517",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2758743/Aprilaire-4517.html"
+  },
+  {
+   "manualId": "3575687",
+   "slug": "Aprilaire-720-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3575687/Aprilaire-720-Series.html"
+  },
+  {
+   "manualId": "4007996",
+   "slug": "Aprilaire-110",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4007996/Aprilaire-110.html"
+  },
+  {
+   "manualId": "3365184",
+   "slug": "Aprilaire-56",
+   "title": "Operating Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3365184/Aprilaire-56.html"
+  },
+  {
+   "manualId": "448812",
+   "slug": "Aprilaire-8539",
+   "title": "operating instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/448812/Aprilaire-8539.html"
+  },
+  {
+   "manualId": "452866",
+   "slug": "Aprilaire-8532",
+   "title": "operating instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/452866/Aprilaire-8532.html"
+  },
+  {
+   "manualId": "452867",
+   "slug": "Aprilaire-8531",
+   "title": "operating instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/452867/Aprilaire-8531.html"
+  },
+  {
+   "manualId": "1032357",
+   "slug": "Aprilaire-76c",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1032357/Aprilaire-76c.html"
+  },
+  {
+   "manualId": "1262406",
+   "slug": "Aprilaire-2275",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1262406/Aprilaire-2275.html"
+  },
+  {
+   "manualId": "210085",
+   "slug": "Aprilaire-2250",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/210085/Aprilaire-2250.html"
+  },
+  {
+   "manualId": "3575625",
+   "slug": "Aprilaire-720-Series",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3575625/Aprilaire-720-Series.html"
+  },
+  {
+   "manualId": "4136254",
+   "slug": "Aprilaire-620-Series",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4136254/Aprilaire-620-Series.html"
+  },
+  {
+   "manualId": "452860",
+   "slug": "Aprilaire-2140-Media",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/452860/Aprilaire-2140-Media.html"
+  },
+  {
+   "manualId": "4649958",
+   "slug": "Aprilaire-Moisture-Medic-Hc90",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4649958/Aprilaire-Moisture-Medic-Hc90.html"
+  },
+  {
+   "manualId": "530668",
+   "slug": "Aprilaire-8120a",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [
+    "8126A"
+   ],
+   "url": "https://www.manualslib.com/manual/530668/Aprilaire-8120a.html"
+  },
+  {
+   "manualId": "688093",
+   "slug": "Aprilaire-4838",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/688093/Aprilaire-4838.html"
+  },
+  {
+   "manualId": "725917",
+   "slug": "Aprilaire-1700fs",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/725917/Aprilaire-1700fs.html"
+  },
+  {
+   "manualId": "8823",
+   "slug": "Aprilaire-2200",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8823/Aprilaire-2200.html"
+  },
+  {
+   "manualId": "8825",
+   "slug": "Aprilaire-2250-And-2400",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8825/Aprilaire-2250-And-2400.html"
+  },
+  {
+   "manualId": "8846",
+   "slug": "Aprilaire-In72",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8846/Aprilaire-In72.html"
+  },
+  {
+   "manualId": "573962",
+   "slug": "Aprilaire-2250",
+   "title": "Procedure and installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/573962/Aprilaire-2250.html"
+  },
+  {
+   "manualId": "2491042",
+   "slug": "Aprilaire-E080",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "E100",
+    "E130"
+   ],
+   "url": "https://www.manualslib.com/manual/2491042/Aprilaire-E080.html"
+  },
+  {
+   "manualId": "3324778",
+   "slug": "Aprilaire-S84n-1h1c",
+   "title": "S84N 1H1C owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "S84N 1H1C",
+   "extraModels": [
+    "S84N SU"
+   ],
+   "url": "https://www.manualslib.com/manual/3324778/Aprilaire-S84n-1h1c.html"
+  },
+  {
+   "manualId": "3351069",
+   "slug": "Aprilaire-S84n-1h1c",
+   "title": "S84N 1H1C Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "S84N 1H1C",
+   "extraModels": [
+    "S84N SU"
+   ],
+   "url": "https://www.manualslib.com/manual/3351069/Aprilaire-S84n-1h1c.html"
+  },
+  {
+   "manualId": "2942057",
+   "slug": "Aprilaire-S86n-Mu",
+   "title": "S86N MU Manual",
+   "type": "Other",
+   "pages": 23,
+   "productModel": "S86N MU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2942057/Aprilaire-S86n-Mu.html"
+  },
+  {
+   "manualId": "2998415",
+   "slug": "Aprilaire-S86n-Mu",
+   "title": "S86N MU owner's manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "S86N MU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2998415/Aprilaire-S86n-Mu.html"
+  },
+  {
+   "manualId": "3147863",
+   "slug": "Aprilaire-S86w-Mupr",
+   "title": "S86W MUPR owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "S86W MUPR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3147863/Aprilaire-S86w-Mupr.html"
+  },
+  {
+   "manualId": "1771178",
+   "slug": "Aprilaire-6401",
+   "title": "Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1771178/Aprilaire-6401.html"
+  },
+  {
+   "manualId": "3342075",
+   "slug": "Aprilaire-56",
+   "title": "Safety And Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3342075/Aprilaire-56.html"
+  },
+  {
+   "manualId": "791012",
+   "slug": "Aprilaire-2200",
+   "title": "Safety and installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/791012/Aprilaire-2200.html"
+  },
+  {
+   "manualId": "1025653",
+   "slug": "Aprilaire-1120",
+   "title": "Safety Installation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1025653/Aprilaire-1120.html"
+  },
+  {
+   "manualId": "672533",
+   "slug": "Aprilaire-8200-Series",
+   "title": "Specification Sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "8263",
+    "8265"
+   ],
+   "url": "https://www.manualslib.com/manual/672533/Aprilaire-8200-Series.html"
+  },
+  {
+   "manualId": "4399850",
+   "slug": "Aprilaire-Hydrocore-Series",
+   "title": "troubleshooting manual",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4399850/Aprilaire-Hydrocore-Series.html"
+  },
+  {
+   "manualId": "8848",
+   "slug": "Aprilaire-8334",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/8848/Aprilaire-8334.html"
+  },
+  {
+   "manualId": "3458346",
+   "slug": "Aprilaire-V22bec",
+   "title": "V22BEC installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "V22BEC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3458346/Aprilaire-V22bec.html"
+  },
+  {
+   "manualId": "3458354",
+   "slug": "Aprilaire-V22bec",
+   "title": "V22BEC owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "V22BEC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3458354/Aprilaire-V22bec.html"
+  },
+  {
+   "manualId": "3739240",
+   "slug": "Aprilaire-V42snx",
+   "title": "V42SNX Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "V42SNX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3739240/Aprilaire-V42snx.html"
+  },
+  {
+   "manualId": "530709",
+   "slug": "Aprilaire-6202",
+   "title": "Zoned Comfort Control 6202 Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "Zoned Comfort Control 6202",
+   "extraModels": [
+    "Zoned Comfort Control 6203"
+   ],
+   "url": "https://www.manualslib.com/manual/530709/Aprilaire-6202.html"
+  },
+  {
+   "manualId": "1581773",
+   "slug": "Aprilaire-Zoned-Comfort-Control-6203",
+   "title": "Zoned Comfort Control 6202 Safety & Installation Instructions",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Zoned Comfort Control 6202",
+   "extraModels": [
+    "Zoned Comfort Control 6202"
+   ],
+   "url": "https://www.manualslib.com/manual/1581773/Aprilaire-Zoned-Comfort-Control-6203.html"
+  },
+  {
+   "manualId": "530681",
+   "slug": "Aprilaire-Zoned-Comfort",
+   "title": "Zoned Comfort owner's manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "Zoned Comfort",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530681/Aprilaire-Zoned-Comfort.html"
+  },
+  {
+   "manualId": "530686",
+   "slug": "Aprilaire-Zoned-Comfort",
+   "title": "Zoned Comfort owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Zoned Comfort",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/530686/Aprilaire-Zoned-Comfort.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "3492203",
+   "slug": "aprilaire-e080-e100-dehumidifier-manual",
+   "title": "Aprilaire E080, E100 - Dehumidifier Manual"
+  },
+  {
+   "manualId": "3492214",
+   "slug": "aprilaire-8444-8446-8448-8463-8465-8466-thermostat-manual",
+   "title": "Aprilaire 8444, 8446, 8448, 8463, 8465, 8466 - Thermostat Manual"
+  },
+  {
+   "manualId": "3492200",
+   "slug": "aprilaire-800-series-steam-humidifier-manual",
+   "title": "Aprilaire 800 Series - Steam Humidifier Manual"
+  },
+  {
+   "manualId": "3614291",
+   "slug": "aprilaire-500-series-manual",
+   "title": "AprilAire 500 Series Manual"
+  },
+  {
+   "manualId": "3492201",
+   "slug": "aprilaire-76-dehumidifier-control-manual",
+   "title": "Aprilaire 76 - Dehumidifier Control Manual"
+  },
+  {
+   "manualId": "3492202",
+   "slug": "aprilaire-e070-dehumidifier-manual",
+   "title": "Aprilaire E070 - Dehumidifier Manual"
+  },
+  {
+   "manualId": "3492205",
+   "slug": "aprilaire-e130-dehumidifier-manual",
+   "title": "Aprilaire E130 - Dehumidifier Manual"
+  },
+  {
+   "manualId": "3492197",
+   "slug": "aprilaire-60-62-4655-humidifier-manual",
+   "title": "Aprilaire 60, 62, 4655 - Humidifier Manual"
+  },
+  {
+   "manualId": "2863474",
+   "slug": "aprilaire-800-steam-humidifier-manual",
+   "title": "Aprilaire 800 Steam Humidifier Manual"
+  },
+  {
+   "manualId": "3492224",
+   "slug": "aprilaire-8600-thermostat-manual",
+   "title": "Aprilaire 8600 - Thermostat Manual"
+  },
+  {
+   "manualId": "3492212",
+   "slug": "aprilaire-110-1210-1310-1410-1910-2210-air-cleaner-manual",
+   "title": "Aprilaire 110, 1210, 1310, 1410, 1910, 2210 - Air Cleaner Manual"
+  },
+  {
+   "manualId": "4239299",
+   "slug": "aprilaire-1110-air-cleaner-installation-and-operation-manual",
+   "title": "Aprilaire 1110 air cleaner Installation & Operation Manual"
+  },
+  {
+   "manualId": "4249332",
+   "slug": "aprilaire-auv24v-hvac-uv-lamp-installation-and-operating-manual",
+   "title": "Aprilaire AUV24V HVAC UV Lamp Installation & Operating Manual"
+  },
+  {
+   "manualId": "3492206",
+   "slug": "aprilaire-1750-1770-dehumidifier-manual",
+   "title": "Aprilaire 1750, 1770 - Dehumidifier Manual"
+  },
+  {
+   "manualId": "3492198",
+   "slug": "aprilaire-65-humidifier-control-manual",
+   "title": "Aprilaire 65 - Humidifier Control Manual"
+  },
+  {
+   "manualId": "4408938",
+   "slug": "aprilaire-model-8100-erv-installation-instructions",
+   "title": "Aprilaire Model 8100 ERV Installation Instructions"
+  },
+  {
+   "manualId": "4255990",
+   "slug": "aprilaire-5822-dehumidifier-hanging-kit-installation-manual",
+   "title": "Aprilaire 5822 Dehumidifier Hanging Kit Installation Manual"
+  },
+  {
+   "manualId": "3212869",
+   "slug": "aprilaire-8052-temperature-sensor-installation-instructions",
+   "title": "Aprilaire 8052 - Temperature Sensor Installation Instructions"
+  },
+  {
+   "manualId": "3492215",
+   "slug": "aprilaire-event-based-8620-air-cleaning-control-manual",
+   "title": "Aprilaire Event-Based 8620 - Air Cleaning Control Manual"
+  },
+  {
+   "manualId": "3611667",
+   "slug": "aprilaire-event-based-8620w-air-cleaning-control-manual",
+   "title": "Aprilaire Event-Based 8620W - Air Cleaning Control Manual"
+  },
+  {
+   "manualId": "3492226",
+   "slug": "aprilaire-s84n-1h1c-s84n-su-thermostat-manual",
+   "title": "Aprilaire S84N 1H1C, S84N SU - Thermostat Manual"
+  },
+  {
+   "manualId": "3492227",
+   "slug": "aprilaire-s86n-mu-s86n-mupr-thermostat-manual",
+   "title": "Aprilaire S86N MU, S86N MUPR - Thermostat Manual"
+  },
+  {
+   "manualId": "3492213",
+   "slug": "aprilaire-5000-air-cleaner-manual",
+   "title": "Aprilaire 5000 - Air Cleaner Manual"
+  },
+  {
+   "manualId": "3492210",
+   "slug": "aprilaire-75-dehumidifier-control-manual",
+   "title": "Aprilaire 75 - Dehumidifier Control Manual"
+  },
+  {
+   "manualId": "3492211",
+   "slug": "aprilaire-70-living-space-control-manual",
+   "title": "Aprilaire 70 - Living Space Control Manual"
+  },
+  {
+   "manualId": "3492216",
+   "slug": "aprilaire-8910-home-comfort-control-manual",
+   "title": "Aprilaire 8910 - Home Comfort Control Manual"
+  },
+  {
+   "manualId": "2863434",
+   "slug": "aprilaire-1830-1850-1850w-installation-manual",
+   "title": "Aprilaire 1830, 1850, 1850W Installation Manual"
+  },
+  {
+   "manualId": "3492204",
+   "slug": "aprilaire-e080cs-e100cs-dehumidifier-manual",
+   "title": "Aprilaire E080CS, E100CS - Dehumidifier Manual"
+  },
+  {
+   "manualId": "4255782",
+   "slug": "aprilaire-e070w-dehumidifier-installation-and-operation-manual",
+   "title": "Aprilaire E070W dehumidifier Installation & Operation Manual"
+  },
+  {
+   "manualId": "4426973",
+   "slug": "aprilaire-model-e070-dehumidifier-owner-s-manual",
+   "title": "Aprilaire Model E070 Dehumidifier Owner's Manual"
+  },
+  {
+   "manualId": "2863435",
+   "slug": "aprilaire-1830-1850-1850w-dehumidifier-manual",
+   "title": "Aprilaire 1830, 1850, 1850W - Dehumidifier Manual"
+  },
+  {
+   "manualId": "3492208",
+   "slug": "aprilaire-1870-1870w-dehumidifier-manual",
+   "title": "Aprilaire 1870, 1870W - Dehumidifier Manual"
+  },
+  {
+   "manualId": "2863433",
+   "slug": "aprilaire-600-700-550-automatic-humidifiers-manual",
+   "title": "Aprilaire 600, 700, 550 - Automatic Humidifiers Manual"
+  },
+  {
+   "manualId": "3619673",
+   "slug": "aprilaire-300-manual",
+   "title": "Aprilaire 300 Manual"
+  },
+  {
+   "manualId": "4246921",
+   "slug": "aprilaire-5658-humidifier-fan-pack-installation-manual",
+   "title": "Aprilaire 5658 Humidifier Fan Pack Installation Manual"
+  },
+  {
+   "manualId": "3492229",
+   "slug": "aprilaire-s86w-mupr-thermostat-manual",
+   "title": "Aprilaire S86W MUPR - Thermostat Manual"
+  },
+  {
+   "manualId": "3492217",
+   "slug": "aprilaire-8910w-home-comfort-control-manual",
+   "title": "Aprilaire 8910W - Home Comfort Control Manual"
+  },
+  {
+   "manualId": "3492225",
+   "slug": "aprilaire-8920w-thermostat-manual",
+   "title": "Aprilaire 8920W - Thermostat Manual"
+  }
+ ],
+ "techDirectIds": [
+  "aprilaire"
+ ]
+}

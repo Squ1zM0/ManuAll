@@ -1,0 +1,508 @@
+{
+ "brand": "Thermal Solutions",
+ "brandSlug": "thermal-solutions",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/thermal-solutions/"
+ ],
+ "slugUsed": "thermal-solutions",
+ "capturedAt": "2026-10-28T09:30:18.695394+00:00",
+ "typePages": [
+  {
+   "path": "/brand/thermal-solutions/boiler.html",
+   "manuals": 132,
+   "status": 200
+  },
+  {
+   "path": "/brand/thermal-solutions/controller.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/thermal-solutions/gateway.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/thermal-solutions/touch-panel.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/thermal-solutions/water-heater.html",
+   "manuals": 24,
+   "status": 200
+  },
+  {
+   "path": "/brand/thermal-solutions/water-pump.html",
+   "manuals": 4,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1407982",
+   "slug": "Thermal-Solutions-Amp-1000",
+   "title": "AMP 1000 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "AMP 1000",
+   "extraModels": [
+    "AMP 1250",
+    "AMP 1500",
+    "AMP 2000"
+   ],
+   "url": "https://www.manualslib.com/manual/1407982/Thermal-Solutions-Amp-1000.html"
+  },
+  {
+   "manualId": "2124625",
+   "slug": "Thermal-Solutions-Amp-1000",
+   "title": "AMP 1000 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "AMP 1000",
+   "extraModels": [
+    "AMP 1250",
+    "AMP 1500",
+    "AMP 2000",
+    "AMP 3500",
+    "AMP Series",
+    "AMPW 1000",
+    "AMPW 1250",
+    "AMPW 1500",
+    "AMPW 2000",
+    "AMPW 2500",
+    "AMPW 3000",
+    "AMPW 3500",
+    "AMPW 4000"
+   ],
+   "url": "https://www.manualslib.com/manual/2124625/Thermal-Solutions-Amp-1000.html"
+  },
+  {
+   "manualId": "3047119",
+   "slug": "Thermal-Solutions-Amp-400",
+   "title": "AMP 1000L Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 70,
+   "productModel": "AMP 1000L",
+   "extraModels": [
+    "AMP 1000L"
+   ],
+   "url": "https://www.manualslib.com/manual/3047119/Thermal-Solutions-Amp-400.html"
+  },
+  {
+   "manualId": "3877335",
+   "slug": "Thermal-Solutions-Amp-2500",
+   "title": "AMP 2500 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "AMP 2500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877335/Thermal-Solutions-Amp-2500.html"
+  },
+  {
+   "manualId": "3877336",
+   "slug": "Thermal-Solutions-Amp-3000",
+   "title": "AMP 3000 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "AMP 3000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877336/Thermal-Solutions-Amp-3000.html"
+  },
+  {
+   "manualId": "3877337",
+   "slug": "Thermal-Solutions-Amp-4000",
+   "title": "AMP 4000 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "AMP 4000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877337/Thermal-Solutions-Amp-4000.html"
+  },
+  {
+   "manualId": "3915089",
+   "slug": "Thermal-Solutions-Amp-500",
+   "title": "AMP 500 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 70,
+   "productModel": "AMP 500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3915089/Thermal-Solutions-Amp-500.html"
+  },
+  {
+   "manualId": "3915090",
+   "slug": "Thermal-Solutions-Amp-650",
+   "title": "AMP 650 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 70,
+   "productModel": "AMP 650",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3915090/Thermal-Solutions-Amp-650.html"
+  },
+  {
+   "manualId": "3915091",
+   "slug": "Thermal-Solutions-Amp-800",
+   "title": "AMP 800 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 70,
+   "productModel": "AMP 800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3915091/Thermal-Solutions-Amp-800.html"
+  },
+  {
+   "manualId": "4159966",
+   "slug": "Thermal-Solutions-Amp-Amp400c",
+   "title": "AMP AMP1000C Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "AMP AMP1000C",
+   "extraModels": [
+    "AMP AMP1000C",
+    "AMP AMP1250C",
+    "AMP AMP1500C",
+    "AMP AMP500C",
+    "AMP AMP650C",
+    "AMP AMP800C"
+   ],
+   "url": "https://www.manualslib.com/manual/4159966/Thermal-Solutions-Amp-Amp400c.html"
+  },
+  {
+   "manualId": "4119641",
+   "slug": "Thermal-Solutions-Amp400v",
+   "title": "AMP1000V Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "AMP1000V",
+   "extraModels": [
+    "AMP1000V",
+    "AMP500V",
+    "AMP650V",
+    "AMP800V"
+   ],
+   "url": "https://www.manualslib.com/manual/4119641/Thermal-Solutions-Amp400v.html"
+  },
+  {
+   "manualId": "3211648",
+   "slug": "Thermal-Solutions-Ampw-400",
+   "title": "AMPW 1000L Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 70,
+   "productModel": "AMPW 1000L",
+   "extraModels": [
+    "AMPW 1000L",
+    "AMPW 500",
+    "AMPW 650",
+    "AMPW 800"
+   ],
+   "url": "https://www.manualslib.com/manual/3211648/Thermal-Solutions-Ampw-400.html"
+  },
+  {
+   "manualId": "3415987",
+   "slug": "Thermal-Solutions-Apex-Apx425c",
+   "title": "APEX APX425C Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 160,
+   "productModel": "APEX APX425C",
+   "extraModels": [
+    "APEX APX525C",
+    "APEX APX625C",
+    "APEX APX725C",
+    "APEX APX825C"
+   ],
+   "url": "https://www.manualslib.com/manual/3415987/Thermal-Solutions-Apex-Apx425c.html"
+  },
+  {
+   "manualId": "3369800",
+   "slug": "Thermal-Solutions-Arctic-Series",
+   "title": "ARC-1000 Installation & operation manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "ARC-1000",
+   "extraModels": [
+    "ARC-1000",
+    "ARC-3500",
+    "ARC-4500",
+    "ARC-5500",
+    "Arctic 1000",
+    "Arctic 1500",
+    "Arctic 2000",
+    "Arctic 2500",
+    "Arctic 3000",
+    "Arctic 3500",
+    "Arctic 4000",
+    "Arctic 4500",
+    "Arctic 5000",
+    "Arctic 5500",
+    "Arctic 6000"
+   ],
+   "url": "https://www.manualslib.com/manual/3369800/Thermal-Solutions-Arctic-Series.html"
+  },
+  {
+   "manualId": "3931733",
+   "slug": "Thermal-Solutions-Arc-1500",
+   "title": "ARC-1500 Installation & operation manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "ARC-1500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3931733/Thermal-Solutions-Arc-1500.html"
+  },
+  {
+   "manualId": "3931731",
+   "slug": "Thermal-Solutions-Arc-2500",
+   "title": "ARC-2500 Installation & operation manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "ARC-2500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3931731/Thermal-Solutions-Arc-2500.html"
+  },
+  {
+   "manualId": "3931732",
+   "slug": "Thermal-Solutions-Arc-3000",
+   "title": "ARC-3000 Installation & operation manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "ARC-3000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3931732/Thermal-Solutions-Arc-3000.html"
+  },
+  {
+   "manualId": "2039136",
+   "slug": "Thermal-Solutions-Arctic-1000",
+   "title": "Arctic 1000 Installation & operation manual",
+   "type": "Installation",
+   "pages": 74,
+   "productModel": "Arctic 1000",
+   "extraModels": [
+    "Arctic 1500",
+    "Arctic 2000",
+    "Arctic 2500",
+    "Arctic 3000",
+    "Arctic 3500",
+    "Arctic 4000",
+    "Arctic 4500",
+    "Arctic 5000",
+    "Arctic 5500",
+    "Arctic 6000"
+   ],
+   "url": "https://www.manualslib.com/manual/2039136/Thermal-Solutions-Arctic-1000.html"
+  },
+  {
+   "manualId": "1242018",
+   "slug": "Thermal-Solutions-Arctic",
+   "title": "Arctic Installation & operation manual",
+   "type": "Installation",
+   "pages": 74,
+   "productModel": "Arctic",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1242018/Thermal-Solutions-Arctic.html"
+  },
+  {
+   "manualId": "1815527",
+   "slug": "Thermal-Solutions-Boiler-Control-Tsbc",
+   "title": "Boiler Control TSBC instruction manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "Boiler Control TSBC",
+   "extraModels": [
+    "Boiler Control TSBC"
+   ],
+   "url": "https://www.manualslib.com/manual/1815527/Thermal-Solutions-Boiler-Control-Tsbc.html"
+  },
+  {
+   "manualId": "3540009",
+   "slug": "Thermal-Solutions-Eco-Propel-107058-01",
+   "title": "Eco-Propel 107058-01 Instruction and operation manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Eco-Propel 107058-01",
+   "extraModels": [
+    "Eco-Propel 107059-01",
+    "Eco-Propel 107068-01",
+    "Eco-Propel 107068-02"
+   ],
+   "url": "https://www.manualslib.com/manual/3540009/Thermal-Solutions-Eco-Propel-107058-01.html"
+  },
+  {
+   "manualId": "3561147",
+   "slug": "Thermal-Solutions-Eva-Series",
+   "title": "EVA Series Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 78,
+   "productModel": "EVA Series",
+   "extraModels": [
+    "EVA-1000",
+    "EVA-1500",
+    "EVA-2000",
+    "EVA-2000S",
+    "EVA-2500",
+    "EVA-3000",
+    "EVA-500",
+    "EVA-750",
+    "EVO Series",
+    "EVO-1000",
+    "EVO-1500",
+    "EVO-2000",
+    "EVO-750"
+   ],
+   "url": "https://www.manualslib.com/manual/3561147/Thermal-Solutions-Eva-Series.html"
+  },
+  {
+   "manualId": "790552",
+   "slug": "Thermal-Solutions-Evaw-Series",
+   "title": "EVA-1000 Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 74,
+   "productModel": "EVA-1000",
+   "extraModels": [
+    "EVA-1000",
+    "EVA-1500",
+    "EVA-2000",
+    "EVA-500",
+    "EVA-750"
+   ],
+   "url": "https://www.manualslib.com/manual/790552/Thermal-Solutions-Evaw-Series.html"
+  },
+  {
+   "manualId": "3566714",
+   "slug": "Thermal-Solutions-Evs-Series",
+   "title": "EVS SERIES Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 94,
+   "productModel": "EVS SERIES",
+   "extraModels": [
+    "EVS-1000",
+    "EVS-1500",
+    "EVS-2000",
+    "EVS-2000S",
+    "EVS-2500",
+    "EVS-3000",
+    "EVS-500",
+    "EVS-750"
+   ],
+   "url": "https://www.manualslib.com/manual/3566714/Thermal-Solutions-Evs-Series.html"
+  },
+  {
+   "manualId": "2096525",
+   "slug": "Thermal-Solutions-Protonode-Fpc-N34-Bacnet",
+   "title": "FPC-N34-0643 Startup manual",
+   "type": "Installation",
+   "pages": 47,
+   "productModel": "FPC-N34-0643",
+   "extraModels": [
+    "FPC-N34-0643",
+    "FPC-N35-0644",
+    "ProtoNode FPC-N35 LonWorks"
+   ],
+   "url": "https://www.manualslib.com/manual/2096525/Thermal-Solutions-Protonode-Fpc-N34-Bacnet.html"
+  },
+  {
+   "manualId": "1771573",
+   "slug": "Thermal-Solutions-Protonode-Ler",
+   "title": "ProtoNode LER Startup manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "ProtoNode LER",
+   "extraModels": [
+    "ProtoNode RER"
+   ],
+   "url": "https://www.manualslib.com/manual/1771573/Thermal-Solutions-Protonode-Ler.html"
+  },
+  {
+   "manualId": "1231789",
+   "slug": "Thermal-Solutions-Vmw12pfa03-48018-R11",
+   "title": "RC6600 user manual",
+   "type": "User / Owner",
+   "pages": 37,
+   "productModel": "RC6600",
+   "extraModels": [
+    "RC6600"
+   ],
+   "url": "https://www.manualslib.com/manual/1231789/Thermal-Solutions-Vmw12pfa03-48018-R11.html"
+  },
+  {
+   "manualId": "791614",
+   "slug": "Thermal-Solutions-Solaris",
+   "title": "SOLARIS Service instructions manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "SOLARIS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/791614/Thermal-Solutions-Solaris.html"
+  },
+  {
+   "manualId": "791628",
+   "slug": "Thermal-Solutions-Evca-Series",
+   "title": "Thermal Solutions EVCA SERIES Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 100,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/791628/Thermal-Solutions-Evca-Series.html"
+  },
+  {
+   "manualId": "729318",
+   "slug": "Thermal-Solutions-Evo-500",
+   "title": "Thermal Solutions EVO-500 Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 76,
+   "productModel": null,
+   "extraModels": [
+    "EVO-1000",
+    "EVO-1500",
+    "EVO-2000",
+    "EVO-750"
+   ],
+   "url": "https://www.manualslib.com/manual/729318/Thermal-Solutions-Evo-500.html"
+  },
+  {
+   "manualId": "791818",
+   "slug": "Thermal-Solutions-Evs-Series",
+   "title": "Thermal Solutions EVS SERIES Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 92,
+   "productModel": null,
+   "extraModels": [
+    "EVS-1000",
+    "EVS-1500",
+    "EVS-2000",
+    "EVS-2000S",
+    "EVS-2500",
+    "EVS-3000",
+    "EVS-500",
+    "EVS-750"
+   ],
+   "url": "https://www.manualslib.com/manual/791818/Thermal-Solutions-Evs-Series.html"
+  },
+  {
+   "manualId": "794546",
+   "slug": "Thermal-Solutions-Solaris",
+   "title": "Thermal Solutions SOLARIS Installation, Operating And Service Instructions",
+   "type": "Service",
+   "pages": 75,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/794546/Thermal-Solutions-Solaris.html"
+  },
+  {
+   "manualId": "797408",
+   "slug": "Thermal-Solutions-Apex",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/797408/Thermal-Solutions-Apex.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "thermal-solutions"
+ ]
+}

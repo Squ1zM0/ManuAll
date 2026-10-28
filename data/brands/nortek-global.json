@@ -1,0 +1,148 @@
+{
+ "brand": "Nortek Global",
+ "brandSlug": "nortek-global",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/nortek-global/"
+ ],
+ "slugUsed": "nortek-global",
+ "capturedAt": "2026-10-28T08:45:52.979188+00:00",
+ "typePages": [
+  {
+   "path": "/brand/nortek-global/air-conditioner.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/nortek-global/furnace.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/nortek-global/heat-pump.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/nortek-global/heater.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/nortek-global/industrial-equipment.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3194122",
+   "slug": "Nortek-Global-E7-Series",
+   "title": "E7 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "E7 Series",
+   "extraModels": [
+    "E7ED DOWNFLOW",
+    "E7EM MULTI-POISE",
+    "E7EU UPFLOW"
+   ],
+   "url": "https://www.manualslib.com/manual/3194122/Nortek-Global-E7-Series.html"
+  },
+  {
+   "manualId": "4388500",
+   "slug": "Nortek-Global-Gxh24-36msk4dh",
+   "title": "GXH24-36MSK4DH owner's manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "GXH24-36MSK4DH",
+   "extraModels": [
+    "GXH48-60MSK4DH"
+   ],
+   "url": "https://www.manualslib.com/manual/4388500/Nortek-Global-Gxh24-36msk4dh.html"
+  },
+  {
+   "manualId": "3284673",
+   "slug": "Nortek-Global-Reznor-Lcsa-3",
+   "title": "Reznor LCSA-3 installation instructions manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "Reznor LCSA-3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3284673/Nortek-Global-Reznor-Lcsa-3.html"
+  },
+  {
+   "manualId": "3178435",
+   "slug": "Nortek-Global-Reznor-Uesa-3",
+   "title": "Reznor UESA-3 Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 31,
+   "productModel": "Reznor UESA-3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3178435/Nortek-Global-Reznor-Uesa-3.html"
+  },
+  {
+   "manualId": "3491116",
+   "slug": "Nortek-Global-Reznor-V3-Tcore2-Udsa-025-3",
+   "title": "Reznor V3 Tcore2 UDSA 025-3 Installation Commissioning Servicing & User Instructions",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "Reznor V3 Tcore2 UDSA 025-3",
+   "extraModels": [
+    "Reznor V3 Tcore2UDSA 085-3"
+   ],
+   "url": "https://www.manualslib.com/manual/3491116/Nortek-Global-Reznor-V3-Tcore2-Udsa-025-3.html"
+  },
+  {
+   "manualId": "3602862",
+   "slug": "Nortek-Global-Sh4be5m-Series",
+   "title": "SH4BE5M Series installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "SH4BE5M Series",
+   "extraModels": [
+    "SH4BE5M-1SP18K Series",
+    "SH4BE5M-1SP24K Series",
+    "SH4BE5M-1SP30K Series",
+    "SH4BE5M-1SP36K Series",
+    "SH4BE5M-1SP42K Series",
+    "SH4BE5M-1SP48K Series",
+    "SH4BE5M-2SX60K Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3602862/Nortek-Global-Sh4be5m-Series.html"
+  },
+  {
+   "manualId": "4591832",
+   "slug": "Nortek-Global-Te-Series",
+   "title": "TE Series installation instructions manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "TE Series",
+   "extraModels": [
+    "TN Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4591832/Nortek-Global-Te-Series.html"
+  },
+  {
+   "manualId": "3012406",
+   "slug": "Nortek-Global-V5bv-72wmbc",
+   "title": "V5BV-120WMBC owner's manual",
+   "type": "User / Owner",
+   "pages": 68,
+   "productModel": "V5BV-120WMBC",
+   "extraModels": [
+    "V5BV-120WMBC",
+    "V5BV-96WMBC"
+   ],
+   "url": "https://www.manualslib.com/manual/3012406/Nortek-Global-V5bv-72wmbc.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "nortek-global-hvac"
+ ]
+}

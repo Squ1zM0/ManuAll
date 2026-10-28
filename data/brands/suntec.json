@@ -1,0 +1,798 @@
+{
+ "brand": "SUNTEC",
+ "brandSlug": "suntec",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/suntec/"
+ ],
+ "slugUsed": "suntec",
+ "capturedAt": "2026-10-28T09:25:31.797004+00:00",
+ "typePages": [
+  {
+   "path": "/brand/suntec/air-conditioner.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/suntec/control-unit.html",
+   "manuals": 86,
+   "status": 200
+  },
+  {
+   "path": "/brand/suntec/dehumidifier.html",
+   "manuals": 19,
+   "status": 200
+  },
+  {
+   "path": "/brand/suntec/fan.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/suntec/grill.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/suntec/heater.html",
+   "manuals": 20,
+   "status": 200
+  },
+  {
+   "path": "/brand/suntec/kettle.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/suntec/kitchen-appliances.html",
+   "manuals": 20,
+   "status": 200
+  },
+  {
+   "path": "/brand/suntec/medical-equipment.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/suntec/scales.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/suntec/scouting-camera.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/suntec/solar-panel.html",
+   "manuals": 76,
+   "status": 200
+  },
+  {
+   "path": "/brand/suntec/toaster.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/suntec/water-pump.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1959559",
+   "slug": "Suntec-Klimatronic-Air-Booster-2000-Osc",
+   "title": "11863 Manual",
+   "type": "Other",
+   "pages": 76,
+   "productModel": "11863",
+   "extraModels": [
+    "11863"
+   ],
+   "url": "https://www.manualslib.com/manual/1959559/Suntec-Klimatronic-Air-Booster-2000-Osc.html"
+  },
+  {
+   "manualId": "4033175",
+   "slug": "Suntec-260",
+   "title": "260 user manual",
+   "type": "User / Owner",
+   "pages": 49,
+   "productModel": "260",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4033175/Suntec-260.html"
+  },
+  {
+   "manualId": "4021664",
+   "slug": "Suntec-B-8200",
+   "title": "A-7000 Installation and service manual",
+   "type": "Service",
+   "pages": 82,
+   "productModel": "A-7000",
+   "extraModels": [
+    "A-7000",
+    "A1RA-7738",
+    "A1VA-7112",
+    "A1VB-7113",
+    "A1VC-7114",
+    "A1VD-7741",
+    "A1YA-7912",
+    "A2RA-7736",
+    "A2RA-7737",
+    "A2VA-7116",
+    "A2VA-7142",
+    "A2VA-7416",
+    "A2VB-7117",
+    "A2VC-7118",
+    "A2VD-7519",
+    "A2YA-7430",
+    "A2YA-7916",
+    "B-8000",
+    "B-8800",
+    "B1VA-8212",
+    "B2GA-8852",
+    "B2TA-8245",
+    "B2TA-8248",
+    "B2TA-8850",
+    "B2TA-8851",
+    "B2VA-8216",
+    "B2VA-8241",
+    "B2VA-8242",
+    "B2VA-8243",
+    "B2VA-8416",
+    "B2YA-8916",
+    "BB-1020M",
+    "BB-1020R",
+    "BH-1030M",
+    "BH-1030R",
+    "BH-1070M",
+    "BH-1070R",
+    "C261N",
+    "C461D",
+    "C642N",
+    "C753N",
+    "H",
+    "H2",
+    "H3",
+    "H4",
+    "H5",
+    "H6",
+    "H7",
+    "H8",
+    "HA2",
+    "J",
+    "J2",
+    "J3",
+    "J3NBN-A132B",
+    "J4",
+    "J5",
+    "J6",
+    "JA2",
+    "JB2",
+    "JJ2",
+    "R261N",
+    "R641D",
+    "R642N",
+    "R753N"
+   ],
+   "url": "https://www.manualslib.com/manual/4021664/Suntec-B-8200.html"
+  },
+  {
+   "manualId": "2050314",
+   "slug": "Suntec-Ca-100",
+   "title": "BA-100 instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "BA-100",
+   "extraModels": [
+    "BA-100",
+    "BA-200",
+    "BA-300",
+    "BA-400",
+    "CA-200",
+    "CA-300",
+    "CA-400"
+   ],
+   "url": "https://www.manualslib.com/manual/2050314/Suntec-Ca-100.html"
+  },
+  {
+   "manualId": "3952333",
+   "slug": "Suntec-Change",
+   "title": "CHANGE Instruction handbook manual",
+   "type": "User / Owner",
+   "pages": 41,
+   "productModel": "CHANGE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3952333/Suntec-Change.html"
+  },
+  {
+   "manualId": "925485",
+   "slug": "Suntec-Sc-100",
+   "title": "Crepe Chef SC-200 operating manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Crepe Chef SC-200",
+   "extraModels": [
+    "Crepe Chef SC-200"
+   ],
+   "url": "https://www.manualslib.com/manual/925485/Suntec-Sc-100.html"
+  },
+  {
+   "manualId": "4057723",
+   "slug": "Suntec-Hc801lte",
+   "title": "HC801LTE user manual",
+   "type": "User / Owner",
+   "pages": 35,
+   "productModel": "HC801LTE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4057723/Suntec-Hc801lte.html"
+  },
+  {
+   "manualId": "1223280",
+   "slug": "Suntec-Heat-Wave-Style-1000",
+   "title": "HEAT WAVE 1000 instruction manual",
+   "type": "User / Owner",
+   "pages": 54,
+   "productModel": "HEAT WAVE 1000",
+   "extraModels": [
+    "HEAT WAVE 1000",
+    "HEAT WAVE 1500",
+    "HEAT WAVE 2000",
+    "HEAT WAVE STYLE 1500",
+    "HEAT WAVE STYLE 2000"
+   ],
+   "url": "https://www.manualslib.com/manual/1223280/Suntec-Heat-Wave-Style-1000.html"
+  },
+  {
+   "manualId": "1912063",
+   "slug": "Suntec-Home-Essentials-Bbq-9479",
+   "title": "Home Essentials BBQ-9479 instruction manual",
+   "type": "User / Owner",
+   "pages": 54,
+   "productModel": "Home Essentials BBQ-9479",
+   "extraModels": [
+    "Home Essentials BBQ-9493"
+   ],
+   "url": "https://www.manualslib.com/manual/1912063/Suntec-Home-Essentials-Bbq-9479.html"
+  },
+  {
+   "manualId": "2983760",
+   "slug": "Suntec-Cp10245",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2983760/Suntec-Cp10245.html"
+  },
+  {
+   "manualId": "1427060",
+   "slug": "Suntec-Rac-8021-Flex4",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1427060/Suntec-Rac-8021-Flex4.html"
+  },
+  {
+   "manualId": "1869942",
+   "slug": "Suntec-Kgr-8373-Compact",
+   "title": "KGR-8373 compact instruction manual",
+   "type": "User / Owner",
+   "pages": 37,
+   "productModel": "KGR-8373 compact",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1869942/Suntec-Kgr-8373-Compact.html"
+  },
+  {
+   "manualId": "2036051",
+   "slug": "Suntec-Klimatronic-Coolbreeze-12000-Tv",
+   "title": "Klimatronic CoolBreeze 12000 TV Manual",
+   "type": "Other",
+   "pages": 156,
+   "productModel": "Klimatronic CoolBreeze 12000 TV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2036051/Suntec-Klimatronic-Coolbreeze-12000-Tv.html"
+  },
+  {
+   "manualId": "3115669",
+   "slug": "Suntec-Klimatronic-Coolbreeze-3500-Bv",
+   "title": "KLIMATRONIC CoolBreeze 3500 BV user manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "KLIMATRONIC CoolBreeze 3500 BV",
+   "extraModels": [
+    "KLIMATRONIC CoolBreeze 5000 BV"
+   ],
+   "url": "https://www.manualslib.com/manual/3115669/Suntec-Klimatronic-Coolbreeze-3500-Bv.html"
+  },
+  {
+   "manualId": "1876636",
+   "slug": "Suntec-Klimatronic-Coolbreeze-7400-Tv",
+   "title": "Klimatronic CoolBreeze 7400 TV Manual",
+   "type": "Other",
+   "pages": 99,
+   "productModel": "Klimatronic CoolBreeze 7400 TV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1876636/Suntec-Klimatronic-Coolbreeze-7400-Tv.html"
+  },
+  {
+   "manualId": "1082685",
+   "slug": "Suntec-Klimatronic-Dryfix-1000",
+   "title": "KLIMATRONIC DryFix 1000 user manual",
+   "type": "User / Owner",
+   "pages": 70,
+   "productModel": "KLIMATRONIC DryFix 1000",
+   "extraModels": [
+    "KLIMATRONIC DryFix 1200",
+    "KLIMATRONIC DryFix 1600",
+    "KLIMATRONIC DryFix 2000"
+   ],
+   "url": "https://www.manualslib.com/manual/1082685/Suntec-Klimatronic-Dryfix-1000.html"
+  },
+  {
+   "manualId": "1353191",
+   "slug": "Suntec-Klimatronic-Dryfix-20-Design",
+   "title": "Klimatronic DryFix 20 Design instruction manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "Klimatronic DryFix 20 Design",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1353191/Suntec-Klimatronic-Dryfix-20-Design.html"
+  },
+  {
+   "manualId": "2872940",
+   "slug": "Suntec-Klimatronic-Dryfix-20-Max",
+   "title": "KLIMATRONIC DryFix 20 MAX Manual",
+   "type": "Other",
+   "pages": 74,
+   "productModel": "KLIMATRONIC DryFix 20 MAX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2872940/Suntec-Klimatronic-Dryfix-20-Max.html"
+  },
+  {
+   "manualId": "1970766",
+   "slug": "Suntec-Klimatronic-Dryfix-Eq10",
+   "title": "Klimatronic DryFix EQ10 instruction manual",
+   "type": "User / Owner",
+   "pages": 39,
+   "productModel": "Klimatronic DryFix EQ10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1970766/Suntec-Klimatronic-Dryfix-Eq10.html"
+  },
+  {
+   "manualId": "1970935",
+   "slug": "Suntec-Klimatronic-Heat-Safe-1500",
+   "title": "KLIMATRONIC HEAT SAFE 1500 instruction manual",
+   "type": "User / Owner",
+   "pages": 83,
+   "productModel": "KLIMATRONIC HEAT SAFE 1500",
+   "extraModels": [
+    "KLIMATRONIC HEAT SAFE 2020",
+    "KLIMATRONIC HEAT SAFE 2500"
+   ],
+   "url": "https://www.manualslib.com/manual/1970935/Suntec-Klimatronic-Heat-Safe-1500.html"
+  },
+  {
+   "manualId": "2979873",
+   "slug": "Suntec-Klimatronic-Heat-Safe-1500",
+   "title": "KLIMATRONIC HEAT SAFE 1500 Manual",
+   "type": "Other",
+   "pages": 47,
+   "productModel": "KLIMATRONIC HEAT SAFE 1500",
+   "extraModels": [
+    "KLIMATRONIC HEAT SAFE 2020",
+    "KLIMATRONIC HEAT SAFE 2500"
+   ],
+   "url": "https://www.manualslib.com/manual/2979873/Suntec-Klimatronic-Heat-Safe-1500.html"
+  },
+  {
+   "manualId": "1877346",
+   "slug": "Suntec-Klimatronic-Heat-Safe-Humid-1000",
+   "title": "Klimatronic Heat Safe humid 1000 instruction manual",
+   "type": "User / Owner",
+   "pages": 100,
+   "productModel": "Klimatronic Heat Safe humid 1000",
+   "extraModels": [
+    "Klimatronic Heat Safe humid 1500",
+    "Klimatronic Heat Safe humid 2000",
+    "Klimatronic Heat Safe humid 2500"
+   ],
+   "url": "https://www.manualslib.com/manual/1877346/Suntec-Klimatronic-Heat-Safe-Humid-1000.html"
+  },
+  {
+   "manualId": "3834018",
+   "slug": "Suntec-Klimatronic-Progress-12-0-Plus",
+   "title": "Klimatronic Progress 12.0 plus instruction manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Klimatronic Progress 12.0 plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3834018/Suntec-Klimatronic-Progress-12-0-Plus.html"
+  },
+  {
+   "manualId": "3869720",
+   "slug": "Suntec-Klimatronic-Progress-12-000-Eco-R290",
+   "title": "KLIMATRONIC PROGRESS 12.000 ECO R290 Manual",
+   "type": "Other",
+   "pages": 168,
+   "productModel": "KLIMATRONIC PROGRESS 12.000 ECO R290",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3869720/Suntec-Klimatronic-Progress-12-000-Eco-R290.html"
+  },
+  {
+   "manualId": "1039024",
+   "slug": "Suntec-Klimatronic-Progress-7-0-Plus",
+   "title": "Klimatronic Progress 7.0 plus instruction manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Klimatronic Progress 7.0 plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1039024/Suntec-Klimatronic-Progress-7-0-Plus.html"
+  },
+  {
+   "manualId": "1928684",
+   "slug": "Suntec-Klimatronic-Progress-7-000-Eco-R290",
+   "title": "KLIMATRONIC PROGRESS 7.000 ECO R290 Manual",
+   "type": "Other",
+   "pages": 168,
+   "productModel": "KLIMATRONIC PROGRESS 7.000 ECO R290",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1928684/Suntec-Klimatronic-Progress-7-000-Eco-R290.html"
+  },
+  {
+   "manualId": "3834017",
+   "slug": "Suntec-Klimatronic-Progress-9-0-Plus",
+   "title": "Klimatronic Progress 9.0 plus instruction manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Klimatronic Progress 9.0 plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3834017/Suntec-Klimatronic-Progress-9-0-Plus.html"
+  },
+  {
+   "manualId": "3151924",
+   "slug": "Suntec-Kwa-8328-Nutri",
+   "title": "KWA-8328 nutri instruction manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "KWA-8328 nutri",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3151924/Suntec-Kwa-8328-Nutri.html"
+  },
+  {
+   "manualId": "2635838",
+   "slug": "Suntec-Mn-Series",
+   "title": "M2 Series Installation and operating instruction",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "M2 Series",
+   "extraModels": [
+    "M2 Series",
+    "M2C52F07-1",
+    "M2C52F07-2",
+    "M2C52S07-2",
+    "M2C55F07-1",
+    "M2C55F07-2",
+    "M2C55S07-2",
+    "M2N50F07-1",
+    "M2N50F07-2",
+    "M2N50S07-2",
+    "M3 Series",
+    "M3C42F07-2",
+    "M3C42S07-2",
+    "M3C45F07-2",
+    "M3C45S07-2",
+    "M3N40F07-2",
+    "M3N40S07-2"
+   ],
+   "url": "https://www.manualslib.com/manual/2635838/Suntec-Mn-Series.html"
+  },
+  {
+   "manualId": "2580365",
+   "slug": "Suntec-M2c",
+   "title": "M2C Installation and operating instruction",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "M2C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2580365/Suntec-M2c.html"
+  },
+  {
+   "manualId": "1755786",
+   "slug": "Suntec-Rc-2000-Series",
+   "title": "operating instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1755786/Suntec-Rc-2000-Series.html"
+  },
+  {
+   "manualId": "835322",
+   "slug": "Suntec-Lrc2000",
+   "title": "operating instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/835322/Suntec-Lrc2000.html"
+  },
+  {
+   "manualId": "2512929",
+   "slug": "Suntec-St600",
+   "title": "operating manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2512929/Suntec-St600.html"
+  },
+  {
+   "manualId": "2571905",
+   "slug": "Suntec-St601-Pro",
+   "title": "operating manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2571905/Suntec-St601-Pro.html"
+  },
+  {
+   "manualId": "4059296",
+   "slug": "Suntec-Ct801-Pro",
+   "title": "operating manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4059296/Suntec-Ct801-Pro.html"
+  },
+  {
+   "manualId": "2684427",
+   "slug": "Suntec-Pok-1",
+   "title": "PK-1 instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "PK-1",
+   "extraModels": [
+    "PK-1",
+    "PK-2",
+    "POK-11",
+    "POK-2",
+    "POK-22"
+   ],
+   "url": "https://www.manualslib.com/manual/2684427/Suntec-Pok-1.html"
+  },
+  {
+   "manualId": "1069672",
+   "slug": "Suntec-Stp205s-24-AdPlus",
+   "title": "PLTUO245-Wde installation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "PLTUO245-Wde",
+   "extraModels": [
+    "PLTUO245-Wde",
+    "PLUTO180-Ade",
+    "PLUTO190-Ade",
+    "PLUTO195-Ade",
+    "PLUTO200-Ade",
+    "PLUTO230-Wde",
+    "PLUTO230-Wdm",
+    "PLUTO235-Wde",
+    "PLUTO235-Wdm",
+    "PLUTO240-Wde",
+    "PLUTO240-Wdm",
+    "PLUTO245-Wdm",
+    "PLUTO250-Wdm",
+    "PLUTO255-Wdm",
+    "PLUTO260-WdM",
+    "PLUTO280-Vdm",
+    "PLUTO280-Vdx",
+    "PLUTO285-Vdm",
+    "PLUTO285-Vdx",
+    "PLUTO290-Vdm",
+    "PLUTO290-Vdx",
+    "PLUTO295-Vdm",
+    "PLUTO295-Vdx",
+    "PLUTO300-Vdm",
+    "PLUTO305-Vdm",
+    "PLUTO310-Vdm",
+    "STP175S-24/Ad+",
+    "STP180S-24/Ad+",
+    "STP180S-24/Adb+",
+    "STP185S-24/Ad+",
+    "STP185S-24/Adb+",
+    "STP190S-24/Ad+",
+    "STP190S-24/Adb+",
+    "STP195S-24/Ad+",
+    "STP195S-24/Adb+",
+    "STP200S-24/Ad+",
+    "STP210-20/Wd",
+    "STP215-20/Wd",
+    "STP220-20/Wd",
+    "STP230-20/Wd",
+    "STP235-20/Wd",
+    "STP235S-20/Wdb",
+    "STP240-20/Wd",
+    "STP240S-20/Wd",
+    "STP240S-20/Wdb",
+    "STP245-20/Wd",
+    "STP245S-20/Wd",
+    "STP245S-20/Wdb",
+    "STP250-20/Wd",
+    "STP250S-20/Wd",
+    "STP250S-20/Wdb",
+    "STP255-20/Wd",
+    "STP255S-20/Wd",
+    "STP255S-20/Wdb",
+    "STP260-20/Wd",
+    "STP260-24/Vd",
+    "STP260-24/Vdx",
+    "STP260S-20/Wd",
+    "STP260S-20/Wdb",
+    "STP265S-20/Wd",
+    "STP265S-20/Wdb",
+    "STP270-24/Vd",
+    "STP270-24/Vdx",
+    "STP275-24/Vd",
+    "STP275-24/Vdx",
+    "STP280-24/Vdx",
+    "STP290-24/Vdx",
+    "Superpoly STP280-24/Vd",
+    "Superpoly STP300-24/Vd",
+    "Superpoly STP305-24/Vd",
+    "Superpoly STP310-24/Vd"
+   ],
+   "url": "https://www.manualslib.com/manual/1069672/Suntec-Stp205s-24-AdPlus.html"
+  },
+  {
+   "manualId": "1883093",
+   "slug": "Suntec-Pop-8618-Fat-Free",
+   "title": "POP-8618 fat free instruction manual",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": "POP-8618 fat free",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1883093/Suntec-Pop-8618-Fat-Free.html"
+  },
+  {
+   "manualId": "2684477",
+   "slug": "Suntec-Sbw-100",
+   "title": "SBW-100 instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "SBW-100",
+   "extraModels": [
+    "SBW-200"
+   ],
+   "url": "https://www.manualslib.com/manual/2684477/Suntec-Sbw-100.html"
+  },
+  {
+   "manualId": "4227115",
+   "slug": "Suntec-Ilmo2-Io-50-Wt",
+   "title": "Setting instructions",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4227115/Suntec-Ilmo2-Io-50-Wt.html"
+  },
+  {
+   "manualId": "3004785",
+   "slug": "Suntec-Sp800",
+   "title": "SP1000 Manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "SP1000",
+   "extraModels": [
+    "SP1000",
+    "SP1000C",
+    "SP800C"
+   ],
+   "url": "https://www.manualslib.com/manual/3004785/Suntec-Sp800.html"
+  },
+  {
+   "manualId": "3319533",
+   "slug": "Suntec-Sp500c-Pro",
+   "title": "SP1000C operating manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "SP1000C",
+   "extraModels": [
+    "SP1000C",
+    "SP1500C Pro"
+   ],
+   "url": "https://www.manualslib.com/manual/3319533/Suntec-Sp500c-Pro.html"
+  },
+  {
+   "manualId": "3835286",
+   "slug": "Suntec-Stp225-20-Wd",
+   "title": "STP225-20/Wd installation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "STP225-20/Wd",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3835286/Suntec-Stp225-20-Wd.html"
+  },
+  {
+   "manualId": "3835289",
+   "slug": "Suntec-Superpoly-Stp285-24-Vd",
+   "title": "Superpoly STP285-24/Vd installation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Superpoly STP285-24/Vd",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3835289/Suntec-Superpoly-Stp285-24-Vd.html"
+  },
+  {
+   "manualId": "3835288",
+   "slug": "Suntec-Superpoly-Stp290-24-Vd",
+   "title": "Superpoly STP290-24/Vd installation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Superpoly STP290-24/Vd",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3835288/Suntec-Superpoly-Stp290-24-Vd.html"
+  },
+  {
+   "manualId": "3835287",
+   "slug": "Suntec-Superpoly-Stp295-24-Vd",
+   "title": "Superpoly STP295-24/Vd installation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Superpoly STP295-24/Vd",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3835287/Suntec-Superpoly-Stp295-24-Vd.html"
+  },
+  {
+   "manualId": "875424",
+   "slug": "Suntec-Tm-5h",
+   "title": "TM-5H operating manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "TM-5H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/875424/Suntec-Tm-5h.html"
+  },
+  {
+   "manualId": "2351458",
+   "slug": "Suntec-Toa-9028",
+   "title": "TOA-9028 instruction manual",
+   "type": "User / Owner",
+   "pages": 38,
+   "productModel": "TOA-9028",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2351458/Suntec-Toa-9028.html"
+  },
+  {
+   "manualId": "4226520",
+   "slug": "Suntec-Hb200",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4226520/Suntec-Hb200.html"
+  },
+  {
+   "manualId": "1996981",
+   "slug": "Suntec-Wak-8304",
+   "title": "WAK-8304 instruction manual",
+   "type": "User / Owner",
+   "pages": 33,
+   "productModel": "WAK-8304",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1996981/Suntec-Wak-8304.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "suntec"
+ ]
+}

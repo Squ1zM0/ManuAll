@@ -1,0 +1,150 @@
+{
+ "brand": "Engineered air",
+ "brandSlug": "engineered-air",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/engineered-air/"
+ ],
+ "slugUsed": "engineered-air",
+ "capturedAt": "2026-10-28T07:05:09.368051+00:00",
+ "typePages": [
+  {
+   "path": "/brand/engineered-air/air-cleaner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/engineered-air/controller.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/engineered-air/dehumidifier.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/engineered-air/heat-pump.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/engineered-air/heater.html",
+   "manuals": 4,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2225163",
+   "slug": "Engineered-Air-Base",
+   "title": "base user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "base",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2225163/Engineered-Air-Base.html"
+  },
+  {
+   "manualId": "3825827",
+   "slug": "Engineered-Air-Dg-Series",
+   "title": "DG SERIES Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 35,
+   "productModel": "DG SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3825827/Engineered-Air-Dg-Series.html"
+  },
+  {
+   "manualId": "823324",
+   "slug": "Engineered-Air-Dj-Series",
+   "title": "DJ Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 35,
+   "productModel": "DJ Series",
+   "extraModels": [
+    "DJE Series",
+    "DJS Series"
+   ],
+   "url": "https://www.manualslib.com/manual/823324/Engineered-Air-Dj-Series.html"
+  },
+  {
+   "manualId": "2041877",
+   "slug": "Engineered-Air-Enga-Cu-Series",
+   "title": "EngA CU Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 46,
+   "productModel": "EngA CU Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2041877/Engineered-Air-Enga-Cu-Series.html"
+  },
+  {
+   "manualId": "2057927",
+   "slug": "Engineered-Air-Enga-G-Trac2",
+   "title": "EngA G-TRAC2 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 42,
+   "productModel": "EngA G-TRAC2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2057927/Engineered-Air-Enga-G-Trac2.html"
+  },
+  {
+   "manualId": "2052740",
+   "slug": "Engineered-Air-Enga-M-Trac1",
+   "title": "EngA M-TRAC1 User's operation manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "EngA M-TRAC1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2052740/Engineered-Air-Enga-M-Trac1.html"
+  },
+  {
+   "manualId": "2061662",
+   "slug": "Engineered-Air-Enga-M-Trac4",
+   "title": "EngA M-TRAC4 User's operation manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "EngA M-TRAC4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2061662/Engineered-Air-Enga-M-Trac4.html"
+  },
+  {
+   "manualId": "2208918",
+   "slug": "Engineered-Air-Enga-W-Trac",
+   "title": "EngA W-TRAC Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "EngA W-TRAC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2208918/Engineered-Air-Enga-W-Trac.html"
+  },
+  {
+   "manualId": "1224060",
+   "slug": "Engineered-Air-Pd-Series",
+   "title": "PD SERIES Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "PD SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1224060/Engineered-Air-Pd-Series.html"
+  },
+  {
+   "manualId": "2008277",
+   "slug": "Engineered-Air-Trimed-Gh-Series",
+   "title": "TriMed GH Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "TriMed GH Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2008277/Engineered-Air-Trimed-Gh-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "engineered-air-llc"
+ ]
+}

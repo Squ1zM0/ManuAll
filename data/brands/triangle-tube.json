@@ -1,0 +1,2930 @@
+{
+ "brand": "TriangleTube",
+ "brandSlug": "triangle-tube",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/triangle-tube/"
+ ],
+ "slugUsed": "triangle-tube",
+ "capturedAt": "2026-10-28T09:31:21.795352+00:00",
+ "typePages": [
+  {
+   "path": "/brand/triangletube/speaker-system.html",
+   "manuals": 27,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/accessories.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/air-handlers.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/amplifier.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/boiler.html",
+   "manuals": 244,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/boiler-supplies.html",
+   "manuals": 63,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/burner.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/control-panel.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/control-unit.html",
+   "manuals": 34,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/controller.html",
+   "manuals": 65,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/electric-heater.html",
+   "manuals": 28,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/fan.html",
+   "manuals": 63,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/gas-detectors.html",
+   "manuals": 43,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/gas-heater.html",
+   "manuals": 27,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/heater.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/industrial-equipment.html",
+   "manuals": 59,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/irrigation-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/lighting-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/marine-audio.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/media-player.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/monitor.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/other.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/racks-and-stands.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/receiver.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/speakers.html",
+   "manuals": 221,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/stereo-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/subwoofer.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/temperature-controller.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/thermostat.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/turntable.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/water-heater.html",
+   "manuals": 138,
+   "status": 200
+  },
+  {
+   "path": "/brand/triangletube/wireless-router.html",
+   "manuals": 3,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1895771",
+   "slug": "Triangletube-1-Series",
+   "title": "1 Series Installation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "1 Series",
+   "extraModels": [
+    "2 Series",
+    "3 Series",
+    "4 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1895771/Triangletube-1-Series.html"
+  },
+  {
+   "manualId": "2519842",
+   "slug": "Triangletube-Gamme-Odyssey",
+   "title": "2819422 owner's manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "2819422",
+   "extraModels": [
+    "2819422"
+   ],
+   "url": "https://www.manualslib.com/manual/2519842/Triangletube-Gamme-Odyssey.html"
+  },
+  {
+   "manualId": "3250283",
+   "slug": "Triangletube-Cardinal-30",
+   "title": "30 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "30",
+   "extraModels": [
+    "40",
+    "Cardinal 100",
+    "Cardinal 50"
+   ],
+   "url": "https://www.manualslib.com/manual/3250283/Triangletube-Cardinal-30.html"
+  },
+  {
+   "manualId": "37347",
+   "slug": "Triangletube-Delta-Elite-F-25",
+   "title": "30 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 57,
+   "productModel": "30",
+   "extraModels": [
+    "30",
+    "35",
+    "40",
+    "45",
+    "Delta Elite F-30",
+    "Delta Elite F-35",
+    "Delta Elite F-40",
+    "Delta Elite F-45"
+   ],
+   "url": "https://www.manualslib.com/manual/37347/Triangletube-Delta-Elite-F-25.html"
+  },
+  {
+   "manualId": "2194812",
+   "slug": "Triangletube-Ginius-35",
+   "title": "35 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "35",
+   "extraModels": [
+    "45",
+    "GINIUS 55",
+    "GINIUS 65"
+   ],
+   "url": "https://www.manualslib.com/manual/2194812/Triangletube-Ginius-35.html"
+  },
+  {
+   "manualId": "4568999",
+   "slug": "Triangletube-Magellan-Quatuor-40",
+   "title": "40 User'smanual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "40",
+   "extraModels": [
+    "MAGELLAN CELLO 40",
+    "MAGELLAN VOCE 40"
+   ],
+   "url": "https://www.manualslib.com/manual/4568999/Triangletube-Magellan-Quatuor-40.html"
+  },
+  {
+   "manualId": "2210805",
+   "slug": "Triangletube-40th-Anniversary-Comete",
+   "title": "40th anniversary COMETE User Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "40th anniversary COMETE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2210805/Triangletube-40th-Anniversary-Comete.html"
+  },
+  {
+   "manualId": "4566659",
+   "slug": "Triangletube-40th-Anniversary-Series",
+   "title": "40th anniversary COMETE User's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "40th anniversary COMETE",
+   "extraModels": [
+    "ANTAL",
+    "COMETE"
+   ],
+   "url": "https://www.manualslib.com/manual/4566659/Triangletube-40th-Anniversary-Series.html"
+  },
+  {
+   "manualId": "1553349",
+   "slug": "Triangletube-902-Series",
+   "title": "902 series owner's manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "902 series",
+   "extraModels": [
+    "ANTAL",
+    "CELIUS",
+    "COMETE",
+    "SEXTAN",
+    "ZERIUS"
+   ],
+   "url": "https://www.manualslib.com/manual/1553349/Triangletube-902-Series.html"
+  },
+  {
+   "manualId": "4566648",
+   "slug": "Triangletube-902-Series",
+   "title": "902 series Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "902 series",
+   "extraModels": [
+    "ANTAL",
+    "CELIUS",
+    "COMETE",
+    "SEXTAN",
+    "ZERIUS"
+   ],
+   "url": "https://www.manualslib.com/manual/4566648/Triangletube-902-Series.html"
+  },
+  {
+   "manualId": "3550169",
+   "slug": "Triangletube-Hm-G-Series",
+   "title": "Addendum Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3550169/Triangletube-Hm-G-Series.html"
+  },
+  {
+   "manualId": "2078631",
+   "slug": "Triangletube-Aio",
+   "title": "AIO C owner's manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "AIO C",
+   "extraModels": [
+    "AIO C"
+   ],
+   "url": "https://www.manualslib.com/manual/2078631/Triangletube-Aio.html"
+  },
+  {
+   "manualId": "1773001",
+   "slug": "Triangletube-Aio-C",
+   "title": "AIO C user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "AIO C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1773001/Triangletube-Aio-C.html"
+  },
+  {
+   "manualId": "1991076",
+   "slug": "Triangletube-Aio",
+   "title": "AIO Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 42,
+   "productModel": "AIO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1991076/Triangletube-Aio.html"
+  },
+  {
+   "manualId": "1650254",
+   "slug": "Triangletube-Aio-Pro-A50",
+   "title": "AIO Pro A50 Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "AIO Pro A50",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1650254/Triangletube-Aio-Pro-A50.html"
+  },
+  {
+   "manualId": "3766306",
+   "slug": "Triangletube-Aio-Pro-A50",
+   "title": "AIO Pro A50 Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 50,
+   "productModel": "AIO Pro A50",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3766306/Triangletube-Aio-Pro-A50.html"
+  },
+  {
+   "manualId": "4148477",
+   "slug": "Triangletube-Aio-Twin",
+   "title": "AIO TWIN owner's manual",
+   "type": "User / Owner",
+   "pages": 67,
+   "productModel": "AIO TWIN",
+   "extraModels": [
+    "TEB37 AI",
+    "TEB37 AJ",
+    "TEB37 AK",
+    "TEB37 AL",
+    "TEB37 AM",
+    "TEB37 F",
+    "TEB37 G"
+   ],
+   "url": "https://www.manualslib.com/manual/4148477/Triangletube-Aio-Twin.html"
+  },
+  {
+   "manualId": "2222841",
+   "slug": "Triangletube-Aio-Twin",
+   "title": "AIO TWIN Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 31,
+   "productModel": "AIO TWIN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2222841/Triangletube-Aio-Twin.html"
+  },
+  {
+   "manualId": "4566777",
+   "slug": "Triangletube-Aio-Twin",
+   "title": "AIO TWIN Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 58,
+   "productModel": "AIO TWIN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4566777/Triangletube-Aio-Twin.html"
+  },
+  {
+   "manualId": "4043745",
+   "slug": "Triangletube-Aio-Twin",
+   "title": "AIO TWIN quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "AIO TWIN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4043745/Triangletube-Aio-Twin.html"
+  },
+  {
+   "manualId": "1600098",
+   "slug": "Triangletube-Aio3",
+   "title": "AIO3 owner's manual",
+   "type": "User / Owner",
+   "pages": 42,
+   "productModel": "AIO3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1600098/Triangletube-Aio3.html"
+  },
+  {
+   "manualId": "1039869",
+   "slug": "Triangletube-Zerius-902",
+   "title": "Antal 902 owner's manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "Antal 902",
+   "extraModels": [
+    "Antal 902",
+    "Celius 902",
+    "Comete 902",
+    "Sextan 902"
+   ],
+   "url": "https://www.manualslib.com/manual/1039869/Triangletube-Zerius-902.html"
+  },
+  {
+   "manualId": "1756021",
+   "slug": "Triangletube-Voce",
+   "title": "ANTAL owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "ANTAL",
+   "extraModels": [
+    "ANTAL",
+    "AUSTRALE",
+    "ESPRIT Ez Series",
+    "GAIA",
+    "HEYDA",
+    "TITUS"
+   ],
+   "url": "https://www.manualslib.com/manual/1756021/Triangletube-Voce.html"
+  },
+  {
+   "manualId": "2429346",
+   "slug": "Triangletube-Pgrkit30",
+   "title": "Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2429346/Triangletube-Pgrkit30.html"
+  },
+  {
+   "manualId": "2429342",
+   "slug": "Triangletube-Pgrkit25",
+   "title": "Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2429342/Triangletube-Pgrkit25.html"
+  },
+  {
+   "manualId": "2857417",
+   "slug": "Triangletube-S08",
+   "title": "Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2857417/Triangletube-S08.html"
+  },
+  {
+   "manualId": "2862507",
+   "slug": "Triangletube-S08c",
+   "title": "Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2862507/Triangletube-S08c.html"
+  },
+  {
+   "manualId": "2833951",
+   "slug": "Triangletube-S01",
+   "title": "Assembly manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2833951/Triangletube-S01.html"
+  },
+  {
+   "manualId": "4103494",
+   "slug": "Triangletube-S04",
+   "title": "Assembly manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4103494/Triangletube-S04.html"
+  },
+  {
+   "manualId": "4259562",
+   "slug": "Triangletube-S02",
+   "title": "Assembly manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4259562/Triangletube-S02.html"
+  },
+  {
+   "manualId": "4333046",
+   "slug": "Triangletube-S02",
+   "title": "Assembly manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4333046/Triangletube-S02.html"
+  },
+  {
+   "manualId": "2858743",
+   "slug": "Triangletube-Ccrkit36",
+   "title": "Assembly Replacement",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2858743/Triangletube-Ccrkit36.html"
+  },
+  {
+   "manualId": "2479993",
+   "slug": "Triangletube-Borea-Bra1",
+   "title": "BOREA BR02 user manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "BOREA BR02",
+   "extraModels": [
+    "BOREA BR02",
+    "BOREA BR03",
+    "BOREA BR07",
+    "BOREA BR08",
+    "BOREA BR09",
+    "BOREA BRC1"
+   ],
+   "url": "https://www.manualslib.com/manual/2479993/Triangletube-Borea-Bra1.html"
+  },
+  {
+   "manualId": "3736176",
+   "slug": "Triangletube-Borea-Brc01",
+   "title": "BOREA BR08 Owner's manual & warranty",
+   "type": "User / Owner",
+   "pages": 31,
+   "productModel": "BOREA BR08",
+   "extraModels": [
+    "BOREA BR08",
+    "BOREA BR09",
+    "BOREA BRA1"
+   ],
+   "url": "https://www.manualslib.com/manual/3736176/Triangletube-Borea-Brc01.html"
+  },
+  {
+   "manualId": "3386380",
+   "slug": "Triangletube-Br10",
+   "title": "BR10 Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 33,
+   "productModel": "BR10",
+   "extraModels": [
+    "BOREA CONNECT"
+   ],
+   "url": "https://www.manualslib.com/manual/3386380/Triangletube-Br10.html"
+  },
+  {
+   "manualId": "3696399",
+   "slug": "Triangletube-Capella",
+   "title": "CAPELLA Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 118,
+   "productModel": "CAPELLA",
+   "extraModels": [
+    "CAPELLA TEA8 BL",
+    "CAPELLA TEA8 BU",
+    "CAPELLA TEA8 BW",
+    "CAPELLA TEA8 BX",
+    "CAPELLA TEA8 BY",
+    "CAPELLA TEA8 BZ",
+    "CAPELLA TEA8 CA"
+   ],
+   "url": "https://www.manualslib.com/manual/3696399/Triangletube-Capella.html"
+  },
+  {
+   "manualId": "3528523",
+   "slug": "Triangletube-Capella-Series",
+   "title": "Capella Series Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 76,
+   "productModel": "Capella Series",
+   "extraModels": [
+    "CAPELLA TEA8 BL",
+    "CAPELLA TEA8 BU",
+    "CAPELLA TEA8 BW",
+    "CAPELLA TEA8 BX",
+    "CAPELLA TEA8 BY",
+    "CAPELLA TEA8 BZ",
+    "CAPELLA TEA8 CA"
+   ],
+   "url": "https://www.manualslib.com/manual/3528523/Triangletube-Capella-Series.html"
+  },
+  {
+   "manualId": "3514399",
+   "slug": "Triangletube-Capella-Tea8-Bl",
+   "title": "CAPELLA TEA8 BL user manual",
+   "type": "User / Owner",
+   "pages": 149,
+   "productModel": "CAPELLA TEA8 BL",
+   "extraModels": [
+    "CAPELLA TEA8 BU",
+    "CAPELLA TEA8 BW",
+    "CAPELLA TEA8 BX",
+    "CAPELLA TEA8 BY",
+    "CAPELLA TEA8 BZ",
+    "CAPELLA TEA8 CA"
+   ],
+   "url": "https://www.manualslib.com/manual/3514399/Triangletube-Capella-Tea8-Bl.html"
+  },
+  {
+   "manualId": "3925912",
+   "slug": "Triangletube-Cardinal-60",
+   "title": "Cardinal 60 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Cardinal 60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3925912/Triangletube-Cardinal-60.html"
+  },
+  {
+   "manualId": "3925913",
+   "slug": "Triangletube-Cardinal-80",
+   "title": "Cardinal 80 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Cardinal 80",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3925913/Triangletube-Cardinal-80.html"
+  },
+  {
+   "manualId": "705796",
+   "slug": "Triangletube-Challenger-Cc-85",
+   "title": "CHALLENGER CC 105 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 92,
+   "productModel": "CHALLENGER CC 105",
+   "extraModels": [
+    "CHALLENGER CC 105",
+    "CHALLENGER CC 125"
+   ],
+   "url": "https://www.manualslib.com/manual/705796/Triangletube-Challenger-Cc-85.html"
+  },
+  {
+   "manualId": "2096576",
+   "slug": "Triangletube-Challenger-Ccrkit64",
+   "title": "CHALLENGER CC 105 Instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "CHALLENGER CC 105",
+   "extraModels": [
+    "CHALLENGER CC 105",
+    "CHALLENGER CC 125",
+    "CHALLENGER CC 85"
+   ],
+   "url": "https://www.manualslib.com/manual/2096576/Triangletube-Challenger-Ccrkit64.html"
+  },
+  {
+   "manualId": "1469413",
+   "slug": "Triangletube-The-Challenger",
+   "title": "Challenger Installation and maintenance manual",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "Challenger",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1469413/Triangletube-The-Challenger.html"
+  },
+  {
+   "manualId": "805387",
+   "slug": "Triangletube-Challenger",
+   "title": "Challenger Installation and maintenance manual",
+   "type": "Service",
+   "pages": 92,
+   "productModel": "Challenger",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/805387/Triangletube-Challenger.html"
+  },
+  {
+   "manualId": "731001",
+   "slug": "Triangletube-Challenger",
+   "title": "Challenger User's information manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Challenger",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/731001/Triangletube-Challenger.html"
+  },
+  {
+   "manualId": "1784524",
+   "slug": "Triangletube-Color123",
+   "title": "COLOR123 Manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "COLOR123",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1784524/Triangletube-Color123.html"
+  },
+  {
+   "manualId": "3581210",
+   "slug": "Triangletube-Parkit64",
+   "title": "Conversion Instructions",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3581210/Triangletube-Parkit64.html"
+  },
+  {
+   "manualId": "3582068",
+   "slug": "Triangletube-Parkit62",
+   "title": "Conversion instructions",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3582068/Triangletube-Parkit62.html"
+  },
+  {
+   "manualId": "3158725",
+   "slug": "Triangletube-Exrkit131",
+   "title": "Conversion Kit Instructions",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3158725/Triangletube-Exrkit131.html"
+  },
+  {
+   "manualId": "1727538",
+   "slug": "Triangletube-Delta-Elite-F-25",
+   "title": "Delta Elite F-25 instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Delta Elite F-25",
+   "extraModels": [
+    "Delta Elite F-30",
+    "Delta Elite F-35"
+   ],
+   "url": "https://www.manualslib.com/manual/1727538/Triangletube-Delta-Elite-F-25.html"
+  },
+  {
+   "manualId": "1714115",
+   "slug": "Triangletube-Delta-Elite-Series",
+   "title": "Delta Elite F-25 Service technician's trouble shooting manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Delta Elite F-25",
+   "extraModels": [
+    "Delta Elite F-25",
+    "Delta Elite F-30",
+    "Delta Elite F-35",
+    "Delta Elite F-40",
+    "Delta Elite F-45",
+    "Delta performance PG-25",
+    "Delta performance PG-30",
+    "Delta performance PG-35",
+    "Delta performance PG-40",
+    "Delta performance PG-45"
+   ],
+   "url": "https://www.manualslib.com/manual/1714115/Triangletube-Delta-Elite-Series.html"
+  },
+  {
+   "manualId": "1666471",
+   "slug": "Triangletube-Delta",
+   "title": "Delta Installation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "Delta",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1666471/Triangletube-Delta.html"
+  },
+  {
+   "manualId": "3765567",
+   "slug": "Triangletube-Elara-Active-Series",
+   "title": "ELARA ACTIVE Series Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 39,
+   "productModel": "ELARA ACTIVE Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3765567/Triangletube-Elara-Active-Series.html"
+  },
+  {
+   "manualId": "4088993",
+   "slug": "Triangletube-Elara-Active-Series",
+   "title": "ELARA ACTIVE Series user manual",
+   "type": "User / Owner",
+   "pages": 43,
+   "productModel": "ELARA ACTIVE Series",
+   "extraModels": [
+    "ELARA LN01A",
+    "ELARA LN05A"
+   ],
+   "url": "https://www.manualslib.com/manual/4088993/Triangletube-Elara-Active-Series.html"
+  },
+  {
+   "manualId": "2702169",
+   "slug": "Triangletube-Elara-Ln02",
+   "title": "ELARA LN02 Owner's manual & warranty",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "ELARA LN02",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2702169/Triangletube-Elara-Ln02.html"
+  },
+  {
+   "manualId": "1054715",
+   "slug": "Triangletube-Elara-Ln05",
+   "title": "ELARA LN05 Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "ELARA LN05",
+   "extraModels": [
+    "ELARA LN07"
+   ],
+   "url": "https://www.manualslib.com/manual/1054715/Triangletube-Elara-Ln05.html"
+  },
+  {
+   "manualId": "4187935",
+   "slug": "Triangletube-Elara-Ln01",
+   "title": "ELARA LN05 Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "ELARA LN05",
+   "extraModels": [
+    "ELARA LN05",
+    "ELARA LN07",
+    "ELARA LN02"
+   ],
+   "url": "https://www.manualslib.com/manual/4187935/Triangletube-Elara-Ln01.html"
+  },
+  {
+   "manualId": "4201461",
+   "slug": "Triangletube-Elara",
+   "title": "ELARA LN05 Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "ELARA LN05",
+   "extraModels": [
+    "ELARA LN05",
+    "ELARA LN07",
+    "ELARA LN01",
+    "ELARA LN02"
+   ],
+   "url": "https://www.manualslib.com/manual/4201461/Triangletube-Elara.html"
+  },
+  {
+   "manualId": "1885216",
+   "slug": "Triangletube-Esprit-Ex",
+   "title": "ESPRIT EX owner's manual",
+   "type": "User / Owner",
+   "pages": 29,
+   "productModel": "ESPRIT EX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1885216/Triangletube-Esprit-Ex.html"
+  },
+  {
+   "manualId": "3169805",
+   "slug": "Triangletube-Esprit-Ez",
+   "title": "ESPRIT Ez Owner's manual & warranty",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "ESPRIT Ez",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3169805/Triangletube-Esprit-Ez.html"
+  },
+  {
+   "manualId": "943520",
+   "slug": "Triangletube-Esprit-Ez",
+   "title": "ESPRIT Ez Owner's manual and warranty",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "ESPRIT Ez",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/943520/Triangletube-Esprit-Ez.html"
+  },
+  {
+   "manualId": "706681",
+   "slug": "Triangletube-Prestige-Excellence",
+   "title": "Excellence Installation and Maintenance manual",
+   "type": "Service",
+   "pages": 77,
+   "productModel": "Excellence",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/706681/Triangletube-Prestige-Excellence.html"
+  },
+  {
+   "manualId": "2546896",
+   "slug": "Triangletube-Secret-Ext",
+   "title": "EXT7 owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "EXT7",
+   "extraModels": [
+    "EXT7",
+    "SECRET EXT Series",
+    "SECRET EXT5",
+    "SECRET EXT8"
+   ],
+   "url": "https://www.manualslib.com/manual/2546896/Triangletube-Secret-Ext.html"
+  },
+  {
+   "manualId": "4566649",
+   "slug": "Triangletube-Genese-Series",
+   "title": "GENESE Series Owner's manual & warranty",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "GENESE Series",
+   "extraModels": [
+    "LYRR",
+    "QUARTET",
+    "TRIO",
+    "VOCE"
+   ],
+   "url": "https://www.manualslib.com/manual/4566649/Triangletube-Genese-Series.html"
+  },
+  {
+   "manualId": "1427128",
+   "slug": "Triangletube-Tr-20",
+   "title": "HL-20 Service technician manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "HL-20",
+   "extraModels": [
+    "HL-20",
+    "HL-30",
+    "SMART 100",
+    "SMART 120",
+    "SMART 20",
+    "SMART 30",
+    "SMART 40",
+    "SMART 50",
+    "SMART 60",
+    "SMART 80",
+    "TR-120",
+    "TR-30",
+    "TR-45",
+    "TR-60",
+    "TR-75"
+   ],
+   "url": "https://www.manualslib.com/manual/1427128/Triangletube-Tr-20.html"
+  },
+  {
+   "manualId": "3849636",
+   "slug": "Triangletube-Hl-36",
+   "title": "HL-36 Service technician manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "HL-36",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3849636/Triangletube-Hl-36.html"
+  },
+  {
+   "manualId": "3849637",
+   "slug": "Triangletube-Hl-45",
+   "title": "HL-45 Service technician manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "HL-45",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3849637/Triangletube-Hl-45.html"
+  },
+  {
+   "manualId": "3849638",
+   "slug": "Triangletube-Hl-60",
+   "title": "HL-60 Service technician manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "HL-60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3849638/Triangletube-Hl-60.html"
+  },
+  {
+   "manualId": "1631435",
+   "slug": "Triangletube-Phase-Iii-Hm-Series",
+   "title": "HM G-25 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 34,
+   "productModel": "HM G-25",
+   "extraModels": [
+    "HM G-25",
+    "HM G-30"
+   ],
+   "url": "https://www.manualslib.com/manual/1631435/Triangletube-Phase-Iii-Hm-Series.html"
+  },
+  {
+   "manualId": "3551971",
+   "slug": "Triangletube-Instinct-Solo-Series",
+   "title": "INS110S instructions manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "INS110S",
+   "extraModels": [
+    "INS110S",
+    "INS155C",
+    "INS155S",
+    "INS199C",
+    "INS199S",
+    "INSFS110S",
+    "INSFS155C",
+    "INSFS155S",
+    "INSFS199C",
+    "INSFS199S",
+    "Instinct  COMBI 155",
+    "Instinct  SOLO 155",
+    "Instinct  SOLO 199",
+    "Instinct COMBI 199",
+    "Instinct Combi Series",
+    "Instinct Solo 110"
+   ],
+   "url": "https://www.manualslib.com/manual/3551971/Triangletube-Instinct-Solo-Series.html"
+  },
+  {
+   "manualId": "3175363",
+   "slug": "Triangletube-Solo-155",
+   "title": "INS155S Installation & maintenance manual",
+   "type": "Service",
+   "pages": 120,
+   "productModel": "INS155S",
+   "extraModels": [
+    "INS155S",
+    "Instinct  COMBI 155",
+    "Instinct  SOLO 199",
+    "Instinct COMBI 199",
+    "Prestige Solo 110"
+   ],
+   "url": "https://www.manualslib.com/manual/3175363/Triangletube-Solo-155.html"
+  },
+  {
+   "manualId": "3718974",
+   "slug": "Triangletube-Parkit522",
+   "title": "Inspection And Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3718974/Triangletube-Parkit522.html"
+  },
+  {
+   "manualId": "1883758",
+   "slug": "Triangletube-Insrkit98",
+   "title": "INSRKIT100 Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "INSRKIT100",
+   "extraModels": [
+    "INSRKIT100",
+    "INSRKIT99"
+   ],
+   "url": "https://www.manualslib.com/manual/1883758/Triangletube-Insrkit98.html"
+  },
+  {
+   "manualId": "3138364",
+   "slug": "Triangletube-Insrkit124",
+   "title": "INSRKIT124 instruction manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "INSRKIT124",
+   "extraModels": [
+    "INSRKIT125",
+    "INSRKIT126",
+    "Instinct 110",
+    "Instinct 155",
+    "Instinct 199"
+   ],
+   "url": "https://www.manualslib.com/manual/3138364/Triangletube-Insrkit124.html"
+  },
+  {
+   "manualId": "1830272",
+   "slug": "Triangletube-Prestige-Trimax-175",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "PT 175"
+   ],
+   "url": "https://www.manualslib.com/manual/1830272/Triangletube-Prestige-Trimax-175.html"
+  },
+  {
+   "manualId": "3120933",
+   "slug": "Triangletube-Ptrkit305",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3120933/Triangletube-Ptrkit305.html"
+  },
+  {
+   "manualId": "2059896",
+   "slug": "Triangletube-Ttp-Series",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2059896/Triangletube-Ttp-Series.html"
+  },
+  {
+   "manualId": "1587437",
+   "slug": "Triangletube-Gpx-Series",
+   "title": "Installation, Operation & Repair Parts Information",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1587437/Triangletube-Gpx-Series.html"
+  },
+  {
+   "manualId": "2050936",
+   "slug": "Triangletube-Instinct-Solo-110",
+   "title": "Instinct COMBI 155 Application manual",
+   "type": "Other",
+   "pages": 25,
+   "productModel": "Instinct COMBI 155",
+   "extraModels": [
+    "Instinct  COMBI 155",
+    "Instinct  SOLO 155",
+    "Instinct  SOLO 199",
+    "Instinct COMBI 199"
+   ],
+   "url": "https://www.manualslib.com/manual/2050936/Triangletube-Instinct-Solo-110.html"
+  },
+  {
+   "manualId": "2420159",
+   "slug": "Triangletube-Instinct-Solo-110",
+   "title": "Instinct COMBI 155 Application manual",
+   "type": "Other",
+   "pages": 23,
+   "productModel": "Instinct COMBI 155",
+   "extraModels": [
+    "Instinct  COMBI 155",
+    "Instinct  SOLO 155",
+    "Instinct  SOLO 199",
+    "Instinct COMBI 199"
+   ],
+   "url": "https://www.manualslib.com/manual/2420159/Triangletube-Instinct-Solo-110.html"
+  },
+  {
+   "manualId": "1707722",
+   "slug": "Triangletube-Instinct-Solo-Series",
+   "title": "Instinct COMBI 155 Conversion Instructions",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "Instinct COMBI 155",
+   "extraModels": [
+    "Instinct  COMBI 155",
+    "Instinct  SOLO 155",
+    "Instinct  SOLO 199",
+    "Instinct COMBI 199",
+    "Instinct Combi Series",
+    "Instinct Solo 110",
+    "instinct SOLO 110"
+   ],
+   "url": "https://www.manualslib.com/manual/1707722/Triangletube-Instinct-Solo-Series.html"
+  },
+  {
+   "manualId": "1618785",
+   "slug": "Triangletube-Instinct-Solo-110",
+   "title": "Instinct COMBI 155 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 128,
+   "productModel": "Instinct COMBI 155",
+   "extraModels": [
+    "Instinct  COMBI 155",
+    "Instinct  SOLO 155",
+    "Instinct  SOLO 199",
+    "Instinct COMBI 199"
+   ],
+   "url": "https://www.manualslib.com/manual/1618785/Triangletube-Instinct-Solo-110.html"
+  },
+  {
+   "manualId": "2799553",
+   "slug": "Triangletube-Instinct-Fsb-Solo-110",
+   "title": "Instinct COMBI 155 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 128,
+   "productModel": "Instinct COMBI 155",
+   "extraModels": [
+    "Instinct  COMBI 155",
+    "Instinct  SOLO 155",
+    "Instinct  SOLO 199",
+    "Instinct COMBI 199"
+   ],
+   "url": "https://www.manualslib.com/manual/2799553/Triangletube-Instinct-Fsb-Solo-110.html"
+  },
+  {
+   "manualId": "3141337",
+   "slug": "Triangletube-Instinct-Solo-110",
+   "title": "Instinct COMBI 155 Instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "Instinct COMBI 155",
+   "extraModels": [
+    "Instinct  COMBI 155",
+    "Instinct  SOLO 155",
+    "Instinct  SOLO 199",
+    "Instinct COMBI 199"
+   ],
+   "url": "https://www.manualslib.com/manual/3141337/Triangletube-Instinct-Solo-110.html"
+  },
+  {
+   "manualId": "2050942",
+   "slug": "Triangletube-Instinct-Solo-110",
+   "title": "Instinct COMBI 155 Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "Instinct COMBI 155",
+   "extraModels": [
+    "Instinct  COMBI 155",
+    "Instinct  SOLO 155",
+    "Instinct  SOLO 199",
+    "Instinct COMBI 199"
+   ],
+   "url": "https://www.manualslib.com/manual/2050942/Triangletube-Instinct-Solo-110.html"
+  },
+  {
+   "manualId": "3125318",
+   "slug": "Triangletube-Instinct",
+   "title": "Instinct COMBI 155 Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "Instinct COMBI 155",
+   "extraModels": [
+    "Instinct  COMBI 155",
+    "Instinct  SOLO 155",
+    "Instinct  SOLO 199",
+    "Instinct COMBI 199",
+    "Instinct FSB",
+    "Prestige Solo 110"
+   ],
+   "url": "https://www.manualslib.com/manual/3125318/Triangletube-Instinct.html"
+  },
+  {
+   "manualId": "1744641",
+   "slug": "Triangletube-Ctrlmax-Prestige-Series",
+   "title": "Instinct COMBI 155 Supplement manual",
+   "type": "Other",
+   "pages": 84,
+   "productModel": "Instinct COMBI 155",
+   "extraModels": [
+    "Instinct  COMBI 155",
+    "Instinct  SOLO 155",
+    "Instinct  SOLO 199",
+    "Instinct COMBI 199",
+    "CTRLMax Heatmaster Series",
+    "CTRLMax Heatmaster TC 240",
+    "CTRLMax Heatmaster TC 299",
+    "CTRLMax Instinct Series",
+    "CTRLMax Prestige Excellence 110",
+    "CTRLMax Prestige Solo 110",
+    "CTRLMax Prestige Solo 155",
+    "CTRLMax Prestige Solo 175",
+    "CTRLMax Prestige Solo 250",
+    "CTRLMax Prestige Solo 299",
+    "CTRLMax Prestige Solo 399",
+    "CTRLMax Prestige Solo 80",
+    "CTRLMax Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1744641/Triangletube-Ctrlmax-Prestige-Series.html"
+  },
+  {
+   "manualId": "1627298",
+   "slug": "Triangletube-Instinct-Series",
+   "title": "Instinct COMBI 155 User's information manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "Instinct COMBI 155",
+   "extraModels": [
+    "Instinct  COMBI 155",
+    "Instinct  SOLO 155",
+    "Instinct  SOLO 199",
+    "Instinct COMBI 199",
+    "Instinct Solo 110",
+    "PRESTIGE Excellence 110",
+    "PRESTIGE Solo PA 110",
+    "PRESTIGE Solo PA 155",
+    "PRESTIGE Solo PA 175",
+    "PRESTIGE Solo PA 250",
+    "PRESTIGE Solo PA 299",
+    "PRESTIGE Solo PA 399",
+    "PRESTIGE Solo PA 80",
+    "instinct SOLO 110"
+   ],
+   "url": "https://www.manualslib.com/manual/1627298/Triangletube-Instinct-Series.html"
+  },
+  {
+   "manualId": "2577051",
+   "slug": "Triangletube-Instinct-Fsb",
+   "title": "Instinct FSB quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "Instinct FSB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2577051/Triangletube-Instinct-Fsb.html"
+  },
+  {
+   "manualId": "2630990",
+   "slug": "Triangletube-Instinct-Fsb-Solo-110-155-199",
+   "title": "instinct FSB SOLO 110-155-199 installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "instinct FSB SOLO 110-155-199",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2630990/Triangletube-Instinct-Fsb-Solo-110-155-199.html"
+  },
+  {
+   "manualId": "3198645",
+   "slug": "Triangletube-Instinct-Solo-155-199",
+   "title": "instinct FSB SOLO 110-155-199 Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "instinct FSB SOLO 110-155-199",
+   "extraModels": [
+    "instinct FSB SOLO 110-155-199"
+   ],
+   "url": "https://www.manualslib.com/manual/3198645/Triangletube-Instinct-Solo-155-199.html"
+  },
+  {
+   "manualId": "3138350",
+   "slug": "Triangletube-Instinct-110",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [
+    "Instinct 155",
+    "Instinct 199"
+   ],
+   "url": "https://www.manualslib.com/manual/3138350/Triangletube-Instinct-110.html"
+  },
+  {
+   "manualId": "1751447",
+   "slug": "Triangletube-Prestige-Solo-299",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [
+    "Prestige Solo 399"
+   ],
+   "url": "https://www.manualslib.com/manual/1751447/Triangletube-Prestige-Solo-299.html"
+  },
+  {
+   "manualId": "1781150",
+   "slug": "Triangletube-Prestige-Solo-155",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [
+    "Prestige Solo 175",
+    "Prestige Solo 250"
+   ],
+   "url": "https://www.manualslib.com/manual/1781150/Triangletube-Prestige-Solo-155.html"
+  },
+  {
+   "manualId": "1816095",
+   "slug": "Triangletube-Challenger-Ccrkit39",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1816095/Triangletube-Challenger-Ccrkit39.html"
+  },
+  {
+   "manualId": "1924426",
+   "slug": "Triangletube-Psstnd03",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1924426/Triangletube-Psstnd03.html"
+  },
+  {
+   "manualId": "1924428",
+   "slug": "Triangletube-Psstnd02",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1924428/Triangletube-Psstnd02.html"
+  },
+  {
+   "manualId": "2066892",
+   "slug": "Triangletube-Challenger-Cc50s",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [
+    "CHALLENGER CC 105",
+    "CHALLENGER CC 125",
+    "CHALLENGER CC 85"
+   ],
+   "url": "https://www.manualslib.com/manual/2066892/Triangletube-Challenger-Cc50s.html"
+  },
+  {
+   "manualId": "2155210",
+   "slug": "Triangletube-Psrkit53",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2155210/Triangletube-Psrkit53.html"
+  },
+  {
+   "manualId": "2239666",
+   "slug": "Triangletube-Psrkit11",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2239666/Triangletube-Psrkit11.html"
+  },
+  {
+   "manualId": "2239676",
+   "slug": "Triangletube-Psrkit38",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2239676/Triangletube-Psrkit38.html"
+  },
+  {
+   "manualId": "2428276",
+   "slug": "Triangletube-Insrkit08",
+   "title": "instructions manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2428276/Triangletube-Insrkit08.html"
+  },
+  {
+   "manualId": "3550366",
+   "slug": "Triangletube-Ionic-Cb-1250f",
+   "title": "IONIC CB 1250F Installation & service manual",
+   "type": "Service",
+   "pages": 188,
+   "productModel": "IONIC CB 1250F",
+   "extraModels": [
+    "IONIC CB 2000F",
+    "IONIC CB 3000F",
+    "IONIC CB 4000F",
+    "IONIC WH 1250F",
+    "IONIC WH 2000F",
+    "IONIC WH 3000F",
+    "IONIC WH 4000F"
+   ],
+   "url": "https://www.manualslib.com/manual/3550366/Triangletube-Ionic-Cb-1250f.html"
+  },
+  {
+   "manualId": "3513742",
+   "slug": "Triangletube-Ionic-Wcb-Series",
+   "title": "IONIC CB 299W Installation & service manual",
+   "type": "Service",
+   "pages": 154,
+   "productModel": "IONIC CB 299W",
+   "extraModels": [
+    "IONIC CB 299W",
+    "IONIC CB 399W",
+    "IONIC CB 470W",
+    "IONIC CB 500W"
+   ],
+   "url": "https://www.manualslib.com/manual/3513742/Triangletube-Ionic-Wcb-Series.html"
+  },
+  {
+   "manualId": "3526827",
+   "slug": "Triangletube-Ionic-Cb-299w",
+   "title": "IONIC CB 299W user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "IONIC CB 299W",
+   "extraModels": [
+    "IONIC CB 399W",
+    "IONIC CB 470W",
+    "IONIC CB 500W"
+   ],
+   "url": "https://www.manualslib.com/manual/3526827/Triangletube-Ionic-Cb-299w.html"
+  },
+  {
+   "manualId": "3546330",
+   "slug": "Triangletube-Ionic-Series",
+   "title": "Ionic Series Installation and service manual",
+   "type": "Service",
+   "pages": 152,
+   "productModel": "Ionic Series",
+   "extraModels": [
+    "WH 299W",
+    "WH 399W",
+    "WH 470W",
+    "WH 499W"
+   ],
+   "url": "https://www.manualslib.com/manual/3546330/Triangletube-Ionic-Series.html"
+  },
+  {
+   "manualId": "3526834",
+   "slug": "Triangletube-Ionic-Wh-299w",
+   "title": "IONIC WH 299W user manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "IONIC WH 299W",
+   "extraModels": [
+    "IONIC WH 399W",
+    "IONIC WH 470W",
+    "IONIC WH 500W"
+   ],
+   "url": "https://www.manualslib.com/manual/3526834/Triangletube-Ionic-Wh-299w.html"
+  },
+  {
+   "manualId": "2851741",
+   "slug": "Triangletube-Magellan-40th",
+   "title": "MAGELLAN 40TH user manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "MAGELLAN 40TH",
+   "extraModels": [
+    "MAGELLAN Cello 40TH",
+    "MAGELLAN Duetto 40th",
+    "MAGELLAN Quatuor 40th",
+    "MAGELLAN Voce 40th"
+   ],
+   "url": "https://www.manualslib.com/manual/2851741/Triangletube-Magellan-40th.html"
+  },
+  {
+   "manualId": "1461742",
+   "slug": "Triangletube-Magellan-Grand-Concert",
+   "title": "MAGELLAN CELLO Owner's manual & warranty",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": "MAGELLAN CELLO",
+   "extraModels": [
+    "MAGELLAN CELLO",
+    "MAGELLAN CONCERTO",
+    "MAGELLAN DUETTO",
+    "MAGELLAN GRAND CONCERT",
+    "MAGELLAN QUATUOR",
+    "MAGELLAN VOCE"
+   ],
+   "url": "https://www.manualslib.com/manual/1461742/Triangletube-Magellan-Grand-Concert.html"
+  },
+  {
+   "manualId": "1503577",
+   "slug": "Triangletube-Prestige-Trimax-Ptrkit109",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1503577/Triangletube-Prestige-Trimax-Ptrkit109.html"
+  },
+  {
+   "manualId": "1730770",
+   "slug": "Triangletube-Challenger-Ccrkit38",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1730770/Triangletube-Challenger-Ccrkit38.html"
+  },
+  {
+   "manualId": "1745737",
+   "slug": "Triangletube-Challenger-Cccon01-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [
+    "CHALLENGER CC 85"
+   ],
+   "url": "https://www.manualslib.com/manual/1745737/Triangletube-Challenger-Cccon01-Series.html"
+  },
+  {
+   "manualId": "1817501",
+   "slug": "Triangletube-Prestige-Parkit101",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1817501/Triangletube-Prestige-Parkit101.html"
+  },
+  {
+   "manualId": "1895544",
+   "slug": "Triangletube-Ptrkit112",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1895544/Triangletube-Ptrkit112.html"
+  },
+  {
+   "manualId": "1898763",
+   "slug": "Triangletube-Pgrkit01",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1898763/Triangletube-Pgrkit01.html"
+  },
+  {
+   "manualId": "1924411",
+   "slug": "Triangletube-Psrkit39",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1924411/Triangletube-Psrkit39.html"
+  },
+  {
+   "manualId": "1924419",
+   "slug": "Triangletube-Psrkit74",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1924419/Triangletube-Psrkit74.html"
+  },
+  {
+   "manualId": "1924421",
+   "slug": "Triangletube-Psrkit77",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1924421/Triangletube-Psrkit77.html"
+  },
+  {
+   "manualId": "1924422",
+   "slug": "Triangletube-Psrkit23",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1924422/Triangletube-Psrkit23.html"
+  },
+  {
+   "manualId": "1924424",
+   "slug": "Triangletube-Psrkit20",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1924424/Triangletube-Psrkit20.html"
+  },
+  {
+   "manualId": "1924425",
+   "slug": "Triangletube-Psrkit51",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1924425/Triangletube-Psrkit51.html"
+  },
+  {
+   "manualId": "1924429",
+   "slug": "Triangletube-Psrkit41",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1924429/Triangletube-Psrkit41.html"
+  },
+  {
+   "manualId": "1924430",
+   "slug": "Triangletube-Psstnd06",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1924430/Triangletube-Psstnd06.html"
+  },
+  {
+   "manualId": "1924431",
+   "slug": "Triangletube-Psrkit84",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1924431/Triangletube-Psrkit84.html"
+  },
+  {
+   "manualId": "2231421",
+   "slug": "Triangletube-Insrkit06",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2231421/Triangletube-Insrkit06.html"
+  },
+  {
+   "manualId": "2274705",
+   "slug": "Triangletube-Psrkit65",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2274705/Triangletube-Psrkit65.html"
+  },
+  {
+   "manualId": "3128460",
+   "slug": "Triangletube-Insrkit135",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [
+    "Instinct  SOLO 155",
+    "Instinct  SOLO 199",
+    "Prestige Solo 110"
+   ],
+   "url": "https://www.manualslib.com/manual/3128460/Triangletube-Insrkit135.html"
+  },
+  {
+   "manualId": "2383828",
+   "slug": "Triangletube-Marquis-Twh180lp",
+   "title": "Marquis TWH180 installation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "Marquis TWH180",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2383828/Triangletube-Marquis-Twh180lp.html"
+  },
+  {
+   "manualId": "1646256",
+   "slug": "Triangletube-Marquis-Twh180",
+   "title": "Marquis TWH180 user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Marquis TWH180",
+   "extraModels": [
+    "Marquis TWH180LP",
+    "Marquis TWH200",
+    "Marquis TWH200LP"
+   ],
+   "url": "https://www.manualslib.com/manual/1646256/Triangletube-Marquis-Twh180.html"
+  },
+  {
+   "manualId": "2274748",
+   "slug": "Triangletube-Maxi-Flo-Mf-350-Pt-Series",
+   "title": "MAXI-FLO MF 350 PT Series Installation and maintenance manual",
+   "type": "Service",
+   "pages": 10,
+   "productModel": "MAXI-FLO MF 350 PT Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2274748/Triangletube-Maxi-Flo-Mf-350-Pt-Series.html"
+  },
+  {
+   "manualId": "1925473",
+   "slug": "Triangletube-Maxi-Flo-Mf-135",
+   "title": "MAXI-FLO MF-135 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "MAXI-FLO MF-135",
+   "extraModels": [
+    "MAXI-FLO MF-135T",
+    "MAXI-FLO MF-200",
+    "MAXI-FLO MF-260",
+    "MAXI-FLO MF-260T",
+    "MAXI-FLO MF-400",
+    "MAXI-FLO MF-80"
+   ],
+   "url": "https://www.manualslib.com/manual/1925473/Triangletube-Maxi-Flo-Mf-135.html"
+  },
+  {
+   "manualId": "1625284",
+   "slug": "Triangletube-Optima-Series",
+   "title": "Optima Series Installation & Operation Instructions",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Optima Series",
+   "extraModels": [
+    "SCC4",
+    "SCCX6 Extension"
+   ],
+   "url": "https://www.manualslib.com/manual/1625284/Triangletube-Optima-Series.html"
+  },
+  {
+   "manualId": "2078913",
+   "slug": "Triangletube-Galaxy-2",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2078913/Triangletube-Galaxy-2.html"
+  },
+  {
+   "manualId": "1756288",
+   "slug": "Triangletube-Tr-Hl-Series",
+   "title": "P3KITTH01 Replacement instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "P3KITTH01",
+   "extraModels": [
+    "P3KITTH01",
+    "P3KITTH03",
+    "SMART Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1756288/Triangletube-Tr-Hl-Series.html"
+  },
+  {
+   "manualId": "3537888",
+   "slug": "Triangletube-Smart-316",
+   "title": "P3SMART100 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "P3SMART100",
+   "extraModels": [
+    "P3SMART100",
+    "P3SMART120",
+    "P3SMART30",
+    "P3SMART40",
+    "P3SMART60",
+    "P3SMART80",
+    "SMART 100",
+    "SMART 120",
+    "SMART 30",
+    "SMART 40",
+    "SMART 50",
+    "SMART 60",
+    "SMART 80"
+   ],
+   "url": "https://www.manualslib.com/manual/3537888/Triangletube-Smart-316.html"
+  },
+  {
+   "manualId": "3730471",
+   "slug": "Triangletube-Parkit242",
+   "title": "PARKIT242 installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "PARKIT242",
+   "extraModels": [
+    "PARKIT243",
+    "PARKIT244",
+    "PARKIT246",
+    "PARKIT247",
+    "PARKIT248",
+    "PARKIT249"
+   ],
+   "url": "https://www.manualslib.com/manual/3730471/Triangletube-Parkit242.html"
+  },
+  {
+   "manualId": "1743519",
+   "slug": "Triangletube-Phase-Iii-Hm-Series",
+   "title": "Phase III HM Series Installation and maintenance manual",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "Phase III HM Series",
+   "extraModels": [
+    "Phase III HM 100",
+    "Phase III HM 40",
+    "Phase III HM 45",
+    "Phase III HM 60",
+    "Phase III HM 80",
+    "Phase III HM 90"
+   ],
+   "url": "https://www.manualslib.com/manual/1743519/Triangletube-Phase-Iii-Hm-Series.html"
+  },
+  {
+   "manualId": "2141036",
+   "slug": "Triangletube-Prestige",
+   "title": "prestige Control supplement",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "prestige",
+   "extraModels": [
+    "Prestige Solo"
+   ],
+   "url": "https://www.manualslib.com/manual/2141036/Triangletube-Prestige.html"
+  },
+  {
+   "manualId": "1422608",
+   "slug": "Triangletube-Prestige-Excellence-110",
+   "title": "PRESTIGE Excellence 110 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 124,
+   "productModel": "PRESTIGE Excellence 110",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1422608/Triangletube-Prestige-Excellence-110.html"
+  },
+  {
+   "manualId": "1645383",
+   "slug": "Triangletube-Prestige-Series",
+   "title": "PRESTIGE Excellence 110 User's information manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "PRESTIGE Excellence 110",
+   "extraModels": [
+    "PRESTIGE Excellence 110",
+    "PRESTIGE Solo PA 110",
+    "PRESTIGE Solo PA 155",
+    "PRESTIGE Solo PA 175",
+    "PRESTIGE Solo PA 250",
+    "PRESTIGE Solo PA 299",
+    "PRESTIGE Solo PA 399",
+    "PRESTIGE Solo PA 80"
+   ],
+   "url": "https://www.manualslib.com/manual/1645383/Triangletube-Prestige-Series.html"
+  },
+  {
+   "manualId": "1445527",
+   "slug": "Triangletube-Prestige-Solo",
+   "title": "Prestige Excellence Installation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "Prestige Excellence",
+   "extraModels": [
+    "Prestige Excellence"
+   ],
+   "url": "https://www.manualslib.com/manual/1445527/Triangletube-Prestige-Solo.html"
+  },
+  {
+   "manualId": "3170625",
+   "slug": "Triangletube-Prestige-Excellence",
+   "title": "Prestige Excellence Installation and maintenance manual",
+   "type": "Service",
+   "pages": 27,
+   "productModel": "Prestige Excellence",
+   "extraModels": [
+    "PRESTIGE Excellence 110"
+   ],
+   "url": "https://www.manualslib.com/manual/3170625/Triangletube-Prestige-Excellence.html"
+  },
+  {
+   "manualId": "703906",
+   "slug": "Triangletube-Prestige-Excellence",
+   "title": "Prestige Excellence Installation and maintenance manual",
+   "type": "Service",
+   "pages": 112,
+   "productModel": "Prestige Excellence",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/703906/Triangletube-Prestige-Excellence.html"
+  },
+  {
+   "manualId": "704437",
+   "slug": "Triangletube-Prestige-Excellence",
+   "title": "Prestige Excellence Installation and maintenance manual",
+   "type": "Service",
+   "pages": 27,
+   "productModel": "Prestige Excellence",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/704437/Triangletube-Prestige-Excellence.html"
+  },
+  {
+   "manualId": "846695",
+   "slug": "Triangletube-Prestige-Excellence",
+   "title": "Prestige Excellence Installation and Maintenance manual",
+   "type": "Service",
+   "pages": 132,
+   "productModel": "Prestige Excellence",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/846695/Triangletube-Prestige-Excellence.html"
+  },
+  {
+   "manualId": "3683707",
+   "slug": "Triangletube-Prestige-Solo-Pt-60",
+   "title": "Prestige Excellence PEA 110 Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "Prestige Excellence PEA 110",
+   "extraModels": [
+    "Prestige Excellence PEA 110",
+    "PRESTIGE Solo PA 110",
+    "PRESTIGE Solo PA 155",
+    "PRESTIGE Solo PA 175",
+    "PRESTIGE Solo PA 250",
+    "PRESTIGE Solo PA 299",
+    "PRESTIGE Solo PA 399",
+    "PRESTIGE Solo PA 80",
+    "PT 175",
+    "PT 399",
+    "Prestige Excellence PTE 110",
+    "Prestige Solo PT 110",
+    "Prestige Solo PT 250"
+   ],
+   "url": "https://www.manualslib.com/manual/3683707/Triangletube-Prestige-Solo-Pt-60.html"
+  },
+  {
+   "manualId": "4609280",
+   "slug": "Triangletube-Prestige-Excellenve-110",
+   "title": "Prestige Excellence PEA 110 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 124,
+   "productModel": "Prestige Excellence PEA 110",
+   "extraModels": [
+    "Prestige Excellence PEA 110"
+   ],
+   "url": "https://www.manualslib.com/manual/4609280/Triangletube-Prestige-Excellenve-110.html"
+  },
+  {
+   "manualId": "1703016",
+   "slug": "Triangletube-Prestige-Excellence-Series",
+   "title": "PRESTIGE Excellence PSRKIT01 Manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "PRESTIGE Excellence PSRKIT01",
+   "extraModels": [
+    "PRESTIGE Excellence PSRKIT01",
+    "PRESTIGE Excellence PSRKIT76",
+    "PRESTIGE Excellence PTRKIT124",
+    "PRESTIGE Excellence PTRKIT125"
+   ],
+   "url": "https://www.manualslib.com/manual/1703016/Triangletube-Prestige-Excellence-Series.html"
+  },
+  {
+   "manualId": "1653562",
+   "slug": "Triangletube-Prestige-Pa-110",
+   "title": "Prestige PA 299 V1 installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Prestige PA 299 V1",
+   "extraModels": [
+    "Prestige PA 299 V1",
+    "Prestige PA 299 V2",
+    "Prestige PA 399 V1",
+    "Prestige PA 399 V2",
+    "Prestige PA Excellence",
+    "PRESTIGE Solo PA 155",
+    "PRESTIGE Solo PA 175",
+    "PRESTIGE Solo PA 250",
+    "PRESTIGE Solo PA 80"
+   ],
+   "url": "https://www.manualslib.com/manual/1653562/Triangletube-Prestige-Pa-110.html"
+  },
+  {
+   "manualId": "823830",
+   "slug": "Triangletube-Prestige",
+   "title": "prestige Service technician manual",
+   "type": "Service",
+   "pages": 47,
+   "productModel": "prestige",
+   "extraModels": [
+    "Prestige 175",
+    "Prestige 250",
+    "Prestige 399",
+    "Prestige 60",
+    "Prestige Excellence",
+    "PRESTIGE Excellence 110",
+    "Prestige Solo"
+   ],
+   "url": "https://www.manualslib.com/manual/823830/Triangletube-Prestige.html"
+  },
+  {
+   "manualId": "1240642",
+   "slug": "Triangletube-Prestige",
+   "title": "prestige Service technician's trouble shooting manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "prestige",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1240642/Triangletube-Prestige.html"
+  },
+  {
+   "manualId": "704451",
+   "slug": "Triangletube-Prestige-Solo-60",
+   "title": "Prestige Slol 250 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 89,
+   "productModel": "Prestige Slol 250",
+   "extraModels": [
+    "Prestige Slol 250",
+    "Prestige Solo 175",
+    "Prestige Solo 399"
+   ],
+   "url": "https://www.manualslib.com/manual/704451/Triangletube-Prestige-Solo-60.html"
+  },
+  {
+   "manualId": "841903",
+   "slug": "Triangletube-Prestige-Solo-60",
+   "title": "Prestige Solo 110 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 100,
+   "productModel": "Prestige Solo 110",
+   "extraModels": [
+    "Prestige Solo 110",
+    "Prestige Solo 175",
+    "Prestige Solo 250",
+    "Prestige Solo 399",
+    "Prestige Solo 6o",
+    "Prestige Solo110"
+   ],
+   "url": "https://www.manualslib.com/manual/841903/Triangletube-Prestige-Solo-60.html"
+  },
+  {
+   "manualId": "703877",
+   "slug": "Triangletube-Prestige-Solo-110",
+   "title": "Prestige Solo 110 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "Prestige Solo 110",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/703877/Triangletube-Prestige-Solo-110.html"
+  },
+  {
+   "manualId": "2239678",
+   "slug": "Triangletube-Prestige-Solo-60",
+   "title": "Prestige Solo 110 instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "Prestige Solo 110",
+   "extraModels": [
+    "Prestige Solo 110",
+    "Prestige Solo 175",
+    "Prestige Solo 250"
+   ],
+   "url": "https://www.manualslib.com/manual/2239678/Triangletube-Prestige-Solo-60.html"
+  },
+  {
+   "manualId": "3156481",
+   "slug": "Triangletube-Psrkit25",
+   "title": "Prestige Solo 110 Manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "Prestige Solo 110",
+   "extraModels": [
+    "Prestige Solo 110",
+    "Prestige Solo 175",
+    "Prestige Solo 250",
+    "Prestige Solo 60",
+    "PRESTIGE Excellence PSRKIT01",
+    "PRESTIGE Excellence PSRKIT76",
+    "PRESTIGE Excellence PTRKIT124",
+    "PRESTIGE Excellence PTRKIT125",
+    "PSRKIT26"
+   ],
+   "url": "https://www.manualslib.com/manual/3156481/Triangletube-Psrkit25.html"
+  },
+  {
+   "manualId": "3152541",
+   "slug": "Triangletube-Prestige-Solo-110lc",
+   "title": "prestige Solo 110LC Installation and maintenance manual",
+   "type": "Service",
+   "pages": 89,
+   "productModel": "prestige Solo 110LC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3152541/Triangletube-Prestige-Solo-110lc.html"
+  },
+  {
+   "manualId": "1856388",
+   "slug": "Triangletube-Prestige-Solo-60",
+   "title": "Prestige Solo 175 instructions manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "Prestige Solo 175",
+   "extraModels": [
+    "Prestige Solo 175",
+    "Prestige Solo 250"
+   ],
+   "url": "https://www.manualslib.com/manual/1856388/Triangletube-Prestige-Solo-60.html"
+  },
+  {
+   "manualId": "694548",
+   "slug": "Triangletube-Prestige-Solo-175",
+   "title": "Prestige Solo 175 Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Prestige Solo 175",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/694548/Triangletube-Prestige-Solo-175.html"
+  },
+  {
+   "manualId": "1595988",
+   "slug": "Triangletube-Prestige-Solo-Pa-80",
+   "title": "PRESTIGE Solo PA 110 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 112,
+   "productModel": "PRESTIGE Solo PA 110",
+   "extraModels": [
+    "PRESTIGE Solo PA 110",
+    "PRESTIGE Solo PA 155",
+    "PRESTIGE Solo PA 175",
+    "PRESTIGE Solo PA 250",
+    "PRESTIGE Solo PA 299",
+    "PRESTIGE Solo PA 399"
+   ],
+   "url": "https://www.manualslib.com/manual/1595988/Triangletube-Prestige-Solo-Pa-80.html"
+  },
+  {
+   "manualId": "1040077",
+   "slug": "Triangletube-Prestige-Supplement-Type-5-Mcba",
+   "title": "Prestige Supplement - Type 5 MCBA Control application manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "Prestige Supplement - Type 5 MCBA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1040077/Triangletube-Prestige-Supplement-Type-5-Mcba.html"
+  },
+  {
+   "manualId": "867191",
+   "slug": "Triangletube-Prestige",
+   "title": "prestige Supplement manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "prestige",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/867191/Triangletube-Prestige.html"
+  },
+  {
+   "manualId": "3124798",
+   "slug": "Triangletube-Prestige-Trimax-399",
+   "title": "Prestige Trimax 399 installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Prestige Trimax 399",
+   "extraModels": [
+    "PT 399",
+    "PTRKIT303"
+   ],
+   "url": "https://www.manualslib.com/manual/3124798/Triangletube-Prestige-Trimax-399.html"
+  },
+  {
+   "manualId": "1924427",
+   "slug": "Triangletube-Pssens01",
+   "title": "PSSENS01 Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "PSSENS01",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1924427/Triangletube-Pssens01.html"
+  },
+  {
+   "manualId": "3138035",
+   "slug": "Triangletube-Ptrkit301",
+   "title": "PTRKIT301 installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "PTRKIT301",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3138035/Triangletube-Ptrkit301.html"
+  },
+  {
+   "manualId": "3105243",
+   "slug": "Triangletube-Ptrkit304",
+   "title": "PTRKIT304 installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "PTRKIT304",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3105243/Triangletube-Ptrkit304.html"
+  },
+  {
+   "manualId": "1822311",
+   "slug": "Triangletube-Pgrkit16",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1822311/Triangletube-Pgrkit16.html"
+  },
+  {
+   "manualId": "1822312",
+   "slug": "Triangletube-Pgrkit21",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1822312/Triangletube-Pgrkit21.html"
+  },
+  {
+   "manualId": "1822314",
+   "slug": "Triangletube-Pgrkit18",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1822314/Triangletube-Pgrkit18.html"
+  },
+  {
+   "manualId": "1810858",
+   "slug": "Triangletube-Ptrkit111",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1810858/Triangletube-Ptrkit111.html"
+  },
+  {
+   "manualId": "1944834",
+   "slug": "Triangletube-Prestige-Trimax-Ptrkit205",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1944834/Triangletube-Prestige-Trimax-Ptrkit205.html"
+  },
+  {
+   "manualId": "1992508",
+   "slug": "Triangletube-Insrkit58",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1992508/Triangletube-Insrkit58.html"
+  },
+  {
+   "manualId": "2045574",
+   "slug": "Triangletube-Psrkit80",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2045574/Triangletube-Psrkit80.html"
+  },
+  {
+   "manualId": "2189916",
+   "slug": "Triangletube-Ptrkit122",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2189916/Triangletube-Ptrkit122.html"
+  },
+  {
+   "manualId": "2274577",
+   "slug": "Triangletube-Psrkit83",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2274577/Triangletube-Psrkit83.html"
+  },
+  {
+   "manualId": "2561504",
+   "slug": "Triangletube-Ccrkit36",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2561504/Triangletube-Ccrkit36.html"
+  },
+  {
+   "manualId": "2793070",
+   "slug": "Triangletube-Ccrkit32",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2793070/Triangletube-Ccrkit32.html"
+  },
+  {
+   "manualId": "1823318",
+   "slug": "Triangletube-Parkit131",
+   "title": "Replacement",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1823318/Triangletube-Parkit131.html"
+  },
+  {
+   "manualId": "1835060",
+   "slug": "Triangletube-Insrkit53",
+   "title": "Replacement",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1835060/Triangletube-Insrkit53.html"
+  },
+  {
+   "manualId": "1921350",
+   "slug": "Triangletube-Ptrkit111",
+   "title": "Replacement",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1921350/Triangletube-Ptrkit111.html"
+  },
+  {
+   "manualId": "1924423",
+   "slug": "Triangletube-Pscs01",
+   "title": "Replacement",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1924423/Triangletube-Pscs01.html"
+  },
+  {
+   "manualId": "2748113",
+   "slug": "Triangletube-Instinct-Insrkit134",
+   "title": "Replacement",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2748113/Triangletube-Instinct-Insrkit134.html"
+  },
+  {
+   "manualId": "3408482",
+   "slug": "Triangletube-Instinct-Insrkit152",
+   "title": "Replacement",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3408482/Triangletube-Instinct-Insrkit152.html"
+  },
+  {
+   "manualId": "1876438",
+   "slug": "Triangletube-Secret-Ict4",
+   "title": "SECRET ICT4 Owner's manual & warranty",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "SECRET ICT4",
+   "extraModels": [
+    "SECRET ICT5",
+    "SECRET ICT7",
+    "SECRET ICT8",
+    "SECRET IWT7",
+    "SECRET IWT8"
+   ],
+   "url": "https://www.manualslib.com/manual/1876438/Triangletube-Secret-Ict4.html"
+  },
+  {
+   "manualId": "2950717",
+   "slug": "Triangletube-Secret",
+   "title": "SECRET Owner's manual & warranty",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "SECRET",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2950717/Triangletube-Secret.html"
+  },
+  {
+   "manualId": "1994995",
+   "slug": "Triangletube-Sensa-Series",
+   "title": "SENSA Series owner's manual",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "SENSA Series",
+   "extraModels": [
+    "SENSA SN01A",
+    "SENSA SN03A"
+   ],
+   "url": "https://www.manualslib.com/manual/1994995/Triangletube-Sensa-Series.html"
+  },
+  {
+   "manualId": "1902483",
+   "slug": "Triangletube-Sensa-Sn01a",
+   "title": "SENSA SN01A user manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "SENSA SN01A",
+   "extraModels": [
+    "SENSA SN03A"
+   ],
+   "url": "https://www.manualslib.com/manual/1902483/Triangletube-Sensa-Sn01a.html"
+  },
+  {
+   "manualId": "2953420",
+   "slug": "Triangletube-Signature-Alpha",
+   "title": "SIGNATURE ALPHA Owner's manual & warranty",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "SIGNATURE ALPHA",
+   "extraModels": [
+    "SIGNATURE DELTA",
+    "SIGNATURE GAMMA",
+    "SIGNATURE THETA"
+   ],
+   "url": "https://www.manualslib.com/manual/2953420/Triangletube-Signature-Alpha.html"
+  },
+  {
+   "manualId": "1834044",
+   "slug": "Triangletube-Signature",
+   "title": "SIGNATURE Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "SIGNATURE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1834044/Triangletube-Signature.html"
+  },
+  {
+   "manualId": "1069177",
+   "slug": "Triangletube-Smart-30",
+   "title": "SMART 100 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "SMART 100",
+   "extraModels": [
+    "SMART 100",
+    "SMART 120",
+    "SMART 40",
+    "SMART 50",
+    "SMART 60",
+    "SMART 80"
+   ],
+   "url": "https://www.manualslib.com/manual/1069177/Triangletube-Smart-30.html"
+  },
+  {
+   "manualId": "703528",
+   "slug": "Triangletube-Smart-Line",
+   "title": "SMART 100 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 34,
+   "productModel": "SMART 100",
+   "extraModels": [
+    "SMART 100",
+    "SMART 120",
+    "SMART 30",
+    "SMART 40",
+    "SMART 50",
+    "SMART 60",
+    "SMART 80"
+   ],
+   "url": "https://www.manualslib.com/manual/703528/Triangletube-Smart-Line.html"
+  },
+  {
+   "manualId": "1625706",
+   "slug": "Triangletube-Smart-Series",
+   "title": "SMART Series Installation & maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "SMART Series",
+   "extraModels": [
+    "SMART 100",
+    "SMART 120",
+    "SMART 30",
+    "SMART 40",
+    "SMART 50",
+    "SMART 60",
+    "SMART 80"
+   ],
+   "url": "https://www.manualslib.com/manual/1625706/Triangletube-Smart-Series.html"
+  },
+  {
+   "manualId": "4603820",
+   "slug": "Triangletube-Solstice",
+   "title": "SOLSTICE user manual",
+   "type": "User / Owner",
+   "pages": 47,
+   "productModel": "SOLSTICE",
+   "extraModels": [
+    "SOLSTICE 3",
+    "SOLSTICE 8",
+    "SOLSTICE C3"
+   ],
+   "url": "https://www.manualslib.com/manual/4603820/Triangletube-Solstice.html"
+  },
+  {
+   "manualId": "2107189",
+   "slug": "Triangletube-The-Modulating-Delta",
+   "title": "The Modulating delta instructions manual",
+   "type": "User / Owner",
+   "pages": 38,
+   "productModel": "The Modulating delta",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2107189/Triangletube-The-Modulating-Delta.html"
+  },
+  {
+   "manualId": "2203393",
+   "slug": "Triangletube-Thetis-340",
+   "title": "THETIS 300 Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 38,
+   "productModel": "THETIS 300",
+   "extraModels": [
+    "THETIS 300"
+   ],
+   "url": "https://www.manualslib.com/manual/2203393/Triangletube-Thetis-340.html"
+  },
+  {
+   "manualId": "3849635",
+   "slug": "Triangletube-Tr-36",
+   "title": "TR-36 Service technician manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "TR-36",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3849635/Triangletube-Tr-36.html"
+  },
+  {
+   "manualId": "4061879",
+   "slug": "triangle-aio-twin-manual",
+   "title": "Triangle AIO TWIN Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4061879/triangle-aio-twin-manual.html"
+  },
+  {
+   "manualId": "3619273",
+   "slug": "triangle-borea-manual",
+   "title": "Triangle BOREA Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3619273/triangle-borea-manual.html"
+  },
+  {
+   "manualId": "3977855",
+   "slug": "triangle-tube-prestige-manual",
+   "title": "Triangle Tube prestige Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3977855/triangle-tube-prestige-manual.html"
+  },
+  {
+   "manualId": "3733173",
+   "slug": "triangle-tube-prestige-solo-prestige-excellence-parkit160-manual",
+   "title": "Triangle Tube Prestige Solo, Prestige Excellence, PARKIT160 Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3733173/triangle-tube-prestige-solo-prestige-excellence-parkit160-manual.html"
+  },
+  {
+   "manualId": "4596485",
+   "slug": "Triangletube-Borea-Br02",
+   "title": "Triangletube BOREA BR02 Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 33,
+   "productModel": null,
+   "extraModels": [
+    "BOREA BR03",
+    "BOREA BR07",
+    "BOREA BR08",
+    "BOREA BR09",
+    "BOREA BRA1",
+    "BOREA BRC1",
+    "BR10"
+   ],
+   "url": "https://www.manualslib.com/manual/4596485/Triangletube-Borea-Br02.html"
+  },
+  {
+   "manualId": "2602521",
+   "slug": "Triangletube-Borea-Br02bt",
+   "title": "Triangletube BOREA BR02BT Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": null,
+   "extraModels": [
+    "BOREA BR03BT",
+    "TEA02-AZ",
+    "TEA02-B",
+    "TEA02-BA",
+    "TEA02-BB",
+    "TEA02-C",
+    "TEA03-AZ",
+    "TEA03-B",
+    "TEA03-BA",
+    "TEA03-BB",
+    "TEA03-C",
+    "TEA04-AZ",
+    "TEA04-B",
+    "TEA04-BA",
+    "TEA04-BB",
+    "TEA04-C"
+   ],
+   "url": "https://www.manualslib.com/manual/2602521/Triangletube-Borea-Br02bt.html"
+  },
+  {
+   "manualId": "3563240",
+   "slug": "Triangletube-Borea-Brc1",
+   "title": "Triangletube BOREA BRC1 Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": null,
+   "extraModels": [
+    "BOREA BR02",
+    "BOREA BR03",
+    "BOREA BR04",
+    "BOREA BR07",
+    "BOREA BR08",
+    "BOREA BR09",
+    "BOREA BRA1",
+    "BOREA BRC2",
+    "BOREA BRS1",
+    "BR10"
+   ],
+   "url": "https://www.manualslib.com/manual/3563240/Triangletube-Borea-Brc1.html"
+  },
+  {
+   "manualId": "3362227",
+   "slug": "Triangletube-Borea-Connect",
+   "title": "Triangletube BOREA CONNECT Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3362227/Triangletube-Borea-Connect.html"
+  },
+  {
+   "manualId": "4566665",
+   "slug": "Triangletube-Borea-Series",
+   "title": "Triangletube BOREA Series Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": null,
+   "extraModels": [
+    "BOREA BR02",
+    "BOREA BR03",
+    "BOREA BR07",
+    "BOREA BR08",
+    "BOREA BR09",
+    "BOREA BRC1"
+   ],
+   "url": "https://www.manualslib.com/manual/4566665/Triangletube-Borea-Series.html"
+  },
+  {
+   "manualId": "1453036",
+   "slug": "Triangletube-Elara-Ln01a",
+   "title": "Triangletube ELARA LN01A Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": null,
+   "extraModels": [
+    "ELARA LN05A"
+   ],
+   "url": "https://www.manualslib.com/manual/1453036/Triangletube-Elara-Ln01a.html"
+  },
+  {
+   "manualId": "1105459",
+   "slug": "Triangletube-Minismart",
+   "title": "Triangletube MiniSmart Manual",
+   "type": "Other",
+   "pages": 23,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1105459/Triangletube-Minismart.html"
+  },
+  {
+   "manualId": "1658103",
+   "slug": "Triangletube-Prestige-Solo-399",
+   "title": "Triangletube prestige Solo 399 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1658103/Triangletube-Prestige-Solo-399.html"
+  },
+  {
+   "manualId": "2239680",
+   "slug": "Triangletube-Psrkit19",
+   "title": "Triangletube PSRKIT19 Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2239680/Triangletube-Psrkit19.html"
+  },
+  {
+   "manualId": "2115689",
+   "slug": "Triangletube-Psrkit36",
+   "title": "Triangletube PSRKIT36 Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2115689/Triangletube-Psrkit36.html"
+  },
+  {
+   "manualId": "1924414",
+   "slug": "Triangletube-Psrkit44",
+   "title": "Triangletube PSRKIT44 Manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": null,
+   "extraModels": [
+    "PTRKIT128"
+   ],
+   "url": "https://www.manualslib.com/manual/1924414/Triangletube-Psrkit44.html"
+  },
+  {
+   "manualId": "2704748",
+   "slug": "Triangletube-Secret-Ext7",
+   "title": "Triangletube SECRET EXT7 Owner's Manual & Warranty",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": null,
+   "extraModels": [
+    "SECRET EMT7",
+    "SECRET ICT8",
+    "SECRET IWT7",
+    "SECRET IWT8"
+   ],
+   "url": "https://www.manualslib.com/manual/2704748/Triangletube-Secret-Ext7.html"
+  },
+  {
+   "manualId": "3776166",
+   "slug": "Triangletube-Lunar-3",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3776166/Triangletube-Lunar-3.html"
+  },
+  {
+   "manualId": "915365",
+   "slug": "Triangletube-Led-Sunflower",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/915365/Triangletube-Led-Sunflower.html"
+  },
+  {
+   "manualId": "4034432",
+   "slug": "Triangletube-Garden-7",
+   "title": "User manual & warranty",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4034432/Triangletube-Garden-7.html"
+  },
+  {
+   "manualId": "2854409",
+   "slug": "Triangletube-Wasteflow",
+   "title": "WASTEFLOW Installation & maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "WASTEFLOW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2854409/Triangletube-Wasteflow.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "3619273",
+   "slug": "triangle-borea-manual",
+   "title": "Triangle BOREA Manual"
+  },
+  {
+   "manualId": "3977855",
+   "slug": "triangle-tube-prestige-manual",
+   "title": "Triangle Tube prestige Manual"
+  },
+  {
+   "manualId": "3733173",
+   "slug": "triangle-tube-prestige-solo-prestige-excellence-parkit160-manual",
+   "title": "Triangle Tube Prestige Solo, Prestige Excellence, PARKIT160 Manual"
+  },
+  {
+   "manualId": "4061879",
+   "slug": "triangle-aio-twin-manual",
+   "title": "Triangle AIO TWIN Manual"
+  }
+ ],
+ "techDirectIds": [
+  "triangle-tube"
+ ]
+}

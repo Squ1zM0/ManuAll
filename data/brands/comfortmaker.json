@@ -1,0 +1,64 @@
+{
+ "brand": "Comfortmaker",
+ "brandSlug": "comfortmaker",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/comfortmaker/"
+ ],
+ "slugUsed": "comfortmaker",
+ "capturedAt": "2026-10-28T06:41:50.706936+00:00",
+ "typePages": [
+  {
+   "path": "/brand/comfortmaker/air-conditioner.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/comfortmaker/furnace.html",
+   "manuals": 3,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3144102",
+   "slug": "Comfortmaker-F80ctl",
+   "title": "F80CTL Installation, Start-Up, Operating And Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "F80CTL",
+   "extraModels": [
+    "G80CTL0701412A"
+   ],
+   "url": "https://www.manualslib.com/manual/3144102/Comfortmaker-F80ctl.html"
+  },
+  {
+   "manualId": "3920319",
+   "slug": "Comfortmaker-G80ctl",
+   "title": "G80CTL Installation, Start-Up, Operating And Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "G80CTL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3920319/Comfortmaker-G80ctl.html"
+  },
+  {
+   "manualId": "3661907",
+   "slug": "Comfortmaker-Quietcomfort-Ftma5",
+   "title": "QuietComfort FTMA5 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "QuietComfort FTMA5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3661907/Comfortmaker-Quietcomfort-Ftma5.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "comfortmaker"
+ ]
+}

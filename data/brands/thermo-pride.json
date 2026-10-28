@@ -1,0 +1,997 @@
+{
+ "brand": "Thermo Pride",
+ "brandSlug": "thermo-pride",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/thermo-pride/"
+ ],
+ "slugUsed": "thermo-pride",
+ "capturedAt": "2026-10-28T09:30:25.766309+00:00",
+ "typePages": [
+  {
+   "path": "/brand/thermo-pride/air-conditioner.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/thermo-pride/air-handlers.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/thermo-pride/burner.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/thermo-pride/enclosure.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/thermo-pride/furnace.html",
+   "manuals": 364,
+   "status": 200
+  },
+  {
+   "path": "/brand/thermo-pride/furnace-accessories.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/thermo-pride/stove.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/thermo-pride/thermostat.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2364071",
+   "slug": "Thermo-Pride-Ah2436ae1",
+   "title": "AH2436AE1 Installation & service manual",
+   "type": "Service",
+   "pages": 33,
+   "productModel": "AH2436AE1",
+   "extraModels": [
+    "AH2436BE1",
+    "AH4260AE1",
+    "AH4260BE1"
+   ],
+   "url": "https://www.manualslib.com/manual/2364071/Thermo-Pride-Ah2436ae1.html"
+  },
+  {
+   "manualId": "940561",
+   "slug": "Thermo-Pride-Ah2436e1",
+   "title": "AH2436E1 Installation and service manual",
+   "type": "Service",
+   "pages": 26,
+   "productModel": "AH2436E1",
+   "extraModels": [
+    "AH4260E1"
+   ],
+   "url": "https://www.manualslib.com/manual/940561/Thermo-Pride-Ah2436e1.html"
+  },
+  {
+   "manualId": "2184224",
+   "slug": "Thermo-Pride-Aops7488",
+   "title": "AOPS7488 instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "AOPS7488",
+   "extraModels": [
+    "AOPS7489"
+   ],
+   "url": "https://www.manualslib.com/manual/2184224/Thermo-Pride-Aops7488.html"
+  },
+  {
+   "manualId": "170197",
+   "slug": "Thermo-Pride-Cdb1-125",
+   "title": "CDB1-100 User's information manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "CDB1-100",
+   "extraModels": [
+    "CDB1-100",
+    "CDB1-50",
+    "CDB1-75",
+    "CDX 1-75",
+    "CDX1-100",
+    "CDX1-125",
+    "CHB1-100",
+    "CHB1-125",
+    "CHB1-50",
+    "CHB1-75",
+    "CHX1-100",
+    "CHX1-125",
+    "CHX1-75",
+    "MDA1-100",
+    "MDA1-125",
+    "MDA1-50",
+    "MDA1-75",
+    "MHA1-100",
+    "MHA1-125",
+    "MHA1-50",
+    "MHA1-75"
+   ],
+   "url": "https://www.manualslib.com/manual/170197/Thermo-Pride-Cdb1-125.html"
+  },
+  {
+   "manualId": "627331",
+   "slug": "Thermo-Pride-Chb1-50n",
+   "title": "CDB1-100N Installation and operation manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "CDB1-100N",
+   "extraModels": [
+    "CDB1-100N",
+    "CDB1-125N",
+    "CDB1-50N",
+    "CDB1-75N",
+    "CHB1-100N",
+    "CHB1-125N"
+   ],
+   "url": "https://www.manualslib.com/manual/627331/Thermo-Pride-Chb1-50n.html"
+  },
+  {
+   "manualId": "170198",
+   "slug": "Thermo-Pride-Cdx1-100n",
+   "title": "CDX1-100N Installation and operation manual",
+   "type": "Installation",
+   "pages": 59,
+   "productModel": "CDX1-100N",
+   "extraModels": [
+    "CDX1-125N",
+    "CDX1-75N",
+    "CHX1-100N",
+    "CHX1-125N",
+    "CHX1-75N"
+   ],
+   "url": "https://www.manualslib.com/manual/170198/Thermo-Pride-Cdx1-100n.html"
+  },
+  {
+   "manualId": "628472",
+   "slug": "Thermo-Pride-Chx3-75n",
+   "title": "CDX3-100N Installation and operation manual",
+   "type": "Installation",
+   "pages": 67,
+   "productModel": "CDX3-100N",
+   "extraModels": [
+    "CDX3-100N",
+    "CDX3-125N",
+    "CDX3-75N",
+    "CHX3-100N",
+    "CHX3-125N"
+   ],
+   "url": "https://www.manualslib.com/manual/628472/Thermo-Pride-Chx3-75n.html"
+  },
+  {
+   "manualId": "3819333",
+   "slug": "Thermo-Pride-Chb1-75n",
+   "title": "CHB1-75N Installation and operation manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "CHB1-75N",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3819333/Thermo-Pride-Chb1-75n.html"
+  },
+  {
+   "manualId": "1082517",
+   "slug": "Thermo-Pride-Clhs1-050p36n",
+   "title": "CLHS1-050P36N Installation and operation manual",
+   "type": "Installation",
+   "pages": 65,
+   "productModel": "CLHS1-050P36N",
+   "extraModels": [
+    "CLHS1-050T36N",
+    "CLHS1-075P42N",
+    "CLHS1-075T42N",
+    "CLHS1-100P48N",
+    "CLHS1-100T48N",
+    "CLHS1-125P60N",
+    "CLHS1-125T60N",
+    "CLHX1-050E36N",
+    "CLHX1-075E42N",
+    "CLHX1-100E48N",
+    "CLHX1-125E60N"
+   ],
+   "url": "https://www.manualslib.com/manual/1082517/Thermo-Pride-Clhs1-050p36n.html"
+  },
+  {
+   "manualId": "1214527",
+   "slug": "Thermo-Pride-Clhs1-050p36n",
+   "title": "CLHS1-050P36N User's information manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "CLHS1-050P36N",
+   "extraModels": [
+    "CLHS1-050T36N",
+    "CLHS1-075P42N",
+    "CLHS1-075T42N",
+    "CLHS1-100P48N",
+    "CLHS1-100T48N",
+    "CLHS1-125P60N",
+    "CLHS1-125T60N",
+    "CLHX1-050E36N",
+    "CLHX1-075E42N",
+    "CLHX1-100E48N",
+    "CLHX1-125E60N"
+   ],
+   "url": "https://www.manualslib.com/manual/1214527/Thermo-Pride-Clhs1-050p36n.html"
+  },
+  {
+   "manualId": "2036120",
+   "slug": "Thermo-Pride-Clqs1-050t36n",
+   "title": "CLQS1-050T36N Installation and operation manual",
+   "type": "Installation",
+   "pages": 66,
+   "productModel": "CLQS1-050T36N",
+   "extraModels": [
+    "CLQS1-075T42N",
+    "CLQS1-100T48N",
+    "CLQS1-125T60N"
+   ],
+   "url": "https://www.manualslib.com/manual/2036120/Thermo-Pride-Clqs1-050t36n.html"
+  },
+  {
+   "manualId": "796483",
+   "slug": "Thermo-Pride-Cma1-50n",
+   "title": "CMA1-50N Installation and service manual",
+   "type": "Service",
+   "pages": 55,
+   "productModel": "CMA1-50N",
+   "extraModels": [
+    "CMA2-75N"
+   ],
+   "url": "https://www.manualslib.com/manual/796483/Thermo-Pride-Cma1-50n.html"
+  },
+  {
+   "manualId": "1047604",
+   "slug": "Thermo-Pride-Cma3-50d36n",
+   "title": "CMA3-50D36N Installation and service manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "CMA3-50D36N",
+   "extraModels": [
+    "CMA3-75D36N",
+    "CMC1-50D36N",
+    "CMC1-50DV3N",
+    "CMC1-75D36N",
+    "CMC1-75DV3N"
+   ],
+   "url": "https://www.manualslib.com/manual/1047604/Thermo-Pride-Cma3-50d36n.html"
+  },
+  {
+   "manualId": "1082527",
+   "slug": "Thermo-Pride-Cma3-50d36n",
+   "title": "CMA3-50D36N Installation and service manual",
+   "type": "Service",
+   "pages": 65,
+   "productModel": "CMA3-50D36N",
+   "extraModels": [
+    "CMA3-75D36N",
+    "CMC1-50D36N",
+    "CMC1-50DV3N",
+    "CMC1-75D36N",
+    "CMC1-75DV3N"
+   ],
+   "url": "https://www.manualslib.com/manual/1082527/Thermo-Pride-Cma3-50d36n.html"
+  },
+  {
+   "manualId": "2346331",
+   "slug": "Thermo-Pride-Cma4-50d36n",
+   "title": "CMA4-50D36N Installation and service manual",
+   "type": "Service",
+   "pages": 66,
+   "productModel": "CMA4-50D36N",
+   "extraModels": [
+    "CMA4-75D36N",
+    "CMC2-50D36N",
+    "CMC2-50DV3N",
+    "CMC2-75DV3N"
+   ],
+   "url": "https://www.manualslib.com/manual/2346331/Thermo-Pride-Cma4-50d36n.html"
+  },
+  {
+   "manualId": "3884538",
+   "slug": "Thermo-Pride-Cmc2-75d36n",
+   "title": "CMC2-75D36N Installation and service manual",
+   "type": "Service",
+   "pages": 66,
+   "productModel": "CMC2-75D36N",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3884538/Thermo-Pride-Cmc2-75d36n.html"
+  },
+  {
+   "manualId": "2868159",
+   "slug": "Thermo-Pride-Gma1-60d48n",
+   "title": "GMA1-60D48N Installation and service manual",
+   "type": "Service",
+   "pages": 27,
+   "productModel": "GMA1-60D48N",
+   "extraModels": [
+    "GMA1-75D48N",
+    "GMC1-60D48N",
+    "GMC1-75D48N"
+   ],
+   "url": "https://www.manualslib.com/manual/2868159/Thermo-Pride-Gma1-60d48n.html"
+  },
+  {
+   "manualId": "4183610",
+   "slug": "Thermo-Pride-Gma2-60d48n",
+   "title": "GMA2-60D48N Installation and service manual",
+   "type": "Service",
+   "pages": 27,
+   "productModel": "GMA2-60D48N",
+   "extraModels": [
+    "GMA2-75D48N",
+    "GMC2-60D48N",
+    "GMC2-75D48N"
+   ],
+   "url": "https://www.manualslib.com/manual/4183610/Thermo-Pride-Gma2-60d48n.html"
+  },
+  {
+   "manualId": "170199",
+   "slug": "Thermo-Pride-Gmc-85",
+   "title": "GMC-85 Installation and service manual",
+   "type": "Service",
+   "pages": 46,
+   "productModel": "GMC-85",
+   "extraModels": [
+    "OMC-70"
+   ],
+   "url": "https://www.manualslib.com/manual/170199/Thermo-Pride-Gmc-85.html"
+  },
+  {
+   "manualId": "907503",
+   "slug": "Thermo-Pride-Gmd1-60n",
+   "title": "GMD1-60N Installation and service manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "GMD1-60N",
+   "extraModels": [
+    "GMD1-80N"
+   ],
+   "url": "https://www.manualslib.com/manual/907503/Thermo-Pride-Gmd1-60n.html"
+  },
+  {
+   "manualId": "96378",
+   "slug": "Thermo-Pride-Gmd1-80n",
+   "title": "GMD1-80N Installation and service manual",
+   "type": "Service",
+   "pages": 47,
+   "productModel": "GMD1-80N",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/96378/Thermo-Pride-Gmd1-80n.html"
+  },
+  {
+   "manualId": "2364208",
+   "slug": "Thermo-Pride-Gmd2-60n",
+   "title": "GMD2-60N Installation and service manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "GMD2-60N",
+   "extraModels": [
+    "GMD2-80N"
+   ],
+   "url": "https://www.manualslib.com/manual/2364208/Thermo-Pride-Gmd2-60n.html"
+  },
+  {
+   "manualId": "2184222",
+   "slug": "Thermo-Pride-Ome-Series",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2184222/Thermo-Pride-Ome-Series.html"
+  },
+  {
+   "manualId": "4183406",
+   "slug": "Thermo-Pride-Ce118s",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4183406/Thermo-Pride-Ce118s.html"
+  },
+  {
+   "manualId": "736366",
+   "slug": "Thermo-Pride-Mha1-50n",
+   "title": "MDA1-100N Installation and service manual",
+   "type": "Service",
+   "pages": 62,
+   "productModel": "MDA1-100N",
+   "extraModels": [
+    "MDA1-100N",
+    "MDA1-125N",
+    "MDA1-50N",
+    "MDA1-75N",
+    "MHA1-100N",
+    "MHA1-125N",
+    "MHA1-75N"
+   ],
+   "url": "https://www.manualslib.com/manual/736366/Thermo-Pride-Mha1-50n.html"
+  },
+  {
+   "manualId": "170200",
+   "slug": "Thermo-Pride-Oc2-56",
+   "title": "OC2 Installation and operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "OC2",
+   "extraModels": [
+    "OC5",
+    "OC5-85",
+    "OH11",
+    "OH11-105 Series",
+    "OH16",
+    "OH16-125",
+    "OH2",
+    "OH2-56",
+    "OH3",
+    "OH3-72",
+    "OH5",
+    "OH5-85 Series",
+    "OL11",
+    "OL11-105 Series",
+    "OL16",
+    "OL16-125",
+    "OL2",
+    "OL2-56",
+    "OL20",
+    "OL20-151",
+    "OL33-200",
+    "OL37-250",
+    "OL39-320",
+    "OL5",
+    "OL5-85 Series",
+    "OT11-105",
+    "OT16-125",
+    "OT5-85"
+   ],
+   "url": "https://www.manualslib.com/manual/170200/Thermo-Pride-Oc2-56.html"
+  },
+  {
+   "manualId": "1001319",
+   "slug": "Thermo-Pride-Oc2-56",
+   "title": "OC2-56 Installation and operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "OC2-56",
+   "extraModels": [
+    "OC5-85",
+    "OH11-105 Series",
+    "OH16-125",
+    "OH2-56",
+    "OH3-72",
+    "OL16-125",
+    "OL2-56",
+    "OL20-151",
+    "OL33-200",
+    "OL37-250",
+    "OL39-320",
+    "OT11-105",
+    "OT16-125"
+   ],
+   "url": "https://www.manualslib.com/manual/1001319/Thermo-Pride-Oc2-56.html"
+  },
+  {
+   "manualId": "2364014",
+   "slug": "Thermo-Pride-Oh5-85de",
+   "title": "OC2-56DE Operation manual",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "OC2-56DE",
+   "extraModels": [
+    "OC2-56DE",
+    "OC5-85DE",
+    "OH11-105DE",
+    "OH2-56DE",
+    "OH5-85DXE",
+    "OL11-105FDE",
+    "OL11-105RDE",
+    "OL2-56FDE",
+    "OL2-56RDE",
+    "OL5-85FDE",
+    "OL5-85RDE"
+   ],
+   "url": "https://www.manualslib.com/manual/2364014/Thermo-Pride-Oh5-85de.html"
+  },
+  {
+   "manualId": "2016905",
+   "slug": "Thermo-Pride-Od6fa072d48",
+   "title": "OD6FA072D48 Installation, operation and service manual",
+   "type": "Service",
+   "pages": 43,
+   "productModel": "OD6FA072D48",
+   "extraModels": [
+    "OD6FA072D48B",
+    "OD6FA072D48C",
+    "OD6FA072D48R",
+    "OD6FA072DV5",
+    "OD6FA072DV5B",
+    "OD6FA072DV5C",
+    "OD6FA072DV5R",
+    "OD6RA072D48",
+    "OD6RA072D48B",
+    "OD6RA072D48C",
+    "OD6RA072D48R",
+    "OD6RA072DV5",
+    "OD6RA072DV5B",
+    "OD6RA072DV5C",
+    "OD6RA072DV5R"
+   ],
+   "url": "https://www.manualslib.com/manual/2016905/Thermo-Pride-Od6fa072d48.html"
+  },
+  {
+   "manualId": "170201",
+   "slug": "Thermo-Pride-Od6fa072d48r",
+   "title": "OD6FA072D48B Installation and operation manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "OD6FA072D48B",
+   "extraModels": [
+    "OD6FA072D48B",
+    "OD6FA072DV5B",
+    "OD6FA072DV5R",
+    "OD6FX072DV5R",
+    "OD6RA072D48B",
+    "OD6RA072D48R",
+    "OD6RA072DV5B",
+    "OD6RA075DV5R",
+    "OD6RX072DV5R"
+   ],
+   "url": "https://www.manualslib.com/manual/170201/Thermo-Pride-Od6fa072d48r.html"
+  },
+  {
+   "manualId": "170202",
+   "slug": "Thermo-Pride-Oh11-105-E",
+   "title": "OH11-105 Series Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "OH11-105 Series",
+   "extraModels": [
+    "OH5-85 Series",
+    "OL11-105 Series",
+    "OL5-85 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/170202/Thermo-Pride-Oh11-105-E.html"
+  },
+  {
+   "manualId": "2364006",
+   "slug": "Thermo-Pride-Oh16-125",
+   "title": "OH16-125 Operation manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "OH16-125",
+   "extraModels": [
+    "OL16-125",
+    "OL20-151"
+   ],
+   "url": "https://www.manualslib.com/manual/2364006/Thermo-Pride-Oh16-125.html"
+  },
+  {
+   "manualId": "3832597",
+   "slug": "Thermo-Pride-Oh5-85-Series",
+   "title": "OH5-85 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "OH5-85 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3832597/Thermo-Pride-Oh5-85-Series.html"
+  },
+  {
+   "manualId": "170204",
+   "slug": "Thermo-Pride-Oh5-85dxe",
+   "title": "OH5-85DXE Installation and operation manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "OH5-85DXE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/170204/Thermo-Pride-Oh5-85dxe.html"
+  },
+  {
+   "manualId": "2332852",
+   "slug": "Thermo-Pride-Oh8fa119d60c",
+   "title": "OH6FA072D48C Installation and operation manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "OH6FA072D48C",
+   "extraModels": [
+    "OH6FA072D48C",
+    "OH6FA072D48N",
+    "OH6FA072D48R",
+    "OH6FA072DV4B",
+    "OH6FA072DV4C",
+    "OH6FA072DV4N",
+    "OH6FA072DV4R",
+    "OH6FX072DV4R",
+    "OH8FA119D60B",
+    "OH8FA119D60R",
+    "OH8FA119DV5B",
+    "OH8FA119DV5C",
+    "OH8FA119DV5R",
+    "Thermo Pride OH6FA072D48B"
+   ],
+   "url": "https://www.manualslib.com/manual/2332852/Thermo-Pride-Oh8fa119d60c.html"
+  },
+  {
+   "manualId": "4534426",
+   "slug": "Thermo-Pride-Oh6fa072dv4b",
+   "title": "OH6FA072D48C Installation, operation and service manual",
+   "type": "Service",
+   "pages": 53,
+   "productModel": "OH6FA072D48C",
+   "extraModels": [
+    "OH6FA072D48C",
+    "OH6FA072D48R",
+    "OH6FA072DV4C",
+    "OH6FA072DV4R",
+    "OH8FA119D60B",
+    "OH8FA119D60C",
+    "OH8FA119D60R",
+    "OH8FA119DV5B",
+    "OH8FA119DV5C",
+    "OH8FA119DV5R",
+    "Thermo Pride OH6FA072D48B"
+   ],
+   "url": "https://www.manualslib.com/manual/4534426/Thermo-Pride-Oh6fa072dv4b.html"
+  },
+  {
+   "manualId": "628004",
+   "slug": "Thermo-Pride-Oh6fa072d48b",
+   "title": "OH6FA072D48N Installation and operation manual",
+   "type": "Installation",
+   "pages": 79,
+   "productModel": "OH6FA072D48N",
+   "extraModels": [
+    "OH6FA072D48N",
+    "OH6FA072D48R",
+    "OH6FA072DV4B",
+    "OH6FA072DV4N",
+    "OH6FA072DV4R",
+    "OH6FX072DV4R",
+    "OH8FA119D60B",
+    "OH8FA119D60R",
+    "OH8FA119DV5B",
+    "OH8FA119DV5R"
+   ],
+   "url": "https://www.manualslib.com/manual/628004/Thermo-Pride-Oh6fa072d48b.html"
+  },
+  {
+   "manualId": "170205",
+   "slug": "Thermo-Pride-Oh6fa072d48b",
+   "title": "OH6FA072D48R Installation and operation manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "OH6FA072D48R",
+   "extraModels": [
+    "OH6FA072D48R",
+    "OH6FA072DV4B",
+    "OH6FA072DV4R"
+   ],
+   "url": "https://www.manualslib.com/manual/170205/Thermo-Pride-Oh6fa072d48b.html"
+  },
+  {
+   "manualId": "3779293",
+   "slug": "Thermo-Pride-Oh6fx072dv4",
+   "title": "OH6FX072DV4 Installation and operation manual",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": "OH6FX072DV4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3779293/Thermo-Pride-Oh6fx072dv4.html"
+  },
+  {
+   "manualId": "2325892",
+   "slug": "Thermo-Pride-Oh6fa072dv4",
+   "title": "OH6FX072DV4 Operation manual",
+   "type": "Other",
+   "pages": 29,
+   "productModel": "OH6FX072DV4",
+   "extraModels": [
+    "OH6FX072DV4",
+    "OD6F/RA072DV5",
+    "OD6F/RX072DV5",
+    "OH8FA119DV5",
+    "OL6F/RA072DV5",
+    "OL6F/RX072DV5"
+   ],
+   "url": "https://www.manualslib.com/manual/2325892/Thermo-Pride-Oh6fa072dv4.html"
+  },
+  {
+   "manualId": "3832595",
+   "slug": "Thermo-Pride-Ol11-105-Series",
+   "title": "OL11-105 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "OL11-105 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3832595/Thermo-Pride-Ol11-105-Series.html"
+  },
+  {
+   "manualId": "943772",
+   "slug": "Thermo-Pride-Ot11-105fbp",
+   "title": "OL11-105FDBE Installation and operation manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "OL11-105FDBE",
+   "extraModels": [
+    "OL11-105FDBE",
+    "OL11-105FDBP",
+    "OL11-105RDBE",
+    "OL11-105RDBP",
+    "OL16-125FDBE",
+    "OL16-125FDBP",
+    "OL16-125RDBE",
+    "OL16-125RDBP",
+    "OL5-85FDBP",
+    "OL5-85RDBP",
+    "OT11-105RBP",
+    "OT16-125FBP",
+    "OT16-125RBP"
+   ],
+   "url": "https://www.manualslib.com/manual/943772/Thermo-Pride-Ot11-105fbp.html"
+  },
+  {
+   "manualId": "2325592",
+   "slug": "Thermo-Pride-Ol11-105fdbe",
+   "title": "OL11-105FDBE Operation manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "OL11-105FDBE",
+   "extraModels": [
+    "OL11-105RDBE",
+    "OL16-125FDBE",
+    "OL16-125RDBE"
+   ],
+   "url": "https://www.manualslib.com/manual/2325592/Thermo-Pride-Ol11-105fdbe.html"
+  },
+  {
+   "manualId": "2008373",
+   "slug": "Thermo-Pride-Ol20fa151t60-Series",
+   "title": "OL20FA151T60 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "OL20FA151T60 Series",
+   "extraModels": [
+    "OL20FA151T60B",
+    "OL20FA151T60R",
+    "OL20RA151T60 Series",
+    "OL20RA151T60B",
+    "OL20RA151T60R"
+   ],
+   "url": "https://www.manualslib.com/manual/2008373/Thermo-Pride-Ol20fa151t60-Series.html"
+  },
+  {
+   "manualId": "3832594",
+   "slug": "Thermo-Pride-Ol5-85-Series",
+   "title": "OL5-85 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "OL5-85 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3832594/Thermo-Pride-Ol5-85-Series.html"
+  },
+  {
+   "manualId": "2667073",
+   "slug": "Thermo-Pride-Ol6ra072d48",
+   "title": "OL6FA072D48 Installation and operation manual",
+   "type": "Installation",
+   "pages": 63,
+   "productModel": "OL6FA072D48",
+   "extraModels": [
+    "OL6FA072D48",
+    "OL6FA072D48B",
+    "OL6FA072D48C",
+    "OL6FA072D48R",
+    "OL6FA072DV5",
+    "OL6FA072DV5B",
+    "OL6FA072DV5C",
+    "OL6FA072DV5R",
+    "OL6RA072D48B",
+    "OL6RA072D48C",
+    "OL6RA072D48R",
+    "OL6RA072DV5",
+    "OL6RA072DV5B",
+    "OL6RA072DV5C",
+    "OL6RA072DV5R"
+   ],
+   "url": "https://www.manualslib.com/manual/2667073/Thermo-Pride-Ol6ra072d48.html"
+  },
+  {
+   "manualId": "2119809",
+   "slug": "Thermo-Pride-Ol6fa072d48b",
+   "title": "OL6FA072D48B Installation and Operation Manual with Users Information Section",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "OL6FA072D48B",
+   "extraModels": [
+    "OL6FA072D48C",
+    "OL6FA072D48R",
+    "OL6FA072DV5B",
+    "OL6FA072DV5C",
+    "OL6FA072DV5R",
+    "OL6RA072D48B",
+    "OL6RA072D48C",
+    "OL6RA072D48R",
+    "OL6RA072DV5B",
+    "OL6RA072DV5C",
+    "OL6RA072DV5R",
+    "OL8FA119T60B",
+    "OL8FA119T60C",
+    "OL8FA119T60R",
+    "OL8RA119T60B",
+    "OL8RA119T60C",
+    "OL8RA119T60R"
+   ],
+   "url": "https://www.manualslib.com/manual/2119809/Thermo-Pride-Ol6fa072d48b.html"
+  },
+  {
+   "manualId": "170195",
+   "slug": "Thermo-Pride-Built-Tough-For-Lifetime-Comfort-Omc-70",
+   "title": "OMC-70 specification",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "OMC-70",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/170195/Thermo-Pride-Built-Tough-For-Lifetime-Comfort-Omc-70.html"
+  },
+  {
+   "manualId": "2364127",
+   "slug": "Thermo-Pride-Ome-72t36",
+   "title": "OME-72D36 Installation and service manual",
+   "type": "Service",
+   "pages": 55,
+   "productModel": "OME-72D36",
+   "extraModels": [
+    "OME-72D36"
+   ],
+   "url": "https://www.manualslib.com/manual/2364127/Thermo-Pride-Ome-72t36.html"
+  },
+  {
+   "manualId": "4183536",
+   "slug": "Thermo-Pride-Ome-72d36",
+   "title": "OME-72D36 Installation and service manual",
+   "type": "Service",
+   "pages": 23,
+   "productModel": "OME-72D36",
+   "extraModels": [
+    "OME-72T36"
+   ],
+   "url": "https://www.manualslib.com/manual/4183536/Thermo-Pride-Ome-72d36.html"
+  },
+  {
+   "manualId": "905091",
+   "slug": "Thermo-Pride-Ome-72d36",
+   "title": "OME-72D36 Installation and service manual",
+   "type": "Service",
+   "pages": 49,
+   "productModel": "OME-72D36",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/905091/Thermo-Pride-Ome-72d36.html"
+  },
+  {
+   "manualId": "732559",
+   "slug": "Thermo-Pride-Opa",
+   "title": "OPA Installation and service manual",
+   "type": "Service",
+   "pages": 91,
+   "productModel": "OPA",
+   "extraModels": [
+    "OPA24-80",
+    "OPA30-80",
+    "OPA36-80",
+    "OPA42-80"
+   ],
+   "url": "https://www.manualslib.com/manual/732559/Thermo-Pride-Opa.html"
+  },
+  {
+   "manualId": "3832596",
+   "slug": "Thermo-Pride-Ot5-85",
+   "title": "OT5-85 Installation and operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "OT5-85",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3832596/Thermo-Pride-Ot5-85.html"
+  },
+  {
+   "manualId": "766549",
+   "slug": "Thermo-Pride-Pgt5-100",
+   "title": "PGL20-180 Installation and service manual",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "PGL20-180",
+   "extraModels": [
+    "PGL20-180",
+    "PGL33-250",
+    "PGL37-312",
+    "PGL39-400",
+    "PGT11-125",
+    "PGT16-160"
+   ],
+   "url": "https://www.manualslib.com/manual/766549/Thermo-Pride-Pgt5-100.html"
+  },
+  {
+   "manualId": "3525424",
+   "slug": "Thermo-Pride-Pgl20fa180t60",
+   "title": "PGL20FA180T60 Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "PGL20FA180T60",
+   "extraModels": [
+    "PGL20RA180T60"
+   ],
+   "url": "https://www.manualslib.com/manual/3525424/Thermo-Pride-Pgl20fa180t60.html"
+  },
+  {
+   "manualId": "170194",
+   "slug": "Thermo-Pride-13-Seer",
+   "title": "Specification",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/170194/Thermo-Pride-13-Seer.html"
+  },
+  {
+   "manualId": "170208",
+   "slug": "Thermo-Pride-Premiere-Series",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/170208/Thermo-Pride-Premiere-Series.html"
+  },
+  {
+   "manualId": "1102428",
+   "slug": "Thermo-Pride-Thermo-Pace-Downflow-Horizontal-Furnace",
+   "title": "Thermo Pace Downflow/Horizontal Furnace Installer's information manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Thermo Pace Downflow/Horizontal Furnace",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1102428/Thermo-Pride-Thermo-Pace-Downflow-Horizontal-Furnace.html"
+  },
+  {
+   "manualId": "170203",
+   "slug": "Thermo-Pride-Oh6",
+   "title": "Thermo Pride OH6 Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "OH6FX072DV4R"
+   ],
+   "url": "https://www.manualslib.com/manual/170203/Thermo-Pride-Oh6.html"
+  },
+  {
+   "manualId": "4177860",
+   "slug": "Thermo-Pride-Thv1c072a948sa",
+   "title": "THV1C072A948SA Installation, operation and service manual",
+   "type": "Service",
+   "pages": 31,
+   "productModel": "THV1C072A948SA",
+   "extraModels": [
+    "THV1C072A9V4SA"
+   ],
+   "url": "https://www.manualslib.com/manual/4177860/Thermo-Pride-Thv1c072a948sa.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "thermo-pride"
+ ]
+}

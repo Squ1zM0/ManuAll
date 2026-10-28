@@ -1,0 +1,3592 @@
+{
+ "brand": "MrCool",
+ "brandSlug": "mrcool",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/mrcool/"
+ ],
+ "slugUsed": "mrcool",
+ "capturedAt": "2026-10-28T08:42:45.895344+00:00",
+ "typePages": [
+  {
+   "path": "/brand/mrcool/air-conditioner.html",
+   "manuals": 571,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/air-handlers.html",
+   "manuals": 418,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/blower.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/controller.html",
+   "manuals": 24,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/electric-heater.html",
+   "manuals": 16,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/fan.html",
+   "manuals": 49,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/furnace.html",
+   "manuals": 89,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/heat-pump.html",
+   "manuals": 184,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/heater.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/heating-system.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/industrial-equipment.html",
+   "manuals": 29,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/inverter.html",
+   "manuals": 37,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/racks-and-stands.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/refrigerator.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/remote-control.html",
+   "manuals": 52,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/safety-equipment.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/switch.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/thermostat.html",
+   "manuals": 24,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/tv-mount.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/water-dispenser.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/mrcool/water-heater.html",
+   "manuals": 11,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3384620",
+   "slug": "Mrcool-16117100003415",
+   "title": "16117100003415 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "16117100003415",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3384620/Mrcool-16117100003415.html"
+  },
+  {
+   "manualId": "2736054",
+   "slug": "Mrcool-18-Series",
+   "title": "18 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 23,
+   "productModel": "18 Series",
+   "extraModels": [
+    "MAC18024",
+    "MAC18036",
+    "MAC18042",
+    "MAC18048",
+    "MAH18024",
+    "MAH18036",
+    "MAH18042",
+    "MAH18048"
+   ],
+   "url": "https://www.manualslib.com/manual/2736054/Mrcool-18-Series.html"
+  },
+  {
+   "manualId": "3839694",
+   "slug": "Mrcool-24k",
+   "title": "24K user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "24K",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3839694/Mrcool-24k.html"
+  },
+  {
+   "manualId": "3839695",
+   "slug": "Mrcool-48k",
+   "title": "48K user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "48K",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3839695/Mrcool-48k.html"
+  },
+  {
+   "manualId": "4118611",
+   "slug": "Mrcool-Mrbreeze-Mrf1016plow",
+   "title": "840255588645 installation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "840255588645",
+   "extraModels": [
+    "840255588645"
+   ],
+   "url": "https://www.manualslib.com/manual/4118611/Mrcool-Mrbreeze-Mrf1016plow.html"
+  },
+  {
+   "manualId": "4546216",
+   "slug": "Mrcool-Bsuf2cln1",
+   "title": "840255591997 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "840255591997",
+   "extraModels": [
+    "840255591997"
+   ],
+   "url": "https://www.manualslib.com/manual/4546216/Mrcool-Bsuf2cln1.html"
+  },
+  {
+   "manualId": "4525915",
+   "slug": "Mrcool-Easy-Pro-Ezpro-Hp-Wmah-115de-O-Series",
+   "title": "840255595469 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "840255595469",
+   "extraModels": [
+    "840255595469",
+    "840255595490",
+    "840255595964",
+    "840255595988",
+    "840255595995",
+    "840255596008",
+    "840255596015",
+    "Easy Pro EZPRO HP-C-11511DE-O Series",
+    "Easy Pro EZPRO HP-C-23011DE-O Series",
+    "Easy Pro EZPRO HP-WMAH-230DE-O Series",
+    "Easy Pro EZPRO-09-HP-C-11511DE-O",
+    "Easy Pro EZPRO-09-HP-WMAH-115DE-O",
+    "Easy Pro EZPRO-12-HP-C-11511DE-O",
+    "Easy Pro EZPRO-12-HP-WMAH-115DE-O",
+    "Easy Pro EZPRO-18-HP-C-23011DE-O",
+    "Easy Pro EZPRO-18-HP-WMAH-230DE-O",
+    "Easy Pro EZPRO-24-HP-C-23011DE-O",
+    "Easy Pro EZPRO-24-HP-WMAH-230DE-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4525915/Mrcool-Easy-Pro-Ezpro-Hp-Wmah-115de-O-Series.html"
+  },
+  {
+   "manualId": "3918197",
+   "slug": "Mrcool-A-09-Hp-115b",
+   "title": "A-09-HP-115B user manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "A-09-HP-115B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3918197/Mrcool-A-09-Hp-115b.html"
+  },
+  {
+   "manualId": "3421267",
+   "slug": "Mrcool-A-12-Hp-115b-Ms",
+   "title": "A-09-HP-230C installation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "A-09-HP-230C",
+   "extraModels": [
+    "A-09-HP-230C",
+    "A-09-HP-C-230C",
+    "A-12-HP-C-115C",
+    "A-12-HP-C-230C",
+    "A-18-HP-C-230C",
+    "A-24-HP-230C",
+    "Advantage Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3421267/Mrcool-A-12-Hp-115b-Ms.html"
+  },
+  {
+   "manualId": "3496209",
+   "slug": "Mrcool-Advantage-Series",
+   "title": "A-09-HP-C-115B Installation & owner's manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "A-09-HP-C-115B",
+   "extraModels": [
+    "A-09-HP-C-115B",
+    "A-09-HP-C-230B",
+    "A-12-HP-C-115B",
+    "A-12-HP-C-230B",
+    "A-18-HP-C-230B",
+    "A-24-HP-C-230B",
+    "A-36-HP-C-230B"
+   ],
+   "url": "https://www.manualslib.com/manual/3496209/Mrcool-Advantage-Series.html"
+  },
+  {
+   "manualId": "3109204",
+   "slug": "Mrcool-A-09-Hp-C-115b",
+   "title": "A-09-HP-C-115B installation manual",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "A-09-HP-C-115B",
+   "extraModels": [
+    "A-09-HP-C-230B",
+    "A-12-HP-C-115B",
+    "A-12-HP-C-230B",
+    "A-18-HP-C-230B",
+    "A-24-HP-C-230B",
+    "A-36-HP-C-230B",
+    "Advantage Series",
+    "A-09-HP-230B",
+    "A-12-HP-230B",
+    "A-18-HP-230B"
+   ],
+   "url": "https://www.manualslib.com/manual/3109204/Mrcool-A-09-Hp-C-115b.html"
+  },
+  {
+   "manualId": "3109317",
+   "slug": "Mrcool-A-36-Hp-230b",
+   "title": "A-09-HP-WMAH-115B user manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "A-09-HP-WMAH-115B",
+   "extraModels": [
+    "A-09-HP-WMAH-115B",
+    "A-12-HP-115B",
+    "A-12-HP-C-230B",
+    "A-18-HP-C-230B",
+    "Advantage Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3109317/Mrcool-A-36-Hp-230b.html"
+  },
+  {
+   "manualId": "3855747",
+   "slug": "Mrcool-A-12-Hp-C-230",
+   "title": "A-12-HP-C-230 installation manual",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "A-12-HP-C-230",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3855747/Mrcool-A-12-Hp-C-230.html"
+  },
+  {
+   "manualId": "3918196",
+   "slug": "Mrcool-A-24-Hp-230b",
+   "title": "A-24-HP-230B user manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "A-24-HP-230B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3918196/Mrcool-A-24-Hp-230b.html"
+  },
+  {
+   "manualId": "3837568",
+   "slug": "Mrcool-Advantage-12k",
+   "title": "Advantage 12k installation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "Advantage 12k",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3837568/Mrcool-Advantage-12k.html"
+  },
+  {
+   "manualId": "1140526",
+   "slug": "Mrcool-Advantage-9k",
+   "title": "Advantage 18k installation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "Advantage 18k",
+   "extraModels": [
+    "Advantage 18k"
+   ],
+   "url": "https://www.manualslib.com/manual/1140526/Mrcool-Advantage-9k.html"
+  },
+  {
+   "manualId": "1200656",
+   "slug": "Mrcool-9k",
+   "title": "Advantage 18k user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "Advantage 18k",
+   "extraModels": [
+    "Advantage 18k",
+    "Oasis 12k"
+   ],
+   "url": "https://www.manualslib.com/manual/1200656/Mrcool-9k.html"
+  },
+  {
+   "manualId": "3768782",
+   "slug": "Mrcool-Advantage-A-Hp-Wmah-115d-O-Series",
+   "title": "Advantage A-09-HP-230D-O Installation & owner's manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "Advantage A-09-HP-230D-O",
+   "extraModels": [
+    "Advantage A-09-HP-230D-O",
+    "Advantage A-09-HP-C-115D-O",
+    "Advantage A-09-HP-C-230D-O",
+    "Advantage A-09-HP-WMAH-115D-O",
+    "Advantage A-09-HP-WMAH-230D-O",
+    "Advantage A-12-HP-115D-O",
+    "Advantage A-12-HP-230D-O",
+    "Advantage A-12-HP-C-115D-O",
+    "Advantage A-12-HP-C-230D-O",
+    "Advantage A-12-HP-WMAH-115D-O",
+    "Advantage A-12-HP-WMAH-230D-O",
+    "Advantage A-18-HP-230D-O",
+    "Advantage A-18-HP-C-230D-O",
+    "Advantage A-18-HP-WMAH-230D-O",
+    "Advantage A-24-HP-C-230D-O",
+    "Advantage A-24-HP-WMAH-230D-O",
+    "Advantage A-36-HP-C-230D-O",
+    "Advantage A-36-HP-WMAH-230D-O",
+    "Advantage A-HP-C-115D-O Series",
+    "Advantage A-HP-C-230D-O Series",
+    "Advantage A-HP-WMAH-230D-O Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3768782/Mrcool-Advantage-A-Hp-Wmah-115d-O-Series.html"
+  },
+  {
+   "manualId": "3739565",
+   "slug": "Mrcool-Advantage-A-Hp-Wmah-115d25-O-Series",
+   "title": "Advantage A-09-HP-C-115D-O Service manual",
+   "type": "Service",
+   "pages": 114,
+   "productModel": "Advantage A-09-HP-C-115D-O",
+   "extraModels": [
+    "Advantage A-09-HP-C-115D-O",
+    "Advantage A-09-HP-C-230D-O",
+    "Advantage A-09-HP-WMAH-115D-O",
+    "Advantage A-09-HP-WMAH-230D-O",
+    "Advantage A-12-HP-C-115D-O",
+    "Advantage A-12-HP-C-230D-O",
+    "Advantage A-12-HP-WMAH-115D-O",
+    "Advantage A-12-HP-WMAH-230D-O",
+    "Advantage A-18-HP-C-230D-O",
+    "Advantage A-18-HP-WMAH-230D-O",
+    "Advantage A-24-HP-C-230D-O",
+    "Advantage A-24-HP-WMAH-230D-O",
+    "Advantage A-36-HP-C-230D-O",
+    "Advantage A-36-HP-WMAH-230D-O",
+    "DIY HP-C-115D25-O Series",
+    "DIY HP-C-230D25-O Series",
+    "DIY HP-WMAH-230D25-O Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3739565/Mrcool-Advantage-A-Hp-Wmah-115d25-O-Series.html"
+  },
+  {
+   "manualId": "3047929",
+   "slug": "Mrcool-Advantage-A-36-Hp-230c",
+   "title": "Advantage A-36-HP-230C Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "Advantage A-36-HP-230C",
+   "extraModels": [
+    "Advantage Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3047929/Mrcool-Advantage-A-36-Hp-230c.html"
+  },
+  {
+   "manualId": "1194356",
+   "slug": "Mrcool-Advantage-Series",
+   "title": "Advantage Series installation manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "Advantage Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1194356/Mrcool-Advantage-Series.html"
+  },
+  {
+   "manualId": "1575588",
+   "slug": "Mrcool-Advantage-Series",
+   "title": "Advantage Series installation manual",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "Advantage Series",
+   "extraModels": [
+    "A-09-HP-C-230A",
+    "A-18-HP-C-230A",
+    "A-24-HP-C-230A"
+   ],
+   "url": "https://www.manualslib.com/manual/1575588/Mrcool-Advantage-Series.html"
+  },
+  {
+   "manualId": "1631495",
+   "slug": "Mrcool-Advantage-Series",
+   "title": "Advantage Series installation manual",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "Advantage Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1631495/Mrcool-Advantage-Series.html"
+  },
+  {
+   "manualId": "1809481",
+   "slug": "Mrcool-Advantage-Series",
+   "title": "Advantage Series installation manual",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "Advantage Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1809481/Mrcool-Advantage-Series.html"
+  },
+  {
+   "manualId": "2241963",
+   "slug": "Mrcool-Advantage-Series",
+   "title": "Advantage Series installation manual",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "Advantage Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2241963/Mrcool-Advantage-Series.html"
+  },
+  {
+   "manualId": "1594925",
+   "slug": "Mrcool-Advantage-Series",
+   "title": "Advantage Series user manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "Advantage Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1594925/Mrcool-Advantage-Series.html"
+  },
+  {
+   "manualId": "1708531",
+   "slug": "Mrcool-Advantage-Series",
+   "title": "Advantage Series user manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "Advantage Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1708531/Mrcool-Advantage-Series.html"
+  },
+  {
+   "manualId": "1956796",
+   "slug": "Mrcool-Advantage-Series",
+   "title": "Advantage Series user manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "Advantage Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1956796/Mrcool-Advantage-Series.html"
+  },
+  {
+   "manualId": "1625804",
+   "slug": "Mrcool-Smart-Controller",
+   "title": "BI-03 Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "BI-03",
+   "extraModels": [
+    "BI-03"
+   ],
+   "url": "https://www.manualslib.com/manual/1625804/Mrcool-Smart-Controller.html"
+  },
+  {
+   "manualId": "1997492",
+   "slug": "Mrcool-Smart-Hvac-Mini-Stat",
+   "title": "BP102WA user manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "BP102WA",
+   "extraModels": [
+    "BP102WA"
+   ],
+   "url": "https://www.manualslib.com/manual/1997492/Mrcool-Smart-Hvac-Mini-Stat.html"
+  },
+  {
+   "manualId": "4114185",
+   "slug": "Mrcool-Central-18-Hpmuah-230-25",
+   "title": "CENTRAL-18-HP-C-230-25 Service manual",
+   "type": "Service",
+   "pages": 260,
+   "productModel": "CENTRAL-18-HP-C-230-25",
+   "extraModels": [
+    "CENTRAL-18-HP-C-230-25",
+    "CENTRAL-24-HP-C-230-25",
+    "CENTRAL-24-HPMUAH-230-25",
+    "CENTRAL-30-HP-C-230-25",
+    "CENTRAL-30-HPMUAH-230-25",
+    "CENTRAL-36-HP-C-230-00",
+    "CENTRAL-36-HPMUAH-230-00",
+    "CENTRAL-48-HP-C-230-00",
+    "CENTRAL-48-HPMUAH-230-00",
+    "CENTRAL-60-HP-C-230-00",
+    "CENTRAL-60-HPMUAH-230-00"
+   ],
+   "url": "https://www.manualslib.com/manual/4114185/Mrcool-Central-18-Hpmuah-230-25.html"
+  },
+  {
+   "manualId": "4501296",
+   "slug": "Mrcool-Diy-Diys-Hp-Wmah-230a13-O-Series",
+   "title": "DIY DIYS HP-C-115A11-O Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "DIY DIYS HP-C-115A11-O Series",
+   "extraModels": [
+    "DIY DIYS HP-C-115A11-O Series",
+    "DIY DIYS HP-C-230A11-O Series",
+    "DIY DIYS HP-WMAH-115A13-O Series",
+    "DIY DIYS-09-HP-115A11-O",
+    "DIY DIYS-12-HP-115A11-O",
+    "DIY DIYS-18-HP-230A11-O",
+    "DIY DIYS-24-HP-230A11-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4501296/Mrcool-Diy-Diys-Hp-Wmah-230a13-O-Series.html"
+  },
+  {
+   "manualId": "4501293",
+   "slug": "Mrcool-Diy-Diys-Hp-Wmah-115a13-O-Series",
+   "title": "DIY DIYS HP-C-115A11-O Series Service manual",
+   "type": "Service",
+   "pages": 92,
+   "productModel": "DIY DIYS HP-C-115A11-O Series",
+   "extraModels": [
+    "DIY DIYS HP-C-115A11-O Series",
+    "DIY DIYS HP-C-230A11-O Series",
+    "DIY DIYS HP-WMAH-230A13-O Series",
+    "DIY DIYS-09-HP-115A11-O",
+    "DIY DIYS-12-HP-115A11-O",
+    "DIY DIYS-18-HP-230A11-O",
+    "DIY DIYS-24-HP-230A11-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4501293/Mrcool-Diy-Diys-Hp-Wmah-115a13-O-Series.html"
+  },
+  {
+   "manualId": "4535093",
+   "slug": "Mrcool-Diy-Select-Diys-Hp-C-115a11-O-Series",
+   "title": "DIY DIYS HP-C-115A11-O Series Service manual",
+   "type": "Service",
+   "pages": 92,
+   "productModel": "DIY DIYS HP-C-115A11-O Series",
+   "extraModels": [
+    "DIY DIYS HP-C-230A11-O Series",
+    "DIY DIYS HP-WMAH-115A13-O Series",
+    "DIY DIYS HP-WMAH-230A13-O Series",
+    "DIY Select DIYS-12-HP-C-115A11-O",
+    "DIY Select DIYS-12-HP-WMAH-115A13-O",
+    "DIY Select DIYS-24-HP-C-230A11-O",
+    "DIY Select DIYS-24-HP-WMAH-230A13-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4535093/Mrcool-Diy-Select-Diys-Hp-C-115a11-O-Series.html"
+  },
+  {
+   "manualId": "2011936",
+   "slug": "Mrcool-Diy-E-Star-Series",
+   "title": "DIY E Star Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "DIY E Star Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2011936/Mrcool-Diy-E-Star-Series.html"
+  },
+  {
+   "manualId": "2598906",
+   "slug": "Mrcool-Diy-E-Star-Series",
+   "title": "DIY E Star Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "DIY E Star Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2598906/Mrcool-Diy-E-Star-Series.html"
+  },
+  {
+   "manualId": "1724969",
+   "slug": "Mrcool-Diy-E-Star-Series",
+   "title": "DIY E Star Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "DIY E Star Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1724969/Mrcool-Diy-E-Star-Series.html"
+  },
+  {
+   "manualId": "2338526",
+   "slug": "Mrcool-Diy-E-Star-Series",
+   "title": "DIY E Star Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "DIY E Star Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2338526/Mrcool-Diy-E-Star-Series.html"
+  },
+  {
+   "manualId": "3192936",
+   "slug": "Mrcool-Diy-12-Hp-Wm-115c25",
+   "title": "DIY E Star Series quick start manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": "DIY E Star Series",
+   "extraModels": [
+    "DIY E Star Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3192936/Mrcool-Diy-12-Hp-Wm-115c25.html"
+  },
+  {
+   "manualId": "1780140",
+   "slug": "Mrcool-Diy-E-Star-Series",
+   "title": "DIY E Star Series Quick start setup manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": "DIY E Star Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1780140/Mrcool-Diy-E-Star-Series.html"
+  },
+  {
+   "manualId": "2241545",
+   "slug": "Mrcool-Diy-E-Star-Series",
+   "title": "DIY E Star Series Quick start setup manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": "DIY E Star Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2241545/Mrcool-Diy-E-Star-Series.html"
+  },
+  {
+   "manualId": "2884387",
+   "slug": "Mrcool-Diy-E-Star-Series",
+   "title": "DIY E Star Series troubleshooting manual",
+   "type": "Service",
+   "pages": 55,
+   "productModel": "DIY E Star Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2884387/Mrcool-Diy-E-Star-Series.html"
+  },
+  {
+   "manualId": "2605849",
+   "slug": "Mrcool-Easy-Pro-Rg10a",
+   "title": "DIY E-Star BGEFU1 user manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "DIY E-Star BGEFU1",
+   "extraModels": [
+    "DIY E-Star BGEFU1",
+    "DIY E-Star RG10A4",
+    "Easy Pro BGEFU1"
+   ],
+   "url": "https://www.manualslib.com/manual/2605849/Mrcool-Easy-Pro-Rg10a.html"
+  },
+  {
+   "manualId": "3721788",
+   "slug": "Mrcool-Diy-Series",
+   "title": "DIY HP-C-115D25-O Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "DIY HP-C-115D25-O Series",
+   "extraModels": [
+    "DIY HP-C-115D25-O Series",
+    "DIY HP-C-230D25-O Series",
+    "DIY HP-WMAH-115D25-O Series",
+    "DIY HP-WMAH-230D25-O Series",
+    "DIY-09-HP-C-115D25-O",
+    "DIY-09-HP-WM-115D25-O",
+    "DIY-09-HP-WMAH-115D25-O",
+    "DIY-12-HP-C-115D25-O",
+    "DIY-12-HP-WM-115D25-O",
+    "DIY-12-HP-WMAH-115D25-O",
+    "DIY-18-HP-C-230D25-O",
+    "DIY-18-HP-WM-230D25-O",
+    "DIY-18-HP-WMAH-230D25-O",
+    "DIY-24-HP-C-230D25-O",
+    "DIY-24-HP-WM-230D25-O",
+    "DIY-24-HP-WMAH-230D25-O",
+    "DIY-36-HP-C-230D25-O",
+    "DIY-36-HP-WM-230D25-O",
+    "DIY-36-HP-WMAH-230D25-O",
+    "DIY5-4Z-36HP-24K9K6K6K"
+   ],
+   "url": "https://www.manualslib.com/manual/3721788/Mrcool-Diy-Series.html"
+  },
+  {
+   "manualId": "4107510",
+   "slug": "Mrcool-Diy-Series",
+   "title": "DIY HP-C-115D25-O Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 138,
+   "productModel": "DIY HP-C-115D25-O Series",
+   "extraModels": [
+    "DIY HP-C-115D25-O Series",
+    "DIY HP-C-230D25-O Series",
+    "DIY HP-WMAH-115D25-O Series",
+    "DIY HP-WMAH-230D25-O Series",
+    "DIY-09-HP-WM-115D25-O",
+    "DIY-12-HP-WM-115D25-O",
+    "DIY-18-HP-WM-230D25-O",
+    "DIY-24-HP-WM-230D25-O",
+    "DIY-36-HP-WM-230D25-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4107510/Mrcool-Diy-Series.html"
+  },
+  {
+   "manualId": "3736004",
+   "slug": "Mrcool-Easy-Pro-Ezpro-Hp-Wmah-115d25-O-Series",
+   "title": "DIY HP-C-115D25-O Series Service manual",
+   "type": "Service",
+   "pages": 92,
+   "productModel": "DIY HP-C-115D25-O Series",
+   "extraModels": [
+    "DIY HP-C-115D25-O Series",
+    "DIY HP-C-230D25-O Series",
+    "DIY HP-WMAH-230D25-O Series",
+    "Easy Pro EZPRO-09-HP-C-115D-O",
+    "Easy Pro EZPRO-09-HP-WMAH-115D-O",
+    "Easy Pro EZPRO-12-HP-C-115D-O",
+    "Easy Pro EZPRO-12-HP-WMAH-115D-O",
+    "Easy Pro EZPRO-18-HP-C-230D-O",
+    "Easy Pro EZPRO-18-HP-WMAH-230D-O",
+    "Easy Pro EZPRO-24-HP-C-230D-O",
+    "Easy Pro EZPRO-24-HP-WMAH-230D-O"
+   ],
+   "url": "https://www.manualslib.com/manual/3736004/Mrcool-Easy-Pro-Ezpro-Hp-Wmah-115d25-O-Series.html"
+  },
+  {
+   "manualId": "3779210",
+   "slug": "Mrcool-Diy-Hp-Wmah-230d25-O-Series",
+   "title": "DIY HP-C-115D25-O Series Service manual",
+   "type": "Service",
+   "pages": 95,
+   "productModel": "DIY HP-C-115D25-O Series",
+   "extraModels": [
+    "DIY HP-C-115D25-O Series",
+    "DIY HP-C-230D25-O Series",
+    "DIY HP-WMAH-115D25-O Series",
+    "DIY Series",
+    "DIY-09-HP-C-115D25-O",
+    "DIY-09-HP-WM-115D25-O",
+    "DIY-09-HP-WMAH-115D25-O",
+    "DIY-12-HP-C-115D25-O",
+    "DIY-12-HP-WM-115D25-O",
+    "DIY-12-HP-WMAH-115D25-O",
+    "DIY-18-HP-C-230D25-O",
+    "DIY-18-HP-WM-230D25-O",
+    "DIY-18-HP-WMAH-230D25-O",
+    "DIY-24-HP-C-230D25-O",
+    "DIY-24-HP-WM-230D25-O",
+    "DIY-24-HP-WMAH-230D25-O",
+    "DIY-36-HP-C-230D25-O",
+    "DIY-36-HP-WM-230D25-O",
+    "DIY-36-HP-WMAH-230D25-O"
+   ],
+   "url": "https://www.manualslib.com/manual/3779210/Mrcool-Diy-Hp-Wmah-230d25-O-Series.html"
+  },
+  {
+   "manualId": "4118792",
+   "slug": "Mrcool-Diy-Hp-Muah-230d25-O-Series",
+   "title": "DIY HP-C-230D25-O Series Service manual",
+   "type": "Service",
+   "pages": 132,
+   "productModel": "DIY HP-C-230D25-O Series",
+   "extraModels": [
+    "DIY HP-C-230D25-O Series",
+    "DIY-24-HP-C-230D25-O",
+    "DIY-36-HP-C-230D25-O",
+    "DIY-24-HP-MUAH-230D25-O",
+    "DIY-36-HP-MUAH-230D25-O",
+    "DIYH-2Z-36HP-24HP-6K",
+    "DIYH-2Z-36HP-24HP-9K",
+    "DIYH-2Z-48HP-36HP-6k",
+    "DIYH-2Z-48HP-36HP-9k"
+   ],
+   "url": "https://www.manualslib.com/manual/4118792/Mrcool-Diy-Hp-Muah-230d25-O-Series.html"
+  },
+  {
+   "manualId": "4140238",
+   "slug": "Mrcool-Diy-Series",
+   "title": "DIY HP-C-230D25-O Series Service manual",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "DIY HP-C-230D25-O Series",
+   "extraModels": [
+    "DIY HP-C-230D25-O Series",
+    "DIY-MULTI3-18HP230D-O",
+    "DIY-MULTI4-27HP230D-O",
+    "DIY-MULTI5-36HP230D-O",
+    "DIY-MULTI6-48HP230-O",
+    "DIY-MULTI6-55HP230D-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4140238/Mrcool-Diy-Series.html"
+  },
+  {
+   "manualId": "3700779",
+   "slug": "Mrcool-Diy-Series",
+   "title": "DIY HP-WMAH-230D25-O Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "DIY HP-WMAH-230D25-O Series",
+   "extraModels": [
+    "DIY HP-WMAH-230D25-O Series",
+    "DIY-06-HP-WMAH-230D25-O",
+    "DIY-09-HP-WMAH-230D25-O",
+    "DIY-12-HP-WMAH-230D25-O",
+    "DIY-18-HP-C-230D25-O",
+    "DIY-18-HP-WMAH-230D25-O",
+    "DIY-24-HP-C-230D25-O",
+    "DIY-24-HP-WMAH-230D25-O",
+    "DIY-36-HP-C-230D25-O",
+    "DIY-36-HP-WMAH-230D25-O",
+    "DIY-MULTI HP230D-O Series",
+    "DIY-MULTI3-18HP230D-O",
+    "DIY-MULTI4-27HP230D-O",
+    "DIY-MULTI5-36HP230D-O",
+    "DIY-MULTI6-48HP230D-O",
+    "DIY-MULTI6-55HP230D-O",
+    "DIYCASSETTE HP-230D25-O Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3700779/Mrcool-Diy-Series.html"
+  },
+  {
+   "manualId": "2599206",
+   "slug": "Mrcool-Diy",
+   "title": "DIY Installation & owner's manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "DIY",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2599206/Mrcool-Diy.html"
+  },
+  {
+   "manualId": "3795595",
+   "slug": "Mrcool-Diy-Outtasight-Diycassettehp-230d25-O-Series",
+   "title": "DIY Outtasight DIYCASSETTE06HP-230D25-O Installation & owner's manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "DIY Outtasight DIYCASSETTE06HP-230D25-O",
+   "extraModels": [
+    "DIY Outtasight DIYCASSETTE06HP-230D25-O",
+    "DIY Outtasight DIYCASSETTE09HP-230D25-O",
+    "DIY Outtasight DIYCASSETTE12HP-230D25-O",
+    "DIY Outtasight DIYCASSETTE18HP-230D25-O",
+    "DIY Outtasight DIYHH-12-HP-C-230D25-O",
+    "DIY Outtasight DIYHH-18-HP-C-230D25-O",
+    "DIY-18-HP-C-230D25-O",
+    "DIY-MULTI3-18HP230D-O",
+    "DIY-MULTI4-27HP230D-O",
+    "DIY-MULTI5-36HP230D-O",
+    "DIY-MULTI6-48HP230D-O",
+    "DIY-MULTI6-55HP230D-O",
+    "Outtasight DIY Series",
+    "Outtasight DIY-24-HP-C-23025-O",
+    "Outtasight DIY-36-HP-C-23025-O"
+   ],
+   "url": "https://www.manualslib.com/manual/3795595/Mrcool-Diy-Outtasight-Diycassettehp-230d25-O-Series.html"
+  },
+  {
+   "manualId": "3965371",
+   "slug": "Mrcool-Outtasight-Diy-Series",
+   "title": "DIY Outtasight DIYCASSETTE06HP-230D25-O Service manual",
+   "type": "Service",
+   "pages": 95,
+   "productModel": "DIY Outtasight DIYCASSETTE06HP-230D25-O",
+   "extraModels": [
+    "DIY Outtasight DIYCASSETTE06HP-230D25-O",
+    "DIY Outtasight DIYCASSETTE09HP-230D25-O",
+    "DIY Outtasight DIYCASSETTE12HP-230D25-O",
+    "DIY Outtasight DIYCASSETTE18HP-230D25-O",
+    "DIYCASSETTE HP-230D25-O Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3965371/Mrcool-Outtasight-Diy-Series.html"
+  },
+  {
+   "manualId": "1123988",
+   "slug": "Mrcool-Diy-Series",
+   "title": "DIY Series installation manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "DIY Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1123988/Mrcool-Diy-Series.html"
+  },
+  {
+   "manualId": "1188039",
+   "slug": "Mrcool-Diy-Series",
+   "title": "DIY Series installation manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "DIY Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1188039/Mrcool-Diy-Series.html"
+  },
+  {
+   "manualId": "4056874",
+   "slug": "Mrcool-Diy-Series",
+   "title": "DIY Series installation manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "DIY Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4056874/Mrcool-Diy-Series.html"
+  },
+  {
+   "manualId": "1006369",
+   "slug": "Mrcool-Diy-Series",
+   "title": "DIY Series owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "DIY Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1006369/Mrcool-Diy-Series.html"
+  },
+  {
+   "manualId": "1570283",
+   "slug": "Mrcool-Diy-Series",
+   "title": "DIY Series Setup manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "DIY Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1570283/Mrcool-Diy-Series.html"
+  },
+  {
+   "manualId": "1011785",
+   "slug": "Mrcool-Diy-Series",
+   "title": "DIY Series user manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "DIY Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1011785/Mrcool-Diy-Series.html"
+  },
+  {
+   "manualId": "1123004",
+   "slug": "Mrcool-Diy-Series",
+   "title": "DIY Series user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "DIY Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1123004/Mrcool-Diy-Series.html"
+  },
+  {
+   "manualId": "1123223",
+   "slug": "Mrcool-Diy-Series",
+   "title": "DIY Series user manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "DIY Series",
+   "extraModels": [
+    "Olympus Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1123223/Mrcool-Diy-Series.html"
+  },
+  {
+   "manualId": "1571803",
+   "slug": "Mrcool-Diy-Series",
+   "title": "DIY Series user manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "DIY Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1571803/Mrcool-Diy-Series.html"
+  },
+  {
+   "manualId": "3986884",
+   "slug": "Mrcool-Diy-Series",
+   "title": "DIY Series user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "DIY Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3986884/Mrcool-Diy-Series.html"
+  },
+  {
+   "manualId": "3985339",
+   "slug": "Mrcool-Diy-09-Hp-Wmah-230b",
+   "title": "DIY-09-HP-WMAH-230B Installation & owner's manual",
+   "type": "Installation",
+   "pages": 47,
+   "productModel": "DIY-09-HP-WMAH-230B",
+   "extraModels": [
+    "DIY-12-HP-WMAH-230B",
+    "DIY-18-HP-WMAH-230B",
+    "DIY-24-HP-WMAH-230B",
+    "DIY-MULTI3-27HP230",
+    "DIY-MULTI4-36HP230"
+   ],
+   "url": "https://www.manualslib.com/manual/3985339/Mrcool-Diy-09-Hp-Wmah-230b.html"
+  },
+  {
+   "manualId": "3862518",
+   "slug": "Mrcool-Diy-12-Hp-C-115b",
+   "title": "DIY-12-HP-C-115B Owners & installation manual",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "DIY-12-HP-C-115B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3862518/Mrcool-Diy-12-Hp-C-115b.html"
+  },
+  {
+   "manualId": "4644592",
+   "slug": "Mrcool-Diy-12-Hp-Wmah-115c25",
+   "title": "DIY-12-HP-C-115C Service manual",
+   "type": "Service",
+   "pages": 180,
+   "productModel": "DIY-12-HP-C-115C",
+   "extraModels": [
+    "DIY-12-HP-C-115C",
+    "DIY-18-HP-C-230C",
+    "DIY-18-HP-WMAH-230C25",
+    "DIY-24-HP-C-230C",
+    "DIY-24-HP-WMAH-230C25",
+    "DIY-36-HP-C-230C",
+    "DIY-36-HP-WMAH-230C25"
+   ],
+   "url": "https://www.manualslib.com/manual/4644592/Mrcool-Diy-12-Hp-Wmah-115c25.html"
+  },
+  {
+   "manualId": "3862519",
+   "slug": "Mrcool-Diy-18-Hp-C-230b",
+   "title": "DIY-18-HP-C-230B Owners & installation manual",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "DIY-18-HP-C-230B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3862519/Mrcool-Diy-18-Hp-C-230b.html"
+  },
+  {
+   "manualId": "3862520",
+   "slug": "Mrcool-Diy-24-Hp-C-230b",
+   "title": "DIY-24-HP-C-230B Owners & installation manual",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "DIY-24-HP-C-230B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3862520/Mrcool-Diy-24-Hp-C-230b.html"
+  },
+  {
+   "manualId": "4118774",
+   "slug": "Mrcool-Diy-Hp-Muah-230d25-O-Series",
+   "title": "DIY-24-HP-C-230D25-O Installation & owner's manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "DIY-24-HP-C-230D25-O",
+   "extraModels": [
+    "DIY-24-HP-C-230D25-O",
+    "DIY-36-HP-C-230D25-O",
+    "DIY-24-HP-MUAH-230D25-O",
+    "DIY-36-HP-MUAH-230D25-O",
+    "DIYH-2Z-36HP-24HP-9K",
+    "DIYH-2Z-48HP-36HP-6k",
+    "DIYH-2Z-48HP-36HP-9k"
+   ],
+   "url": "https://www.manualslib.com/manual/4118774/Mrcool-Diy-Hp-Muah-230d25-O-Series.html"
+  },
+  {
+   "manualId": "3862521",
+   "slug": "Mrcool-Diy-36-Hp-C-230b",
+   "title": "DIY-36-HP-C-230B Owners & installation manual",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "DIY-36-HP-C-230B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3862521/Mrcool-Diy-36-Hp-C-230b.html"
+  },
+  {
+   "manualId": "2769286",
+   "slug": "Mrcool-Diy-Multi2-18hp230c",
+   "title": "DIY-MULTI2-18HP230C Service manual",
+   "type": "Service",
+   "pages": 156,
+   "productModel": "DIY-MULTI2-18HP230C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2769286/Mrcool-Diy-Multi2-18hp230c.html"
+  },
+  {
+   "manualId": "3904572",
+   "slug": "Mrcool-Diy-Multi3-27hp230c",
+   "title": "DIY-MULTI3-27HP230C Service manual",
+   "type": "Service",
+   "pages": 156,
+   "productModel": "DIY-MULTI3-27HP230C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3904572/Mrcool-Diy-Multi3-27hp230c.html"
+  },
+  {
+   "manualId": "3904573",
+   "slug": "Mrcool-Diy-Multi4-36hp230c",
+   "title": "DIY-MULTI4-36HP230C Service manual",
+   "type": "Service",
+   "pages": 156,
+   "productModel": "DIY-MULTI4-36HP230C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3904573/Mrcool-Diy-Multi4-36hp230c.html"
+  },
+  {
+   "manualId": "3904574",
+   "slug": "Mrcool-Diy-Multi5-48hp230c",
+   "title": "DIY-MULTI5-48HP230C Service manual",
+   "type": "Service",
+   "pages": 156,
+   "productModel": "DIY-MULTI5-48HP230C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3904574/Mrcool-Diy-Multi5-48hp230c.html"
+  },
+  {
+   "manualId": "2923293",
+   "slug": "Mrcool-Diycassette-Hp-230c25-Series",
+   "title": "DIYCASSETTE HP-230C25 Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 59,
+   "productModel": "DIYCASSETTE HP-230C25 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2923293/Mrcool-Diycassette-Hp-230c25-Series.html"
+  },
+  {
+   "manualId": "3876288",
+   "slug": "Mrcool-E-Star-Series",
+   "title": "E Star Series installation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "E Star Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876288/Mrcool-E-Star-Series.html"
+  },
+  {
+   "manualId": "4537652",
+   "slug": "Mrcool-Easy-Pro-Ezpro-Hp-Wmah-230de11-O-Series",
+   "title": "Easy Pro EZPRO HP-C-11511DE-O Series Service manual",
+   "type": "Service",
+   "pages": 92,
+   "productModel": "Easy Pro EZPRO HP-C-11511DE-O Series",
+   "extraModels": [
+    "Easy Pro EZPRO HP-C-11511DE-O Series",
+    "Easy Pro EZPRO HP-C-23011DE-O Series",
+    "Easy Pro EZPRO HP-WMAH-115DE-O Series",
+    "Easy Pro EZPRO-09-HP-C-11511DE-O",
+    "Easy Pro EZPRO-09-HP-WMAH-115DE-O",
+    "Easy Pro EZPRO-12-HP-11511DE-O",
+    "Easy Pro EZPRO-12-HP-C-11511DE-O",
+    "Easy Pro EZPRO-12-HP-WMAH-115DE-O",
+    "Easy Pro EZPRO-18-HP-C-23011DE-O",
+    "Easy Pro EZPRO-18-HP-WMAH-230DE-O",
+    "Easy Pro EZPRO-24-HP-C-23011DE-O",
+    "Easy Pro EZPRO-24-HP-WMAH-230DE-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4537652/Mrcool-Easy-Pro-Ezpro-Hp-Wmah-230de11-O-Series.html"
+  },
+  {
+   "manualId": "3795491",
+   "slug": "Mrcool-Easy-Pro-Ezpro-Hp-Wmah-115d-O-Series",
+   "title": "Easy Pro EZPRO HP-C-11516D-O Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "Easy Pro EZPRO HP-C-11516D-O Series",
+   "extraModels": [
+    "Easy Pro EZPRO HP-C-11516D-O Series",
+    "Easy Pro EZPRO HP-C-23016D-O Series",
+    "Easy Pro EZPRO HP-WMAH-230D-O Series",
+    "Easy Pro EZPRO-09-HP-11516D-O",
+    "Easy Pro EZPRO-09-HP-C-11516D-O",
+    "Easy Pro EZPRO-09-HP-WMAH-115D-O",
+    "Easy Pro EZPRO-12-HP-C-11516D-O",
+    "Easy Pro EZPRO-18-HP-23016D-O",
+    "Easy Pro EZPRO-18-HP-WMAH-230D-O",
+    "Easy Pro EZPRO-24-HP-C-23016D-O"
+   ],
+   "url": "https://www.manualslib.com/manual/3795491/Mrcool-Easy-Pro-Ezpro-Hp-Wmah-115d-O-Series.html"
+  },
+  {
+   "manualId": "2579270",
+   "slug": "Mrcool-Easy-Pro-Fast-Connect",
+   "title": "Easy Pro Fast Connect Manual",
+   "type": "Other",
+   "pages": 45,
+   "productModel": "Easy Pro Fast Connect",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2579270/Mrcool-Easy-Pro-Fast-Connect.html"
+  },
+  {
+   "manualId": "1379494",
+   "slug": "Mrcool-Rg51f-Eu1",
+   "title": "EG51F/EU1 user manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "EG51F/EU1",
+   "extraModels": [
+    "EG51F/EU1",
+    "RG51F3/EU1"
+   ],
+   "url": "https://www.manualslib.com/manual/1379494/Mrcool-Rg51f-Eu1.html"
+  },
+  {
+   "manualId": "3198005",
+   "slug": "Mrcool-Geocool-Gcshpm-In-Series",
+   "title": "GeoCool GCSAM GN Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 66,
+   "productModel": "GeoCool GCSAM GN Series",
+   "extraModels": [
+    "GeoCool GCSAM GN Series",
+    "GeoCool GCSAR Series",
+    "GeoCool GCSBLM Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3198005/Mrcool-Geocool-Gcshpm-In-Series.html"
+  },
+  {
+   "manualId": "2310944",
+   "slug": "Mrcool-Prodirect-Series",
+   "title": "HAC140 Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "HAC140 Series",
+   "extraModels": [
+    "HAC140 Series",
+    "HHP140 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2310944/Mrcool-Prodirect-Series.html"
+  },
+  {
+   "manualId": "4516287",
+   "slug": "Mrcool-Heatwise-Mtwh04550e",
+   "title": "HeatWise MTWH04528EL Installation & owner's manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "HeatWise MTWH04528EL",
+   "extraModels": [
+    "HeatWise MTWH04528EL",
+    "HeatWise MTWH04530E",
+    "HeatWise MTWH04538EL",
+    "HeatWise MTWH04540E",
+    "HeatWise MTWH04540ET",
+    "HeatWise MTWH04550ET"
+   ],
+   "url": "https://www.manualslib.com/manual/4516287/Mrcool-Heatwise-Mtwh04550e.html"
+  },
+  {
+   "manualId": "1995744",
+   "slug": "Mrcool-Hvls",
+   "title": "HVLS installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "HVLS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1995744/Mrcool-Hvls.html"
+  },
+  {
+   "manualId": "3741646",
+   "slug": "Mrcool-Versapro-Mvp-Hp-C-230a00-O-Series",
+   "title": "Hyper Heat CENTRAL-24-HP-C-230B00-O Service manual",
+   "type": "Service",
+   "pages": 86,
+   "productModel": "Hyper Heat CENTRAL-24-HP-C-230B00-O",
+   "extraModels": [
+    "Hyper Heat CENTRAL-24-HP-C-230B00-O",
+    "Hyper Heat CENTRAL-30-HP-C-230B00-O",
+    "Hyper Heat CENTRAL-36-HP-C-230B00-O",
+    "Hyper Heat CENTRAL-48-HP-C-230B00-O",
+    "Hyper Heat CENTRAL-60-HP-C-230B00-O",
+    "Hyper Heat CENTRAL-HP-C-230B00-O Series",
+    "VersaPro MVP-18-HP-C-230A00-O",
+    "VersaPro MVP-24-HP-C-230A00-O",
+    "VersaPro MVP-30-HP-C-230A00-O",
+    "VersaPro MVP-36-HP-C-230A00-O",
+    "VersaPro MVP-48-HP-C-230A00-O",
+    "VersaPro MVP-60-HP-C-230A00-O"
+   ],
+   "url": "https://www.manualslib.com/manual/3741646/Mrcool-Versapro-Mvp-Hp-C-230a00-O-Series.html"
+  },
+  {
+   "manualId": "4640175",
+   "slug": "Mrcool-Versapro-And-Hyper-Heat-Mvp-Hp-Muah-230a00-O-Series",
+   "title": "Hyper Heat CENTRAL-36-HP-230B00-O Installation & owner's manual",
+   "type": "Installation",
+   "pages": 77,
+   "productModel": "Hyper Heat CENTRAL-36-HP-230B00-O",
+   "extraModels": [
+    "Hyper Heat CENTRAL-36-HP-230B00-O",
+    "Hyper Heat CENTRAL-HP-C-230B00-O Series",
+    "VersaPro MVP-18-HP-230A00-O",
+    "VersaPro MVP-18-HP-MUAH-230A00-O",
+    "VersaPro MVP-24-HP-230A00-O",
+    "VersaPro MVP-24-HP-MUAH-230A00-O",
+    "VersaPro MVP-30-HP-230A00-O",
+    "VersaPro MVP-36-HP-MUAH-230A00-O",
+    "VersaPro MVP-HP-C-230A00-O Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4640175/Mrcool-Versapro-And-Hyper-Heat-Mvp-Hp-Muah-230a00-O-Series.html"
+  },
+  {
+   "manualId": "3876287",
+   "slug": "Mrcool-Hyper-Heat-Series",
+   "title": "Hyper Heat Series installation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "Hyper Heat Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876287/Mrcool-Hyper-Heat-Series.html"
+  },
+  {
+   "manualId": "1035372",
+   "slug": "Mrcool-Mac13018",
+   "title": "MAC13018 installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "MAC13018",
+   "extraModels": [
+    "MAC13024",
+    "MAC13030",
+    "MAC13036",
+    "MAC13042",
+    "MAC13048",
+    "MAC13060",
+    "MHP13018",
+    "MHP13024",
+    "MHP13030",
+    "MHP13036",
+    "MHP13042",
+    "MHP13048",
+    "MHP13060"
+   ],
+   "url": "https://www.manualslib.com/manual/1035372/Mrcool-Mac13018.html"
+  },
+  {
+   "manualId": "3094339",
+   "slug": "Mrcool-Mac17-A-Series",
+   "title": "MAC17 A Series installation manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "MAC17 A Series",
+   "extraModels": [
+    "MAC17024A",
+    "Signature Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3094339/Mrcool-Mac17-A-Series.html"
+  },
+  {
+   "manualId": "2383938",
+   "slug": "Mrcool-Olympus-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2383938/Mrcool-Olympus-Series.html"
+  },
+  {
+   "manualId": "2589086",
+   "slug": "Mrcool-Mb176",
+   "title": "MB176 installation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "MB176",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2589086/Mrcool-Mb176.html"
+  },
+  {
+   "manualId": "2843248",
+   "slug": "Mrcool-Mb440a",
+   "title": "MB440A installation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "MB440A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2843248/Mrcool-Mb440a.html"
+  },
+  {
+   "manualId": "4090723",
+   "slug": "Mrcool-Mb440a-Mini-Split",
+   "title": "MB440A installation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "MB440A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4090723/Mrcool-Mb440a-Mini-Split.html"
+  },
+  {
+   "manualId": "4104620",
+   "slug": "Mrcool-Mcaehfd-X1aa-Series",
+   "title": "MCAEHFD X1AA Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "MCAEHFD X1AA Series",
+   "extraModels": [
+    "MCAEHFD10X1AA",
+    "MCAEHFD5X1AA",
+    "MCAEHFD7X1AA"
+   ],
+   "url": "https://www.manualslib.com/manual/4104620/Mrcool-Mcaehfd-X1aa-Series.html"
+  },
+  {
+   "manualId": "2418624",
+   "slug": "Mrcool-Mcdp-Series",
+   "title": "MCDP Series installation manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "MCDP Series",
+   "extraModels": [
+    "MCDP-18A Series",
+    "MCDP-24A",
+    "MCDP-24B Series",
+    "MCDP-30A Series",
+    "MCDP-30B Series",
+    "MCDP-30C Series",
+    "MCDP-36A Series",
+    "MCDP-36B Series",
+    "MCDP-36C Series",
+    "MCDP-48B Series",
+    "MCDP-48C Series",
+    "MCDP-50C Series",
+    "MCDP-60C Series",
+    "MCDP-60D Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2418624/Mrcool-Mcdp-Series.html"
+  },
+  {
+   "manualId": "3678665",
+   "slug": "Mrcool-Mcfan16pbgr",
+   "title": "MCFAN16PBGR Installation & owner's manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "MCFAN16PBGR",
+   "extraModels": [
+    "MCFAN16PBGR-B",
+    "MCFAN24XBGR",
+    "MCFAN24XBGR-B"
+   ],
+   "url": "https://www.manualslib.com/manual/3678665/Mrcool-Mcfan16pbgr.html"
+  },
+  {
+   "manualId": "4195616",
+   "slug": "Mrcool-Mcmp-Otb-Series",
+   "title": "MCMP OTB Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "MCMP OTB Series",
+   "extraModels": [
+    "MCMP1824AOTB",
+    "MCMP1824BOTB",
+    "MCMP3036BOTB",
+    "MCMP4860COTB",
+    "MCMP4860DOTB"
+   ],
+   "url": "https://www.manualslib.com/manual/4195616/Mrcool-Mcmp-Otb-Series.html"
+  },
+  {
+   "manualId": "4247058",
+   "slug": "Mrcool-Mcmp-Otb-Series",
+   "title": "MCMP OTB Series Service manual",
+   "type": "Service",
+   "pages": 74,
+   "productModel": "MCMP OTB Series",
+   "extraModels": [
+    "MCMP-1824BTOPB",
+    "MCMP1824AOTB",
+    "MCMP3036BOTB",
+    "MCMP4860DOTB"
+   ],
+   "url": "https://www.manualslib.com/manual/4247058/Mrcool-Mcmp-Otb-Series.html"
+  },
+  {
+   "manualId": "3392234",
+   "slug": "Mrcool-Mdph180604",
+   "title": "MDPH180604 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "MDPH180604",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3392234/Mrcool-Mdph180604.html"
+  },
+  {
+   "manualId": "3702013",
+   "slug": "Mrcool-Mdui18048060e",
+   "title": "MDU18024036E Installation & owner's manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "MDU18024036E",
+   "extraModels": [
+    "MDU18024036E",
+    "MDU184860ENK25",
+    "MDUI18024036E",
+    "Universal MDUI18024E",
+    "Universal MDUI18036E",
+    "Universal MDUI18048E",
+    "Universal MDUI18060E",
+    "Universal Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3702013/Mrcool-Mdui18048060e.html"
+  },
+  {
+   "manualId": "3195797",
+   "slug": "Mrcool-Mdui18060",
+   "title": "MDU18048 owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "MDU18048",
+   "extraModels": [
+    "MDU18048",
+    "Universal Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3195797/Mrcool-Mdui18060.html"
+  },
+  {
+   "manualId": "2244519",
+   "slug": "Mrcool-Universal-Mducc150-Series",
+   "title": "MDUCC15024 Owners & installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "MDUCC15024",
+   "extraModels": [
+    "MDUCC15024",
+    "MDUCC15036",
+    "MDUCC15048",
+    "MDUCC15060",
+    "UNIVERSAL MDUCC15048060"
+   ],
+   "url": "https://www.manualslib.com/manual/2244519/Mrcool-Universal-Mducc150-Series.html"
+  },
+  {
+   "manualId": "3239030",
+   "slug": "Mrcool-Mdui18024",
+   "title": "MDUI18024036E owner's manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "MDUI18024036E",
+   "extraModels": [
+    "MDUI18024036E",
+    "Universal MDUI18036",
+    "Universal Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3239030/Mrcool-Mdui18024.html"
+  },
+  {
+   "manualId": "4553003",
+   "slug": "Mrcool-Signature-Mgm-95se-Xa-Series",
+   "title": "MGM95SE045B3XA Owners & installation manual",
+   "type": "Installation",
+   "pages": 59,
+   "productModel": "MGM95SE045B3XA",
+   "extraModels": [
+    "MGM95SE045B3XA",
+    "MGM95SE070B3XA",
+    "MGM95SE090C4XA",
+    "MGM95SE110C5XA",
+    "MGM95SE135D5XA"
+   ],
+   "url": "https://www.manualslib.com/manual/4553003/Mrcool-Signature-Mgm-95se-Xa-Series.html"
+  },
+  {
+   "manualId": "2934349",
+   "slug": "Mrcool-Mhwh199nc-U-Series",
+   "title": "MHWH199NC U Series installation manual",
+   "type": "Installation",
+   "pages": 65,
+   "productModel": "MHWH199NC U Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2934349/Mrcool-Mhwh199nc-U-Series.html"
+  },
+  {
+   "manualId": "2530601",
+   "slug": "Mrcool-Mini-Stat",
+   "title": "Mini-Stat user manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "Mini-Stat",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2530601/Mrcool-Mini-Stat.html"
+  },
+  {
+   "manualId": "4560533",
+   "slug": "Mrcool-Mmfdw12d",
+   "title": "MMFDW12D Installation & owner's manual",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "MMFDW12D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4560533/Mrcool-Mmfdw12d.html"
+  },
+  {
+   "manualId": "4560559",
+   "slug": "Mrcool-Mmfdw12d",
+   "title": "MMFDW12D Service manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "MMFDW12D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4560559/Mrcool-Mmfdw12d.html"
+  },
+  {
+   "manualId": "4539743",
+   "slug": "Mrcool-Monoblock-Mthp-Series",
+   "title": "Monoblock MTHP MDM10115D Installation & owner's manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Monoblock MTHP MDM10115D",
+   "extraModels": [
+    "Monoblock MTHP MDM10115D"
+   ],
+   "url": "https://www.manualslib.com/manual/4539743/Mrcool-Monoblock-Mthp-Series.html"
+  },
+  {
+   "manualId": "4645225",
+   "slug": "Mrcool-Monoblock-Mthp-Series",
+   "title": "Monoblock MTHP MDM10115D Service manual",
+   "type": "Service",
+   "pages": 26,
+   "productModel": "Monoblock MTHP MDM10115D",
+   "extraModels": [
+    "Monoblock MTHP MDM10115D"
+   ],
+   "url": "https://www.manualslib.com/manual/4645225/Mrcool-Monoblock-Mthp-Series.html"
+  },
+  {
+   "manualId": "2245981",
+   "slug": "Mrcool-Signature-Series",
+   "title": "MPC-1M414A-2 Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "MPC-1M414A-2 Series",
+   "extraModels": [
+    "MPC-1M414A-2 Series",
+    "MPH-1M414A-2 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2245981/Mrcool-Signature-Series.html"
+  },
+  {
+   "manualId": "1994563",
+   "slug": "Mrcool-Signature-Series",
+   "title": "MPC1M414A Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "MPC1M414A Series",
+   "extraModels": [
+    "MPC1M414A Series",
+    "MPH1M414A Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1994563/Mrcool-Signature-Series.html"
+  },
+  {
+   "manualId": "3120888",
+   "slug": "Mrcool-Signature-Mpc-1m414a-Series",
+   "title": "MPC1M414A Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "MPC1M414A Series",
+   "extraModels": [
+    "MPH1M414A Series",
+    "Signature MPH241M414A",
+    "Signature MPH301M414A"
+   ],
+   "url": "https://www.manualslib.com/manual/3120888/Mrcool-Signature-Mpc-1m414a-Series.html"
+  },
+  {
+   "manualId": "2427780",
+   "slug": "Mrcool-Mrbreeze-Mrfan36",
+   "title": "MRBREEZE MRFAN36 product manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "MRBREEZE MRFAN36",
+   "extraModels": [
+    "MRBREEZE MRFAN38"
+   ],
+   "url": "https://www.manualslib.com/manual/2427780/Mrcool-Mrbreeze-Mrfan36.html"
+  },
+  {
+   "manualId": "4236547",
+   "slug": "mrcool-advantage-series-air-conditioner-installation-manual",
+   "title": "MrCool Advantage Series Air Conditioner Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4236547/mrcool-advantage-series-air-conditioner-installation-manual.html"
+  },
+  {
+   "manualId": "4042761",
+   "slug": "mrcool-diy-series-diy-hp-wmah-115d25-o-diy-hp-wmah-230d25-o-manual",
+   "title": "MrCool DIY Series, DIY HP-WMAH-115D25-O, DIY HP-WMAH-230D25-O Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4042761/mrcool-diy-series-diy-hp-wmah-115d25-o-diy-hp-wmah-230d25-o-manual.html"
+  },
+  {
+   "manualId": "4239837",
+   "slug": "mrcool-mst04-smart-thermostat-user-manual",
+   "title": "MrCool MST04 Smart Thermostat User Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4239837/mrcool-mst04-smart-thermostat-user-manual.html"
+  },
+  {
+   "manualId": "4256988",
+   "slug": "mrcool-olympus-series-wall-mounted-remote-control-installation-manual",
+   "title": "MrCool Olympus Series Wall-Mounted Remote Control Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4256988/mrcool-olympus-series-wall-mounted-remote-control-installation-manual.html"
+  },
+  {
+   "manualId": "3735053",
+   "slug": "mrcool-universal-series-mdui180-e-series-manual",
+   "title": "MrCool Universal Series, MDUI180 E Series Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3735053/mrcool-universal-series-mdui180-e-series-manual.html"
+  },
+  {
+   "manualId": "1858320",
+   "slug": "Mrcool-Mst03",
+   "title": "MST03 Manual",
+   "type": "Other",
+   "pages": 83,
+   "productModel": "MST03",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1858320/Mrcool-Mst03.html"
+  },
+  {
+   "manualId": "3469578",
+   "slug": "Mrcool-Mst04",
+   "title": "MST04 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "MST04",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3469578/Mrcool-Mst04.html"
+  },
+  {
+   "manualId": "3543877",
+   "slug": "Mrcool-Mst05",
+   "title": "MST05 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "MST05",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3543877/Mrcool-Mst05.html"
+  },
+  {
+   "manualId": "4383351",
+   "slug": "Mrcool-Mst06",
+   "title": "MST06 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "MST06",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4383351/Mrcool-Mst06.html"
+  },
+  {
+   "manualId": "4554268",
+   "slug": "Mrcool-Mst07",
+   "title": "MST07 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "MST07",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4554268/Mrcool-Mst07.html"
+  },
+  {
+   "manualId": "2272070",
+   "slug": "Mrcool-Mtw04ro",
+   "title": "MTW04RO Owners & installation manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "MTW04RO",
+   "extraModels": [
+    "MTW04UF"
+   ],
+   "url": "https://www.manualslib.com/manual/2272070/Mrcool-Mtw04ro.html"
+  },
+  {
+   "manualId": "1862701",
+   "slug": "Mrcool-Mtwb05",
+   "title": "MTWB05 Owners & installation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "MTWB05",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1862701/Mrcool-Mtwb05.html"
+  },
+  {
+   "manualId": "3796543",
+   "slug": "Mrcool-Mtwh045-Series",
+   "title": "MTWH045 Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "MTWH045 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3796543/Mrcool-Mtwh045-Series.html"
+  },
+  {
+   "manualId": "2093770",
+   "slug": "Mrcool-Olympus-Series",
+   "title": "MULTI2-18HP230V1 installation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "MULTI2-18HP230V1",
+   "extraModels": [
+    "MULTI2-18HP230V1",
+    "MULTI4-36HP230V1",
+    "O-ES-09-HP-C-230",
+    "O-ES-12-HP-C-230",
+    "O-ES-18-HP-C-230",
+    "O-ES-24-HP-C-230",
+    "O-HH-09-HP-C-230",
+    "O-HH-12-HP-C-230",
+    "O-HH-18-HP-C-230",
+    "O-HH-24-HP-C-230"
+   ],
+   "url": "https://www.manualslib.com/manual/2093770/Mrcool-Olympus-Series.html"
+  },
+  {
+   "manualId": "3876289",
+   "slug": "Mrcool-Multi3-27hp230v1",
+   "title": "MULTI3-27HP230V1 installation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "MULTI3-27HP230V1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876289/Mrcool-Multi3-27hp230v1.html"
+  },
+  {
+   "manualId": "3629161",
+   "slug": "Mrcool-Multi3-27hp230v1-2-Cass12hp",
+   "title": "MULTI3-27HP230V1 user manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "MULTI3-27HP230V1",
+   "extraModels": [
+    "Olympus Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3629161/Mrcool-Multi3-27hp230v1-2-Cass12hp.html"
+  },
+  {
+   "manualId": "3876290",
+   "slug": "Mrcool-Multi5-48hp230v1",
+   "title": "MULTI5-48HP230V1 installation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "MULTI5-48HP230V1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876290/Mrcool-Multi5-48hp230v1.html"
+  },
+  {
+   "manualId": "2497293",
+   "slug": "Mrcool-Mwuc-5-Series",
+   "title": "MWUC 5 Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "MWUC 5 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2497293/Mrcool-Mwuc-5-Series.html"
+  },
+  {
+   "manualId": "3239279",
+   "slug": "Mrcool-O-09-Hp-Wmah-230a",
+   "title": "O-09-HP-WMAH-230A user manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "O-09-HP-WMAH-230A",
+   "extraModels": [
+    "O-ES-09-HP-C-230",
+    "O-ES-12-HP-C-230",
+    "O-ES-18-HP-C-230",
+    "O-ES-24-HP-C-230",
+    "O-HH-09-HP-C-230",
+    "O-HH-12-HP-C-230",
+    "O-HH-18-HP-C-230",
+    "Olympus MULTI3-27HP230B",
+    "Olympus Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3239279/Mrcool-O-09-Hp-Wmah-230a.html"
+  },
+  {
+   "manualId": "1920453",
+   "slug": "Mrcool-Olympus-Hyper-Heat-Series",
+   "title": "O-ES-09-HP-C-230 installation manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "O-ES-09-HP-C-230",
+   "extraModels": [
+    "O-ES-09-HP-C-230",
+    "O-ES-12-HP-C-230",
+    "O-ES-18-HP-C-230",
+    "O-ES-24-HP-C-230",
+    "O-HH-09-HP-C-230",
+    "O-HH-12-HP-C-230",
+    "O-HH-18-HP-C-230",
+    "O-HH-24-HP-C-230",
+    "Olympus Energy Star Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1920453/Mrcool-Olympus-Hyper-Heat-Series.html"
+  },
+  {
+   "manualId": "1137416",
+   "slug": "Mrcool-Oasis-9k",
+   "title": "Oasis 12k installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "Oasis 12k",
+   "extraModels": [
+    "Oasis 12k"
+   ],
+   "url": "https://www.manualslib.com/manual/1137416/Mrcool-Oasis-9k.html"
+  },
+  {
+   "manualId": "4003145",
+   "slug": "Mrcool-Oasis-Es-Series",
+   "title": "Oasis ES Series user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Oasis ES Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4003145/Mrcool-Oasis-Es-Series.html"
+  },
+  {
+   "manualId": "4172053",
+   "slug": "Mrcool-Oasis-Hyper-Heat-Series",
+   "title": "Oasis Hyper Heat Series user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Oasis Hyper Heat Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4172053/Mrcool-Oasis-Hyper-Heat-Series.html"
+  },
+  {
+   "manualId": "4071802",
+   "slug": "Mrcool-Oasis-Olympus-Series",
+   "title": "Oasis Olympus Series installation manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "Oasis Olympus Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4071802/Mrcool-Oasis-Olympus-Series.html"
+  },
+  {
+   "manualId": "1000054",
+   "slug": "Mrcool-Oasis-Series",
+   "title": "Oasis Series user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Oasis Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1000054/Mrcool-Oasis-Series.html"
+  },
+  {
+   "manualId": "4144267",
+   "slug": "Mrcool-Olympus-Cassette-Hp-230c-O-Series",
+   "title": "Olympus CASSETTE012HP-230C Installation & owner's manual",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "Olympus CASSETTE012HP-230C",
+   "extraModels": [
+    "Olympus CASSETTE012HP-230C",
+    "Olympus CASSETTE09HP-230C",
+    "Olympus CASSETTE09HP-230C-P-O",
+    "Olympus CASSETTE12HP-230C-P-O",
+    "Olympus CASSETTE18HP-230C",
+    "Olympus CASSETTE18HP-230C-P-O",
+    "Olympus CASSETTE24HP-230C",
+    "Olympus CASSETTE24HP-230C-P-O",
+    "Olympus MULTI3-18HP230C-O",
+    "Olympus MULTI4-27HP230C-O",
+    "Olympus MULTI5-36HP230C-O",
+    "Olympus MULTI6-48HP230C-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4144267/Mrcool-Olympus-Cassette-Hp-230c-O-Series.html"
+  },
+  {
+   "manualId": "4140222",
+   "slug": "Mrcool-Olympus-Multi-Hp230c-O-Series",
+   "title": "Olympus DUCT HP-230B-O Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "Olympus DUCT HP-230B-O Series",
+   "extraModels": [
+    "Olympus DUCT HP-230B-O Series",
+    "Olympus E-Star O HP-WMAH-230C-O Series",
+    "Olympus E-Star O-18-HP-WMAH-230C-O",
+    "Olympus O-09-HP-WMAH-230C-O",
+    "Olympus O-12-HP-WMAH-230C-O",
+    "Olympus O-24-HP-WMAH-230C-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4140222/Mrcool-Olympus-Multi-Hp230c-O-Series.html"
+  },
+  {
+   "manualId": "4141466",
+   "slug": "Mrcool-Olympus-Duct-Hp-230b-O-Series",
+   "title": "Olympus DUCT HP-230B-O Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "Olympus DUCT HP-230B-O Series",
+   "extraModels": [
+    "Olympus DUCT-09HP-230B-O",
+    "Olympus DUCT-12HP-230B-O",
+    "Olympus DUCT-18HP-230B-O",
+    "Olympus DUCT-24HP-230B-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4141466/Mrcool-Olympus-Duct-Hp-230b-O-Series.html"
+  },
+  {
+   "manualId": "4143934",
+   "slug": "Mrcool-Olympus-Duct-Hp-230b-O-Series",
+   "title": "Olympus DUCT HP-230B-O Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 47,
+   "productModel": "Olympus DUCT HP-230B-O Series",
+   "extraModels": [
+    "Olympus DUCT-09HP-230B-O",
+    "Olympus DUCT-12HP-230B-O",
+    "Olympus DUCT-18HP-230B-O",
+    "Olympus DUCT-24HP-230B-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4143934/Mrcool-Olympus-Duct-Hp-230b-O-Series.html"
+  },
+  {
+   "manualId": "4140233",
+   "slug": "Mrcool-Olympus-Multi-Hp230c-O-Series",
+   "title": "Olympus DUCT HP-230B-O Series Service manual",
+   "type": "Service",
+   "pages": 89,
+   "productModel": "Olympus DUCT HP-230B-O Series",
+   "extraModels": [
+    "Olympus DUCT HP-230B-O Series",
+    "Olympus E-Star O HP-WMAH-230C-O Series",
+    "Olympus MULTI3-18HP230C-O",
+    "Olympus MULTI4-27HP230C-O",
+    "Olympus MULTI5-36HP230C-O",
+    "Olympus MULTI6-48HP230C-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4140233/Mrcool-Olympus-Multi-Hp230c-O-Series.html"
+  },
+  {
+   "manualId": "4189213",
+   "slug": "Mrcool-Duct-24hp-230b-O",
+   "title": "Olympus DUCT HP-230B-O Series Service manual",
+   "type": "Service",
+   "pages": 99,
+   "productModel": "Olympus DUCT HP-230B-O Series",
+   "extraModels": [
+    "Olympus Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4189213/Mrcool-Duct-24hp-230b-O.html"
+  },
+  {
+   "manualId": "4139591",
+   "slug": "Mrcool-Olympus-E-Star-O-Hp-Wmah-230c-O-Series",
+   "title": "Olympus E-Star O HP-WMAH-230C-O Series Service manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "Olympus E-Star O HP-WMAH-230C-O Series",
+   "extraModels": [
+    "Olympus E-Star O-18-HP-WMAH-230C-O",
+    "Olympus E-Star O-ES HP-C-230C-O1 Series",
+    "Olympus E-Star O-ES-09-HP-230C-O1",
+    "Olympus E-Star O-ES-09-HP-C-230C-O1",
+    "Olympus E-Star O-ES-12-HP-C-230C-O1",
+    "Olympus E-Star O-ES-18-HP-C-230C-O1",
+    "Olympus E-Star O-ES-24-HP-C-230C-O1"
+   ],
+   "url": "https://www.manualslib.com/manual/4139591/Mrcool-Olympus-E-Star-O-Hp-Wmah-230c-O-Series.html"
+  },
+  {
+   "manualId": "4141475",
+   "slug": "Mrcool-Olympus-Cassette-Hp-230c-O-Series",
+   "title": "Olympus MULTI HP230C-O Series Service manual",
+   "type": "Service",
+   "pages": 86,
+   "productModel": "Olympus MULTI HP230C-O Series",
+   "extraModels": [
+    "Olympus CASSETTE09HP-230C-O",
+    "Olympus CASSETTE12HP-230C-O",
+    "Olympus CASSETTE18HP-230C-O",
+    "Olympus CASSETTE24HP-230C-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4141475/Mrcool-Olympus-Cassette-Hp-230c-O-Series.html"
+  },
+  {
+   "manualId": "3869412",
+   "slug": "Mrcool-Olympus-Multi-Zone-Series",
+   "title": "Olympus Multi-Zone Series installation manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "Olympus Multi-Zone Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3869412/Mrcool-Olympus-Multi-Zone-Series.html"
+  },
+  {
+   "manualId": "3521821",
+   "slug": "Mrcool-Olympus-Series",
+   "title": "Olympus Series Install manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "Olympus Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3521821/Mrcool-Olympus-Series.html"
+  },
+  {
+   "manualId": "3031846",
+   "slug": "Mrcool-Olympus-Series",
+   "title": "Olympus Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 55,
+   "productModel": "Olympus Series",
+   "extraModels": [
+    "Olympus O-09-HP-WMAH-230B",
+    "Olympus O-24-HP-WMAH-230B"
+   ],
+   "url": "https://www.manualslib.com/manual/3031846/Mrcool-Olympus-Series.html"
+  },
+  {
+   "manualId": "1830274",
+   "slug": "Mrcool-Olympus-Series",
+   "title": "Olympus Series installation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "Olympus Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1830274/Mrcool-Olympus-Series.html"
+  },
+  {
+   "manualId": "2089074",
+   "slug": "Mrcool-Olympus-Series",
+   "title": "Olympus Series installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "Olympus Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2089074/Mrcool-Olympus-Series.html"
+  },
+  {
+   "manualId": "4073753",
+   "slug": "Mrcool-Olympus-Series",
+   "title": "Olympus Series installation manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "Olympus Series",
+   "extraModels": [
+    "Olympus 09",
+    "Olympus 18",
+    "Olympus 24",
+    "Olympus 30",
+    "Olympus 36",
+    "Olympus 42",
+    "Olympus 48",
+    "Olympus 60"
+   ],
+   "url": "https://www.manualslib.com/manual/4073753/Mrcool-Olympus-Series.html"
+  },
+  {
+   "manualId": "3308133",
+   "slug": "Mrcool-Olympus-Series",
+   "title": "Olympus Series Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "Olympus Series",
+   "extraModels": [
+    "DUCT-09HP-230",
+    "DUCT-24HP-230"
+   ],
+   "url": "https://www.manualslib.com/manual/3308133/Mrcool-Olympus-Series.html"
+  },
+  {
+   "manualId": "1657940",
+   "slug": "Mrcool-Olympus-Series",
+   "title": "Olympus Series user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Olympus Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1657940/Mrcool-Olympus-Series.html"
+  },
+  {
+   "manualId": "2073888",
+   "slug": "Mrcool-Olympus-Series",
+   "title": "Olympus Series user manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "Olympus Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2073888/Mrcool-Olympus-Series.html"
+  },
+  {
+   "manualId": "2299953",
+   "slug": "Mrcool-Olympus-Series",
+   "title": "Olympus Series user manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "Olympus Series",
+   "extraModels": [
+    "Olympus Multi-Zone"
+   ],
+   "url": "https://www.manualslib.com/manual/2299953/Mrcool-Olympus-Series.html"
+  },
+  {
+   "manualId": "3555619",
+   "slug": "Mrcool-Olympus-Series",
+   "title": "Olympus Series user manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "Olympus Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3555619/Mrcool-Olympus-Series.html"
+  },
+  {
+   "manualId": "3991870",
+   "slug": "Mrcool-Osk102",
+   "title": "OSK102 user manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "OSK102",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3991870/Mrcool-Osk102.html"
+  },
+  {
+   "manualId": "2328423",
+   "slug": "Mrcool-Mhk-U-Series",
+   "title": "Owners & installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2328423/Mrcool-Mhk-U-Series.html"
+  },
+  {
+   "manualId": "2844849",
+   "slug": "Mrcool-Mhk-U-Series",
+   "title": "Owners & installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2844849/Mrcool-Mhk-U-Series.html"
+  },
+  {
+   "manualId": "2516980",
+   "slug": "Mrcool-Phk-H-Series",
+   "title": "PHK-H Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "PHK-H Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2516980/Mrcool-Phk-H-Series.html"
+  },
+  {
+   "manualId": "964853",
+   "slug": "Mrcool-Premier",
+   "title": "PREMIER installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "PREMIER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/964853/Mrcool-Premier.html"
+  },
+  {
+   "manualId": "4102243",
+   "slug": "Mrcool-Premier-Series",
+   "title": "PREMIER Series installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "PREMIER Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4102243/Mrcool-Premier-Series.html"
+  },
+  {
+   "manualId": "3606592",
+   "slug": "Mrcool-Prodirect-Hah018fpa",
+   "title": "PRODIRECT HAH018FPA Installation & owner's manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "PRODIRECT HAH018FPA",
+   "extraModels": [
+    "PRODIRECT HAH024FPA",
+    "PRODIRECT HAH036FPA",
+    "PRODIRECT HAH048FPA",
+    "PRODIRECT HAH060FPA"
+   ],
+   "url": "https://www.manualslib.com/manual/3606592/Mrcool-Prodirect-Hah018fpa.html"
+  },
+  {
+   "manualId": "3643797",
+   "slug": "Mrcool-Prodirect-Hah024fea",
+   "title": "PRODIRECT HAH024FEA Installation & owner's manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "PRODIRECT HAH024FEA",
+   "extraModels": [
+    "PRODIRECT HAH036FEA",
+    "PRODIRECT HAH060FEA"
+   ],
+   "url": "https://www.manualslib.com/manual/3643797/Mrcool-Prodirect-Hah024fea.html"
+  },
+  {
+   "manualId": "3729983",
+   "slug": "Mrcool-Prodirect-Hcmp3036afoa",
+   "title": "PRODIRECT HCMP3036AFOA Installation & owner's manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "PRODIRECT HCMP3036AFOA",
+   "extraModels": [
+    "PRODIRECT HCMP3036BFOA",
+    "PRODIRECT HCMP3036CFOA",
+    "PRODIRECT HCMP3642BFOA",
+    "PRODIRECT HCMP3642CFOA",
+    "PRODIRECT HCMP3642DFOA",
+    "PRODIRECT HCMP4248BFOA",
+    "PRODIRECT HCMP4248CFOA",
+    "PRODIRECT HCMP4248DFOA",
+    "PRODIRECT HCMP4860CFOA",
+    "PRODIRECT HCMP4860DFOA"
+   ],
+   "url": "https://www.manualslib.com/manual/3729983/Mrcool-Prodirect-Hcmp3036afoa.html"
+  },
+  {
+   "manualId": "3658018",
+   "slug": "Mrcool-Prodirect-Hhp15018fa",
+   "title": "PRODIRECT HHP15018FA Installation & owner's manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "PRODIRECT HHP15018FA",
+   "extraModels": [
+    "PRODIRECT HHP15024FA",
+    "PRODIRECT HHP15030FA",
+    "PRODIRECT HHP15036FA",
+    "PRODIRECT HHP15042FA",
+    "PRODIRECT HHP15048FA",
+    "PRODIRECT HHP15060FA"
+   ],
+   "url": "https://www.manualslib.com/manual/3658018/Mrcool-Prodirect-Hhp15018fa.html"
+  },
+  {
+   "manualId": "3118055",
+   "slug": "Mrcool-Prodirect-Phk-H-Series",
+   "title": "PRODIRECT PHK H Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "PRODIRECT PHK H Series",
+   "extraModels": [
+    "PRODIRECT PHK05H",
+    "PRODIRECT PHK07H",
+    "PRODIRECT PHK10H",
+    "PRODIRECT PHK15H",
+    "PRODIRECT PHK20H"
+   ],
+   "url": "https://www.manualslib.com/manual/3118055/Mrcool-Prodirect-Phk-H-Series.html"
+  },
+  {
+   "manualId": "2310947",
+   "slug": "Mrcool-Prodirect-Series",
+   "title": "PRODIRECT Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "PRODIRECT Series",
+   "extraModels": [
+    "HAH140 C Series",
+    "PRODIRECT HAH140 Series",
+    "PRODIRECT HAH14018",
+    "PRODIRECT HAH14024",
+    "PRODIRECT HAH14030",
+    "PRODIRECT HAH14036",
+    "PRODIRECT HAH14042",
+    "PRODIRECT HAH14048",
+    "PRODIRECT HAH14060"
+   ],
+   "url": "https://www.manualslib.com/manual/2310947/Mrcool-Prodirect-Series.html"
+  },
+  {
+   "manualId": "3769443",
+   "slug": "Mrcool-Prodirect-Series",
+   "title": "PRODIRECT Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "PRODIRECT Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3769443/Mrcool-Prodirect-Series.html"
+  },
+  {
+   "manualId": "2384593",
+   "slug": "Mrcool-Ptac-5-Series",
+   "title": "PTAC 5 Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "PTAC 5 Series",
+   "extraModels": [
+    "PTHP 5 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2384593/Mrcool-Ptac-5-Series.html"
+  },
+  {
+   "manualId": "4603393",
+   "slug": "Mrcool-Ptcw",
+   "title": "PTCW Installation & owner's manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "PTCW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4603393/Mrcool-Ptcw.html"
+  },
+  {
+   "manualId": "1664491",
+   "slug": "Mrcool-R-57a6-Bgefu1",
+   "title": "R 57A6/BGEFU1 user manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "R 57A6/BGEFU1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1664491/Mrcool-R-57a6-Bgefu1.html"
+  },
+  {
+   "manualId": "2245965",
+   "slug": "Mrcool-R-57a6-Bgefu1",
+   "title": "R 57A6/BGEFU1 user manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "R 57A6/BGEFU1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2245965/Mrcool-R-57a6-Bgefu1.html"
+  },
+  {
+   "manualId": "4046402",
+   "slug": "Mrcool-Rg10a4-D1-Bgefu1",
+   "title": "RG10A(D2S)/BGEFU1 user manual",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": "RG10A(D2S)/BGEFU1",
+   "extraModels": [
+    "RG10A(D2S)/BGEFU1",
+    "RG10L2(D2HS)/BGEFU1"
+   ],
+   "url": "https://www.manualslib.com/manual/4046402/Mrcool-Rg10a4-D1-Bgefu1.html"
+  },
+  {
+   "manualId": "2770009",
+   "slug": "Mrcool-Rg10f2-Bgefu1",
+   "title": "RG10D2/BGEFU1 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "RG10D2/BGEFU1",
+   "extraModels": [
+    "RG10D2/BGEFU1"
+   ],
+   "url": "https://www.manualslib.com/manual/2770009/Mrcool-Rg10f2-Bgefu1.html"
+  },
+  {
+   "manualId": "1128109",
+   "slug": "Mrcool-Rg51m5-C-Eu",
+   "title": "RG51M1/EU1 user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "RG51M1/EU1",
+   "extraModels": [
+    "RG51M1/EU1"
+   ],
+   "url": "https://www.manualslib.com/manual/1128109/Mrcool-Rg51m5-C-Eu.html"
+  },
+  {
+   "manualId": "1013475",
+   "slug": "Mrcool-Rg52f2-Bgefu1",
+   "title": "RG52F2/BGEFU1 owner's manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "RG52F2/BGEFU1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1013475/Mrcool-Rg52f2-Bgefu1.html"
+  },
+  {
+   "manualId": "2700161",
+   "slug": "Mrcool-Signature-Mac16-A-Series",
+   "title": "Signature MAC16 A Series installation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "Signature MAC16 A Series",
+   "extraModels": [
+    "Signature Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2700161/Mrcool-Signature-Mac16-A-Series.html"
+  },
+  {
+   "manualId": "1898230",
+   "slug": "Mrcool-Signature-Mahm-Cta-Series",
+   "title": "Signature MAHM CTA Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "Signature MAHM CTA Series",
+   "extraModels": [
+    "Signature MAHM018CTA",
+    "Signature MAHM024CTA",
+    "Signature MAHM030CTA",
+    "Signature MAHM036CTA",
+    "Signature MAHM042CTA",
+    "Signature MAHM048CTA",
+    "Signature MAHM060CTA"
+   ],
+   "url": "https://www.manualslib.com/manual/1898230/Mrcool-Signature-Mahm-Cta-Series.html"
+  },
+  {
+   "manualId": "4123494",
+   "slug": "Mrcool-Signature-Mcaeampsf-C21aa-Series",
+   "title": "Signature MCAEAMPEF E21AA Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "Signature MCAEAMPEF E21AA Series",
+   "extraModels": [
+    "Signature MCAEAMPEF E21AA Series",
+    "Signature MCAEAMPEF30C21AA",
+    "Signature MCAEAMPEF36C21AA",
+    "Signature MCAEAMPSF24C21AA"
+   ],
+   "url": "https://www.manualslib.com/manual/4123494/Mrcool-Signature-Mcaeampsf-C21aa-Series.html"
+  },
+  {
+   "manualId": "4123496",
+   "slug": "Mrcool-Signature-Mcaeawpef-21aa-Series",
+   "title": "Signature MCAEAWPEF 21AA Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "Signature MCAEAWPEF 21AA Series",
+   "extraModels": [
+    "Signature MCAEAWPEF18D21AA",
+    "Signature MCAEAWPEF24D21AA",
+    "Signature MCAEAWPEF30E21AA",
+    "Signature MCAEAWPEF36E21AA"
+   ],
+   "url": "https://www.manualslib.com/manual/4123496/Mrcool-Signature-Mcaeawpef-21aa-Series.html"
+  },
+  {
+   "manualId": "4123499",
+   "slug": "Mrcool-Signature-Mcaesas4t-21aa-Series",
+   "title": "Signature MCAESAS4T 21AA Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "Signature MCAESAS4T 21AA Series",
+   "extraModels": [
+    "Signature MCAESAS4T1821AA"
+   ],
+   "url": "https://www.manualslib.com/manual/4123499/Mrcool-Signature-Mcaesas4t-21aa-Series.html"
+  },
+  {
+   "manualId": "2378652",
+   "slug": "Mrcool-Signature-Mcvp-Series",
+   "title": "Signature MCHP Series installation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "Signature MCHP Series",
+   "extraModels": [
+    "Signature MCHP Series",
+    "Signature MCHP18ANPA",
+    "Signature MCHP18BNPA",
+    "Signature MCHP24ANPA",
+    "Signature MCHP24BNPA",
+    "Signature MCHP30ANPA",
+    "Signature MCHP30BNPA",
+    "Signature MCHP30CNPA",
+    "Signature MCHP36ANPA",
+    "Signature MCHP36BNPA",
+    "Signature MCHP36CNPA",
+    "Signature MCHP48BNPA",
+    "Signature MCHP48CNPA",
+    "Signature MCHP49CNPA",
+    "Signature MCHP50CNPA",
+    "Signature MCHP60CNPA",
+    "Signature MCHP60DNPA",
+    "Signature MCVP18ANPA",
+    "Signature MCVP18BNPA",
+    "Signature MCVP24ANPA",
+    "Signature MCVP24BNPA",
+    "Signature MCVP30ANPA",
+    "Signature MCVP30BNPA",
+    "Signature MCVP30CNPA",
+    "Signature MCVP36ANPA",
+    "Signature MCVP36BNPA",
+    "Signature MCVP36CNPA",
+    "Signature MCVP48BNPA",
+    "Signature MCVP48CNPA",
+    "Signature MCVP49CNPA",
+    "Signature MCVP50CNPA",
+    "Signature MCVP60CNPA",
+    "Signature MCVP60DNPA"
+   ],
+   "url": "https://www.manualslib.com/manual/2378652/Mrcool-Signature-Mcvp-Series.html"
+  },
+  {
+   "manualId": "3779740",
+   "slug": "Mrcool-Signature-Mgm80-E-Series",
+   "title": "Signature MGM80 E Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "Signature MGM80 E Series",
+   "extraModels": [
+    "Signature MGM80SE045A3A",
+    "Signature MGM80SE070B3A",
+    "Signature MGM80SE090B4A",
+    "Signature MGM80SE090C5A",
+    "Signature MGM80SE110C5A",
+    "Signature MGM80SE135D5A"
+   ],
+   "url": "https://www.manualslib.com/manual/3779740/Mrcool-Signature-Mgm80-E-Series.html"
+  },
+  {
+   "manualId": "3491030",
+   "slug": "Mrcool-Signature-Mgm80-Se-Xa-Series",
+   "title": "Signature MGM80 SE-XA Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "Signature MGM80 SE-XA Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3491030/Mrcool-Signature-Mgm80-Se-Xa-Series.html"
+  },
+  {
+   "manualId": "4552763",
+   "slug": "Mrcool-Signature-Mhp15-A-Series",
+   "title": "Signature MHP15 A Series installation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "Signature MHP15 A Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4552763/Mrcool-Signature-Mhp15-A-Series.html"
+  },
+  {
+   "manualId": "4552874",
+   "slug": "Mrcool-Signature-Mpc-1m414b-Series",
+   "title": "Signature MPC 1M414B Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "Signature MPC 1M414B Series",
+   "extraModels": [
+    "Signature MPC241M414A",
+    "Signature MPC301M414A",
+    "Signature MPC421M414A",
+    "Signature MPC481M414A",
+    "Signature MPH 1M414B Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4552874/Mrcool-Signature-Mpc-1m414b-Series.html"
+  },
+  {
+   "manualId": "4539783",
+   "slug": "Mrcool-Signature-Series",
+   "title": "Signature Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Signature Series",
+   "extraModels": [
+    "XK-120D2"
+   ],
+   "url": "https://www.manualslib.com/manual/4539783/Mrcool-Signature-Series.html"
+  },
+  {
+   "manualId": "4539784",
+   "slug": "Mrcool-Signature-Series",
+   "title": "Signature Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "Signature Series",
+   "extraModels": [
+    "Signature MCAEHFD X1BA Series",
+    "Signature MCAEHFD10X1BA",
+    "Signature MCAEHFD15X1BA",
+    "Signature MCAEHFD20X1BA",
+    "Signature MCAEHFD5X1BA"
+   ],
+   "url": "https://www.manualslib.com/manual/4539784/Mrcool-Signature-Series.html"
+  },
+  {
+   "manualId": "2145782",
+   "slug": "Mrcool-Signature-Series",
+   "title": "Signature Series installation manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "Signature Series",
+   "extraModels": [
+    "MMBV08BE",
+    "MMBV12BE",
+    "MMBV16CE",
+    "MMBV20DE"
+   ],
+   "url": "https://www.manualslib.com/manual/2145782/Mrcool-Signature-Series.html"
+  },
+  {
+   "manualId": "2435234",
+   "slug": "Mrcool-Signature-Mhp15-A-Series",
+   "title": "Signature Series installation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "Signature Series",
+   "extraModels": [
+    "Signature Series",
+    "MHP15018A",
+    "MHP15024A",
+    "MHP15030A",
+    "MHP15036A",
+    "MHP15042A",
+    "MHP15048A",
+    "MHP15060A"
+   ],
+   "url": "https://www.manualslib.com/manual/2435234/Mrcool-Signature-Mhp15-A-Series.html"
+  },
+  {
+   "manualId": "3211096",
+   "slug": "Mrcool-Mac15-A-Series",
+   "title": "Signature Series installation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "Signature Series",
+   "extraModels": [
+    "Signature Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3211096/Mrcool-Mac15-A-Series.html"
+  },
+  {
+   "manualId": "2763800",
+   "slug": "Mrcool-Signature-Series",
+   "title": "Signature Series Manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "Signature Series",
+   "extraModels": [
+    "MAC16018A",
+    "MAC16024A",
+    "MAC16030A",
+    "MAC16036A",
+    "MAC16042A",
+    "MAC16048A",
+    "MAC16060"
+   ],
+   "url": "https://www.manualslib.com/manual/2763800/Mrcool-Signature-Series.html"
+  },
+  {
+   "manualId": "1664469",
+   "slug": "Mrcool-Signature-Series",
+   "title": "Signature Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "Signature Series",
+   "extraModels": [
+    "MAHM024ETA",
+    "MAHM030ETA",
+    "MAHM036ETA",
+    "MAHM042ETA",
+    "MAHM048ETA",
+    "MAHM060ETA"
+   ],
+   "url": "https://www.manualslib.com/manual/1664469/Mrcool-Signature-Series.html"
+  },
+  {
+   "manualId": "1934653",
+   "slug": "Mrcool-Signature-Series",
+   "title": "Signature Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 55,
+   "productModel": "Signature Series",
+   "extraModels": [
+    "MGD 95SE XA Series",
+    "MGD95SE045B3XA",
+    "MGD95SE070B4XA",
+    "MGD95SE090C4XA",
+    "MGD95SE110C5XA"
+   ],
+   "url": "https://www.manualslib.com/manual/1934653/Mrcool-Signature-Series.html"
+  },
+  {
+   "manualId": "1969324",
+   "slug": "Mrcool-Signature-Series",
+   "title": "Signature Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "Signature Series",
+   "extraModels": [
+    "MGD80 SE Series",
+    "MGD80SE045A3A",
+    "MGD80SE070B3A",
+    "MGD80SE090B4A",
+    "MGD80SE110C5A"
+   ],
+   "url": "https://www.manualslib.com/manual/1969324/Mrcool-Signature-Series.html"
+  },
+  {
+   "manualId": "2004585",
+   "slug": "Mrcool-Signature-Series",
+   "title": "Signature Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 59,
+   "productModel": "Signature Series",
+   "extraModels": [
+    "MGM 95SE Series",
+    "MGM95SE045B3XA",
+    "MGM95SE070B3XA",
+    "MGM95SE090C4XA",
+    "MGM95SE110C5XA",
+    "MGM95SE135D5XA",
+    "Signature MGM 95SE XA Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2004585/Mrcool-Signature-Series.html"
+  },
+  {
+   "manualId": "2299933",
+   "slug": "Mrcool-Signature-Series",
+   "title": "Signature Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "Signature Series",
+   "extraModels": [
+    "MPG S M414A Series",
+    "MPG-S-M414A-2 Series",
+    "MPG14"
+   ],
+   "url": "https://www.manualslib.com/manual/2299933/Mrcool-Signature-Series.html"
+  },
+  {
+   "manualId": "3045648",
+   "slug": "Mrcool-Signature-Series",
+   "title": "Signature Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 55,
+   "productModel": "Signature Series",
+   "extraModels": [
+    "MGD 95SE XA Series",
+    "MGD95SE045B3XA",
+    "MGD95SE070B4XA",
+    "MGD95SE090C4XA",
+    "MGD95SE110C5XA"
+   ],
+   "url": "https://www.manualslib.com/manual/3045648/Mrcool-Signature-Series.html"
+  },
+  {
+   "manualId": "3168692",
+   "slug": "Mrcool-Mgd-96se-Xa-Series",
+   "title": "Signature Series Owners & installation manual",
+   "type": "Installation",
+   "pages": 57,
+   "productModel": "Signature Series",
+   "extraModels": [
+    "Signature Series",
+    "MGD96SE045B3XA",
+    "MGD96SE070B4XA",
+    "MGD96SE090C4XA",
+    "MGD96SE110C5XA",
+    "MGM96SE045B3XA",
+    "MGM96SE070B3XA",
+    "MGM96SE090C4XA",
+    "MGM96SE135D5XA"
+   ],
+   "url": "https://www.manualslib.com/manual/3168692/Mrcool-Mgd-96se-Xa-Series.html"
+  },
+  {
+   "manualId": "4510071",
+   "slug": "Mrcool-Signature-Truinverter-Mcaeampvt-D21ba-Series",
+   "title": "Signature TruInverter MCAEAMPVT D21BA Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 49,
+   "productModel": "Signature TruInverter MCAEAMPVT D21BA Series",
+   "extraModels": [
+    "Signature TruInverter MCAEAMPVT F21BA Series",
+    "Signature TruInverter MCAEAMPVT24D21BA",
+    "Signature TruInverter MCAEAMPVT36D21BA",
+    "Signature TruInverter MCAEAMPVT48D21BA",
+    "Signature TruInverter MCAEAMPVT48F21BA",
+    "Signature TruInverter MCAEAMPVT60D21BA",
+    "Signature TruInverter MCAEAMPVT60F21BA",
+    "Signature TruInverter MCSHV7M6021BA",
+    "Signature TruInverter MCSHV8M2421BA",
+    "Signature TruInverter MCSHV8M4821BA",
+    "Signature TruInverter MCSHV9M3621BA"
+   ],
+   "url": "https://www.manualslib.com/manual/4510071/Mrcool-Signature-Truinverter-Mcaeampvt-D21ba-Series.html"
+  },
+  {
+   "manualId": "3877082",
+   "slug": "Mrcool-U-Match-Mdui18036",
+   "title": "U-match MDUI18036 Service manual",
+   "type": "Service",
+   "pages": 120,
+   "productModel": "U-match MDUI18036",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877082/Mrcool-U-Match-Mdui18036.html"
+  },
+  {
+   "manualId": "2117534",
+   "slug": "Mrcool-U-Match-Mduo1836",
+   "title": "U-match MDUI18060 Service manual",
+   "type": "Service",
+   "pages": 120,
+   "productModel": "U-match MDUI18060",
+   "extraModels": [
+    "U-match MDUI18060",
+    "U-match MDUI18024",
+    "U-match MDUI18048",
+    "U-match MDUO1824",
+    "U-match MDUO1848",
+    "U-match MDUO1860"
+   ],
+   "url": "https://www.manualslib.com/manual/2117534/Mrcool-U-Match-Mduo1836.html"
+  },
+  {
+   "manualId": "4171946",
+   "slug": "Mrcool-Universal-Mdph180-D-Series",
+   "title": "Universal MDPH180 D Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Universal MDPH180 D Series",
+   "extraModels": [
+    "Universal MDPH18024D",
+    "Universal MDPH18036D",
+    "Universal MDPH18048D",
+    "Universal MDPH18060D"
+   ],
+   "url": "https://www.manualslib.com/manual/4171946/Mrcool-Universal-Mdph180-D-Series.html"
+  },
+  {
+   "manualId": "3139513",
+   "slug": "Mrcool-Universal-Mdu18048060",
+   "title": "Universal MDU18048060 owner's manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "Universal MDU18048060",
+   "extraModels": [
+    "Universal MDU18048060-50"
+   ],
+   "url": "https://www.manualslib.com/manual/3139513/Mrcool-Universal-Mdu18048060.html"
+  },
+  {
+   "manualId": "2321484",
+   "slug": "Mrcool-Universal-Mdui180-E-Series",
+   "title": "Universal MDUI180 E Series owner's manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "Universal MDUI180 E Series",
+   "extraModels": [
+    "Universal MDUI18024E",
+    "Universal MDUI18036E",
+    "Universal MDUI18048E",
+    "Universal MDUI18060E",
+    "Universal Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2321484/Mrcool-Universal-Mdui180-E-Series.html"
+  },
+  {
+   "manualId": "2345908",
+   "slug": "Mrcool-Universal-Series",
+   "title": "Universal MDUI180 E Series owner's manual",
+   "type": "User / Owner",
+   "pages": 31,
+   "productModel": "Universal MDUI180 E Series",
+   "extraModels": [
+    "Universal MDUI180 E Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2345908/Mrcool-Universal-Series.html"
+  },
+  {
+   "manualId": "1721356",
+   "slug": "Mrcool-Universal-Series",
+   "title": "Universal MDUI18024 owner's manual",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": "Universal MDUI18024",
+   "extraModels": [
+    "Universal MDUI18024",
+    "Universal MDUI18036"
+   ],
+   "url": "https://www.manualslib.com/manual/1721356/Mrcool-Universal-Series.html"
+  },
+  {
+   "manualId": "1722315",
+   "slug": "Mrcool-Universal-Series",
+   "title": "Universal Series owner's manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "Universal Series",
+   "extraModels": [
+    "MDUO18024036"
+   ],
+   "url": "https://www.manualslib.com/manual/1722315/Mrcool-Universal-Series.html"
+  },
+  {
+   "manualId": "2346199",
+   "slug": "Mrcool-Universal-Series",
+   "title": "Universal Series owner's manual",
+   "type": "User / Owner",
+   "pages": 45,
+   "productModel": "Universal Series",
+   "extraModels": [
+    "MDUCO18 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2346199/Mrcool-Universal-Series.html"
+  },
+  {
+   "manualId": "2359907",
+   "slug": "Mrcool-Universal-Series",
+   "title": "Universal Series owner's manual",
+   "type": "User / Owner",
+   "pages": 45,
+   "productModel": "Universal Series",
+   "extraModels": [
+    "MDUO18024036",
+    "Universal MDUO18 Series",
+    "Universal MDUO18048060"
+   ],
+   "url": "https://www.manualslib.com/manual/2359907/Mrcool-Universal-Series.html"
+  },
+  {
+   "manualId": "3206792",
+   "slug": "Mrcool-Universal-Mduo18048",
+   "title": "Universal Series owner's manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "Universal Series",
+   "extraModels": [
+    "Universal Series",
+    "Universal MDUO18060"
+   ],
+   "url": "https://www.manualslib.com/manual/3206792/Mrcool-Universal-Mduo18048.html"
+  },
+  {
+   "manualId": "3397681",
+   "slug": "Mrcool-Universal-Series",
+   "title": "Universal Series Service manual",
+   "type": "Service",
+   "pages": 74,
+   "productModel": "Universal Series",
+   "extraModels": [
+    "MDPH180244",
+    "MDPH180364",
+    "MDPH180484",
+    "MDPH180604"
+   ],
+   "url": "https://www.manualslib.com/manual/3397681/Mrcool-Universal-Series.html"
+  },
+  {
+   "manualId": "4120653",
+   "slug": "Mrcool-Universal-Uah18-O-Series",
+   "title": "UNIVERSAL UAH18 O Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "UNIVERSAL UAH18 O Series",
+   "extraModels": [
+    "UNIVERSAL UAH18024-O",
+    "UNIVERSAL UAH18030-O",
+    "UNIVERSAL UAH18036-O",
+    "UNIVERSAL UAH18048-O",
+    "UNIVERSAL UAH18060-O",
+    "UNIVERSAL UHP18 O Series",
+    "UNIVERSAL UHP18024-O",
+    "UNIVERSAL UHP18030-O",
+    "UNIVERSAL UHP18036-O",
+    "UNIVERSAL UHP18048-O",
+    "UNIVERSAL UHP18060-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4120653/Mrcool-Universal-Uah18-O-Series.html"
+  },
+  {
+   "manualId": "4044996",
+   "slug": "Mrcool-Universal-Uah18-O-Series",
+   "title": "UNIVERSAL UAH18 O Series Service manual",
+   "type": "Service",
+   "pages": 97,
+   "productModel": "UNIVERSAL UAH18 O Series",
+   "extraModels": [
+    "UNIVERSAL UAH18024-O",
+    "UNIVERSAL UAH18030-O",
+    "UNIVERSAL UAH18036-O",
+    "UNIVERSAL UAH18048-O",
+    "UNIVERSAL UAH18060-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4044996/Mrcool-Universal-Uah18-O-Series.html"
+  },
+  {
+   "manualId": "4109971",
+   "slug": "Mrcool-Universal-Uhk-Series",
+   "title": "UNIVERSAL UHK Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "UNIVERSAL UHK Series",
+   "extraModels": [
+    "UNIVERSAL UHK05",
+    "UNIVERSAL UHK08",
+    "UNIVERSAL UHK10",
+    "UNIVERSAL UHK15",
+    "UNIVERSAL UHK20"
+   ],
+   "url": "https://www.manualslib.com/manual/4109971/Mrcool-Universal-Uhk-Series.html"
+  },
+  {
+   "manualId": "2310661",
+   "slug": "Mrcool-Bodycool-Cooling-T-Shirt",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2310661/Mrcool-Bodycool-Cooling-T-Shirt.html"
+  },
+  {
+   "manualId": "2555870",
+   "slug": "Mrcool-Body-Cooling-System",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2555870/Mrcool-Body-Cooling-System.html"
+  },
+  {
+   "manualId": "3464394",
+   "slug": "Mrcool-Versa-Pro-Mvp-18-Hp-C-230-25",
+   "title": "Versa Pro MVP-18-HP-230-25 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Versa Pro MVP-18-HP-230-25",
+   "extraModels": [
+    "Versa Pro MVP-18-HP-230-25",
+    "Versa Pro MVP-18-HP-MUAH-230-25",
+    "Versa Pro MVP-24-HP-230-25",
+    "Versa Pro MVP-24-HP-C-230-25",
+    "Versa Pro MVP-24-HP-MUAH-230-25",
+    "Versa Pro MVP-30-HP-230-25",
+    "Versa Pro MVP-30-HP-C-230-25",
+    "Versa Pro MVP-30-HP-MUAH-230-25"
+   ],
+   "url": "https://www.manualslib.com/manual/3464394/Mrcool-Versa-Pro-Mvp-18-Hp-C-230-25.html"
+  },
+  {
+   "manualId": "3604411",
+   "slug": "Mrcool-Versa-Pro-Mvp-24-Hp-C-230-25",
+   "title": "Versa Pro MVP-18-HP-230-25 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Versa Pro MVP-18-HP-230-25",
+   "extraModels": [
+    "Versa Pro MVP-18-HP-230-25",
+    "Versa Pro MVP-18-HP-C-230-25",
+    "Versa Pro MVP-18-HP-MUAH-230-25",
+    "Versa Pro MVP-24-HP-230-25",
+    "Versa Pro MVP-24-HP-MUAH-230-25",
+    "Versa Pro MVP-30-HP-230-25",
+    "Versa Pro MVP-30-HP-C-230-25",
+    "Versa Pro MVP-30-HP-MUAH-230-25",
+    "Versa Pro MVP-36-HP-C-230-00",
+    "Versa Pro MVP-36-HP-MUAH-230-00",
+    "Versa Pro MVP-48-HP-C-230-00",
+    "Versa Pro MVP-48-HP-MUAH-230-00",
+    "Versa Pro MVP-60-HP-C-230-00",
+    "Versa Pro MVP-60-HP-MUAH-230-00"
+   ],
+   "url": "https://www.manualslib.com/manual/3604411/Mrcool-Versa-Pro-Mvp-24-Hp-C-230-25.html"
+  },
+  {
+   "manualId": "3440438",
+   "slug": "Mrcool-Versa-Pro-Mvp-36-Hp-C-230-00",
+   "title": "Versa Pro MVP-36-HP-230-00 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "Versa Pro MVP-36-HP-230-00",
+   "extraModels": [
+    "Versa Pro MVP-36-HP-230-00",
+    "Versa Pro MVP-36-HP-MUAH-230-00",
+    "Versa Pro MVP-48-HP-230-00",
+    "Versa Pro MVP-48-HP-C-230-00",
+    "Versa Pro MVP-48-HP-MUAH-230-00",
+    "Versa Pro MVP-60-HP-230-00",
+    "Versa Pro MVP-60-HP-C-230-00",
+    "Versa Pro MVP-60-HP-MUAH-230-00"
+   ],
+   "url": "https://www.manualslib.com/manual/3440438/Mrcool-Versa-Pro-Mvp-36-Hp-C-230-00.html"
+  },
+  {
+   "manualId": "3664621",
+   "slug": "Mrcool-Versa-Pro-Mvphk05",
+   "title": "Versa Pro MVPHK05 Installation & owner's manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "Versa Pro MVPHK05",
+   "extraModels": [
+    "Versa Pro MVPHK08",
+    "Versa Pro MVPHK10",
+    "Versa Pro MVPHK15",
+    "Versa Pro MVPHK20"
+   ],
+   "url": "https://www.manualslib.com/manual/3664621/Mrcool-Versa-Pro-Mvphk05.html"
+  },
+  {
+   "manualId": "3686413",
+   "slug": "Mrcool-Versapro-Mvp-Hp-Muah-230a00-O-Series",
+   "title": "VersaPro CENTRAL HP-C-230B00-O Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 67,
+   "productModel": "VersaPro CENTRAL HP-C-230B00-O Series",
+   "extraModels": [
+    "VersaPro CENTRAL HP-C-230B00-O Series",
+    "VersaPro MVP HP-C-230A00-O Series",
+    "VersaPro MVP-36-HP-MUAH-230A00-O"
+   ],
+   "url": "https://www.manualslib.com/manual/3686413/Mrcool-Versapro-Mvp-Hp-Muah-230a00-O-Series.html"
+  },
+  {
+   "manualId": "3728335",
+   "slug": "Mrcool-Versapro-Mvp-Hp-C-230a00-O-Series",
+   "title": "VersaPro CENTRAL HP-C-230B00-O Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 67,
+   "productModel": "VersaPro CENTRAL HP-C-230B00-O Series",
+   "extraModels": [
+    "VersaPro CENTRAL HP-C-230B00-O Series",
+    "VersaPro CENTRAL-60-HP-C-230B00-O",
+    "VersaPro MVP HP-MUAH-230A00-O Series",
+    "VersaPro MVP-60-HP-MUAH-230A00-O"
+   ],
+   "url": "https://www.manualslib.com/manual/3728335/Mrcool-Versapro-Mvp-Hp-C-230a00-O-Series.html"
+  },
+  {
+   "manualId": "4153714",
+   "slug": "Mrcool-Versapro-Central-Hp-C-230b00-O-Series",
+   "title": "VersaPro CENTRAL HP-C-230B00-O Series Installation & owner's manual",
+   "type": "Installation",
+   "pages": 67,
+   "productModel": "VersaPro CENTRAL HP-C-230B00-O Series",
+   "extraModels": [
+    "VersaPro CENTRAL-24-HP-C-230B00-O",
+    "VersaPro CENTRAL-30-HP-C-230B00-O",
+    "VersaPro MVP HP-C-230A00-O Series",
+    "VersaPro MVP HP-MUAH-230A00-O Series",
+    "VersaPro MVP-18-HP-C-230A00-O",
+    "VersaPro MVP-18-HP-MUAH-230A00-O",
+    "VersaPro MVP-24-HP-C-230A00-O",
+    "VersaPro MVP-24-HP-MUAH-230A00-O",
+    "VersaPro MVP-30-HP-C-230A00-O",
+    "VersaPro MVP-30-HP-MUAH-230A00-O",
+    "VersaPro MVP-36-HP-C-230A00-O",
+    "VersaPro MVP-36-HP-MUAH-230A00-O",
+    "VersaPro MVP-48-HP-C-230A00-O",
+    "VersaPro MVP-48-HP-MUAH-230A00-O",
+    "VersaPro MVP-60-HP-C-230A00-O",
+    "VersaPro MVP-60-HP-MUAH-230A00-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4153714/Mrcool-Versapro-Central-Hp-C-230b00-O-Series.html"
+  },
+  {
+   "manualId": "3499674",
+   "slug": "Mrcool-Versapro-Mga80ee040a3b",
+   "title": "VersaPro MGA80EE040A3B installation manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "VersaPro MGA80EE040A3B",
+   "extraModels": [
+    "VersaPro MGA80EE060B4B",
+    "VersaPro MGA80EE080B4B",
+    "VersaPro MGA80EE080C4B",
+    "VersaPro MGA80EE100C5B",
+    "VersaPro MGA80EE120D5B"
+   ],
+   "url": "https://www.manualslib.com/manual/3499674/Mrcool-Versapro-Mga80ee040a3b.html"
+  },
+  {
+   "manualId": "3504709",
+   "slug": "Mrcool-Versapro-Mga80ee040a3b",
+   "title": "VersaPro MGA80EE040A3B Service manual",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "VersaPro MGA80EE040A3B",
+   "extraModels": [
+    "VersaPro MGA80EE060B4B",
+    "VersaPro MGA80EE080B4B",
+    "VersaPro MGA80EE080C4B",
+    "VersaPro MGA80EE100C5B",
+    "VersaPro MGA80EE120D5B"
+   ],
+   "url": "https://www.manualslib.com/manual/3504709/Mrcool-Versapro-Mga80ee040a3b.html"
+  },
+  {
+   "manualId": "4107129",
+   "slug": "Mrcool-Versapro-Mga80se100c5c",
+   "title": "VersaPro MGA80SE Series installation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "VersaPro MGA80SE Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4107129/Mrcool-Versapro-Mga80se100c5c.html"
+  },
+  {
+   "manualId": "4107083",
+   "slug": "Mrcool-Versapro-Mga80se-Series",
+   "title": "VersaPro MGA80SE Series Service manual",
+   "type": "Service",
+   "pages": 26,
+   "productModel": "VersaPro MGA80SE Series",
+   "extraModels": [
+    "VersaPro MGA80SE100C5C"
+   ],
+   "url": "https://www.manualslib.com/manual/4107083/Mrcool-Versapro-Mga80se-Series.html"
+  },
+  {
+   "manualId": "3503056",
+   "slug": "Mrcool-Versapro-Mgm96ee060b3nb",
+   "title": "VersaPro MGM96EE060B3NB installation manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "VersaPro MGM96EE060B3NB",
+   "extraModels": [
+    "VersaPro MGM96EE080B3NB",
+    "VersaPro MGM96EE080C4NB",
+    "VersaPro MGM96EE100C5NB",
+    "VersaPro MGM96EE120D5NB"
+   ],
+   "url": "https://www.manualslib.com/manual/3503056/Mrcool-Versapro-Mgm96ee060b3nb.html"
+  },
+  {
+   "manualId": "3575083",
+   "slug": "Mrcool-Versapro-Mgm96ee060b3nb",
+   "title": "VersaPro MGM96EE060B3NB Service manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "VersaPro MGM96EE060B3NB",
+   "extraModels": [
+    "VersaPro MGM96EE080B3NB",
+    "VersaPro MGM96EE080C4NB",
+    "VersaPro MGM96EE100C5NB",
+    "VersaPro MGM96EE120D5NB"
+   ],
+   "url": "https://www.manualslib.com/manual/3575083/Mrcool-Versapro-Mgm96ee060b3nb.html"
+  },
+  {
+   "manualId": "3539011",
+   "slug": "Mrcool-Versapro-Mhk05pb",
+   "title": "VersaPro MHK05PB installation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "VersaPro MHK05PB",
+   "extraModels": [
+    "VersaPro MHK07PB",
+    "VersaPro MHK10PB",
+    "VersaPro MHK15PB",
+    "VersaPro MHK20PB"
+   ],
+   "url": "https://www.manualslib.com/manual/3539011/Mrcool-Versapro-Mhk05pb.html"
+  },
+  {
+   "manualId": "4118472",
+   "slug": "Mrcool-Versapro-Mpg-S-Mo13c-Series",
+   "title": "VersaPro MPG S MO13C Series installation manual",
+   "type": "Installation",
+   "pages": 47,
+   "productModel": "VersaPro MPG S MO13C Series",
+   "extraModels": [
+    "VersaPro MPG24S060MO13C",
+    "VersaPro MPG30S060MO13C",
+    "VersaPro MPG36S090MO13C",
+    "VersaPro MPG42S090MO13C",
+    "VersaPro MPG48S090MO13C",
+    "VersaPro MPG60S110MO13C"
+   ],
+   "url": "https://www.manualslib.com/manual/4118472/Mrcool-Versapro-Mpg-S-Mo13c-Series.html"
+  },
+  {
+   "manualId": "4125387",
+   "slug": "Mrcool-Versapro-Mpg-S-Mo13c-Series",
+   "title": "VersaPro MPG S MO13C Series Service manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "VersaPro MPG S MO13C Series",
+   "extraModels": [
+    "VersaPro MPG24S060MO13C",
+    "VersaPro MPG30S060MO13C",
+    "VersaPro MPG36S090MO13C",
+    "VersaPro MPG42S090MO13C",
+    "VersaPro MPG48S090MO13C",
+    "VersaPro MPG60S110MO13C"
+   ],
+   "url": "https://www.manualslib.com/manual/4125387/Mrcool-Versapro-Mpg-S-Mo13c-Series.html"
+  },
+  {
+   "manualId": "3513001",
+   "slug": "Mrcool-Versapro-Mpg24s060m413b",
+   "title": "VersaPro MPG24S060M413B installation manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "VersaPro MPG24S060M413B",
+   "extraModels": [
+    "VersaPro MPG30S060M413B",
+    "VersaPro MPG36S090M413B",
+    "VersaPro MPG42S090M413B",
+    "VersaPro MPG48S090M413B",
+    "VersaPro MPG60S110M413B"
+   ],
+   "url": "https://www.manualslib.com/manual/3513001/Mrcool-Versapro-Mpg24s060m413b.html"
+  },
+  {
+   "manualId": "3576491",
+   "slug": "Mrcool-Versapro-Mpg24s060m413b",
+   "title": "VersaPro MPG24S060M413B Service manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "VersaPro MPG24S060M413B",
+   "extraModels": [
+    "VersaPro MPG30S060M413B",
+    "VersaPro MPG36S090M413B",
+    "VersaPro MPG42S090M413B",
+    "VersaPro MPG48S090M413B",
+    "VersaPro MPG60S110M413B"
+   ],
+   "url": "https://www.manualslib.com/manual/3576491/Mrcool-Versapro-Mpg24s060m413b.html"
+  },
+  {
+   "manualId": "4128022",
+   "slug": "Mrcool-Versapro-Mph-1ho13c-Series",
+   "title": "VersaPro MPH 1HO13C Series installation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "VersaPro MPH 1HO13C Series",
+   "extraModels": [
+    "VersaPro MPH241HO13C",
+    "VersaPro MPH301HO13C",
+    "VersaPro MPH361HO13C",
+    "VersaPro MPH421HO13C",
+    "VersaPro MPH481HO13C",
+    "VersaPro MPH601HO13C"
+   ],
+   "url": "https://www.manualslib.com/manual/4128022/Mrcool-Versapro-Mph-1ho13c-Series.html"
+  },
+  {
+   "manualId": "4128933",
+   "slug": "Mrcool-Versapro-Mph-1ho13c-Series",
+   "title": "VersaPro MPH 1HO13C Series Service manual",
+   "type": "Service",
+   "pages": 97,
+   "productModel": "VersaPro MPH 1HO13C Series",
+   "extraModels": [
+    "VersaPro MPH241HO13C",
+    "VersaPro MPH301HO13C",
+    "VersaPro MPH361HO13C",
+    "VersaPro MPH421HO13C",
+    "VersaPro MPH481HO13C",
+    "VersaPro MPH601HO13C"
+   ],
+   "url": "https://www.manualslib.com/manual/4128933/Mrcool-Versapro-Mph-1ho13c-Series.html"
+  },
+  {
+   "manualId": "3550000",
+   "slug": "Mrcool-Versapro-Mph241h413b",
+   "title": "VersaPro MPH241H413B installation manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "VersaPro MPH241H413B",
+   "extraModels": [
+    "VersaPro MPH301H413B",
+    "VersaPro MPH361H413B",
+    "VersaPro MPH421H413B",
+    "VersaPro MPH481H413B",
+    "VersaPro MPH601H413B"
+   ],
+   "url": "https://www.manualslib.com/manual/3550000/Mrcool-Versapro-Mph241h413b.html"
+  },
+  {
+   "manualId": "3520471",
+   "slug": "Mrcool-Versapro-Mph241h413b",
+   "title": "VersaPro MPH241H413B Service manual",
+   "type": "Service",
+   "pages": 50,
+   "productModel": "VersaPro MPH241H413B",
+   "extraModels": [
+    "VersaPro MPH301H413B",
+    "VersaPro MPH361H413B",
+    "VersaPro MPH421H413B",
+    "VersaPro MPH481H413B",
+    "VersaPro MPH601H413B"
+   ],
+   "url": "https://www.manualslib.com/manual/3520471/Mrcool-Versapro-Mph241h413b.html"
+  },
+  {
+   "manualId": "4090487",
+   "slug": "Mrcool-Versapro-Mvp-Hp-Muah-230a00-O-Series",
+   "title": "VersaPro MVP HP-MUAH-230A00-O Series Service manual",
+   "type": "Service",
+   "pages": 94,
+   "productModel": "VersaPro MVP HP-MUAH-230A00-O Series",
+   "extraModels": [
+    "VersaPro MVP-18-HP-MUAH-230A00-O",
+    "VersaPro MVP-24-HP-MUAH-230A00-O",
+    "VersaPro MVP-30-HP-MUAH-230A00-O",
+    "VersaPro MVP-36-HP-MUAH-230A00-O",
+    "VersaPro MVP-48-HP-MUAH-230A00-O",
+    "VersaPro MVP-60-HP-MUAH-230A00-O"
+   ],
+   "url": "https://www.manualslib.com/manual/4090487/Mrcool-Versapro-Mvp-Hp-Muah-230a00-O-Series.html"
+  },
+  {
+   "manualId": "4517972",
+   "slug": "Mrcool-Xk-120d2",
+   "title": "XK-120D2 Installation and owners manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "XK-120D2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4517972/Mrcool-Xk-120d2.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4236547",
+   "slug": "mrcool-advantage-series-air-conditioner-installation-manual",
+   "title": "MrCool Advantage Series Air Conditioner Installation Manual"
+  },
+  {
+   "manualId": "4239837",
+   "slug": "mrcool-mst04-smart-thermostat-user-manual",
+   "title": "MrCool MST04 Smart Thermostat User Manual"
+  },
+  {
+   "manualId": "4256988",
+   "slug": "mrcool-olympus-series-wall-mounted-remote-control-installation-manual",
+   "title": "MrCool Olympus Series Wall-Mounted Remote Control Installation Manual"
+  },
+  {
+   "manualId": "4042761",
+   "slug": "mrcool-diy-series-diy-hp-wmah-115d25-o-diy-hp-wmah-230d25-o-manual",
+   "title": "MrCool DIY Series, DIY HP-WMAH-115D25-O, DIY HP-WMAH-230D25-O Manual"
+  },
+  {
+   "manualId": "3735053",
+   "slug": "mrcool-universal-series-mdui180-e-series-manual",
+   "title": "MrCool Universal Series, MDUI180 E Series Manual"
+  }
+ ],
+ "techDirectIds": [
+  "mrcool"
+ ]
+}

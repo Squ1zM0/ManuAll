@@ -1,0 +1,466 @@
+{
+ "brand": "Halton",
+ "brandSlug": "halton",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/halton/"
+ ],
+ "slugUsed": "halton",
+ "capturedAt": "2026-10-28T07:26:22.865397+00:00",
+ "typePages": [
+  {
+   "path": "/brand/halton/air-conditioner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/halton/control-panel.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/halton/fan.html",
+   "manuals": 69,
+   "status": 200
+  },
+  {
+   "path": "/brand/halton/industrial-equipment.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/halton/security-system.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/halton/ventilation-hood.html",
+   "manuals": 116,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1255367",
+   "slug": "Halton-Capture-Jet-Kvesj",
+   "title": "Capture Jet KCH Operator's manual",
+   "type": "Other",
+   "pages": 26,
+   "productModel": "Capture Jet KCH",
+   "extraModels": [
+    "Capture Jet KCH",
+    "Capture Jet KVE SK",
+    "Capture Jet KVL",
+    "Capture Jet KVM",
+    "Capture Jet KVO",
+    "Capture Jet KVR",
+    "Capture Jet KVW SJ",
+    "Capture Jet KVW SK",
+    "Capture JetKVC SJ",
+    "Capture JetKVC SK"
+   ],
+   "url": "https://www.manualslib.com/manual/1255367/Halton-Capture-Jet-Kvesj.html"
+  },
+  {
+   "manualId": "1203997",
+   "slug": "Halton-Capture-Jet-Kve-Ww",
+   "title": "Capture Jet KVC-WW Operator's manual",
+   "type": "Other",
+   "pages": 31,
+   "productModel": "Capture Jet KVC-WW",
+   "extraModels": [
+    "Capture Jet KVC-WW"
+   ],
+   "url": "https://www.manualslib.com/manual/1203997/Halton-Capture-Jet-Kve-Ww.html"
+  },
+  {
+   "manualId": "792883",
+   "slug": "Halton-Kve-Ww",
+   "title": "Capture Jet KVC-WW Operator's manual",
+   "type": "Other",
+   "pages": 31,
+   "productModel": "Capture Jet KVC-WW",
+   "extraModels": [
+    "Capture Jet KVC-WW",
+    "Capture Jet KVE-WW",
+    "KVC-WW"
+   ],
+   "url": "https://www.manualslib.com/manual/792883/Halton-Kve-Ww.html"
+  },
+  {
+   "manualId": "815836",
+   "slug": "Halton-Kve-Uv",
+   "title": "Capture Ray KVC-UV Operator's manual",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "Capture Ray KVC-UV",
+   "extraModels": [
+    "Capture Ray KVC-UV",
+    "Capture Ray KVE-UV",
+    "Capture Ray KVW-UV",
+    "KVC-UV",
+    "KVW-UV"
+   ],
+   "url": "https://www.manualslib.com/manual/815836/Halton-Kve-Uv.html"
+  },
+  {
+   "manualId": "1502380",
+   "slug": "Halton-Capture-Ray-Kve-Uv",
+   "title": "Capture Ray KVL-UV Operator's manual",
+   "type": "Other",
+   "pages": 29,
+   "productModel": "Capture Ray KVL-UV",
+   "extraModels": [
+    "Capture Ray  KVL-UV",
+    "Capture Ray KVC-UV",
+    "Capture Ray KVW-UV"
+   ],
+   "url": "https://www.manualslib.com/manual/1502380/Halton-Capture-Ray-Kve-Uv.html"
+  },
+  {
+   "manualId": "3826475",
+   "slug": "Halton-Ch",
+   "title": "CH Operator's manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "CH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3826475/Halton-Ch.html"
+  },
+  {
+   "manualId": "835491",
+   "slug": "Halton-Kve-Sj-Sk",
+   "title": "DW Operator's manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "DW",
+   "extraModels": [
+    "DW",
+    "KVC (SJ-SK)",
+    "KVL",
+    "KVO",
+    "KVR",
+    "KVW (SJ-SK)",
+    "SBS",
+    "SIR5",
+    "SWR",
+    "SWS"
+   ],
+   "url": "https://www.manualslib.com/manual/835491/Halton-Kve-Sj-Sk.html"
+  },
+  {
+   "manualId": "1254748",
+   "slug": "Halton-Ecoloair-3000cfm",
+   "title": "EcoloAir 10000CFM installation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "EcoloAir 10000CFM",
+   "extraModels": [
+    "EcoloAir 10000CFM",
+    "EcoloAir 12000CFM",
+    "EcoloAir 15000CFM",
+    "EcoloAir 18000CFM",
+    "EcoloAir 20000CFM",
+    "EcoloAir 24000CFM",
+    "EcoloAir 28000CFM",
+    "EcoloAir 32000CFM",
+    "EcoloAir 36000CFM",
+    "EcoloAir 40000CFM",
+    "EcoloAir 4000CFM",
+    "EcoloAir 5000CFM",
+    "EcoloAir 6000CFM",
+    "EcoloAir 8000CFM"
+   ],
+   "url": "https://www.manualslib.com/manual/1254748/Halton-Ecoloair-3000cfm.html"
+  },
+  {
+   "manualId": "2361296",
+   "slug": "Halton-Ecoloair-3000cfm",
+   "title": "EcoloAir 10000CFM installation manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": "EcoloAir 10000CFM",
+   "extraModels": [
+    "EcoloAir 10000CFM",
+    "EcoloAir 12000CFM",
+    "EcoloAir 15000CFM",
+    "EcoloAir 18000CFM",
+    "EcoloAir 20000CFM",
+    "EcoloAir 24000CFM",
+    "EcoloAir 28000CFM",
+    "EcoloAir 32000CFM",
+    "EcoloAir 36000CFM",
+    "EcoloAir 40000CFM",
+    "EcoloAir 4000CFM",
+    "EcoloAir 5000CFM",
+    "EcoloAir 6000CFM",
+    "EcoloAir 8000CFM"
+   ],
+   "url": "https://www.manualslib.com/manual/2361296/Halton-Ecoloair-3000cfm.html"
+  },
+  {
+   "manualId": "1254749",
+   "slug": "Halton-Ecoloair-3000cfm",
+   "title": "EcoloAir 10000CFM Operator's manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "EcoloAir 10000CFM",
+   "extraModels": [
+    "EcoloAir 10000CFM",
+    "EcoloAir 12000CFM",
+    "EcoloAir 15000CFM",
+    "EcoloAir 18000CFM",
+    "EcoloAir 20000CFM",
+    "EcoloAir 24000CFM",
+    "EcoloAir 28000CFM",
+    "EcoloAir 32000CFM",
+    "EcoloAir 36000CFM",
+    "EcoloAir 40000CFM",
+    "EcoloAir 4000CFM",
+    "EcoloAir 5000CFM",
+    "EcoloAir 6000CFM",
+    "EcoloAir 8000CFM"
+   ],
+   "url": "https://www.manualslib.com/manual/1254749/Halton-Ecoloair-3000cfm.html"
+  },
+  {
+   "manualId": "2605140",
+   "slug": "Halton-Ecoloair-3000cfm",
+   "title": "EcoloAir 10000CFM Operator's manual",
+   "type": "Other",
+   "pages": 22,
+   "productModel": "EcoloAir 10000CFM",
+   "extraModels": [
+    "EcoloAir 10000CFM",
+    "EcoloAir 12000CFM",
+    "EcoloAir 15000CFM",
+    "EcoloAir 18000CFM",
+    "EcoloAir 20000CFM",
+    "EcoloAir 24000CFM",
+    "EcoloAir 28000CFM",
+    "EcoloAir 32000CFM",
+    "EcoloAir 36000CFM",
+    "EcoloAir 40000CFM",
+    "EcoloAir 4000CFM",
+    "EcoloAir 5000CFM",
+    "EcoloAir 6000CFM",
+    "EcoloAir 8000CFM"
+   ],
+   "url": "https://www.manualslib.com/manual/2605140/Halton-Ecoloair-3000cfm.html"
+  },
+  {
+   "manualId": "822484",
+   "slug": "Halton-Ecov-10",
+   "title": "ECOV-10 Operator instructions manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "ECOV-10",
+   "extraModels": [
+    "ECOV-20",
+    "ECOV-30",
+    "ECOV-40"
+   ],
+   "url": "https://www.manualslib.com/manual/822484/Halton-Ecov-10.html"
+  },
+  {
+   "manualId": "3826474",
+   "slug": "Halton-Eo",
+   "title": "EO Operator's manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "EO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3826474/Halton-Eo.html"
+  },
+  {
+   "manualId": "2374084",
+   "slug": "Halton-Hsm",
+   "title": "HSM Manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "HSM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2374084/Halton-Hsm.html"
+  },
+  {
+   "manualId": "1553848",
+   "slug": "Halton-Kvf-Capture-Jet",
+   "title": "KVF Capture Jet Operation",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "KVF Capture Jet",
+   "extraModels": [
+    "KVI Capture Jet",
+    "KVL"
+   ],
+   "url": "https://www.manualslib.com/manual/1553848/Halton-Kvf-Capture-Jet.html"
+  },
+  {
+   "manualId": "3826473",
+   "slug": "Halton-Kvm",
+   "title": "KVM Operator's manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "KVM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3826473/Halton-Kvm.html"
+  },
+  {
+   "manualId": "3854791",
+   "slug": "Halton-Kvx",
+   "title": "KVX Operation",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "KVX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3854791/Halton-Kvx.html"
+  },
+  {
+   "manualId": "2310415",
+   "slug": "Halton-M-A-R-V-E-L",
+   "title": "M.A.R.V.E.L. Operator's manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "M.A.R.V.E.L.",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2310415/Halton-M-A-R-V-E-L.html"
+  },
+  {
+   "manualId": "3594547",
+   "slug": "Halton-Max-Ultra-Circular",
+   "title": "Max Ultra Circular Installation, Commissioning And Maintenance",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "Max Ultra Circular",
+   "extraModels": [
+    "MUC"
+   ],
+   "url": "https://www.manualslib.com/manual/3594547/Halton-Max-Ultra-Circular.html"
+  },
+  {
+   "manualId": "2145323",
+   "slug": "Halton-Max-Ultra-Circular",
+   "title": "Max Ultra Circular Installation, commissioning and maintenance manual",
+   "type": "Service",
+   "pages": 31,
+   "productModel": "Max Ultra Circular",
+   "extraModels": [
+    "MUC"
+   ],
+   "url": "https://www.manualslib.com/manual/2145323/Halton-Max-Ultra-Circular.html"
+  },
+  {
+   "manualId": "2608663",
+   "slug": "Halton-Max-Ultra-Circular",
+   "title": "Max Ultra Circular Quick Manual For Commissioning",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "Max Ultra Circular",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2608663/Halton-Max-Ultra-Circular.html"
+  },
+  {
+   "manualId": "1517824",
+   "slug": "Halton-Mm1-Series",
+   "title": "MM1 Series Operator's manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "MM1 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1517824/Halton-Mm1-Series.html"
+  },
+  {
+   "manualId": "1846478",
+   "slug": "Halton-Mm1-Series",
+   "title": "MM1 Series Operator's manual",
+   "type": "Other",
+   "pages": 38,
+   "productModel": "MM1 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1846478/Halton-Mm1-Series.html"
+  },
+  {
+   "manualId": "4388407",
+   "slug": "Halton-Ret-1",
+   "title": "RET-1 installation manual",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "RET-1",
+   "extraModels": [
+    "RET-2",
+    "RET-3"
+   ],
+   "url": "https://www.manualslib.com/manual/4388407/Halton-Ret-1.html"
+  },
+  {
+   "manualId": "2510054",
+   "slug": "Halton-Rex-Expander",
+   "title": "Rex Expander Installation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Rex Expander",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2510054/Halton-Rex-Expander.html"
+  },
+  {
+   "manualId": "4022255",
+   "slug": "Halton-Rex-Rxp",
+   "title": "Rex RXP Installation & Commissioning",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "Rex RXP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4022255/Halton-Rex-Rxp.html"
+  },
+  {
+   "manualId": "2493792",
+   "slug": "Halton-Safe-Management-2-0",
+   "title": "Safe Management 2.0 Installation, commissioning, operating, and maintenance manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "Safe Management 2.0",
+   "extraModels": [
+    "SM2"
+   ],
+   "url": "https://www.manualslib.com/manual/2493792/Halton-Safe-Management-2-0.html"
+  },
+  {
+   "manualId": "1768503",
+   "slug": "Halton-Vita-Vht",
+   "title": "Vita VHT INSTALLATION, COMMISSIONING AND MAINTENANCE",
+   "type": "Service",
+   "pages": 33,
+   "productModel": "Vita VHT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1768503/Halton-Vita-Vht.html"
+  },
+  {
+   "manualId": "3472891",
+   "slug": "Halton-Vita-Vsg",
+   "title": "Vita VSG installation manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "Vita VSG",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3472891/Halton-Vita-Vsg.html"
+  },
+  {
+   "manualId": "2059851",
+   "slug": "Halton-Vita-Vsn",
+   "title": "Vita VSN Installation and maintenance manual",
+   "type": "Service",
+   "pages": 31,
+   "productModel": "Vita VSN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2059851/Halton-Vita-Vsn.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "halton"
+ ]
+}

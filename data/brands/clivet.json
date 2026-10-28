@@ -1,0 +1,3943 @@
+{
+ "brand": "CLIVET",
+ "brandSlug": "clivet",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/clivet/"
+ ],
+ "slugUsed": "clivet",
+ "capturedAt": "2026-10-28T06:39:00.368936+00:00",
+ "typePages": [
+  {
+   "path": "/brand/clivet/air-conditioner.html",
+   "manuals": 313,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/storage.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/air-cleaner.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/air-handlers.html",
+   "manuals": 26,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/boiler.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/chiller.html",
+   "manuals": 472,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/computer-hardware.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/control-panel.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/control-unit.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/controller.html",
+   "manuals": 14,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/electric-heater.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/fan.html",
+   "manuals": 22,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/gateway.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/heat-pump.html",
+   "manuals": 516,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/industrial-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/inverter.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/keypad.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/remote-control.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/solar-panel.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/test-equipment.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/thermostat.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/touch-terminals.html",
+   "manuals": 32,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/water-heater.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/water-pump.html",
+   "manuals": 23,
+   "status": 200
+  },
+  {
+   "path": "/brand/clivet/water-system.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1566835",
+   "slug": "Clivet-Wdata-Series",
+   "title": "2.160 Installation and use manual",
+   "type": "Installation",
+   "pages": 51,
+   "productModel": "2.160",
+   "extraModels": [
+    "2.160",
+    "2.180",
+    "2.190",
+    "2.200",
+    "2.240",
+    "2.280",
+    "2.300",
+    "2.320",
+    "2.340",
+    "2.360",
+    "2.440",
+    "2.480",
+    "2.540",
+    "2.600"
+   ],
+   "url": "https://www.manualslib.com/manual/1566835/Clivet-Wdata-Series.html"
+  },
+  {
+   "manualId": "3579634",
+   "slug": "Clivet-Wsh-2",
+   "title": "2.200 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "2.200",
+   "extraModels": [
+    "2.200",
+    "2.230",
+    "2.260",
+    "2.280",
+    "2.300",
+    "2.360",
+    "2.400",
+    "2.440",
+    "3.450",
+    "3.540",
+    "3.580",
+    "3.620",
+    "3.660",
+    "WSHH-2"
+   ],
+   "url": "https://www.manualslib.com/manual/3579634/Clivet-Wsh-2.html"
+  },
+  {
+   "manualId": "3070046",
+   "slug": "Clivet-Mv6r-Xmi",
+   "title": "252T-500T Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 69,
+   "productModel": "252T-500T",
+   "extraModels": [
+    "252T-500T"
+   ],
+   "url": "https://www.manualslib.com/manual/3070046/Clivet-Mv6r-Xmi.html"
+  },
+  {
+   "manualId": "2531155",
+   "slug": "Clivet-Cristallo-Series",
+   "title": "AAMMQ100-0003 Manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "AAMMQ100-0003",
+   "extraModels": [
+    "AAMMQ100-0003",
+    "AAP3Q100-0001",
+    "Cristallo-SM Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2531155/Clivet-Cristallo-Series.html"
+  },
+  {
+   "manualId": "1623180",
+   "slug": "Clivet-Aqua-Swan-190",
+   "title": "AQUA SWAN 190 Installation and operating manual",
+   "type": "Installation",
+   "pages": 57,
+   "productModel": "AQUA SWAN 190",
+   "extraModels": [
+    "AQUA SWAN 190S"
+   ],
+   "url": "https://www.manualslib.com/manual/1623180/Clivet-Aqua-Swan-190.html"
+  },
+  {
+   "manualId": "3858635",
+   "slug": "Clivet-Aqua-Swan-300",
+   "title": "AQUA SWAN 300 Installation and operating manual",
+   "type": "Installation",
+   "pages": 57,
+   "productModel": "AQUA SWAN 300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3858635/Clivet-Aqua-Swan-300.html"
+  },
+  {
+   "manualId": "3858636",
+   "slug": "Clivet-Aqua-Swan-300s",
+   "title": "AQUA SWAN 300S Installation and operating manual",
+   "type": "Installation",
+   "pages": 57,
+   "productModel": "AQUA SWAN 300S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3858636/Clivet-Aqua-Swan-300s.html"
+  },
+  {
+   "manualId": "1642606",
+   "slug": "Clivet-Aqx-Cla-Series",
+   "title": "AQX CLA Series Installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "AQX CLA Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1642606/Clivet-Aqx-Cla-Series.html"
+  },
+  {
+   "manualId": "4588198",
+   "slug": "Clivet-Aura-Cffc",
+   "title": "AURA CFFAC Installation and maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "AURA CFFAC",
+   "extraModels": [
+    "AURA CFFAC",
+    "AURA CFFAU",
+    "AURA CFFU"
+   ],
+   "url": "https://www.manualslib.com/manual/4588198/Clivet-Aura-Cffc.html"
+  },
+  {
+   "manualId": "3103911",
+   "slug": "Clivet-Box-Sl-950x950",
+   "title": "Box - SL 950x950 Installation and operating manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "Box - SL 950x950",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3103911/Clivet-Box-Sl-950x950.html"
+  },
+  {
+   "manualId": "3714500",
+   "slug": "Clivet-Box-2-950x950-70m",
+   "title": "BOX 2 950X950 70M Technical manual",
+   "type": "Other",
+   "pages": 144,
+   "productModel": "BOX 2 950X950 70M",
+   "extraModels": [
+    "Box-SM 2 650x650",
+    "IA3-XY Series",
+    "IB3-XY Series",
+    "MC3-Y 140T",
+    "MC3-Y 160T"
+   ],
+   "url": "https://www.manualslib.com/manual/3714500/Clivet-Box-2-950x950-70m.html"
+  },
+  {
+   "manualId": "1870571",
+   "slug": "Clivet-Box-Sm-2-650x650",
+   "title": "Box-SL 2 650x650 Installation and operating manual",
+   "type": "Installation",
+   "pages": 61,
+   "productModel": "Box-SL 2 650x650",
+   "extraModels": [
+    "Box-SL 2 650x650"
+   ],
+   "url": "https://www.manualslib.com/manual/1870571/Clivet-Box-Sm-2-650x650.html"
+  },
+  {
+   "manualId": "2185446",
+   "slug": "Clivet-Box-Sm-2",
+   "title": "Box-SL 2 650x650 Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 109,
+   "productModel": "Box-SL 2 650x650",
+   "extraModels": [
+    "Box-SL 2 650x650",
+    "IB2-XY 27M-53",
+    "S.IB2+MC2-Y 35M-53M"
+   ],
+   "url": "https://www.manualslib.com/manual/2185446/Clivet-Box-Sm-2.html"
+  },
+  {
+   "manualId": "2415033",
+   "slug": "Clivet-Ia2-Xy-Series",
+   "title": "Box-SL 2 Series Manual",
+   "type": "Other",
+   "pages": 120,
+   "productModel": "Box-SL 2 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2415033/Clivet-Ia2-Xy-Series.html"
+  },
+  {
+   "manualId": "1823259",
+   "slug": "Clivet-Box-Sl-2-Series",
+   "title": "Box-SL 2 Series Technical manual",
+   "type": "Other",
+   "pages": 96,
+   "productModel": "Box-SL 2 Series",
+   "extraModels": [
+    "Box-SL IA2-XY 70M",
+    "Box-SL IB2-XY 35M",
+    "Box-SL MC2-XY 35M",
+    "Box-SL MC2-Y 70M",
+    "SL MC2-Y 105T",
+    "SL MC2-Y 140T",
+    "SL MC2-Y 160T"
+   ],
+   "url": "https://www.manualslib.com/manual/1823259/Clivet-Box-Sl-2-Series.html"
+  },
+  {
+   "manualId": "1895378",
+   "slug": "Clivet-Mc2-Y-53m",
+   "title": "Box-SL IB2-XY 35M Technical manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "Box-SL IB2-XY 35M",
+   "extraModels": [
+    "Box-SL IB2-XY 35M"
+   ],
+   "url": "https://www.manualslib.com/manual/1895378/Clivet-Mc2-Y-53m.html"
+  },
+  {
+   "manualId": "2415010",
+   "slug": "Clivet-Mc2-Y-Series",
+   "title": "Box-SL MC2-Y 70M Manual",
+   "type": "Other",
+   "pages": 144,
+   "productModel": "Box-SL MC2-Y 70M",
+   "extraModels": [
+    "MC2-Y 105T",
+    "MC2-Y 140T",
+    "MC2-Y 160T"
+   ],
+   "url": "https://www.manualslib.com/manual/2415010/Clivet-Mc2-Y-Series.html"
+  },
+  {
+   "manualId": "1940958",
+   "slug": "Clivet-Duct-Sl-2-Series",
+   "title": "Box-SL MC2-Y 70M Technical manual",
+   "type": "Other",
+   "pages": 108,
+   "productModel": "Box-SL MC2-Y 70M",
+   "extraModels": [
+    "Box-SL MC2-Y 70M",
+    "ID2-XY 35M",
+    "MC2-Y 105T",
+    "MC2-Y 140T",
+    "MC2-Y 160T"
+   ],
+   "url": "https://www.manualslib.com/manual/1940958/Clivet-Duct-Sl-2-Series.html"
+  },
+  {
+   "manualId": "3117857",
+   "slug": "Clivet-Ceiling-And-Floor-Sl-2",
+   "title": "Box-SL MC2-Y 70M Technical manual",
+   "type": "Other",
+   "pages": 90,
+   "productModel": "Box-SL MC2-Y 70M",
+   "extraModels": [
+    "Box-SL MC2-Y 70M",
+    "F2-XY 70M",
+    "MC2-Y 105T",
+    "MC2-Y 140T",
+    "MC2-Y 160T",
+    "OUTDOOR UNIT-SL 2"
+   ],
+   "url": "https://www.manualslib.com/manual/3117857/Clivet-Ceiling-And-Floor-Sl-2.html"
+  },
+  {
+   "manualId": "2292662",
+   "slug": "Clivet-G3k0gb-1",
+   "title": "C3K0GB-1 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "C3K0GB-1",
+   "extraModels": [
+    "C3K0GB-1",
+    "E3K0GB-1",
+    "F3K0GB-1",
+    "R3K0GB-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2292662/Clivet-G3k0gb-1.html"
+  },
+  {
+   "manualId": "3201829",
+   "slug": "Clivet-G4d2gb-4",
+   "title": "C4D2GB-4 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "C4D2GB-4",
+   "extraModels": [
+    "C4D2GB-4",
+    "E4D2GB-4",
+    "F4D2GB-4",
+    "K4D2GB-4",
+    "L4D2GB-4",
+    "M4D2GB-4",
+    "N4D2GB-4",
+    "P4D2GB-4",
+    "R4D2GB-4"
+   ],
+   "url": "https://www.manualslib.com/manual/3201829/Clivet-G4d2gb-4.html"
+  },
+  {
+   "manualId": "1655146",
+   "slug": "Clivet-Cas-Series",
+   "title": "CAS Series Installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "CAS Series",
+   "extraModels": [
+    "CAS-102",
+    "CAS-122",
+    "CAS-162",
+    "CAS-182",
+    "CAS-222",
+    "CAS-31",
+    "CAS-41",
+    "CAS-51",
+    "CAS-61",
+    "CAS-71",
+    "CAS-81",
+    "CAS-82"
+   ],
+   "url": "https://www.manualslib.com/manual/1655146/Clivet-Cas-Series.html"
+  },
+  {
+   "manualId": "2535353",
+   "slug": "Clivet-Casr-X-Series",
+   "title": "CASR-X 122-162 Installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "CASR-X 122-162",
+   "extraModels": [
+    "CASR-X 122-162",
+    "CASR-X 182-222",
+    "CASR-X 31-51",
+    "CASR-X 61-81",
+    "CASR-X 82-102"
+   ],
+   "url": "https://www.manualslib.com/manual/2535353/Clivet-Casr-X-Series.html"
+  },
+  {
+   "manualId": "3434385",
+   "slug": "Clivet-Ccm30-Bke-A",
+   "title": "CCM30/BKE-A Installation & owner's manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "CCM30/BKE-A",
+   "extraModels": [
+    "CCM30/BKE-B",
+    "CE-CCM30/BKE-A",
+    "CE-CCM30/BKE-B"
+   ],
+   "url": "https://www.manualslib.com/manual/3434385/Clivet-Ccm30-Bke-A.html"
+  },
+  {
+   "manualId": "2430826",
+   "slug": "Clivet-Ceiling-And-Floor-Sm2-If2-53m-Series",
+   "title": "Ceiling & Floor-SL 2 IF2 53M Series Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 120,
+   "productModel": "Ceiling & Floor-SL 2 IF2 53M Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2430826/Clivet-Ceiling-And-Floor-Sm2-If2-53m-Series.html"
+  },
+  {
+   "manualId": "3493835",
+   "slug": "Clivet-Cervino-Mea1-P-Series",
+   "title": "CERVINO MEA1-P Series Manual",
+   "type": "Other",
+   "pages": 33,
+   "productModel": "CERVINO MEA1-P Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3493835/Clivet-Cervino-Mea1-P-Series.html"
+  },
+  {
+   "manualId": "3165045",
+   "slug": "Clivet-Msrn-Xsc3-Plus-Cev-Xn",
+   "title": "CEV-XN 105.0 Installation and operating manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "CEV-XN 105.0",
+   "extraModels": [
+    "CEV-XN 105.0",
+    "CEV-XN 115.0",
+    "CEV-XN 130.0",
+    "CEV-XN 160.0",
+    "CEV-XN 170.0",
+    "MSRN-XSC3 100.4",
+    "MSRN-XSC3 110.4",
+    "MSRN-XSC3 120.4",
+    "MSRN-XSC3 140.4",
+    "MSRN-XSC3 160.4",
+    "MSRN-XSC3 90.4"
+   ],
+   "url": "https://www.manualslib.com/manual/3165045/Clivet-Msrn-Xsc3-Plus-Cev-Xn.html"
+  },
+  {
+   "manualId": "1625576",
+   "slug": "Clivet-Cf-Series",
+   "title": "CF 121 Installation and use manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "CF 121",
+   "extraModels": [
+    "CF 121",
+    "CF 142",
+    "CF 162",
+    "CF 182",
+    "CF 202",
+    "CF 242",
+    "CF 91"
+   ],
+   "url": "https://www.manualslib.com/manual/1625576/Clivet-Cf-Series.html"
+  },
+  {
+   "manualId": "2399938",
+   "slug": "Clivet-Cf-V-Series",
+   "title": "CF-V 101 Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "CF-V 101",
+   "extraModels": [
+    "CF-V 101",
+    "CF-V 121",
+    "CF-V 142",
+    "CF-V 182",
+    "CF-V 202",
+    "CF-V 242",
+    "CF-V 31",
+    "CF-V 41",
+    "CF-V 51",
+    "CF-V 71",
+    "CF-V 91"
+   ],
+   "url": "https://www.manualslib.com/manual/2399938/Clivet-Cf-V-Series.html"
+  },
+  {
+   "manualId": "4192365",
+   "slug": "Clivet-Cfk-007-0",
+   "title": "CFK 007.0 Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 152,
+   "productModel": "CFK 007.0",
+   "extraModels": [
+    "CFK 011.0",
+    "CFK 015.0",
+    "CFK 021.0",
+    "CFK 031.0",
+    "CFK 041.0"
+   ],
+   "url": "https://www.manualslib.com/manual/4192365/Clivet-Cfk-007-0.html"
+  },
+  {
+   "manualId": "3009026",
+   "slug": "Clivet-Cfw-2-1-5",
+   "title": "CFW-2 1-5 Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "CFW-2 1-5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3009026/Clivet-Cfw-2-1-5.html"
+  },
+  {
+   "manualId": "1619382",
+   "slug": "Clivet-Ckn-Xhe2i-10-1",
+   "title": "CKN-XHE2i 10.1 Installation and operating manual",
+   "type": "Installation",
+   "pages": 67,
+   "productModel": "CKN-XHE2i 10.1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1619382/Clivet-Ckn-Xhe2i-10-1.html"
+  },
+  {
+   "manualId": "3858433",
+   "slug": "Clivet-Ckn-Xhe2i-14-2",
+   "title": "CKN-XHE2i 14.2 Installation and operating manual",
+   "type": "Installation",
+   "pages": 67,
+   "productModel": "CKN-XHE2i 14.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3858433/Clivet-Ckn-Xhe2i-14-2.html"
+  },
+  {
+   "manualId": "3858432",
+   "slug": "Clivet-Ckn-Xhe2i-7-1",
+   "title": "CKN-XHE2i 7.1 Installation and operating manual",
+   "type": "Installation",
+   "pages": 67,
+   "productModel": "CKN-XHE2i 7.1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3858432/Clivet-Ckn-Xhe2i-7-1.html"
+  },
+  {
+   "manualId": "3561447",
+   "slug": "Clivet-Ckn-Xhe2i",
+   "title": "CKN-XHE2i Manual",
+   "type": "Other",
+   "pages": 70,
+   "productModel": "CKN-XHE2i",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3561447/Clivet-Ckn-Xhe2i.html"
+  },
+  {
+   "manualId": "3489715",
+   "slug": "Clivet-Cristallo-2-Mma1-Y-Series",
+   "title": "Clivet CRISTALLO 2 MMA1-Y Series Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3489715/Clivet-Cristallo-2-Mma1-Y-Series.html"
+  },
+  {
+   "manualId": "3710471",
+   "slug": "Clivet-Csrn-Iy-20-2-56-4",
+   "title": "Clivet CSRN-iY 20.2-56.4 Manual",
+   "type": "Other",
+   "pages": 104,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3710471/Clivet-Csrn-Iy-20-2-56-4.html"
+  },
+  {
+   "manualId": "4389526",
+   "slug": "Clivet-Ezcool-Mla1-Y-Series",
+   "title": "Clivet EZCool MLA1-Y Series Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 34,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4389526/Clivet-Ezcool-Mla1-Y-Series.html"
+  },
+  {
+   "manualId": "4247882",
+   "slug": "clivet-hrv-2b-mi-series-hrv-unit-installation-and-owner-s-manual",
+   "title": "CLIVET HRV-2B-Mi Series HRV unit Installation and Owner's Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4247882/clivet-hrv-2b-mi-series-hrv-unit-installation-and-owner-s-manual.html"
+  },
+  {
+   "manualId": "3555367",
+   "slug": "Clivet-Ia3-Xy-Series",
+   "title": "Clivet IA3-XY Series Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 160,
+   "productModel": null,
+   "extraModels": [
+    "MC3-Y 140T",
+    "MC3-Y 160T"
+   ],
+   "url": "https://www.manualslib.com/manual/3555367/Clivet-Ia3-Xy-Series.html"
+  },
+  {
+   "manualId": "3594933",
+   "slug": "Clivet-Msan6-Xmi-200t-335t-Series",
+   "title": "Clivet MSAN6-XMi 200T-335T Series Manual",
+   "type": "Other",
+   "pages": 57,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3594933/Clivet-Msan6-Xmi-200t-335t-Series.html"
+  },
+  {
+   "manualId": "3534077",
+   "slug": "Clivet-Msan8-Y-Series",
+   "title": "Clivet MSAN8-Y Series Technical Bulletin",
+   "type": "Other",
+   "pages": 168,
+   "productModel": null,
+   "extraModels": [
+    "MSAN8-Y 120T",
+    "MSAN8-Y 140T",
+    "MSAN8-Y 160T",
+    "MSAN8-Y 180T"
+   ],
+   "url": "https://www.manualslib.com/manual/3534077/Clivet-Msan8-Y-Series.html"
+  },
+  {
+   "manualId": "3563000",
+   "slug": "Clivet-Multisplit-Mu2-Y-Series",
+   "title": "Clivet MULTISplit MU2-Y Series Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 50,
+   "productModel": null,
+   "extraModels": [
+    "MULTISplit ODU-SM 2"
+   ],
+   "url": "https://www.manualslib.com/manual/3563000/Clivet-Multisplit-Mu2-Y-Series.html"
+  },
+  {
+   "manualId": "3055550",
+   "slug": "Clivet-Q4an-2-Xmi-Series",
+   "title": "Clivet Q4AN-2-XMi Series Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 45,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3055550/Clivet-Q4an-2-Xmi-Series.html"
+  },
+  {
+   "manualId": "3569599",
+   "slug": "Clivet-Sphera-Evo-2-0-Box",
+   "title": "Clivet SPHERA EVO 2.0 Box Manual For Installation And Maintenance",
+   "type": "Service",
+   "pages": 96,
+   "productModel": null,
+   "extraModels": [
+    "MiSAN-YEE 1 S 3.1",
+    "MiSAN-YEE 1 S 7.1",
+    "SQKN-YEE 1 BC",
+    "SQKN-YEE 1 BC 2.1",
+    "SQKN-YEE 1 BC 3.1",
+    "SQKN-YEE 1 BC 4.1",
+    "SQKN-YEE 1 BC 5.1",
+    "SQKN-YEE 1 BC 6.1",
+    "SQKN-YEE 1 BC 7.1",
+    "SQKN-YEE 1 BC 8.1"
+   ],
+   "url": "https://www.manualslib.com/manual/3569599/Clivet-Sphera-Evo-2-0-Box.html"
+  },
+  {
+   "manualId": "3280353",
+   "slug": "Clivet-Vrf-Mv6r",
+   "title": "Clivet VRF MV6R Technical Bulletin",
+   "type": "Other",
+   "pages": 192,
+   "productModel": null,
+   "extraModels": [
+    "MV6R-XMi"
+   ],
+   "url": "https://www.manualslib.com/manual/3280353/Clivet-Vrf-Mv6r.html"
+  },
+  {
+   "manualId": "4020325",
+   "slug": "Clivet-Wisan-P",
+   "title": "Clivet WiSAN-P Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 112,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4020325/Clivet-Wisan-P.html"
+  },
+  {
+   "manualId": "3408664",
+   "slug": "Clivet-Wisan-Pme-1-S",
+   "title": "Clivet WiSAN-PME 1 S Manual For Installation And Maintenance",
+   "type": "Service",
+   "pages": 72,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3408664/Clivet-Wisan-Pme-1-S.html"
+  },
+  {
+   "manualId": "3338687",
+   "slug": "Clivet-Wisan-Yee1-45-4",
+   "title": "Clivet WiSAN-YEE1 45.4 Manual",
+   "type": "Other",
+   "pages": 66,
+   "productModel": null,
+   "extraModels": [
+    "Large EVO WiSAN-YEE1",
+    "WiSAN-YEE1 50.4",
+    "WiSAN-YEE1 55.4",
+    "WiSAN-YEE1 60.4",
+    "WiSAN-YEE1 65.4",
+    "WiSAN-YEE1 70.4",
+    "WiSAN-YEE1 75.4",
+    "WiSAN-YEE1 80.4",
+    "WiSAN-YEE1 85.4"
+   ],
+   "url": "https://www.manualslib.com/manual/3338687/Clivet-Wisan-Yee1-45-4.html"
+  },
+  {
+   "manualId": "2110492",
+   "slug": "Clivet-Wsan-Yes-18-2",
+   "title": "Clivet WSAN-YES 18.2 Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 67,
+   "productModel": null,
+   "extraModels": [
+    "WSAN-YES 18.2-35.2",
+    "WSAT-YES 18.2-20.2",
+    "WSAT-YES 25.2-35.2"
+   ],
+   "url": "https://www.manualslib.com/manual/2110492/Clivet-Wsan-Yes-18-2.html"
+  },
+  {
+   "manualId": "2037775",
+   "slug": "Clivet-Wsan-Ymi-Series",
+   "title": "Clivet WSAN-YMi Series Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 156,
+   "productModel": null,
+   "extraModels": [
+    "WSAN-YMi 21",
+    "WSAN-YMi 31",
+    "WSAN-YMi 41",
+    "WSAN-YMi 61",
+    "WSAN-YMi 71",
+    "WSAN-YMi 81"
+   ],
+   "url": "https://www.manualslib.com/manual/2037775/Clivet-Wsan-Ymi-Series.html"
+  },
+  {
+   "manualId": "4588219",
+   "slug": "Clivet-Wsan-Ysc4-80-3",
+   "title": "Clivet WSAN-YSC4 80.3 Instruction Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 88,
+   "productModel": null,
+   "extraModels": [
+    "WSAN-YSC4 100.4",
+    "WSAN-YSC4 110.4",
+    "WSAN-YSC4 120.4",
+    "WSAN-YSC4 130.4",
+    "WSAN-YSC4 145.4",
+    "WSAN-YSC4 160.4",
+    "WSAN-YSC4 185.5",
+    "WSAN-YSC4 210.6",
+    "WSAN-YSC4 225.6",
+    "WSAN-YSC4 240.6",
+    "WSAN-YSC4 90.4"
+   ],
+   "url": "https://www.manualslib.com/manual/4588219/Clivet-Wsan-Ysc4-80-3.html"
+  },
+  {
+   "manualId": "3280295",
+   "slug": "Clivet-Wsan-Ysc4",
+   "title": "Clivet WSAN-YSC4 Manual",
+   "type": "Other",
+   "pages": 83,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3280295/Clivet-Wsan-Ysc4.html"
+  },
+  {
+   "manualId": "4588201",
+   "slug": "Clivet-Wsat-Ysc4-80-3",
+   "title": "Clivet WSAT-YSC4 80.3 Instruction Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 84,
+   "productModel": null,
+   "extraModels": [
+    "WSAT-YSC4 100.4",
+    "WSAT-YSC4 110.4",
+    "WSAT-YSC4 115.4",
+    "WSAT-YSC4 130.4",
+    "WSAT-YSC4 145.4",
+    "WSAT-YSC4 170.4",
+    "WSAT-YSC4 185.5",
+    "WSAT-YSC4 210.6",
+    "WSAT-YSC4 225.6",
+    "WSAT-YSC4 240.6",
+    "WSAT-YSC4 550.4",
+    "WSAT-YSC4 90.3"
+   ],
+   "url": "https://www.manualslib.com/manual/4588201/Clivet-Wsat-Ysc4-80-3.html"
+  },
+  {
+   "manualId": "2902645",
+   "slug": "Clivet-Wsat-Ysc4",
+   "title": "Clivet WSAT-YSC4 Manual",
+   "type": "Other",
+   "pages": 77,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2902645/Clivet-Wsat-Ysc4.html"
+  },
+  {
+   "manualId": "2223248",
+   "slug": "Clivet-Wsat-Ysi",
+   "title": "Clivet WSAT-YSI Manual",
+   "type": "Other",
+   "pages": 87,
+   "productModel": null,
+   "extraModels": [
+    "WSAT-YES FC"
+   ],
+   "url": "https://www.manualslib.com/manual/2223248/Clivet-Wsat-Ysi.html"
+  },
+  {
+   "manualId": "3281276",
+   "slug": "Clivet-Clivetpack2-Crh-Xhe2-14-2-110-4",
+   "title": "CLIVETPack2 CRH-XHE2 14.2 - 110.4 Manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "CLIVETPack2 CRH-XHE2 14.2 - 110.4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3281276/Clivet-Clivetpack2-Crh-Xhe2-14-2-110-4.html"
+  },
+  {
+   "manualId": "3939194",
+   "slug": "Clivet-Cn-3-Xy-D56-D560",
+   "title": "CN-3-XY D56-D560 Manual",
+   "type": "Other",
+   "pages": 84,
+   "productModel": "CN-3-XY D56-D560",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3939194/Clivet-Cn-3-Xy-D56-D560.html"
+  },
+  {
+   "manualId": "1617094",
+   "slug": "Clivet-Cn-Xmi-D80",
+   "title": "CN-XMi D112 Installation and owner's manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "CN-XMi D112",
+   "extraModels": [
+    "CN-XMi D112",
+    "CN-XMi D140",
+    "CN-XMi D160",
+    "CN-XMi D200",
+    "CN-XMi D250",
+    "CN-XMi D280",
+    "CN-XMi D71",
+    "CN-XMi D90"
+   ],
+   "url": "https://www.manualslib.com/manual/1617094/Clivet-Cn-Xmi-D80.html"
+  },
+  {
+   "manualId": "3536334",
+   "slug": "Clivet-Cnfa-3-Xy-D90-D160",
+   "title": "CNFA-3-XY D90-D160 Manual",
+   "type": "Other",
+   "pages": 84,
+   "productModel": "CNFA-3-XY D90-D160",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3536334/Clivet-Cnfa-3-Xy-D90-D160.html"
+  },
+  {
+   "manualId": "3477506",
+   "slug": "Clivet-Control4-Nrg",
+   "title": "CONTROL4 NRG Manual",
+   "type": "Other",
+   "pages": 120,
+   "productModel": "CONTROL4 NRG",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3477506/Clivet-Control4-Nrg.html"
+  },
+  {
+   "manualId": "1623693",
+   "slug": "Clivet-Cpan-U-17",
+   "title": "CPAN-U-17 Installation and use manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "CPAN-U-17",
+   "extraModels": [
+    "CPAN-U-21",
+    "CPAN-U-41"
+   ],
+   "url": "https://www.manualslib.com/manual/1623693/Clivet-Cpan-U-17.html"
+  },
+  {
+   "manualId": "3858656",
+   "slug": "Clivet-Cpan-U-25",
+   "title": "CPAN-U-25 Installation and use manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "CPAN-U-25",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3858656/Clivet-Cpan-U-25.html"
+  },
+  {
+   "manualId": "3858657",
+   "slug": "Clivet-Cpan-U-31",
+   "title": "CPAN-U-31 Installation and use manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "CPAN-U-31",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3858657/Clivet-Cpan-U-31.html"
+  },
+  {
+   "manualId": "3858655",
+   "slug": "Clivet-Cpan-U-51",
+   "title": "CPAN-U-51 Installation and use manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "CPAN-U-51",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3858655/Clivet-Cpan-U-51.html"
+  },
+  {
+   "manualId": "1620812",
+   "slug": "Clivet-Cpan-Xhe3",
+   "title": "CPAN-XHE3 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 61,
+   "productModel": "CPAN-XHE3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1620812/Clivet-Cpan-Xhe3.html"
+  },
+  {
+   "manualId": "2901417",
+   "slug": "Clivet-Crc-242",
+   "title": "CRC 242 Installation and use manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "CRC 242",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2901417/Clivet-Crc-242.html"
+  },
+  {
+   "manualId": "1957288",
+   "slug": "Clivet-Crh-Xhe2-49-4",
+   "title": "CRH-XHE2 100.4 Installation and operating manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "CRH-XHE2 100.4",
+   "extraModels": [
+    "CRH-XHE2 100.4",
+    "CRH-XHE2 110.4",
+    "CRH-XHE2 54.4",
+    "CRH-XHE2 60.4",
+    "CRH-XHE2 70.4",
+    "CRH-XHE2 80.4",
+    "CRH-XHE2 90.4"
+   ],
+   "url": "https://www.manualslib.com/manual/1957288/Clivet-Crh-Xhe2-49-4.html"
+  },
+  {
+   "manualId": "1789772",
+   "slug": "Clivet-Crh-Xhe2-14-2-44-4",
+   "title": "CRH-XHE2 14.2-44.4 Installation and operating manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "CRH-XHE2 14.2-44.4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1789772/Clivet-Crh-Xhe2-14-2-44-4.html"
+  },
+  {
+   "manualId": "3699046",
+   "slug": "Clivet-Cristallo-2-Ima1-Y-Series",
+   "title": "CRISTALLO 2 IMA1-Y Series Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 152,
+   "productModel": "CRISTALLO 2 IMA1-Y Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3699046/Clivet-Cristallo-2-Ima1-Y-Series.html"
+  },
+  {
+   "manualId": "3145045",
+   "slug": "Clivet-Cristallo-Im1-Xy-Series",
+   "title": "CRISTALLO IM1-XY Series Installation and operating manual",
+   "type": "Installation",
+   "pages": 99,
+   "productModel": "CRISTALLO IM1-XY Series",
+   "extraModels": [
+    "MM1-Y 53M"
+   ],
+   "url": "https://www.manualslib.com/manual/3145045/Clivet-Cristallo-Im1-Xy-Series.html"
+  },
+  {
+   "manualId": "2690475",
+   "slug": "Clivet-Csnx-Xhe2-12-2-44-4",
+   "title": "CSNX-XHE2 12.2-44.4 Installation and operating manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "CSNX-XHE2 12.2-44.4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2690475/Clivet-Csnx-Xhe2-12-2-44-4.html"
+  },
+  {
+   "manualId": "3605712",
+   "slug": "Clivet-Csnx-Xhe2",
+   "title": "CSNX-XHE2 12.2-44.4 Manual",
+   "type": "Other",
+   "pages": 97,
+   "productModel": "CSNX-XHE2 12.2-44.4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3605712/Clivet-Csnx-Xhe2.html"
+  },
+  {
+   "manualId": "4149734",
+   "slug": "Clivet-Csrn-Iy-20-2",
+   "title": "CSRN-iY 20.2 Instruction manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 108,
+   "productModel": "CSRN-iY 20.2",
+   "extraModels": [
+    "CSRN-iY 28.2",
+    "CSRN-iY 40.4",
+    "CSRN-iY 56.4"
+   ],
+   "url": "https://www.manualslib.com/manual/4149734/Clivet-Csrn-Iy-20-2.html"
+  },
+  {
+   "manualId": "1678476",
+   "slug": "Clivet-Csrn-Xhe2",
+   "title": "CSRN-XHE2 Series Installation and operating manual",
+   "type": "Installation",
+   "pages": 59,
+   "productModel": "CSRN-XHE2 Series",
+   "extraModels": [
+    "CSRN-XHE2 15.2",
+    "CSRN-XHE2 18.2",
+    "CSRN-XHE2 20.4",
+    "CSRN-XHE2 25.4",
+    "CSRN-XHE2 30.4",
+    "CSRN-XHE2 33.4",
+    "CSRN-XHE2 40.4",
+    "CSRN-XHE2 44.4"
+   ],
+   "url": "https://www.manualslib.com/manual/1678476/Clivet-Csrn-Xhe2.html"
+  },
+  {
+   "manualId": "2203318",
+   "slug": "Clivet-Csrn-Xhe2",
+   "title": "CSRN-XHE2 Series Manual",
+   "type": "Other",
+   "pages": 93,
+   "productModel": "CSRN-XHE2 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2203318/Clivet-Csrn-Xhe2.html"
+  },
+  {
+   "manualId": "3533500",
+   "slug": "Clivet-Ddlc-3-Series",
+   "title": "DDLC-3 Series Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "DDLC-3 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3533500/Clivet-Ddlc-3-Series.html"
+  },
+  {
+   "manualId": "4102729",
+   "slug": "Clivet-Dua-M1",
+   "title": "DUA-H1 Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 136,
+   "productModel": "DUA-H1",
+   "extraModels": [
+    "DUA-H1",
+    "DUE-H1",
+    "DUE-M1",
+    "LARICE HP 12-122",
+    "LARICE MP 12-122"
+   ],
+   "url": "https://www.manualslib.com/manual/4102729/Clivet-Dua-M1.html"
+  },
+  {
+   "manualId": "3919044",
+   "slug": "Clivet-Duct-Sl-2",
+   "title": "Duct-SL 2 Installation and operating manual",
+   "type": "Installation",
+   "pages": 83,
+   "productModel": "Duct-SL 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3919044/Clivet-Duct-Sl-2.html"
+  },
+  {
+   "manualId": "2194766",
+   "slug": "Clivet-Id2-Xy-Series",
+   "title": "DUCT-SL-2 Manual",
+   "type": "Other",
+   "pages": 156,
+   "productModel": "DUCT-SL-2",
+   "extraModels": [
+    "DUCT-SL-2",
+    "DUCT-SM 2"
+   ],
+   "url": "https://www.manualslib.com/manual/2194766/Clivet-Id2-Xy-Series.html"
+  },
+  {
+   "manualId": "3123403",
+   "slug": "Clivet-Duct-Sm-2",
+   "title": "DUCT-SM 2 Installation and operating manual",
+   "type": "Installation",
+   "pages": 83,
+   "productModel": "DUCT-SM 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3123403/Clivet-Duct-Sm-2.html"
+  },
+  {
+   "manualId": "3018746",
+   "slug": "Clivet-Dzdf4-2a-Xmi-D22",
+   "title": "DZDF4-2A-XMI D22 Manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "DZDF4-2A-XMI D22",
+   "extraModels": [
+    "DZDF4-2A-XMI D28",
+    "DZDF4-2A-XMI D36",
+    "DZDF4-2A-XMI D45",
+    "DZDF4-2A-XMI D56",
+    "DZDF4-2A-XMI D71",
+    "DZDF4-2A-XMI D80",
+    "DZDF5-2A-XMi D22",
+    "DZDF5-2A-XMi D28",
+    "DZDF5-2A-XMi D36",
+    "DZDF5-2A-XMi D45",
+    "DZDF5-2A-XMi D56",
+    "DZDF5-2A-XMi D71",
+    "DZDF5-2A-XMi D80",
+    "DZGF3B-2A-XMi D22",
+    "DZGF3B-2A-XMi D28",
+    "DZGF3B-2A-XMi D36",
+    "DZGF3B-2A-XMi D45",
+    "DZGF3B-2A-XMi D56",
+    "DZGF3B-2A-XMi D71",
+    "DZGF3B-2A-XMi D80"
+   ],
+   "url": "https://www.manualslib.com/manual/3018746/Clivet-Dzdf4-2a-Xmi-D22.html"
+  },
+  {
+   "manualId": "3717305",
+   "slug": "Clivet-Easybox-Hqcn-Nee-1-Bc",
+   "title": "EASYBox HQCN-NEE 1 BC Manual for installation and maintenance",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "EASYBox HQCN-NEE 1 BC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3717305/Clivet-Easybox-Hqcn-Nee-1-Bc.html"
+  },
+  {
+   "manualId": "3749610",
+   "slug": "Clivet-Easyin-Hqcn-Nee-1-Ic",
+   "title": "EASYIn HQCN-NEE 1 IC Manual For Installation And Maintenance",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "EASYIn HQCN-NEE 1 IC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3749610/Clivet-Easyin-Hqcn-Nee-1-Ic.html"
+  },
+  {
+   "manualId": "3699954",
+   "slug": "Clivet-Easymini-Hqcn-Nee-1-Mc",
+   "title": "EASYMini HQCN-NEE 1 MC Manual For Installation And Maintenance",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "EASYMini HQCN-NEE 1 MC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3699954/Clivet-Easymini-Hqcn-Nee-1-Mc.html"
+  },
+  {
+   "manualId": "3749592",
+   "slug": "Clivet-Easytank-Hqcn-Nee-1-Tc",
+   "title": "EASYTank HQCN-NEE 1 TC Manual For Installation And Maintenance",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "EASYTank HQCN-NEE 1 TC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3749592/Clivet-Easytank-Hqcn-Nee-1-Tc.html"
+  },
+  {
+   "manualId": "4208771",
+   "slug": "Clivet-Edge-Evo-2-0-Wisan-Yme-1-S-Series",
+   "title": "EDGE EVO 2.0 WiSAN-YME 1 S 2.1 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "EDGE EVO 2.0 WiSAN-YME 1 S 2.1",
+   "extraModels": [
+    "EDGE EVO 2.0 WiSAN-YME 1 S 2.1",
+    "EDGE EVO 2.0 WiSAN-YME 1 S 3.1",
+    "EDGE EVO 2.0 WiSAN-YME 1 S 4.1",
+    "EDGE EVO 2.0 WiSAN-YME 10.1",
+    "EDGE EVO 2.0 WiSAN-YME 12.1",
+    "EDGE EVO 2.0 WiSAN-YME 14.1",
+    "EDGE EVO 2.0 WiSAN-YME 5.1",
+    "EDGE EVO 2.0 WiSAN-YME 6.1",
+    "EDGE EVO 2.0 WiSAN-YME 6.1T",
+    "EDGE EVO 2.0 WiSAN-YME 7.1",
+    "EDGE EVO 2.0 WiSAN-YME 7.1T",
+    "EDGE EVO 2.0 WiSAN-YME 8.1",
+    "EDGE EVO 2.0 WiSAN-YME 8.1T",
+    "EDGE EVO 2.0 WiSAN-YME 9.1"
+   ],
+   "url": "https://www.manualslib.com/manual/4208771/Clivet-Edge-Evo-2-0-Wisan-Yme-1-S-Series.html"
+  },
+  {
+   "manualId": "1978503",
+   "slug": "Clivet-Elfocontrol2",
+   "title": "ELFOControl2 Installation, configuration and use manual",
+   "type": "Installation",
+   "pages": 81,
+   "productModel": "ELFOControl2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1978503/Clivet-Elfocontrol2.html"
+  },
+  {
+   "manualId": "3139891",
+   "slug": "Clivet-Elfoduct-Hp-015-0",
+   "title": "ELFODuct HP 015.0 Instructions for installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 51,
+   "productModel": "ELFODuct HP 015.0",
+   "extraModels": [
+    "ELFODuct HP 071.0"
+   ],
+   "url": "https://www.manualslib.com/manual/3139891/Clivet-Elfoduct-Hp-015-0.html"
+  },
+  {
+   "manualId": "1658935",
+   "slug": "Clivet-Elfoduct-Mp-Series",
+   "title": "ELFODuct MP 15 Installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 53,
+   "productModel": "ELFODuct MP 15",
+   "extraModels": [
+    "ELFODuct MP 15",
+    "ELFODuct MP 21",
+    "ELFODuct MP 25",
+    "ELFODuct MP 31",
+    "ELFODuct MP 41",
+    "ELFODuct MP 51",
+    "ELFODuct MP 61",
+    "ELFODuct MP 71"
+   ],
+   "url": "https://www.manualslib.com/manual/1658935/Clivet-Elfoduct-Mp-Series.html"
+  },
+  {
+   "manualId": "2010346",
+   "slug": "Clivet-Elfofresh-Evo-Cpan-Yin",
+   "title": "ELFOFresh EVO CPAN-YIN Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 77,
+   "productModel": "ELFOFresh EVO CPAN-YIN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2010346/Clivet-Elfofresh-Evo-Cpan-Yin.html"
+  },
+  {
+   "manualId": "3248373",
+   "slug": "Clivet-Elfofresh2-Cpan-U-70-120",
+   "title": "ELFOFresh2 CPAN-U 70-120 Series Installation and operating manual",
+   "type": "Installation",
+   "pages": 117,
+   "productModel": "ELFOFresh2 CPAN-U 70-120 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3248373/Clivet-Elfofresh2-Cpan-U-70-120.html"
+  },
+  {
+   "manualId": "1619633",
+   "slug": "Clivet-Elfofresh2-Cpan-U-70-120-Series",
+   "title": "ELFOFresh2 CPAN-U 70-120 Series Technical Bulletin",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "ELFOFresh2 CPAN-U 70-120 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1619633/Clivet-Elfofresh2-Cpan-U-70-120-Series.html"
+  },
+  {
+   "manualId": "1136161",
+   "slug": "Clivet-Elforoom-3",
+   "title": "ELFOROOM 11 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 264,
+   "productModel": "ELFOROOM 11",
+   "extraModels": [
+    "ELFOROOM 11",
+    "ELFOROOM 15",
+    "ELFOROOM 17",
+    "ELFOROOM 5"
+   ],
+   "url": "https://www.manualslib.com/manual/1136161/Clivet-Elforoom-3.html"
+  },
+  {
+   "manualId": "2395727",
+   "slug": "Clivet-Elforoom2-003-0",
+   "title": "ELFORoom2 003.0 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 316,
+   "productModel": "ELFORoom2 003.0",
+   "extraModels": [
+    "ELFORoom2 005.0",
+    "ELFORoom2 011.0",
+    "ELFORoom2 015.0",
+    "ELFORoom2 017.0"
+   ],
+   "url": "https://www.manualslib.com/manual/2395727/Clivet-Elforoom2-003-0.html"
+  },
+  {
+   "manualId": "1663416",
+   "slug": "Clivet-Elforoom2-003-0",
+   "title": "ELFORoom2 003.0 Manual",
+   "type": "Other",
+   "pages": 47,
+   "productModel": "ELFORoom2 003.0",
+   "extraModels": [
+    "ELFORoom2 005.0",
+    "ELFORoom2 015.0",
+    "ELFORoom2 017.0",
+    "ELFORoom 2 011.0"
+   ],
+   "url": "https://www.manualslib.com/manual/1663416/Clivet-Elforoom2-003-0.html"
+  },
+  {
+   "manualId": "3747719",
+   "slug": "Clivet-Elfospace-Out-V",
+   "title": "ELFOSPACE IN- V Manual",
+   "type": "Other",
+   "pages": 43,
+   "productModel": "ELFOSPACE IN- V",
+   "extraModels": [
+    "ELFOSPACE IN- V",
+    "ELFOSPACE IN-H",
+    "ELFOSPACE OUT-H"
+   ],
+   "url": "https://www.manualslib.com/manual/3747719/Clivet-Elfospace-Out-V.html"
+  },
+  {
+   "manualId": "908716",
+   "slug": "Clivet-Elfospacewall2",
+   "title": "ELFOSPACEWALL2 Installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 41,
+   "productModel": "ELFOSPACEWALL2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/908716/Clivet-Elfospacewall2.html"
+  },
+  {
+   "manualId": "1370213",
+   "slug": "Clivet-Evh-Space-21",
+   "title": "EVH Space 101 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 33,
+   "productModel": "EVH Space 101",
+   "extraModels": [
+    "EVH Space 101",
+    "EVH Space 25",
+    "EVH Space 31",
+    "EVH Space 41",
+    "EVH Space 51",
+    "EVH Space 61",
+    "EVH Space 71",
+    "EVH Space 81",
+    "EVH Space 91"
+   ],
+   "url": "https://www.manualslib.com/manual/1370213/Clivet-Evh-Space-21.html"
+  },
+  {
+   "manualId": "4136310",
+   "slug": "Clivet-Evh-X-5",
+   "title": "EVH-X 11 Manual",
+   "type": "Other",
+   "pages": 88,
+   "productModel": "EVH-X 11",
+   "extraModels": [
+    "EVH-X 11",
+    "EVH-X 15",
+    "EVH-X 17",
+    "EVH-X 7",
+    "EVH-X 9"
+   ],
+   "url": "https://www.manualslib.com/manual/4136310/Clivet-Evh-X-5.html"
+  },
+  {
+   "manualId": "1799311",
+   "slug": "Clivet-Evh-X-Space-2-1",
+   "title": "EVH-X SPACE 10.1 Installation and owner's manual",
+   "type": "Installation",
+   "pages": 63,
+   "productModel": "EVH-X SPACE 10.1",
+   "extraModels": [
+    "EVH-X SPACE 10.1",
+    "EVH-X SPACE 12.1",
+    "EVH-X SPACE 3.1",
+    "EVH-X SPACE 5.1",
+    "EVH-X SPACE 7.1"
+   ],
+   "url": "https://www.manualslib.com/manual/1799311/Clivet-Evh-X-Space-2-1.html"
+  },
+  {
+   "manualId": "2503791",
+   "slug": "Clivet-Evh-X-Space-2-1",
+   "title": "EVH-X SPACE 10.1 Installation and owner's manual",
+   "type": "Installation",
+   "pages": 124,
+   "productModel": "EVH-X SPACE 10.1",
+   "extraModels": [
+    "EVH-X SPACE 10.1",
+    "EVH-X SPACE 12.1",
+    "EVH-X SPACE 3.1",
+    "EVH-X SPACE 5.1",
+    "EVH-X SPACE 7.1"
+   ],
+   "url": "https://www.manualslib.com/manual/2503791/Clivet-Evh-X-Space-2-1.html"
+  },
+  {
+   "manualId": "3672620",
+   "slug": "Clivet-Fresh-Large-Evo-Cisdn-Y-Ef-1",
+   "title": "Fresh Large EVO CiSDN-Y EF 1 Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 78,
+   "productModel": "Fresh Large EVO CiSDN-Y EF 1",
+   "extraModels": [
+    "Fresh Large EVO CiSDN-Y EF 2",
+    "Fresh Large EVO CiSDN-Y EF 3"
+   ],
+   "url": "https://www.manualslib.com/manual/3672620/Clivet-Fresh-Large-Evo-Cisdn-Y-Ef-1.html"
+  },
+  {
+   "manualId": "3641594",
+   "slug": "Clivet-Gw3-Mod-Gateway",
+   "title": "GW3-MOD Gateway Installation & owner's manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "GW3-MOD Gateway",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3641594/Clivet-Gw3-Mod-Gateway.html"
+  },
+  {
+   "manualId": "3590245",
+   "slug": "Clivet-Home-Elfosun3-F-L",
+   "title": "Home ELFOSun3 F-L Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 104,
+   "productModel": "Home ELFOSun3 F-L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3590245/Clivet-Home-Elfosun3-F-L.html"
+  },
+  {
+   "manualId": "3587787",
+   "slug": "Clivet-Home-Keypad",
+   "title": "Home Keypad User's and installer's manual",
+   "type": "Installation",
+   "pages": 74,
+   "productModel": "Home Keypad",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3587787/Clivet-Home-Keypad.html"
+  },
+  {
+   "manualId": "3587951",
+   "slug": "Clivet-Home-Misan-Yee-1-S-2-1",
+   "title": "Home MiSAN-YEE 1 S 2.1 installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Home MiSAN-YEE 1 S 2.1",
+   "extraModels": [
+    "Home MiSAN-YEE 1 S 3.1",
+    "Home MiSAN-YEE 1 S 4.1",
+    "Home MiSAN-YEE 1 S 5.1",
+    "Home MiSAN-YEE 1 S 6.1",
+    "Home MiSAN-YEE 1 S 8.1"
+   ],
+   "url": "https://www.manualslib.com/manual/3587951/Clivet-Home-Misan-Yee-1-S-2-1.html"
+  },
+  {
+   "manualId": "3281195",
+   "slug": "Clivet-Hrv-2b-Mi-Series",
+   "title": "HRV-2B-Mi -D1000 Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "HRV-2B-Mi -D1000",
+   "extraModels": [
+    "HRV-2B-Mi -D1000",
+    "HRV-2B-Mi -D1500",
+    "HRV-2B-Mi -D500",
+    "HRV-2B-Mi D200",
+    "HRV-2B-Mi D300",
+    "HRV-2B-Mi D400",
+    "HRV-2B-Mi-D2000"
+   ],
+   "url": "https://www.manualslib.com/manual/3281195/Clivet-Hrv-2b-Mi-Series.html"
+  },
+  {
+   "manualId": "3248384",
+   "slug": "Clivet-Hrv-Dx-2-Xmi-Series",
+   "title": "HRV-DX-2-XMi D1000 Technical manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "HRV-DX-2-XMi D1000",
+   "extraModels": [
+    "HRV-DX-2-XMi D1000",
+    "HRV-DX-2-XMi D500"
+   ],
+   "url": "https://www.manualslib.com/manual/3248384/Clivet-Hrv-Dx-2-Xmi-Series.html"
+  },
+  {
+   "manualId": "3031288",
+   "slug": "Clivet-Hrv-Dxl-2-Xmi-D1500",
+   "title": "HRV-DXL-2-XMi D1500 Technical manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "HRV-DXL-2-XMi D1500",
+   "extraModels": [
+    "HRV-DXL-2-XMi D2300"
+   ],
+   "url": "https://www.manualslib.com/manual/3031288/Clivet-Hrv-Dxl-2-Xmi-D1500.html"
+  },
+  {
+   "manualId": "3914286",
+   "slug": "Clivet-Hrv-Dxl-2-Xmi-D3100",
+   "title": "HRV-DXL-2-XMi D3100 Technical manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "HRV-DXL-2-XMi D3100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3914286/Clivet-Hrv-Dxl-2-Xmi-D3100.html"
+  },
+  {
+   "manualId": "3248893",
+   "slug": "Clivet-Hwm-2-Xmi-140",
+   "title": "HWM-2-XMi 140 Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "HWM-2-XMi 140",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3248893/Clivet-Hwm-2-Xmi-140.html"
+  },
+  {
+   "manualId": "4200018",
+   "slug": "Clivet-Hycro-M-Ihm1-Y-80m-Series",
+   "title": "HYCRO-M IHM1-Y 80M Series Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 66,
+   "productModel": "HYCRO-M IHM1-Y 80M Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4200018/Clivet-Hycro-M-Ihm1-Y-80m-Series.html"
+  },
+  {
+   "manualId": "3632331",
+   "slug": "Clivet-Ib3-Xy-Series",
+   "title": "IB3-XY Series Manual",
+   "type": "Other",
+   "pages": 37,
+   "productModel": "IB3-XY Series",
+   "extraModels": [
+    "Box-SM 2 650x650"
+   ],
+   "url": "https://www.manualslib.com/manual/3632331/Clivet-Ib3-Xy-Series.html"
+  },
+  {
+   "manualId": "4644705",
+   "slug": "Clivet-Iba1-Y-Series",
+   "title": "IBA1-Y Series Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "IBA1-Y Series",
+   "extraModels": [
+    "S.IBA1+MC3-Y Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4644705/Clivet-Iba1-Y-Series.html"
+  },
+  {
+   "manualId": "3169516",
+   "slug": "Clivet-Sm-2",
+   "title": "IF2-XY 70M Installation and operating manual",
+   "type": "Installation",
+   "pages": 73,
+   "productModel": "IF2-XY 70M",
+   "extraModels": [
+    "IF2-XY 70M"
+   ],
+   "url": "https://www.manualslib.com/manual/3169516/Clivet-Sm-2.html"
+  },
+  {
+   "manualId": "3626798",
+   "slug": "Clivet-If3-Xy-Series",
+   "title": "IF3-XY Series Manual",
+   "type": "Other",
+   "pages": 152,
+   "productModel": "IF3-XY Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3626798/Clivet-If3-Xy-Series.html"
+  },
+  {
+   "manualId": "2296401",
+   "slug": "Clivet-Wsan-Ee-82",
+   "title": "Installation and use manual",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2296401/Clivet-Wsan-Ee-82.html"
+  },
+  {
+   "manualId": "3214007",
+   "slug": "Clivet-Wsan-Ee202",
+   "title": "Installation and use manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3214007/Clivet-Wsan-Ee202.html"
+  },
+  {
+   "manualId": "2205094",
+   "slug": "Clivet-Standing-Sl-2",
+   "title": "IS2-XY 140M Series Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "IS2-XY 140M Series",
+   "extraModels": [
+    "IS2-XY 140M Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2205094/Clivet-Standing-Sl-2.html"
+  },
+  {
+   "manualId": "2550680",
+   "slug": "Clivet-Kjrp-75a",
+   "title": "KJRP-75A Installation & owner's manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "KJRP-75A",
+   "extraModels": [
+    "PEMF00001"
+   ],
+   "url": "https://www.manualslib.com/manual/2550680/Clivet-Kjrp-75a.html"
+  },
+  {
+   "manualId": "3704720",
+   "slug": "Clivet-Kjrp-86r",
+   "title": "KJRP-86R Installation & owner's manual",
+   "type": "Installation",
+   "pages": 244,
+   "productModel": "KJRP-86R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3704720/Clivet-Kjrp-86r.html"
+  },
+  {
+   "manualId": "3947793",
+   "slug": "Clivet-Mc3-Y-105t",
+   "title": "MC3-Y 105T Technical manual",
+   "type": "Other",
+   "pages": 144,
+   "productModel": "MC3-Y 105T",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3947793/Clivet-Mc3-Y-105t.html"
+  },
+  {
+   "manualId": "3947792",
+   "slug": "Clivet-Mc3-Y-35m",
+   "title": "MC3-Y 35M Technical manual",
+   "type": "Other",
+   "pages": 144,
+   "productModel": "MC3-Y 35M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3947792/Clivet-Mc3-Y-35m.html"
+  },
+  {
+   "manualId": "3568320",
+   "slug": "Clivet-Srhm-A-Ic",
+   "title": "MDAN-XMi 2.1 Installation and operating manual",
+   "type": "Installation",
+   "pages": 160,
+   "productModel": "MDAN-XMi 2.1",
+   "extraModels": [
+    "MDAN-XMi 2.1",
+    "MDAN-XMi 4.1",
+    "SPHERA-i Comfort",
+    "SPHERA-i Comfort 2.1",
+    "SPHERA-i Comfort 4.1",
+    "SPHERA-i Hybrid",
+    "SPHERA-i Hybrid 2.1",
+    "SPHERA-i Hybrid 4.1"
+   ],
+   "url": "https://www.manualslib.com/manual/3568320/Clivet-Srhm-A-Ic.html"
+  },
+  {
+   "manualId": "3099649",
+   "slug": "Clivet-Schiara-S-Ie1Plusme1-Y-Series",
+   "title": "ME1-Y 27M owner's manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "ME1-Y 27M",
+   "extraModels": [
+    "MM1-Y 53M",
+    "SCHIARA S.IE1+MM1-Y Series",
+    "SCHIARA-SM IE1-XY Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3099649/Clivet-Schiara-S-Ie1Plusme1-Y-Series.html"
+  },
+  {
+   "manualId": "3940877",
+   "slug": "Clivet-Misan-Yee-1-S-2-1",
+   "title": "MiSAN-YEE 1 S 2.1 Manual for installation and maintenance",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "MiSAN-YEE 1 S 2.1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3940877/Clivet-Misan-Yee-1-S-2-1.html"
+  },
+  {
+   "manualId": "3940878",
+   "slug": "Clivet-Misan-Yee-1-S-4-1",
+   "title": "MiSAN-YEE 1 S 4.1 Manual for installation and maintenance",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "MiSAN-YEE 1 S 4.1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3940878/Clivet-Misan-Yee-1-S-4-1.html"
+  },
+  {
+   "manualId": "3940879",
+   "slug": "Clivet-Misan-Yee-1-S-5-1",
+   "title": "MiSAN-YEE 1 S 5.1 Manual for installation and maintenance",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "MiSAN-YEE 1 S 5.1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3940879/Clivet-Misan-Yee-1-S-5-1.html"
+  },
+  {
+   "manualId": "3940880",
+   "slug": "Clivet-Misan-Yee-1-S-6-1",
+   "title": "MiSAN-YEE 1 S 6.1 Manual for installation and maintenance",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "MiSAN-YEE 1 S 6.1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3940880/Clivet-Misan-Yee-1-S-6-1.html"
+  },
+  {
+   "manualId": "3940881",
+   "slug": "Clivet-Misan-Yee-1-S-8-1",
+   "title": "MiSAN-YEE 1 S 8.1 Manual for installation and maintenance",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "MiSAN-YEE 1 S 8.1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3940881/Clivet-Misan-Yee-1-S-8-1.html"
+  },
+  {
+   "manualId": "1642318",
+   "slug": "Clivet-Mkg-V300",
+   "title": "MKG-V250 Installation and owner's manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "MKG-V250",
+   "extraModels": [
+    "MKG-V250",
+    "MKG-V400",
+    "MKG-V500",
+    "MKG-V600"
+   ],
+   "url": "https://www.manualslib.com/manual/1642318/Clivet-Mkg-V300.html"
+  },
+  {
+   "manualId": "2152102",
+   "slug": "Clivet-Mkg-V250",
+   "title": "MKG-V250 Installation and owner's manual",
+   "type": "Installation",
+   "pages": 142,
+   "productModel": "MKG-V250",
+   "extraModels": [
+    "MKG-V300",
+    "MKG-V400",
+    "MKG-V500",
+    "MKG-V600"
+   ],
+   "url": "https://www.manualslib.com/manual/2152102/Clivet-Mkg-V250.html"
+  },
+  {
+   "manualId": "2386684",
+   "slug": "Clivet-Mm2-Y-Series",
+   "title": "ML3-Y Series Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 137,
+   "productModel": "ML3-Y Series",
+   "extraModels": [
+    "ML3-Y Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2386684/Clivet-Mm2-Y-Series.html"
+  },
+  {
+   "manualId": "1475947",
+   "slug": "Clivet-Mr-Dx-17",
+   "title": "MR-DX 17 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 74,
+   "productModel": "MR-DX 17",
+   "extraModels": [
+    "MR-DX 25",
+    "MR-DX 31",
+    "MR-DX 41",
+    "MR-DX 61",
+    "MR-DX 71",
+    "MR-DX 81"
+   ],
+   "url": "https://www.manualslib.com/manual/1475947/Clivet-Mr-Dx-17.html"
+  },
+  {
+   "manualId": "3222336",
+   "slug": "Clivet-Msan-81",
+   "title": "MSAN 121 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 164,
+   "productModel": "MSAN 121",
+   "extraModels": [
+    "MSAN 121",
+    "MSAN 91",
+    "MSAN101"
+   ],
+   "url": "https://www.manualslib.com/manual/3222336/Clivet-Msan-81.html"
+  },
+  {
+   "manualId": "1631369",
+   "slug": "Clivet-Msan-Xmi-140m",
+   "title": "MSAN-XMi 120T Installation and owner's manual",
+   "type": "Installation",
+   "pages": 93,
+   "productModel": "MSAN-XMi 120T",
+   "extraModels": [
+    "MSAN-XMi 120T",
+    "MSAN-XMi 140T",
+    "MSAN-XMi 160T",
+    "MSAN-XMi 180T"
+   ],
+   "url": "https://www.manualslib.com/manual/1631369/Clivet-Msan-Xmi-140m.html"
+  },
+  {
+   "manualId": "3070887",
+   "slug": "Clivet-Msan-Xmi-80m-Series",
+   "title": "MSAN-XMi 120T installation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "MSAN-XMi 120T",
+   "extraModels": [
+    "MSAN-XMi 120T",
+    "MSAN-XMi 140T",
+    "MSAN-XMi 160T",
+    "MSAN-XMi 180T",
+    "MSAN-XMI 200T",
+    "MSAN-XMI 260T",
+    "MSAN-XMI 400T",
+    "MSAN-XMI 450T",
+    "MSAN-XMI 80M Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3070887/Clivet-Msan-Xmi-80m-Series.html"
+  },
+  {
+   "manualId": "3534105",
+   "slug": "Clivet-Msan8-Y-Series",
+   "title": "MSAN8-Y Series Manual",
+   "type": "Other",
+   "pages": 58,
+   "productModel": "MSAN8-Y Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3534105/Clivet-Msan8-Y-Series.html"
+  },
+  {
+   "manualId": "2066580",
+   "slug": "Clivet-Msat-Xee-8-2",
+   "title": "MSAT-XEE 10.2 Installation and operating manual",
+   "type": "Installation",
+   "pages": 42,
+   "productModel": "MSAT-XEE 10.2",
+   "extraModels": [
+    "MSAT-XEE 10.2",
+    "MSAT-XEE 12.2",
+    "MSAT-XEE 16.2",
+    "MSAT-XEE 18.2",
+    "MSAT-XEE 22.2",
+    "MSAT-XEE 26.2",
+    "MSAT-XEE 30.2"
+   ],
+   "url": "https://www.manualslib.com/manual/2066580/Clivet-Msat-Xee-8-2.html"
+  },
+  {
+   "manualId": "2264422",
+   "slug": "Clivet-Mse-Sc-65d",
+   "title": "MSE-SC 100D Installation and operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "MSE-SC 100D",
+   "extraModels": [
+    "MSE-SC 100D",
+    "MSE-SC 110D",
+    "MSE-SC 120D",
+    "MSE-SC 135F",
+    "MSE-SC 150F",
+    "MSE-SC 165F",
+    "MSE-SC 180F",
+    "MSE-SC 70D",
+    "MSE-SC 75C",
+    "MSE-SC 75D",
+    "MSE-SC 80D",
+    "MSE-SC 90C",
+    "MSE-SC 90D"
+   ],
+   "url": "https://www.manualslib.com/manual/2264422/Clivet-Mse-Sc-65d.html"
+  },
+  {
+   "manualId": "2278203",
+   "slug": "Clivet-Mse-Xsc3-90-4",
+   "title": "MSE-XSC3 100.4 Installation and operating manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "MSE-XSC3 100.4",
+   "extraModels": [
+    "MSE-XSC3 100.4",
+    "MSE-XSC3 110.4",
+    "MSE-XSC3 120.4",
+    "MSE-XSC3 140.4",
+    "MSE-XSC3 160.4"
+   ],
+   "url": "https://www.manualslib.com/manual/2278203/Clivet-Mse-Xsc3-90-4.html"
+  },
+  {
+   "manualId": "3168397",
+   "slug": "Clivet-Msrt-Xsc3",
+   "title": "MSRT-XSC3 Installation and operating manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "MSRT-XSC3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3168397/Clivet-Msrt-Xsc3.html"
+  },
+  {
+   "manualId": "2038437",
+   "slug": "Clivet-Mu1-Y-Series",
+   "title": "MU1-Y Series Installation and operating manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "MU1-Y Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2038437/Clivet-Mu1-Y-Series.html"
+  },
+  {
+   "manualId": "3069446",
+   "slug": "Clivet-Multisplit-Hydro-M-80m",
+   "title": "MULTISplit HYDRO-M 80M Technical manual",
+   "type": "Other",
+   "pages": 77,
+   "productModel": "MULTISplit HYDRO-M 80M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3069446/Clivet-Multisplit-Hydro-M-80m.html"
+  },
+  {
+   "manualId": "3338651",
+   "slug": "Clivet-Mv6-Xmi-252t-2700t-Series",
+   "title": "MV6-Xmi 252T-2700T Series Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "MV6-Xmi 252T-2700T Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3338651/Clivet-Mv6-Xmi-252t-2700t-Series.html"
+  },
+  {
+   "manualId": "3700061",
+   "slug": "Clivet-Nativ-S-Iz1-Mz1-Y-Series",
+   "title": "Nativ S.IZ1 MZ1-Y Series Installation and operating manual",
+   "type": "Installation",
+   "pages": 184,
+   "productModel": "Nativ S.IZ1 MZ1-Y Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3700061/Clivet-Nativ-S-Iz1-Mz1-Y-Series.html"
+  },
+  {
+   "manualId": "3621962",
+   "slug": "Clivet-Pack3-Csrn-Y-Series",
+   "title": "Pack3 CSRN-Y 100.4 CAK Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "Pack3 CSRN-Y 100.4 CAK",
+   "extraModels": [
+    "Pack3 CSRN-Y 100.4 CAK",
+    "Pack3 CSRN-Y 100.4 CBK",
+    "Pack3 CSRN-Y 100.4 CBK-G",
+    "Pack3 CSRN-Y 100.4 CCK-REVO",
+    "Pack3 CSRN-Y 120.4 CAK",
+    "Pack3 CSRN-Y 120.4 CBK",
+    "Pack3 CSRN-Y 120.4 CBK-G",
+    "Pack3 CSRN-Y 120.4 CCK-REVO",
+    "Pack3 CSRN-Y 60.4 CAK",
+    "Pack3 CSRN-Y 60.4 CBK",
+    "Pack3 CSRN-Y 60.4 CBK-G",
+    "Pack3 CSRN-Y 60.4 CCK-REVO",
+    "Pack3 CSRN-Y 70.4 CAK",
+    "Pack3 CSRN-Y 70.4 CBK",
+    "Pack3 CSRN-Y 70.4 CBK-G",
+    "Pack3 CSRN-Y 70.4 CCK-REVO",
+    "Pack3 CSRN-Y 80.4 CAK",
+    "Pack3 CSRN-Y 80.4 CBK",
+    "Pack3 CSRN-Y 80.4 CBK-G",
+    "Pack3 CSRN-Y 80.4 CCK-REVO",
+    "Pack3 CSRN-Y 90.4 CAK",
+    "Pack3 CSRN-Y 90.4 CBK",
+    "Pack3 CSRN-Y 90.4 CBK-G",
+    "Pack3 CSRN-Y 90.4 CCK-REVO"
+   ],
+   "url": "https://www.manualslib.com/manual/3621962/Clivet-Pack3-Csrn-Y-Series.html"
+  },
+  {
+   "manualId": "2240373",
+   "slug": "Clivet-Rg66b3",
+   "title": "PEKU00005 operating manual",
+   "type": "User / Owner",
+   "pages": 51,
+   "productModel": "PEKU00005",
+   "extraModels": [
+    "PEKU00005"
+   ],
+   "url": "https://www.manualslib.com/manual/2240373/Clivet-Rg66b3.html"
+  },
+  {
+   "manualId": "4102569",
+   "slug": "Clivet-Pevr00075",
+   "title": "PEVR00075 Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 111,
+   "productModel": "PEVR00075",
+   "extraModels": [
+    "PEVR00076",
+    "PEVR00077",
+    "PEVR00078"
+   ],
+   "url": "https://www.manualslib.com/manual/4102569/Clivet-Pevr00075.html"
+  },
+  {
+   "manualId": "3281194",
+   "slug": "Clivet-Q4dn-2-Xmi-Series",
+   "title": "Q4DN-2-XMi Series Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "Q4DN-2-XMi Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3281194/Clivet-Q4dn-2-Xmi-Series.html"
+  },
+  {
+   "manualId": "2950841",
+   "slug": "Clivet-Hid-Tconnect",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2950841/Clivet-Hid-Tconnect.html"
+  },
+  {
+   "manualId": "2182120",
+   "slug": "Clivet-Wdat-Ik4",
+   "title": "R513A Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 74,
+   "productModel": "R513A",
+   "extraModels": [
+    "R513A"
+   ],
+   "url": "https://www.manualslib.com/manual/2182120/Clivet-Wdat-Ik4.html"
+  },
+  {
+   "manualId": "3588069",
+   "slug": "Clivet-Sahu-01",
+   "title": "SAHU 01 Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 51,
+   "productModel": "SAHU 01",
+   "extraModels": [
+    "SAHU 02",
+    "SAHU 03",
+    "SAHU 04",
+    "SAHU 05",
+    "SAHU 06",
+    "SAHU 07",
+    "SAHU 08"
+   ],
+   "url": "https://www.manualslib.com/manual/3588069/Clivet-Sahu-01.html"
+  },
+  {
+   "manualId": "3338787",
+   "slug": "Clivet-Schiara-2",
+   "title": "SCHIARA 2 Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 71,
+   "productModel": "SCHIARA 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3338787/Clivet-Schiara-2.html"
+  },
+  {
+   "manualId": "2937182",
+   "slug": "Clivet-Schiara-2-Me2-Y-Series",
+   "title": "SCHIARA 2 ME2-Y Series Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 128,
+   "productModel": "SCHIARA 2 ME2-Y Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2937182/Clivet-Schiara-2-Me2-Y-Series.html"
+  },
+  {
+   "manualId": "3200135",
+   "slug": "Clivet-Schiara-Sm-Ie1-Xy-Series",
+   "title": "SCHIARA 27M Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "SCHIARA 27M",
+   "extraModels": [
+    "SCHIARA S.IE1+ME1-Y Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3200135/Clivet-Schiara-Sm-Ie1-Xy-Series.html"
+  },
+  {
+   "manualId": "1631094",
+   "slug": "Clivet-Screwline3-Mde-Sl3-Series",
+   "title": "SCREWLINE3 MDE-SL3 120.1 Installation and operating manual",
+   "type": "Installation",
+   "pages": 61,
+   "productModel": "SCREWLINE3 MDE-SL3 120.1",
+   "extraModels": [
+    "SCREWLINE3 MDE-SL3 120.1",
+    "SCREWLINE3 MDE-SL3 140.1",
+    "SCREWLINE3 MDE-SL3 160.1",
+    "SCREWLINE3 MDE-SL3 180.1",
+    "SCREWLINE3 MDE-SL3 200.1",
+    "SCREWLINE3 MDE-SL3 220.1",
+    "SCREWLINE3 MDE-SL3 250.1",
+    "SCREWLINE3 MDE-SL3 270.1",
+    "SCREWLINE3 MDE-SL3 290.1"
+   ],
+   "url": "https://www.manualslib.com/manual/1631094/Clivet-Screwline3-Mde-Sl3-Series.html"
+  },
+  {
+   "manualId": "2013878",
+   "slug": "Clivet-Wdat-Sl3-Fc-Series",
+   "title": "SCREWLine3 Series Installation and operating manual",
+   "type": "Installation",
+   "pages": 71,
+   "productModel": "SCREWLine3 Series",
+   "extraModels": [
+    "SCREWLine3 Series",
+    "SCREWLine3 WDAT-SL3 200.2",
+    "SCREWLine3 WDAT-SL3 210.2",
+    "WDAT-SL3 FC 200.2"
+   ],
+   "url": "https://www.manualslib.com/manual/2013878/Clivet-Wdat-Sl3-Fc-Series.html"
+  },
+  {
+   "manualId": "3478370",
+   "slug": "Clivet-Sinergy-Cec-S-5b",
+   "title": "SINERGY CEC-S 5B Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "SINERGY CEC-S 5B",
+   "extraModels": [
+    "SINERGY CEC-S 5B10",
+    "SINERGY CEC-S 5B15",
+    "SINERGY CEC-S 5B20",
+    "SINERGY CEC-S 5B5",
+    "SINERGY CEC-S 5K",
+    "SINERGY CEC-S B 05K",
+    "SINERGY CEC-S B 10K",
+    "SINERGY CEC-S B 15K",
+    "SINERGY CEC-S B 20K"
+   ],
+   "url": "https://www.manualslib.com/manual/3478370/Clivet-Sinergy-Cec-S-5b.html"
+  },
+  {
+   "manualId": "3478371",
+   "slug": "Clivet-Sinergy-Cec-T-10k",
+   "title": "SINERGY CEC-S 5K Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 54,
+   "productModel": "SINERGY CEC-S 5K",
+   "extraModels": [
+    "SINERGY CEC-S 5K",
+    "SINERGY CEC-S B 5K"
+   ],
+   "url": "https://www.manualslib.com/manual/3478371/Clivet-Sinergy-Cec-T-10k.html"
+  },
+  {
+   "manualId": "3485443",
+   "slug": "Clivet-Singlesplit-Cristallo",
+   "title": "SINGLESplit CRISTALLO Manual",
+   "type": "Other",
+   "pages": 108,
+   "productModel": "SINGLESplit CRISTALLO",
+   "extraModels": [
+    "SINGLESplit ESSENTIAL 2",
+    "SINGLESplit SCHIARA"
+   ],
+   "url": "https://www.manualslib.com/manual/3485443/Clivet-Singlesplit-Cristallo.html"
+  },
+  {
+   "manualId": "3921504",
+   "slug": "Clivet-Sl-2",
+   "title": "SL 2 Installation and operating manual",
+   "type": "Installation",
+   "pages": 73,
+   "productModel": "SL 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3921504/Clivet-Sl-2.html"
+  },
+  {
+   "manualId": "3565498",
+   "slug": "Clivet-Sphera-Evo-2-0",
+   "title": "SPHERA EVO 2.0 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 112,
+   "productModel": "SPHERA EVO 2.0",
+   "extraModels": [
+    "SQKN-YEE 1 TC MiSAN-YEE 1 S 2.1",
+    "SQKN-YEE 1 TC MiSAN-YEE 1 S 3.1",
+    "SQKN-YEE 1 TC MiSAN-YEE 1 S 4.1",
+    "SQKN-YEE 1 TC MiSAN-YEE 1 S 5.1",
+    "SQKN-YEE 1 TC MiSAN-YEE 1 S 6.1",
+    "SQKN-YEE 1 TC MiSAN-YEE 1 S 7.1",
+    "SQKN-YEE 1 TC MiSAN-YEE 1 S 8.1"
+   ],
+   "url": "https://www.manualslib.com/manual/3565498/Clivet-Sphera-Evo-2-0.html"
+  },
+  {
+   "manualId": "3582612",
+   "slug": "Clivet-Sphera-Evo-2-0-Invisible-Series",
+   "title": "SPHERA EVO 2.0 Invisible Series Manual For Installation And Maintenance",
+   "type": "Service",
+   "pages": 104,
+   "productModel": "SPHERA EVO 2.0 Invisible Series",
+   "extraModels": [
+    "SQKN-YEE 1 IC 2.1",
+    "SQKN-YEE 1 IC 3.1",
+    "SQKN-YEE 1 IC 4.1",
+    "SQKN-YEE 1 IC 5.1"
+   ],
+   "url": "https://www.manualslib.com/manual/3582612/Clivet-Sphera-Evo-2-0-Invisible-Series.html"
+  },
+  {
+   "manualId": "4090411",
+   "slug": "Clivet-Sphera-Evo-2-0-Easyhybrid",
+   "title": "SPHERA EVO 2.0 Manual",
+   "type": "Other",
+   "pages": 212,
+   "productModel": "SPHERA EVO 2.0",
+   "extraModels": [
+    "SQKN-YEE 1 BH 150L MiSAN-YEE 1 S",
+    "SQKN-YEE 1 BH 24kW MiSAN-YEE 1 S 2.1",
+    "SQKN-YEE 1 BH 24kW MiSAN-YEE 1 S 3.1",
+    "SQKN-YEE 1 BH 24kW MiSAN-YEE 1 S 4.1",
+    "SQKN-YEE 1 BH 24kW MiSAN-YEE 1 S 5.1",
+    "SQKN-YEE 1 BH 34kW MiSAN-YEE 1 S 2.1",
+    "SQKN-YEE 1 BH 34kW MiSAN-YEE 1 S 6.1",
+    "SQKN-YEE 1 BH 34kW MiSAN-YEE 1 S 7.1",
+    "SQKN-YEE 1 BH 34kW MiSAN-YEE 1 S 8.1",
+    "SQKN-YEE 1 BH A 24kW 150L MiSAN-YEE 1 S 2.1",
+    "SQKN-YEE 1 BH A 24kW 150L MiSAN-YEE 1 S 3.1",
+    "SQKN-YEE 1 BH A 24kW 150L MiSAN-YEE 1 S 4.1",
+    "SQKN-YEE 1 BH A 24kW 150L MiSAN-YEE 1 S 5.1",
+    "SQKN-YEE 1 BH A 24kW MiSAN-YEE 1 S 2.1",
+    "SQKN-YEE 1 BH A 24kW MiSAN-YEE 1 S 3.1",
+    "SQKN-YEE 1 BH A 24kW MiSAN-YEE 1 S 4.1",
+    "SQKN-YEE 1 BH A 24kW MiSAN-YEE 1 S 5.1",
+    "SQKN-YEE 1 BH A 34kW 150L MiSAN-YEE 1 S 2.1",
+    "SQKN-YEE 1 BH A 34kW 150L MiSAN-YEE 1 S 3.1",
+    "SQKN-YEE 1 BH A 34kW 150L MiSAN-YEE 1 S 4.1",
+    "SQKN-YEE 1 BH A 34kW 150L MiSAN-YEE 1 S 5.1",
+    "SQKN-YEE 1 BH A 34kW MiSAN-YEE 1 S 2.1",
+    "SQKN-YEE 1 BH A 34kW MiSAN-YEE 1 S 3.1",
+    "SQKN-YEE 1 BH A 34kW MiSAN-YEE 1 S 4.1",
+    "SQKN-YEE 1 BH A 34kW MiSAN-YEE 1 S 5.1",
+    "SQKN-YEE 1 BH B 34kW 150L MiSAN-YEE 1 S 6.1",
+    "SQKN-YEE 1 BH B 34kW MiSAN-YEE 1 S 6.1",
+    "SQKN-YEE 1 BH C 34kW 150L MiSAN-YEE 1 S 7.1",
+    "SQKN-YEE 1 BH C 34kW MiSAN-YEE 1 S 7.1",
+    "SQKN-YEE 1 BH D 34kW 150L MiSAN-YEE 1 S 8.1",
+    "SQKN-YEE 1 BH D 34kW MiSAN-YEE 1 S 8.1",
+    "SQKN-YEE 1 BH MiSAN-YEE 1 S"
+   ],
+   "url": "https://www.manualslib.com/manual/4090411/Clivet-Sphera-Evo-2-0-Easyhybrid.html"
+  },
+  {
+   "manualId": "3466161",
+   "slug": "Clivet-Sphera-Evo-2-0",
+   "title": "SPHERA EVO 2.0 Service manual",
+   "type": "Service",
+   "pages": 112,
+   "productModel": "SPHERA EVO 2.0",
+   "extraModels": [
+    "SQKN-YEE 1 TC+MiSAN-YEE 1 S 2.1-8.1"
+   ],
+   "url": "https://www.manualslib.com/manual/3466161/Clivet-Sphera-Evo-2-0.html"
+  },
+  {
+   "manualId": "2399850",
+   "slug": "Clivet-Spinchiller2-Duct",
+   "title": "SPINchiller2 Duct Installation and operating manual",
+   "type": "Installation",
+   "pages": 57,
+   "productModel": "SPINchiller2 Duct",
+   "extraModels": [
+    "WSA-XSC2 432-120D"
+   ],
+   "url": "https://www.manualslib.com/manual/2399850/Clivet-Spinchiller2-Duct.html"
+  },
+  {
+   "manualId": "3198816",
+   "slug": "Clivet-Stelvio-Ih2-Y-Series",
+   "title": "STELVIO 27M Manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "STELVIO 27M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3198816/Clivet-Stelvio-Ih2-Y-Series.html"
+  },
+  {
+   "manualId": "3528108",
+   "slug": "Clivet-Stelvio-Ih2-Y-27m",
+   "title": "STELVIO IH2-Y Series Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 108,
+   "productModel": "STELVIO IH2-Y Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3528108/Clivet-Stelvio-Ih2-Y-27m.html"
+  },
+  {
+   "manualId": "2184896",
+   "slug": "Clivet-Stelvio-Mh1-Y-Series",
+   "title": "STELVIO MH1-Y Series Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "STELVIO MH1-Y Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2184896/Clivet-Stelvio-Mh1-Y-Series.html"
+  },
+  {
+   "manualId": "3232933",
+   "slug": "Clivet-Stelvio-27m-Series",
+   "title": "STELVIO MH1-Y Series Service manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "STELVIO MH1-Y Series",
+   "extraModels": [
+    "STELVIO MH1-Y Series",
+    "Stelvio 27M Series",
+    "Stelvio IH1-Y 27M"
+   ],
+   "url": "https://www.manualslib.com/manual/3232933/Clivet-Stelvio-27m-Series.html"
+  },
+  {
+   "manualId": "2150591",
+   "slug": "Clivet-Talk",
+   "title": "TALK Manual",
+   "type": "Other",
+   "pages": 59,
+   "productModel": "TALK",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2150591/Clivet-Talk.html"
+  },
+  {
+   "manualId": "2769431",
+   "slug": "Clivet-Versatemp-Eqv-X",
+   "title": "Versatemp EQV-X Installation and use manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "Versatemp EQV-X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2769431/Clivet-Versatemp-Eqv-X.html"
+  },
+  {
+   "manualId": "1625546",
+   "slug": "Clivet-Wban-Series",
+   "title": "WBAN 122 Installation, use & maintenance manual",
+   "type": "Service",
+   "pages": 49,
+   "productModel": "WBAN 122",
+   "extraModels": [
+    "WBAN 122",
+    "WBAN 162",
+    "WBAN 202",
+    "WBAN 262",
+    "WBAN 302",
+    "WBAN 82"
+   ],
+   "url": "https://www.manualslib.com/manual/1625546/Clivet-Wban-Series.html"
+  },
+  {
+   "manualId": "1804359",
+   "slug": "Clivet-Wban-41",
+   "title": "WBAN 41 Installation and use manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "WBAN 41",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1804359/Clivet-Wban-41.html"
+  },
+  {
+   "manualId": "3865047",
+   "slug": "Clivet-Wban-61",
+   "title": "WBAN 61 Installation and use manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "WBAN 61",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3865047/Clivet-Wban-61.html"
+  },
+  {
+   "manualId": "3865048",
+   "slug": "Clivet-Wban-81",
+   "title": "WBAN 81 Installation and use manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "WBAN 81",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3865048/Clivet-Wban-81.html"
+  },
+  {
+   "manualId": "3665737",
+   "slug": "Clivet-Wch-I-250",
+   "title": "WCH-I 250 installation manual",
+   "type": "Installation",
+   "pages": 43,
+   "productModel": "WCH-I 250",
+   "extraModels": [
+    "WCH-I 500",
+    "WCH-I 550"
+   ],
+   "url": "https://www.manualslib.com/manual/3665737/Clivet-Wch-I-250.html"
+  },
+  {
+   "manualId": "3720073",
+   "slug": "Clivet-Wdan-Ik4-Mf-220-2",
+   "title": "WDAN-iK4 MF 220,2 Manual",
+   "type": "Other",
+   "pages": 79,
+   "productModel": "WDAN-iK4 MF 220,2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3720073/Clivet-Wdan-Ik4-Mf-220-2.html"
+  },
+  {
+   "manualId": "2047396",
+   "slug": "Clivet-Wdat-3-2-160",
+   "title": "WDAT-3 2.160 Installation and use manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "WDAT-3 2.160",
+   "extraModels": [
+    "WDAT-3 2.180",
+    "WDAT-3 2.200",
+    "WDAT-3 2.220",
+    "WDAT-3 2.250",
+    "WDAT-3 2.280",
+    "WDAT-3 2.300",
+    "WDAT-3 2.320",
+    "WDAT-3 2.340",
+    "WDAT-3 2.360",
+    "WDAT-3 2.390",
+    "WDAT-3 2.420",
+    "WDAT-3 2.450",
+    "WDAT-3 2.480",
+    "WDAT-3 3.480",
+    "WDAT-3 3.500",
+    "WDAT-3 3.540",
+    "WDAT-3 3.630",
+    "WDAT-3 3.660"
+   ],
+   "url": "https://www.manualslib.com/manual/2047396/Clivet-Wdat-3-2-160.html"
+  },
+  {
+   "manualId": "1913738",
+   "slug": "Clivet-Wdat-Il3-Series",
+   "title": "WDAT-iL3 250.2 Installation and operating manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "WDAT-iL3 250.2",
+   "extraModels": [
+    "WDAT-iL3 250.2",
+    "WDAT-iL3 280.2",
+    "WDAT-iL3 320.2",
+    "WDAT-iL3 360.2",
+    "WDAT-iL3 400.2",
+    "WDAT-iL3 420.2",
+    "WDAT-iL3 440.2",
+    "WDAT-iL3 480.2",
+    "WDAT-iL3 540.2",
+    "WDAT-iL3 580.2"
+   ],
+   "url": "https://www.manualslib.com/manual/1913738/Clivet-Wdat-Il3-Series.html"
+  },
+  {
+   "manualId": "1937731",
+   "slug": "Clivet-Wdat-Iz4",
+   "title": "WDAT-iZ4 Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "WDAT-iZ4",
+   "extraModels": [
+    "WDAT-iZ4 120.1",
+    "WDAT-iZ4 160.1",
+    "WDAT-iZ4 200.1",
+    "WDAT-iZ4 240.1",
+    "WDAT-iZ4 250.2",
+    "WDAT-iZ4 280.2",
+    "WDAT-iZ4 290.1",
+    "WDAT-iZ4 320.2",
+    "WDAT-iZ4 360.2",
+    "WDAT-iZ4 400.2",
+    "WDAT-iZ4 440.2",
+    "WDAT-iZ4 480.2",
+    "WDAT-iZ4 540.2",
+    "WDAT-iZ4 580.2"
+   ],
+   "url": "https://www.manualslib.com/manual/1937731/Clivet-Wdat-Iz4.html"
+  },
+  {
+   "manualId": "3684485",
+   "slug": "Clivet-Wdc-120g-Wk",
+   "title": "WDC-120G/WK Operation and installation manual",
+   "type": "Installation",
+   "pages": 250,
+   "productModel": "WDC-120G/WK",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3684485/Clivet-Wdc-120g-Wk.html"
+  },
+  {
+   "manualId": "1353026",
+   "slug": "Clivet-Wdh-3-2-160",
+   "title": "WDH-3 2.160 Installation and use manual",
+   "type": "Installation",
+   "pages": 55,
+   "productModel": "WDH-3 2.160",
+   "extraModels": [
+    "WDH-3 2.180",
+    "WDH-3 2.220",
+    "WDH-3 2.250",
+    "WDH-3 2.280",
+    "WDH-3 2.300",
+    "WDH-3 2.320",
+    "WDH-3 2.340",
+    "WDH-3 2.360",
+    "WDH-3 2.420",
+    "WDH-3 2.450",
+    "WDH-3 2.480",
+    "WDH-3 2.540",
+    "WDH-3 2.600"
+   ],
+   "url": "https://www.manualslib.com/manual/1353026/Clivet-Wdh-3-2-160.html"
+  },
+  {
+   "manualId": "2961595",
+   "slug": "Clivet-Wdh-Ik4",
+   "title": "WDH-iK4 Manual",
+   "type": "Other",
+   "pages": 77,
+   "productModel": "WDH-iK4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2961595/Clivet-Wdh-Ik4.html"
+  },
+  {
+   "manualId": "4126025",
+   "slug": "Clivet-Widhn-Ksl1-Pl",
+   "title": "WiDHN-KSL1 PL Instruction manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 73,
+   "productModel": "WiDHN-KSL1 PL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4126025/Clivet-Widhn-Ksl1-Pl.html"
+  },
+  {
+   "manualId": "4197564",
+   "slug": "Clivet-Wisan-Yee1-45-4",
+   "title": "WiSAN-YEE1 45.4 Service manual",
+   "type": "Service",
+   "pages": 188,
+   "productModel": "WiSAN-YEE1 45.4",
+   "extraModels": [
+    "WiSAN-YEE1 85.4",
+    "WiSAT-YEE1 45.4",
+    "WiSAT-YEE1 90.4",
+    "WiSAT-YEE1 FC 45.4",
+    "WiSAT-YEE1 FC 90.4"
+   ],
+   "url": "https://www.manualslib.com/manual/4197564/Clivet-Wisan-Yee1-45-4.html"
+  },
+  {
+   "manualId": "3655002",
+   "slug": "Clivet-Wisan-Yee1-Pl",
+   "title": "WiSAN-YEE1 PL Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "WiSAN-YEE1 PL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3655002/Clivet-Wisan-Yee1-Pl.html"
+  },
+  {
+   "manualId": "2995006",
+   "slug": "Clivet-Wisan-Yme-1-S-2-1",
+   "title": "WiSAN-YME 1 S 10.1 Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 174,
+   "productModel": "WiSAN-YME 1 S 10.1",
+   "extraModels": [
+    "WiSAN-YME 1 S 10.1",
+    "WiSAN-YME 1 S 12.1",
+    "WiSAN-YME 1 S 14.1",
+    "WiSAN-YME 1 S 3.1",
+    "WiSAN-YME 1 S 4.1",
+    "WiSAN-YME 1 S 5.1",
+    "WiSAN-YME 1 S 6.1",
+    "WiSAN-YME 1 S 7.1",
+    "WiSAN-YME 1 S 8.1",
+    "WiSAN-YME 1 S 9.1"
+   ],
+   "url": "https://www.manualslib.com/manual/2995006/Clivet-Wisan-Yme-1-S-2-1.html"
+  },
+  {
+   "manualId": "3129253",
+   "slug": "Clivet-Wisan-Yme-1-S-2-1",
+   "title": "WiSAN-YME 1 S 10.1 Service manual",
+   "type": "Service",
+   "pages": 120,
+   "productModel": "WiSAN-YME 1 S 10.1",
+   "extraModels": [
+    "WiSAN-YME 1 S 10.1",
+    "WiSAN-YME 1 S 12.1",
+    "WiSAN-YME 1 S 14.1",
+    "WiSAN-YME 1 S 3.1",
+    "WiSAN-YME 1 S 4.1",
+    "WiSAN-YME 1 S 5.1",
+    "WiSAN-YME 1 S 6.1",
+    "WiSAN-YME 1 S 7.1",
+    "WiSAN-YME 1 S 8.1",
+    "WiSAN-YME 1 S 9.1"
+   ],
+   "url": "https://www.manualslib.com/manual/3129253/Clivet-Wisan-Yme-1-S-2-1.html"
+  },
+  {
+   "manualId": "4196241",
+   "slug": "Clivet-Wisan-Yme-1-S-8-1",
+   "title": "WiSAN-YME 1 S 2.1 Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 116,
+   "productModel": "WiSAN-YME 1 S 2.1",
+   "extraModels": [
+    "WiSAN-YME 1 S 2.1",
+    "WiSAN-YME 1 S 3.1",
+    "WiSAN-YME 1 S 4.1",
+    "WiSAN-YME 1 S 5.1",
+    "WiSAN-YME 1 S 6.1",
+    "WiSAN-YME 1 S 7.1"
+   ],
+   "url": "https://www.manualslib.com/manual/4196241/Clivet-Wisan-Yme-1-S-8-1.html"
+  },
+  {
+   "manualId": "4124047",
+   "slug": "Clivet-Wisan-Yse-1-10-1-Exc-Prm",
+   "title": "WiSAN-YSE 1 10.1 EXC/PRM Service manual",
+   "type": "Service",
+   "pages": 164,
+   "productModel": "WiSAN-YSE 1 10.1 EXC/PRM",
+   "extraModels": [
+    "WiSAN-YSE 1 14.1 EXC/PRM",
+    "WiSAN-YSE 1 16.2 EXC/PRM",
+    "WiSAN-YSE 1 22.2 EXC/PRM",
+    "WiSAN-YSE 1 30.2 EXC/PRM",
+    "WiSAN-YSE 1 35.2 EXC/PRM",
+    "WiSAN-YSE 1 40.2 EXC/PRM",
+    "WiSAN-YSE 1 42.2 EXC/PRM",
+    "WiSAN-YSE 1 55.2 EXC/PRM"
+   ],
+   "url": "https://www.manualslib.com/manual/4124047/Clivet-Wisan-Yse-1-10-1-Exc-Prm.html"
+  },
+  {
+   "manualId": "3338717",
+   "slug": "Clivet-Wisan-Yse1-10-1",
+   "title": "WiSAN-YSE1 10.1 Manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "WiSAN-YSE1 10.1",
+   "extraModels": [
+    "WiSAN-YSE1 14.1",
+    "WiSAN-YSE1 16.2",
+    "WiSAN-YSE1 22.2",
+    "WiSAN-YSE1 30.2",
+    "WiSAN-YSE1 35.2"
+   ],
+   "url": "https://www.manualslib.com/manual/3338717/Clivet-Wisan-Yse1-10-1.html"
+  },
+  {
+   "manualId": "3338707",
+   "slug": "Clivet-Wisan-Yse1-10-1",
+   "title": "WiSAN-YSE1 10.1 Service manual",
+   "type": "Service",
+   "pages": 145,
+   "productModel": "WiSAN-YSE1 10.1",
+   "extraModels": [
+    "WiSAN-YSE1 14.1",
+    "WiSAN-YSE1 16.2",
+    "WiSAN-YSE1 22.2",
+    "WiSAN-YSE1 30.2",
+    "WiSAN-YSE1 35.2"
+   ],
+   "url": "https://www.manualslib.com/manual/3338707/Clivet-Wisan-Yse1-10-1.html"
+  },
+  {
+   "manualId": "3930170",
+   "slug": "Clivet-Wisan-Yse1-12-1",
+   "title": "WiSAN-YSE1 12.1 Manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "WiSAN-YSE1 12.1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3930170/Clivet-Wisan-Yse1-12-1.html"
+  },
+  {
+   "manualId": "3930171",
+   "slug": "Clivet-Wisan-Yse1-18-2",
+   "title": "WiSAN-YSE1 18.2 Manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "WiSAN-YSE1 18.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3930171/Clivet-Wisan-Yse1-18-2.html"
+  },
+  {
+   "manualId": "3930172",
+   "slug": "Clivet-Wisan-Yse1-40-2",
+   "title": "WiSAN-YSE1 40.2 Manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "WiSAN-YSE1 40.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3930172/Clivet-Wisan-Yse1-40-2.html"
+  },
+  {
+   "manualId": "3959512",
+   "slug": "Clivet-Wisan-Yse1-Na-30-2",
+   "title": "WISAN-YSE1 NA 30.2 Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "WISAN-YSE1 NA 30.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3959512/Clivet-Wisan-Yse1-Na-30-2.html"
+  },
+  {
+   "manualId": "3461831",
+   "slug": "Clivet-Wisat-Yee1-Series",
+   "title": "WiSAT-YEE1 Series Instruction Manual For Installation, Use And Maintenance",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "WiSAT-YEE1 Series",
+   "extraModels": [
+    "WiSAT-YEE1 45.4",
+    "WiSAT-YEE1 50.4",
+    "WiSAT-YEE1 55.4",
+    "WiSAT-YEE1 60.4",
+    "WiSAT-YEE1 65.4",
+    "WiSAT-YEE1 70.4",
+    "WiSAT-YEE1 75.4",
+    "WiSAT-YEE1 80.4",
+    "WiSAT-YEE1 85.4",
+    "WiSAT-YEE1 90.4"
+   ],
+   "url": "https://www.manualslib.com/manual/3461831/Clivet-Wisat-Yee1-Series.html"
+  },
+  {
+   "manualId": "1618838",
+   "slug": "Clivet-Wsa-Xee-262",
+   "title": "WSA-XEE 182 Installation and operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "WSA-XEE 182",
+   "extraModels": [
+    "WSA-XEE 182",
+    "WSA-XEE 222",
+    "WSA-XEE 302",
+    "WSA-XEE 352",
+    "WSA-XEE 402",
+    "WSA-XEE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1618838/Clivet-Wsa-Xee-262.html"
+  },
+  {
+   "manualId": "1623435",
+   "slug": "Clivet-Wsat-Xin-Series",
+   "title": "WSA-XIN 101 Installation and operating manual",
+   "type": "Installation",
+   "pages": 69,
+   "productModel": "WSA-XIN 101",
+   "extraModels": [
+    "WSA-XIN 101",
+    "WSA-XIN 121",
+    "WSA-XIN 131",
+    "WSA-XIN 141",
+    "WSA-XIN 21",
+    "WSA-XIN 31",
+    "WSA-XIN 41",
+    "WSA-XIN 51",
+    "WSA-XIN 71",
+    "WSA-XIN 81",
+    "WSA-XIN 91",
+    "WSAT-XIN 101",
+    "WSAT-XIN 12",
+    "WSAT-XIN 121",
+    "WSAT-XIN 131",
+    "WSAT-XIN 141",
+    "WSAT-XIN 151",
+    "WSAT-XIN 171",
+    "WSAT-XIN 31",
+    "WSAT-XIN 41",
+    "WSAT-XIN 51",
+    "WSAT-XIN 71",
+    "WSAT-XIN 81",
+    "WSAT-XIN 91",
+    "WSAT-XIN161"
+   ],
+   "url": "https://www.manualslib.com/manual/1623435/Clivet-Wsat-Xin-Series.html"
+  },
+  {
+   "manualId": "2401537",
+   "slug": "Clivet-Wsan-Ee-17",
+   "title": "WSAN-EE 101 Installation and use manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "WSAN-EE 101",
+   "extraModels": [
+    "WSAN-EE 101",
+    "WSAN-EE 121",
+    "WSAN-EE 131",
+    "WSAN-EE 151",
+    "WSAN-EE 21",
+    "WSAN-EE 25",
+    "WSAN-EE 31",
+    "WSAN-EE 41",
+    "WSAN-EE 51",
+    "WSAN-EE 61",
+    "WSAN-EE 71",
+    "WSAN-EE 81",
+    "WSAN-EE 91"
+   ],
+   "url": "https://www.manualslib.com/manual/2401537/Clivet-Wsan-Ee-17.html"
+  },
+  {
+   "manualId": "2267121",
+   "slug": "Clivet-Wsan-Xee-Series",
+   "title": "WSAN-XEE 102 Installation and use manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "WSAN-XEE 102",
+   "extraModels": [
+    "WSAN-XEE 102",
+    "WSAN-XEE 122",
+    "WSAN-XEE 162",
+    "WSAN-XEE 182",
+    "WSAN-XEE 222",
+    "WSAN-XEE 262",
+    "WSAN-XEE 302",
+    "WSAN-XEE 82"
+   ],
+   "url": "https://www.manualslib.com/manual/2267121/Clivet-Wsan-Xee-Series.html"
+  },
+  {
+   "manualId": "1631367",
+   "slug": "Clivet-Wsan-Xee-Series",
+   "title": "WSAN-XEE 102 Installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 41,
+   "productModel": "WSAN-XEE 102",
+   "extraModels": [
+    "WSAN-XEE 102",
+    "WSAN-XEE 122",
+    "WSAN-XEE 162",
+    "WSAN-XEE 182",
+    "WSAN-XEE 222",
+    "WSAN-XEE 262",
+    "WSAN-XEE 302",
+    "WSAN-XEE 82"
+   ],
+   "url": "https://www.manualslib.com/manual/1631367/Clivet-Wsan-Xee-Series.html"
+  },
+  {
+   "manualId": "3281171",
+   "slug": "Clivet-Wsan-Xem-50-4",
+   "title": "WSAN-XEM 100.4 Installation and operating manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "WSAN-XEM 100.4",
+   "extraModels": [
+    "WSAN-XEM 100.4",
+    "WSAN-XEM 55.4",
+    "WSAN-XEM 65.4",
+    "WSAN-XEM 70.4"
+   ],
+   "url": "https://www.manualslib.com/manual/3281171/Clivet-Wsan-Xem-50-4.html"
+  },
+  {
+   "manualId": "3927430",
+   "slug": "Clivet-Wsan-Xem-110-4",
+   "title": "WSAN-XEM 110.4 Installation and operating manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "WSAN-XEM 110.4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3927430/Clivet-Wsan-Xem-110-4.html"
+  },
+  {
+   "manualId": "3927431",
+   "slug": "Clivet-Wsan-Xem-120-4",
+   "title": "WSAN-XEM 120.4 Installation and operating manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "WSAN-XEM 120.4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3927431/Clivet-Wsan-Xem-120-4.html"
+  },
+  {
+   "manualId": "3927427",
+   "slug": "Clivet-Wsan-Xem-60-4",
+   "title": "WSAN-XEM 60.4 Installation and operating manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "WSAN-XEM 60.4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3927427/Clivet-Wsan-Xem-60-4.html"
+  },
+  {
+   "manualId": "3927428",
+   "slug": "Clivet-Wsan-Xem-80-4",
+   "title": "WSAN-XEM 80.4 Installation and operating manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "WSAN-XEM 80.4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3927428/Clivet-Wsan-Xem-80-4.html"
+  },
+  {
+   "manualId": "3927429",
+   "slug": "Clivet-Wsan-Xem-90-4",
+   "title": "WSAN-XEM 90.4 Installation and operating manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "WSAN-XEM 90.4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3927429/Clivet-Wsan-Xem-90-4.html"
+  },
+  {
+   "manualId": "1627343",
+   "slug": "Clivet-Wsan-Xin-Series",
+   "title": "WSAN-XEM HW 35.4 Installation and operating manual",
+   "type": "Installation",
+   "pages": 59,
+   "productModel": "WSAN-XEM HW 35.4",
+   "extraModels": [
+    "WSAN-XEM HW 35.4",
+    "WSAN-XEM HW 40.4",
+    "WSAN-XEM HW 45.4",
+    "WSAN-XEM HW 50.4",
+    "WSAN-XEM HW 55.4",
+    "WSAN-XEM HW 60.4",
+    "WSAN-XEM MF 100.4",
+    "WSAN-XEM MF 110.4",
+    "WSAN-XEM MF 120.4",
+    "WSAN-XEM MF 50.4",
+    "WSAN-XEM MF 55.4",
+    "WSAN-XEM MF 60.4",
+    "WSAN-XEM MF 65.4",
+    "WSAN-XEM MF 70.4",
+    "WSAN-XEM MF 80.4",
+    "WSAN-XEM MF 90.4",
+    "WSAN-XEM MF Series",
+    "WSAN-XIN 18.2",
+    "WSAN-XIN 20.2",
+    "WSAN-XIN 25.2",
+    "WSAN-XIN 30.2",
+    "WSAN-XIN 35.2",
+    "WSAN-XIN 40.2",
+    "WSAN-XIN 45.2"
+   ],
+   "url": "https://www.manualslib.com/manual/1627343/Clivet-Wsan-Xin-Series.html"
+  },
+  {
+   "manualId": "2331620",
+   "slug": "Clivet-Wsan-Xes-18-2",
+   "title": "WSAN-XES 18.2 Instructions for installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 53,
+   "productModel": "WSAN-XES 18.2",
+   "extraModels": [
+    "WSAN-XES 35.2"
+   ],
+   "url": "https://www.manualslib.com/manual/2331620/Clivet-Wsan-Xes-18-2.html"
+  },
+  {
+   "manualId": "2932980",
+   "slug": "Clivet-Wsan-Xin-21",
+   "title": "WSAN-XIN 21 Installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 57,
+   "productModel": "WSAN-XIN 21",
+   "extraModels": [
+    "WSAN-XIN 31",
+    "WSAN-XIN 41"
+   ],
+   "url": "https://www.manualslib.com/manual/2932980/Clivet-Wsan-Xin-21.html"
+  },
+  {
+   "manualId": "821629",
+   "slug": "Clivet-Wsan-Xin-21-141",
+   "title": "WSAN-XIN 21-141 Installation and operating manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "WSAN-XIN 21-141",
+   "extraModels": [
+    "WSAN-XIN101",
+    "WSAN-XIN121",
+    "WSAN-XIN131",
+    "WSAN-XIN141",
+    "WSAN-XIN31",
+    "WSAN-XIN41",
+    "WSAN-XIN51",
+    "WSAN-XIN71",
+    "WSAN-XIN81",
+    "WSAN-XIN91"
+   ],
+   "url": "https://www.manualslib.com/manual/821629/Clivet-Wsan-Xin-21-141.html"
+  },
+  {
+   "manualId": "3910222",
+   "slug": "Clivet-Wsan-Xin-51",
+   "title": "WSAN-XIN 51 Installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 57,
+   "productModel": "WSAN-XIN 51",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3910222/Clivet-Wsan-Xin-51.html"
+  },
+  {
+   "manualId": "3910223",
+   "slug": "Clivet-Wsan-Xin-71",
+   "title": "WSAN-XIN 71 Installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 57,
+   "productModel": "WSAN-XIN 71",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3910223/Clivet-Wsan-Xin-71.html"
+  },
+  {
+   "manualId": "3121711",
+   "slug": "Clivet-Wsan-Xin-Mf-18-2",
+   "title": "WSAN-XIN MF 18.2 Installation and operating manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "WSAN-XIN MF 18.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3121711/Clivet-Wsan-Xin-Mf-18-2.html"
+  },
+  {
+   "manualId": "3918942",
+   "slug": "Clivet-Wsan-Xin-Mf-45-2",
+   "title": "WSAN-XIN MF 45.2 Installation and operating manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "WSAN-XIN MF 45.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3918942/Clivet-Wsan-Xin-Mf-45-2.html"
+  },
+  {
+   "manualId": "1743090",
+   "slug": "Clivet-Wsan-Xpr-Series",
+   "title": "WSAN-XPR 21 Installation and use manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "WSAN-XPR 21",
+   "extraModels": [
+    "WSAN-XPR 21",
+    "WSAN-XPR 31",
+    "WSAN-XPR 41",
+    "WSAN-XPR 51"
+   ],
+   "url": "https://www.manualslib.com/manual/1743090/Clivet-Wsan-Xpr-Series.html"
+  },
+  {
+   "manualId": "2042268",
+   "slug": "Clivet-Wsan-Xsc-352",
+   "title": "WSAN-XSC 352 Installation and use manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "WSAN-XSC 352",
+   "extraModels": [
+    "WSAN-XSC 402",
+    "WSAN-XSC 432",
+    "WSAN-XSC 452",
+    "WSAN-XSC 502",
+    "WSAN-XSC 552",
+    "WSAN-XSC 602"
+   ],
+   "url": "https://www.manualslib.com/manual/2042268/Clivet-Wsan-Xsc-352.html"
+  },
+  {
+   "manualId": "2399974",
+   "slug": "Clivet-Wsan-Xsc3-90-4",
+   "title": "WSAN-XSC3 100.4 Installation and operating manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "WSAN-XSC3 100.4",
+   "extraModels": [
+    "WSAN-XSC3 100.4",
+    "WSAN-XSC3 110.4",
+    "WSAN-XSC3 120.4",
+    "WSAN-XSC3 140.4",
+    "WSAN-XSC3 160.4",
+    "WSAN-XSC3 180.4",
+    "WSAN-XSC3 200.4",
+    "WSAN-XSC3 220.4",
+    "WSAN-XSC3 240.4"
+   ],
+   "url": "https://www.manualslib.com/manual/2399974/Clivet-Wsan-Xsc3-90-4.html"
+  },
+  {
+   "manualId": "2399997",
+   "slug": "Clivet-Wsan-Xsc3-Mf-Series",
+   "title": "WSAN-XSC3 MF 200.4 Installation and operating manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "WSAN-XSC3 MF 200.4",
+   "extraModels": [
+    "WSAN-XSC3 MF 200.4"
+   ],
+   "url": "https://www.manualslib.com/manual/2399997/Clivet-Wsan-Xsc3-Mf-Series.html"
+  },
+  {
+   "manualId": "2452336",
+   "slug": "Clivet-Wsat-Yes-18-2",
+   "title": "WSAN-YES 18.2 Manual",
+   "type": "Other",
+   "pages": 69,
+   "productModel": "WSAN-YES 18.2",
+   "extraModels": [
+    "WSAN-YES 18.2",
+    "WSAN-YES 20.2",
+    "WSAN-YES 25.2",
+    "WSAN-YES 35.2",
+    "WSAT-YES 20.2",
+    "WSAT-YES 25.2",
+    "WSAT-YES 30.2"
+   ],
+   "url": "https://www.manualslib.com/manual/2452336/Clivet-Wsat-Yes-18-2.html"
+  },
+  {
+   "manualId": "3876833",
+   "slug": "Clivet-Wsan-Yes-20-2",
+   "title": "WSAN-YES 20.2 Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 67,
+   "productModel": "WSAN-YES 20.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876833/Clivet-Wsan-Yes-20-2.html"
+  },
+  {
+   "manualId": "3876834",
+   "slug": "Clivet-Wsan-Yes-25-2",
+   "title": "WSAN-YES 25.2 Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 67,
+   "productModel": "WSAN-YES 25.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876834/Clivet-Wsan-Yes-25-2.html"
+  },
+  {
+   "manualId": "3876835",
+   "slug": "Clivet-Wsan-Yes-30-2",
+   "title": "WSAN-YES 30.2 Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 67,
+   "productModel": "WSAN-YES 30.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876835/Clivet-Wsan-Yes-30-2.html"
+  },
+  {
+   "manualId": "3876836",
+   "slug": "Clivet-Wsan-Yes-35-2",
+   "title": "WSAN-YES 35.2 Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 67,
+   "productModel": "WSAN-YES 35.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876836/Clivet-Wsan-Yes-35-2.html"
+  },
+  {
+   "manualId": "3879394",
+   "slug": "Clivet-Wsan-Ymi-101",
+   "title": "WSAN-YMi 101 Instruction manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 128,
+   "productModel": "WSAN-YMi 101",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3879394/Clivet-Wsan-Ymi-101.html"
+  },
+  {
+   "manualId": "3879395",
+   "slug": "Clivet-Wsan-Ymi-121",
+   "title": "WSAN-YMi 121 Instruction manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 128,
+   "productModel": "WSAN-YMi 121",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3879395/Clivet-Wsan-Ymi-121.html"
+  },
+  {
+   "manualId": "3879396",
+   "slug": "Clivet-Wsan-Ymi-141",
+   "title": "WSAN-YMi 141 Instruction manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 128,
+   "productModel": "WSAN-YMi 141",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3879396/Clivet-Wsan-Ymi-141.html"
+  },
+  {
+   "manualId": "2415170",
+   "slug": "Clivet-Wsan-Ymi-21-R32",
+   "title": "WSAN-YMi 21 R32 Manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 124,
+   "productModel": "WSAN-YMi 21 R32",
+   "extraModels": [
+    "WSAN-YMi 31 R32",
+    "WSAN-YMi 41 R32",
+    "WSAN-YMi 61 R32",
+    "WSAN-YMi 71 R32",
+    "WSAN-YMi 81 R32"
+   ],
+   "url": "https://www.manualslib.com/manual/2415170/Clivet-Wsan-Ymi-21-R32.html"
+  },
+  {
+   "manualId": "2194453",
+   "slug": "Clivet-Wsan-Ymi-91",
+   "title": "WSAN-YMi 91 Instruction manual for installation, use and maintenance",
+   "type": "Service",
+   "pages": 128,
+   "productModel": "WSAN-YMi 91",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2194453/Clivet-Wsan-Ymi-91.html"
+  },
+  {
+   "manualId": "3965246",
+   "slug": "Clivet-Wsan-Ysc4-Na",
+   "title": "WSAN-YSC4 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "WSAN-YSC4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3965246/Clivet-Wsan-Ysc4-Na.html"
+  },
+  {
+   "manualId": "2482888",
+   "slug": "Clivet-Wsan-Ysi-R32",
+   "title": "WSAN-YSi R32 Manual",
+   "type": "Other",
+   "pages": 75,
+   "productModel": "WSAN-YSi R32",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2482888/Clivet-Wsan-Ysi-R32.html"
+  },
+  {
+   "manualId": "1804738",
+   "slug": "Clivet-Wsar-Mt-Series",
+   "title": "WSAR-MT 21 Installation and use manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "WSAR-MT 21",
+   "extraModels": [
+    "WSAR-MT 21",
+    "WSAR-MT 25",
+    "WSAR-MT 31",
+    "WSAR-MT 41",
+    "WSAR-MT 51",
+    "WSAR-MT 61",
+    "WSAR-MT 81"
+   ],
+   "url": "https://www.manualslib.com/manual/1804738/Clivet-Wsar-Mt-Series.html"
+  },
+  {
+   "manualId": "2076277",
+   "slug": "Clivet-Wsar-Mt-E",
+   "title": "WSAR-MT-E Installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "WSAR-MT-E",
+   "extraModels": [
+    "WSAR-MT-E 21",
+    "WSAR-MT-E 25",
+    "WSAR-MT-E 31",
+    "WSAR-MT-E 41",
+    "WSAR-MT-E 51",
+    "WSAR-MT-E 61",
+    "WSAR-MT-E 81"
+   ],
+   "url": "https://www.manualslib.com/manual/2076277/Clivet-Wsar-Mt-E.html"
+  },
+  {
+   "manualId": "618860",
+   "slug": "Clivet-Wsat-2",
+   "title": "WSAT-2 Installation and use manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "WSAT-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/618860/Clivet-Wsat-2.html"
+  },
+  {
+   "manualId": "2020474",
+   "slug": "Clivet-Wsat-2-230",
+   "title": "WSAT-2.230 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "WSAT-2.230",
+   "extraModels": [
+    "WSAT-2.260",
+    "WSAT-2.280",
+    "WSAT-2.300",
+    "WSAT-2.360",
+    "WSAT-2.400",
+    "WSAT-2.440",
+    "WSAT-23.450",
+    "WSAT-23.540",
+    "WSAT-23.580",
+    "WSAT-23.620",
+    "WSAT-23.660",
+    "WSAT-24.720"
+   ],
+   "url": "https://www.manualslib.com/manual/2020474/Clivet-Wsat-2-230.html"
+  },
+  {
+   "manualId": "1936875",
+   "slug": "Clivet-Wsat-Sc-75c-Series",
+   "title": "WSAT-SC 100D Series Installation and use manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "WSAT-SC 100D Series",
+   "extraModels": [
+    "WSAT-SC 100D Series",
+    "WSAT-SC 110D Series",
+    "WSAT-SC 120D Series",
+    "WSAT-SC 135F Series",
+    "WSAT-SC 150F Series",
+    "WSAT-SC 165F Series",
+    "WSAT-SC 180F Series",
+    "WSAT-SC 65D Series",
+    "WSAT-SC 70D Series",
+    "WSAT-SC 75D Series",
+    "WSAT-SC 80D Series",
+    "WSAT-SC 90C Series",
+    "WSAT-SC 90D Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1936875/Clivet-Wsat-Sc-75c-Series.html"
+  },
+  {
+   "manualId": "1833713",
+   "slug": "Clivet-Wsat-Xee-Series",
+   "title": "WSAT-XEE 102 Installation and use manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "WSAT-XEE 102",
+   "extraModels": [
+    "WSAT-XEE 102",
+    "WSAT-XEE 122",
+    "WSAT-XEE 162",
+    "WSAT-XEE 182",
+    "WSAT-XEE 222",
+    "WSAT-XEE 262",
+    "WSAT-XEE 302",
+    "WSAT-XEE 82"
+   ],
+   "url": "https://www.manualslib.com/manual/1833713/Clivet-Wsat-Xee-Series.html"
+  },
+  {
+   "manualId": "1626929",
+   "slug": "Clivet-Wsat-Xee-352",
+   "title": "WSAT-XEE 352 Installation, use & maintenance manual",
+   "type": "Service",
+   "pages": 69,
+   "productModel": "WSAT-XEE 352",
+   "extraModels": [
+    "WSAT-XEE 402",
+    "WSAT-XEE 432",
+    "WSAT-XEE 452",
+    "WSAT-XEE 502",
+    "WSAT-XEE 552",
+    "WSAT-XEE 602",
+    "WSAT-XEE 702",
+    "WSAT-XEE 802",
+    "WSAT-XEE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1626929/Clivet-Wsat-Xee-352.html"
+  },
+  {
+   "manualId": "2399956",
+   "slug": "Clivet-Wsat-Xem-50-4",
+   "title": "WSAT-XEM 50.4 Installation and operating manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "WSAT-XEM 50.4",
+   "extraModels": [
+    "WSAT-XEM 55.4",
+    "WSAT-XEM 60.4",
+    "WSAT-XEM 65.4",
+    "WSAT-XEM 70.4"
+   ],
+   "url": "https://www.manualslib.com/manual/2399956/Clivet-Wsat-Xem-50-4.html"
+  },
+  {
+   "manualId": "3704856",
+   "slug": "Clivet-Wsat-Xin-18-2",
+   "title": "WSAT-XIN 18.2 Installation and operating manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "WSAT-XIN 18.2",
+   "extraModels": [
+    "WSAT-XIN 25.2",
+    "WSAT-XIN 30.2",
+    "WSAT-XIN 35.2",
+    "WSAT-XIN 40.2",
+    "WSAT-XIN 45.2"
+   ],
+   "url": "https://www.manualslib.com/manual/3704856/Clivet-Wsat-Xin-18-2.html"
+  },
+  {
+   "manualId": "3947246",
+   "slug": "Clivet-Wsat-Xin-20-2",
+   "title": "WSAT-XIN 20.2 Installation and operating manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "WSAT-XIN 20.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3947246/Clivet-Wsat-Xin-20-2.html"
+  },
+  {
+   "manualId": "3224571",
+   "slug": "Clivet-Wsat-Xsc3-90-4",
+   "title": "WSAT-XSC3 100.4 Installation and operating manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "WSAT-XSC3 100.4",
+   "extraModels": [
+    "WSAT-XSC3 100.4",
+    "WSAT-XSC3 110.4",
+    "WSAT-XSC3 120.4",
+    "WSAT-XSC3 140.4",
+    "WSAT-XSC3 160.4",
+    "WSAT-XSC3 180.4",
+    "WSAT-XSC3 200.4",
+    "WSAT-XSC3 220.4",
+    "WSAT-XSC3 240.4"
+   ],
+   "url": "https://www.manualslib.com/manual/3224571/Clivet-Wsat-Xsc3-90-4.html"
+  },
+  {
+   "manualId": "2005736",
+   "slug": "Clivet-Wsat-Xsc3-260-6-480-8",
+   "title": "WSAT-XSC3 260.6-480.8 Installation and operating manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "WSAT-XSC3 260.6-480.8",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2005736/Clivet-Wsat-Xsc3-260-6-480-8.html"
+  },
+  {
+   "manualId": "3118771",
+   "slug": "Clivet-Wsat-Xsc3-Fc-90-4",
+   "title": "WSAT-XSC3 FC 100.4 Installation and operating manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "WSAT-XSC3 FC 100.4",
+   "extraModels": [
+    "WSAT-XSC3 FC 100.4",
+    "WSAT-XSC3 FC 110.4",
+    "WSAT-XSC3 FC 120.4",
+    "WSAT-XSC3 FC 140.4",
+    "WSAT-XSC3 FC 160.4",
+    "WSAT-XSC3 FC 180.4",
+    "WSAT-XSC3 FC 200.4",
+    "WSAT-XSC3 FC 220.4",
+    "WSAT-XSC3 FC 240.4"
+   ],
+   "url": "https://www.manualslib.com/manual/3118771/Clivet-Wsat-Xsc3-Fc-90-4.html"
+  },
+  {
+   "manualId": "3889918",
+   "slug": "Clivet-Wsat-Yes-35-2",
+   "title": "WSAT-YES 35.2 Manual",
+   "type": "Other",
+   "pages": 69,
+   "productModel": "WSAT-YES 35.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3889918/Clivet-Wsat-Yes-35-2.html"
+  },
+  {
+   "manualId": "2059987",
+   "slug": "Clivet-Wsh-Series",
+   "title": "WSH 100D Installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "WSH 100D",
+   "extraModels": [
+    "WSH 100D",
+    "WSH 110D",
+    "WSH 115D",
+    "WSH 120D",
+    "WSH 135E",
+    "WSH 150F",
+    "WSH 165F",
+    "WSH 180F",
+    "WSH 65D",
+    "WSH 70D",
+    "WSH 75D",
+    "WSH 80D",
+    "WSH 85D",
+    "WSH 90D",
+    "XSC 110D",
+    "XSC 115D",
+    "XSC 120D",
+    "XSC 135E",
+    "XSC 150F",
+    "XSC 165F",
+    "XSC 180F",
+    "XSC 65D",
+    "XSC 70D",
+    "XSC 75D",
+    "XSC 80D",
+    "XSC 85D",
+    "XSC 90D"
+   ],
+   "url": "https://www.manualslib.com/manual/2059987/Clivet-Wsh-Series.html"
+  },
+  {
+   "manualId": "2267163",
+   "slug": "Clivet-Wsh-Ee-Series",
+   "title": "WSH-EE 101 Installation and use manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "WSH-EE 101",
+   "extraModels": [
+    "WSH-EE 101",
+    "WSH-EE 121",
+    "WSH-EE 17",
+    "WSH-EE 21",
+    "WSH-EE 31",
+    "WSH-EE 41",
+    "WSH-EE 51",
+    "WSH-EE 61",
+    "WSH-EE 71",
+    "WSH-EE 81",
+    "WSH-EE 91",
+    "WSHH-EE 101",
+    "WSHH-EE 121",
+    "WSHH-EE 17",
+    "WSHH-EE 21",
+    "WSHH-EE 31",
+    "WSHH-EE 41",
+    "WSHH-EE 51",
+    "WSHH-EE 61",
+    "WSHH-EE 71",
+    "WSHH-EE 81",
+    "WSHH-EE 91",
+    "WSHH-EE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2267163/Clivet-Wsh-Ee-Series.html"
+  },
+  {
+   "manualId": "1658857",
+   "slug": "Clivet-Wsh-Xee2-Series",
+   "title": "WSH-XEE2 10.2 Installation and operating manual",
+   "type": "Installation",
+   "pages": 65,
+   "productModel": "WSH-XEE2 10.2",
+   "extraModels": [
+    "WSH-XEE2 10.2",
+    "WSH-XEE2 100.2",
+    "WSH-XEE2 120.2",
+    "WSH-XEE2 27.2",
+    "WSH-XEE2 30.2",
+    "WSH-XEE2 35.2",
+    "WSH-XEE2 40.2",
+    "WSH-XEE2 43.2",
+    "WSH-XEE2 45.2",
+    "WSH-XEE2 50.2",
+    "WSH-XEE2 55.2",
+    "WSH-XEE2 60.2",
+    "WSH-XEE2 70.2",
+    "WSH-XEE2 90.2",
+    "WSHN-XEE2 10.2",
+    "WSHN-XEE2 100.2",
+    "WSHN-XEE2 12.2",
+    "WSHN-XEE2 120.2",
+    "WSHN-XEE2 14.2",
+    "WSHN-XEE2 16.2",
+    "WSHN-XEE2 19.2",
+    "WSHN-XEE2 22.2",
+    "WSHN-XEE2 27.2",
+    "WSHN-XEE2 30.2",
+    "WSHN-XEE2 35.2",
+    "WSHN-XEE2 40.2",
+    "WSHN-XEE2 43.2",
+    "WSHN-XEE2 45.2",
+    "WSHN-XEE2 50.2",
+    "WSHN-XEE2 55.2",
+    "WSHN-XEE2 60.2",
+    "WSHN-XEE2 70.2",
+    "WSHN-XEE2 80.2",
+    "WSHN-XEE2 90.2"
+   ],
+   "url": "https://www.manualslib.com/manual/1658857/Clivet-Wsh-Xee2-Series.html"
+  },
+  {
+   "manualId": "2562404",
+   "slug": "Clivet-Wsh-Xsc3",
+   "title": "WSH-XSC3 Installation and operating manual",
+   "type": "Installation",
+   "pages": 65,
+   "productModel": "WSH-XSC3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2562404/Clivet-Wsh-Xsc3.html"
+  },
+  {
+   "manualId": "3664837",
+   "slug": "Clivet-Wshh-Lee1-19-2",
+   "title": "WSHH-LEE1 19.2 Manual For Installation",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "WSHH-LEE1 19.2",
+   "extraModels": [
+    "WSHH-LEE1 22.2",
+    "WSHH-LEE1 27.2",
+    "WSHH-LEE1 35.2",
+    "WSHH-LEE1 40.2",
+    "WSHH-LEE1 45.2",
+    "WSHH-LEE1 60.2",
+    "WSHH-LEE1 80.2"
+   ],
+   "url": "https://www.manualslib.com/manual/3664837/Clivet-Wshh-Lee1-19-2.html"
+  },
+  {
+   "manualId": "2401574",
+   "slug": "Clivet-Wshn-Ee-17",
+   "title": "WSHN-EE 101 Installation and use manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "WSHN-EE 101",
+   "extraModels": [
+    "WSHN-EE 101",
+    "WSHN-EE 21",
+    "WSHN-EE 31",
+    "WSHN-EE 41",
+    "WSHN-EE 91"
+   ],
+   "url": "https://www.manualslib.com/manual/2401574/Clivet-Wshn-Ee-17.html"
+  },
+  {
+   "manualId": "3887701",
+   "slug": "Clivet-Wshn-Ee-121",
+   "title": "WSHN-EE 121 Installation and use manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "WSHN-EE 121",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3887701/Clivet-Wshn-Ee-121.html"
+  },
+  {
+   "manualId": "3887697",
+   "slug": "Clivet-Wshn-Ee-51",
+   "title": "WSHN-EE 51 Installation and use manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "WSHN-EE 51",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3887697/Clivet-Wshn-Ee-51.html"
+  },
+  {
+   "manualId": "3887698",
+   "slug": "Clivet-Wshn-Ee-61",
+   "title": "WSHN-EE 61 Installation and use manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "WSHN-EE 61",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3887698/Clivet-Wshn-Ee-61.html"
+  },
+  {
+   "manualId": "3887699",
+   "slug": "Clivet-Wshn-Ee-71",
+   "title": "WSHN-EE 71 Installation and use manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "WSHN-EE 71",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3887699/Clivet-Wshn-Ee-71.html"
+  },
+  {
+   "manualId": "3887700",
+   "slug": "Clivet-Wshn-Ee-81",
+   "title": "WSHN-EE 81 Installation and use manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "WSHN-EE 81",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3887700/Clivet-Wshn-Ee-81.html"
+  },
+  {
+   "manualId": "2017859",
+   "slug": "Clivet-Wshn-Xee2-10-2",
+   "title": "WSHN-XEE2 10.2 Installation and operating manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "WSHN-XEE2 10.2",
+   "extraModels": [
+    "WSHN-XEE2 100.2",
+    "WSHN-XEE2 12.2",
+    "WSHN-XEE2 120.2",
+    "WSHN-XEE2 14.2",
+    "WSHN-XEE2 16.2",
+    "WSHN-XEE2 19.2",
+    "WSHN-XEE2 22.2",
+    "WSHN-XEE2 27.2",
+    "WSHN-XEE2 30.2",
+    "WSHN-XEE2 35.2",
+    "WSHN-XEE2 40.2",
+    "WSHN-XEE2 43.2",
+    "WSHN-XEE2 45.2",
+    "WSHN-XEE2 50.2",
+    "WSHN-XEE2 55.2",
+    "WSHN-XEE2 60.2",
+    "WSHN-XEE2 70.2",
+    "WSHN-XEE2 80.2",
+    "WSHN-XEE2 90.2"
+   ],
+   "url": "https://www.manualslib.com/manual/2017859/Clivet-Wshn-Xee2-10-2.html"
+  },
+  {
+   "manualId": "2847068",
+   "slug": "Clivet-Wshn-Xee2-Mf-10-2",
+   "title": "WSHN-XEE2 MF 10.2 Installation and operating manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "WSHN-XEE2 MF 10.2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2847068/Clivet-Wshn-Xee2-Mf-10-2.html"
+  },
+  {
+   "manualId": "3116170",
+   "slug": "Clivet-Wshn-Xsc3-70-4",
+   "title": "WSHN-XSC3 100.4 Installation and operation manual",
+   "type": "Installation",
+   "pages": 59,
+   "productModel": "WSHN-XSC3 100.4",
+   "extraModels": [
+    "WSHN-XSC3 100.4",
+    "WSHN-XSC3 110.4",
+    "WSHN-XSC3 120.4",
+    "WSHN-XSC3 140.4",
+    "WSHN-XSC3 160.4",
+    "WSHN-XSC3 180.4",
+    "WSHN-XSC3 200.4",
+    "WSHN-XSC3 220.4",
+    "WSHN-XSC3 240.4",
+    "WSHN-XSC3 75.4",
+    "WSHN-XSC3 80.4",
+    "WSHN-XSC3 85.4",
+    "WSHN-XSC3 90.4"
+   ],
+   "url": "https://www.manualslib.com/manual/3116170/Clivet-Wshn-Xsc3-70-4.html"
+  },
+  {
+   "manualId": "1625545",
+   "slug": "Clivet-Wsn-Xin-Series",
+   "title": "WSN-XIN 101 Installation and operating manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "WSN-XIN 101",
+   "extraModels": [
+    "WSN-XIN 101",
+    "WSN-XIN 121",
+    "WSN-XIN 131",
+    "WSN-XIN 141",
+    "WSN-XIN 21",
+    "WSN-XIN 31",
+    "WSN-XIN 41",
+    "WSN-XIN 51",
+    "WSN-XIN 71",
+    "WSN-XIN 81",
+    "WSN-XIN 91"
+   ],
+   "url": "https://www.manualslib.com/manual/1625545/Clivet-Wsn-Xin-Series.html"
+  },
+  {
+   "manualId": "3874894",
+   "slug": "Clivet-Xsc-100d",
+   "title": "XSC 100D Installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "XSC 100D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3874894/Clivet-Xsc-100d.html"
+  },
+  {
+   "manualId": "3874893",
+   "slug": "Clivet-Xsc-Series",
+   "title": "XSC Series Installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "XSC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3874893/Clivet-Xsc-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4247882",
+   "slug": "clivet-hrv-2b-mi-series-hrv-unit-installation-and-owner-s-manual",
+   "title": "CLIVET HRV-2B-Mi Series HRV unit Installation and Owner's Manual"
+  }
+ ],
+ "techDirectIds": [
+  "clivet"
+ ]
+}

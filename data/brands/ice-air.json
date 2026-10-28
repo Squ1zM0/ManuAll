@@ -1,0 +1,330 @@
+{
+ "brand": "ICE AIR",
+ "brandSlug": "ice-air",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/ice-air/"
+ ],
+ "slugUsed": "ice-air",
+ "capturedAt": "2026-10-28T08:28:12.644647+00:00",
+ "typePages": [
+  {
+   "path": "/brand/ice-air/air-conditioner.html",
+   "manuals": 28,
+   "status": 200
+  },
+  {
+   "path": "/brand/ice-air/controller.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/ice-air/fan.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/ice-air/heat-pump.html",
+   "manuals": 38,
+   "status": 200
+  },
+  {
+   "path": "/brand/ice-air/thermostat.html",
+   "manuals": 3,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2145004",
+   "slug": "Ice-Air-Chpw",
+   "title": "5CHPW09 installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "5CHPW09",
+   "extraModels": [
+    "5CHPW09",
+    "5CHPW09-ZS",
+    "5CHPW13",
+    "5CHPW13-ZS",
+    "8CHPW09",
+    "8CHPW09-ZS",
+    "8CHPW13",
+    "8CHPW13-ZS",
+    "8CHPW16",
+    "8CHPW16-ZS",
+    "8CHPW19",
+    "8CHPW19-ZS",
+    "ELA-8842"
+   ],
+   "url": "https://www.manualslib.com/manual/2145004/Ice-Air-Chpw.html"
+  },
+  {
+   "manualId": "3336707",
+   "slug": "Ice-Air-Chpw",
+   "title": "5CHPW09 installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "5CHPW09",
+   "extraModels": [
+    "5CHPW09",
+    "5CHPW13",
+    "7CHPW09",
+    "7CHPW13",
+    "7CHPW16",
+    "7CHPW19",
+    "8CHPW09",
+    "8CHPW13",
+    "8CHPW16",
+    "8CHPW19"
+   ],
+   "url": "https://www.manualslib.com/manual/3336707/Ice-Air-Chpw.html"
+  },
+  {
+   "manualId": "2079927",
+   "slug": "Ice-Air-Cchpwh-Series",
+   "title": "ccHPWH Series Installation and maintenance manual",
+   "type": "Service",
+   "pages": 50,
+   "productModel": "ccHPWH Series",
+   "extraModels": [
+    "ccHPWH275-D",
+    "ccHPWH275-S",
+    "ccHPWH550-D",
+    "ccHPWH550-S"
+   ],
+   "url": "https://www.manualslib.com/manual/2079927/Ice-Air-Cchpwh-Series.html"
+  },
+  {
+   "manualId": "3272455",
+   "slug": "Ice-Air-Chpw",
+   "title": "CHPW Operating and maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "CHPW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3272455/Ice-Air-Chpw.html"
+  },
+  {
+   "manualId": "877061",
+   "slug": "Ice-Air-Chw",
+   "title": "CHW operating manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "CHW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/877061/Ice-Air-Chw.html"
+  },
+  {
+   "manualId": "1444381",
+   "slug": "Ice-Air-Chw-Series",
+   "title": "CHW Series Operating and maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "CHW Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1444381/Ice-Air-Chw-Series.html"
+  },
+  {
+   "manualId": "881758",
+   "slug": "Ice-Air-Console-Water-Source-Heat-Pump",
+   "title": "Console Water Source Heat Pump operating manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "Console Water Source Heat Pump",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/881758/Ice-Air-Console-Water-Source-Heat-Pump.html"
+  },
+  {
+   "manualId": "1398156",
+   "slug": "Ice-Air-Ela-8842",
+   "title": "ELA-8842 user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "ELA-8842",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1398156/Ice-Air-Ela-8842.html"
+  },
+  {
+   "manualId": "1311905",
+   "slug": "Ice-Air-Fchc",
+   "title": "FCHC installation manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "FCHC",
+   "extraModels": [
+    "FCHU"
+   ],
+   "url": "https://www.manualslib.com/manual/1311905/Ice-Air-Fchc.html"
+  },
+  {
+   "manualId": "1311906",
+   "slug": "Ice-Air-Fchc",
+   "title": "FCHC Operating and maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "FCHC",
+   "extraModels": [
+    "FCHU"
+   ],
+   "url": "https://www.manualslib.com/manual/1311906/Ice-Air-Fchc.html"
+  },
+  {
+   "manualId": "4168274",
+   "slug": "Ice-Air-Fcve",
+   "title": "FCHC Operating and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "FCHC",
+   "extraModels": [
+    "FCHC",
+    "FCHE",
+    "FCHR",
+    "FCHU",
+    "FCIW",
+    "FCLB",
+    "FCVC"
+   ],
+   "url": "https://www.manualslib.com/manual/4168274/Ice-Air-Fcve.html"
+  },
+  {
+   "manualId": "3487231",
+   "slug": "Ice-Air-Fchr",
+   "title": "FCHR installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "FCHR",
+   "extraModels": [
+    "FCHR 03",
+    "FCHR 04",
+    "FCHR 06",
+    "FCHR 08",
+    "FCHR 10",
+    "FCHR 12"
+   ],
+   "url": "https://www.manualslib.com/manual/3487231/Ice-Air-Fchr.html"
+  },
+  {
+   "manualId": "3321374",
+   "slug": "Ice-Air-Fchr",
+   "title": "FCHR Operating and maintenance manual",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "FCHR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3321374/Ice-Air-Fchr.html"
+  },
+  {
+   "manualId": "3288316",
+   "slug": "Ice-Air-Hhw",
+   "title": "HHW Operating and maintenance manual",
+   "type": "Service",
+   "pages": 27,
+   "productModel": "HHW",
+   "extraModels": [
+    "VCHW"
+   ],
+   "url": "https://www.manualslib.com/manual/3288316/Ice-Air-Hhw.html"
+  },
+  {
+   "manualId": "3465349",
+   "slug": "Ice-Air-Icoolxc-8rsxc09-Dh",
+   "title": "iCoolXC 8RSXC09-DH installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "iCoolXC 8RSXC09-DH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3465349/Ice-Air-Icoolxc-8rsxc09-Dh.html"
+  },
+  {
+   "manualId": "845586",
+   "slug": "Ice-Air-Rsan",
+   "title": "RSAN operating & maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "RSAN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/845586/Ice-Air-Rsan.html"
+  },
+  {
+   "manualId": "3358757",
+   "slug": "Ice-Air-Rsnu",
+   "title": "RSNU installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "RSNU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3358757/Ice-Air-Rsnu.html"
+  },
+  {
+   "manualId": "3283284",
+   "slug": "Ice-Air-Rsxc",
+   "title": "RSXC Operating and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "RSXC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3283284/Ice-Air-Rsxc.html"
+  },
+  {
+   "manualId": "1555364",
+   "slug": "Ice-Air-Ela-10328",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1555364/Ice-Air-Ela-10328.html"
+  },
+  {
+   "manualId": "841084",
+   "slug": "Ice-Air-Vertical-Stack-Water-Source-Heat-Pump",
+   "title": "Vertical Stack Water Source Heat Pump operating & maintenance manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "Vertical Stack Water Source Heat Pump",
+   "extraModels": [
+    "Vertical Stack Water Source Heat Pump"
+   ],
+   "url": "https://www.manualslib.com/manual/841084/Ice-Air-Vertical-Stack-Water-Source-Heat-Pump.html"
+  },
+  {
+   "manualId": "2870327",
+   "slug": "Ice-Air-Vshpw",
+   "title": "VSHPW installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "VSHPW",
+   "extraModels": [
+    "VSHPW09",
+    "VSHPW12",
+    "VSHPW15",
+    "VSHPW18",
+    "VSHPW24",
+    "VSHPW30",
+    "VSHPW36"
+   ],
+   "url": "https://www.manualslib.com/manual/2870327/Ice-Air-Vshpw.html"
+  },
+  {
+   "manualId": "2615359",
+   "slug": "Ice-Air-Vshpw",
+   "title": "VSHPW Operating and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "VSHPW",
+   "extraModels": [
+    "ELA-13086"
+   ],
+   "url": "https://www.manualslib.com/manual/2615359/Ice-Air-Vshpw.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "ice-air"
+ ]
+}

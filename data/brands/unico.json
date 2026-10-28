@@ -1,0 +1,1072 @@
+{
+ "brand": "Unico",
+ "brandSlug": "unico",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/unico/"
+ ],
+ "slugUsed": "unico",
+ "capturedAt": "2026-10-28T09:29:57.142320+00:00",
+ "typePages": [
+  {
+   "path": "/brand/unico/accessories.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/air-conditioner.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/air-handlers.html",
+   "manuals": 42,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/bicycle.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/boiler.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/controller.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/digital-camera.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/furnace.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/game-console.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/gps.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/heat-pump.html",
+   "manuals": 23,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/indoor-fireplace.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/laboratory-equipment.html",
+   "manuals": 57,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/measuring-instruments.html",
+   "manuals": 29,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/microscope.html",
+   "manuals": 31,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/ranges.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/recording-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/unico/vacuum-cleaner.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3600950",
+   "slug": "Unico-S1100rs-Series",
+   "title": "1100 Operation manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "1100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3600950/Unico-S1100rs-Series.html"
+  },
+  {
+   "manualId": "3843172",
+   "slug": "Unico-1105",
+   "title": "1105 Installation and troubleshooting manual",
+   "type": "Service",
+   "pages": 165,
+   "productModel": "1105",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3843172/Unico-1105.html"
+  },
+  {
+   "manualId": "1286175",
+   "slug": "Unico-11100",
+   "title": "1110 Installation and troubleshooting manual",
+   "type": "Service",
+   "pages": 165,
+   "productModel": "1110",
+   "extraModels": [
+    "1120",
+    "1130",
+    "1200"
+   ],
+   "url": "https://www.manualslib.com/manual/1286175/Unico-11100.html"
+  },
+  {
+   "manualId": "2558867",
+   "slug": "Unico-1200-Series",
+   "title": "1200 user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "1200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2558867/Unico-1200-Series.html"
+  },
+  {
+   "manualId": "3893594",
+   "slug": "Unico-1201",
+   "title": "1201 user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "1201",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3893594/Unico-1201.html"
+  },
+  {
+   "manualId": "3876450",
+   "slug": "Unico-1218",
+   "title": "1218 installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "1218",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876450/Unico-1218.html"
+  },
+  {
+   "manualId": "3843173",
+   "slug": "Unico-1230",
+   "title": "1230 Installation and troubleshooting manual",
+   "type": "Service",
+   "pages": 165,
+   "productModel": "1230",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3843173/Unico-1230.html"
+  },
+  {
+   "manualId": "3610334",
+   "slug": "Unico-2100-Series",
+   "title": "2100 Series user manual",
+   "type": "User / Owner",
+   "pages": 33,
+   "productModel": "2100 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3610334/Unico-2100-Series.html"
+  },
+  {
+   "manualId": "3942863",
+   "slug": "Unico-2100uv",
+   "title": "2100UV user manual",
+   "type": "User / Owner",
+   "pages": 33,
+   "productModel": "2100UV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3942863/Unico-2100uv.html"
+  },
+  {
+   "manualId": "3876451",
+   "slug": "Unico-2430",
+   "title": "2430 installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "2430",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876451/Unico-2430.html"
+  },
+  {
+   "manualId": "3876452",
+   "slug": "Unico-3642",
+   "title": "3642 installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "3642",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876452/Unico-3642.html"
+  },
+  {
+   "manualId": "3876453",
+   "slug": "Unico-4860",
+   "title": "4860 installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "4860",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876453/Unico-4860.html"
+  },
+  {
+   "manualId": "2012149",
+   "slug": "Unico-Liberty-Trike",
+   "title": "Assembly",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2012149/Unico-Liberty-Trike.html"
+  },
+  {
+   "manualId": "825110",
+   "slug": "Unico-Celsus",
+   "title": "Celsus Instructions for installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "Celsus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/825110/Unico-Celsus.html"
+  },
+  {
+   "manualId": "2079582",
+   "slug": "Unico-Dragon-Series",
+   "title": "DRAGON user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "DRAGON",
+   "extraModels": [
+    "NEMO"
+   ],
+   "url": "https://www.manualslib.com/manual/2079582/Unico-Dragon-Series.html"
+  },
+  {
+   "manualId": "2950729",
+   "slug": "Unico-Elegance-Gco-13-00",
+   "title": "ELEGANCE GCO-13-00 instruction manual",
+   "type": "User / Owner",
+   "pages": 29,
+   "productModel": "ELEGANCE GCO-13-00",
+   "extraModels": [
+    "ELEGANCE GCO-24-01-13",
+    "ELEGANCE GCO-24-01-21",
+    "ELEGANCE GCO-24-01-24",
+    "ELEGANCE GCO-24-01-29",
+    "ELEGANCE GCO-29-16"
+   ],
+   "url": "https://www.manualslib.com/manual/2950729/Unico-Elegance-Gco-13-00.html"
+  },
+  {
+   "manualId": "3910978",
+   "slug": "Unico-Elegance-Gco-24-00",
+   "title": "ELEGANCE GCO-24-00 instruction manual",
+   "type": "User / Owner",
+   "pages": 29,
+   "productModel": "ELEGANCE GCO-24-00",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3910978/Unico-Elegance-Gco-24-00.html"
+  },
+  {
+   "manualId": "1134727",
+   "slug": "Unico-Gamma-Sky",
+   "title": "Gamma Sky Instructions for installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 110,
+   "productModel": "Gamma Sky",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1134727/Unico-Gamma-Sky.html"
+  },
+  {
+   "manualId": "1154513",
+   "slug": "Unico-Gamma-Star",
+   "title": "Gamma Star Instructions for installation, use and maintenance manual",
+   "type": "Service",
+   "pages": 116,
+   "productModel": "Gamma Star",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1154513/Unico-Gamma-Star.html"
+  },
+  {
+   "manualId": "1958169",
+   "slug": "Unico-I-Series",
+   "title": "i Series Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "i Series",
+   "extraModels": [
+    "IS12MPA iSeries",
+    "IS24MPB iSeries",
+    "IS18G050",
+    "IS24G065",
+    "IS30G080",
+    "IS36G110",
+    "M2430BL1-EA2",
+    "M2430CL1-A",
+    "M3036BL1-EA2",
+    "M3036CL1-A",
+    "U1218L-1EA2AX"
+   ],
+   "url": "https://www.manualslib.com/manual/1958169/Unico-I-Series.html"
+  },
+  {
+   "manualId": "2120211",
+   "slug": "Unico-I-Series",
+   "title": "i Series Serial Programming & Diagnostic Manual",
+   "type": "Service",
+   "pages": 15,
+   "productModel": "i Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2120211/Unico-I-Series.html"
+  },
+  {
+   "manualId": "2120214",
+   "slug": "Unico-M-Series",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [
+    "M1218"
+   ],
+   "url": "https://www.manualslib.com/manual/2120214/Unico-M-Series.html"
+  },
+  {
+   "manualId": "4180409",
+   "slug": "Unico-Ip730-Series",
+   "title": "IP730 Series Operation manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "IP730 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4180409/Unico-Ip730-Series.html"
+  },
+  {
+   "manualId": "3604048",
+   "slug": "Unico-Ip750-Series",
+   "title": "IP750 Series Operation manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "IP750 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3604048/Unico-Ip750-Series.html"
+  },
+  {
+   "manualId": "4180412",
+   "slug": "Unico-Ip750-Series",
+   "title": "IP750 Series Operation manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "IP750 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4180412/Unico-Ip750-Series.html"
+  },
+  {
+   "manualId": "1077780",
+   "slug": "Unico-Is12mpa-Iseries",
+   "title": "IS12MPA iSeries installation instructions manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "IS12MPA iSeries",
+   "extraModels": [
+    "IS24MPB iSeries",
+    "M2430B*1-EA2",
+    "M3036B*1-EA2",
+    "U1218*-1EA2"
+   ],
+   "url": "https://www.manualslib.com/manual/1077780/Unico-Is12mpa-Iseries.html"
+  },
+  {
+   "manualId": "1080044",
+   "slug": "Unico-Is18g050-Iseries",
+   "title": "IS18G050 installation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "IS18G050",
+   "extraModels": [
+    "IS24G065",
+    "IS30G080",
+    "IS36G110"
+   ],
+   "url": "https://www.manualslib.com/manual/1080044/Unico-Is18g050-Iseries.html"
+  },
+  {
+   "manualId": "887141",
+   "slug": "Unico-Is18g050",
+   "title": "IS18G050 installation instructions manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "IS18G050",
+   "extraModels": [
+    "IS24G065",
+    "IS30G080",
+    "IS36G110"
+   ],
+   "url": "https://www.manualslib.com/manual/887141/Unico-Is18g050.html"
+  },
+  {
+   "manualId": "3700229",
+   "slug": "Unico-Listo-Up3006cta",
+   "title": "Listo UP3006CTa installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Listo UP3006CTa",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3700229/Unico-Listo-Up3006cta.html"
+  },
+  {
+   "manualId": "1487336",
+   "slug": "Unico-M-Series",
+   "title": "M Series installation manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "M Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1487336/Unico-M-Series.html"
+  },
+  {
+   "manualId": "2099601",
+   "slug": "Unico-M-Series",
+   "title": "M Series installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "M Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2099601/Unico-M-Series.html"
+  },
+  {
+   "manualId": "2157349",
+   "slug": "Unico-M-Series",
+   "title": "M Series installation manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "M Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2157349/Unico-M-Series.html"
+  },
+  {
+   "manualId": "2398569",
+   "slug": "Unico-M-Series",
+   "title": "M Series installation manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "M Series",
+   "extraModels": [
+    "M1218"
+   ],
+   "url": "https://www.manualslib.com/manual/2398569/Unico-M-Series.html"
+  },
+  {
+   "manualId": "3790098",
+   "slug": "Unico-M-Series",
+   "title": "M Series installation manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "M Series",
+   "extraModels": [
+    "M1218",
+    "M2430",
+    "M3036",
+    "M3642",
+    "M4860"
+   ],
+   "url": "https://www.manualslib.com/manual/3790098/Unico-M-Series.html"
+  },
+  {
+   "manualId": "3887425",
+   "slug": "Unico-M2430",
+   "title": "M2430 installation manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "M2430",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3887425/Unico-M2430.html"
+  },
+  {
+   "manualId": "3878280",
+   "slug": "Unico-M2430b-1-Series",
+   "title": "M2430B 1 Series installation manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "M2430B 1 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878280/Unico-M2430b-1-Series.html"
+  },
+  {
+   "manualId": "3887426",
+   "slug": "Unico-M3036",
+   "title": "M3036 installation manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "M3036",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3887426/Unico-M3036.html"
+  },
+  {
+   "manualId": "3878281",
+   "slug": "Unico-M3036b-1-Series",
+   "title": "M3036B 1 Series installation manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "M3036B 1 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878281/Unico-M3036b-1-Series.html"
+  },
+  {
+   "manualId": "3887427",
+   "slug": "Unico-M3642",
+   "title": "M3642 installation manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "M3642",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3887427/Unico-M3642.html"
+  },
+  {
+   "manualId": "3878282",
+   "slug": "Unico-M3642b-1-Series",
+   "title": "M3642B 1 Series installation manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "M3642B 1 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878282/Unico-M3642b-1-Series.html"
+  },
+  {
+   "manualId": "3887428",
+   "slug": "Unico-M4860",
+   "title": "M4860 installation manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "M4860",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3887428/Unico-M4860.html"
+  },
+  {
+   "manualId": "3878283",
+   "slug": "Unico-M4860b-1-Series",
+   "title": "M4860B 1 Series installation manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "M4860B 1 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878283/Unico-M4860b-1-Series.html"
+  },
+  {
+   "manualId": "3637114",
+   "slug": "Unico-L-Vm4000",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3637114/Unico-L-Vm4000.html"
+  },
+  {
+   "manualId": "2796712",
+   "slug": "Unico-Dual-Plus-1c",
+   "title": "Manual Of Installation And Use",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2796712/Unico-Dual-Plus-1c.html"
+  },
+  {
+   "manualId": "1224912",
+   "slug": "Unico-Mcv85-Total-Clean-And-Turbo",
+   "title": "MCV80 TOTAL CLEAN & TURBO instruction manual",
+   "type": "User / Owner",
+   "pages": 116,
+   "productModel": "MCV80 TOTAL CLEAN & TURBO",
+   "extraModels": [
+    "MCV80 TOTAL CLEAN & TURBO"
+   ],
+   "url": "https://www.manualslib.com/manual/1224912/Unico-Mcv85-Total-Clean-And-Turbo.html"
+  },
+  {
+   "manualId": "1541571",
+   "slug": "Unico-Mt90",
+   "title": "MT90 Manual manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "MT90",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1541571/Unico-Mt90.html"
+  },
+  {
+   "manualId": "1096736",
+   "slug": "Unico-Module-A",
+   "title": "Operating Instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1096736/Unico-Module-A.html"
+  },
+  {
+   "manualId": "3604038",
+   "slug": "Unico-M280-Series",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3604038/Unico-M280-Series.html"
+  },
+  {
+   "manualId": "3604043",
+   "slug": "Unico-M250",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3604043/Unico-M250.html"
+  },
+  {
+   "manualId": "3604045",
+   "slug": "Unico-Zm-190-Series",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3604045/Unico-Zm-190-Series.html"
+  },
+  {
+   "manualId": "3604047",
+   "slug": "Unico-G380pht",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3604047/Unico-G380pht.html"
+  },
+  {
+   "manualId": "3604051",
+   "slug": "Unico-M260-Series",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3604051/Unico-M260-Series.html"
+  },
+  {
+   "manualId": "3604052",
+   "slug": "Unico-L-Cu-Series",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3604052/Unico-L-Cu-Series.html"
+  },
+  {
+   "manualId": "3604054",
+   "slug": "Unico-G380-Led-Series",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3604054/Unico-G380-Led-Series.html"
+  },
+  {
+   "manualId": "3604055",
+   "slug": "Unico-Powerspin-Hxv-C8304",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3604055/Unico-Powerspin-Hxv-C8304.html"
+  },
+  {
+   "manualId": "3607625",
+   "slug": "Unico-G384",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3607625/Unico-G384.html"
+  },
+  {
+   "manualId": "3609815",
+   "slug": "Unico-B6-8187",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3609815/Unico-B6-8187.html"
+  },
+  {
+   "manualId": "3619948",
+   "slug": "Unico-Powerspin-Bx-Series",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3619948/Unico-Powerspin-Bx-Series.html"
+  },
+  {
+   "manualId": "3637779",
+   "slug": "Unico-L-Rt30",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3637779/Unico-L-Rt30.html"
+  },
+  {
+   "manualId": "3662055",
+   "slug": "Unico-Powerspin-C806",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3662055/Unico-Powerspin-C806.html"
+  },
+  {
+   "manualId": "4330022",
+   "slug": "Unico-Cmh30",
+   "title": "Operation manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4330022/Unico-Cmh30.html"
+  },
+  {
+   "manualId": "3604666",
+   "slug": "Unico-Powerspin-Bx-Series",
+   "title": "PowerSpin BX C881 Operation & service manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "PowerSpin BX C881",
+   "extraModels": [
+    "PowerSpin BX C881",
+    "PowerSpin BX C882",
+    "PowerSpin BX C883",
+    "PowerSpin BX C884",
+    "PowerSpin BX C885"
+   ],
+   "url": "https://www.manualslib.com/manual/3604666/Unico-Powerspin-Bx-Series.html"
+  },
+  {
+   "manualId": "1942906",
+   "slug": "Unico-Powerspin-C8604",
+   "title": "PowerSpin C8604 Operation manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "PowerSpin C8604",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1942906/Unico-Powerspin-C8604.html"
+  },
+  {
+   "manualId": "2506678",
+   "slug": "Unico-Powerspin-C8624",
+   "title": "PowerSpin C8624 Operation manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "PowerSpin C8624",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2506678/Unico-Powerspin-C8624.html"
+  },
+  {
+   "manualId": "3659376",
+   "slug": "Unico-Powerspin-Hxv-C8306",
+   "title": "PowerSpin HXV C8306 Operation manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "PowerSpin HXV C8306",
+   "extraModels": [
+    "PowerSpin HXV C8308"
+   ],
+   "url": "https://www.manualslib.com/manual/3659376/Unico-Powerspin-Hxv-C8306.html"
+  },
+  {
+   "manualId": "3659391",
+   "slug": "Unico-Powerspin-Hxv-Series",
+   "title": "PowerSpin HXV C8306 Operation manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": "PowerSpin HXV C8306",
+   "extraModels": [
+    "PowerSpin HXV C8306",
+    "PowerSpin HXV C8312"
+   ],
+   "url": "https://www.manualslib.com/manual/3659391/Unico-Powerspin-Hxv-Series.html"
+  },
+  {
+   "manualId": "3610758",
+   "slug": "Unico-Powerspin-Hxv-C8312",
+   "title": "PowerSpin HXV C8312 Operation manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "PowerSpin HXV C8312",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3610758/Unico-Powerspin-Hxv-C8312.html"
+  },
+  {
+   "manualId": "3638180",
+   "slug": "Unico-Powerspin-Lx-C856",
+   "title": "PowerSpin LX C856 Operation manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": "PowerSpin LX C856",
+   "extraModels": [
+    "PowerSpin LX C858"
+   ],
+   "url": "https://www.manualslib.com/manual/3638180/Unico-Powerspin-Lx-C856.html"
+  },
+  {
+   "manualId": "4159968",
+   "slug": "Unico-Powerspin-Lx-C858",
+   "title": "PowerSpin LX C856 Operation manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "PowerSpin LX C856",
+   "extraModels": [
+    "PowerSpin LX C856"
+   ],
+   "url": "https://www.manualslib.com/manual/4159968/Unico-Powerspin-Lx-C858.html"
+  },
+  {
+   "manualId": "4427670",
+   "slug": "powerspin-lx-centrifuge-operation-manual-unico",
+   "title": "PowerSpin LX Centrifuge Operation Manual - UNICO",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4427670/powerspin-lx-centrifuge-operation-manual-unico.html"
+  },
+  {
+   "manualId": "2981154",
+   "slug": "Unico-Pb6000unc",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2981154/Unico-Pb6000unc.html"
+  },
+  {
+   "manualId": "3005007",
+   "slug": "Unico-10000-Mah",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3005007/Unico-10000-Mah.html"
+  },
+  {
+   "manualId": "2517431",
+   "slug": "Unico-S-1100",
+   "title": "S-1100 Operation manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "S-1100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2517431/Unico-S-1100.html"
+  },
+  {
+   "manualId": "2202091",
+   "slug": "Unico-S-2150-Series",
+   "title": "S-2150 Series user manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "S-2150 Series",
+   "extraModels": [
+    "S-2150UV"
+   ],
+   "url": "https://www.manualslib.com/manual/2202091/Unico-S-2150-Series.html"
+  },
+  {
+   "manualId": "1319052",
+   "slug": "Unico-S1205-Series",
+   "title": "S1205 SERIES user manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "S1205 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1319052/Unico-S1205-Series.html"
+  },
+  {
+   "manualId": "3053713",
+   "slug": "Unico-Sq-Series",
+   "title": "SQ Series Service manual",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "SQ Series",
+   "extraModels": [
+    "UV-2802",
+    "UV-2802PC",
+    "UV-2802PCS",
+    "UV-2802S",
+    "UV-3802",
+    "UV-4802"
+   ],
+   "url": "https://www.manualslib.com/manual/3053713/Unico-Sq-Series.html"
+  },
+  {
+   "manualId": "4427747",
+   "slug": "unico-1200-series-spectrophotometer-user-s-manual",
+   "title": "UNICO 1200 Series Spectrophotometer User's Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4427747/unico-1200-series-spectrophotometer-user-s-manual.html"
+  },
+  {
+   "manualId": "4245771",
+   "slug": "unico-powerspin-hxv-c8306-centrifuge-operation-manual",
+   "title": "Unico PowerSpin HXV C8306 Centrifuge Operation Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4245771/unico-powerspin-hxv-c8306-centrifuge-operation-manual.html"
+  },
+  {
+   "manualId": "3915373",
+   "slug": "Unico-Uv-2800",
+   "title": "UV-2800 Service manual",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "UV-2800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3915373/Unico-Uv-2800.html"
+  },
+  {
+   "manualId": "2389528",
+   "slug": "Unico-Uv-2802",
+   "title": "UV-2802 user manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "UV-2802",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2389528/Unico-Uv-2802.html"
+  },
+  {
+   "manualId": "2081566",
+   "slug": "Unico-V2430",
+   "title": "V2430 installation manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "V2430",
+   "extraModels": [
+    "V3642"
+   ],
+   "url": "https://www.manualslib.com/manual/2081566/Unico-V2430.html"
+  },
+  {
+   "manualId": "3875779",
+   "slug": "Unico-V3036",
+   "title": "V3036 installation manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "V3036",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3875779/Unico-V3036.html"
+  },
+  {
+   "manualId": "4329962",
+   "slug": "Unico-Vis-1105",
+   "title": "Vis 1105 Software user's manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "Vis 1105",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4329962/Unico-Vis-1105.html"
+  },
+  {
+   "manualId": "2981259",
+   "slug": "Unico-Won0202-C",
+   "title": "WON0202-C installation manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "WON0202-C",
+   "extraModels": [
+    "WON0502-C",
+    "WON0752-C",
+    "WON1502-C",
+    "WON1504-C",
+    "WON2002-C",
+    "WONQ754-C",
+    "WQN0504-C",
+    "WQN1004-C"
+   ],
+   "url": "https://www.manualslib.com/manual/2981259/Unico-Won0202-C.html"
+  },
+  {
+   "manualId": "3912150",
+   "slug": "Unico-Won1002-C",
+   "title": "WON1002-C installation manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "WON1002-C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3912150/Unico-Won1002-C.html"
+  },
+  {
+   "manualId": "4165951",
+   "slug": "Unico-Zero-Point",
+   "title": "ZERO-POINT Operator's manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "ZERO-POINT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4165951/Unico-Zero-Point.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4427747",
+   "slug": "unico-1200-series-spectrophotometer-user-s-manual",
+   "title": "UNICO 1200 Series Spectrophotometer User's Manual"
+  },
+  {
+   "manualId": "4245771",
+   "slug": "unico-powerspin-hxv-c8306-centrifuge-operation-manual",
+   "title": "Unico PowerSpin HXV C8306 Centrifuge Operation Manual"
+  },
+  {
+   "manualId": "4427670",
+   "slug": "powerspin-lx-centrifuge-operation-manual-unico",
+   "title": "PowerSpin LX Centrifuge Operation Manual - UNICO"
+  }
+ ],
+ "techDirectIds": [
+  "unico"
+ ]
+}

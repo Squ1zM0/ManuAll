@@ -1,0 +1,175 @@
+{
+ "brand": "Revolv",
+ "brandSlug": "revolv",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/revolv/"
+ ],
+ "slugUsed": "revolv",
+ "capturedAt": "2026-10-28T09:17:03.769490+00:00",
+ "typePages": [
+  {
+   "path": "/brand/revolv/air-conditioner.html",
+   "manuals": 14,
+   "status": 200
+  },
+  {
+   "path": "/brand/revolv/dj-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/revolv/furnace.html",
+   "manuals": 23,
+   "status": 200
+  },
+  {
+   "path": "/brand/revolv/heat-pump.html",
+   "manuals": 31,
+   "status": 200
+  },
+  {
+   "path": "/brand/revolv/switch.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2748909",
+   "slug": "Revolv-Jarvis1",
+   "title": "06262013B Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "06262013B",
+   "extraModels": [
+    "06262013B"
+   ],
+   "url": "https://www.manualslib.com/manual/2748909/Revolv-Jarvis1.html"
+  },
+  {
+   "manualId": "4516319",
+   "slug": "Revolv-32c1853",
+   "title": "32C1853 installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "32C1853",
+   "extraModels": [
+    "32C1854",
+    "32C2454",
+    "32C2854",
+    "32E2054",
+    "454C1853",
+    "454C1854",
+    "454C2003",
+    "454C2454",
+    "454C2654",
+    "454C3054",
+    "454C3403",
+    "454C3454",
+    "454E2054"
+   ],
+   "url": "https://www.manualslib.com/manual/4516319/Revolv-32c1853.html"
+  },
+  {
+   "manualId": "1717472",
+   "slug": "Revolv-E7-Series",
+   "title": "E7 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "E7 Series",
+   "extraModels": [
+    "E7ED DOWNFLOW",
+    "E7EM MULTI-POISE",
+    "E7EU UPFLOW"
+   ],
+   "url": "https://www.manualslib.com/manual/1717472/Revolv-E7-Series.html"
+  },
+  {
+   "manualId": "4234074",
+   "slug": "Revolv-Mg2r-Series",
+   "title": "MG2R Series installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "MG2R Series",
+   "extraModels": [
+    "MG2R-045",
+    "MG2R-060",
+    "MG2R-072"
+   ],
+   "url": "https://www.manualslib.com/manual/4234074/Revolv-Mg2r-Series.html"
+  },
+  {
+   "manualId": "1569892",
+   "slug": "Revolv-R-Gauge",
+   "title": "operating manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1569892/Revolv-R-Gauge.html"
+  },
+  {
+   "manualId": "1398000",
+   "slug": "Revolv-Re9x-10n4",
+   "title": "RE9X-10N4 Owner's Manual And Installation Instructions",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "RE9X-10N4",
+   "extraModels": [
+    "RE9X-12N4",
+    "RE9X-15N4",
+    "RE9X-17N4",
+    "RE9X-20N4",
+    "RE9X-23N4"
+   ],
+   "url": "https://www.manualslib.com/manual/1398000/Revolv-Re9x-10n4.html"
+  },
+  {
+   "manualId": "1469717",
+   "slug": "Revolv-Rsh1qe4m1sp24k",
+   "title": "Technical Specifications",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1469717/Revolv-Rsh1qe4m1sp24k.html"
+  },
+  {
+   "manualId": "908929",
+   "slug": "Revolv-Vma1-50n",
+   "title": "VMA1-50N Installation and service manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "VMA1-50N",
+   "extraModels": [
+    "VMA1-75N"
+   ],
+   "url": "https://www.manualslib.com/manual/908929/Revolv-Vma1-50n.html"
+  },
+  {
+   "manualId": "3699088",
+   "slug": "Revolv-Vma4-50d36n",
+   "title": "VMA4-50D36N Installation and service manual",
+   "type": "Service",
+   "pages": 66,
+   "productModel": "VMA4-50D36N",
+   "extraModels": [
+    "VMA4-75D36N",
+    "VMC2-50D36N",
+    "VMC2-50DV3N",
+    "VMC2-75D36N",
+    "VMC2-75DV3N"
+   ],
+   "url": "https://www.manualslib.com/manual/3699088/Revolv-Vma4-50d36n.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "revolv"
+ ]
+}

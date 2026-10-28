@@ -1,0 +1,39 @@
+{
+ "brand": "GPS Air",
+ "brandSlug": "gps-air",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/gps-air/"
+ ],
+ "slugUsed": "gps-air",
+ "capturedAt": "2026-10-28T07:17:22.741135+00:00",
+ "typePages": [
+  {
+   "path": "/brand/gps-air/ventilation-hood.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4651600",
+   "slug": "Gps-Air-Smartiaq-Gridset",
+   "title": "smartIAQ GridSet Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "smartIAQ GridSet",
+   "extraModels": [
+    "smartIAQ GridSet Pro"
+   ],
+   "url": "https://www.manualslib.com/manual/4651600/Gps-Air-Smartiaq-Gridset.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "gps-air-global-plasma-solutions"
+ ]
+}

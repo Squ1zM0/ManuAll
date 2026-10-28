@@ -1,0 +1,340 @@
+{
+ "brand": "Desert Aire",
+ "brandSlug": "desert-aire",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/desert-aire/"
+ ],
+ "slugUsed": "desert-aire",
+ "capturedAt": "2026-10-28T06:59:10.819610+00:00",
+ "typePages": [
+  {
+   "path": "/brand/desert-aire/air-cleaner.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/desert-aire/air-conditioner.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/desert-aire/control-systems.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/desert-aire/controller.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/desert-aire/dehumidifier.html",
+   "manuals": 32,
+   "status": 200
+  },
+  {
+   "path": "/brand/desert-aire/fan.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/desert-aire/heater.html",
+   "manuals": 10,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1526240",
+   "slug": "Desert-Aire-Aura-Qs",
+   "title": "Aura QS Installation and operation manual",
+   "type": "Installation",
+   "pages": 94,
+   "productModel": "Aura QS",
+   "extraModels": [
+    "TotalAire QS",
+    "VerticalAire QV"
+   ],
+   "url": "https://www.manualslib.com/manual/1526240/Desert-Aire-Aura-Qs.html"
+  },
+  {
+   "manualId": "1526244",
+   "slug": "Desert-Aire-Cm3500-Series",
+   "title": "CM3500 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "CM3500 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1526244/Desert-Aire-Cm3500-Series.html"
+  },
+  {
+   "manualId": "1526243",
+   "slug": "Desert-Aire-Cm3510",
+   "title": "CM3510 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "CM3510 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1526243/Desert-Aire-Cm3510.html"
+  },
+  {
+   "manualId": "2192544",
+   "slug": "Desert-Aire-Cm3510-Series",
+   "title": "CM3510 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "CM3510 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2192544/Desert-Aire-Cm3510-Series.html"
+  },
+  {
+   "manualId": "2360646",
+   "slug": "Desert-Aire-Cm3560-Series",
+   "title": "CM3510 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "CM3510 Series",
+   "extraModels": [
+    "CM3510 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2360646/Desert-Aire-Cm3560-Series.html"
+  },
+  {
+   "manualId": "1526242",
+   "slug": "Desert-Aire-Cm3530-Series",
+   "title": "CM3530 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "CM3530 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1526242/Desert-Aire-Cm3530-Series.html"
+  },
+  {
+   "manualId": "1525621",
+   "slug": "Desert-Aire-Cm3540-Series",
+   "title": "CM3540 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "CM3540 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1525621/Desert-Aire-Cm3540-Series.html"
+  },
+  {
+   "manualId": "1979514",
+   "slug": "Desert-Aire-Cm3540-Series",
+   "title": "CM3540 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "CM3540 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1979514/Desert-Aire-Cm3540-Series.html"
+  },
+  {
+   "manualId": "4523029",
+   "slug": "Desert-Aire-Cm3540-Series",
+   "title": "CM3540 Series Operation manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": "CM3540 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4523029/Desert-Aire-Cm3540-Series.html"
+  },
+  {
+   "manualId": "1687296",
+   "slug": "Desert-Aire-Cm3550-Series",
+   "title": "CM3550 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "CM3550 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1687296/Desert-Aire-Cm3550-Series.html"
+  },
+  {
+   "manualId": "3140198",
+   "slug": "Desert-Aire-Cm3554-Series",
+   "title": "CM3554 Series Operation manual",
+   "type": "Other",
+   "pages": 70,
+   "productModel": "CM3554 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3140198/Desert-Aire-Cm3554-Series.html"
+  },
+  {
+   "manualId": "3051169",
+   "slug": "Desert-Aire-Cm3570-Series",
+   "title": "CM3570 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 66,
+   "productModel": "CM3570 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3051169/Desert-Aire-Cm3570-Series.html"
+  },
+  {
+   "manualId": "2192536",
+   "slug": "Desert-Aire-Cm35xx",
+   "title": "CM35xx quick start manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "CM35xx",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2192536/Desert-Aire-Cm35xx.html"
+  },
+  {
+   "manualId": "1180860",
+   "slug": "Desert-Aire-Expertaire-Lc-Series",
+   "title": "ExpertAire LC Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 70,
+   "productModel": "ExpertAire LC Series",
+   "extraModels": [
+    "ExpertAire LV Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1180860/Desert-Aire-Expertaire-Lc-Series.html"
+  },
+  {
+   "manualId": "3980744",
+   "slug": "Desert-Aire-Expertaire-Lc-Series",
+   "title": "ExpertAire LC Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 112,
+   "productModel": "ExpertAire LC Series",
+   "extraModels": [
+    "ExpertAire LC01",
+    "ExpertAire LC02",
+    "ExpertAire LC03",
+    "ExpertAire LC04",
+    "ExpertAire LC05",
+    "ExpertAire LC06",
+    "ExpertAire LC08",
+    "ExpertAire LC10",
+    "ExpertAire LC12",
+    "ExpertAire LV Series",
+    "ExpertAire LV03",
+    "ExpertAire LV04",
+    "ExpertAire LV05",
+    "ExpertAire LV06",
+    "ExpertAire LV08",
+    "ExpertAire LV15"
+   ],
+   "url": "https://www.manualslib.com/manual/3980744/Desert-Aire-Expertaire-Lc-Series.html"
+  },
+  {
+   "manualId": "3044498",
+   "slug": "Desert-Aire-Greenaire",
+   "title": "GreenAire Installation and operation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "GreenAire",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3044498/Desert-Aire-Greenaire.html"
+  },
+  {
+   "manualId": "2398984",
+   "slug": "Desert-Aire-Growaire-Gs-Series",
+   "title": "GrowAire GA Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "GrowAire GA Series",
+   "extraModels": [
+    "GrowAire GA Series",
+    "GrowAire GV Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2398984/Desert-Aire-Growaire-Gs-Series.html"
+  },
+  {
+   "manualId": "2967912",
+   "slug": "Desert-Aire-Dh-Series",
+   "title": "Installation & operation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2967912/Desert-Aire-Dh-Series.html"
+  },
+  {
+   "manualId": "1367671",
+   "slug": "Desert-Aire-Lw",
+   "title": "LW Installation and operation manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "LW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1367671/Desert-Aire-Lw.html"
+  },
+  {
+   "manualId": "3621028",
+   "slug": "Desert-Aire-Paddock-Evacuator-Bench",
+   "title": "Paddock Evacuator Bench Installation and operation manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "Paddock Evacuator Bench",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3621028/Desert-Aire-Paddock-Evacuator-Bench.html"
+  },
+  {
+   "manualId": "3557554",
+   "slug": "Desert-Aire-Rcd-Series",
+   "title": "RCD Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "RCD Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3557554/Desert-Aire-Rcd-Series.html"
+  },
+  {
+   "manualId": "1526241",
+   "slug": "Desert-Aire-Sa-Series",
+   "title": "SA Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "SA Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1526241/Desert-Aire-Sa-Series.html"
+  },
+  {
+   "manualId": "4502418",
+   "slug": "Desert-Aire-Sa-Series",
+   "title": "SA Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 101,
+   "productModel": "SA Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4502418/Desert-Aire-Sa-Series.html"
+  },
+  {
+   "manualId": "1950737",
+   "slug": "Desert-Aire-Selectaire-Plus-Sp-Series",
+   "title": "SelectAire Plus SP Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 110,
+   "productModel": "SelectAire Plus SP Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1950737/Desert-Aire-Selectaire-Plus-Sp-Series.html"
+  },
+  {
+   "manualId": "4509512",
+   "slug": "Desert-Aire-Selectaire-Plus-Sp-Series",
+   "title": "SelectAire Plus SP Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 148,
+   "productModel": "SelectAire Plus SP Series",
+   "extraModels": [
+    "SelectAire Plus SP45",
+    "SelectAire Plus SP50",
+    "SelectAire Plus SP60",
+    "SelectAire Plus SP70",
+    "SelectAire Plus SP80"
+   ],
+   "url": "https://www.manualslib.com/manual/4509512/Desert-Aire-Selectaire-Plus-Sp-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "desert-aire"
+ ]
+}

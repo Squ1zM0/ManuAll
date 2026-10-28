@@ -1,0 +1,654 @@
+{
+ "brand": "Miura",
+ "brandSlug": "miura",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/miura/"
+ ],
+ "slugUsed": "miura",
+ "capturedAt": "2026-10-28T08:41:44.987993+00:00",
+ "typePages": [
+  {
+   "path": "/brand/miura/boiler.html",
+   "manuals": 151,
+   "status": 200
+  },
+  {
+   "path": "/brand/miura/boiler-supplies.html",
+   "manuals": 20,
+   "status": 200
+  },
+  {
+   "path": "/brand/miura/controller.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/miura/indoor-furnishing.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/miura/industrial-equipment.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/miura/measuring-instruments.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/miura/touch-terminals.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/miura/water-dispenser.html",
+   "manuals": 52,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2987310",
+   "slug": "Miura-Bp-201",
+   "title": "BP-201 installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "BP-201",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2987310/Miura-Bp-201.html"
+  },
+  {
+   "manualId": "2987293",
+   "slug": "Miura-Bp-201",
+   "title": "BP-201 Quick start up manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "BP-201",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2987293/Miura-Bp-201.html"
+  },
+  {
+   "manualId": "1636649",
+   "slug": "Miura-Bp-201sta",
+   "title": "BP-201STA Operation manual",
+   "type": "Other",
+   "pages": 61,
+   "productModel": "BP-201STA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1636649/Miura-Bp-201sta.html"
+  },
+  {
+   "manualId": "3072896",
+   "slug": "Miura-Cmu-324ge",
+   "title": "CMU-324GE Operation manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": "CMU-324GE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3072896/Miura-Cmu-324ge.html"
+  },
+  {
+   "manualId": "2978862",
+   "slug": "Miura-Colormetry-Cmu-324he",
+   "title": "CMU-324HE Installation and operation manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "CMU-324HE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2978862/Miura-Colormetry-Cmu-324he.html"
+  },
+  {
+   "manualId": "1621689",
+   "slug": "Miura-Cmu-324he",
+   "title": "CMU-324HE Operation manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": "CMU-324HE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1621689/Miura-Cmu-324he.html"
+  },
+  {
+   "manualId": "2987288",
+   "slug": "Miura-Comm-Link",
+   "title": "Comm-Link installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "Comm-Link",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2987288/Miura-Comm-Link.html"
+  },
+  {
+   "manualId": "2987277",
+   "slug": "Miura-Connect",
+   "title": "CONNECT installation manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "CONNECT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2987277/Miura-Connect.html"
+  },
+  {
+   "manualId": "1638671",
+   "slug": "Miura-Ej-210",
+   "title": "EJ-210 installation manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "EJ-210",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1638671/Miura-Ej-210.html"
+  },
+  {
+   "manualId": "1616985",
+   "slug": "Miura-Ej-210",
+   "title": "EJ-210 Operation manual",
+   "type": "Other",
+   "pages": 34,
+   "productModel": "EJ-210",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1616985/Miura-Ej-210.html"
+  },
+  {
+   "manualId": "2987208",
+   "slug": "Miura-Ej-210",
+   "title": "EJ-210 Start up & operation manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "EJ-210",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2987208/Miura-Ej-210.html"
+  },
+  {
+   "manualId": "1642459",
+   "slug": "Miura-Lx-Series",
+   "title": "EX Series Inspection manual",
+   "type": "Other",
+   "pages": 88,
+   "productModel": "EX Series",
+   "extraModels": [
+    "EX Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1642459/Miura-Lx-Series.html"
+  },
+  {
+   "manualId": "3525586",
+   "slug": "Miura-Lx-Series",
+   "title": "EX Series installation manual",
+   "type": "Installation",
+   "pages": 83,
+   "productModel": "EX Series",
+   "extraModels": [
+    "EX Series",
+    "EX-100",
+    "EX-100-07",
+    "EX-100FG",
+    "EX-100FGO",
+    "EX-100G",
+    "EX-100GO",
+    "EX-150",
+    "EX-150FG",
+    "EX-150FGO",
+    "EX-150G",
+    "EX-150GO",
+    "EX-200",
+    "EX-200-07",
+    "EX-200FGO",
+    "EX-200G",
+    "EX-200GO",
+    "EX-250",
+    "EX-250-07",
+    "EX-250FG",
+    "EX-250FGO",
+    "EX-250G",
+    "EX-250GO",
+    "EX-300",
+    "EX-300-07",
+    "EX-300-12",
+    "EX-300-FG",
+    "EX-300FGO",
+    "EX-300G",
+    "EX-300GO",
+    "EXH-100",
+    "EXH-200",
+    "EXH-200G",
+    "EXH-200GO",
+    "EXH-250",
+    "EXH-250G",
+    "EXH-250GO",
+    "EXH-300",
+    "EXH-300G",
+    "EXH-300GO",
+    "EXN-250",
+    "EXN-250FG",
+    "EXN-250FGO",
+    "EXN-300",
+    "EXN-300FG",
+    "EXN-300FGO",
+    "EXNH-250FG",
+    "EXNH-250FGO",
+    "EXNH-2S0FG",
+    "EXNH-300FG",
+    "EXNH-300FGO",
+    "EXW-300G",
+    "EXW-300GO",
+    "LX-100",
+    "LX-100-05",
+    "LX-150",
+    "LX-150-05",
+    "LX-200",
+    "LX-200-05",
+    "LX-300",
+    "LX-300-07",
+    "LX-50",
+    "LX-50-05",
+    "LXH-200",
+    "LXH-300",
+    "LXL-100",
+    "LXL-150",
+    "LXL-200",
+    "LXL-50",
+    "LXW-100",
+    "LXW-150",
+    "LXW-200",
+    "LXW-50"
+   ],
+   "url": "https://www.manualslib.com/manual/3525586/Miura-Lx-Series.html"
+  },
+  {
+   "manualId": "1640006",
+   "slug": "Miura-Ex-Series",
+   "title": "EX Series Startup manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "EX Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1640006/Miura-Ex-Series.html"
+  },
+  {
+   "manualId": "3144406",
+   "slug": "Miura-Ex-100",
+   "title": "EX-100 Operation manual",
+   "type": "Other",
+   "pages": 100,
+   "productModel": "EX-100",
+   "extraModels": [
+    "EX-150",
+    "EX-200",
+    "EX-250",
+    "EX-300",
+    "EXH-200",
+    "EXH-250",
+    "EXH-300",
+    "EXN-300",
+    "EXNH-300"
+   ],
+   "url": "https://www.manualslib.com/manual/3144406/Miura-Ex-100.html"
+  },
+  {
+   "manualId": "839462",
+   "slug": "Miura-Ex-300",
+   "title": "EX-100 SG0F installation manual",
+   "type": "Installation",
+   "pages": 61,
+   "productModel": "EX-100 SG0F",
+   "extraModels": [
+    "EX-100 SG0F",
+    "EX-100 SGF",
+    "EX-100G",
+    "EX-100GO",
+    "EX-100SG",
+    "EX-100SGO",
+    "EX-200 SG0F",
+    "EX-200 SGF",
+    "EX-200G",
+    "EX-200GO",
+    "EX-200SG",
+    "EX-200SGO",
+    "EX-250 SG0F",
+    "EX-250 SGF",
+    "EX-250G",
+    "EX-250GO",
+    "EX-250SG",
+    "EX-250SGO",
+    "EX-300G",
+    "EX-300GO",
+    "EX-300SG",
+    "EX-300SGO",
+    "EXH-100G",
+    "EXH-100GO",
+    "EXH-100SGO",
+    "EXH-200G",
+    "EXH-200GO",
+    "EXH-200SGO",
+    "EXH-300G",
+    "EXH-300GO",
+    "EXH-300SG",
+    "EXH-300SGO"
+   ],
+   "url": "https://www.manualslib.com/manual/839462/Miura-Ex-300.html"
+  },
+  {
+   "manualId": "2978855",
+   "slug": "Miura-Exw-Series",
+   "title": "EXW Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "EXW Series",
+   "extraModels": [
+    "EXW-100",
+    "EXW-200",
+    "EXW-250",
+    "EXW-300"
+   ],
+   "url": "https://www.manualslib.com/manual/2978855/Miura-Exw-Series.html"
+  },
+  {
+   "manualId": "4093222",
+   "slug": "Miura-Frf1",
+   "title": "FRF1 Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "FRF1",
+   "extraModels": [
+    "FRF2",
+    "HB-PKMRF",
+    "SR-PKMRF"
+   ],
+   "url": "https://www.manualslib.com/manual/4093222/Miura-Frf1.html"
+  },
+  {
+   "manualId": "3784632",
+   "slug": "Miura-Ml2-200",
+   "title": "Installation and wiring manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3784632/Miura-Ml2-200.html"
+  },
+  {
+   "manualId": "2978873",
+   "slug": "Miura-Ms-Series",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2978873/Miura-Ms-Series.html"
+  },
+  {
+   "manualId": "2978879",
+   "slug": "Miura-Ms-Series",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2978879/Miura-Ms-Series.html"
+  },
+  {
+   "manualId": "3588141",
+   "slug": "Miura-Lx-Series",
+   "title": "LX Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "LX Series",
+   "extraModels": [
+    "LX-300",
+    "LX-300 SG",
+    "LXH-300",
+    "LXH-300 SG",
+    "LXL Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3588141/Miura-Lx-Series.html"
+  },
+  {
+   "manualId": "1636675",
+   "slug": "Miura-Lx-Series",
+   "title": "LX Series Operation manual",
+   "type": "Other",
+   "pages": 90,
+   "productModel": "LX Series",
+   "extraModels": [
+    "LX-100",
+    "LX-150",
+    "LX-200",
+    "LX-300",
+    "LX-50",
+    "LXH-200",
+    "LXH-300",
+    "LXL-100",
+    "LXL-150",
+    "LXL-200",
+    "LXL-50"
+   ],
+   "url": "https://www.manualslib.com/manual/1636675/Miura-Lx-Series.html"
+  },
+  {
+   "manualId": "3272601",
+   "slug": "Miura-Lxw-50",
+   "title": "LXW-100 Installation & operation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "LXW-100",
+   "extraModels": [
+    "LXW-100",
+    "LXW-150",
+    "LXW-200"
+   ],
+   "url": "https://www.manualslib.com/manual/3272601/Miura-Lxw-50.html"
+  },
+  {
+   "manualId": "2987251",
+   "slug": "Miura-Mp1-200",
+   "title": "MP1-200 installation manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "MP1-200",
+   "extraModels": [
+    "MT1-200"
+   ],
+   "url": "https://www.manualslib.com/manual/2987251/Miura-Mp1-200.html"
+  },
+  {
+   "manualId": "1651451",
+   "slug": "Miura-Mp1-200",
+   "title": "MP1-200 Operation manual",
+   "type": "Other",
+   "pages": 63,
+   "productModel": "MP1-200",
+   "extraModels": [
+    "MT1-200"
+   ],
+   "url": "https://www.manualslib.com/manual/1651451/Miura-Mp1-200.html"
+  },
+  {
+   "manualId": "1651449",
+   "slug": "Miura-Mp1-200",
+   "title": "MP1-200 Start up & operation manual",
+   "type": "Other",
+   "pages": 50,
+   "productModel": "MP1-200",
+   "extraModels": [
+    "MT1-200"
+   ],
+   "url": "https://www.manualslib.com/manual/1651449/Miura-Mp1-200.html"
+  },
+  {
+   "manualId": "1305720",
+   "slug": "Miura-Ms-10",
+   "title": "MS-10 Operation manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "MS-10",
+   "extraModels": [
+    "MS-22",
+    "MS-30",
+    "MS-40"
+   ],
+   "url": "https://www.manualslib.com/manual/1305720/Miura-Ms-10.html"
+  },
+  {
+   "manualId": "2987206",
+   "slug": "Miura-Mtu-100-Ul",
+   "title": "MTU-100 UL Engineering, installation and service manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "MTU-100 UL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2987206/Miura-Mtu-100-Ul.html"
+  },
+  {
+   "manualId": "2978843",
+   "slug": "Miura-Mw-150c",
+   "title": "MW-1000C Replacement procedure",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "MW-1000C",
+   "extraModels": [
+    "MW-1000C",
+    "MW-1000U",
+    "MW-100H",
+    "MW-100U",
+    "MW-150H",
+    "MW-150U",
+    "MW-250C",
+    "MW-250U",
+    "MW-35U",
+    "MW-400C",
+    "MW-400U",
+    "MW-600C",
+    "MW-600U",
+    "MW-65H",
+    "MW-65U"
+   ],
+   "url": "https://www.manualslib.com/manual/2978843/Miura-Mw-150c.html"
+  },
+  {
+   "manualId": "4602281",
+   "slug": "Miura-Mw-35u",
+   "title": "MW-1000U installation manual",
+   "type": "Installation",
+   "pages": 63,
+   "productModel": "MW-1000U",
+   "extraModels": [
+    "MW-1000U",
+    "MW-100U",
+    "MW-150U",
+    "MW-250U",
+    "MW-400U",
+    "MW-600U",
+    "MW-65U"
+   ],
+   "url": "https://www.manualslib.com/manual/4602281/Miura-Mw-35u.html"
+  },
+  {
+   "manualId": "1657157",
+   "slug": "Miura-Mw-35u",
+   "title": "MW-1000U Maintenance manual",
+   "type": "Service",
+   "pages": 102,
+   "productModel": "MW-1000U",
+   "extraModels": [
+    "MW-1000U",
+    "MW-100U",
+    "MW-150U",
+    "MW-250U",
+    "MW-400U",
+    "MW-600U",
+    "MW-65U"
+   ],
+   "url": "https://www.manualslib.com/manual/1657157/Miura-Mw-35u.html"
+  },
+  {
+   "manualId": "3136939",
+   "slug": "Miura-Mw-35u",
+   "title": "MW-1000U Operation manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "MW-1000U",
+   "extraModels": [
+    "MW-1000U",
+    "MW-100U",
+    "MW-150U",
+    "MW-250U",
+    "MW-400U",
+    "MW-600U",
+    "MW-65U"
+   ],
+   "url": "https://www.manualslib.com/manual/3136939/Miura-Mw-35u.html"
+  },
+  {
+   "manualId": "3569180",
+   "slug": "Miura-Pb-15000wra",
+   "title": "PB-15000WRA installation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "PB-15000WRA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3569180/Miura-Pb-15000wra.html"
+  },
+  {
+   "manualId": "3567255",
+   "slug": "Miura-Hk-300",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3567255/Miura-Hk-300.html"
+  },
+  {
+   "manualId": "3567444",
+   "slug": "Miura-Masp01",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3567444/Miura-Masp01.html"
+  },
+  {
+   "manualId": "2987216",
+   "slug": "Miura-Steam-Eo-010a",
+   "title": "STEAM EO-010A installation manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "STEAM EO-010A",
+   "extraModels": [
+    "STEAM EO-020A"
+   ],
+   "url": "https://www.manualslib.com/manual/2987216/Miura-Steam-Eo-010a.html"
+  },
+  {
+   "manualId": "2987302",
+   "slug": "Miura-Wp2-200a",
+   "title": "WP2-200A installation manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "WP2-200A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2987302/Miura-Wp2-200a.html"
+  },
+  {
+   "manualId": "2987214",
+   "slug": "Miura-Wp2-200a",
+   "title": "WP2-200A Startup User's Manual",
+   "type": "Installation",
+   "pages": 51,
+   "productModel": "WP2-200A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2987214/Miura-Wp2-200a.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "miura"
+ ]
+}

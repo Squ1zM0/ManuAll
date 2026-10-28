@@ -1,0 +1,37 @@
+{
+ "brand": "Respicaire",
+ "brandSlug": "respicaire",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/respicaire/"
+ ],
+ "slugUsed": "respicaire",
+ "capturedAt": "2026-10-28T09:16:51.413382+00:00",
+ "typePages": [
+  {
+   "path": "/brand/respicaire/air-cleaner.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2888909",
+   "slug": "Respicaire-Microclean-95",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2888909/Respicaire-Microclean-95.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "respicaire"
+ ]
+}

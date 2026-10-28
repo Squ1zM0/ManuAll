@@ -1,0 +1,1440 @@
+{
+ "brand": "RenewAire",
+ "brandSlug": "renewaire",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/renewaire/"
+ ],
+ "slugUsed": "renewaire",
+ "capturedAt": "2026-10-28T09:15:58.930313+00:00",
+ "typePages": [
+  {
+   "path": "/brand/renewaire/air-conditioner.html",
+   "manuals": 78,
+   "status": 200
+  },
+  {
+   "path": "/brand/renewaire/air-handlers.html",
+   "manuals": 73,
+   "status": 200
+  },
+  {
+   "path": "/brand/renewaire/cd-cdr-drive.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/renewaire/control-unit.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/renewaire/controller.html",
+   "manuals": 49,
+   "status": 200
+  },
+  {
+   "path": "/brand/renewaire/electric-heater.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/renewaire/engine.html",
+   "manuals": 26,
+   "status": 200
+  },
+  {
+   "path": "/brand/renewaire/fan.html",
+   "manuals": 221,
+   "status": 200
+  },
+  {
+   "path": "/brand/renewaire/furnace.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/renewaire/heater.html",
+   "manuals": 61,
+   "status": 200
+  },
+  {
+   "path": "/brand/renewaire/heating-system.html",
+   "manuals": 51,
+   "status": 200
+  },
+  {
+   "path": "/brand/renewaire/industrial-equipment.html",
+   "manuals": 84,
+   "status": 200
+  },
+  {
+   "path": "/brand/renewaire/refrigerator.html",
+   "manuals": 17,
+   "status": 200
+  },
+  {
+   "path": "/brand/renewaire/test-equipment.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/renewaire/thermostat.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/renewaire/time-clocks.html",
+   "manuals": 6,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2159737",
+   "slug": "Renewaire-Br-Series",
+   "title": "BR Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "BR Series",
+   "extraModels": [
+    "BR130 SERIES",
+    "BR70 SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/2159737/Renewaire-Br-Series.html"
+  },
+  {
+   "manualId": "1460347",
+   "slug": "Renewaire-Br70",
+   "title": "BR130 SERIES Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "BR130 SERIES",
+   "extraModels": [
+    "BR130 SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/1460347/Renewaire-Br70.html"
+  },
+  {
+   "manualId": "2878626",
+   "slug": "Renewaire-Ca-Series",
+   "title": "CA Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "CA Series",
+   "extraModels": [
+    "CA2XIN",
+    "CA3XIN",
+    "CA4XIN"
+   ],
+   "url": "https://www.manualslib.com/manual/2878626/Renewaire-Ca-Series.html"
+  },
+  {
+   "manualId": "2890934",
+   "slug": "Renewaire-Ca-Series",
+   "title": "CA Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "CA Series",
+   "extraModels": [
+    "CA2XRT",
+    "CA3XRT",
+    "CA4XRT"
+   ],
+   "url": "https://www.manualslib.com/manual/2890934/Renewaire-Ca-Series.html"
+  },
+  {
+   "manualId": "1533650",
+   "slug": "Renewaire-Dn-Series",
+   "title": "DN-2 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "DN-2",
+   "extraModels": [
+    "DN-2",
+    "DN-3",
+    "DN-5",
+    "DN-2-JIN"
+   ],
+   "url": "https://www.manualslib.com/manual/1533650/Renewaire-Dn-Series.html"
+  },
+  {
+   "manualId": "3093631",
+   "slug": "Renewaire-Dn-Series",
+   "title": "DN-2 instruction manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "DN-2",
+   "extraModels": [
+    "DN-2",
+    "DN-3",
+    "DN-5",
+    "DN2IN",
+    "DN2RT",
+    "DN3IN",
+    "DN3RT",
+    "DN5IN",
+    "DN5RT"
+   ],
+   "url": "https://www.manualslib.com/manual/3093631/Renewaire-Dn-Series.html"
+  },
+  {
+   "manualId": "2036482",
+   "slug": "Renewaire-Dn-Series",
+   "title": "DN-Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "DN-Series",
+   "extraModels": [
+    "DN2IN",
+    "DN2RT",
+    "DN3IN",
+    "DN3RT",
+    "DN5IN",
+    "DN5RT"
+   ],
+   "url": "https://www.manualslib.com/manual/2036482/Renewaire-Dn-Series.html"
+  },
+  {
+   "manualId": "2789123",
+   "slug": "Renewaire-Dn-Series",
+   "title": "DN-Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "DN-Series",
+   "extraModels": [
+    "DN2IN",
+    "DN3IN",
+    "DN5IN"
+   ],
+   "url": "https://www.manualslib.com/manual/2789123/Renewaire-Dn-Series.html"
+  },
+  {
+   "manualId": "2874636",
+   "slug": "Renewaire-Dn-Series",
+   "title": "DN-Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 164,
+   "productModel": "DN-Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2874636/Renewaire-Dn-Series.html"
+  },
+  {
+   "manualId": "1561028",
+   "slug": "Renewaire-Dn-Series",
+   "title": "DN-Series quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "DN-Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1561028/Renewaire-Dn-Series.html"
+  },
+  {
+   "manualId": "2367454",
+   "slug": "Renewaire-Doas-Dn-Series",
+   "title": "DN-Series Startup manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "DN-Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2367454/Renewaire-Doas-Dn-Series.html"
+  },
+  {
+   "manualId": "2143896",
+   "slug": "Renewaire-Dn-Series",
+   "title": "DN-Series Supplemental manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": "DN-Series",
+   "extraModels": [
+    "DN2RT",
+    "DN3RT",
+    "DN5RT"
+   ],
+   "url": "https://www.manualslib.com/manual/2143896/Renewaire-Dn-Series.html"
+  },
+  {
+   "manualId": "1481037",
+   "slug": "Renewaire-Ek-Series",
+   "title": "EK Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "EK Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1481037/Renewaire-Ek-Series.html"
+  },
+  {
+   "manualId": "1655786",
+   "slug": "Renewaire-Ek-Series",
+   "title": "EK Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "EK Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1655786/Renewaire-Ek-Series.html"
+  },
+  {
+   "manualId": "1894710",
+   "slug": "Renewaire-Ev-Premium-Erv-Series",
+   "title": "EV Premium L Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "EV Premium L",
+   "extraModels": [
+    "EV Premium L",
+    "EV Premium M"
+   ],
+   "url": "https://www.manualslib.com/manual/1894710/Renewaire-Ev-Premium-Erv-Series.html"
+  },
+  {
+   "manualId": "3386703",
+   "slug": "Renewaire-Ev-Series",
+   "title": "EV Premium L Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "EV Premium L",
+   "extraModels": [
+    "EV Premium L",
+    "EV Premium LH",
+    "EV Premium M",
+    "EV Premium MH",
+    "EV Premium S",
+    "EV Premium SH",
+    "EV Premium X",
+    "EV Premium XH"
+   ],
+   "url": "https://www.manualslib.com/manual/3386703/Renewaire-Ev-Series.html"
+  },
+  {
+   "manualId": "4649706",
+   "slug": "Renewaire-Ev-Premium-Series",
+   "title": "EV Premium Series Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "EV Premium Series",
+   "extraModels": [
+    "HE05",
+    "SL Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4649706/Renewaire-Ev-Premium-Series.html"
+  },
+  {
+   "manualId": "1957741",
+   "slug": "Renewaire-Ev-Series",
+   "title": "EV Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "EV Series",
+   "extraModels": [
+    "EV450-RT ECM"
+   ],
+   "url": "https://www.manualslib.com/manual/1957741/Renewaire-Ev-Series.html"
+  },
+  {
+   "manualId": "1977651",
+   "slug": "Renewaire-Ev-Series",
+   "title": "EV Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "EV Series",
+   "extraModels": [
+    "EV450IN"
+   ],
+   "url": "https://www.manualslib.com/manual/1977651/Renewaire-Ev-Series.html"
+  },
+  {
+   "manualId": "2900418",
+   "slug": "Renewaire-Ev-Series",
+   "title": "EV Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "EV Series",
+   "extraModels": [
+    "EV130 SERIES",
+    "EV200 SERIES",
+    "EV240 SERIES",
+    "EV300 SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/2900418/Renewaire-Ev-Series.html"
+  },
+  {
+   "manualId": "2913309",
+   "slug": "Renewaire-Ev130",
+   "title": "EV130 SERIES Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "EV130 SERIES",
+   "extraModels": [
+    "EV200 SERIES",
+    "EV300 SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/2913309/Renewaire-Ev130.html"
+  },
+  {
+   "manualId": "2345040",
+   "slug": "Renewaire-Ev130",
+   "title": "EV130 SERIES Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "EV130 SERIES",
+   "extraModels": [
+    "EV200 SERIES",
+    "EV240 SERIES",
+    "EV300 SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/2345040/Renewaire-Ev130.html"
+  },
+  {
+   "manualId": "2483278",
+   "slug": "Renewaire-Ev450rt",
+   "title": "EV450-RT ECM Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "EV450-RT ECM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2483278/Renewaire-Ev450rt.html"
+  },
+  {
+   "manualId": "3445090",
+   "slug": "Renewaire-Ev450rt",
+   "title": "EV450-RT ECM Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "EV450-RT ECM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3445090/Renewaire-Ev450rt.html"
+  },
+  {
+   "manualId": "1176766",
+   "slug": "Renewaire-Ev450in",
+   "title": "EV450IN Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "EV450IN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1176766/Renewaire-Ev450in.html"
+  },
+  {
+   "manualId": "3530108",
+   "slug": "Renewaire-Ev450in",
+   "title": "EV450IN Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "EV450IN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3530108/Renewaire-Ev450in.html"
+  },
+  {
+   "manualId": "3089491",
+   "slug": "Renewaire-90-Series",
+   "title": "EV90 SERIES Installation and operation manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": "EV90 SERIES",
+   "extraModels": [
+    "EV90 SERIES",
+    "EV90P SERIES",
+    "GR90 SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/3089491/Renewaire-90-Series.html"
+  },
+  {
+   "manualId": "1244212",
+   "slug": "Renewaire-Gr90",
+   "title": "EV90 SERIES Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "EV90 SERIES",
+   "extraModels": [
+    "EV90 SERIES",
+    "EV90P SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/1244212/Renewaire-Gr90.html"
+  },
+  {
+   "manualId": "1550895",
+   "slug": "Renewaire-Br70-Series",
+   "title": "EV90 SERIES Manual Specifications",
+   "type": "Other",
+   "pages": 3,
+   "productModel": "EV90 SERIES",
+   "extraModels": [
+    "EV90 SERIES",
+    "EV90P SERIES",
+    "GR90 SERIES",
+    "BR130 SERIES",
+    "EV130 SERIES",
+    "EV200 SERIES",
+    "EV240 SERIES",
+    "EV300 SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/1550895/Renewaire-Br70-Series.html"
+  },
+  {
+   "manualId": "2961385",
+   "slug": "Renewaire-Br-Series",
+   "title": "EV90 SERIES quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "EV90 SERIES",
+   "extraModels": [
+    "EV90 SERIES",
+    "EV90P SERIES",
+    "GR90 SERIES",
+    "EV Series",
+    "BR130 SERIES",
+    "BR70 SERIES",
+    "EV130 SERIES",
+    "EV200 SERIES",
+    "EV240 SERIES",
+    "EV300 SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/2961385/Renewaire-Br-Series.html"
+  },
+  {
+   "manualId": "1646524",
+   "slug": "Renewaire-Gh-Series",
+   "title": "GH Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "GH Series",
+   "extraModels": [
+    "GH-050",
+    "GH-075",
+    "GH-100",
+    "GH-125",
+    "GH-150",
+    "GH-175",
+    "GH-200",
+    "GH-250",
+    "GH-300",
+    "GH-350",
+    "GH-400"
+   ],
+   "url": "https://www.manualslib.com/manual/1646524/Renewaire-Gh-Series.html"
+  },
+  {
+   "manualId": "1897739",
+   "slug": "Renewaire-He-Erv-Series",
+   "title": "HE ERV Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "HE ERV Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1897739/Renewaire-He-Erv-Series.html"
+  },
+  {
+   "manualId": "2131226",
+   "slug": "Renewaire-He-Series-Erv",
+   "title": "HE ERV Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "HE ERV Series",
+   "extraModels": [
+    "HE ERV Series",
+    "HE1.5XINH",
+    "HE1.5XINV"
+   ],
+   "url": "https://www.manualslib.com/manual/2131226/Renewaire-He-Series-Erv.html"
+  },
+  {
+   "manualId": "2035719",
+   "slug": "Renewaire-He-Series",
+   "title": "HE Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "HE Series",
+   "extraModels": [
+    "HE3XRTF",
+    "HE3XRTH",
+    "HE3XRTR",
+    "HE3XRTV"
+   ],
+   "url": "https://www.manualslib.com/manual/2035719/Renewaire-He-Series.html"
+  },
+  {
+   "manualId": "2088208",
+   "slug": "Renewaire-He-Series",
+   "title": "HE Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "HE Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2088208/Renewaire-He-Series.html"
+  },
+  {
+   "manualId": "2140023",
+   "slug": "Renewaire-He-Erv-Series",
+   "title": "HE Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "HE Series",
+   "extraModels": [
+    "HE Series",
+    "HE1XRT",
+    "HE1.5XRT",
+    "HE1.5JRT"
+   ],
+   "url": "https://www.manualslib.com/manual/2140023/Renewaire-He-Erv-Series.html"
+  },
+  {
+   "manualId": "2405175",
+   "slug": "Renewaire-He-Series",
+   "title": "HE Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "HE Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2405175/Renewaire-He-Series.html"
+  },
+  {
+   "manualId": "2616038",
+   "slug": "Renewaire-He-Series",
+   "title": "HE Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 104,
+   "productModel": "HE Series",
+   "extraModels": [
+    "EV450",
+    "HE-2X",
+    "HE-3X",
+    "HE-4X",
+    "HE-6X",
+    "HE-8X",
+    "HE1.6",
+    "HE1X",
+    "LE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2616038/Renewaire-He-Series.html"
+  },
+  {
+   "manualId": "2884556",
+   "slug": "Renewaire-He-Series",
+   "title": "HE Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 152,
+   "productModel": "HE Series",
+   "extraModels": [
+    "RD Series",
+    "EV450",
+    "LE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2884556/Renewaire-He-Series.html"
+  },
+  {
+   "manualId": "3132263",
+   "slug": "Renewaire-He2xrth",
+   "title": "HE Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "HE Series",
+   "extraModels": [
+    "HE Series",
+    "HE2XRTF",
+    "HE2XRTR",
+    "HE2XRTV"
+   ],
+   "url": "https://www.manualslib.com/manual/3132263/Renewaire-He2xrth.html"
+  },
+  {
+   "manualId": "3348834",
+   "slug": "Renewaire-He-Series",
+   "title": "HE Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "HE Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3348834/Renewaire-He-Series.html"
+  },
+  {
+   "manualId": "3461813",
+   "slug": "Renewaire-He-Series",
+   "title": "HE Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "HE Series",
+   "extraModels": [
+    "HE-6X",
+    "HE-8X",
+    "HE6XIN",
+    "HE6XRT",
+    "HE8XIN",
+    "HE8XRTF",
+    "HE8XRTH",
+    "HE8XRTR",
+    "HE8XRTV"
+   ],
+   "url": "https://www.manualslib.com/manual/3461813/Renewaire-He-Series.html"
+  },
+  {
+   "manualId": "3462189",
+   "slug": "Renewaire-He4xrth",
+   "title": "HE Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "HE Series",
+   "extraModels": [
+    "HE Series",
+    "HE4XRTF",
+    "HE4XRTR",
+    "HE4XRTV"
+   ],
+   "url": "https://www.manualslib.com/manual/3462189/Renewaire-He4xrth.html"
+  },
+  {
+   "manualId": "3480876",
+   "slug": "Renewaire-He-Series",
+   "title": "HE Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "HE Series",
+   "extraModels": [
+    "HE2XRTC",
+    "HE3XRTC",
+    "HE4XRTC"
+   ],
+   "url": "https://www.manualslib.com/manual/3480876/Renewaire-He-Series.html"
+  },
+  {
+   "manualId": "3691820",
+   "slug": "Renewaire-He-Series",
+   "title": "HE Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "HE Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3691820/Renewaire-He-Series.html"
+  },
+  {
+   "manualId": "2375294",
+   "slug": "Renewaire-He-Series",
+   "title": "HE Series Supplemental Installation Manual For Options",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "HE Series",
+   "extraModels": [
+    "HE1X-IN ECM"
+   ],
+   "url": "https://www.manualslib.com/manual/2375294/Renewaire-He-Series.html"
+  },
+  {
+   "manualId": "3946586",
+   "slug": "Renewaire-He05in",
+   "title": "HE05IN Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "HE05IN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3946586/Renewaire-He05in.html"
+  },
+  {
+   "manualId": "3313213",
+   "slug": "Renewaire-He07",
+   "title": "HE07 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "HE07",
+   "extraModels": [
+    "HE07IN",
+    "HE07RT",
+    "HE1.5X",
+    "HE10IN",
+    "HE10RT"
+   ],
+   "url": "https://www.manualslib.com/manual/3313213/Renewaire-He07.html"
+  },
+  {
+   "manualId": "3376827",
+   "slug": "Renewaire-He07",
+   "title": "HE07 Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "HE07",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3376827/Renewaire-He07.html"
+  },
+  {
+   "manualId": "3930674",
+   "slug": "Renewaire-He07rt",
+   "title": "HE07RT Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "HE07RT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3930674/Renewaire-He07rt.html"
+  },
+  {
+   "manualId": "1244215",
+   "slug": "Renewaire-He1-5xin",
+   "title": "HE1.5XIN Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "HE1.5XIN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1244215/Renewaire-He1-5xin.html"
+  },
+  {
+   "manualId": "1906517",
+   "slug": "Renewaire-Ev450-In-Ecm",
+   "title": "HE1.5XIN Supplemental manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "HE1.5XIN",
+   "extraModels": [
+    "HE1.5XIN",
+    "HE1XRT",
+    "EV450-RT ECM",
+    "HE1.5XRT",
+    "HE1X-IN ECM"
+   ],
+   "url": "https://www.manualslib.com/manual/1906517/Renewaire-Ev450-In-Ecm.html"
+  },
+  {
+   "manualId": "2143230",
+   "slug": "Renewaire-Ev450",
+   "title": "HE1.5XIN Supplemental manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "HE1.5XIN",
+   "extraModels": [
+    "HE1.5XIN",
+    "HE1XRT",
+    "HE1.5X",
+    "HE1X",
+    "EV450-RT ECM",
+    "EV450IN",
+    "HE1.5XRT",
+    "HE1X-IN ECM"
+   ],
+   "url": "https://www.manualslib.com/manual/2143230/Renewaire-Ev450.html"
+  },
+  {
+   "manualId": "1517669",
+   "slug": "Renewaire-He1-5xrtv",
+   "title": "HE1.5XRT Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "HE1.5XRT",
+   "extraModels": [
+    "HE1.5XRTF",
+    "HE1.5XRTH",
+    "HE1.5XRTR"
+   ],
+   "url": "https://www.manualslib.com/manual/1517669/Renewaire-He1-5xrtv.html"
+  },
+  {
+   "manualId": "3928848",
+   "slug": "Renewaire-He10",
+   "title": "HE10 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 88,
+   "productModel": "HE10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3928848/Renewaire-He10.html"
+  },
+  {
+   "manualId": "3930675",
+   "slug": "Renewaire-He10rt",
+   "title": "HE10RT Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "HE10RT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3930675/Renewaire-He10rt.html"
+  },
+  {
+   "manualId": "3876073",
+   "slug": "Renewaire-He1xinh",
+   "title": "HE1XINH Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "HE1XINH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876073/Renewaire-He1xinh.html"
+  },
+  {
+   "manualId": "3876074",
+   "slug": "Renewaire-He1xinv",
+   "title": "HE1XINV Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "HE1XINV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876074/Renewaire-He1xinv.html"
+  },
+  {
+   "manualId": "3416077",
+   "slug": "Renewaire-He1xrt",
+   "title": "HE1XRT Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "HE1XRT",
+   "extraModels": [
+    "HE1XRTF",
+    "HE1XRTH",
+    "HE1XRTR",
+    "HE1XRTV"
+   ],
+   "url": "https://www.manualslib.com/manual/3416077/Renewaire-He1xrt.html"
+  },
+  {
+   "manualId": "1244218",
+   "slug": "Renewaire-He1xrt",
+   "title": "HE1XRT Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "HE1XRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1244218/Renewaire-He1xrt.html"
+  },
+  {
+   "manualId": "1488153",
+   "slug": "Renewaire-He1xrt",
+   "title": "HE1XRT Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "HE1XRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1488153/Renewaire-He1xrt.html"
+  },
+  {
+   "manualId": "3868277",
+   "slug": "Renewaire-He2xinh",
+   "title": "HE2XINH Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "HE2XINH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3868277/Renewaire-He2xinh.html"
+  },
+  {
+   "manualId": "3868278",
+   "slug": "Renewaire-He2xinv",
+   "title": "HE2XINV Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "HE2XINV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3868278/Renewaire-He2xinv.html"
+  },
+  {
+   "manualId": "1244214",
+   "slug": "Renewaire-He2xrt",
+   "title": "HE2XRT Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "HE2XRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1244214/Renewaire-He2xrt.html"
+  },
+  {
+   "manualId": "2035888",
+   "slug": "Renewaire-Rtc-Series",
+   "title": "HE2XRTC Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "HE2XRTC",
+   "extraModels": [
+    "HE2XRTC",
+    "HE3XRTC",
+    "HE4XRTC",
+    "HE1XRTC"
+   ],
+   "url": "https://www.manualslib.com/manual/2035888/Renewaire-Rtc-Series.html"
+  },
+  {
+   "manualId": "1244213",
+   "slug": "Renewaire-He3xinh",
+   "title": "HE3XINH Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "HE3XINH",
+   "extraModels": [
+    "HE4XINV"
+   ],
+   "url": "https://www.manualslib.com/manual/1244213/Renewaire-He3xinh.html"
+  },
+  {
+   "manualId": "2457713",
+   "slug": "Renewaire-He3xinv",
+   "title": "HE3XINV Installation and operation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "HE3XINV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2457713/Renewaire-He3xinv.html"
+  },
+  {
+   "manualId": "2660249",
+   "slug": "Renewaire-He3xrtv",
+   "title": "HE3XRTF Installation and operation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "HE3XRTF",
+   "extraModels": [
+    "HE3XRTF",
+    "HE3XRTH",
+    "HE3XRTR"
+   ],
+   "url": "https://www.manualslib.com/manual/2660249/Renewaire-He3xrtv.html"
+  },
+  {
+   "manualId": "3033263",
+   "slug": "Renewaire-He4xinh",
+   "title": "HE4XINH Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "HE4XINH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3033263/Renewaire-He4xinh.html"
+  },
+  {
+   "manualId": "3887931",
+   "slug": "Renewaire-He4xinv",
+   "title": "HE4XINV Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "HE4XINV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3887931/Renewaire-He4xinv.html"
+  },
+  {
+   "manualId": "2584846",
+   "slug": "Renewaire-He4xrt",
+   "title": "HE4XRT Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "HE4XRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2584846/Renewaire-He4xrt.html"
+  },
+  {
+   "manualId": "2174178",
+   "slug": "Renewaire-Hm-050",
+   "title": "HM-050 Supplemental Manual For Options",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "HM-050",
+   "extraModels": [
+    "HM-075",
+    "HM-100",
+    "HM-125",
+    "HM-150",
+    "HM-200",
+    "HM-250",
+    "HM-300",
+    "HM-350"
+   ],
+   "url": "https://www.manualslib.com/manual/2174178/Renewaire-Hm-050.html"
+  },
+  {
+   "manualId": "2870249",
+   "slug": "Renewaire-Breeze-Br70",
+   "title": "Installation and operation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2870249/Renewaire-Breeze-Br70.html"
+  },
+  {
+   "manualId": "2892914",
+   "slug": "Renewaire-Sl70h",
+   "title": "instruction sheet",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2892914/Renewaire-Sl70h.html"
+  },
+  {
+   "manualId": "1619414",
+   "slug": "Renewaire-Le8xin-Series",
+   "title": "LE-8X*INH Series Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "LE-8X*INH Series",
+   "extraModels": [
+    "LE-8X*INH Series",
+    "LE-8X*INV Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1619414/Renewaire-Le8xin-Series.html"
+  },
+  {
+   "manualId": "1990804",
+   "slug": "Renewaire-Le6-Series",
+   "title": "LE-8X*INH Series SHIPPING, RIGGING, HOISTING AND ASSEMBLY MANUAL",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "LE-8X*INH Series",
+   "extraModels": [
+    "LE-8X*INH Series",
+    "LE-8X*INV Series",
+    "LE10XINH",
+    "LE10XINV",
+    "LE10XRT",
+    "LE6XINH",
+    "LE6XINV",
+    "LE8XRT Series",
+    "LE8 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1990804/Renewaire-Le6-Series.html"
+  },
+  {
+   "manualId": "3872215",
+   "slug": "Renewaire-Le10-Series",
+   "title": "LE10 Series SHIPPING, RIGGING, HOISTING AND ASSEMBLY MANUAL",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "LE10 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3872215/Renewaire-Le10-Series.html"
+  },
+  {
+   "manualId": "2317072",
+   "slug": "Renewaire-Le10xin",
+   "title": "LE10XIN Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "LE10XIN",
+   "extraModels": [
+    "LE10XINH",
+    "LE10XINV"
+   ],
+   "url": "https://www.manualslib.com/manual/2317072/Renewaire-Le10xin.html"
+  },
+  {
+   "manualId": "1645413",
+   "slug": "Renewaire-Le8xrt-Series",
+   "title": "LE10XRT Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "LE10XRT",
+   "extraModels": [
+    "LE10XRT",
+    "LE6XIN  Series",
+    "LE6XINH",
+    "LE6XINV",
+    "LE8XRTF",
+    "LE8XRTH",
+    "LE8XRTR",
+    "LE8XRTV"
+   ],
+   "url": "https://www.manualslib.com/manual/1645413/Renewaire-Le8xrt-Series.html"
+  },
+  {
+   "manualId": "2721906",
+   "slug": "Renewaire-Le10xrth",
+   "title": "LE10XRT Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "LE10XRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2721906/Renewaire-Le10xrth.html"
+  },
+  {
+   "manualId": "2245700",
+   "slug": "Renewaire-Le10xrt",
+   "title": "LE10XRT Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "LE10XRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2245700/Renewaire-Le10xrt.html"
+  },
+  {
+   "manualId": "3872216",
+   "slug": "Renewaire-Le6xrt",
+   "title": "LE6XRT SHIPPING, RIGGING, HOISTING AND ASSEMBLY MANUAL",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "LE6XRT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3872216/Renewaire-Le6xrt.html"
+  },
+  {
+   "manualId": "2387364",
+   "slug": "Renewaire-Le6xrth",
+   "title": "LE6XRTH Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "LE6XRTH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2387364/Renewaire-Le6xrth.html"
+  },
+  {
+   "manualId": "4644231",
+   "slug": "Renewaire-Lenze-I510-Protec-Vfd",
+   "title": "Lenze i510 protec VFD Supplemental manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "Lenze i510 protec VFD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4644231/Renewaire-Lenze-I510-Protec-Vfd.html"
+  },
+  {
+   "manualId": "3649314",
+   "slug": "Renewaire-Pa6x",
+   "title": "PA12X Assembly and operation manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "PA12X",
+   "extraModels": [
+    "PA12X",
+    "PA8X",
+    "PA9X"
+   ],
+   "url": "https://www.manualslib.com/manual/3649314/Renewaire-Pa6x.html"
+  },
+  {
+   "manualId": "1943560",
+   "slug": "Renewaire-Pa-Erv-Series",
+   "title": "PA12X Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "PA12X",
+   "extraModels": [
+    "PA12X",
+    "PA6X",
+    "PA8X",
+    "PA9X"
+   ],
+   "url": "https://www.manualslib.com/manual/1943560/Renewaire-Pa-Erv-Series.html"
+  },
+  {
+   "manualId": "2102307",
+   "slug": "Renewaire-Rd-Series",
+   "title": "RD Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "RD Series",
+   "extraModels": [
+    "RD2XIN RA",
+    "RD2XRT FA",
+    "RD2XRT RA",
+    "RD4XIN FA",
+    "RD4XIN RA",
+    "RD4XRT FA",
+    "RD4XRT RA"
+   ],
+   "url": "https://www.manualslib.com/manual/2102307/Renewaire-Rd-Series.html"
+  },
+  {
+   "manualId": "3876517",
+   "slug": "Renewaire-Rd2xin-Fa",
+   "title": "RD2XIN FA Installation and operation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "RD2XIN FA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3876517/Renewaire-Rd2xin-Fa.html"
+  },
+  {
+   "manualId": "4242722",
+   "slug": "renewaire-ev450in-erv-installation-and-operation-manual",
+   "title": "RenewAire EV450IN ERV Installation & Operation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4242722/renewaire-ev450in-erv-installation-and-operation-manual.html"
+  },
+  {
+   "manualId": "4244541",
+   "slug": "renewaire-he-series-rtc-rooftop-erv-installation-manual",
+   "title": "RenewAire HE Series RTC Rooftop ERV Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4244541/renewaire-he-series-rtc-rooftop-erv-installation-manual.html"
+  },
+  {
+   "manualId": "1992260",
+   "slug": "Renewaire-Rh-Series",
+   "title": "RH Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "RH Series",
+   "extraModels": [
+    "RH-D Series",
+    "RH-W Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1992260/Renewaire-Rh-Series.html"
+  },
+  {
+   "manualId": "1572394",
+   "slug": "Renewaire-Rh-D-Series",
+   "title": "RH-D Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "RH-D Series",
+   "extraModels": [
+    "RH-D TER-10-10240",
+    "RH-D TER-10-12240",
+    "RH-D TER-10-3208",
+    "RH-D TER-10-3240",
+    "RH-D TER-10-4208",
+    "RH-D TER-10-4240",
+    "RH-D TER-10-5208",
+    "RH-D TER-10-5240",
+    "RH-D TER-10-6240",
+    "RH-D TER-10-8240",
+    "RH-D TER-12-10240",
+    "RH-D TER-12-12240",
+    "RH-D TER-12-6240",
+    "RH-D TER-12-8240",
+    "RH-D TER-6-1120",
+    "RH-D TER-6-1208",
+    "RH-D TER-6-1240",
+    "RH-D TER-6-2120",
+    "RH-D TER-6-2208",
+    "RH-D TER-6-2240",
+    "RH-D TER-8-3208",
+    "RH-D TER-8-3240",
+    "RH-D TER-8-4208",
+    "RH-D TER-8-4240",
+    "RH-D TER-8-5208",
+    "RH-D TER-8-5240",
+    "RH-D TER-8-6240",
+    "RH-W Series",
+    "RH-W ZON-10-10240",
+    "RH-W ZON-10-12240",
+    "RH-W ZON-10-3208",
+    "RH-W ZON-10-3240",
+    "RH-W ZON-10-4208",
+    "RH-W ZON-10-4240",
+    "RH-W ZON-10-5208",
+    "RH-W ZON-10-5240",
+    "RH-W ZON-10-6240",
+    "RH-W ZON-10-8240",
+    "RH-W ZON-12-10240",
+    "RH-W ZON-12-12240",
+    "RH-W ZON-12-6240",
+    "RH-W ZON-12-8240",
+    "RH-W ZON-6-1120",
+    "RH-W ZON-6-1208",
+    "RH-W ZON-6-1240",
+    "RH-W ZON-6-2120",
+    "RH-W ZON-6-2208",
+    "RH-W ZON-6-2240",
+    "RH-W ZON-8-3208",
+    "RH-W ZON-8-3240",
+    "RH-W ZON-8-4208",
+    "RH-W ZON-8-4240",
+    "RH-W ZON-8-5208",
+    "RH-W ZON-8-5240",
+    "RH-W ZON-8-6240"
+   ],
+   "url": "https://www.manualslib.com/manual/1572394/Renewaire-Rh-D-Series.html"
+  },
+  {
+   "manualId": "2604900",
+   "slug": "Renewaire-Sl-Series",
+   "title": "SL Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "SL Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2604900/Renewaire-Sl-Series.html"
+  },
+  {
+   "manualId": "3895418",
+   "slug": "Renewaire-Sl75",
+   "title": "SL75 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "SL75",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3895418/Renewaire-Sl75.html"
+  },
+  {
+   "manualId": "3895419",
+   "slug": "Renewaire-Sl75h",
+   "title": "SL75H Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "SL75H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3895419/Renewaire-Sl75h.html"
+  },
+  {
+   "manualId": "3413817",
+   "slug": "Renewaire-Bacnetfc-W",
+   "title": "Supplemental Installation & Operation Manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3413817/Renewaire-Bacnetfc-W.html"
+  },
+  {
+   "manualId": "2599716",
+   "slug": "Renewaire-Tc7d-Series",
+   "title": "TC7D Series installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "TC7D Series",
+   "extraModels": [
+    "TC7D-E",
+    "TC7D-W"
+   ],
+   "url": "https://www.manualslib.com/manual/2599716/Renewaire-Tc7d-Series.html"
+  },
+  {
+   "manualId": "1639332",
+   "slug": "Renewaire-Tc7d-Series",
+   "title": "TC7D Series Supplemental Installation Manual For Accessories",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "TC7D Series",
+   "extraModels": [
+    "TC7D-E",
+    "TC7D-W"
+   ],
+   "url": "https://www.manualslib.com/manual/1639332/Renewaire-Tc7d-Series.html"
+  },
+  {
+   "manualId": "1777915",
+   "slug": "Renewaire-V80",
+   "title": "V110 Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "V110",
+   "extraModels": [
+    "V110",
+    "V50"
+   ],
+   "url": "https://www.manualslib.com/manual/1777915/Renewaire-V80.html"
+  },
+  {
+   "manualId": "2834653",
+   "slug": "Renewaire-V150",
+   "title": "V150 Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 11,
+   "productModel": "V150",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2834653/Renewaire-V150.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4244541",
+   "slug": "renewaire-he-series-rtc-rooftop-erv-installation-manual",
+   "title": "RenewAire HE Series RTC Rooftop ERV Installation Manual"
+  },
+  {
+   "manualId": "4242722",
+   "slug": "renewaire-ev450in-erv-installation-and-operation-manual",
+   "title": "RenewAire EV450IN ERV Installation & Operation Manual"
+  }
+ ],
+ "techDirectIds": [
+  "renewaire"
+ ]
+}

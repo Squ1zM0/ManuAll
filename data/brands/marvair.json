@@ -1,0 +1,513 @@
+{
+ "brand": "Marvair",
+ "brandSlug": "marvair",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/marvair/"
+ ],
+ "slugUsed": "marvair",
+ "capturedAt": "2026-10-28T08:35:12.613567+00:00",
+ "typePages": [
+  {
+   "path": "/brand/marvair/air-conditioner.html",
+   "manuals": 146,
+   "status": 200
+  },
+  {
+   "path": "/brand/marvair/controller.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/marvair/heat-pump.html",
+   "manuals": 102,
+   "status": 200
+  },
+  {
+   "path": "/brand/marvair/thermostat.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2065987",
+   "slug": "Marvair-8aa1024a",
+   "title": "8AA1024A Installation & operation manual",
+   "type": "Installation",
+   "pages": 53,
+   "productModel": "8AA1024A",
+   "extraModels": [
+    "8AA1030A",
+    "8AA1036A",
+    "8AA1042A",
+    "8AA1048A",
+    "8AA1060A",
+    "8AA2036A",
+    "8AA2042A",
+    "8AA2048A",
+    "8AA2060A"
+   ],
+   "url": "https://www.manualslib.com/manual/2065987/Marvair-8aa1024a.html"
+  },
+  {
+   "manualId": "3108539",
+   "slug": "Marvair-8aa1024h",
+   "title": "8AA1024H Installation & operation manual",
+   "type": "Installation",
+   "pages": 59,
+   "productModel": "8AA1024H",
+   "extraModels": [
+    "8AA1030H",
+    "8AA1036H",
+    "8AA1042H",
+    "8AA1048H",
+    "8AA1060H",
+    "8AA2024H",
+    "8AA2030H",
+    "8AA2036H",
+    "8AA2042H",
+    "8AA2048H",
+    "8AA2060H"
+   ],
+   "url": "https://www.manualslib.com/manual/3108539/Marvair-8aa1024h.html"
+  },
+  {
+   "manualId": "862745",
+   "slug": "Marvair-Avg24",
+   "title": "AVG24 installation instructions manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "AVG24",
+   "extraModels": [
+    "AVG30",
+    "AVG36",
+    "AVG42",
+    "AVG48",
+    "AVG60"
+   ],
+   "url": "https://www.manualslib.com/manual/862745/Marvair-Avg24.html"
+  },
+  {
+   "manualId": "930838",
+   "slug": "Marvair-Avg24",
+   "title": "AVG24 User information",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "AVG24",
+   "extraModels": [
+    "AVG30",
+    "AVG36",
+    "AVG42",
+    "AVG48",
+    "AVG60"
+   ],
+   "url": "https://www.manualslib.com/manual/930838/Marvair-Avg24.html"
+  },
+  {
+   "manualId": "1336367",
+   "slug": "Marvair-Avpa-12-Series",
+   "title": "AVHA 12 series Installation & operation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "AVHA 12 series",
+   "extraModels": [
+    "AVHA 12 series",
+    "AVHA 20 series",
+    "AVHA 24 series",
+    "AVHA 30 series",
+    "AVHA 36 series",
+    "AVHA 42 series",
+    "AVHA 48 series",
+    "AVHA 60 series",
+    "AVPA 20 series",
+    "AVPA 24 series",
+    "AVPA 30 series",
+    "AVPA 36 series",
+    "AVPA 42 series",
+    "AVPA 48 series",
+    "AVPA 60 series",
+    "AVPA 72 series",
+    "HVEA 24 series",
+    "HVEA 30 series",
+    "HVEA 36 series",
+    "HVEA 42 series",
+    "HVEA 49 series",
+    "HVEA 60 series",
+    "HVESA 36 series",
+    "HVESA 42 series",
+    "HVESA 49 series",
+    "HVESA 60 series"
+   ],
+   "url": "https://www.manualslib.com/manual/1336367/Marvair-Avpa-12-Series.html"
+  },
+  {
+   "manualId": "3103253",
+   "slug": "Marvair-Avhsa72",
+   "title": "AVHA 12 series Installation & operation manual",
+   "type": "Installation",
+   "pages": 45,
+   "productModel": "AVHA 12 series",
+   "extraModels": [
+    "AVHA 12 series",
+    "AVHA 20 series",
+    "AVHA 24 series",
+    "AVHA 30 series",
+    "AVHA 36 series",
+    "AVHA 42 series",
+    "AVHA 48 series",
+    "AVHA 60 series",
+    "AVPA 12 series",
+    "AVPA 20 series",
+    "AVPA 24 series",
+    "AVPA 30 series",
+    "AVPA 36 series",
+    "AVPA 42 series",
+    "AVPA 48 series",
+    "AVPA 60 series",
+    "AVPA 72 series",
+    "HVEA 24 series",
+    "HVEA 30 series",
+    "HVEA 36 series",
+    "HVEA 42 series",
+    "HVEA 49 series",
+    "HVEA 60 series",
+    "HVESA 36 series",
+    "HVESA 42 series",
+    "HVESA 49 series",
+    "HVESA 60 series"
+   ],
+   "url": "https://www.manualslib.com/manual/3103253/Marvair-Avhsa72.html"
+  },
+  {
+   "manualId": "638229",
+   "slug": "Marvair-Modpac-Ii",
+   "title": "AVP 24 Installation and operation manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "AVP 24",
+   "extraModels": [
+    "AVP 24",
+    "AVP 30",
+    "AVP 36",
+    "AVP 42",
+    "AVP 48",
+    "AVP 60",
+    "AVPA 24 series",
+    "AVPA 30 series",
+    "AVPA 36 series",
+    "AVPA 42 series",
+    "AVPA 48 series",
+    "AVPA 60 series"
+   ],
+   "url": "https://www.manualslib.com/manual/638229/Marvair-Modpac-Ii.html"
+  },
+  {
+   "manualId": "1379418",
+   "slug": "Marvair-Avpa-12",
+   "title": "AVPA 12 series Installation & operation manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "AVPA 12 series",
+   "extraModels": [
+    "AVPA 20 series",
+    "AVPA 24 series",
+    "AVPA 30 series",
+    "AVPA 36 series",
+    "AVPA 42 series",
+    "AVPA 48 series",
+    "AVPA 60 series"
+   ],
+   "url": "https://www.manualslib.com/manual/1379418/Marvair-Avpa-12.html"
+  },
+  {
+   "manualId": "579298",
+   "slug": "Marvair-Avpa24",
+   "title": "AVPA 24 series Operation manual",
+   "type": "Other",
+   "pages": 46,
+   "productModel": "AVPA 24 series",
+   "extraModels": [
+    "AVPA 30 series",
+    "AVPA 36 series",
+    "AVPA 42 series",
+    "AVPA 48 series",
+    "AVPA 60 series",
+    "AVPA30",
+    "AVPA42",
+    "HVPA 24",
+    "HVPA 30",
+    "HVPA 36",
+    "HVPA 42",
+    "HVPA 49",
+    "HVPA 60",
+    "HVPA24",
+    "HVPA30",
+    "HVPA36",
+    "HVPA42",
+    "HVPA49",
+    "HVPA60",
+    "HVPSA36",
+    "HVPSA42",
+    "HVPSA49",
+    "HVPSA60"
+   ],
+   "url": "https://www.manualslib.com/manual/579298/Marvair-Avpa24.html"
+  },
+  {
+   "manualId": "809228",
+   "slug": "Marvair-Avpa12-20-24-30-36-42-48-60",
+   "title": "AVPA12-20-24-30-36-42-48-60 instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "AVPA12-20-24-30-36-42-48-60",
+   "extraModels": [
+    "AVPA30",
+    "AVPA36",
+    "AVPA42",
+    "AVPA48",
+    "AVPA60",
+    "ModPac II AVPA12",
+    "ModPac II AVPA20"
+   ],
+   "url": "https://www.manualslib.com/manual/809228/Marvair-Avpa12-20-24-30-36-42-48-60.html"
+  },
+  {
+   "manualId": "3818348",
+   "slug": "Marvair-Avpa36",
+   "title": "AVPA36 Operation manual",
+   "type": "Other",
+   "pages": 46,
+   "productModel": "AVPA36",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3818348/Marvair-Avpa36.html"
+  },
+  {
+   "manualId": "3818346",
+   "slug": "Marvair-Avpa48",
+   "title": "AVPA48 Operation manual",
+   "type": "Other",
+   "pages": 46,
+   "productModel": "AVPA48",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3818346/Marvair-Avpa48.html"
+  },
+  {
+   "manualId": "3818347",
+   "slug": "Marvair-Avpa60",
+   "title": "AVPA60 Operation manual",
+   "type": "Other",
+   "pages": 46,
+   "productModel": "AVPA60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3818347/Marvair-Avpa60.html"
+  },
+  {
+   "manualId": "1450936",
+   "slug": "Marvair-Classic-Avha36hpa",
+   "title": "Classic AVHA36HPA Installation & operation manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "Classic AVHA36HPA",
+   "extraModels": [
+    "Classic AVHA36HPC",
+    "Classic AVHA36HPD",
+    "Classic AVHA42HPA",
+    "Classic AVHA42HPC",
+    "Classic AVHA42HPD",
+    "Classic AVHA48HPA",
+    "Classic AVHA48HPC",
+    "Classic AVHA48HPD",
+    "Classic AVHA60HPA",
+    "Classic AVHA60HPC",
+    "Classic AVHA60HPD"
+   ],
+   "url": "https://www.manualslib.com/manual/1450936/Marvair-Classic-Avha36hpa.html"
+  },
+  {
+   "manualId": "1103292",
+   "slug": "Marvair-Compac-I-Avp24",
+   "title": "ComPac I AVP24 product manual",
+   "type": "Other",
+   "pages": 38,
+   "productModel": "ComPac I AVP24",
+   "extraModels": [
+    "ComPac I AVP30",
+    "ComPac I AVP36",
+    "ComPac I AVP42",
+    "ComPac I AVP48",
+    "ComPac I AVP60",
+    "ComPac I AVP72",
+    "ComPac II AVP24",
+    "ComPac II AVP30",
+    "ComPac II AVP36",
+    "ComPac II AVP42",
+    "ComPac II AVP48",
+    "ComPac II AVP60",
+    "ComPac II AVP72"
+   ],
+   "url": "https://www.manualslib.com/manual/1103292/Marvair-Compac-I-Avp24.html"
+  },
+  {
+   "manualId": "2055830",
+   "slug": "Marvair-Coollinks-Nextgen",
+   "title": "CoolLinks NextGen Installation & operation manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "CoolLinks NextGen",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2055830/Marvair-Coollinks-Nextgen.html"
+  },
+  {
+   "manualId": "2985507",
+   "slug": "Marvair-Ela07acb",
+   "title": "ELA07ACB operating manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "ELA07ACB",
+   "extraModels": [
+    "ELA07RCW",
+    "ELA12ACB",
+    "ELA12ACW"
+   ],
+   "url": "https://www.manualslib.com/manual/2985507/Marvair-Ela07acb.html"
+  },
+  {
+   "manualId": "1551909",
+   "slug": "Marvair-Geoscholar-Series",
+   "title": "GeoScholar Series Manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "GeoScholar Series",
+   "extraModels": [
+    "GeoScholar VWCA",
+    "GeoScholar VWCSA",
+    "GeoScholar VWIA",
+    "GeoScholar VWISA"
+   ],
+   "url": "https://www.manualslib.com/manual/1551909/Marvair-Geoscholar-Series.html"
+  },
+  {
+   "manualId": "2360278",
+   "slug": "Marvair-Maa1018a",
+   "title": "MAA1018A Installation & operation manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "MAA1018A",
+   "extraModels": [
+    "MAA1060A",
+    "MAA2060A",
+    "MAA2072A",
+    "MGA1072A",
+    "MGA2072A"
+   ],
+   "url": "https://www.manualslib.com/manual/2360278/Marvair-Maa1018a.html"
+  },
+  {
+   "manualId": "2280697",
+   "slug": "Marvair-Maa1018a-Maa1060a",
+   "title": "MAA1018A-MAA1060A Installation & operation manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "MAA1018A-MAA1060A",
+   "extraModels": [
+    "MAA2060A-MGA2072A",
+    "MGA1072A"
+   ],
+   "url": "https://www.manualslib.com/manual/2280697/Marvair-Maa1018a-Maa1060a.html"
+  },
+  {
+   "manualId": "2360303",
+   "slug": "Marvair-Maa1020h-Maa1024h-Maa1030h",
+   "title": "MAA1020H-MAA1024H MAA1030H product manual",
+   "type": "Other",
+   "pages": 51,
+   "productModel": "MAA1020H-MAA1024H MAA1030H",
+   "extraModels": [
+    "MAA1036H",
+    "MAA1042H",
+    "MAA1048H",
+    "MGA1072H"
+   ],
+   "url": "https://www.manualslib.com/manual/2360303/Marvair-Maa1020h-Maa1024h-Maa1030h.html"
+  },
+  {
+   "manualId": "2333488",
+   "slug": "Marvair-Maa1042h",
+   "title": "MAA1042H Installation & operation manual",
+   "type": "Installation",
+   "pages": 51,
+   "productModel": "MAA1042H",
+   "extraModels": [
+    "MAA1048H",
+    "MAA1060H",
+    "MAA2048H",
+    "MAA2060H",
+    "MMA2042H"
+   ],
+   "url": "https://www.manualslib.com/manual/2333488/Marvair-Maa1042h.html"
+  },
+  {
+   "manualId": "1587262",
+   "slug": "Marvair-Mar7000",
+   "title": "MAR7000 Product Data Sheet",
+   "type": "Other",
+   "pages": 22,
+   "productModel": "MAR7000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1587262/Marvair-Mar7000.html"
+  },
+  {
+   "manualId": "614145",
+   "slug": "Marvair-Marine-Smm05acp",
+   "title": "Marine SMM05ACP owner's manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "Marine SMM05ACP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/614145/Marvair-Marine-Smm05acp.html"
+  },
+  {
+   "manualId": "876978",
+   "slug": "Marvair-Srd14acr",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/876978/Marvair-Srd14acr.html"
+  },
+  {
+   "manualId": "1614161",
+   "slug": "Marvair-Scholar-Iii-Vaisa",
+   "title": "Scholar III VAISA Installation and start-up instructions manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "Scholar III VAISA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1614161/Marvair-Scholar-Iii-Vaisa.html"
+  },
+  {
+   "manualId": "1614159",
+   "slug": "Marvair-Scholar-Qv-Vaca",
+   "title": "Scholar QV VACA Installation and start-up instructions manual",
+   "type": "Installation",
+   "pages": 67,
+   "productModel": "Scholar QV VACA",
+   "extraModels": [
+    "Scholar QV VACSA",
+    "Scholar QV VAHA",
+    "Scholar QV VAHSA"
+   ],
+   "url": "https://www.manualslib.com/manual/1614159/Marvair-Scholar-Qv-Vaca.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "marvair"
+ ]
+}

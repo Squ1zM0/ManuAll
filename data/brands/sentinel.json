@@ -1,0 +1,1576 @@
+{
+ "brand": "Sentinel",
+ "brandSlug": "sentinel",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/sentinel/"
+ ],
+ "slugUsed": "sentinel",
+ "capturedAt": "2026-10-28T09:21:18.439750+00:00",
+ "typePages": [
+  {
+   "path": "/brand/sentinel/air-cleaner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/automobile-accessories.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/beverage-dispenser.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/boiler.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/cables-and-connectors.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/cash-counter.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/coffee-maker.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/commercial-food-equipment.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/control-unit.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/controller.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/dc-drives.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/desktop.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/drones.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/dvr.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/food-processor.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/food-warmer.html",
+   "manuals": 15,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/heater.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/heating-system.html",
+   "manuals": 15,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/industrial-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/intercom-system.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/jacks.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/keypad.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/kitchen-appliances.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/laboratory-equipment.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/lawn-mower.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/locks.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/marine-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/measuring-instruments.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/meat-grinder.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/microwave-oven.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/mixer.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/monitor.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/paper-shredder.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/payment-terminal.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/portable-generator.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/projector.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/protection-device.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/quadcopters.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/radio.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/relays.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/respiratory-product.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/rice-cooker.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/saw.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/security-sensors.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/security-system.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/security-system-monitor.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/surge-protector.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/switch.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/test-equipment.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/thermostat.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/tv-receiver.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/ups.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/video-gaming-accessories.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/warming-drawer.html",
+   "manuals": 36,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/water-filtration-systems.html",
+   "manuals": 28,
+   "status": 200
+  },
+  {
+   "path": "/brand/sentinel/water-pump.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3388300",
+   "slug": "Sentinel-200zmh-F",
+   "title": "200ZMH(F) Installation & Commissioning",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "200ZMH(F)",
+   "extraModels": [
+    "408689"
+   ],
+   "url": "https://www.manualslib.com/manual/3388300/Sentinel-200zmh-F.html"
+  },
+  {
+   "manualId": "2473990",
+   "slug": "Sentinel-309006x78b",
+   "title": "309006x78B Operator's manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "309006x78B",
+   "extraModels": [
+    "7800337"
+   ],
+   "url": "https://www.manualslib.com/manual/2473990/Sentinel-309006x78b.html"
+  },
+  {
+   "manualId": "3767831",
+   "slug": "Sentinel-400-Tv",
+   "title": "400-TV Manual",
+   "type": "Other",
+   "pages": 19,
+   "productModel": "400-TV",
+   "extraModels": [
+    "405-TVM"
+   ],
+   "url": "https://www.manualslib.com/manual/3767831/Sentinel-400-Tv.html"
+  },
+  {
+   "manualId": "4545926",
+   "slug": "Sentinel-401",
+   "title": "401 Service manual",
+   "type": "Service",
+   "pages": 10,
+   "productModel": "401",
+   "extraModels": [
+    "402",
+    "406"
+   ],
+   "url": "https://www.manualslib.com/manual/4545926/Sentinel-401.html"
+  },
+  {
+   "manualId": "2783336",
+   "slug": "Sentinel-Kinetic-200z",
+   "title": "447801 Installation & Commissioning",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "447801",
+   "extraModels": [
+    "447801",
+    "448733",
+    "449536",
+    "449540",
+    "Kinetic 200ZH"
+   ],
+   "url": "https://www.manualslib.com/manual/2783336/Sentinel-Kinetic-200z.html"
+  },
+  {
+   "manualId": "956264",
+   "slug": "Sentinel-4c",
+   "title": "4C user manual",
+   "type": "User / Owner",
+   "pages": 108,
+   "productModel": "4C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/956264/Sentinel-4c.html"
+  },
+  {
+   "manualId": "152794",
+   "slug": "Sentinel-880-Sigma-130ci",
+   "title": "880 Delta 150Ci Operating and maintenance manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "880 Delta 150Ci",
+   "extraModels": [
+    "880 Delta 150Ci",
+    "880 Elite 50Ci"
+   ],
+   "url": "https://www.manualslib.com/manual/152794/Sentinel-880-Sigma-130ci.html"
+  },
+  {
+   "manualId": "152796",
+   "slug": "Sentinel-880",
+   "title": "880 Operating and maintenance manual",
+   "type": "Service",
+   "pages": 74,
+   "productModel": "880",
+   "extraModels": [
+    "880 Delta 150Ci",
+    "880 Elite 50Ci",
+    "880 Sigma 130Ci"
+   ],
+   "url": "https://www.manualslib.com/manual/152796/Sentinel-880.html"
+  },
+  {
+   "manualId": "2910730",
+   "slug": "Sentinel-989",
+   "title": "989 Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "989",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2910730/Sentinel-989.html"
+  },
+  {
+   "manualId": "3504035",
+   "slug": "Sentinel-Bm-50",
+   "title": "BM-50 installation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "BM-50",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3504035/Sentinel-Bm-50.html"
+  },
+  {
+   "manualId": "3746161",
+   "slug": "Sentinel-Bm-50-Lite",
+   "title": "BM-50 installation manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "BM-50",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3746161/Sentinel-Bm-50-Lite.html"
+  },
+  {
+   "manualId": "3949064",
+   "slug": "Sentinel-Bm-50-Pro",
+   "title": "BM-50 Pro installation manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "BM-50 Pro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3949064/Sentinel-Bm-50-Pro.html"
+  },
+  {
+   "manualId": "4447994",
+   "slug": "Sentinel-Bm-50-Pro",
+   "title": "BM-50 Pro installation manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "BM-50 Pro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4447994/Sentinel-Bm-50-Pro.html"
+  },
+  {
+   "manualId": "1981359",
+   "slug": "Sentinel-Boat-Monitor",
+   "title": "Boat Monitor installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Boat Monitor",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1981359/Sentinel-Boat-Monitor.html"
+  },
+  {
+   "manualId": "1207374",
+   "slug": "Sentinel-Ca52",
+   "title": "CA52 Installation & operation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "CA52",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1207374/Sentinel-Ca52.html"
+  },
+  {
+   "manualId": "1231053",
+   "slug": "Sentinel-Chhc-1",
+   "title": "CHHC-1 instruction manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "CHHC-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1231053/Sentinel-Chhc-1.html"
+  },
+  {
+   "manualId": "1752156",
+   "slug": "Sentinel-Codeaccess-A",
+   "title": "CodeAccess A Manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "CodeAccess A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1752156/Sentinel-Codeaccess-A.html"
+  },
+  {
+   "manualId": "152797",
+   "slug": "Sentinel-Projetor",
+   "title": "Delta 150 Ci Operating and maintenance manual",
+   "type": "Service",
+   "pages": 73,
+   "productModel": "Delta 150 Ci",
+   "extraModels": [
+    "Delta 150 Ci",
+    "Elite 50 Ci",
+    "Omega 15 Ci",
+    "Sigma 130 Ci"
+   ],
+   "url": "https://www.manualslib.com/manual/152797/Sentinel-Projetor.html"
+  },
+  {
+   "manualId": "2174530",
+   "slug": "Sentinel-Eliminator",
+   "title": "ELIMINATOR installation manual",
+   "type": "Installation",
+   "pages": 45,
+   "productModel": "ELIMINATOR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2174530/Sentinel-Eliminator.html"
+  },
+  {
+   "manualId": "1793414",
+   "slug": "Sentinel-Eliminator",
+   "title": "ELIMINATOR Manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "ELIMINATOR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1793414/Sentinel-Eliminator.html"
+  },
+  {
+   "manualId": "1209816",
+   "slug": "Sentinel-Eliminator-Nano",
+   "title": "Eliminator Nano installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Eliminator Nano",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1209816/Sentinel-Eliminator-Nano.html"
+  },
+  {
+   "manualId": "1967165",
+   "slug": "Sentinel-Eliminator-Totalguard",
+   "title": "Eliminator TotalGuard installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Eliminator TotalGuard",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1967165/Sentinel-Eliminator-Totalguard.html"
+  },
+  {
+   "manualId": "3112011",
+   "slug": "Sentinel-Fm100b",
+   "title": "FM100B user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "FM100B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3112011/Sentinel-Fm100b.html"
+  },
+  {
+   "manualId": "3162596",
+   "slug": "Sentinel-Fm121p",
+   "title": "FM121P user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "FM121P",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3162596/Sentinel-Fm121p.html"
+  },
+  {
+   "manualId": "3244892",
+   "slug": "Sentinel-Fm80b",
+   "title": "FM80B user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "FM80B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3244892/Sentinel-Fm80b.html"
+  },
+  {
+   "manualId": "1060271",
+   "slug": "Sentinel-Fx100b",
+   "title": "FX100B user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "FX100B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1060271/Sentinel-Fx100b.html"
+  },
+  {
+   "manualId": "2158128",
+   "slug": "Sentinel-Fx102b",
+   "title": "FX102B user manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "FX102B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2158128/Sentinel-Fx102b.html"
+  },
+  {
+   "manualId": "3176604",
+   "slug": "Sentinel-Fx122b",
+   "title": "FX122B user manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "FX122B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3176604/Sentinel-Fx122b.html"
+  },
+  {
+   "manualId": "3094781",
+   "slug": "Sentinel-Fx140p",
+   "title": "FX140P user manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "FX140P",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3094781/Sentinel-Fx140p.html"
+  },
+  {
+   "manualId": "3502216",
+   "slug": "Sentinel-Fz-08a36sr",
+   "title": "FZ-08A16DR Installation & operation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "FZ-08A16DR",
+   "extraModels": [
+    "FZ-08A16DR"
+   ],
+   "url": "https://www.manualslib.com/manual/3502216/Sentinel-Fz-08a36sr.html"
+  },
+  {
+   "manualId": "4132297",
+   "slug": "Sentinel-Fz-08b",
+   "title": "FZ-08B Installation & operation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "FZ-08B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4132297/Sentinel-Fz-08b.html"
+  },
+  {
+   "manualId": "3055370",
+   "slug": "Sentinel-Hbs-250",
+   "title": "HBS-250 Operation manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "HBS-250",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3055370/Sentinel-Hbs-250.html"
+  },
+  {
+   "manualId": "3036068",
+   "slug": "Sentinel-Hbs-300dl",
+   "title": "HBS-300DL Operation manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "HBS-300DL",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3036068/Sentinel-Hbs-300dl.html"
+  },
+  {
+   "manualId": "1165837",
+   "slug": "Sentinel-Hdx",
+   "title": "HDX Quick start manual and installation manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "HDX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1165837/Sentinel-Hdx.html"
+  },
+  {
+   "manualId": "2698803",
+   "slug": "Sentinel-Heavy-Duty-Stripcut-Fs3150p",
+   "title": "HEAVY-DUTY STRIPCUT FS3150P user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "HEAVY-DUTY STRIPCUT FS3150P",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2698803/Sentinel-Heavy-Duty-Stripcut-Fs3150p.html"
+  },
+  {
+   "manualId": "2069207",
+   "slug": "Sentinel-Hlc-300",
+   "title": "HLC-300 Use & Maintenance",
+   "type": "Service",
+   "pages": 10,
+   "productModel": "HLC-300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2069207/Sentinel-Hlc-300.html"
+  },
+  {
+   "manualId": "3685118",
+   "slug": "Sentinel-Hlm-20c",
+   "title": "HLM-20C instruction manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "HLM-20C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3685118/Sentinel-Hlm-20c.html"
+  },
+  {
+   "manualId": "1664001",
+   "slug": "Sentinel-Hm-22",
+   "title": "HM-12 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "HM-12",
+   "extraModels": [
+    "HM-12",
+    "HM-22A",
+    "HM-22B"
+   ],
+   "url": "https://www.manualslib.com/manual/1664001/Sentinel-Hm-22.html"
+  },
+  {
+   "manualId": "1998416",
+   "slug": "Sentinel-Hub",
+   "title": "Hub installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Hub",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1998416/Sentinel-Hub.html"
+  },
+  {
+   "manualId": "2514430",
+   "slug": "Sentinel-Hub",
+   "title": "Hub installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "Hub",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2514430/Sentinel-Hub.html"
+  },
+  {
+   "manualId": "4002727",
+   "slug": "Sentinel-Mecabell-3248",
+   "title": "Installation",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4002727/Sentinel-Mecabell-3248.html"
+  },
+  {
+   "manualId": "1673816",
+   "slug": "Sentinel-5000-Series",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1673816/Sentinel-5000-Series.html"
+  },
+  {
+   "manualId": "2156495",
+   "slug": "Sentinel-Mcg-120m",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2156495/Sentinel-Mcg-120m.html"
+  },
+  {
+   "manualId": "4150113",
+   "slug": "Sentinel-Bd-E5000spro-Rt",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4150113/Sentinel-Bd-E5000spro-Rt.html"
+  },
+  {
+   "manualId": "1232987",
+   "slug": "Sentinel-Evc-1",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1232987/Sentinel-Evc-1.html"
+  },
+  {
+   "manualId": "1232988",
+   "slug": "Sentinel-Pxm-1",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1232988/Sentinel-Pxm-1.html"
+  },
+  {
+   "manualId": "1315263",
+   "slug": "Sentinel-Hid-1",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1315263/Sentinel-Hid-1.html"
+  },
+  {
+   "manualId": "1457375",
+   "slug": "Sentinel-Evc-2",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1457375/Sentinel-Evc-2.html"
+  },
+  {
+   "manualId": "1641025",
+   "slug": "Sentinel-Cool-1",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1641025/Sentinel-Cool-1.html"
+  },
+  {
+   "manualId": "2038557",
+   "slug": "Sentinel-Hph-4",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2038557/Sentinel-Hph-4.html"
+  },
+  {
+   "manualId": "2493569",
+   "slug": "Sentinel-Co2-Exp",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2493569/Sentinel-Co2-Exp.html"
+  },
+  {
+   "manualId": "2646269",
+   "slug": "Sentinel-300",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2646269/Sentinel-300.html"
+  },
+  {
+   "manualId": "3221476",
+   "slug": "Sentinel-Vcg-27",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3221476/Sentinel-Vcg-27.html"
+  },
+  {
+   "manualId": "2078018",
+   "slug": "Sentinel-Solarcheck",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2078018/Sentinel-Solarcheck.html"
+  },
+  {
+   "manualId": "2425598",
+   "slug": "Sentinel-Pa0223",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2425598/Sentinel-Pa0223.html"
+  },
+  {
+   "manualId": "2633482",
+   "slug": "Sentinel-Vortex300",
+   "title": "instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2633482/Sentinel-Vortex300.html"
+  },
+  {
+   "manualId": "3019338",
+   "slug": "Sentinel-Jetflush-Filter",
+   "title": "JetFlush Filter operating instructions manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "JetFlush Filter",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3019338/Sentinel-Jetflush-Filter.html"
+  },
+  {
+   "manualId": "2152224",
+   "slug": "Sentinel-Jetflush-Rapid",
+   "title": "JetFlush Rapid Operating & Servicing Manuallines",
+   "type": "User / Owner",
+   "pages": 104,
+   "productModel": "JetFlush Rapid",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2152224/Sentinel-Jetflush-Rapid.html"
+  },
+  {
+   "manualId": "3449437",
+   "slug": "Sentinel-Jetflush-RapidPlus",
+   "title": "JetFlush Rapid+ Operating Manuallines",
+   "type": "User / Owner",
+   "pages": 45,
+   "productModel": "JetFlush Rapid+",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3449437/Sentinel-Jetflush-RapidPlus.html"
+  },
+  {
+   "manualId": "4141542",
+   "slug": "Sentinel-Jetflush-RapidPlus",
+   "title": "JetFlush Rapid+ user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "JetFlush Rapid+",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4141542/Sentinel-Jetflush-RapidPlus.html"
+  },
+  {
+   "manualId": "3432930",
+   "slug": "Sentinel-Kalguard-54",
+   "title": "KALG22 installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "KALG22",
+   "extraModels": [
+    "KALG22",
+    "KALG28",
+    "KALG42",
+    "KALG54",
+    "KALG67",
+    "KALG76",
+    "KalGUARD 108",
+    "KalGUARD 22",
+    "KalGUARD 28",
+    "KalGUARD 42",
+    "KalGUARD 67",
+    "KalGUARD 76"
+   ],
+   "url": "https://www.manualslib.com/manual/3432930/Sentinel-Kalguard-54.html"
+  },
+  {
+   "manualId": "1499584",
+   "slug": "Sentinel-Kalguard",
+   "title": "KalGuard installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "KalGuard",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1499584/Sentinel-Kalguard.html"
+  },
+  {
+   "manualId": "3905081",
+   "slug": "Sentinel-Kinetic-300z",
+   "title": "Kinetic 300Z Installation & Commissioning",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Kinetic 300Z",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3905081/Sentinel-Kinetic-300z.html"
+  },
+  {
+   "manualId": "3905082",
+   "slug": "Sentinel-Kinetic-300zh",
+   "title": "Kinetic 300ZH Installation & commissioning",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Kinetic 300ZH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3905082/Sentinel-Kinetic-300zh.html"
+  },
+  {
+   "manualId": "1504668",
+   "slug": "Sentinel-Leak-Defense-System",
+   "title": "Leak Defense System Installation manual & owner's manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Leak Defense System",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1504668/Sentinel-Leak-Defense-System.html"
+  },
+  {
+   "manualId": "2879818",
+   "slug": "Sentinel-Chhc-4i",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2879818/Sentinel-Chhc-4i.html"
+  },
+  {
+   "manualId": "3647506",
+   "slug": "Sentinel-Mini",
+   "title": "Mini Quick setup and operation manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "Mini",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3647506/Sentinel-Mini.html"
+  },
+  {
+   "manualId": "1190058",
+   "slug": "Sentinel-Mo52",
+   "title": "MO52 Installation & operation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "MO52",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1190058/Sentinel-Mo52.html"
+  },
+  {
+   "manualId": "3183701",
+   "slug": "Sentinel-On-Guard-Fx150p",
+   "title": "ON GUARD FX150P user manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "ON GUARD FX150P",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3183701/Sentinel-On-Guard-Fx150p.html"
+  },
+  {
+   "manualId": "1844738",
+   "slug": "Sentinel-Cp06a",
+   "title": "Operating Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1844738/Sentinel-Cp06a.html"
+  },
+  {
+   "manualId": "1336247",
+   "slug": "Sentinel-10-Fle",
+   "title": "operation instruction manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1336247/Sentinel-10-Fle.html"
+  },
+  {
+   "manualId": "4635351",
+   "slug": "Sentinel-Pa0184",
+   "title": "PA0050 Operation manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "PA0050",
+   "extraModels": [
+    "PA0050"
+   ],
+   "url": "https://www.manualslib.com/manual/4635351/Sentinel-Pa0184.html"
+  },
+  {
+   "manualId": "1859825",
+   "slug": "Sentinel-Pa0185",
+   "title": "PA0185 Operation manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "PA0185",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1859825/Sentinel-Pa0185.html"
+  },
+  {
+   "manualId": "2146942",
+   "slug": "Sentinel-Pa0200",
+   "title": "PA0200 Operator's manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "PA0200",
+   "extraModels": [
+    "PA0203",
+    "PA0204",
+    "PA0205"
+   ],
+   "url": "https://www.manualslib.com/manual/2146942/Sentinel-Pa0200.html"
+  },
+  {
+   "manualId": "2417121",
+   "slug": "Sentinel-Pa2026",
+   "title": "PA2026 user manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "PA2026",
+   "extraModels": [
+    "PA2046"
+   ],
+   "url": "https://www.manualslib.com/manual/2417121/Sentinel-Pa2026.html"
+  },
+  {
+   "manualId": "2487068",
+   "slug": "Sentinel-Cppm-4i",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2487068/Sentinel-Cppm-4i.html"
+  },
+  {
+   "manualId": "3666903",
+   "slug": "Sentinel-Studystation",
+   "title": "Quick setup manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3666903/Sentinel-Studystation.html"
+  },
+  {
+   "manualId": "2360216",
+   "slug": "Sentinel-Icg-30",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2360216/Sentinel-Icg-30.html"
+  },
+  {
+   "manualId": "2905588",
+   "slug": "Sentinel-V2",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2905588/Sentinel-V2.html"
+  },
+  {
+   "manualId": "4221977",
+   "slug": "Sentinel-111508080090h34",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4221977/Sentinel-111508080090h34.html"
+  },
+  {
+   "manualId": "4265841",
+   "slug": "Sentinel-Ecobell",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4265841/Sentinel-Ecobell.html"
+  },
+  {
+   "manualId": "3770160",
+   "slug": "Sentinel-S90-V2",
+   "title": "S90-V2 product manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "S90-V2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3770160/Sentinel-S90-V2.html"
+  },
+  {
+   "manualId": "1372528",
+   "slug": "Sentinel-Safescout",
+   "title": "SafeScout user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "SafeScout",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1372528/Sentinel-Safescout.html"
+  },
+  {
+   "manualId": "2963011",
+   "slug": "Sentinel-Sb-1200",
+   "title": "SB-1200 user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "SB-1200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2963011/Sentinel-Sb-1200.html"
+  },
+  {
+   "manualId": "292919",
+   "slug": "Sentinel-Sc21fd3044-161",
+   "title": "SC21FD3044-161 Frequently asked questions manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "SC21FD3044-161",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/292919/Sentinel-Sc21fd3044-161.html"
+  },
+  {
+   "manualId": "292918",
+   "slug": "Sentinel-Sc21fd3044-161",
+   "title": "SC21FD3044-161 instruction manual",
+   "type": "User / Owner",
+   "pages": 43,
+   "productModel": "SC21FD3044-161",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/292918/Sentinel-Sc21fd3044-161.html"
+  },
+  {
+   "manualId": "707173",
+   "slug": "Sentinel-Sc324-Series",
+   "title": "SC324 Series instruction manual",
+   "type": "User / Owner",
+   "pages": 38,
+   "productModel": "SC324 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/707173/Sentinel-Sc324-Series.html"
+  },
+  {
+   "manualId": "2770356",
+   "slug": "Sentinel-Scu",
+   "title": "SCU instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "SCU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2770356/Sentinel-Scu.html"
+  },
+  {
+   "manualId": "1771128",
+   "slug": "Sentinel-Sendw-1-1",
+   "title": "SENDW-1-1 Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "SENDW-1-1",
+   "extraModels": [
+    "SENDW-1-2",
+    "SENDW-1-3",
+    "SENDW-2-1",
+    "SENDW-2-2",
+    "SENDW-2-3",
+    "SENDW-3-1",
+    "SENDW-3-2",
+    "SENDW-3-3",
+    "SENDWB-1-1",
+    "SENDWB-1-2",
+    "SENDWB-1-3",
+    "SENDWB-2-1",
+    "SENDWB-2-2",
+    "SENDWB-2-3",
+    "SENDWB-3-1",
+    "SENDWB-3-2",
+    "SENDWB-3-3",
+    "SENDWS-1-1",
+    "SENDWS-1-2",
+    "SENDWS-1-3",
+    "SENDWS-2-1",
+    "SENDWS-2-2",
+    "SENDWS-2-3",
+    "SENDWS-3-1",
+    "SENDWS-3-2",
+    "SENDWS-3-3",
+    "SENDWSB-1-1",
+    "SENDWSB-1-2",
+    "SENDWSB-1-3",
+    "SENDWSB-2-1",
+    "SENDWSB-2-2",
+    "SENDWSB-2-3",
+    "SENDWSB-3-1",
+    "SENDWSB-3-2",
+    "SENDWSB-3-3"
+   ],
+   "url": "https://www.manualslib.com/manual/1771128/Sentinel-Sendw-1-1.html"
+  },
+  {
+   "manualId": "4236651",
+   "slug": "sentinel-bm-50-lite-boat-monitor-installation-manual",
+   "title": "Sentinel BM-50 Lite Boat Monitor Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4236651/sentinel-bm-50-lite-boat-monitor-installation-manual.html"
+  },
+  {
+   "manualId": "1721444",
+   "slug": "Sentinel-Shlm-10a",
+   "title": "SHLM-10A instruction manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "SHLM-10A",
+   "extraModels": [
+    "SHLM-20B",
+    "SHLM-30B"
+   ],
+   "url": "https://www.manualslib.com/manual/1721444/Sentinel-Shlm-10a.html"
+  },
+  {
+   "manualId": "1235507",
+   "slug": "Sentinel-Smw1000d",
+   "title": "SMW1000D instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "SMW1000D",
+   "extraModels": [
+    "SMW1000E",
+    "SMW1800E"
+   ],
+   "url": "https://www.manualslib.com/manual/1235507/Sentinel-Smw1000d.html"
+  },
+  {
+   "manualId": "2832951",
+   "slug": "Sentinel-Sn-Gbm-2ng-Lp",
+   "title": "SN-GBM-2NG/LP Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "SN-GBM-2NG/LP",
+   "extraModels": [
+    "SN-GBM-3NG/LP",
+    "SN-GBM-4NG/LP",
+    "SN-GBM-5NG/LP"
+   ],
+   "url": "https://www.manualslib.com/manual/2832951/Sentinel-Sn-Gbm-2ng-Lp.html"
+  },
+  {
+   "manualId": "2495033",
+   "slug": "Sentinel-Snt-1000",
+   "title": "SNT-1000 user manual",
+   "type": "User / Owner",
+   "pages": 46,
+   "productModel": "SNT-1000",
+   "extraModels": [
+    "SNT-1000L",
+    "SNT-1500",
+    "SNT-1500L",
+    "SNT-2000",
+    "SNT-2000L",
+    "SNT-3000",
+    "SNT-3000L"
+   ],
+   "url": "https://www.manualslib.com/manual/2495033/Sentinel-Snt-1000.html"
+  },
+  {
+   "manualId": "2302562",
+   "slug": "Sentinel-Solarflush",
+   "title": "SOLARFLUSH operating instructions manual",
+   "type": "User / Owner",
+   "pages": 35,
+   "productModel": "SOLARFLUSH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2302562/Sentinel-Solarflush.html"
+  },
+  {
+   "manualId": "3136863",
+   "slug": "Sentinel-Solarflush",
+   "title": "SOLARFLUSH operating instructions manual",
+   "type": "User / Owner",
+   "pages": 35,
+   "productModel": "SOLARFLUSH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3136863/Sentinel-Solarflush.html"
+  },
+  {
+   "manualId": "1568978",
+   "slug": "Sentinel-Spa-100",
+   "title": "SPA-100 Manual",
+   "type": "Other",
+   "pages": 33,
+   "productModel": "SPA-100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1568978/Sentinel-Spa-100.html"
+  },
+  {
+   "manualId": "1031232",
+   "slug": "Sentinel-Spy-Drone-34923",
+   "title": "Spy Drone 34923 instruction manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "Spy Drone 34923",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1031232/Sentinel-Spy-Drone-34923.html"
+  },
+  {
+   "manualId": "2182420",
+   "slug": "Sentinel-R500",
+   "title": "technical information",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2182420/Sentinel-R500.html"
+  },
+  {
+   "manualId": "2930661",
+   "slug": "Sentinel-Jetflush-X100",
+   "title": "Technical Information",
+   "type": "Other",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2930661/Sentinel-Jetflush-X100.html"
+  },
+  {
+   "manualId": "1404746",
+   "slug": "Sentinel-Unitec",
+   "title": "Unitec owner's manual",
+   "type": "User / Owner",
+   "pages": 106,
+   "productModel": "Unitec",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1404746/Sentinel-Unitec.html"
+  },
+  {
+   "manualId": "1223529",
+   "slug": "Sentinel-Sc21fd3044",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1223529/Sentinel-Sc21fd3044.html"
+  },
+  {
+   "manualId": "1888197",
+   "slug": "Sentinel-Pa0220",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1888197/Sentinel-Pa0220.html"
+  },
+  {
+   "manualId": "2429017",
+   "slug": "Sentinel-Pa0221",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2429017/Sentinel-Pa0221.html"
+  },
+  {
+   "manualId": "3500595",
+   "slug": "Sentinel-Rt-3320",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3500595/Sentinel-Rt-3320.html"
+  },
+  {
+   "manualId": "3592620",
+   "slug": "Sentinel-Fz-04a",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3592620/Sentinel-Fz-04a.html"
+  },
+  {
+   "manualId": "4016338",
+   "slug": "Sentinel-224-Relay-I-O",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4016338/Sentinel-224-Relay-I-O.html"
+  },
+  {
+   "manualId": "4132313",
+   "slug": "Sentinel-Pa3023",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4132313/Sentinel-Pa3023.html"
+  },
+  {
+   "manualId": "4597583",
+   "slug": "Sentinel-Pa3061",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4597583/Sentinel-Pa3061.html"
+  },
+  {
+   "manualId": "4635106",
+   "slug": "Sentinel-Dm-D",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4635106/Sentinel-Dm-D.html"
+  },
+  {
+   "manualId": "4635607",
+   "slug": "Sentinel-Ttb-30a",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4635607/Sentinel-Ttb-30a.html"
+  },
+  {
+   "manualId": "4646463",
+   "slug": "Sentinel-Seh-Bc-1-4ga-Li6d-Sc",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4646463/Sentinel-Seh-Bc-1-4ga-Li6d-Sc.html"
+  },
+  {
+   "manualId": "1162633",
+   "slug": "Sentinel-Vi350",
+   "title": "VI350 instruction manual",
+   "type": "User / Owner",
+   "pages": 31,
+   "productModel": "VI350",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1162633/Sentinel-Vi350.html"
+  },
+  {
+   "manualId": "2464775",
+   "slug": "Sentinel-Wssen719-1",
+   "title": "WSSEN719-1 owner's manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "WSSEN719-1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2464775/Sentinel-Wssen719-1.html"
+  },
+  {
+   "manualId": "1602727",
+   "slug": "Sentinel-Xl-S-4000",
+   "title": "XL S-4000 User instruction manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "XL S-4000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1602727/Sentinel-Xl-S-4000.html"
+  },
+  {
+   "manualId": "4079366",
+   "slug": "Sentinel-Zero-X",
+   "title": "ZERO-X user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "ZERO-X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4079366/Sentinel-Zero-X.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4236651",
+   "slug": "sentinel-bm-50-lite-boat-monitor-installation-manual",
+   "title": "Sentinel BM-50 Lite Boat Monitor Installation Manual"
+  }
+ ],
+ "techDirectIds": [
+  "sentinel"
+ ]
+}

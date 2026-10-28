@@ -1,0 +1,61 @@
+{
+ "brand": "Hart and Cooley",
+ "brandSlug": "hart-and-cooley",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/hart-and-cooley/"
+ ],
+ "slugUsed": "hart-and-cooley",
+ "capturedAt": "2026-10-28T07:26:30.712597+00:00",
+ "typePages": [
+  {
+   "path": "/brand/hart-and-cooley/fan.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/hart-and-cooley/ventilation-hood.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3368538",
+   "slug": "Hart-And-Cooley-7tlc18",
+   "title": "10TLCIS installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "10TLCIS",
+   "extraModels": [
+    "10TLCIS",
+    "12TLCIS",
+    "14TLCIS",
+    "5TLCIS",
+    "6TLCIS",
+    "7TLC6",
+    "7TLCIS",
+    "8TLCIS"
+   ],
+   "url": "https://www.manualslib.com/manual/3368538/Hart-And-Cooley-7tlc18.html"
+  },
+  {
+   "manualId": "919602",
+   "slug": "Hart-And-Cooley-Tlc",
+   "title": "TLC installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "TLC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/919602/Hart-And-Cooley-Tlc.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "hart-cooley"
+ ]
+}

@@ -1,0 +1,4448 @@
+{
+ "brand": "Buderus",
+ "brandSlug": "buderus",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/buderus/"
+ ],
+ "slugUsed": "buderus",
+ "capturedAt": "2026-10-28T06:32:13.407609+00:00",
+ "typePages": [
+  {
+   "path": "/brand/buderus/air-conditioner.html",
+   "manuals": 69,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/boiler.html",
+   "manuals": 755,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/boiler-supplies.html",
+   "manuals": 49,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/burner.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/control-panel.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/control-systems.html",
+   "manuals": 23,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/control-unit.html",
+   "manuals": 62,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/controller.html",
+   "manuals": 15,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/electric-heater.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/fan.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/gas-heater.html",
+   "manuals": 38,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/gateway.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/heat-pump.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/heater.html",
+   "manuals": 33,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/heating-system.html",
+   "manuals": 19,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/inverter.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/measuring-instruments.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/network-router.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/solar-panel.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/stove.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/styrpaneler.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/temperature-controller.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/thermostat.html",
+   "manuals": 28,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/ventilation-hood.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/water-filtration-systems.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/water-heater.html",
+   "manuals": 283,
+   "status": 200
+  },
+  {
+   "path": "/brand/buderus/water-pump.html",
+   "manuals": 5,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1633307",
+   "slug": "Buderus-600-19r",
+   "title": "11R Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "11R",
+   "extraModels": [
+    "11R",
+    "24R",
+    "600-11R",
+    "600-24R"
+   ],
+   "url": "https://www.manualslib.com/manual/1633307/Buderus-600-19r.html"
+  },
+  {
+   "manualId": "1181565",
+   "slug": "Buderus-24c",
+   "title": "11S Servicing manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "11S",
+   "extraModels": [
+    "11S",
+    "19S"
+   ],
+   "url": "https://www.manualslib.com/manual/1181565/Buderus-24c.html"
+  },
+  {
+   "manualId": "1556960",
+   "slug": "Buderus-21",
+   "title": "21 Applications manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "21",
+   "extraModels": [
+    "22"
+   ],
+   "url": "https://www.manualslib.com/manual/1556960/Buderus-21.html"
+  },
+  {
+   "manualId": "695422",
+   "slug": "Buderus-21",
+   "title": "21 Design manual",
+   "type": "Other",
+   "pages": 37,
+   "productModel": "21",
+   "extraModels": [
+    "22",
+    "Towel Warmers"
+   ],
+   "url": "https://www.manualslib.com/manual/695422/Buderus-21.html"
+  },
+  {
+   "manualId": "3838954",
+   "slug": "Buderus-24s",
+   "title": "24S Servicing manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "24S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3838954/Buderus-24s.html"
+  },
+  {
+   "manualId": "1178436",
+   "slug": "Buderus-500-28-C",
+   "title": "500 - 24/C Servicing manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "500 - 24/C",
+   "extraModels": [
+    "500 - 24/C",
+    "500 - 24/S"
+   ],
+   "url": "https://www.manualslib.com/manual/1178436/Buderus-500-28-C.html"
+  },
+  {
+   "manualId": "823616",
+   "slug": "Buderus-500-24-C",
+   "title": "500 - 24/C user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "500 - 24/C",
+   "extraModels": [
+    "500 - 28/C",
+    "500-28C"
+   ],
+   "url": "https://www.manualslib.com/manual/823616/Buderus-500-24-C.html"
+  },
+  {
+   "manualId": "874107",
+   "slug": "Buderus-500-24-C",
+   "title": "500 - 24/C user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "500 - 24/C",
+   "extraModels": [
+    "500 - 28/C",
+    "500-28C"
+   ],
+   "url": "https://www.manualslib.com/manual/874107/Buderus-500-24-C.html"
+  },
+  {
+   "manualId": "1159227",
+   "slug": "Buderus-500-24-S",
+   "title": "500 - 24/S Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "500 - 24/S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1159227/Buderus-500-24-S.html"
+  },
+  {
+   "manualId": "841185",
+   "slug": "Buderus-500-24-S",
+   "title": "500 - 24/S user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "500 - 24/S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/841185/Buderus-500-24-S.html"
+  },
+  {
+   "manualId": "897050",
+   "slug": "Buderus-500-Series",
+   "title": "500 Series user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "500 Series",
+   "extraModels": [
+    "500-24S"
+   ],
+   "url": "https://www.manualslib.com/manual/897050/Buderus-500-Series.html"
+  },
+  {
+   "manualId": "1232704",
+   "slug": "Buderus-500-24s",
+   "title": "500-24C Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "500-24C",
+   "extraModels": [
+    "500-24C",
+    "500-28C"
+   ],
+   "url": "https://www.manualslib.com/manual/1232704/Buderus-500-24s.html"
+  },
+  {
+   "manualId": "1173301",
+   "slug": "Buderus-500-24c",
+   "title": "500-24C Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "500-24C",
+   "extraModels": [
+    "500-28C"
+   ],
+   "url": "https://www.manualslib.com/manual/1173301/Buderus-500-24c.html"
+  },
+  {
+   "manualId": "823668",
+   "slug": "Buderus-500-24c",
+   "title": "500-24C user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "500-24C",
+   "extraModels": [
+    "500-28C"
+   ],
+   "url": "https://www.manualslib.com/manual/823668/Buderus-500-24c.html"
+  },
+  {
+   "manualId": "844195",
+   "slug": "Buderus-500-24s",
+   "title": "500-24S Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "500-24S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/844195/Buderus-500-24s.html"
+  },
+  {
+   "manualId": "1107778",
+   "slug": "Buderus-500-24s",
+   "title": "500-24S user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "500-24S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1107778/Buderus-500-24s.html"
+  },
+  {
+   "manualId": "836300",
+   "slug": "Buderus-600-11r",
+   "title": "600 - 11R Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "600 - 11R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/836300/Buderus-600-11r.html"
+  },
+  {
+   "manualId": "824495",
+   "slug": "Buderus-600-11s",
+   "title": "600 - 11S Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "600 - 11S",
+   "extraModels": [
+    "600 - 19S",
+    "600 - 24C",
+    "600 - 24S",
+    "600-19S",
+    "600-24C",
+    "600-24S"
+   ],
+   "url": "https://www.manualslib.com/manual/824495/Buderus-600-11s.html"
+  },
+  {
+   "manualId": "836368",
+   "slug": "Buderus-600-11s",
+   "title": "600 - 11S Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "600 - 11S",
+   "extraModels": [
+    "600 - 19S",
+    "600 - 24C",
+    "600 - 24S",
+    "600-19S",
+    "600-24C",
+    "600-24S"
+   ],
+   "url": "https://www.manualslib.com/manual/836368/Buderus-600-11s.html"
+  },
+  {
+   "manualId": "823606",
+   "slug": "Buderus-600-11s",
+   "title": "600 - 11S user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "600 - 11S",
+   "extraModels": [
+    "600 - 19S",
+    "600 - 24C",
+    "600 - 24S",
+    "600-19S",
+    "600-24C",
+    "600-24S"
+   ],
+   "url": "https://www.manualslib.com/manual/823606/Buderus-600-11s.html"
+  },
+  {
+   "manualId": "832071",
+   "slug": "Buderus-600-11s",
+   "title": "600 - 11S user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "600 - 11S",
+   "extraModels": [
+    "600 - 19S",
+    "600 - 24C",
+    "600 - 24S",
+    "600-19S",
+    "600-24C",
+    "600-24S"
+   ],
+   "url": "https://www.manualslib.com/manual/832071/Buderus-600-11s.html"
+  },
+  {
+   "manualId": "3826530",
+   "slug": "Buderus-600-19r",
+   "title": "600 - 19R Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "600 - 19R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3826530/Buderus-600-19r.html"
+  },
+  {
+   "manualId": "3826531",
+   "slug": "Buderus-600-24r",
+   "title": "600 - 24R Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "600 - 24R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3826531/Buderus-600-24r.html"
+  },
+  {
+   "manualId": "954455",
+   "slug": "Buderus-600-11r",
+   "title": "600-11R user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "600-11R",
+   "extraModels": [
+    "600-19R",
+    "600-24R"
+   ],
+   "url": "https://www.manualslib.com/manual/954455/Buderus-600-11r.html"
+  },
+  {
+   "manualId": "4202186",
+   "slug": "Buderus-Benchmark-600-11s",
+   "title": "600-11S Design, installation and servicing instructions",
+   "type": "Installation",
+   "pages": 152,
+   "productModel": "600-11S",
+   "extraModels": [
+    "600-19S",
+    "600-24C",
+    "600-24S"
+   ],
+   "url": "https://www.manualslib.com/manual/4202186/Buderus-Benchmark-600-11s.html"
+  },
+  {
+   "manualId": "1831900",
+   "slug": "Buderus-Su120-5-Series",
+   "title": "7 735 500 669 Installation and maintenance instructions for contractors",
+   "type": "Service",
+   "pages": 70,
+   "productModel": "7 735 500 669",
+   "extraModels": [
+    "7 735 500 669",
+    "7 735 500 670",
+    "7 735 500 671",
+    "7 735 500 672",
+    "8 718 542 280",
+    "8 718 542 326",
+    "8 718 542 331",
+    "8 718 543 049",
+    "8 718 543 058",
+    "8 718 543 067",
+    "8 718 543 077",
+    "8 718 543 078",
+    "SU120/5W",
+    "SU160/5",
+    "SU160/5W",
+    "SU200.5 E Series",
+    "SU200/5",
+    "SU200/5EW",
+    "SU200/5W"
+   ],
+   "url": "https://www.manualslib.com/manual/1831900/Buderus-Su120-5-Series.html"
+  },
+  {
+   "manualId": "3002914",
+   "slug": "Buderus-Sm290-5-E",
+   "title": "7 735 500 675 Manual",
+   "type": "Other",
+   "pages": 72,
+   "productModel": "7 735 500 675",
+   "extraModels": [
+    "7 735 500 675",
+    "7 735 500 677",
+    "7 735 500 678",
+    "Logalux SM300/5 W",
+    "Logalux SM400.5 E",
+    "SM300/5",
+    "8 718 541 060",
+    "8 718 541 200",
+    "8 718 541 295",
+    "8 718 541 306",
+    "8 718 541 311",
+    "8 718 541 319",
+    "SM290/5 EW",
+    "SM400.5 E 6",
+    "SM400/5 EW"
+   ],
+   "url": "https://www.manualslib.com/manual/3002914/Buderus-Sm290-5-E.html"
+  },
+  {
+   "manualId": "3069732",
+   "slug": "Buderus-Su300-5-B",
+   "title": "7 735 500 680 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "7 735 500 680",
+   "extraModels": [
+    "7 735 500 680",
+    "7 735 500 681",
+    "7 735 502 327",
+    "7 735 502 328",
+    "7 735 502 329",
+    "7739610454",
+    "7739610455",
+    "7739610456",
+    "7739610457",
+    "7739610458",
+    "7739610459",
+    "7739610472",
+    "7739610473",
+    "7739610474",
+    "7739610475",
+    "7739610476",
+    "7739610477",
+    "7739612973",
+    "7739612982",
+    "7739612988",
+    "7739618473",
+    "7739618476",
+    "7739621203",
+    "8 718 541 326",
+    "8 718 541 331",
+    "8 718 541 335",
+    "8 718 541 338",
+    "Logalux SU300/5 W",
+    "SU300.5 C",
+    "SU300.5 S-B",
+    "SU300.5 S-C",
+    "SU300.5 W-B",
+    "SU400.5",
+    "SU400.5 C",
+    "SU400.5 S-C",
+    "SU400/5W"
+   ],
+   "url": "https://www.manualslib.com/manual/3069732/Buderus-Su300-5-B.html"
+  },
+  {
+   "manualId": "2031539",
+   "slug": "Buderus-Mcm10",
+   "title": "7 746 800 090-00.1O Manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "7 746 800 090-00.1O",
+   "extraModels": [
+    "7 746 800 090-00.1O"
+   ],
+   "url": "https://www.manualslib.com/manual/2031539/Buderus-Mcm10.html"
+  },
+  {
+   "manualId": "3457981",
+   "slug": "Buderus-Logacool-Ac-Ms-Series",
+   "title": "7733701859 Operating Instructions For Users",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "7733701859",
+   "extraModels": [
+    "7733701859",
+    "7733701861",
+    "7733701957",
+    "7733701958",
+    "7733701963",
+    "7733701978",
+    "Logacool AC-10,6 MS",
+    "Logacool AC-12,3 MS",
+    "Logacool AC-4,1 MS",
+    "Logacool AC-5,3 MS",
+    "Logacool AC-7,9 MS",
+    "Logacool AC166 MS D Series",
+    "Logacool AC166i MS",
+    "Logacool AC166i.2 W Series",
+    "Logacool AC176i.3 W Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3457981/Buderus-Logacool-Ac-Ms-Series.html"
+  },
+  {
+   "manualId": "3457977",
+   "slug": "Buderus-Logacool-Ac-Ms-Series",
+   "title": "7733701861 installation instructions manual",
+   "type": "Installation",
+   "pages": 136,
+   "productModel": "7733701861",
+   "extraModels": [
+    "7733701861",
+    "7733701957",
+    "7733701964",
+    "7733701965",
+    "7733701966",
+    "7733701978",
+    "AC166i-2,1 MS 4CC",
+    "AC166i-2,6 MS 4CC",
+    "AC166i-3,5 MS 4CC",
+    "AC166i-5,3 MS 4CC",
+    "AC166i-7,0 MS 4C",
+    "Logacool AC-10,6 MS",
+    "Logacool AC-12,3 MS",
+    "Logacool AC-4,1 MS",
+    "Logacool AC-5,3 MS",
+    "Logacool AC-6,2 MS",
+    "Logacool AC-7,9 MS",
+    "Logacool AC-8,2 MS"
+   ],
+   "url": "https://www.manualslib.com/manual/3457977/Buderus-Logacool-Ac-Ms-Series.html"
+  },
+  {
+   "manualId": "2064957",
+   "slug": "Buderus-Logalux-P120-5s",
+   "title": "7735500667 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "7735500667",
+   "extraModels": [
+    "7735500667",
+    "7735500668",
+    "7735500684",
+    "8718542847",
+    "8718542920",
+    "8718543041",
+    "8732910192",
+    "8732910194",
+    "Logalux P120/5W",
+    "Logalux P200.5",
+    "Logalux P200.5S",
+    "Logalux P200/5W",
+    "Logalux P300.5",
+    "Logalux P300/5W"
+   ],
+   "url": "https://www.manualslib.com/manual/2064957/Buderus-Logalux-P120-5s.html"
+  },
+  {
+   "manualId": "1940811",
+   "slug": "Buderus-Logalux-Pw-500-6-C",
+   "title": "7735500817 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "7735500817",
+   "extraModels": [
+    "7735500817",
+    "7735500820",
+    "7735500821",
+    "7735500828",
+    "7735500829",
+    "7735500836",
+    "7735500837",
+    "7735500844",
+    "7735500845",
+    "7735500848",
+    "7735500849",
+    "7735500852",
+    "7735500853",
+    "7735500860",
+    "7735500861",
+    "7735500868",
+    "7735500869",
+    "7735500872",
+    "7735500873",
+    "7735500876",
+    "7735500877",
+    "7735500884",
+    "7735500885",
+    "7735500892",
+    "7735500893",
+    "7735500896",
+    "7735500897",
+    "7735500900",
+    "7735500901",
+    "7735500904",
+    "7735500905",
+    "7735500908",
+    "7735500909",
+    "7735500916",
+    "7735500917",
+    "7735500924",
+    "7735500925",
+    "7735500928",
+    "7735500929",
+    "7735500932",
+    "7735500933",
+    "7735500936",
+    "7735500937",
+    "7735500944",
+    "7735500945",
+    "7735500952",
+    "7735500953",
+    "7735500956",
+    "7735500957",
+    "7735500960",
+    "7735500961",
+    "7735500964",
+    "7735500965",
+    "7735500972",
+    "7735500973",
+    "7735500980",
+    "7735500981",
+    "7735500988",
+    "7735500989",
+    "7735500996",
+    "7735500997",
+    "7735501282",
+    "7735501591",
+    "7735501592",
+    "7735501593",
+    "7735501594",
+    "7735501595",
+    "7735501686",
+    "7735501687",
+    "7735501688",
+    "7735501689",
+    "7735501690",
+    "7735501691",
+    "7735501692",
+    "7735501693",
+    "7735501694",
+    "7735501695",
+    "7735501696",
+    "7735501697",
+    "7735501698",
+    "7735501699",
+    "Logalux P 1000.6 M-C",
+    "Logalux P 1000.6 MS-B",
+    "Logalux P 1000.6 MW-C",
+    "Logalux P 1000.6 W-C",
+    "Logalux P 1000.6-C",
+    "Logalux P 1000.6S-B",
+    "Logalux P 1300.6 M-C",
+    "Logalux P 1300.6 MW-C",
+    "Logalux P 500.6 M-B",
+    "Logalux P 500.6 M-C",
+    "Logalux P 500.6 MW-B",
+    "Logalux P 500.6 MW-C",
+    "Logalux P 500.6 W-B",
+    "Logalux P 500.6 W-C",
+    "Logalux P 500.6-B",
+    "Logalux P 500.6-C",
+    "Logalux P 750.6 M-C",
+    "Logalux P 750.6 MS-B",
+    "Logalux P 750.6 MW-C",
+    "Logalux P 750.6 W-C",
+    "Logalux P 750.6-C",
+    "Logalux P 750.6S-B",
+    "Logalux P 990.6 M-C",
+    "Logalux P 990.6 MW-C",
+    "Logalux P1300.6 MS-B",
+    "Logalux P990.6 MS-B",
+    "Logalux PNR 1000.6 E-C",
+    "Logalux PNR 1000.6 EW-C",
+    "Logalux PNR 1300.6 E-C",
+    "Logalux PNR 1300.6 EW-C",
+    "Logalux PNR 500.6 E-B",
+    "Logalux PNR 500.6 E-C",
+    "Logalux PNR 500.6 EW-B",
+    "Logalux PNR 500.6 EW-C",
+    "Logalux PNR 750.6 E-C",
+    "Logalux PNR 750.6 ES-B",
+    "Logalux PNR 750.6 EW-C",
+    "Logalux PNR1000.6 ES-B",
+    "Logalux PNR1300.6 ES-B",
+    "Logalux PNRZ 1000.6 E-C",
+    "Logalux PNRZ 1000.6 EW-C",
+    "Logalux PNRZ 750.6 E-C",
+    "Logalux PNRZ 750.6 ES-B",
+    "Logalux PNRZ 750.6 EW-C",
+    "Logalux PNRZ1000.6ES-B",
+    "Logalux PR 1000.6 E-C",
+    "Logalux PR 1000.6 ES-B",
+    "Logalux PR 1000.6 EW-C",
+    "Logalux PR 1300.6 E-C",
+    "Logalux PR 1300.6 EW-C",
+    "Logalux PR 500.6 E-B",
+    "Logalux PR 500.6 E-C",
+    "Logalux PR 500.6 EW-B",
+    "Logalux PR 500.6 EW-C",
+    "Logalux PR 750.6 E-C",
+    "Logalux PR 750.6 ES-B",
+    "Logalux PR 750.6 EW-C",
+    "Logalux PR1300.6 ES-B",
+    "Logalux PRZ 1000.6 E-C",
+    "Logalux PRZ 1000.6 ES-B",
+    "Logalux PRZ 1000.6 EW-C",
+    "Logalux PRZ 500.6 E-B",
+    "Logalux PRZ 500.6 E-C",
+    "Logalux PRZ 500.6 EW-B",
+    "Logalux PRZ 500.6 EW-C",
+    "Logalux PRZ 750.6 E-C",
+    "Logalux PRZ 750.6 ES-B",
+    "Logalux PRZ 750.6 EW-C",
+    "Logalux PW 1000.6 W-C",
+    "Logalux PW 1000.6-C",
+    "Logalux PW 1000.6S-B",
+    "Logalux PW 500.6 W-B",
+    "Logalux PW 500.6 W-C",
+    "Logalux PW 500.6-B",
+    "Logalux PW 750.6 PN6 W-C",
+    "Logalux PW 750.6 PN6-C",
+    "Logalux PW 750.6 PN6S-B",
+    "Logalux PW 750.6 W-C",
+    "Logalux PW 750.6-C",
+    "Logalux PW 750.6S-B"
+   ],
+   "url": "https://www.manualslib.com/manual/1940811/Buderus-Logalux-Pw-500-6-C.html"
+  },
+  {
+   "manualId": "1982170",
+   "slug": "Buderus-Su500-5-Series",
+   "title": "7735501680 Installation And Maintenance Instructions For The Contractor",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "7735501680",
+   "extraModels": [
+    "7735501680",
+    "7735501681",
+    "7735501682",
+    "7735501683",
+    "SU1000.5-C",
+    "SU500.5-B",
+    "SU500.5-C",
+    "SU750.5-C",
+    "7736502250",
+    "7736502254",
+    "7736502262",
+    "7736502270",
+    "7736502278",
+    "7736502282",
+    "7736502290",
+    "7736502298",
+    "7736502306",
+    "7736502310",
+    "7736502314",
+    "7736502318",
+    "SM1000.5E Series",
+    "SM1000.5E-C",
+    "SM1000.5ES-B",
+    "SM500.5E Series",
+    "SM500.5E-B",
+    "SM500.5E-C",
+    "SM750.5E Series",
+    "SM750.5E-C",
+    "SM750.5ES-B",
+    "SMH400.5E Series",
+    "SMH400.5E-B",
+    "SMH400.5E-C",
+    "SMH500.5E Series",
+    "SMH500.5E-B",
+    "SMH500.5E-C",
+    "SU1000.5 Series",
+    "SU1000.5S-B",
+    "SU750.5 Series",
+    "SU750.5S-B"
+   ],
+   "url": "https://www.manualslib.com/manual/1982170/Buderus-Su500-5-Series.html"
+  },
+  {
+   "manualId": "1923620",
+   "slug": "Buderus-Sf500-5-Series",
+   "title": "7735501684 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "7735501684",
+   "extraModels": [
+    "7735501684",
+    "7735501685",
+    "7736502322",
+    "7736502326",
+    "7736502334",
+    "7736502342",
+    "SF1000.5 C",
+    "SF1000.5 S-B",
+    "SF1000.5 Series",
+    "SF500.5 B",
+    "SF500.5 C",
+    "SF750.5 C",
+    "SF750.5 S-B",
+    "SF750.5 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1923620/Buderus-Sf500-5-Series.html"
+  },
+  {
+   "manualId": "1751624",
+   "slug": "Buderus-Logano-Plus-Gb402-Series",
+   "title": "7736603544 Operating instructions for users",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "7736603544",
+   "extraModels": [
+    "7736603544",
+    "7736603545",
+    "7736603546",
+    "7736603547",
+    "Logano plus GB402-395",
+    "Logano plus GB402-470 H",
+    "Logano plus GB402-545 H",
+    "Logano plus GB402-620"
+   ],
+   "url": "https://www.manualslib.com/manual/1751624/Buderus-Logano-Plus-Gb402-Series.html"
+  },
+  {
+   "manualId": "3511698",
+   "slug": "Buderus-Cx100",
+   "title": "7736604251 Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "7736604251",
+   "extraModels": [
+    "7736604251"
+   ],
+   "url": "https://www.manualslib.com/manual/3511698/Buderus-Cx100.html"
+  },
+  {
+   "manualId": "2124767",
+   "slug": "Buderus-Am200",
+   "title": "7738110117 installation instructions manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "7738110117",
+   "extraModels": [
+    "7738110117"
+   ],
+   "url": "https://www.manualslib.com/manual/2124767/Buderus-Am200.html"
+  },
+  {
+   "manualId": "2907994",
+   "slug": "Buderus-Logamatic-Rc120-Rf",
+   "title": "7738112945 instructions manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "7738112945",
+   "extraModels": [
+    "7738112945"
+   ],
+   "url": "https://www.manualslib.com/manual/2907994/Buderus-Logamatic-Rc120-Rf.html"
+  },
+  {
+   "manualId": "3576713",
+   "slug": "Buderus-Rc100-2-H",
+   "title": "7738112973 quick start manual",
+   "type": "Other",
+   "pages": 84,
+   "productModel": "7738112973",
+   "extraModels": [
+    "7738112973",
+    "Logamatic RC100.2 H"
+   ],
+   "url": "https://www.manualslib.com/manual/3576713/Buderus-Rc100-2-H.html"
+  },
+  {
+   "manualId": "2140107",
+   "slug": "Buderus-7738306430",
+   "title": "7738306430 installation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "7738306430",
+   "extraModels": [
+    "7738306431",
+    "7738306432",
+    "7738306433",
+    "7738306434",
+    "7738306435"
+   ],
+   "url": "https://www.manualslib.com/manual/2140107/Buderus-7738306430.html"
+  },
+  {
+   "manualId": "3608722",
+   "slug": "Buderus-Nfk-2-Manual",
+   "title": "7738328641 instruction manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "7738328641",
+   "extraModels": [
+    "7738328641",
+    "7738342126"
+   ],
+   "url": "https://www.manualslib.com/manual/3608722/Buderus-Nfk-2-Manual.html"
+  },
+  {
+   "manualId": "3560086",
+   "slug": "Buderus-B-Thiw",
+   "title": "7739624401 Installation and user manual",
+   "type": "Installation",
+   "pages": 136,
+   "productModel": "7739624401",
+   "extraModels": [
+    "7739624401",
+    "8750001228",
+    "B-THIW230",
+    "B-THIW24"
+   ],
+   "url": "https://www.manualslib.com/manual/3560086/Buderus-B-Thiw.html"
+  },
+  {
+   "manualId": "848943",
+   "slug": "Buderus-800",
+   "title": "800 user manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "800",
+   "extraModels": [
+    "800-24",
+    "800-24T25H",
+    "800-24T25V",
+    "800-29",
+    "800-29T25H",
+    "800-29T25V",
+    "800-43",
+    "800-60"
+   ],
+   "url": "https://www.manualslib.com/manual/848943/Buderus-800.html"
+  },
+  {
+   "manualId": "818474",
+   "slug": "Buderus-800-24",
+   "title": "800-24 Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "800-24",
+   "extraModels": [
+    "800-24T25",
+    "800-24T25H",
+    "800-24T25V",
+    "800-29",
+    "800-29T25",
+    "800-29T25H",
+    "800-29T25V",
+    "800-43",
+    "800-60"
+   ],
+   "url": "https://www.manualslib.com/manual/818474/Buderus-800-24.html"
+  },
+  {
+   "manualId": "746995",
+   "slug": "Buderus-800-24",
+   "title": "800-24 user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "800-24",
+   "extraModels": [
+    "800-24T25",
+    "800-29",
+    "800-29T25",
+    "800-43",
+    "800-60"
+   ],
+   "url": "https://www.manualslib.com/manual/746995/Buderus-800-24.html"
+  },
+  {
+   "manualId": "2416167",
+   "slug": "Buderus-Logalux-Sm400-5-E",
+   "title": "8732929427 Installation and Service Instructions for Specialists",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "8732929427",
+   "extraModels": [
+    "8732929427",
+    "Logalux SM1000.5 E-C",
+    "Logalux SM300/5 W",
+    "Logalux SM500.5 E-B",
+    "Logalux SM750.5 E-C"
+   ],
+   "url": "https://www.manualslib.com/manual/2416167/Buderus-Logalux-Sm400-5-E.html"
+  },
+  {
+   "manualId": "3150374",
+   "slug": "Buderus-Logacool-Ac166i-Ms",
+   "title": "AC166i-2,1 MS 4CC Operating Instructions For Users",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "AC166i-2,1 MS 4CC",
+   "extraModels": [
+    "AC166i-2,1 MS 4CC",
+    "AC166i-2,6 MS 4CC",
+    "AC166i-3,5 MS 4CC",
+    "AC166i-5,3 MS 4CC",
+    "AC166i-7,0 MS 4C"
+   ],
+   "url": "https://www.manualslib.com/manual/3150374/Buderus-Logacool-Ac166i-Ms.html"
+  },
+  {
+   "manualId": "3636805",
+   "slug": "Buderus-Logacool-Ac166i-2-1-Ms-D",
+   "title": "AC166i-2,1 MS 4CC Operating Instructions For Users",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "AC166i-2,1 MS 4CC",
+   "extraModels": [
+    "AC166i-2,6 MS 4CC",
+    "AC166i-3,5 MS 4CC",
+    "AC166i-5,3 MS 4CC",
+    "AC166i-7,0 MS 4C",
+    "Logacool AC166i MS"
+   ],
+   "url": "https://www.manualslib.com/manual/3636805/Buderus-Logacool-Ac166i-2-1-Ms-D.html"
+  },
+  {
+   "manualId": "3166472",
+   "slug": "Buderus-Logacool-Ac166i-Ms",
+   "title": "AC166i-2,6 MS 4CC Operating instructions for users",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "AC166i-2,6 MS 4CC",
+   "extraModels": [
+    "AC166i-2,6 MS 4CC",
+    "AC166i-3,5 MS 4CC"
+   ],
+   "url": "https://www.manualslib.com/manual/3166472/Buderus-Logacool-Ac166i-Ms.html"
+  },
+  {
+   "manualId": "3767221",
+   "slug": "Buderus-Logacool-Ac166i-5-0-Ms-Cn",
+   "title": "AC166i-2,6 MS 4CC Operating instructions for users",
+   "type": "User / Owner",
+   "pages": 49,
+   "productModel": "AC166i-2,6 MS 4CC",
+   "extraModels": [
+    "AC166i-2,6 MS 4CC",
+    "AC166i-3,5 MS 4CC",
+    "Logacool AC166i MS"
+   ],
+   "url": "https://www.manualslib.com/manual/3767221/Buderus-Logacool-Ac166i-5-0-Ms-Cn.html"
+  },
+  {
+   "manualId": "800949",
+   "slug": "Buderus-Am10",
+   "title": "AM10 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "AM10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/800949/Buderus-Am10.html"
+  },
+  {
+   "manualId": "800702",
+   "slug": "Buderus-Am10",
+   "title": "AM10 Installation and user manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "AM10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/800702/Buderus-Am10.html"
+  },
+  {
+   "manualId": "1092880",
+   "slug": "Buderus-Am10",
+   "title": "AM10 user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "AM10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1092880/Buderus-Am10.html"
+  },
+  {
+   "manualId": "2972351",
+   "slug": "Buderus-Am10",
+   "title": "AM10 user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "AM10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2972351/Buderus-Am10.html"
+  },
+  {
+   "manualId": "704553",
+   "slug": "Buderus-Gb312-Series",
+   "title": "Brochure & specs",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/704553/Buderus-Gb312-Series.html"
+  },
+  {
+   "manualId": "4587383",
+   "slug": "Buderus-Logamatic-4212",
+   "title": "Bruksanvisning",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4587383/Buderus-Logamatic-4212.html"
+  },
+  {
+   "manualId": "2863494",
+   "slug": "buderus-gb142-condensing-gas-boiler-series-manual",
+   "title": "Buderus GB142 Condensing Gas Boiler Series Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2863494/buderus-gb142-condensing-gas-boiler-series-manual.html"
+  },
+  {
+   "manualId": "1922252",
+   "slug": "Buderus-Logalux-Pw-500",
+   "title": "Buderus Logalux PW 500 Manual",
+   "type": "Other",
+   "pages": 88,
+   "productModel": null,
+   "extraModels": [
+    "Logalux P 1000/5",
+    "Logalux P 1000/5 M",
+    "Logalux P 1000/5 M W",
+    "Logalux P 1000/5 W",
+    "Logalux P 500",
+    "Logalux PNR 1000/5 E",
+    "Logalux PNR 500",
+    "Logalux PNR 750",
+    "Logalux PNRZ 1000/5 E",
+    "Logalux PR 1000/5 E W",
+    "Logalux PR 500",
+    "Logalux PR 750",
+    "Logalux PW 750/5",
+    "Logalux PW 750/5 W"
+   ],
+   "url": "https://www.manualslib.com/manual/1922252/Buderus-Logalux-Pw-500.html"
+  },
+  {
+   "manualId": "2863492",
+   "slug": "buderus-logano-g115-ws-manual",
+   "title": "Buderus Logano G115 WS Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2863492/buderus-logano-g115-ws-manual.html"
+  },
+  {
+   "manualId": "2863491",
+   "slug": "buderus-logano-g215-us-manual",
+   "title": "Buderus Logano G215 US Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2863491/buderus-logano-g215-us-manual.html"
+  },
+  {
+   "manualId": "4042391",
+   "slug": "buderus-mx300-manual",
+   "title": "Buderus MX300 Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4042391/buderus-mx300-manual.html"
+  },
+  {
+   "manualId": "1509328",
+   "slug": "Buderus-S120-Us",
+   "title": "Buderus S120 US Assembly And Maintenance Instructions",
+   "type": "Service",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1509328/Buderus-S120-Us.html"
+  },
+  {
+   "manualId": "1942818",
+   "slug": "Buderus-Bue-Plus",
+   "title": "BUE-Plus Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 197,
+   "productModel": "BUE-Plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1942818/Buderus-Bue-Plus.html"
+  },
+  {
+   "manualId": "4080352",
+   "slug": "Buderus-Bue-Plus-2",
+   "title": "BUE-Plus-2 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 202,
+   "productModel": "BUE-Plus-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4080352/Buderus-Bue-Plus-2.html"
+  },
+  {
+   "manualId": "1946976",
+   "slug": "Buderus-Buz-Plus-15",
+   "title": "BUZ-Plus 15 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 130,
+   "productModel": "BUZ-Plus 15",
+   "extraModels": [
+    "BUZ-Plus 15 A",
+    "BUZ-Plus 15 C"
+   ],
+   "url": "https://www.manualslib.com/manual/1946976/Buderus-Buz-Plus-15.html"
+  },
+  {
+   "manualId": "694644",
+   "slug": "Buderus-Condensing-Gas-Boiler",
+   "title": "Condensing gas boiler instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Condensing gas boiler",
+   "extraModels": [
+    "Condensing gas boiler",
+    "Logamax plus GB162",
+    "Logamax plus GB162-L.B"
+   ],
+   "url": "https://www.manualslib.com/manual/694644/Buderus-Condensing-Gas-Boiler.html"
+  },
+  {
+   "manualId": "3011629",
+   "slug": "Buderus-Ecomatic-Hs-2105",
+   "title": "Ecomatic HS 2105 Service manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "Ecomatic HS 2105",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3011629/Buderus-Ecomatic-Hs-2105.html"
+  },
+  {
+   "manualId": "1831105",
+   "slug": "Buderus-Em10",
+   "title": "EM10 Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "EM10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1831105/Buderus-Em10.html"
+  },
+  {
+   "manualId": "1685082",
+   "slug": "Buderus-Em100",
+   "title": "EM100 Installation Instructions For Skilled Labour",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "EM100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1685082/Buderus-Em100.html"
+  },
+  {
+   "manualId": "3571647",
+   "slug": "Buderus-Em100",
+   "title": "EM100 installation instructions manual",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "EM100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3571647/Buderus-Em100.html"
+  },
+  {
+   "manualId": "3698440",
+   "slug": "Buderus-Ems-Plus-Am200",
+   "title": "EMS plus AM200 Installation Instructions For Contractors",
+   "type": "Installation",
+   "pages": 120,
+   "productModel": "EMS plus AM200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3698440/Buderus-Ems-Plus-Am200.html"
+  },
+  {
+   "manualId": "2515175",
+   "slug": "Buderus-Fm441",
+   "title": "FM441 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "FM441",
+   "extraModels": [
+    "FM442",
+    "FM443",
+    "FM445",
+    "FM447",
+    "FM448",
+    "FM456",
+    "FM457",
+    "FM458"
+   ],
+   "url": "https://www.manualslib.com/manual/2515175/Buderus-Fm441.html"
+  },
+  {
+   "manualId": "2207419",
+   "slug": "Buderus-Fm443",
+   "title": "FM443 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "FM443",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2207419/Buderus-Fm443.html"
+  },
+  {
+   "manualId": "2529744",
+   "slug": "Buderus-Fm443",
+   "title": "FM443 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "FM443",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2529744/Buderus-Fm443.html"
+  },
+  {
+   "manualId": "689410",
+   "slug": "Buderus-G124x",
+   "title": "G124X/18 Brochure & specs",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "G124X/18",
+   "extraModels": [
+    "G124X/18",
+    "G124X/25",
+    "G124X/32",
+    "G234X/38",
+    "G234X/45",
+    "G234X/55",
+    "G234X/64",
+    "Logano G234X",
+    "Logano G334 X",
+    "Logano G334 X-116",
+    "Logano G334 X-132",
+    "Logano G334 X-73",
+    "Logano G334 X-92"
+   ],
+   "url": "https://www.manualslib.com/manual/689410/Buderus-G124x.html"
+  },
+  {
+   "manualId": "694641",
+   "slug": "Buderus-G124x",
+   "title": "G124X/18 user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "G124X/18",
+   "extraModels": [
+    "G124X/18",
+    "G124X/25",
+    "G124X/32",
+    "G234X/38",
+    "G234X/45",
+    "G234X/55",
+    "G234X/64",
+    "Logano G234X",
+    "Logano G334 X",
+    "Logano G334 X-116",
+    "Logano G334 X-132",
+    "Logano G334 X-73",
+    "Logano G334 X-92"
+   ],
+   "url": "https://www.manualslib.com/manual/694641/Buderus-G124x.html"
+  },
+  {
+   "manualId": "921825",
+   "slug": "Buderus-Logano-G201",
+   "title": "G201 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "G201",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/921825/Buderus-Logano-G201.html"
+  },
+  {
+   "manualId": "699407",
+   "slug": "Buderus-G201",
+   "title": "G201 specification",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "G201",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/699407/Buderus-G201.html"
+  },
+  {
+   "manualId": "2718722",
+   "slug": "Buderus-Logano-G234x-64",
+   "title": "G234X/38 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "G234X/38",
+   "extraModels": [
+    "G234X/38",
+    "G234X/45",
+    "G234X/55"
+   ],
+   "url": "https://www.manualslib.com/manual/2718722/Buderus-Logano-G234x-64.html"
+  },
+  {
+   "manualId": "1971535",
+   "slug": "Buderus-Ga-K-7738112742",
+   "title": "GA-K 7738112743 quick start manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "GA-K 7738112743",
+   "extraModels": [
+    "GA-K  7738112743",
+    "GA-K  7738112746",
+    "GA-K  7738112747"
+   ],
+   "url": "https://www.manualslib.com/manual/1971535/Buderus-Ga-K-7738112742.html"
+  },
+  {
+   "manualId": "836110",
+   "slug": "Buderus-Gb162-80-Kw",
+   "title": "GB 162-L.B. 100kW instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "GB 162-L.B. 100kW",
+   "extraModels": [
+    "GB 162-L.B. 100kW",
+    "GB 162-L.B. 80kW",
+    "GB162/100",
+    "Logamax plus GB162-100 kW",
+    "Logamax plus GB162-80 kW"
+   ],
+   "url": "https://www.manualslib.com/manual/836110/Buderus-Gb162-80-Kw.html"
+  },
+  {
+   "manualId": "2863972",
+   "slug": "Buderus-Gb125be-22",
+   "title": "GB125BE-22 Design manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "GB125BE-22",
+   "extraModels": [
+    "GB125BE-30",
+    "GB125BE-35"
+   ],
+   "url": "https://www.manualslib.com/manual/2863972/Buderus-Gb125be-22.html"
+  },
+  {
+   "manualId": "695185",
+   "slug": "Buderus-Gb142",
+   "title": "GB142 Applications manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "GB142",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/695185/Buderus-Gb142.html"
+  },
+  {
+   "manualId": "1716507",
+   "slug": "Buderus-Gb142",
+   "title": "GB142 Startup manual",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": "GB142",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1716507/Buderus-Gb142.html"
+  },
+  {
+   "manualId": "2339019",
+   "slug": "Buderus-Gb142-Series",
+   "title": "GB142 Technical Service Bulletin",
+   "type": "Service",
+   "pages": 3,
+   "productModel": "GB142",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2339019/Buderus-Gb142-Series.html"
+  },
+  {
+   "manualId": "2770853",
+   "slug": "Buderus-Gb162",
+   "title": "GB162 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "GB162",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2770853/Buderus-Gb162.html"
+  },
+  {
+   "manualId": "756634",
+   "slug": "Buderus-Gb162",
+   "title": "GB162 User Instructions",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "GB162",
+   "extraModels": [
+    "Logamax plus GB162-L.B"
+   ],
+   "url": "https://www.manualslib.com/manual/756634/Buderus-Gb162.html"
+  },
+  {
+   "manualId": "1136871",
+   "slug": "Buderus-Gb162-65",
+   "title": "GB162-65 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "GB162-65",
+   "extraModels": [
+    "GB162-80",
+    "GB162/100"
+   ],
+   "url": "https://www.manualslib.com/manual/1136871/Buderus-Gb162-65.html"
+  },
+  {
+   "manualId": "698579",
+   "slug": "Buderus-Gb162-80",
+   "title": "GB162-80 Info sheet",
+   "type": "Other",
+   "pages": 6,
+   "productModel": "GB162-80",
+   "extraModels": [
+    "GB162/100"
+   ],
+   "url": "https://www.manualslib.com/manual/698579/Buderus-Gb162-80.html"
+  },
+  {
+   "manualId": "1195552",
+   "slug": "Buderus-Gb162-100",
+   "title": "GB162-80 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "GB162-80",
+   "extraModels": [
+    "GB162-80"
+   ],
+   "url": "https://www.manualslib.com/manual/1195552/Buderus-Gb162-100.html"
+  },
+  {
+   "manualId": "701406",
+   "slug": "Buderus-Gb162-80",
+   "title": "GB162-80 Submittal sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "GB162-80",
+   "extraModels": [
+    "GB162/100"
+   ],
+   "url": "https://www.manualslib.com/manual/701406/Buderus-Gb162-80.html"
+  },
+  {
+   "manualId": "1875186",
+   "slug": "Buderus-Logano-Plus-Gb402",
+   "title": "GB402-320-5 Installation and maintenance instructions for contractors",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "GB402-320-5",
+   "extraModels": [
+    "GB402-320-5",
+    "GB402-395-6",
+    "GB402-470-7",
+    "GB402-545-8",
+    "GB402-620-9"
+   ],
+   "url": "https://www.manualslib.com/manual/1875186/Buderus-Logano-Plus-Gb402.html"
+  },
+  {
+   "manualId": "3898995",
+   "slug": "Buderus-Gc144-3",
+   "title": "GC144/3 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "GC144/3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3898995/Buderus-Gc144-3.html"
+  },
+  {
+   "manualId": "3898994",
+   "slug": "Buderus-Gc144-4",
+   "title": "GC144/4 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "GC144/4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3898994/Buderus-Gc144-4.html"
+  },
+  {
+   "manualId": "3898993",
+   "slug": "Buderus-Gc144-5",
+   "title": "GC144/5 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "GC144/5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3898993/Buderus-Gc144-5.html"
+  },
+  {
+   "manualId": "1095690",
+   "slug": "Buderus-Hr-200",
+   "title": "HR 200 installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "HR 200",
+   "extraModels": [
+    "HR 300"
+   ],
+   "url": "https://www.manualslib.com/manual/1095690/Buderus-Hr-200.html"
+  },
+  {
+   "manualId": "1623894",
+   "slug": "Buderus-Hs-2102",
+   "title": "HS 2102 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "HS 2102",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1623894/Buderus-Hs-2102.html"
+  },
+  {
+   "manualId": "1469729",
+   "slug": "Buderus-Hs-2102",
+   "title": "HS 2102 Service instructions manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "HS 2102",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1469729/Buderus-Hs-2102.html"
+  },
+  {
+   "manualId": "2377713",
+   "slug": "Buderus-Ecomatic-Hs-2102",
+   "title": "HS 2102 Service manual",
+   "type": "Service",
+   "pages": 31,
+   "productModel": "HS 2102",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2377713/Buderus-Ecomatic-Hs-2102.html"
+  },
+  {
+   "manualId": "2864229",
+   "slug": "Buderus-Hs-Series",
+   "title": "HS Series Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "HS Series",
+   "extraModels": [
+    "HS+MM Series",
+    "HS25/4",
+    "HS25/4 s",
+    "HS25/6",
+    "HS25/6 s",
+    "HS32/7,5",
+    "HSM Series",
+    "HSM+MM Series",
+    "HSM15/4",
+    "HSM20/6",
+    "HSM25/6",
+    "HSM32/7,5"
+   ],
+   "url": "https://www.manualslib.com/manual/2864229/Buderus-Hs-Series.html"
+  },
+  {
+   "manualId": "3635452",
+   "slug": "Buderus-Ifr176-Mw",
+   "title": "IFR176 MW installation instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "IFR176 MW",
+   "extraModels": [
+    "IFR186 GS",
+    "IFR276 MW",
+    "IFR286 GS",
+    "IFR286 GW",
+    "IFR286 KB",
+    "IFR386 GS",
+    "IFR386 GW",
+    "IFR386 KB",
+    "IFR476 MW"
+   ],
+   "url": "https://www.manualslib.com/manual/3635452/Buderus-Ifr176-Mw.html"
+  },
+  {
+   "manualId": "3767236",
+   "slug": "Buderus-Logatrend-Ifr",
+   "title": "IFR176 MW installation instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "IFR176 MW",
+   "extraModels": [
+    "IFR176 MW",
+    "IFR186 GS",
+    "IFR286 GW",
+    "IFR286 KB",
+    "IFR386 GS",
+    "IFR386 KB",
+    "IFR476 MW",
+    "Logatrend IFR186 GW",
+    "Logatrend IFR186 KB",
+    "Logatrend IFR376 MW"
+   ],
+   "url": "https://www.manualslib.com/manual/3767236/Buderus-Logatrend-Ifr.html"
+  },
+  {
+   "manualId": "2051301",
+   "slug": "Buderus-Logastyle-Convexus",
+   "title": "Important Notes On Installation/Assembly",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2051301/Buderus-Logastyle-Convexus.html"
+  },
+  {
+   "manualId": "1654239",
+   "slug": "Buderus-Rt10-Rf",
+   "title": "Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1654239/Buderus-Rt10-Rf.html"
+  },
+  {
+   "manualId": "1467608",
+   "slug": "Buderus-600-28c",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1467608/Buderus-600-28c.html"
+  },
+  {
+   "manualId": "701732",
+   "slug": "Buderus-124x-Series",
+   "title": "Instruction",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "G124X/18",
+    "G124X/25",
+    "G124X/32"
+   ],
+   "url": "https://www.manualslib.com/manual/701732/Buderus-124x-Series.html"
+  },
+  {
+   "manualId": "3541560",
+   "slug": "Buderus-Logafix-Hve-Fd",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3541560/Buderus-Logafix-Hve-Fd.html"
+  },
+  {
+   "manualId": "4131409",
+   "slug": "Buderus-Logacool-Ac-Ms-Series",
+   "title": "Logacool AC MS Series Operating instructions for users",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "Logacool AC MS Series",
+   "extraModels": [
+    "Logacool AC-10,6 MS",
+    "Logacool AC-12,3 MS",
+    "Logacool AC-4,1 MS",
+    "Logacool AC-5,3 MS",
+    "Logacool AC-6,2 MS",
+    "Logacool AC-7,9 MS",
+    "Logacool AC-8,2 MS"
+   ],
+   "url": "https://www.manualslib.com/manual/4131409/Buderus-Logacool-Ac-Ms-Series.html"
+  },
+  {
+   "manualId": "3559263",
+   "slug": "Buderus-Logacool-Ac166i-Ms-Cn-Series",
+   "title": "Logacool AC166i 2,6 MS CN Operating instructions for users",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "Logacool AC166i 2,6 MS CN",
+   "extraModels": [
+    "Logacool AC166i 2,6 MS CN",
+    "Logacool AC166i 3,5 MS CN",
+    "Logacool AC166i 5,0 MS CN"
+   ],
+   "url": "https://www.manualslib.com/manual/3559263/Buderus-Logacool-Ac166i-Ms-Cn-Series.html"
+  },
+  {
+   "manualId": "2246606",
+   "slug": "Buderus-Logafix-Bu-H",
+   "title": "Logafix BU-H Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "Logafix BU-H",
+   "extraModels": [
+    "Logafix BU-S",
+    "Logafix HP"
+   ],
+   "url": "https://www.manualslib.com/manual/2246606/Buderus-Logafix-Bu-H.html"
+  },
+  {
+   "manualId": "2478575",
+   "slug": "Buderus-Logalux",
+   "title": "Logalux Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "Logalux",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2478575/Buderus-Logalux.html"
+  },
+  {
+   "manualId": "699832",
+   "slug": "Buderus-Logalux-Lt135-2",
+   "title": "Logalux LT135/2 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "Logalux LT135/2",
+   "extraModels": [
+    "Logalux LT160/2",
+    "Logalux LT200/2",
+    "Logalux LT300/2"
+   ],
+   "url": "https://www.manualslib.com/manual/699832/Buderus-Logalux-Lt135-2.html"
+  },
+  {
+   "manualId": "1945243",
+   "slug": "Buderus-Logalux-Ltn-Series",
+   "title": "Logalux LTD950 Installation instructions for contractors",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "Logalux LTD950",
+   "extraModels": [
+    "Logalux  LTD950",
+    "Logalux L2F Series",
+    "Logalux L2F6000",
+    "Logalux L2F800",
+    "Logalux L2TD Series",
+    "Logalux L2TD6000",
+    "Logalux L2TD800",
+    "Logalux L2TH Series",
+    "Logalux L2TH6000",
+    "Logalux L2TH800",
+    "Logalux L2TN Series",
+    "Logalux L2TN6000",
+    "Logalux L2TN800",
+    "Logalux L3F Series",
+    "Logalux L3F1200",
+    "Logalux L3F2250",
+    "Logalux L3TD Series",
+    "Logalux L3TD1200",
+    "Logalux L3TD2250",
+    "Logalux L3TH Series",
+    "Logalux L3TH1200",
+    "Logalux L3TH2250",
+    "Logalux L3TN Series",
+    "Logalux L3TN1200",
+    "Logalux L3TN2250",
+    "Logalux LF Series",
+    "Logalux LF1500",
+    "Logalux LF2000",
+    "Logalux LF400",
+    "Logalux LF550",
+    "Logalux LF750",
+    "Logalux LF950",
+    "Logalux LTD Series",
+    "Logalux LTD1500",
+    "Logalux LTD2000",
+    "Logalux LTD400",
+    "Logalux LTD550",
+    "Logalux LTD750",
+    "Logalux LTH Series",
+    "Logalux LTH1500",
+    "Logalux LTH2000",
+    "Logalux LTH400",
+    "Logalux LTH550",
+    "Logalux LTH750",
+    "Logalux LTH950",
+    "Logalux LTN1500",
+    "Logalux LTN2000",
+    "Logalux LTN400",
+    "Logalux LTN550",
+    "Logalux LTN750",
+    "Logalux LTN950"
+   ],
+   "url": "https://www.manualslib.com/manual/1945243/Buderus-Logalux-Ltn-Series.html"
+  },
+  {
+   "manualId": "3869474",
+   "slug": "Buderus-Logalux-P-750",
+   "title": "Logalux P 750 Manual",
+   "type": "Other",
+   "pages": 88,
+   "productModel": "Logalux P 750",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3869474/Buderus-Logalux-P-750.html"
+  },
+  {
+   "manualId": "704049",
+   "slug": "Buderus-Logalux-Pl750",
+   "title": "Logalux PL750 Installation and maintenance instruction",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "Logalux PL750",
+   "extraModels": [
+    "Logalux PL750 2 S"
+   ],
+   "url": "https://www.manualslib.com/manual/704049/Buderus-Logalux-Pl750.html"
+  },
+  {
+   "manualId": "3869475",
+   "slug": "Buderus-Logalux-Pnrz-750",
+   "title": "Logalux PNRZ 750 Manual",
+   "type": "Other",
+   "pages": 88,
+   "productModel": "Logalux PNRZ 750",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3869475/Buderus-Logalux-Pnrz-750.html"
+  },
+  {
+   "manualId": "1732764",
+   "slug": "Buderus-Logalux-Pr-500-80",
+   "title": "Logalux PR 750-120 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 104,
+   "productModel": "Logalux PR 750-120",
+   "extraModels": [
+    "Logalux  PR 750-120",
+    "Logalux PNR 1000-120 E",
+    "Logalux PNR 1000-120 EW",
+    "Logalux PNR 1000-80E",
+    "Logalux PNR 1000-80EW",
+    "Logalux PNR 500-120 E",
+    "Logalux PNR 500-120 EW",
+    "Logalux PNR 500-80 E",
+    "Logalux PNR 500-80 EW",
+    "Logalux PNR 750-120 E",
+    "Logalux PNR 750-120 EW",
+    "Logalux PNR 750-80 E",
+    "Logalux PNR 750-80 EW",
+    "Logalux PR 1000-120",
+    "Logalux PR 500-120",
+    "Logalux PR 750-80",
+    "Logalux PR1000-80"
+   ],
+   "url": "https://www.manualslib.com/manual/1732764/Buderus-Logalux-Pr-500-80.html"
+  },
+  {
+   "manualId": "4392373",
+   "slug": "Buderus-Pw-500-6-C",
+   "title": "Logalux PW 750.6 PN6 W-C Installation and maintenance instructions for the contractor",
+   "type": "Service",
+   "pages": 77,
+   "productModel": "Logalux PW 750.6 PN6 W-C",
+   "extraModels": [
+    "Logalux PW 750.6 PN6 W-C",
+    "Logalux PW 750.6 PN6-C",
+    "Logalux PW 750.6 PN6S-B",
+    "P 1000.6 M-C",
+    "P 1000.6 MS-B",
+    "P 1000.6 MW-C",
+    "P 1000.6 W-C",
+    "P 1000.6-C",
+    "P 1000.6S-B",
+    "P 1300.6 M-C",
+    "P 1300.6 MW-C",
+    "P 1300.6MS-B",
+    "P 500.6 M-B",
+    "P 500.6 M-C",
+    "P 500.6 MW-B",
+    "P 500.6 MW-C",
+    "P 500.6 W-B",
+    "P 500.6 W-C",
+    "P 500.6-B",
+    "P 500.6-C",
+    "P 750.6 M-C",
+    "P 750.6 MS-B",
+    "P 750.6 MW-C",
+    "P 750.6 W-C",
+    "P 750.6-C",
+    "P 750.6S-B",
+    "P 990.6 M-C",
+    "P 990.6 MSB",
+    "P 990.6 MW-C",
+    "PR 1000.6 E-C",
+    "PR 1000.6 ES-B",
+    "PR 1000.6 EW-C",
+    "PR 500.6 E-B",
+    "PR 500.6 E-C",
+    "PR 500.6 EW-B",
+    "PR 500.6 EW-C",
+    "PR 750.6 E-C",
+    "PR 750.6 ES-B",
+    "PR 750.6 EW-C",
+    "PW 1000.6",
+    "PW 1000.6 W-C",
+    "PW 1000.6-C",
+    "PW 1000.6S-B",
+    "PW 500.6 W-B",
+    "PW 500.6 W-C",
+    "PW 500.6-B",
+    "PW 750.6 W-C",
+    "PW 750.6-C",
+    "PW 750.6S-B"
+   ],
+   "url": "https://www.manualslib.com/manual/4392373/Buderus-Pw-500-6-C.html"
+  },
+  {
+   "manualId": "2286092",
+   "slug": "Buderus-Logalux-Su400-5",
+   "title": "Logalux S120/5 W Installation and Service Instructions for Specialists",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "Logalux S120/5 W",
+   "extraModels": [
+    "Logalux S120/5 W",
+    "Logalux SU300/5 W",
+    "Logalux SU400.5 S-B",
+    "SU1000.5-C",
+    "SU120/5W",
+    "SU160/5W",
+    "SU200/5W",
+    "SU500.5-C",
+    "SU750.5-C"
+   ],
+   "url": "https://www.manualslib.com/manual/2286092/Buderus-Logalux-Su400-5.html"
+  },
+  {
+   "manualId": "691300",
+   "slug": "Buderus-Logalux-Sm300-1",
+   "title": "Logalux SM300/1 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "Logalux SM300/1",
+   "extraModels": [
+    "Logalux SM400/1"
+   ],
+   "url": "https://www.manualslib.com/manual/691300/Buderus-Logalux-Sm300-1.html"
+  },
+  {
+   "manualId": "913844",
+   "slug": "Buderus-Logalux-Sm300-1",
+   "title": "Logalux SM300/1 Installation and maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "Logalux SM300/1",
+   "extraModels": [
+    "Logalux SM400/1"
+   ],
+   "url": "https://www.manualslib.com/manual/913844/Buderus-Logalux-Sm300-1.html"
+  },
+  {
+   "manualId": "2588758",
+   "slug": "Buderus-Logalux-Sm310-5-E",
+   "title": "Logalux SM310.5 E Installation and service instructions manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "Logalux SM310.5 E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2588758/Buderus-Logalux-Sm310-5-E.html"
+  },
+  {
+   "manualId": "4376046",
+   "slug": "Buderus-Logalux-Sm310-5-Ew-B",
+   "title": "Logalux SM310.5 E Installation and service instructions manual",
+   "type": "Service",
+   "pages": 77,
+   "productModel": "Logalux SM310.5 E",
+   "extraModels": [
+    "Logalux SMS310.5 E S-B"
+   ],
+   "url": "https://www.manualslib.com/manual/4376046/Buderus-Logalux-Sm310-5-Ew-B.html"
+  },
+  {
+   "manualId": "2240030",
+   "slug": "Buderus-Logalux-St400-3-Us",
+   "title": "Logalux ST1000/3 US Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "Logalux ST1000/3 US",
+   "extraModels": [
+    "Logalux ST1000/3 US",
+    "Logalux ST500/3 US",
+    "Logalux ST750/3 US"
+   ],
+   "url": "https://www.manualslib.com/manual/2240030/Buderus-Logalux-St400-3-Us.html"
+  },
+  {
+   "manualId": "1426125",
+   "slug": "Buderus-Logamatic-2107",
+   "title": "Logamatic 2107 Applications manual",
+   "type": "Other",
+   "pages": 73,
+   "productModel": "Logamatic 2107",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1426125/Buderus-Logamatic-2107.html"
+  },
+  {
+   "manualId": "1062996",
+   "slug": "Buderus-Logamatic-2107",
+   "title": "Logamatic 2107 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "Logamatic 2107",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1062996/Buderus-Logamatic-2107.html"
+  },
+  {
+   "manualId": "744739",
+   "slug": "Buderus-Logamatic-2107",
+   "title": "Logamatic 2107 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "Logamatic 2107",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/744739/Buderus-Logamatic-2107.html"
+  },
+  {
+   "manualId": "2162755",
+   "slug": "Buderus-2107",
+   "title": "Logamatic 2107 Start-Up",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": "Logamatic 2107",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2162755/Buderus-2107.html"
+  },
+  {
+   "manualId": "934058",
+   "slug": "Buderus-Logamatic-4121",
+   "title": "Logamatic 4121 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 88,
+   "productModel": "Logamatic 4121",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/934058/Buderus-Logamatic-4121.html"
+  },
+  {
+   "manualId": "3830180",
+   "slug": "Buderus-Logamatic-4122",
+   "title": "Logamatic 4122 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 88,
+   "productModel": "Logamatic 4122",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3830180/Buderus-Logamatic-4122.html"
+  },
+  {
+   "manualId": "3830181",
+   "slug": "Buderus-Logamatic-4126",
+   "title": "Logamatic 4126 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 88,
+   "productModel": "Logamatic 4126",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3830181/Buderus-Logamatic-4126.html"
+  },
+  {
+   "manualId": "946904",
+   "slug": "Buderus-Logamatic-4211",
+   "title": "Logamatic 4211 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "Logamatic 4211",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/946904/Buderus-Logamatic-4211.html"
+  },
+  {
+   "manualId": "893659",
+   "slug": "Buderus-Logamatic-4321",
+   "title": "Logamatic 4321 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "Logamatic 4321",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/893659/Buderus-Logamatic-4321.html"
+  },
+  {
+   "manualId": "3828563",
+   "slug": "Buderus-Logamatic-4322",
+   "title": "Logamatic 4322 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "Logamatic 4322",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3828563/Buderus-Logamatic-4322.html"
+  },
+  {
+   "manualId": "946739",
+   "slug": "Buderus-Logamatic-4323",
+   "title": "Logamatic 4323 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "Logamatic 4323",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/946739/Buderus-Logamatic-4323.html"
+  },
+  {
+   "manualId": "1653401",
+   "slug": "Buderus-Logamatic-4323",
+   "title": "Logamatic 4323 Service instructions manual",
+   "type": "Service",
+   "pages": 120,
+   "productModel": "Logamatic 4323",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1653401/Buderus-Logamatic-4323.html"
+  },
+  {
+   "manualId": "947370",
+   "slug": "Buderus-Logamatic-4323",
+   "title": "Logamatic 4323 Service instructions manual",
+   "type": "Service",
+   "pages": 124,
+   "productModel": "Logamatic 4323",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/947370/Buderus-Logamatic-4323.html"
+  },
+  {
+   "manualId": "2759763",
+   "slug": "Buderus-Logamatic-Bc10",
+   "title": "Logamatic BC10 Operating And Service Instructions",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "Logamatic BC10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2759763/Buderus-Logamatic-Bc10.html"
+  },
+  {
+   "manualId": "745802",
+   "slug": "Buderus-Rc35",
+   "title": "Logamatic EMS operating instructions manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "Logamatic EMS",
+   "extraModels": [
+    "Logamatic EMS"
+   ],
+   "url": "https://www.manualslib.com/manual/745802/Buderus-Rc35.html"
+  },
+  {
+   "manualId": "832125",
+   "slug": "Buderus-Logamatic-Ems-Rc35",
+   "title": "Logamatic EMS RC35 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Logamatic EMS RC35",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/832125/Buderus-Logamatic-Ems-Rc35.html"
+  },
+  {
+   "manualId": "3083139",
+   "slug": "Buderus-Logamatic-Ems-Rc35",
+   "title": "Logamatic EMS RC35 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "Logamatic EMS RC35",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3083139/Buderus-Logamatic-Ems-Rc35.html"
+  },
+  {
+   "manualId": "1062889",
+   "slug": "Buderus-Logamatic-Ems",
+   "title": "Logamatic EMS Service instructions manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Logamatic EMS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1062889/Buderus-Logamatic-Ems.html"
+  },
+  {
+   "manualId": "1611311",
+   "slug": "Buderus-Logamatic-Lon-Gateway",
+   "title": "Logamatic LON-Gateway Technical Information",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "Logamatic LON-Gateway",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1611311/Buderus-Logamatic-Lon-Gateway.html"
+  },
+  {
+   "manualId": "3766749",
+   "slug": "Buderus-Rc120-Rf",
+   "title": "Logamatic RC120 RF quick start manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "Logamatic RC120 RF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3766749/Buderus-Rc120-Rf.html"
+  },
+  {
+   "manualId": "1605627",
+   "slug": "Buderus-Logamatic-Sc40",
+   "title": "Logamatic SC40 Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "Logamatic SC40",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1605627/Buderus-Logamatic-Sc40.html"
+  },
+  {
+   "manualId": "911864",
+   "slug": "Buderus-Logamatic-Sc40",
+   "title": "Logamatic SC40 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Logamatic SC40",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/911864/Buderus-Logamatic-Sc40.html"
+  },
+  {
+   "manualId": "1664993",
+   "slug": "Buderus-Logamatic-Tc100",
+   "title": "Logamatic TC100 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "Logamatic TC100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1664993/Buderus-Logamatic-Tc100.html"
+  },
+  {
+   "manualId": "1703783",
+   "slug": "Buderus-Logamatic-Tc100",
+   "title": "Logamatic TC100 Quick install manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Logamatic TC100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1703783/Buderus-Logamatic-Tc100.html"
+  },
+  {
+   "manualId": "1887777",
+   "slug": "Buderus-Logamatic-Web-Km200",
+   "title": "Logamatic web KM200 installation instructions manual",
+   "type": "Installation",
+   "pages": 85,
+   "productModel": "Logamatic web KM200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1887777/Buderus-Logamatic-Web-Km200.html"
+  },
+  {
+   "manualId": "2159001",
+   "slug": "Buderus-Logamatic-Web-Km200",
+   "title": "Logamatic web KM200 installation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "Logamatic web KM200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2159001/Buderus-Logamatic-Web-Km200.html"
+  },
+  {
+   "manualId": "1424167",
+   "slug": "Buderus-Logamax-Gb062-24-Kde-H-V2",
+   "title": "Logamax GB062-24 KDE H V2 Service manual",
+   "type": "Service",
+   "pages": 57,
+   "productModel": "Logamax GB062-24 KDE H V2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1424167/Buderus-Logamax-Gb062-24-Kde-H-V2.html"
+  },
+  {
+   "manualId": "3849550",
+   "slug": "Buderus-Logamax-Gb062-24-Kdh-V2",
+   "title": "Logamax GB062-24 KDH V2 Service manual",
+   "type": "Service",
+   "pages": 57,
+   "productModel": "Logamax GB062-24 KDH V2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3849550/Buderus-Logamax-Gb062-24-Kdh-V2.html"
+  },
+  {
+   "manualId": "877144",
+   "slug": "Buderus-Logamax-Plus-Gb142-24",
+   "title": "Logamax plus GB142-24 Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "Logamax plus GB142-24",
+   "extraModels": [
+    "Logamax plus GB142-30",
+    "Logamax plus GB142-45",
+    "Logamax plus GB142-60"
+   ],
+   "url": "https://www.manualslib.com/manual/877144/Buderus-Logamax-Plus-Gb142-24.html"
+  },
+  {
+   "manualId": "1257658",
+   "slug": "Buderus-Logamax-Plus-Gb142-24",
+   "title": "Logamax plus GB142-24 installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Logamax plus GB142-24",
+   "extraModels": [
+    "Logamax plus GB142-30",
+    "Logamax plus GB142-45",
+    "Logamax plus GB142-60"
+   ],
+   "url": "https://www.manualslib.com/manual/1257658/Buderus-Logamax-Plus-Gb142-24.html"
+  },
+  {
+   "manualId": "891660",
+   "slug": "Buderus-Logamax-Plus-Gb142-24",
+   "title": "Logamax plus GB142-24 installation instructions manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "Logamax plus GB142-24",
+   "extraModels": [
+    "Logamax plus GB142-30",
+    "Logamax plus GB142-45",
+    "Logamax plus GB142-60"
+   ],
+   "url": "https://www.manualslib.com/manual/891660/Buderus-Logamax-Plus-Gb142-24.html"
+  },
+  {
+   "manualId": "1023064",
+   "slug": "Buderus-Logamax-Plus-Gb142-24",
+   "title": "Logamax plus GB142-24 installation manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "Logamax plus GB142-24",
+   "extraModels": [
+    "Logamax plus GB142-30",
+    "Logamax plus GB142-45",
+    "Logamax plus GB142-60"
+   ],
+   "url": "https://www.manualslib.com/manual/1023064/Buderus-Logamax-Plus-Gb142-24.html"
+  },
+  {
+   "manualId": "701558",
+   "slug": "Buderus-Gb142-60",
+   "title": "Logamax plus GB142-24 Instruction",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logamax plus GB142-24",
+   "extraModels": [
+    "Logamax plus GB142-24",
+    "Logamax plus GB142-30",
+    "Logamax plus GB142-45",
+    "Logamax plus GB142-60"
+   ],
+   "url": "https://www.manualslib.com/manual/701558/Buderus-Gb142-60.html"
+  },
+  {
+   "manualId": "704435",
+   "slug": "Buderus-Gb142-24",
+   "title": "Logamax plus GB142-24 Instruction",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logamax plus GB142-24",
+   "extraModels": [
+    "Logamax plus GB142-24",
+    "Logamax plus GB142-30",
+    "Logamax plus GB142-45",
+    "Logamax plus GB142-60"
+   ],
+   "url": "https://www.manualslib.com/manual/704435/Buderus-Gb142-24.html"
+  },
+  {
+   "manualId": "2041285",
+   "slug": "Buderus-Logamax-Plus-Gb142-24",
+   "title": "Logamax plus GB142-24 instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Logamax plus GB142-24",
+   "extraModels": [
+    "Logamax plus GB142-30",
+    "Logamax plus GB142-45",
+    "Logamax plus GB142-60"
+   ],
+   "url": "https://www.manualslib.com/manual/2041285/Buderus-Logamax-Plus-Gb142-24.html"
+  },
+  {
+   "manualId": "695437",
+   "slug": "Buderus-Logamax-Plus-Gb142-24",
+   "title": "Logamax plus GB142-24 Servicing Instructions",
+   "type": "User / Owner",
+   "pages": 132,
+   "productModel": "Logamax plus GB142-24",
+   "extraModels": [
+    "Logamax plus GB142-30",
+    "Logamax plus GB142-45",
+    "Logamax plus GB142-60"
+   ],
+   "url": "https://www.manualslib.com/manual/695437/Buderus-Logamax-Plus-Gb142-24.html"
+  },
+  {
+   "manualId": "1311774",
+   "slug": "Buderus-Gb142-24",
+   "title": "Logamax plus GB142-24 User Instructions",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Logamax plus GB142-24",
+   "extraModels": [
+    "Logamax plus GB142-24",
+    "Logamax plus GB142-30",
+    "Logamax plus GB142-45",
+    "Logamax plus GB142-60"
+   ],
+   "url": "https://www.manualslib.com/manual/1311774/Buderus-Gb142-24.html"
+  },
+  {
+   "manualId": "1111789",
+   "slug": "Buderus-Logamax-Plus-Gb162",
+   "title": "Logamax plus GB162 Applications manual",
+   "type": "Other",
+   "pages": 88,
+   "productModel": "Logamax plus GB162",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1111789/Buderus-Logamax-Plus-Gb162.html"
+  },
+  {
+   "manualId": "1282448",
+   "slug": "Buderus-Logamax-Plus-Gb162",
+   "title": "Logamax plus GB162 Applications manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "Logamax plus GB162",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1282448/Buderus-Logamax-Plus-Gb162.html"
+  },
+  {
+   "manualId": "832585",
+   "slug": "Buderus-Logamax-Plus-Gb162",
+   "title": "Logamax plus GB162 Applications manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "Logamax plus GB162",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/832585/Buderus-Logamax-Plus-Gb162.html"
+  },
+  {
+   "manualId": "1261105",
+   "slug": "Buderus-Logamax-Plus-Gb162",
+   "title": "Logamax plus GB162 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Logamax plus GB162",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1261105/Buderus-Logamax-Plus-Gb162.html"
+  },
+  {
+   "manualId": "3025079",
+   "slug": "Buderus-Logamax-Plus-Gb162",
+   "title": "Logamax plus GB162 quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "Logamax plus GB162",
+   "extraModels": [
+    "Logamax plus GB162-100 kW"
+   ],
+   "url": "https://www.manualslib.com/manual/3025079/Buderus-Logamax-Plus-Gb162.html"
+  },
+  {
+   "manualId": "1064071",
+   "slug": "Buderus-Logamax-Plus-Gb162",
+   "title": "Logamax plus GB162 Technical manual",
+   "type": "Other",
+   "pages": 172,
+   "productModel": "Logamax plus GB162",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1064071/Buderus-Logamax-Plus-Gb162.html"
+  },
+  {
+   "manualId": "3958650",
+   "slug": "Buderus-Logamax-Plus-Gb162-80",
+   "title": "Logamax plus GB162-100 kW Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logamax plus GB162-100 kW",
+   "extraModels": [
+    "Logamax plus GB162-100 kW"
+   ],
+   "url": "https://www.manualslib.com/manual/3958650/Buderus-Logamax-Plus-Gb162-80.html"
+  },
+  {
+   "manualId": "845723",
+   "slug": "Buderus-Logamax-Plus-Gb162-80-Kw",
+   "title": "Logamax plus GB162-100 kW installation instructions manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "Logamax plus GB162-100 kW",
+   "extraModels": [
+    "Logamax plus GB162-100 kW"
+   ],
+   "url": "https://www.manualslib.com/manual/845723/Buderus-Logamax-Plus-Gb162-80-Kw.html"
+  },
+  {
+   "manualId": "889426",
+   "slug": "Buderus-Logamax-Plus-Gb162-L-B-80-Kw",
+   "title": "Logamax plus GB162-100 kW installation instructions manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "Logamax plus GB162-100 kW",
+   "extraModels": [
+    "Logamax plus GB162-100 kW",
+    "Logamax plus GB162-80 kW",
+    "Logamax plus GB162-L.B. 100 kW"
+   ],
+   "url": "https://www.manualslib.com/manual/889426/Buderus-Logamax-Plus-Gb162-L-B-80-Kw.html"
+  },
+  {
+   "manualId": "834008",
+   "slug": "Buderus-Logamax-Plus-Gb162-80-Kw",
+   "title": "Logamax plus GB162-100 kW instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Logamax plus GB162-100 kW",
+   "extraModels": [
+    "Logamax plus GB162-100 kW"
+   ],
+   "url": "https://www.manualslib.com/manual/834008/Buderus-Logamax-Plus-Gb162-80-Kw.html"
+  },
+  {
+   "manualId": "837562",
+   "slug": "Buderus-Logamax-Plus-Gb162-80-Kw",
+   "title": "Logamax plus GB162-100 kW Replacement instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logamax plus GB162-100 kW",
+   "extraModels": [
+    "Logamax plus GB162-100 kW"
+   ],
+   "url": "https://www.manualslib.com/manual/837562/Buderus-Logamax-Plus-Gb162-80-Kw.html"
+  },
+  {
+   "manualId": "834904",
+   "slug": "Buderus-Logamax-Plus-Gb162-80-Kw",
+   "title": "Logamax plus GB162-100 kW Service instructions manual",
+   "type": "Service",
+   "pages": 100,
+   "productModel": "Logamax plus GB162-100 kW",
+   "extraModels": [
+    "Logamax plus GB162-100 kW"
+   ],
+   "url": "https://www.manualslib.com/manual/834904/Buderus-Logamax-Plus-Gb162-80-Kw.html"
+  },
+  {
+   "manualId": "1195531",
+   "slug": "Buderus-Logamax-Plus-Gb162-100",
+   "title": "Logamax plus GB162-100 kW user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Logamax plus GB162-100 kW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1195531/Buderus-Logamax-Plus-Gb162-100.html"
+  },
+  {
+   "manualId": "3839473",
+   "slug": "Buderus-Logamax-Plus-Gb162-65",
+   "title": "Logamax plus GB162-65 user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Logamax plus GB162-65",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3839473/Buderus-Logamax-Plus-Gb162-65.html"
+  },
+  {
+   "manualId": "3839472",
+   "slug": "Buderus-Logamax-Plus-Gb162-80",
+   "title": "Logamax plus GB162-80 user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Logamax plus GB162-80",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3839472/Buderus-Logamax-Plus-Gb162-80.html"
+  },
+  {
+   "manualId": "829217",
+   "slug": "Buderus-Logamax-Plus",
+   "title": "Logamax plus installation instructions manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "Logamax plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/829217/Buderus-Logamax-Plus.html"
+  },
+  {
+   "manualId": "1449831",
+   "slug": "Buderus-Logamax-Plus",
+   "title": "Logamax plus Service manual",
+   "type": "Service",
+   "pages": 35,
+   "productModel": "Logamax plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1449831/Buderus-Logamax-Plus.html"
+  },
+  {
+   "manualId": "2685648",
+   "slug": "Buderus-Logano-Us-Gc-144-Ii",
+   "title": "Logano CA GC 144 II Installation and service instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Logano CA GC 144 II",
+   "extraModels": [
+    "Logano CA GC 144 II"
+   ],
+   "url": "https://www.manualslib.com/manual/2685648/Buderus-Logano-Us-Gc-144-Ii.html"
+  },
+  {
+   "manualId": "2942994",
+   "slug": "Buderus-Logano-G115-3-Ws",
+   "title": "Logano G115 WS US/CA Installation and service instructions manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Logano G115 WS US/CA",
+   "extraModels": [
+    "Logano G115 WS US/CA",
+    "Logano G115WS/3"
+   ],
+   "url": "https://www.manualslib.com/manual/2942994/Buderus-Logano-G115-3-Ws.html"
+  },
+  {
+   "manualId": "702717",
+   "slug": "Buderus-Logano-G115-Ws-Us-Ca",
+   "title": "Logano G115 WS US/CA Installation and service instructions manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "Logano G115 WS US/CA",
+   "extraModels": [
+    "Logano G115/3 WS",
+    "Logano G115/4 WS",
+    "Logano G115/5 WS"
+   ],
+   "url": "https://www.manualslib.com/manual/702717/Buderus-Logano-G115-Ws-Us-Ca.html"
+  },
+  {
+   "manualId": "857385",
+   "slug": "Buderus-Logano-G115-Ws",
+   "title": "Logano G115 WS US/CA installation instructions manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Logano G115 WS US/CA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/857385/Buderus-Logano-G115-Ws.html"
+  },
+  {
+   "manualId": "1057515",
+   "slug": "Buderus-Logano-G115-Ws",
+   "title": "Logano G115 WS US/CA operating instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Logano G115 WS US/CA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1057515/Buderus-Logano-G115-Ws.html"
+  },
+  {
+   "manualId": "2942988",
+   "slug": "Buderus-Logano-G115ws-3",
+   "title": "Logano G115 WS US/CA operating instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Logano G115 WS US/CA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2942988/Buderus-Logano-G115ws-3.html"
+  },
+  {
+   "manualId": "727746",
+   "slug": "Buderus-Logano-G115-Ws-Us",
+   "title": "Logano G115 WS US/CA operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Logano G115 WS US/CA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/727746/Buderus-Logano-G115-Ws-Us.html"
+  },
+  {
+   "manualId": "3910636",
+   "slug": "Buderus-Logano-G115-4-Ws",
+   "title": "Logano G115/4 WS Installation and service instructions manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Logano G115/4 WS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3910636/Buderus-Logano-G115-4-Ws.html"
+  },
+  {
+   "manualId": "3910637",
+   "slug": "Buderus-Logano-G115-5-Ws",
+   "title": "Logano G115/5 WS Installation and service instructions manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Logano G115/5 WS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3910637/Buderus-Logano-G115-5-Ws.html"
+  },
+  {
+   "manualId": "703897",
+   "slug": "Buderus-Logano-G124x-Ii-Sp",
+   "title": "Logano G124X II/SP Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "Logano G124X II/SP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/703897/Buderus-Logano-G124x-Ii-Sp.html"
+  },
+  {
+   "manualId": "931094",
+   "slug": "Buderus-Logano-Ga124-Sc",
+   "title": "Logano G124X II/SP operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logano G124X II/SP",
+   "extraModels": [
+    "Logano G124X II/SP"
+   ],
+   "url": "https://www.manualslib.com/manual/931094/Buderus-Logano-Ga124-Sc.html"
+  },
+  {
+   "manualId": "831855",
+   "slug": "Buderus-Logano-G125-Be-Us-Ca",
+   "title": "Logano G125 BE Installation and service instructions manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "Logano G125 BE",
+   "extraModels": [
+    "Logano G125-34",
+    "Logano G125/21-BE",
+    "Logano G125/28-BE",
+    "Logano G125/34-BE"
+   ],
+   "url": "https://www.manualslib.com/manual/831855/Buderus-Logano-G125-Be-Us-Ca.html"
+  },
+  {
+   "manualId": "739734",
+   "slug": "Buderus-Logano-G125-Be",
+   "title": "Logano G125 BE user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logano G125 BE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/739734/Buderus-Logano-G125-Be.html"
+  },
+  {
+   "manualId": "695526",
+   "slug": "Buderus-Logano-G215-Us",
+   "title": "Logano G215 US Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "Logano G215 US",
+   "extraModels": [
+    "Logano G215/3 US",
+    "Logano G215/4 US",
+    "Logano G215/5 US",
+    "Logano G215/6 US",
+    "Logano G215/7 US"
+   ],
+   "url": "https://www.manualslib.com/manual/695526/Buderus-Logano-G215-Us.html"
+  },
+  {
+   "manualId": "638888",
+   "slug": "Buderus-Logano-G215-Us",
+   "title": "Logano G215 US user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logano G215 US",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/638888/Buderus-Logano-G215-Us.html"
+  },
+  {
+   "manualId": "941404",
+   "slug": "Buderus-Logano-G215-Ws",
+   "title": "Logano G215 WS Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 62,
+   "productModel": "Logano G215 WS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/941404/Buderus-Logano-G215-Ws.html"
+  },
+  {
+   "manualId": "849418",
+   "slug": "Buderus-Logano-G215-Ws",
+   "title": "Logano G215 WS operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logano G215 WS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/849418/Buderus-Logano-G215-Ws.html"
+  },
+  {
+   "manualId": "1263226",
+   "slug": "Buderus-Logano-G225",
+   "title": "Logano G225 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Logano G225",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1263226/Buderus-Logano-G225.html"
+  },
+  {
+   "manualId": "894626",
+   "slug": "Buderus-Logano-G234x",
+   "title": "Logano G234X Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "Logano G234X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/894626/Buderus-Logano-G234x.html"
+  },
+  {
+   "manualId": "703437",
+   "slug": "Buderus-Logano-G234x",
+   "title": "Logano G234X Installation and service instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Logano G234X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/703437/Buderus-Logano-G234x.html"
+  },
+  {
+   "manualId": "915133",
+   "slug": "Buderus-Logano-G234x",
+   "title": "Logano G234X Installation and service instructions manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "Logano G234X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/915133/Buderus-Logano-G234x.html"
+  },
+  {
+   "manualId": "890437",
+   "slug": "Buderus-Logano-G234x",
+   "title": "Logano G234X instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Logano G234X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/890437/Buderus-Logano-G234x.html"
+  },
+  {
+   "manualId": "900335",
+   "slug": "Buderus-Logano-G234x",
+   "title": "Logano G234X operating instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Logano G234X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/900335/Buderus-Logano-G234x.html"
+  },
+  {
+   "manualId": "791218",
+   "slug": "Buderus-Logano-G234x",
+   "title": "Logano G234X user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logano G234X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/791218/Buderus-Logano-G234x.html"
+  },
+  {
+   "manualId": "1449438",
+   "slug": "Buderus-G315",
+   "title": "Logano G315 Assembly, Maintenance and operating Instruction",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "Logano G315",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1449438/Buderus-G315.html"
+  },
+  {
+   "manualId": "2388682",
+   "slug": "Buderus-Logano-G315",
+   "title": "Logano G315 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "Logano G315",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2388682/Buderus-Logano-G315.html"
+  },
+  {
+   "manualId": "703215",
+   "slug": "Buderus-Logano-G315",
+   "title": "Logano G315 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "Logano G315",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/703215/Buderus-Logano-G315.html"
+  },
+  {
+   "manualId": "2214728",
+   "slug": "Buderus-Logano-G315",
+   "title": "Logano G315 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Logano G315",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2214728/Buderus-Logano-G315.html"
+  },
+  {
+   "manualId": "703870",
+   "slug": "Buderus-Logano-G334-X",
+   "title": "Logano G334 X Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "Logano G334 X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/703870/Buderus-Logano-G334-X.html"
+  },
+  {
+   "manualId": "1032303",
+   "slug": "Buderus-Logano-G334-X",
+   "title": "Logano G334 X instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Logano G334 X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1032303/Buderus-Logano-G334-X.html"
+  },
+  {
+   "manualId": "701393",
+   "slug": "Buderus-Logano-G334-X",
+   "title": "Logano G334 X instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Logano G334 X",
+   "extraModels": [
+    "Logano G334 X-116",
+    "Logano G334 X-132",
+    "Logano G334 X-73",
+    "Logano G334 X-92"
+   ],
+   "url": "https://www.manualslib.com/manual/701393/Buderus-Logano-G334-X.html"
+  },
+  {
+   "manualId": "894669",
+   "slug": "Buderus-Logano-G334-X",
+   "title": "Logano G334 X operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logano G334 X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/894669/Buderus-Logano-G334-X.html"
+  },
+  {
+   "manualId": "969042",
+   "slug": "Buderus-Logano-G334x",
+   "title": "Logano G334 X user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Logano G334 X",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/969042/Buderus-Logano-G334x.html"
+  },
+  {
+   "manualId": "908391",
+   "slug": "Buderus-Logano-G515",
+   "title": "Logano G515 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "Logano G515",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/908391/Buderus-Logano-G515.html"
+  },
+  {
+   "manualId": "2352765",
+   "slug": "Buderus-Logano-G515",
+   "title": "Logano G515 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logano G515",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2352765/Buderus-Logano-G515.html"
+  },
+  {
+   "manualId": "878728",
+   "slug": "Buderus-Logano-G615",
+   "title": "Logano G615 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "Logano G615",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/878728/Buderus-Logano-G615.html"
+  },
+  {
+   "manualId": "701675",
+   "slug": "Buderus-Logano-Ga124",
+   "title": "Logano GA124 Conversion instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Logano GA124",
+   "extraModels": [
+    "Logano GA124-17",
+    "Logano GA124-23",
+    "Logano GA124-30"
+   ],
+   "url": "https://www.manualslib.com/manual/701675/Buderus-Logano-Ga124.html"
+  },
+  {
+   "manualId": "704247",
+   "slug": "Buderus-Logano-Ga124",
+   "title": "Logano GA124 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "Logano GA124",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/704247/Buderus-Logano-Ga124.html"
+  },
+  {
+   "manualId": "891415",
+   "slug": "Buderus-Logano-Ga124-Sc",
+   "title": "Logano GA124 SC operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logano GA124 SC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/891415/Buderus-Logano-Ga124-Sc.html"
+  },
+  {
+   "manualId": "699353",
+   "slug": "Buderus-Ga-124-17",
+   "title": "Logano GA124-17 instructions manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "Logano GA124-17",
+   "extraModels": [
+    "Logano GA124-23",
+    "Logano GA124-30"
+   ],
+   "url": "https://www.manualslib.com/manual/699353/Buderus-Ga-124-17.html"
+  },
+  {
+   "manualId": "2475723",
+   "slug": "Buderus-Logano-Ga224",
+   "title": "Logano GA224 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "Logano GA224",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2475723/Buderus-Logano-Ga224.html"
+  },
+  {
+   "manualId": "689673",
+   "slug": "Buderus-Logano-Ga244",
+   "title": "Logano GA244 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "Logano GA244",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/689673/Buderus-Logano-Ga244.html"
+  },
+  {
+   "manualId": "747691",
+   "slug": "Buderus-Logano-Ga244",
+   "title": "Logano GA244 User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Logano GA244",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/747691/Buderus-Logano-Ga244.html"
+  },
+  {
+   "manualId": "705151",
+   "slug": "Buderus-Logano-Ga244-37",
+   "title": "Logano GA244-37 supplementary manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "Logano GA244-37",
+   "extraModels": [
+    "Logano GA244-44",
+    "Logano GA244-53",
+    "Logano GA244-62"
+   ],
+   "url": "https://www.manualslib.com/manual/705151/Buderus-Logano-Ga244-37.html"
+  },
+  {
+   "manualId": "1233547",
+   "slug": "Buderus-Logano-Gb125-Be",
+   "title": "Logano GB125 BE US Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "Logano GB125 BE US",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1233547/Buderus-Logano-Gb125-Be.html"
+  },
+  {
+   "manualId": "1107690",
+   "slug": "Buderus-Logano-Gb125-22-Be",
+   "title": "Logano GB125 BE US Installation and service instructions manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "Logano GB125 BE US",
+   "extraModels": [
+    "Logano GB125 BE US"
+   ],
+   "url": "https://www.manualslib.com/manual/1107690/Buderus-Logano-Gb125-22-Be.html"
+  },
+  {
+   "manualId": "747607",
+   "slug": "Buderus-Logano-Gb125-Be-Us",
+   "title": "Logano GB125 BE US operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logano GB125 BE US",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/747607/Buderus-Logano-Gb125-Be-Us.html"
+  },
+  {
+   "manualId": "1583409",
+   "slug": "Buderus-Logano-Gb125",
+   "title": "Logano GB125 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "Logano GB125",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1583409/Buderus-Logano-Gb125.html"
+  },
+  {
+   "manualId": "1289222",
+   "slug": "Buderus-Logano-Gb125",
+   "title": "Logano GB125 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Logano GB125",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1289222/Buderus-Logano-Gb125.html"
+  },
+  {
+   "manualId": "3836551",
+   "slug": "Buderus-Logano-Gb125-30-Be",
+   "title": "Logano GB125/30 BE Installation and service instructions manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "Logano GB125/30 BE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3836551/Buderus-Logano-Gb125-30-Be.html"
+  },
+  {
+   "manualId": "3836550",
+   "slug": "Buderus-Logano-Gb125-35-Be",
+   "title": "Logano GB125/35 BE Installation and service instructions manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "Logano GB125/35 BE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3836550/Buderus-Logano-Gb125-35-Be.html"
+  },
+  {
+   "manualId": "703383",
+   "slug": "Buderus-Logano-Gc-124-Ii",
+   "title": "Logano GC 124 II Installation and service instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "Logano GC 124 II",
+   "extraModels": [
+    "LoganoCA GC 144 II",
+    "LoganoUS GC 144 II"
+   ],
+   "url": "https://www.manualslib.com/manual/703383/Buderus-Logano-Gc-124-Ii.html"
+  },
+  {
+   "manualId": "638869",
+   "slug": "Buderus-Logano-Gc124-Ii",
+   "title": "Logano GC 124 II user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logano GC 124 II",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/638869/Buderus-Logano-Gc124-Ii.html"
+  },
+  {
+   "manualId": "697507",
+   "slug": "Buderus-Logano-Gc-124-Ii",
+   "title": "Logano GC 124 II user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logano GC 124 II",
+   "extraModels": [
+    "Logano GC124 II-18",
+    "Logano GC124 II-25",
+    "Logano GC124 II-32"
+   ],
+   "url": "https://www.manualslib.com/manual/697507/Buderus-Logano-Gc-124-Ii.html"
+  },
+  {
+   "manualId": "703205",
+   "slug": "Buderus-Logano-Gc124-Ii-Sp",
+   "title": "Logano GC124 II/SP Installation and service instructions manual",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "Logano GC124 II/SP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/703205/Buderus-Logano-Gc124-Ii-Sp.html"
+  },
+  {
+   "manualId": "3819662",
+   "slug": "Buderus-Logano-Gc124-Sp",
+   "title": "Logano GC124 SP user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logano GC124 SP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3819662/Buderus-Logano-Gc124-Sp.html"
+  },
+  {
+   "manualId": "1670238",
+   "slug": "Buderus-Logano-Ge315",
+   "title": "Logano GE315 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "Logano GE315",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1670238/Buderus-Logano-Ge315.html"
+  },
+  {
+   "manualId": "857307",
+   "slug": "Buderus-Logano-Ge315",
+   "title": "Logano GE315 Technical manual",
+   "type": "Other",
+   "pages": 80,
+   "productModel": "Logano GE315",
+   "extraModels": [
+    "Logano GE515",
+    "Logano GE615"
+   ],
+   "url": "https://www.manualslib.com/manual/857307/Buderus-Logano-Ge315.html"
+  },
+  {
+   "manualId": "1148698",
+   "slug": "Buderus-Logano-Ge434",
+   "title": "Logano GE434 Maintenance instructions manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "Logano GE434",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1148698/Buderus-Logano-Ge434.html"
+  },
+  {
+   "manualId": "1616128",
+   "slug": "Buderus-Logano-Ge515",
+   "title": "Logano GE515 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "Logano GE515",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1616128/Buderus-Logano-Ge515.html"
+  },
+  {
+   "manualId": "1946215",
+   "slug": "Buderus-Logano-Ge515",
+   "title": "Logano GE515 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Logano GE515",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1946215/Buderus-Logano-Ge515.html"
+  },
+  {
+   "manualId": "1028955",
+   "slug": "Buderus-Logano-Ge615",
+   "title": "Logano GE615 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Logano GE615",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1028955/Buderus-Logano-Ge615.html"
+  },
+  {
+   "manualId": "1739071",
+   "slug": "Buderus-Logano-Plus-Gb102",
+   "title": "Logano plus GB102 instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Logano plus GB102",
+   "extraModels": [
+    "Logano plus GB102S"
+   ],
+   "url": "https://www.manualslib.com/manual/1739071/Buderus-Logano-Plus-Gb102.html"
+  },
+  {
+   "manualId": "1290634",
+   "slug": "Buderus-Logano-Plus-Gb102s",
+   "title": "Logano plus GB102 User instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logano plus GB102",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1290634/Buderus-Logano-Plus-Gb102s.html"
+  },
+  {
+   "manualId": "3842100",
+   "slug": "Buderus-Logano-Plus-Gb225",
+   "title": "Logano plus GB225 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Logano plus GB225",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3842100/Buderus-Logano-Plus-Gb225.html"
+  },
+  {
+   "manualId": "1145923",
+   "slug": "Buderus-Logano-Plus-Gb312",
+   "title": "Logano plus GB312 Applications manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "Logano plus GB312",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1145923/Buderus-Logano-Plus-Gb312.html"
+  },
+  {
+   "manualId": "702998",
+   "slug": "Buderus-Logano-Plus-Gb312",
+   "title": "Logano plus GB312 Applications manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": "Logano plus GB312",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/702998/Buderus-Logano-Plus-Gb312.html"
+  },
+  {
+   "manualId": "835064",
+   "slug": "Buderus-Logano-Plus-Gb312",
+   "title": "Logano plus GB312 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "Logano plus GB312",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/835064/Buderus-Logano-Plus-Gb312.html"
+  },
+  {
+   "manualId": "792204",
+   "slug": "Buderus-Logano-Plus-Gb312",
+   "title": "Logano plus GB312 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "Logano plus GB312",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/792204/Buderus-Logano-Plus-Gb312.html"
+  },
+  {
+   "manualId": "892940",
+   "slug": "Buderus-Logano-Plus-Gb312",
+   "title": "Logano plus GB312 installation instructions manual",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "Logano plus GB312",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/892940/Buderus-Logano-Plus-Gb312.html"
+  },
+  {
+   "manualId": "1024052",
+   "slug": "Buderus-Logano-Plus-Gb312",
+   "title": "Logano plus GB312 installation manual",
+   "type": "Installation",
+   "pages": 124,
+   "productModel": "Logano plus GB312",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1024052/Buderus-Logano-Plus-Gb312.html"
+  },
+  {
+   "manualId": "1021529",
+   "slug": "Buderus-Logano-Plus-Gb312",
+   "title": "Logano plus GB312 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logano plus GB312",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1021529/Buderus-Logano-Plus-Gb312.html"
+  },
+  {
+   "manualId": "873514",
+   "slug": "Buderus-Logano-Plus-Gb312",
+   "title": "Logano plus GB312 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Logano plus GB312",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/873514/Buderus-Logano-Plus-Gb312.html"
+  },
+  {
+   "manualId": "956696",
+   "slug": "Buderus-Logano-Plus-Gb312",
+   "title": "Logano plus GB312 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Logano plus GB312",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/956696/Buderus-Logano-Plus-Gb312.html"
+  },
+  {
+   "manualId": "2934904",
+   "slug": "Buderus-Logano-Plus-Gb312",
+   "title": "Logano plus GB312 Repair instructions",
+   "type": "Service",
+   "pages": 8,
+   "productModel": "Logano plus GB312",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2934904/Buderus-Logano-Plus-Gb312.html"
+  },
+  {
+   "manualId": "3508348",
+   "slug": "Buderus-Logano-Plus-Gb312",
+   "title": "Logano plus GB312 Repair instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": "Logano plus GB312",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3508348/Buderus-Logano-Plus-Gb312.html"
+  },
+  {
+   "manualId": "1024446",
+   "slug": "Buderus-Logano-Plus-Gb402",
+   "title": "Logano plus GB402 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "Logano plus GB402",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1024446/Buderus-Logano-Plus-Gb402.html"
+  },
+  {
+   "manualId": "1267194",
+   "slug": "Buderus-Logano-Plus-Gb402",
+   "title": "Logano plus GB402 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "Logano plus GB402",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1267194/Buderus-Logano-Plus-Gb402.html"
+  },
+  {
+   "manualId": "963534",
+   "slug": "Buderus-Logano-Plus-Gb402",
+   "title": "Logano plus GB402 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "Logano plus GB402",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/963534/Buderus-Logano-Plus-Gb402.html"
+  },
+  {
+   "manualId": "847847",
+   "slug": "Buderus-Logano-Plus-Sb315",
+   "title": "Logano plus SB315 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Logano plus SB315",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/847847/Buderus-Logano-Plus-Sb315.html"
+  },
+  {
+   "manualId": "881404",
+   "slug": "Buderus-Logano-Plus-Sb325",
+   "title": "Logano plus SB325 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "Logano plus SB325",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/881404/Buderus-Logano-Plus-Sb325.html"
+  },
+  {
+   "manualId": "1106301",
+   "slug": "Buderus-Logano-Plus-Sb325",
+   "title": "Logano plus SB325 Operating instructions for user",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Logano plus SB325",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1106301/Buderus-Logano-Plus-Sb325.html"
+  },
+  {
+   "manualId": "850922",
+   "slug": "Buderus-Sb615",
+   "title": "Logano plus SB615 Gas Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "Logano plus SB615 Gas",
+   "extraModels": [
+    "Logano plus SB615 Gas"
+   ],
+   "url": "https://www.manualslib.com/manual/850922/Buderus-Sb615.html"
+  },
+  {
+   "manualId": "1601771",
+   "slug": "Buderus-Logano-Plus-Sb615",
+   "title": "Logano plus SB615 Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Logano plus SB615",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1601771/Buderus-Logano-Plus-Sb615.html"
+  },
+  {
+   "manualId": "1296873",
+   "slug": "Buderus-Logano-Plus-Sb745",
+   "title": "Logano plus SB745 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Logano plus SB745",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1296873/Buderus-Logano-Plus-Sb745.html"
+  },
+  {
+   "manualId": "2797580",
+   "slug": "Buderus-Logatop-Be-1-3",
+   "title": "Logatop BE 1.3 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "Logatop BE 1.3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2797580/Buderus-Logatop-Be-1-3.html"
+  },
+  {
+   "manualId": "3905607",
+   "slug": "Buderus-Logatop-Be-2-3",
+   "title": "Logatop BE 2.3 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "Logatop BE 2.3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3905607/Buderus-Logatop-Be-2-3.html"
+  },
+  {
+   "manualId": "3843295",
+   "slug": "Buderus-Logatop-Be",
+   "title": "Logatop BE operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Logatop BE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3843295/Buderus-Logatop-Be.html"
+  },
+  {
+   "manualId": "4215511",
+   "slug": "Buderus-Logatrend-C-A-Profil-Plan-2",
+   "title": "Logatrend C-A-Profil/Plan.2 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 156,
+   "productModel": "Logatrend C-A-Profil/Plan.2",
+   "extraModels": [
+    "Logatrend VC-A-Profil/Plan.2",
+    "Logatrend VCM-A-Profil/Plan.2"
+   ],
+   "url": "https://www.manualslib.com/manual/4215511/Buderus-Logatrend-C-A-Profil-Plan-2.html"
+  },
+  {
+   "manualId": "3890953",
+   "slug": "Buderus-Lt160-1",
+   "title": "LT160/1 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "LT160/1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3890953/Buderus-Lt160-1.html"
+  },
+  {
+   "manualId": "3890954",
+   "slug": "Buderus-Lt200-1",
+   "title": "LT200/1 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "LT200/1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3890954/Buderus-Lt200-1.html"
+  },
+  {
+   "manualId": "3890955",
+   "slug": "Buderus-Lt300-1",
+   "title": "LT300/1 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "LT300/1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3890955/Buderus-Lt300-1.html"
+  },
+  {
+   "manualId": "749332",
+   "slug": "Buderus-Mcm10",
+   "title": "MCM10 installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "MCM10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/749332/Buderus-Mcm10.html"
+  },
+  {
+   "manualId": "923889",
+   "slug": "Buderus-Modulink-250-Rf",
+   "title": "ModuLink 250 RF Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "ModuLink 250 RF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/923889/Buderus-Modulink-250-Rf.html"
+  },
+  {
+   "manualId": "847165",
+   "slug": "Buderus-Modulink-250-Rf",
+   "title": "ModuLink 250 RF user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "ModuLink 250 RF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/847165/Buderus-Modulink-250-Rf.html"
+  },
+  {
+   "manualId": "2041008",
+   "slug": "Buderus-Mp100-Ems-Plus",
+   "title": "MP100 EMS plus installation instructions manual",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "MP100 EMS plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2041008/Buderus-Mp100-Ems-Plus.html"
+  },
+  {
+   "manualId": "2906349",
+   "slug": "Buderus-Mx300",
+   "title": "MX300 quick start manual",
+   "type": "Other",
+   "pages": 64,
+   "productModel": "MX300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2906349/Buderus-Mx300.html"
+  },
+  {
+   "manualId": "3261683",
+   "slug": "Buderus-Mx300",
+   "title": "MX300 quick start manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "MX300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3261683/Buderus-Mx300.html"
+  },
+  {
+   "manualId": "3964395",
+   "slug": "Buderus-Mx300",
+   "title": "MX300 quick start manual",
+   "type": "Other",
+   "pages": 100,
+   "productModel": "MX300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3964395/Buderus-Mx300.html"
+  },
+  {
+   "manualId": "3624513",
+   "slug": "Buderus-Mx400",
+   "title": "MX400 Manual",
+   "type": "Other",
+   "pages": 76,
+   "productModel": "MX400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3624513/Buderus-Mx400.html"
+  },
+  {
+   "manualId": "2359989",
+   "slug": "Buderus-P-120-5w",
+   "title": "P 120/5W Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "P 120/5W",
+   "extraModels": [
+    "P 200/5W",
+    "P 300/5"
+   ],
+   "url": "https://www.manualslib.com/manual/2359989/Buderus-P-120-5w.html"
+  },
+  {
+   "manualId": "1488592",
+   "slug": "Buderus-Logamatic-R2107",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1488592/Buderus-Logamatic-R2107.html"
+  },
+  {
+   "manualId": "4175556",
+   "slug": "Buderus-Gh-9-E",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4175556/Buderus-Gh-9-E.html"
+  },
+  {
+   "manualId": "1058566",
+   "slug": "Buderus-Rc20",
+   "title": "RC20 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "RC20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1058566/Buderus-Rc20.html"
+  },
+  {
+   "manualId": "3076398",
+   "slug": "Buderus-Rc20",
+   "title": "RC20 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "RC20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3076398/Buderus-Rc20.html"
+  },
+  {
+   "manualId": "829559",
+   "slug": "Buderus-Rc30",
+   "title": "RC30 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 88,
+   "productModel": "RC30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/829559/Buderus-Rc30.html"
+  },
+  {
+   "manualId": "4592472",
+   "slug": "Buderus-Rc35",
+   "title": "RC35 Bruksanvisning",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "RC35",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4592472/Buderus-Rc35.html"
+  },
+  {
+   "manualId": "832561",
+   "slug": "Buderus-Rc35",
+   "title": "RC35 Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "RC35",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/832561/Buderus-Rc35.html"
+  },
+  {
+   "manualId": "1053020",
+   "slug": "Buderus-Rc35",
+   "title": "RC35 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "RC35",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1053020/Buderus-Rc35.html"
+  },
+  {
+   "manualId": "2904804",
+   "slug": "Buderus-Rt20-Rf",
+   "title": "RT20 RF Installation & operation instructions",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "RT20 RF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2904804/Buderus-Rt20-Rf.html"
+  },
+  {
+   "manualId": "3703100",
+   "slug": "Buderus-Rt32-Rf",
+   "title": "RT32 RF Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "RT32 RF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3703100/Buderus-Rt32-Rf.html"
+  },
+  {
+   "manualId": "1031609",
+   "slug": "Buderus-S32-5",
+   "title": "S32/5 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "S32/5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1031609/Buderus-S32-5.html"
+  },
+  {
+   "manualId": "1705526",
+   "slug": "Buderus-S-32-5",
+   "title": "S32/5 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "S32/5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1705526/Buderus-S-32-5.html"
+  },
+  {
+   "manualId": "794056",
+   "slug": "Buderus-Sb735-Series",
+   "title": "SB735 Series Installation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "SB735 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/794056/Buderus-Sb735-Series.html"
+  },
+  {
+   "manualId": "2499007",
+   "slug": "Buderus-Sb735-Series",
+   "title": "SB735 Series operating instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "SB735 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2499007/Buderus-Sb735-Series.html"
+  },
+  {
+   "manualId": "3681752",
+   "slug": "Buderus-Sf500-5-Series",
+   "title": "SF1000 5 Series Manual",
+   "type": "Other",
+   "pages": 132,
+   "productModel": "SF1000 5 Series",
+   "extraModels": [
+    "SF1000 5 Series",
+    "SF750 5 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3681752/Buderus-Sf500-5-Series.html"
+  },
+  {
+   "manualId": "2194061",
+   "slug": "Buderus-Sf300-5",
+   "title": "SF300.5 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "SF300.5",
+   "extraModels": [
+    "SF400.5"
+   ],
+   "url": "https://www.manualslib.com/manual/2194061/Buderus-Sf300-5.html"
+  },
+  {
+   "manualId": "2248995",
+   "slug": "Buderus-Sf300-5",
+   "title": "SF300.5 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "SF300.5",
+   "extraModels": [
+    "SF400.5"
+   ],
+   "url": "https://www.manualslib.com/manual/2248995/Buderus-Sf300-5.html"
+  },
+  {
+   "manualId": "1664547",
+   "slug": "Buderus-Skr6-1r",
+   "title": "SKR12.1R Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "SKR12.1R",
+   "extraModels": [
+    "SKR12.1R"
+   ],
+   "url": "https://www.manualslib.com/manual/1664547/Buderus-Skr6-1r.html"
+  },
+  {
+   "manualId": "1069196",
+   "slug": "Buderus-Sks-4-0-Series",
+   "title": "SKS 4.0 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "SKS 4.0 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1069196/Buderus-Sks-4-0-Series.html"
+  },
+  {
+   "manualId": "3765183",
+   "slug": "Buderus-Sks-4-0-Series",
+   "title": "SKS 4.0 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "SKS 4.0 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3765183/Buderus-Sks-4-0-Series.html"
+  },
+  {
+   "manualId": "2424259",
+   "slug": "Buderus-Su-5-Series",
+   "title": "SM 5E Series Manual",
+   "type": "Other",
+   "pages": 168,
+   "productModel": "SM 5E Series",
+   "extraModels": [
+    "SM 5E Series",
+    "SMH 5E Series",
+    "SU1000.5-C",
+    "SU1000.5-E",
+    "SU500.5-B",
+    "SU500.5-C",
+    "SU750.5-C",
+    "SU750.5-E"
+   ],
+   "url": "https://www.manualslib.com/manual/2424259/Buderus-Su-5-Series.html"
+  },
+  {
+   "manualId": "1441665",
+   "slug": "Buderus-Sm80-5",
+   "title": "SM100/5 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "SM100/5",
+   "extraModels": [
+    "SM100/5"
+   ],
+   "url": "https://www.manualslib.com/manual/1441665/Buderus-Sm80-5.html"
+  },
+  {
+   "manualId": "3761616",
+   "slug": "Buderus-Sm80-5",
+   "title": "SM100/5 Installation and service instructions manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "SM100/5",
+   "extraModels": [
+    "SM100/5"
+   ],
+   "url": "https://www.manualslib.com/manual/3761616/Buderus-Sm80-5.html"
+  },
+  {
+   "manualId": "2688764",
+   "slug": "Buderus-Sm290-5",
+   "title": "SM290/5 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 120,
+   "productModel": "SM290/5",
+   "extraModels": [
+    "SM290/5E",
+    "SM300/5",
+    "SM400/5",
+    "SM400/5E"
+   ],
+   "url": "https://www.manualslib.com/manual/2688764/Buderus-Sm290-5.html"
+  },
+  {
+   "manualId": "3436102",
+   "slug": "Buderus-Sm290-5",
+   "title": "SM290/5 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "SM290/5",
+   "extraModels": [
+    "SM290/5E",
+    "SM300/5",
+    "SM400/5",
+    "SM400/5E"
+   ],
+   "url": "https://www.manualslib.com/manual/3436102/Buderus-Sm290-5.html"
+  },
+  {
+   "manualId": "2689433",
+   "slug": "Buderus-Sm400-5e",
+   "title": "SM400/5E Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 116,
+   "productModel": "SM400/5E",
+   "extraModels": [
+    "SU300.5",
+    "SU400.5"
+   ],
+   "url": "https://www.manualslib.com/manual/2689433/Buderus-Sm400-5e.html"
+  },
+  {
+   "manualId": "3695166",
+   "slug": "Buderus-Smart-Service-Key-2",
+   "title": "Smart Service Key 2 Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "Smart Service Key 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3695166/Buderus-Smart-Service-Key-2.html"
+  },
+  {
+   "manualId": "3561269",
+   "slug": "Buderus-Src-Plus",
+   "title": "SRC plus Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 108,
+   "productModel": "SRC plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3561269/Buderus-Src-Plus.html"
+  },
+  {
+   "manualId": "3695623",
+   "slug": "Buderus-Src-Plus",
+   "title": "SRC plus Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 168,
+   "productModel": "SRC plus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3695623/Buderus-Src-Plus.html"
+  },
+  {
+   "manualId": "1484190",
+   "slug": "Buderus-St-Series",
+   "title": "ST Series installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "ST Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1484190/Buderus-St-Series.html"
+  },
+  {
+   "manualId": "1441666",
+   "slug": "Buderus-Su80-5",
+   "title": "SU100/5 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "SU100/5",
+   "extraModels": [
+    "SU100/5",
+    "SU54/5"
+   ],
+   "url": "https://www.manualslib.com/manual/1441666/Buderus-Su80-5.html"
+  },
+  {
+   "manualId": "688965",
+   "slug": "Buderus-Su54-5",
+   "title": "SU100/5 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "SU100/5",
+   "extraModels": [
+    "SU100/5",
+    "SU80/5"
+   ],
+   "url": "https://www.manualslib.com/manual/688965/Buderus-Su54-5.html"
+  },
+  {
+   "manualId": "1547036",
+   "slug": "Buderus-Su120-5",
+   "title": "SU120/5 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 108,
+   "productModel": "SU120/5",
+   "extraModels": [
+    "SU160/5",
+    "SU200/5",
+    "SU200/5E"
+   ],
+   "url": "https://www.manualslib.com/manual/1547036/Buderus-Su120-5.html"
+  },
+  {
+   "manualId": "3128584",
+   "slug": "Buderus-Su200-5-E",
+   "title": "SU120/5 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "SU120/5",
+   "extraModels": [
+    "SU120/5",
+    "SU160/5",
+    "SU160S-A",
+    "SU160S-B",
+    "SU200S-A",
+    "SU200S-B"
+   ],
+   "url": "https://www.manualslib.com/manual/3128584/Buderus-Su200-5-E.html"
+  },
+  {
+   "manualId": "1839302",
+   "slug": "Buderus-Su300-5",
+   "title": "SU300.5 Installation and maintenance instructions for contractors",
+   "type": "Service",
+   "pages": 64,
+   "productModel": "SU300.5",
+   "extraModels": [
+    "SU400.5"
+   ],
+   "url": "https://www.manualslib.com/manual/1839302/Buderus-Su300-5.html"
+  },
+  {
+   "manualId": "701398",
+   "slug": "Buderus-Gb312-200",
+   "title": "Submittal sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/701398/Buderus-Gb312-200.html"
+  },
+  {
+   "manualId": "1780647",
+   "slug": "Buderus-Gb312-Series",
+   "title": "Technical service bulletin",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1780647/Buderus-Gb312-Series.html"
+  },
+  {
+   "manualId": "3350634",
+   "slug": "Buderus-Thk",
+   "title": "THK quick start manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "THK",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3350634/Buderus-Thk.html"
+  },
+  {
+   "manualId": "3550092",
+   "slug": "Buderus-Thk",
+   "title": "THK quick start manual",
+   "type": "Other",
+   "pages": 96,
+   "productModel": "THK",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3550092/Buderus-Thk.html"
+  },
+  {
+   "manualId": "845958",
+   "slug": "Buderus-800-24",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "800-24T25H",
+    "800-24T25V",
+    "800-29",
+    "800-29T25H",
+    "800-29T25V",
+    "800-43",
+    "800-60"
+   ],
+   "url": "https://www.manualslib.com/manual/845958/Buderus-800-24.html"
+  },
+  {
+   "manualId": "928419",
+   "slug": "Buderus-Logano-Gc-144-Ii",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/928419/Buderus-Logano-Gc-144-Ii.html"
+  },
+  {
+   "manualId": "3694231",
+   "slug": "Buderus-We-400",
+   "title": "WE 400 quick start manual",
+   "type": "Other",
+   "pages": 33,
+   "productModel": "WE 400",
+   "extraModels": [
+    "WE 400 14L",
+    "WE 400 22L",
+    "WE 400 26L",
+    "WE 400 9L",
+    "WE 500",
+    "WE 500 14L",
+    "WE 500 18L",
+    "WE 500 9L",
+    "WE 800i",
+    "WE 800i 14L",
+    "WE 800i 18L",
+    "WE 800i 22L",
+    "WE 800i 26L",
+    "WE 800i 9L"
+   ],
+   "url": "https://www.manualslib.com/manual/3694231/Buderus-We-400.html"
+  },
+  {
+   "manualId": "1155744",
+   "slug": "Buderus-Wpl80irr",
+   "title": "WPL 120IRR Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "WPL 120IRR",
+   "extraModels": [
+    "WPL 120IRR"
+   ],
+   "url": "https://www.manualslib.com/manual/1155744/Buderus-Wpl80irr.html"
+  },
+  {
+   "manualId": "1049980",
+   "slug": "Buderus-Wpl-60i",
+   "title": "WPL 60I Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "WPL 60I",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1049980/Buderus-Wpl-60i.html"
+  },
+  {
+   "manualId": "1072694",
+   "slug": "Buderus-Wps-50i",
+   "title": "WPS 120I Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "WPS 120I",
+   "extraModels": [
+    "WPS 120I",
+    "WPS 140I",
+    "WPS 160I",
+    "WPS 210I",
+    "WPS 70I",
+    "WPS 90I"
+   ],
+   "url": "https://www.manualslib.com/manual/1072694/Buderus-Wps-50i.html"
+  },
+  {
+   "manualId": "982905",
+   "slug": "Buderus-Wps-470i",
+   "title": "WPS 470I Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "WPS 470I",
+   "extraModels": [
+    "WPS 750I",
+    "WPS 970I"
+   ],
+   "url": "https://www.manualslib.com/manual/982905/Buderus-Wps-470i.html"
+  },
+  {
+   "manualId": "1665037",
+   "slug": "Buderus-Xm10-Series",
+   "title": "xM10 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "xM10 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1665037/Buderus-Xm10-Series.html"
+  },
+  {
+   "manualId": "4378412",
+   "slug": "Buderus-Xsa300-Ego",
+   "title": "XSA300 EGO Operation manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "XSA300 EGO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4378412/Buderus-Xsa300-Ego.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "2863494",
+   "slug": "buderus-gb142-condensing-gas-boiler-series-manual",
+   "title": "Buderus GB142 Condensing Gas Boiler Series Manual"
+  },
+  {
+   "manualId": "2863492",
+   "slug": "buderus-logano-g115-ws-manual",
+   "title": "Buderus Logano G115 WS Manual"
+  },
+  {
+   "manualId": "2863491",
+   "slug": "buderus-logano-g215-us-manual",
+   "title": "Buderus Logano G215 US Manual"
+  },
+  {
+   "manualId": "4042391",
+   "slug": "buderus-mx300-manual",
+   "title": "Buderus MX300 Manual"
+  }
+ ],
+ "techDirectIds": [
+  "buderus"
+ ]
+}

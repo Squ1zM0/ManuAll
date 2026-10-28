@@ -1,0 +1,67 @@
+{
+ "brand": "Tin Knocker",
+ "brandSlug": "tin-knocker",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/tin-knocker/"
+ ],
+ "slugUsed": "tin-knocker",
+ "capturedAt": "2026-10-28T09:30:33.950349+00:00",
+ "typePages": [
+  {
+   "path": "/brand/tin-knocker/cutter.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/tin-knocker/industrial-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/tin-knocker/tools.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1494222",
+   "slug": "Tin-Knocker-Tk-816",
+   "title": "Instructions & Parts Diagrams",
+   "type": "Parts & Wiring",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1494222/Tin-Knocker-Tk-816.html"
+  },
+  {
+   "manualId": "1335510",
+   "slug": "Tin-Knocker-Tk-2236",
+   "title": "Instructions-parts list manual",
+   "type": "Parts & Wiring",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1335510/Tin-Knocker-Tk-2236.html"
+  },
+  {
+   "manualId": "2956683",
+   "slug": "Tin-Knocker-Tk-422",
+   "title": "TK 422 Instructions & Parts Diagrams",
+   "type": "Parts & Wiring",
+   "pages": 9,
+   "productModel": "TK 422",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2956683/Tin-Knocker-Tk-422.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "tin-knocker"
+ ]
+}

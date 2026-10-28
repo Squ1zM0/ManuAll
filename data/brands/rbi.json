@@ -1,0 +1,1050 @@
+{
+ "brand": "RBI",
+ "brandSlug": "rbi",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/rbi/"
+ ],
+ "slugUsed": "rbi",
+ "capturedAt": "2026-10-28T09:14:45.317392+00:00",
+ "typePages": [
+  {
+   "path": "/brand/rbi/boiler.html",
+   "manuals": 307,
+   "status": 200
+  },
+  {
+   "path": "/brand/rbi/controller.html",
+   "manuals": 15,
+   "status": 200
+  },
+  {
+   "path": "/brand/rbi/inverter.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/rbi/power-tool.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/rbi/sander.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/rbi/saw.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/rbi/water-heater.html",
+   "manuals": 208,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "792873",
+   "slug": "Rbi-Spectrum-Series",
+   "title": "100 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "100",
+   "extraModels": [
+    "100",
+    "150",
+    "200",
+    "250",
+    "350",
+    "Dominator 300",
+    "Dominator 400",
+    "SPECTRUM 300",
+    "SPECTRUM 400",
+    "Spectrum SB-100",
+    "Spectrum SB-150",
+    "Spectrum SB-200",
+    "Spectrum SB-250",
+    "Spectrum SB-300",
+    "Spectrum SB-350",
+    "Spectrum SB-400",
+    "Spectrum SW-100",
+    "Spectrum SW-150",
+    "Spectrum SW-200",
+    "Spectrum SW-250",
+    "Spectrum SW-300",
+    "Spectrum SW-350",
+    "Spectrum SW-400"
+   ],
+   "url": "https://www.manualslib.com/manual/792873/Rbi-Spectrum-Series.html"
+  },
+  {
+   "manualId": "4369643",
+   "slug": "Rbi-214-Hawk",
+   "title": "214 HAWK Operator'smanual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "214 HAWK",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4369643/Rbi-214-Hawk.html"
+  },
+  {
+   "manualId": "4083209",
+   "slug": "Rbi-214bt",
+   "title": "214BT Operator's manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "214BT",
+   "extraModels": [
+    "216VS",
+    "220VS",
+    "226VS"
+   ],
+   "url": "https://www.manualslib.com/manual/4083209/Rbi-214bt.html"
+  },
+  {
+   "manualId": "4137598",
+   "slug": "Rbi-426",
+   "title": "426 Operator's manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "426",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4137598/Rbi-426.html"
+  },
+  {
+   "manualId": "545588",
+   "slug": "Rbi-8900-Series",
+   "title": "8800 Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "8800 Series",
+   "extraModels": [
+    "8800 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/545588/Rbi-8900-Series.html"
+  },
+  {
+   "manualId": "629542",
+   "slug": "Rbi-Series-8800",
+   "title": "8800 Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "8800 Series",
+   "extraModels": [
+    "8900 Series",
+    "HB 1050",
+    "HB 1160",
+    "HB 1260",
+    "HB 1370",
+    "HB 1470",
+    "HB 1580",
+    "HB 1685",
+    "HB 1790",
+    "HB 1900",
+    "HB 2000",
+    "HB 2400",
+    "HB 2800",
+    "HB 3200",
+    "HB 3600",
+    "HB 4000",
+    "HB 420",
+    "HB 530",
+    "HB 630",
+    "HB 735",
+    "HB 840",
+    "HB 950",
+    "HW 1050",
+    "HW 1160",
+    "HW 1260",
+    "HW 1370",
+    "HW 1470",
+    "HW 1580",
+    "HW 1685",
+    "HW 1790",
+    "HW 1900",
+    "HW 2000",
+    "HW 2400",
+    "HW 2800",
+    "HW 3200",
+    "HW 3600",
+    "HW 4000",
+    "HW 420",
+    "HW 530",
+    "HW 630",
+    "HW 735",
+    "HW 840",
+    "HW 950"
+   ],
+   "url": "https://www.manualslib.com/manual/629542/Rbi-Series-8800.html"
+  },
+  {
+   "manualId": "1068629",
+   "slug": "Rbi-8800-Series",
+   "title": "8800 Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "8800 Series",
+   "extraModels": [
+    "8900 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1068629/Rbi-8800-Series.html"
+  },
+  {
+   "manualId": "948351",
+   "slug": "Rbi-Series-8800",
+   "title": "8800 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "8800 Series",
+   "extraModels": [
+    "8900 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/948351/Rbi-Series-8800.html"
+  },
+  {
+   "manualId": "912208",
+   "slug": "Rbi-Boiler",
+   "title": "Boiler Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 154,
+   "productModel": "Boiler",
+   "extraModels": [
+    "infinite energy 2"
+   ],
+   "url": "https://www.manualslib.com/manual/912208/Rbi-Boiler.html"
+  },
+  {
+   "manualId": "671174",
+   "slug": "Rbi-Db-Series",
+   "title": "DB series Installation & operation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "DB series",
+   "extraModels": [
+    "DW series"
+   ],
+   "url": "https://www.manualslib.com/manual/671174/Rbi-Db-Series.html"
+  },
+  {
+   "manualId": "797771",
+   "slug": "Rbi-Dominator-Series",
+   "title": "Dominator 1050-1350 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "Dominator 1050-1350",
+   "extraModels": [
+    "Dominator 1050-1350",
+    "Dominator 1500-2100",
+    "Dominator 300",
+    "Dominator 400",
+    "Dominator 600",
+    "Dominator 750-900",
+    "DOMINATOR DB-1050",
+    "DOMINATOR DB-1350",
+    "DOMINATOR DB-1500",
+    "Dominator DB-1950",
+    "DOMINATOR DB-2100",
+    "DOMINATOR DB-300",
+    "DOMINATOR DB-400",
+    "DOMINATOR DB-600",
+    "DOMINATOR DB-750",
+    "DOMINATOR DB-900",
+    "DOMINATOR DW-1050",
+    "DOMINATOR DW-1350",
+    "DOMINATOR DW-1500",
+    "Dominator DW-1950",
+    "DOMINATOR DW-2100",
+    "DOMINATOR DW-300",
+    "DOMINATOR DW-400",
+    "DOMINATOR DW-600",
+    "DOMINATOR DW-750",
+    "DOMINATOR DW-900"
+   ],
+   "url": "https://www.manualslib.com/manual/797771/Rbi-Dominator-Series.html"
+  },
+  {
+   "manualId": "545582",
+   "slug": "Rbi-Dominator-Series",
+   "title": "DOMINATOR DB-1050 Installation and operation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "DOMINATOR DB-1050",
+   "extraModels": [
+    "DOMINATOR DB-1050",
+    "DOMINATOR DB-1350",
+    "DOMINATOR DB-1500",
+    "DOMINATOR DB-2100",
+    "DOMINATOR DB-300",
+    "DOMINATOR DB-400",
+    "DOMINATOR DB-600",
+    "DOMINATOR DB-750",
+    "DOMINATOR DB-900",
+    "DOMINATOR DW-1050",
+    "DOMINATOR DW-1350",
+    "DOMINATOR DW-1500",
+    "DOMINATOR DW-2100",
+    "DOMINATOR DW-300",
+    "DOMINATOR DW-400",
+    "DOMINATOR DW-600",
+    "DOMINATOR DW-750",
+    "DOMINATOR DW-900"
+   ],
+   "url": "https://www.manualslib.com/manual/545582/Rbi-Dominator-Series.html"
+  },
+  {
+   "manualId": "1069102",
+   "slug": "Rbi-Dominator-Series",
+   "title": "DOMINATOR Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "DOMINATOR Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1069102/Rbi-Dominator-Series.html"
+  },
+  {
+   "manualId": "3043143",
+   "slug": "Rbi-Encore-Rb0350",
+   "title": "ENCORE RB0350 Manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": "ENCORE RB0350",
+   "extraModels": [
+    "ENCORE RB0400",
+    "ENCORE RB0500",
+    "ENCORE RB0600",
+    "ENCORE RB0725",
+    "ENCORE RB0850"
+   ],
+   "url": "https://www.manualslib.com/manual/3043143/Rbi-Encore-Rb0350.html"
+  },
+  {
+   "manualId": "3348808",
+   "slug": "Rbi-Encore-Series",
+   "title": "Encore RB350 Control manual",
+   "type": "Other",
+   "pages": 136,
+   "productModel": "Encore RB350",
+   "extraModels": [
+    "Encore RB350",
+    "Encore RB400",
+    "Encore RB500",
+    "Encore RB600",
+    "Encore RB725",
+    "Encore RB850"
+   ],
+   "url": "https://www.manualslib.com/manual/3348808/Rbi-Encore-Series.html"
+  },
+  {
+   "manualId": "671184",
+   "slug": "Rbi-Fb-Series",
+   "title": "FB series Installation & operation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "FB series",
+   "extraModels": [
+    "FUTERA II FB series",
+    "FUTERA II FW series",
+    "FW series"
+   ],
+   "url": "https://www.manualslib.com/manual/671184/Rbi-Fb-Series.html"
+  },
+  {
+   "manualId": "835236",
+   "slug": "Rbi-Gas-Boilers",
+   "title": "Finned copper tube Gas boilers (CB) Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Finned copper tube Gas boilers (CB)",
+   "extraModels": [
+    "Finned copper tube Gas boilers (CB)",
+    "FUTERA FUSION CB-1000",
+    "FUTERA FUSION CB-1250",
+    "FUTERA FUSION CB-1500",
+    "FUTERA FUSION CB-1750",
+    "FUTERA FUSION CB-2000",
+    "FUTERA FUSION CB-500",
+    "FUTERA FUSION CB-750",
+    "Pool heaters",
+    "Pool heaters (CP)",
+    "Water heaters (CW)"
+   ],
+   "url": "https://www.manualslib.com/manual/835236/Rbi-Gas-Boilers.html"
+  },
+  {
+   "manualId": "1399436",
+   "slug": "Rbi-Flexcore-Ck-850",
+   "title": "FlexCore CK 1000 Control manual",
+   "type": "Other",
+   "pages": 136,
+   "productModel": "FlexCore CK 1000",
+   "extraModels": [
+    "FlexCore CK 1000",
+    "FlexCore CK 1500",
+    "FlexCore CK 2000",
+    "FlexCore CK 2500",
+    "FlexCore CK 3000",
+    "FlexCore CK 3500",
+    "FlexCore CK 4000",
+    "FlexCore CK 4500",
+    "FlexCore CK 5000",
+    "FlexCore CK 6000"
+   ],
+   "url": "https://www.manualslib.com/manual/1399436/Rbi-Flexcore-Ck-850.html"
+  },
+  {
+   "manualId": "2347062",
+   "slug": "Rbi-Flexcore-Ck7000",
+   "title": "FlexCore CK 1000 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "FlexCore CK 1000",
+   "extraModels": [
+    "FlexCore CK 1000",
+    "FlexCore CK 1500",
+    "FlexCore CK 2000",
+    "FlexCore CK 2500",
+    "FlexCore CK 3000",
+    "FlexCore CK 3500",
+    "FlexCore CK 4000",
+    "FlexCore CK 4500",
+    "FlexCore CK 5000",
+    "FlexCore CK 6000",
+    "FlexCore CK 850",
+    "FLEXCORE CK8000",
+    "FLEXCORE CK9000"
+   ],
+   "url": "https://www.manualslib.com/manual/2347062/Rbi-Flexcore-Ck7000.html"
+  },
+  {
+   "manualId": "4564953",
+   "slug": "Rbi-Flexcore-Ck850",
+   "title": "FlexCore CK 1000 installation instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "FlexCore CK 1000",
+   "extraModels": [
+    "FlexCore CK 1000",
+    "FlexCore CK 1500",
+    "FlexCore CK 2000",
+    "FlexCore CK 2500",
+    "FlexCore CK 3000",
+    "FlexCore CK 3500",
+    "FlexCore CK 4000",
+    "FlexCore CK 4500",
+    "FlexCore CK 5000",
+    "FlexCore CK 6000"
+   ],
+   "url": "https://www.manualslib.com/manual/4564953/Rbi-Flexcore-Ck850.html"
+  },
+  {
+   "manualId": "1272721",
+   "slug": "Rbi-Ck1500",
+   "title": "FlexCore CK 1500 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "FlexCore CK 1500",
+   "extraModels": [
+    "FlexCore CK 2000",
+    "FlexCore CK 2500",
+    "FlexCore CK 3000",
+    "FlexCore CK 3500",
+    "FlexCore CK 4000",
+    "FlexCore CK 4500",
+    "FlexCore CK 5000",
+    "FlexCore CK 6000"
+   ],
+   "url": "https://www.manualslib.com/manual/1272721/Rbi-Ck1500.html"
+  },
+  {
+   "manualId": "992472",
+   "slug": "Rbi-Ck1500",
+   "title": "FlexCore CK 1500 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "FlexCore CK 1500",
+   "extraModels": [
+    "FlexCore CK 2000",
+    "FlexCore CK 2500",
+    "FlexCore CK 3000",
+    "FlexCore CK 3500",
+    "FlexCore CK 4000",
+    "FlexCore CK 4500",
+    "FlexCore CK 5000",
+    "FlexCore CK 6000"
+   ],
+   "url": "https://www.manualslib.com/manual/992472/Rbi-Ck1500.html"
+  },
+  {
+   "manualId": "545581",
+   "slug": "Rbi-Futera-Fusion-Series",
+   "title": "FUTERA FUSION CB-1000 Installation & operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "FUTERA FUSION CB-1000",
+   "extraModels": [
+    "FUTERA FUSION CB-1000",
+    "FUTERA FUSION CB-1250",
+    "FUTERA FUSION CB-1500",
+    "FUTERA FUSION CB-1750",
+    "FUTERA FUSION CB-2000",
+    "FUTERA FUSION CB-500",
+    "FUTERA FUSION CB-750",
+    "FUTERA FUSION CW-1000",
+    "FUTERA FUSION CW-1250",
+    "FUTERA FUSION CW-1500",
+    "FUTERA FUSION CW-1750",
+    "FUTERA FUSION CW-2000",
+    "FUTERA FUSION CW-500",
+    "FUTERA FUSION CW-750"
+   ],
+   "url": "https://www.manualslib.com/manual/545581/Rbi-Futera-Fusion-Series.html"
+  },
+  {
+   "manualId": "1089299",
+   "slug": "Rbi-Futera-Fusion-Ftf-Pvcvo-2",
+   "title": "Futera Fusion FTF-PVCVO-2 installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Futera Fusion FTF-PVCVO-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1089299/Rbi-Futera-Fusion-Ftf-Pvcvo-2.html"
+  },
+  {
+   "manualId": "629562",
+   "slug": "Rbi-Futera-Fusion-Series",
+   "title": "FUTERA FUSION Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "FUTERA FUSION Series",
+   "extraModels": [
+    "FUTERA FUSION MB-1000",
+    "FUTERA FUSION MB-1250",
+    "FUTERA FUSION MB-1500",
+    "FUTERA FUSION MB-1750",
+    "FUTERA FUSION MB-2000",
+    "FUTERA FUSION MB-500",
+    "FUTERA FUSION MB-750",
+    "FUTERA FUSION MW-1000",
+    "FUTERA FUSION MW-1250",
+    "FUTERA FUSION MW-1500",
+    "FUTERA FUSION MW-1750",
+    "FUTERA FUSION MW-2000",
+    "FUTERA FUSION MW-500",
+    "FUTERA FUSION MW-750"
+   ],
+   "url": "https://www.manualslib.com/manual/629562/Rbi-Futera-Fusion-Series.html"
+  },
+  {
+   "manualId": "814068",
+   "slug": "Rbi-Futera-Iii",
+   "title": "FUTERA FUSION Series Manual",
+   "type": "Other",
+   "pages": 61,
+   "productModel": "FUTERA FUSION Series",
+   "extraModels": [
+    "FUTERA FUSION Series",
+    "FUTERA III Series",
+    "FUTERA XLF Series"
+   ],
+   "url": "https://www.manualslib.com/manual/814068/Rbi-Futera-Iii.html"
+  },
+  {
+   "manualId": "1321984",
+   "slug": "Rbi-Futera-Fusion-Xlf",
+   "title": "Futera Fusion XLF Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Futera Fusion XLF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1321984/Rbi-Futera-Fusion-Xlf.html"
+  },
+  {
+   "manualId": "1068724",
+   "slug": "Rbi-Futera-Ii-Modulation",
+   "title": "Futera II Modulation Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Futera II Modulation",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1068724/Rbi-Futera-Ii-Modulation.html"
+  },
+  {
+   "manualId": "807241",
+   "slug": "Rbi-Futera-Ii-Series",
+   "title": "FUTERA II Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "FUTERA II Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/807241/Rbi-Futera-Ii-Series.html"
+  },
+  {
+   "manualId": "545584",
+   "slug": "Rbi-Futera-Ii-Series",
+   "title": "FUTERA II Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "FUTERA II Series",
+   "extraModels": [
+    "FB series",
+    "FUTERA II FB-1000",
+    "FUTERA II FB-1250",
+    "FUTERA II FB-1500",
+    "FUTERA II FB-1750",
+    "FUTERA II FB-1950",
+    "FUTERA II FB-500",
+    "FUTERA II FB-750",
+    "FUTERA II FW-1000",
+    "FUTERA II FW-1250",
+    "FUTERA II FW-1500",
+    "FUTERA II FW-1750",
+    "FUTERA II FW-1950",
+    "FUTERA II FW-500",
+    "FUTERA II FW-750",
+    "FW series"
+   ],
+   "url": "https://www.manualslib.com/manual/545584/Rbi-Futera-Ii-Series.html"
+  },
+  {
+   "manualId": "807146",
+   "slug": "Rbi-Futera-Ii-Series",
+   "title": "FUTERA II Series User's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "FUTERA II Series",
+   "extraModels": [
+    "FUTERA III Series"
+   ],
+   "url": "https://www.manualslib.com/manual/807146/Rbi-Futera-Ii-Series.html"
+  },
+  {
+   "manualId": "545586",
+   "slug": "Rbi-Futera-Iii-Series-Heatnet",
+   "title": "FUTERA III MB-1000 Installation & operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "FUTERA III MB-1000",
+   "extraModels": [
+    "FUTERA III MB-1000",
+    "FUTERA III MB-1250",
+    "FUTERA III MB-1500",
+    "FUTERA III MB-1750",
+    "FUTERA III MB-200",
+    "FUTERA III MB-500",
+    "FUTERA III MB-750",
+    "FUTERA III MW-1000",
+    "FUTERA III MW-1250",
+    "FUTERA III MW-1500",
+    "FUTERA III MW-1750",
+    "FUTERA III MW-200",
+    "FUTERA III MW-500",
+    "FUTERA III MW-750"
+   ],
+   "url": "https://www.manualslib.com/manual/545586/Rbi-Futera-Iii-Series-Heatnet.html"
+  },
+  {
+   "manualId": "1698595",
+   "slug": "Rbi-Futera-Xlf-Series",
+   "title": "FUTERA III Series Control manual",
+   "type": "Other",
+   "pages": 128,
+   "productModel": "FUTERA III Series",
+   "extraModels": [
+    "FUTERA III Series",
+    "FUTERA FUSION Series",
+    "HeatNet V3"
+   ],
+   "url": "https://www.manualslib.com/manual/1698595/Rbi-Futera-Xlf-Series.html"
+  },
+  {
+   "manualId": "545585",
+   "slug": "Rbi-Futera-Iii-Series",
+   "title": "FUTERA III Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "FUTERA III Series",
+   "extraModels": [
+    "FUTERA III MB-1000",
+    "FUTERA III MB-1250",
+    "FUTERA III MB-1500",
+    "FUTERA III MB-1750",
+    "FUTERA III MB-2000",
+    "FUTERA III MB-500",
+    "FUTERA III MB-750",
+    "FUTERA III MW-1000",
+    "FUTERA III MW-1250",
+    "FUTERA III MW-1500",
+    "FUTERA III MW-1750",
+    "FUTERA III MW-2000",
+    "FUTERA III MW-500",
+    "FUTERA III MW-750"
+   ],
+   "url": "https://www.manualslib.com/manual/545585/Rbi-Futera-Iii-Series.html"
+  },
+  {
+   "manualId": "804575",
+   "slug": "Rbi-Futera-Iii-Series",
+   "title": "FUTERA III Series Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "FUTERA III Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/804575/Rbi-Futera-Iii-Series.html"
+  },
+  {
+   "manualId": "1069072",
+   "slug": "Rbi-Futera-Xlf",
+   "title": "FUTERA XLF Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "FUTERA XLF Series",
+   "extraModels": [
+    "FUTERA XLF Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1069072/Rbi-Futera-Xlf.html"
+  },
+  {
+   "manualId": "545587",
+   "slug": "Rbi-Futera-Xlf-Series",
+   "title": "FUTERA XLF Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "FUTERA XLF Series",
+   "extraModels": [
+    "FUTERA XLF-3000",
+    "FUTERA XLF-2500"
+   ],
+   "url": "https://www.manualslib.com/manual/545587/Rbi-Futera-Xlf-Series.html"
+  },
+  {
+   "manualId": "1632393",
+   "slug": "Rbi-Futera-Xlf-Series",
+   "title": "FUTERA XLF Series Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "FUTERA XLF Series",
+   "extraModels": [
+    "Futera XLF 4000",
+    "FUTERA XLF-3000"
+   ],
+   "url": "https://www.manualslib.com/manual/1632393/Rbi-Futera-Xlf-Series.html"
+  },
+  {
+   "manualId": "545595",
+   "slug": "Rbi-Iew-199",
+   "title": "IEW-199 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "IEW-199",
+   "extraModels": [
+    "IEW-399"
+   ],
+   "url": "https://www.manualslib.com/manual/545595/Rbi-Iew-199.html"
+  },
+  {
+   "manualId": "1044359",
+   "slug": "Rbi-Infinite-Energy-2",
+   "title": "infinite energy 2 User's information manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "infinite energy 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1044359/Rbi-Infinite-Energy-2.html"
+  },
+  {
+   "manualId": "2145150",
+   "slug": "Rbi-Infinite-Energy2-Iw199",
+   "title": "Infinite Energy2 IW1000 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 156,
+   "productModel": "Infinite Energy2 IW1000",
+   "extraModels": [
+    "Infinite Energy2 IW399",
+    "Infinite Energy2 IW500",
+    "Infinite Energy2 IW750"
+   ],
+   "url": "https://www.manualslib.com/manual/2145150/Rbi-Infinite-Energy2-Iw199.html"
+  },
+  {
+   "manualId": "1024675",
+   "slug": "Rbi-Infinity-Energy-2",
+   "title": "Infinity Energy 2 installation instructions manual",
+   "type": "Installation",
+   "pages": 164,
+   "productModel": "Infinity Energy 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1024675/Rbi-Infinity-Energy-2.html"
+  },
+  {
+   "manualId": "2365711",
+   "slug": "Rbi-Lcd-Ominator-Series",
+   "title": "LCD OMINATOR Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "LCD OMINATOR Series",
+   "extraModels": [
+    "LCD-I0M-10"
+   ],
+   "url": "https://www.manualslib.com/manual/2365711/Rbi-Lcd-Ominator-Series.html"
+  },
+  {
+   "manualId": "545594",
+   "slug": "Rbi-Lcd-Series",
+   "title": "LCD Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "LCD Series",
+   "extraModels": [
+    "LCD LB 1050",
+    "LCD LB 1200",
+    "LCD LB 1480",
+    "LCD LB 1650",
+    "LCD LB 1970",
+    "LCD LB 225",
+    "LCD LB 2300",
+    "LCD LB 300",
+    "LCD LB 399",
+    "LCD LB 600",
+    "LCD LB 750",
+    "LCD LW 1050",
+    "LCD LW 1200",
+    "LCD LW 1480",
+    "LCD LW 1650",
+    "LCD LW 1970",
+    "LCD LW 225",
+    "LCD LW 2300",
+    "LCD LW 300",
+    "LCD LW 399",
+    "LCD LW 600",
+    "LCD LW 750"
+   ],
+   "url": "https://www.manualslib.com/manual/545594/Rbi-Lcd-Series.html"
+  },
+  {
+   "manualId": "713304",
+   "slug": "Rbi-Lcd-Series",
+   "title": "LCD Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "LCD Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/713304/Rbi-Lcd-Series.html"
+  },
+  {
+   "manualId": "1038408",
+   "slug": "Rbi-Lcd-I0m-8r",
+   "title": "LCD-I0M-8R Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "LCD-I0M-8R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1038408/Rbi-Lcd-I0m-8r.html"
+  },
+  {
+   "manualId": "2942906",
+   "slug": "Rbi-Futera-Ii-Series",
+   "title": "Rbi FUTERA II Series Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": null,
+   "extraModels": [
+    "FUTERA II 1000",
+    "FUTERA II 1250",
+    "FUTERA II 1500",
+    "FUTERA II 1950",
+    "FUTERA II 500",
+    "FUTERA II 750"
+   ],
+   "url": "https://www.manualslib.com/manual/2942906/Rbi-Futera-Ii-Series.html"
+  },
+  {
+   "manualId": "3183244",
+   "slug": "Rbi-Futera-Xlf-Mb6000",
+   "title": "Rbi FUTERA XLF MB6000 Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": null,
+   "extraModels": [
+    "FUTERA XLF MB10000",
+    "FUTERA XLF MB8000"
+   ],
+   "url": "https://www.manualslib.com/manual/3183244/Rbi-Futera-Xlf-Mb6000.html"
+  },
+  {
+   "manualId": "2738452",
+   "slug": "Rbi-Heatnet-3-0-Torus-Series",
+   "title": "Rbi HEATNET 3.0 Torus Series Manual",
+   "type": "Other",
+   "pages": 136,
+   "productModel": null,
+   "extraModels": [
+    "Torus WB1250",
+    "Torus WB1500",
+    "Torus WB2000",
+    "Torus WB2500",
+    "Torus WB3000",
+    "Torus WB4000",
+    "Torus WW1250",
+    "Torus WW1500",
+    "Torus WW2000",
+    "Torus WW2500",
+    "Torus WW3000",
+    "Torus WW4000"
+   ],
+   "url": "https://www.manualslib.com/manual/2738452/Rbi-Heatnet-3-0-Torus-Series.html"
+  },
+  {
+   "manualId": "733921",
+   "slug": "Rbi-Sb",
+   "title": "SB Installation & operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "SB",
+   "extraModels": [
+    "SW",
+    "SW-0100",
+    "SW-0150",
+    "SW-0200",
+    "SW-0250",
+    "SW-0300",
+    "SW-0350",
+    "SW-0400"
+   ],
+   "url": "https://www.manualslib.com/manual/733921/Rbi-Sb.html"
+  },
+  {
+   "manualId": "3991467",
+   "slug": "Rbi-Spectrum",
+   "title": "SPECTRUM Installation and service manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "SPECTRUM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3991467/Rbi-Spectrum.html"
+  },
+  {
+   "manualId": "545592",
+   "slug": "Rbi-Spectrum-Series",
+   "title": "SPECTRUM Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "SPECTRUM Series",
+   "extraModels": [
+    "SB",
+    "SB Series",
+    "SW",
+    "SW Series"
+   ],
+   "url": "https://www.manualslib.com/manual/545592/Rbi-Spectrum-Series.html"
+  },
+  {
+   "manualId": "1068913",
+   "slug": "Rbi-Spectrum-Series",
+   "title": "SPECTRUM Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "SPECTRUM Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1068913/Rbi-Spectrum-Series.html"
+  },
+  {
+   "manualId": "4179001",
+   "slug": "Rbi-Torus-300",
+   "title": "TORUS 1000 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "TORUS 1000",
+   "extraModels": [
+    "TORUS 1000",
+    "TORUS 350",
+    "TORUS 400",
+    "TORUS 500",
+    "TORUS 650",
+    "TORUS 800"
+   ],
+   "url": "https://www.manualslib.com/manual/4179001/Rbi-Torus-300.html"
+  },
+  {
+   "manualId": "1958166",
+   "slug": "Rbi-Torus-Wb1250",
+   "title": "TORUS 1250 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "TORUS 1250",
+   "extraModels": [
+    "TORUS 1250",
+    "TORUS 1500",
+    "TORUS 2000",
+    "TORUS 2500",
+    "TORUS 3000",
+    "TORUS 4000",
+    "Torus WB1500",
+    "Torus WB2000",
+    "Torus WB2500",
+    "Torus WB3000",
+    "Torus WB4000",
+    "Torus WW1250",
+    "Torus WW1500",
+    "Torus WW2000",
+    "Torus WW2500",
+    "Torus WW3000",
+    "Torus WW4000"
+   ],
+   "url": "https://www.manualslib.com/manual/1958166/Rbi-Torus-Wb1250.html"
+  },
+  {
+   "manualId": "1289800",
+   "slug": "Rbi-Ul-2703",
+   "title": "UL 2703 installation manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "UL 2703",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1289800/Rbi-Ul-2703.html"
+  },
+  {
+   "manualId": "2036554",
+   "slug": "Rbi-Dominator-Series",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "Dominator 300",
+    "Dominator 400",
+    "Dominator 600"
+   ],
+   "url": "https://www.manualslib.com/manual/2036554/Rbi-Dominator-Series.html"
+  },
+  {
+   "manualId": "3826451",
+   "slug": "Rbi-Water-Heaters",
+   "title": "Water heaters Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "Water heaters",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3826451/Rbi-Water-Heaters.html"
+  },
+  {
+   "manualId": "4059918",
+   "slug": "Rbi-Woodplaner-612",
+   "title": "woodplaner 612 Operator's manual",
+   "type": "Other",
+   "pages": 30,
+   "productModel": "woodplaner 612",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4059918/Rbi-Woodplaner-612.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "rbi-water-heaters"
+ ]
+}

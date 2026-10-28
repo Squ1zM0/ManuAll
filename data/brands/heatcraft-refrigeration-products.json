@@ -1,0 +1,576 @@
+{
+ "brand": "Heatcraft Refrigeration Products",
+ "brandSlug": "heatcraft-refrigeration-products",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/heatcraft-refrigeration-products/"
+ ],
+ "slugUsed": "heatcraft-refrigeration-products",
+ "capturedAt": "2026-10-28T07:27:10.438490+00:00",
+ "typePages": [
+  {
+   "path": "/brand/heatcraft-refrigeration-products/air-conditioner.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/heatcraft-refrigeration-products/refrigerator.html",
+   "manuals": 58,
+   "status": 200
+  },
+  {
+   "path": "/brand/heatcraft-refrigeration-products/accessories.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/heatcraft-refrigeration-products/air-compressor.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/heatcraft-refrigeration-products/air-handlers.html",
+   "manuals": 57,
+   "status": 200
+  },
+  {
+   "path": "/brand/heatcraft-refrigeration-products/blower.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/heatcraft-refrigeration-products/control-panel.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/heatcraft-refrigeration-products/controller.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/heatcraft-refrigeration-products/heat-pump.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/heatcraft-refrigeration-products/merchandiser.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/heatcraft-refrigeration-products/temperature-controller.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "67179",
+   "slug": "Heatcraft-Refrigeration-Products-25000601",
+   "title": "25000601 Installation & operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "25000601",
+   "extraModels": [
+    "Beacon II Smart Controller"
+   ],
+   "url": "https://www.manualslib.com/manual/67179/Heatcraft-Refrigeration-Products-25000601.html"
+  },
+  {
+   "manualId": "2444864",
+   "slug": "Heatcraft-Refrigeration-Products-Beacon-Ii-H-Im-79g",
+   "title": "25001401 Installation and operation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "25001401",
+   "extraModels": [
+    "25001401",
+    "Beacon II H-IM-79F"
+   ],
+   "url": "https://www.manualslib.com/manual/2444864/Heatcraft-Refrigeration-Products-Beacon-Ii-H-Im-79g.html"
+  },
+  {
+   "manualId": "67180",
+   "slug": "Heatcraft-Refrigeration-Products-25001501",
+   "title": "25001501 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "25001501",
+   "extraModels": [
+    "BEACON CONTROLLER"
+   ],
+   "url": "https://www.manualslib.com/manual/67180/Heatcraft-Refrigeration-Products-25001501.html"
+  },
+  {
+   "manualId": "67173",
+   "slug": "Heatcraft-Refrigeration-Products-25005601",
+   "title": "25005601 Installation and operation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "25005601",
+   "extraModels": [
+    "H-IM-77C"
+   ],
+   "url": "https://www.manualslib.com/manual/67173/Heatcraft-Refrigeration-Products-25005601.html"
+  },
+  {
+   "manualId": "67175",
+   "slug": "Heatcraft-Refrigeration-Products-Air-Cooled-Condensers-None",
+   "title": "25007301 Installation and operating manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "25007301",
+   "extraModels": [
+    "25007301",
+    "H-IM-90"
+   ],
+   "url": "https://www.manualslib.com/manual/67175/Heatcraft-Refrigeration-Products-Air-Cooled-Condensers-None.html"
+  },
+  {
+   "manualId": "67159",
+   "slug": "Heatcraft-Refrigeration-Products-4346b001",
+   "title": "4346B001 Installation & operation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "4346B001",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/67159/Heatcraft-Refrigeration-Products-4346b001.html"
+  },
+  {
+   "manualId": "256773",
+   "slug": "Heatcraft-Refrigeration-Products-Beacon-Ii-H-Im-79e",
+   "title": "BEACON II H-IM-79E Installation and operation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "BEACON II H-IM-79E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/256773/Heatcraft-Refrigeration-Products-Beacon-Ii-H-Im-79e.html"
+  },
+  {
+   "manualId": "67182",
+   "slug": "Heatcraft-Refrigeration-Products-H-Im-79b",
+   "title": "Beacon II Installation & operation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Beacon II",
+   "extraModels": [
+    "Beacon II"
+   ],
+   "url": "https://www.manualslib.com/manual/67182/Heatcraft-Refrigeration-Products-H-Im-79b.html"
+  },
+  {
+   "manualId": "67185",
+   "slug": "Heatcraft-Refrigeration-Products-H-Im-79d",
+   "title": "Beacon II Installation & operation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Beacon II",
+   "extraModels": [
+    "Beacon II"
+   ],
+   "url": "https://www.manualslib.com/manual/67185/Heatcraft-Refrigeration-Products-H-Im-79d.html"
+  },
+  {
+   "manualId": "67178",
+   "slug": "Heatcraft-Refrigeration-Products-Beacon-Ii-Smart-Controller-H-Im-80c",
+   "title": "BEACON II SMART CONTROLLER H-IM-80C Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "BEACON II SMART CONTROLLER H-IM-80C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/67178/Heatcraft-Refrigeration-Products-Beacon-Ii-Smart-Controller-H-Im-80c.html"
+  },
+  {
+   "manualId": "67183",
+   "slug": "Heatcraft-Refrigeration-Products-Bn-Pl0208",
+   "title": "BN-PL0208 Specification Sheet",
+   "type": "Other",
+   "pages": 76,
+   "productModel": "BN-PL0208",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/67183/Heatcraft-Refrigeration-Products-Bn-Pl0208.html"
+  },
+  {
+   "manualId": "67186",
+   "slug": "Heatcraft-Refrigeration-Products-Hypercore-H-Htssb-1208",
+   "title": "Brochure",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/67186/Heatcraft-Refrigeration-Products-Hypercore-H-Htssb-1208.html"
+  },
+  {
+   "manualId": "67177",
+   "slug": "Heatcraft-Refrigeration-Products-Condensing-Units-H-Im-Cu",
+   "title": "Condensing Units H-IM-CU Installating and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "Condensing Units H-IM-CU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/67177/Heatcraft-Refrigeration-Products-Condensing-Units-H-Im-Cu.html"
+  },
+  {
+   "manualId": "256770",
+   "slug": "Heatcraft-Refrigeration-Products-Flexpack-25006801",
+   "title": "FLEXPACK 25006801 Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "FLEXPACK 25006801",
+   "extraModels": [
+    "FLEXPACK TPC1",
+    "FLEXPACK TPC2",
+    "FLEXPACK TPC3"
+   ],
+   "url": "https://www.manualslib.com/manual/256770/Heatcraft-Refrigeration-Products-Flexpack-25006801.html"
+  },
+  {
+   "manualId": "67155",
+   "slug": "Heatcraft-Refrigeration-Products-H-Im-Fp",
+   "title": "FlexPack H-IM-FP Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "FlexPack H-IM-FP",
+   "extraModels": [
+    "FlexPack H-IM-FP"
+   ],
+   "url": "https://www.manualslib.com/manual/67155/Heatcraft-Refrigeration-Products-H-Im-Fp.html"
+  },
+  {
+   "manualId": "256786",
+   "slug": "Heatcraft-Refrigeration-Products-H-Engm0408",
+   "title": "H-ENGM0408 user manual",
+   "type": "User / Owner",
+   "pages": 45,
+   "productModel": "H-ENGM0408",
+   "extraModels": [
+    "H-ENGM0806"
+   ],
+   "url": "https://www.manualslib.com/manual/256786/Heatcraft-Refrigeration-Products-H-Engm0408.html"
+  },
+  {
+   "manualId": "67188",
+   "slug": "Heatcraft-Refrigeration-Products-Ii",
+   "title": "H-IM-711C5 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "H-IM-711C5",
+   "extraModels": [
+    "H-IM-711C5"
+   ],
+   "url": "https://www.manualslib.com/manual/67188/Heatcraft-Refrigeration-Products-Ii.html"
+  },
+  {
+   "manualId": "67156",
+   "slug": "Heatcraft-Refrigeration-Products-H-Im-72a",
+   "title": "H-IM-72A Installation, operating and maintenance manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "H-IM-72A",
+   "extraModels": [
+    "H-IM-72B"
+   ],
+   "url": "https://www.manualslib.com/manual/67156/Heatcraft-Refrigeration-Products-H-Im-72a.html"
+  },
+  {
+   "manualId": "67171",
+   "slug": "Heatcraft-Refrigeration-Products-H-Im-77d",
+   "title": "H-IM-77D Installation and operation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "H-IM-77D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/67171/Heatcraft-Refrigeration-Products-H-Im-77d.html"
+  },
+  {
+   "manualId": "67184",
+   "slug": "Heatcraft-Refrigeration-Products-H-Im-Fl1a",
+   "title": "H-IM-FL1A Installating and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "H-IM-FL1A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/67184/Heatcraft-Refrigeration-Products-H-Im-Fl1a.html"
+  },
+  {
+   "manualId": "67158",
+   "slug": "Heatcraft-Refrigeration-Products-Parallel-Compressor-Systems-25000102",
+   "title": "H-IM-PCS Installation and operation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "H-IM-PCS",
+   "extraModels": [
+    "H-IM-PCS"
+   ],
+   "url": "https://www.manualslib.com/manual/67158/Heatcraft-Refrigeration-Products-Parallel-Compressor-Systems-25000102.html"
+  },
+  {
+   "manualId": "67160",
+   "slug": "Heatcraft-Refrigeration-Products-Remote-Air-Cooledcondenser-2500018",
+   "title": "H-IM-RACC Installating and operation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "H-IM-RACC",
+   "extraModels": [
+    "H-IM-RACC"
+   ],
+   "url": "https://www.manualslib.com/manual/67160/Heatcraft-Refrigeration-Products-Remote-Air-Cooledcondenser-2500018.html"
+  },
+  {
+   "manualId": "256772",
+   "slug": "Heatcraft-Refrigeration-Products-Hcs",
+   "title": "HCL03 Technical Bulletin",
+   "type": "Other",
+   "pages": 45,
+   "productModel": "HCL03",
+   "extraModels": [
+    "HCL03",
+    "HCL06",
+    "HCL08",
+    "HCL10",
+    "HCL12",
+    "HCL14",
+    "HCL18",
+    "HCL20",
+    "HCL26",
+    "HCL34",
+    "HCL41",
+    "HCL50",
+    "HCL65",
+    "HCL75",
+    "HCS03",
+    "HCS06",
+    "HCS08",
+    "HCS10",
+    "HCS12",
+    "HCS14",
+    "HCS18",
+    "HCS20",
+    "HCS26",
+    "HCS34",
+    "HCS41",
+    "HCS50",
+    "HCS65",
+    "HCS75",
+    "HD03",
+    "HD06",
+    "HD08",
+    "HD10",
+    "HD12",
+    "HD14",
+    "HD18",
+    "HD20",
+    "HD26",
+    "HD34",
+    "HD41",
+    "HD50",
+    "HD65",
+    "HD75",
+    "VCS03",
+    "VCS06",
+    "VCS08",
+    "VCS10",
+    "VCS12",
+    "VCS14",
+    "VCS18",
+    "VCS20",
+    "VCS26",
+    "VCS34",
+    "VCS41",
+    "VCS50",
+    "VCS65",
+    "VCS75"
+   ],
+   "url": "https://www.manualslib.com/manual/256772/Heatcraft-Refrigeration-Products-Hcs.html"
+  },
+  {
+   "manualId": "67176",
+   "slug": "Heatcraft-Refrigeration-Products-Unit-Coolers-H-Im-Uc",
+   "title": "Installating and operation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/67176/Heatcraft-Refrigeration-Products-Unit-Coolers-H-Im-Uc.html"
+  },
+  {
+   "manualId": "870629",
+   "slug": "Heatcraft-Refrigeration-Products-Mf-Mfe-3-4",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/870629/Heatcraft-Refrigeration-Products-Mf-Mfe-3-4.html"
+  },
+  {
+   "manualId": "1275696",
+   "slug": "Heatcraft-Refrigeration-Products-Ld1c1a",
+   "title": "LD1C1A Installation & operator's manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "LD1C1A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1275696/Heatcraft-Refrigeration-Products-Ld1c1a.html"
+  },
+  {
+   "manualId": "1252826",
+   "slug": "Heatcraft-Refrigeration-Products-Masterlog-4",
+   "title": "Masterlog 4 User handbook manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Masterlog 4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1252826/Heatcraft-Refrigeration-Products-Masterlog-4.html"
+  },
+  {
+   "manualId": "1244560",
+   "slug": "Heatcraft-Refrigeration-Products-Mhe310",
+   "title": "MHE250 installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "MHE250",
+   "extraModels": [
+    "MHE250",
+    "MHE320",
+    "MHE370",
+    "MHE380",
+    "MHE450",
+    "MHE460",
+    "MHE510",
+    "MHE550",
+    "MHE630",
+    "MHE640",
+    "MHE770"
+   ],
+   "url": "https://www.manualslib.com/manual/1244560/Heatcraft-Refrigeration-Products-Mhe310.html"
+  },
+  {
+   "manualId": "937579",
+   "slug": "Heatcraft-Refrigeration-Products-Mr",
+   "title": "MR installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "MR",
+   "extraModels": [
+    "MRE"
+   ],
+   "url": "https://www.manualslib.com/manual/937579/Heatcraft-Refrigeration-Products-Mr.html"
+  },
+  {
+   "manualId": "256775",
+   "slug": "Heatcraft-Refrigeration-Products-Pro-Top-Mount-H-Im-82c",
+   "title": "PRO TOP MOUNT H-IM-82C Installation and operation manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "PRO TOP MOUNT H-IM-82C",
+   "extraModels": [
+    "PRO3 PTT031L6B",
+    "PRO3 PTT044L6B",
+    "PRO3 PTT047M6B",
+    "PRO3 PTT050H6B",
+    "PRO3 PTT052L6B",
+    "PRO3 PTT052L6C",
+    "PRO3 PTT063M6B",
+    "PRO3 PTT067H6B",
+    "PRO3 PTT069L6B",
+    "PRO3 PTT069L6C",
+    "PRO3 PTT072M6B",
+    "PRO3 PTT076H6B",
+    "PRO3 PTT099M6B",
+    "PRO3 PTT099M6C",
+    "PRO3 PTT104H6B",
+    "PRO3 PTT104H6C",
+    "PRO3 PTT128M6B",
+    "PRO3 PTT128M6C",
+    "PRO3 PTT133H6B",
+    "PRO3 PTT133H6C"
+   ],
+   "url": "https://www.manualslib.com/manual/256775/Heatcraft-Refrigeration-Products-Pro-Top-Mount-H-Im-82c.html"
+  },
+  {
+   "manualId": "67187",
+   "slug": "Heatcraft-Refrigeration-Products-Pro3-Side-Mount",
+   "title": "PRO3 Side Mount Installating and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "PRO3 Side Mount",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/67187/Heatcraft-Refrigeration-Products-Pro3-Side-Mount.html"
+  },
+  {
+   "manualId": "3722732",
+   "slug": "Heatcraft-Refrigeration-Products-Pro3",
+   "title": "PRO3 Side Mount Installation and operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "PRO3 Side Mount",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3722732/Heatcraft-Refrigeration-Products-Pro3.html"
+  },
+  {
+   "manualId": "3228150",
+   "slug": "Heatcraft-Refrigeration-Products-Pro3-Top-Mount-H-Im-81e",
+   "title": "PRO3 Top Mount H-IM-81E Installation and operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "PRO3 Top Mount H-IM-81E",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3228150/Heatcraft-Refrigeration-Products-Pro3-Top-Mount-H-Im-81e.html"
+  },
+  {
+   "manualId": "67191",
+   "slug": "Heatcraft-Refrigeration-Products-Refrigeration-System-H-Im-82b",
+   "title": "PRO3 Top Mount PTT021L6B Installation and operation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "PRO3 Top Mount PTT021L6B",
+   "extraModels": [
+    "PRO3 Top Mount PTT021L6B",
+    "PRO3 Top Mount PTT031L6B",
+    "PRO3 Top Mount PTT044L6B",
+    "PRO3 Top Mount PTT047H2B",
+    "PRO3 Top Mount PTT052L6B",
+    "PRO3 Top Mount PTT052L6C",
+    "PRO3 Top Mount PTT063H2B PTT072H2B",
+    "PRO3 Top Mount PTT069L6B",
+    "PRO3 Top Mount PTT069L6C",
+    "PRO3 Top Mount PTT099H2B",
+    "PRO3 Top Mount PTT099H2C",
+    "PRO3 Top Mount PTT128H2B",
+    "PRO3 Top Mount PTT128H2C"
+   ],
+   "url": "https://www.manualslib.com/manual/67191/Heatcraft-Refrigeration-Products-Refrigeration-System-H-Im-82b.html"
+  },
+  {
+   "manualId": "67157",
+   "slug": "Heatcraft-Refrigeration-Products-Srn",
+   "title": "SRN Technical manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "SRN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/67157/Heatcraft-Refrigeration-Products-Srn.html"
+  },
+  {
+   "manualId": "67190",
+   "slug": "Heatcraft-Refrigeration-Products-Pst",
+   "title": "Technical manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/67190/Heatcraft-Refrigeration-Products-Pst.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "heatcraft-refrigeration-products",
+  "heatcraft-rpd"
+ ]
+}

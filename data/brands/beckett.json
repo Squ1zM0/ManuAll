@@ -1,0 +1,2777 @@
+{
+ "brand": "Beckett",
+ "brandSlug": "beckett",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/beckett/"
+ ],
+ "slugUsed": "beckett",
+ "capturedAt": "2026-10-28T06:28:44.903788+00:00",
+ "typePages": [
+  {
+   "path": "/brand/beckett/accessories.html",
+   "manuals": 24,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/adapter.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/burner.html",
+   "manuals": 346,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/control-systems.html",
+   "manuals": 30,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/control-unit.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/controller.html",
+   "manuals": 52,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/diagnostic-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/fishing-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/heat-pump.html",
+   "manuals": 15,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/indoor-fireplace.html",
+   "manuals": 36,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/industrial-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/landscape-lighting.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/lawn-and-garden-equipment.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/lighting-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/measuring-instruments.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/monitor.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/outdoor-fountain.html",
+   "manuals": 63,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/outdoor-furnishing.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/outdoor-light.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/swimming-pool-filter.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/switch.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/temperature-controller.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/water-filtration-systems.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/water-heater.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/water-pump.html",
+   "manuals": 198,
+   "status": 200
+  },
+  {
+   "path": "/brand/beckett/waterfall.html",
+   "manuals": 3,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "14880",
+   "slug": "Beckett-100",
+   "title": "100 instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "100",
+   "extraModels": [
+    "150",
+    "AFII 100",
+    "AFII 150",
+    "AFII 85"
+   ],
+   "url": "https://www.manualslib.com/manual/14880/Beckett-100.html"
+  },
+  {
+   "manualId": "14881",
+   "slug": "Beckett-120-Vac-60-Hz",
+   "title": "120 Vac/60 Hz instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "120 Vac/60 Hz",
+   "extraModels": [
+    "AFG"
+   ],
+   "url": "https://www.manualslib.com/manual/14881/Beckett-120-Vac-60-Hz.html"
+  },
+  {
+   "manualId": "1340522",
+   "slug": "Beckett-12vdc-Sdc",
+   "title": "12Vdc SDC Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "12Vdc SDC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1340522/Beckett-12vdc-Sdc.html"
+  },
+  {
+   "manualId": "1374110",
+   "slug": "Beckett-Genisys-7505a",
+   "title": "7505A 0000 Description / Applications",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "7505A 0000",
+   "extraModels": [
+    "7505A 0000",
+    "7505B 1500",
+    "7505P 1515",
+    "7505P 1530",
+    "GeniSys 7505P"
+   ],
+   "url": "https://www.manualslib.com/manual/1374110/Beckett-Genisys-7505a.html"
+  },
+  {
+   "manualId": "2329275",
+   "slug": "Beckett-Genisys-120v",
+   "title": "7505A 0000 Manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "7505A 0000",
+   "extraModels": [
+    "7505A 0000",
+    "7505B 1500",
+    "7505P 1515",
+    "7505P 1530",
+    "GeniSys 7505P"
+   ],
+   "url": "https://www.manualslib.com/manual/2329275/Beckett-Genisys-120v.html"
+  },
+  {
+   "manualId": "2347290",
+   "slug": "Beckett-Genisys-7505a-0000",
+   "title": "7505A 0000 Quick Tutorial",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "7505A 0000",
+   "extraModels": [
+    "GeniSys 7505P"
+   ],
+   "url": "https://www.manualslib.com/manual/2347290/Beckett-Genisys-7505a-0000.html"
+  },
+  {
+   "manualId": "2991183",
+   "slug": "Beckett-Genisys-7575",
+   "title": "7575A0000 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "7575A0000",
+   "extraModels": [
+    "7575A0000",
+    "7575P054M",
+    "7575P1515"
+   ],
+   "url": "https://www.manualslib.com/manual/2991183/Beckett-Genisys-7575.html"
+  },
+  {
+   "manualId": "14882",
+   "slug": "Beckett-800",
+   "title": "800 instruction manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "800",
+   "extraModels": [
+    "CF800"
+   ],
+   "url": "https://www.manualslib.com/manual/14882/Beckett-800.html"
+  },
+  {
+   "manualId": "2163520",
+   "slug": "Beckett-Tr3lt10",
+   "title": "Accent Lighting TR3LT10 instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Accent Lighting TR3LT10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2163520/Beckett-Tr3lt10.html"
+  },
+  {
+   "manualId": "14915",
+   "slug": "Beckett-Accent-Lighting-Tr3lt10",
+   "title": "Accent Lighting TR3LT10 Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": "Accent Lighting TR3LT10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14915/Beckett-Accent-Lighting-Tr3lt10.html"
+  },
+  {
+   "manualId": "3549706",
+   "slug": "Beckett-Adc",
+   "title": "ADC Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "ADC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3549706/Beckett-Adc.html"
+  },
+  {
+   "manualId": "1016145",
+   "slug": "Beckett-Af",
+   "title": "AF instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "AF",
+   "extraModels": [
+    "AFG"
+   ],
+   "url": "https://www.manualslib.com/manual/1016145/Beckett-Af.html"
+  },
+  {
+   "manualId": "1245924",
+   "slug": "Beckett-Af",
+   "title": "AF instruction manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "AF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1245924/Beckett-Af.html"
+  },
+  {
+   "manualId": "1273762",
+   "slug": "Beckett-Af",
+   "title": "AF Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "AF",
+   "extraModels": [
+    "AFG"
+   ],
+   "url": "https://www.manualslib.com/manual/1273762/Beckett-Af.html"
+  },
+  {
+   "manualId": "14883",
+   "slug": "Beckett-Af",
+   "title": "AF Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "AF",
+   "extraModels": [
+    "AFG",
+    "Oil Burner"
+   ],
+   "url": "https://www.manualslib.com/manual/14883/Beckett-Af.html"
+  },
+  {
+   "manualId": "638198",
+   "slug": "Beckett-Af",
+   "title": "AF Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "AF",
+   "extraModels": [
+    "AFG"
+   ],
+   "url": "https://www.manualslib.com/manual/638198/Beckett-Af.html"
+  },
+  {
+   "manualId": "1896616",
+   "slug": "Beckett-Af-Series",
+   "title": "AF Series Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "AF Series",
+   "extraModels": [
+    "AF104",
+    "AF104WH",
+    "AF104X0",
+    "AF104XN",
+    "AF104XP",
+    "AF104XR",
+    "AF104XS",
+    "AF104YB",
+    "AF130",
+    "AF130WH",
+    "AF130X0",
+    "AF130XN",
+    "AF130XP",
+    "AF130XR",
+    "AF130XS",
+    "AF130YB",
+    "AF160",
+    "AF160WH",
+    "AF160X0",
+    "AF160XN",
+    "AF160XP",
+    "AF160XR",
+    "AF160XS",
+    "AF160YB",
+    "AF44",
+    "AF44WH",
+    "AF44XN",
+    "AF44XO",
+    "AF44XP",
+    "AF44XR",
+    "AF44XS",
+    "AF44YB",
+    "AF53WH",
+    "AF53XN",
+    "AF53XO",
+    "AF53XP",
+    "AF53XR",
+    "AF53XS",
+    "AF53YB",
+    "AF65WH",
+    "AF65XN",
+    "AF65XO",
+    "AF65XP",
+    "AF65XR",
+    "AF65XS",
+    "AF65YB",
+    "AF72WH",
+    "AF72XN",
+    "AF72XO",
+    "AF72XP",
+    "AF72XR",
+    "AF72XS",
+    "AF72YB",
+    "AF90",
+    "AF90WH",
+    "AF90XN",
+    "AF90XO",
+    "AF90XP",
+    "AF90XR",
+    "AF90XS",
+    "AF90YB",
+    "AFG50MBSS",
+    "AFG50MDSS",
+    "AFG50MPSS",
+    "AFG70MBSS",
+    "AFG70MDSS",
+    "AFG70MPSS",
+    "AFG90MBSS",
+    "AFG90MDSS",
+    "AFG90MPSS"
+   ],
+   "url": "https://www.manualslib.com/manual/1896616/Beckett-Af-Series.html"
+  },
+  {
+   "manualId": "2427180",
+   "slug": "Beckett-Af44xr",
+   "title": "AF104WH instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "AF104WH",
+   "extraModels": [
+    "AF104WH",
+    "AF104XN",
+    "AF104XO",
+    "AF104XP",
+    "AF104XR",
+    "AF104XS",
+    "AF104YB",
+    "AF130WH",
+    "AF130XN",
+    "AF130XO",
+    "AF130XP",
+    "AF130XR",
+    "AF130XS",
+    "AF130YB",
+    "AF160WH",
+    "AF160XN",
+    "AF160XO",
+    "AF160XP",
+    "AF160XR",
+    "AF160XS",
+    "AF160YB",
+    "AF44WH",
+    "AF44XN",
+    "AF44XO",
+    "AF44XP",
+    "AF44XS",
+    "AF44YB",
+    "AF53WH",
+    "AF53XN",
+    "AF53XO",
+    "AF53XP",
+    "AF53XR",
+    "AF53XS",
+    "AF53YB",
+    "AF65WH",
+    "AF65XN",
+    "AF65XO",
+    "AF65XP",
+    "AF65XR",
+    "AF65XS",
+    "AF65YB",
+    "AF72WH",
+    "AF72XN",
+    "AF72XO",
+    "AF72XP",
+    "AF72XR",
+    "AF72XS",
+    "AF72YB",
+    "AF90WH",
+    "AF90XN",
+    "AF90XO",
+    "AF90XP",
+    "AF90XR",
+    "AF90XS",
+    "AF90YB"
+   ],
+   "url": "https://www.manualslib.com/manual/2427180/Beckett-Af44xr.html"
+  },
+  {
+   "manualId": "4652243",
+   "slug": "Beckett-Af-65xr",
+   "title": "AF104XN instruction manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "AF104XN",
+   "extraModels": [
+    "AF104XN",
+    "AF104XO",
+    "AF104XP",
+    "AF104XR",
+    "AF104XS",
+    "AF104YB",
+    "AF130XN",
+    "AF130XO",
+    "AF130XP",
+    "AF130XR",
+    "AF130XS",
+    "AF130YB",
+    "AF160XN",
+    "AF160XO",
+    "AF160XP",
+    "AF160XR",
+    "AF160XS",
+    "AF160YB",
+    "AF65XN",
+    "AF65XO",
+    "AF65XP",
+    "AF65XS",
+    "AF65YB",
+    "AF72XN",
+    "AF72XO",
+    "AF72XP",
+    "AF72XR",
+    "AF72XS",
+    "AF72YB",
+    "AF90XN",
+    "AF90XO",
+    "AF90XP",
+    "AF90XR",
+    "AF90XS",
+    "AF90YB"
+   ],
+   "url": "https://www.manualslib.com/manual/4652243/Beckett-Af-65xr.html"
+  },
+  {
+   "manualId": "3868232",
+   "slug": "Beckett-Af53",
+   "title": "AF53 Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "AF53",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3868232/Beckett-Af53.html"
+  },
+  {
+   "manualId": "3868233",
+   "slug": "Beckett-Af65",
+   "title": "AF65 Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "AF65",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3868233/Beckett-Af65.html"
+  },
+  {
+   "manualId": "3868234",
+   "slug": "Beckett-Af72",
+   "title": "AF72 Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "AF72",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3868234/Beckett-Af72.html"
+  },
+  {
+   "manualId": "3996846",
+   "slug": "Beckett-Afg-Series",
+   "title": "AFG F instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "AFG F",
+   "extraModels": [
+    "AFG F",
+    "AFG M"
+   ],
+   "url": "https://www.manualslib.com/manual/3996846/Beckett-Afg-Series.html"
+  },
+  {
+   "manualId": "14884",
+   "slug": "Beckett-Afg-Oil-Burner",
+   "title": "AFG instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "AFG",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14884/Beckett-Afg-Oil-Burner.html"
+  },
+  {
+   "manualId": "14886",
+   "slug": "Beckett-Afii-100",
+   "title": "AFII 100 Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "AFII 100",
+   "extraModels": [
+    "AFII 150",
+    "AFII 85",
+    "FII 85"
+   ],
+   "url": "https://www.manualslib.com/manual/14886/Beckett-Afii-100.html"
+  },
+  {
+   "manualId": "2737938",
+   "slug": "Beckett-Afii-85",
+   "title": "AFII 100 Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "AFII 100",
+   "extraModels": [
+    "AFII 100"
+   ],
+   "url": "https://www.manualslib.com/manual/2737938/Beckett-Afii-85.html"
+  },
+  {
+   "manualId": "3903050",
+   "slug": "Beckett-Afii-150",
+   "title": "AFII 150 Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "AFII 150",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3903050/Beckett-Afii-150.html"
+  },
+  {
+   "manualId": "14885",
+   "slug": "Beckett-Afii",
+   "title": "AFII user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "AFII",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14885/Beckett-Afii.html"
+  },
+  {
+   "manualId": "638197",
+   "slug": "Beckett-Afii85",
+   "title": "AFII100 installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "AFII100",
+   "extraModels": [
+    "AFII100",
+    "AFII150"
+   ],
+   "url": "https://www.manualslib.com/manual/638197/Beckett-Afii85.html"
+  },
+  {
+   "manualId": "14878",
+   "slug": "Beckett-Aquasmart-7600",
+   "title": "AQUASMART 7600 user manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "AQUASMART 7600",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14878/Beckett-Aquasmart-7600.html"
+  },
+  {
+   "manualId": "2209266",
+   "slug": "Beckett-Aquasmart-7600wtm",
+   "title": "AquaSmart 7600WTM installation manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "AquaSmart 7600WTM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2209266/Beckett-Aquasmart-7600wtm.html"
+  },
+  {
+   "manualId": "453152",
+   "slug": "Beckett-Aquasmart-7600wtm",
+   "title": "AquaSmart 7600WTM Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "AquaSmart 7600WTM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/453152/Beckett-Aquasmart-7600wtm.html"
+  },
+  {
+   "manualId": "14879",
+   "slug": "Beckett-Boiler",
+   "title": "AquaSmart Frequently Asked Questions",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "AquaSmart",
+   "extraModels": [
+    "AquaSmart"
+   ],
+   "url": "https://www.manualslib.com/manual/14879/Beckett-Boiler.html"
+  },
+  {
+   "manualId": "2344116",
+   "slug": "Beckett-Aquasmart",
+   "title": "AquaSmart Manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "AquaSmart",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2344116/Beckett-Aquasmart.html"
+  },
+  {
+   "manualId": "3041375",
+   "slug": "Beckett-Aquasmart",
+   "title": "AquaSmart quick manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "AquaSmart",
+   "extraModels": [
+    "AquaSmart 7600WTM"
+   ],
+   "url": "https://www.manualslib.com/manual/3041375/Beckett-Aquasmart.html"
+  },
+  {
+   "manualId": "2347249",
+   "slug": "Beckett-Aquasmart",
+   "title": "AquaSmart Quick Tutorial",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "AquaSmart",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2347249/Beckett-Aquasmart.html"
+  },
+  {
+   "manualId": "2347314",
+   "slug": "Beckett-Aquasmart",
+   "title": "AquaSmart Quick Tutorial",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "AquaSmart",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2347314/Beckett-Aquasmart.html"
+  },
+  {
+   "manualId": "2350542",
+   "slug": "Beckett-Aquasmart",
+   "title": "AquaSmart Quick Tutorial",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "AquaSmart",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2350542/Beckett-Aquasmart.html"
+  },
+  {
+   "manualId": "3868231",
+   "slug": "Beckett-Afg-Series",
+   "title": "Beckett AFG Series Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3868231/Beckett-Afg-Series.html"
+  },
+  {
+   "manualId": "14893",
+   "slug": "Beckett-Cf2500",
+   "title": "Beckett CF2500 Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": null,
+   "extraModels": [
+    "CF 3500"
+   ],
+   "url": "https://www.manualslib.com/manual/14893/Beckett-Cf2500.html"
+  },
+  {
+   "manualId": "14900",
+   "slug": "Beckett-Cg15",
+   "title": "Beckett CG15 Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": null,
+   "extraModels": [
+    "CG25",
+    "CG50"
+   ],
+   "url": "https://www.manualslib.com/manual/14900/Beckett-Cg15.html"
+  },
+  {
+   "manualId": "1966169",
+   "slug": "Beckett-Cg15",
+   "title": "Beckett CG15 Manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": null,
+   "extraModels": [
+    "CG25",
+    "CG50"
+   ],
+   "url": "https://www.manualslib.com/manual/1966169/Beckett-Cg15.html"
+  },
+  {
+   "manualId": "4425980",
+   "slug": "beckett-condensate-removal-pump-cb15-cb20-user-manual",
+   "title": "Beckett Condensate Removal Pump CB15/CB20 User Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4425980/beckett-condensate-removal-pump-cb15-cb20-user-manual.html"
+  },
+  {
+   "manualId": "2044421",
+   "slug": "Beckett-Fr-Series",
+   "title": "Beckett FR Series Manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": null,
+   "extraModels": [
+    "FR250",
+    "FR400",
+    "FR600",
+    "FR800"
+   ],
+   "url": "https://www.manualslib.com/manual/2044421/Beckett-Fr-Series.html"
+  },
+  {
+   "manualId": "4368623",
+   "slug": "Beckett-Ftn1421",
+   "title": "Beckett FTN1421 Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4368623/Beckett-Ftn1421.html"
+  },
+  {
+   "manualId": "14903",
+   "slug": "Beckett-Genisys-7505",
+   "title": "Beckett GeniSys 7505 Specification Sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14903/Beckett-Genisys-7505.html"
+  },
+  {
+   "manualId": "1775540",
+   "slug": "Beckett-Gr210",
+   "title": "Beckett GR210 Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1775540/Beckett-Gr210.html"
+  },
+  {
+   "manualId": "3107423",
+   "slug": "beckett-m60a-pump-manual",
+   "title": "Beckett M60A - Pump Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3107423/beckett-m60a-pump-manual.html"
+  },
+  {
+   "manualId": "14951",
+   "slug": "Beckett-M60a",
+   "title": "Beckett M60A Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14951/Beckett-M60a.html"
+  },
+  {
+   "manualId": "3620239",
+   "slug": "beckett-nk3-manual",
+   "title": "Beckett NK3 Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3620239/beckett-nk3-manual.html"
+  },
+  {
+   "manualId": "14905",
+   "slug": "Beckett-Nx",
+   "title": "Beckett NX Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14905/Beckett-Nx.html"
+  },
+  {
+   "manualId": "2571906",
+   "slug": "Beckett-Nx",
+   "title": "Beckett NX Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2571906/Beckett-Nx.html"
+  },
+  {
+   "manualId": "14906",
+   "slug": "Beckett-R7184",
+   "title": "Beckett R7184 Technical Bulletin",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14906/Beckett-R7184.html"
+  },
+  {
+   "manualId": "2235903",
+   "slug": "Beckett-Sf",
+   "title": "Beckett SF Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2235903/Beckett-Sf.html"
+  },
+  {
+   "manualId": "1697941",
+   "slug": "Beckett-Beckettlink-Hub-7650",
+   "title": "Beckettlink Hub 7650 Installation and instruction manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "Beckettlink Hub 7650",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1697941/Beckett-Beckettlink-Hub-7650.html"
+  },
+  {
+   "manualId": "14910",
+   "slug": "Beckett-Heat-Manager-61572-04",
+   "title": "brochure",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14910/Beckett-Heat-Manager-61572-04.html"
+  },
+  {
+   "manualId": "14887",
+   "slug": "Beckett-Bryan-Steam-Cf1000",
+   "title": "BRYAN STEAM CF2300A Setup manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "BRYAN STEAM CF2300A",
+   "extraModels": [
+    "BRYAN STEAM CF2300A",
+    "BRYAN STEAM CF2500A",
+    "BRYAN STEAM CF3500A",
+    "CF1400",
+    "CF375",
+    "CF500",
+    "CF800"
+   ],
+   "url": "https://www.manualslib.com/manual/14887/Beckett-Bryan-Steam-Cf1000.html"
+  },
+  {
+   "manualId": "1775541",
+   "slug": "Beckett-Cb15",
+   "title": "CB15 quick manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "CB15",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1775541/Beckett-Cb15.html"
+  },
+  {
+   "manualId": "1717778",
+   "slug": "Beckett-Cb15",
+   "title": "CB15 quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "CB15",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1717778/Beckett-Cb15.html"
+  },
+  {
+   "manualId": "2732976",
+   "slug": "Beckett-Cb20",
+   "title": "CB15 quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "CB15",
+   "extraModels": [
+    "CB15"
+   ],
+   "url": "https://www.manualslib.com/manual/2732976/Beckett-Cb20.html"
+  },
+  {
+   "manualId": "1735470",
+   "slug": "Beckett-Cb25-Series",
+   "title": "CB25 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "CB25 Series",
+   "extraModels": [
+    "CB50 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1735470/Beckett-Cb25-Series.html"
+  },
+  {
+   "manualId": "2186274",
+   "slug": "Beckett-Cb25",
+   "title": "CB25 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "CB25 Series",
+   "extraModels": [
+    "CB50 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2186274/Beckett-Cb25.html"
+  },
+  {
+   "manualId": "2419008",
+   "slug": "Beckett-Cb25-Series",
+   "title": "CB25 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "CB25 Series",
+   "extraModels": [
+    "CB50 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2419008/Beckett-Cb25-Series.html"
+  },
+  {
+   "manualId": "2732954",
+   "slug": "Beckett-Cb50-Series",
+   "title": "CB25 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "CB25 Series",
+   "extraModels": [
+    "CB25 Series",
+    "CB251UL",
+    "CB251ULHT",
+    "CB252UL",
+    "CB252ULHT",
+    "CB501UL",
+    "CB502UL",
+    "CB504UL"
+   ],
+   "url": "https://www.manualslib.com/manual/2732954/Beckett-Cb50-Series.html"
+  },
+  {
+   "manualId": "453146",
+   "slug": "Beckett-Cf-2300a",
+   "title": "CF 2300A instruction manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "CF 2300A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/453146/Beckett-Cf-2300a.html"
+  },
+  {
+   "manualId": "14889",
+   "slug": "Beckett-Cf-2500-3500",
+   "title": "CF 2500 instruction manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "CF 2500",
+   "extraModels": [
+    "CF 3500"
+   ],
+   "url": "https://www.manualslib.com/manual/14889/Beckett-Cf-2500-3500.html"
+  },
+  {
+   "manualId": "14894",
+   "slug": "Beckett-Cf3500",
+   "title": "CF 3500 Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "CF 3500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14894/Beckett-Cf3500.html"
+  },
+  {
+   "manualId": "14890",
+   "slug": "Beckett-Cf-500-800",
+   "title": "CF 500 instruction manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "CF 500",
+   "extraModels": [
+    "CF 800"
+   ],
+   "url": "https://www.manualslib.com/manual/14890/Beckett-Cf-500-800.html"
+  },
+  {
+   "manualId": "14891",
+   "slug": "Beckett-Cf1000",
+   "title": "CF1000 Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "CF1000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14891/Beckett-Cf1000.html"
+  },
+  {
+   "manualId": "14888",
+   "slug": "Beckett-Cf-1400",
+   "title": "CF1400 instruction manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "CF1400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14888/Beckett-Cf-1400.html"
+  },
+  {
+   "manualId": "14892",
+   "slug": "Beckett-Cf1400",
+   "title": "CF1400 Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "CF1400",
+   "extraModels": [
+    "CF2300"
+   ],
+   "url": "https://www.manualslib.com/manual/14892/Beckett-Cf1400.html"
+  },
+  {
+   "manualId": "14901",
+   "slug": "Beckett-Culus-Cf1400",
+   "title": "CF1400 user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "CF1400",
+   "extraModels": [
+    "CF2300"
+   ],
+   "url": "https://www.manualslib.com/manual/14901/Beckett-Culus-Cf1400.html"
+  },
+  {
+   "manualId": "4084557",
+   "slug": "Beckett-Cf375",
+   "title": "CF375 Manual",
+   "type": "Other",
+   "pages": 22,
+   "productModel": "CF375",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4084557/Beckett-Cf375.html"
+  },
+  {
+   "manualId": "14895",
+   "slug": "Beckett-Cf375",
+   "title": "CF375 user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "CF375",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14895/Beckett-Cf375.html"
+  },
+  {
+   "manualId": "3804178",
+   "slug": "Beckett-Cf500",
+   "title": "CF500 instruction manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "CF500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3804178/Beckett-Cf500.html"
+  },
+  {
+   "manualId": "14896",
+   "slug": "Beckett-Cf800",
+   "title": "CF500 user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "CF500",
+   "extraModels": [
+    "CF500"
+   ],
+   "url": "https://www.manualslib.com/manual/14896/Beckett-Cf800.html"
+  },
+  {
+   "manualId": "1159334",
+   "slug": "Beckett-Cg10",
+   "title": "CG10 Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "CG10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1159334/Beckett-Cg10.html"
+  },
+  {
+   "manualId": "1393101",
+   "slug": "Beckett-Cg10",
+   "title": "CG10 Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "CG10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1393101/Beckett-Cg10.html"
+  },
+  {
+   "manualId": "14897",
+   "slug": "Beckett-Cg10",
+   "title": "CG10 Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "CG10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14897/Beckett-Cg10.html"
+  },
+  {
+   "manualId": "14898",
+   "slug": "Beckett-Cg10-A",
+   "title": "CG10 Setup manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "CG10",
+   "extraModels": [
+    "CG15",
+    "CG25",
+    "CG50"
+   ],
+   "url": "https://www.manualslib.com/manual/14898/Beckett-Cg10-A.html"
+  },
+  {
+   "manualId": "14899",
+   "slug": "Beckett-Cg10a",
+   "title": "CG10(A) specification",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "CG10(A)",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14899/Beckett-Cg10a.html"
+  },
+  {
+   "manualId": "1910636",
+   "slug": "Beckett-Cg10-24",
+   "title": "CG10-24 Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "CG10-24",
+   "extraModels": [
+    "CG10.1",
+    "CG10.1S",
+    "CG10.2S",
+    "CG10.3",
+    "CG10.3S",
+    "CG10.4",
+    "CG10.4S",
+    "CG10.5",
+    "CG10.5S",
+    "CG10.6",
+    "CG10.6S"
+   ],
+   "url": "https://www.manualslib.com/manual/1910636/Beckett-Cg10-24.html"
+  },
+  {
+   "manualId": "1376489",
+   "slug": "Beckett-Cg25",
+   "title": "CG15 Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "CG15",
+   "extraModels": [
+    "CG15",
+    "CG50"
+   ],
+   "url": "https://www.manualslib.com/manual/1376489/Beckett-Cg25.html"
+  },
+  {
+   "manualId": "771504",
+   "slug": "Beckett-Cg15",
+   "title": "CG15 Manual supplement",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "CG15",
+   "extraModels": [
+    "CG25",
+    "CG50"
+   ],
+   "url": "https://www.manualslib.com/manual/771504/Beckett-Cg15.html"
+  },
+  {
+   "manualId": "14907",
+   "slug": "Beckett-Rwf40-Cg15",
+   "title": "CG15 specification",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "CG15",
+   "extraModels": [
+    "CG25",
+    "CG50"
+   ],
+   "url": "https://www.manualslib.com/manual/14907/Beckett-Rwf40-Cg15.html"
+  },
+  {
+   "manualId": "1797058",
+   "slug": "Beckett-Cg4",
+   "title": "CG4 Appliance manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "CG4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1797058/Beckett-Cg4.html"
+  },
+  {
+   "manualId": "453147",
+   "slug": "Beckett-Genisys-24v-7559",
+   "title": "GeniSys 24V 7559 user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "GeniSys 24V 7559",
+   "extraModels": [
+    "GeniSys 7559A 0000",
+    "GeniSys 7559P 152M",
+    "GeniSys 7559P 1530"
+   ],
+   "url": "https://www.manualslib.com/manual/453147/Beckett-Genisys-24v-7559.html"
+  },
+  {
+   "manualId": "3847183",
+   "slug": "Beckett-Genisys-7505b",
+   "title": "GeniSys 7505B Description / Applications",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "GeniSys 7505B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3847183/Beckett-Genisys-7505b.html"
+  },
+  {
+   "manualId": "2530398",
+   "slug": "Beckett-Genisys-7565",
+   "title": "GENISYS 7565 quick start manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "GENISYS 7565",
+   "extraModels": [
+    "GENISYS 7585"
+   ],
+   "url": "https://www.manualslib.com/manual/2530398/Beckett-Genisys-7565.html"
+  },
+  {
+   "manualId": "2347269",
+   "slug": "Beckett-Genisys",
+   "title": "GeniSys Display Quick Tutorial",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "GeniSys Display",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2347269/Beckett-Genisys.html"
+  },
+  {
+   "manualId": "500603",
+   "slug": "Beckett-Genisys-Display",
+   "title": "GeniSys Display user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "GeniSys Display",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/500603/Beckett-Genisys-Display.html"
+  },
+  {
+   "manualId": "4358725",
+   "slug": "Beckett-Bk221tuln",
+   "title": "Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4358725/Beckett-Bk221tuln.html"
+  },
+  {
+   "manualId": "14908",
+   "slug": "Beckett-Heatmanager-2-5-7515",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14908/Beckett-Heatmanager-2-5-7515.html"
+  },
+  {
+   "manualId": "14911",
+   "slug": "Beckett-Heatmanager-2-5-7514",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14911/Beckett-Heatmanager-2-5-7514.html"
+  },
+  {
+   "manualId": "14912",
+   "slug": "Beckett-Heatmanager-2-5-7516",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14912/Beckett-Heatmanager-2-5-7516.html"
+  },
+  {
+   "manualId": "2675388",
+   "slug": "Beckett-Sr",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2675388/Beckett-Sr.html"
+  },
+  {
+   "manualId": "2710590",
+   "slug": "Beckett-1502s",
+   "title": "instruction sheet",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2710590/Beckett-1502s.html"
+  },
+  {
+   "manualId": "14950",
+   "slug": "Beckett-M130",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14950/Beckett-M130.html"
+  },
+  {
+   "manualId": "1813144",
+   "slug": "Beckett-2n1r-Lwco-7600p-Series",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1813144/Beckett-2n1r-Lwco-7600p-Series.html"
+  },
+  {
+   "manualId": "2035986",
+   "slug": "Beckett-G325a6",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2035986/Beckett-G325a6.html"
+  },
+  {
+   "manualId": "2148965",
+   "slug": "Beckett-Glowing-Accents-7296510",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2148965/Beckett-Glowing-Accents-7296510.html"
+  },
+  {
+   "manualId": "2163341",
+   "slug": "Beckett-Blk30a",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2163341/Beckett-Blk30a.html"
+  },
+  {
+   "manualId": "2247108",
+   "slug": "Beckett-Ftn8004",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2247108/Beckett-Ftn8004.html"
+  },
+  {
+   "manualId": "2247115",
+   "slug": "Beckett-Rp10sp7",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2247115/Beckett-Rp10sp7.html"
+  },
+  {
+   "manualId": "2294071",
+   "slug": "Beckett-Ftn3050c",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2294071/Beckett-Ftn3050c.html"
+  },
+  {
+   "manualId": "2331020",
+   "slug": "Beckett-Garden-Accents-Ftn2004mb",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2331020/Beckett-Garden-Accents-Ftn2004mb.html"
+  },
+  {
+   "manualId": "2472935",
+   "slug": "Beckett-Sff601",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2472935/Beckett-Sff601.html"
+  },
+  {
+   "manualId": "2738832",
+   "slug": "Beckett-Gr325",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2738832/Beckett-Gr325.html"
+  },
+  {
+   "manualId": "2738836",
+   "slug": "Beckett-G210",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2738836/Beckett-G210.html"
+  },
+  {
+   "manualId": "2919614",
+   "slug": "Beckett-Sck250",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2919614/Beckett-Sck250.html"
+  },
+  {
+   "manualId": "3073914",
+   "slug": "Beckett-Beckettlink-7700a",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3073914/Beckett-Beckettlink-7700a.html"
+  },
+  {
+   "manualId": "3274766",
+   "slug": "Beckett-Bk17-22",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3274766/Beckett-Bk17-22.html"
+  },
+  {
+   "manualId": "3977537",
+   "slug": "Beckett-G600",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3977537/Beckett-G600.html"
+  },
+  {
+   "manualId": "4272022",
+   "slug": "Beckett-Ttc1403sss",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4272022/Beckett-Ttc1403sss.html"
+  },
+  {
+   "manualId": "1717832",
+   "slug": "Beckett-Tr3led",
+   "title": "instructions manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1717832/Beckett-Tr3led.html"
+  },
+  {
+   "manualId": "1904562",
+   "slug": "Beckett-M130uv",
+   "title": "instructions manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1904562/Beckett-M130uv.html"
+  },
+  {
+   "manualId": "2009486",
+   "slug": "Beckett-Uv9-Watt",
+   "title": "instructions manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2009486/Beckett-Uv9-Watt.html"
+  },
+  {
+   "manualId": "2503839",
+   "slug": "Beckett-Ipc13a",
+   "title": "IPC13A owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "IPC13A",
+   "extraModels": [
+    "IPC13AT"
+   ],
+   "url": "https://www.manualslib.com/manual/2503839/Beckett-Ipc13a.html"
+  },
+  {
+   "manualId": "2285210",
+   "slug": "Beckett-Lck535",
+   "title": "LCK535 instructions manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "LCK535",
+   "extraModels": [
+    "MCK325"
+   ],
+   "url": "https://www.manualslib.com/manual/2285210/Beckett-Lck535.html"
+  },
+  {
+   "manualId": "2450869",
+   "slug": "Beckett-M250",
+   "title": "M250 owner's manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "M250",
+   "extraModels": [
+    "Submersible Pump M250A",
+    "Submersible Pump M400A"
+   ],
+   "url": "https://www.manualslib.com/manual/2450869/Beckett-M250.html"
+  },
+  {
+   "manualId": "1071007",
+   "slug": "Beckett-Dp800",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1071007/Beckett-Dp800.html"
+  },
+  {
+   "manualId": "1774496",
+   "slug": "Beckett-1502c",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1774496/Beckett-1502c.html"
+  },
+  {
+   "manualId": "1775544",
+   "slug": "Beckett-Cl201ul",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1775544/Beckett-Cl201ul.html"
+  },
+  {
+   "manualId": "2032797",
+   "slug": "Beckett-Cb15-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2032797/Beckett-Cb15-Series.html"
+  },
+  {
+   "manualId": "2976084",
+   "slug": "Beckett-1502r8",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2976084/Beckett-1502r8.html"
+  },
+  {
+   "manualId": "3073902",
+   "slug": "Beckett-T650",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3073902/Beckett-T650.html"
+  },
+  {
+   "manualId": "3537212",
+   "slug": "Beckett-Cb501ulhtsp",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3537212/Beckett-Cb501ulhtsp.html"
+  },
+  {
+   "manualId": "14930",
+   "slug": "Beckett-Pond-Kit-Mck325",
+   "title": "MCK325 Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": "MCK325",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14930/Beckett-Pond-Kit-Mck325.html"
+  },
+  {
+   "manualId": "2202172",
+   "slug": "Beckett-Nk3",
+   "title": "NK3 Assembly and operation instructions",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": "NK3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2202172/Beckett-Nk3.html"
+  },
+  {
+   "manualId": "3809289",
+   "slug": "Beckett-Nk3",
+   "title": "NK3 Assembly and operation instructions",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": "NK3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3809289/Beckett-Nk3.html"
+  },
+  {
+   "manualId": "3069579",
+   "slug": "Beckett-Nx",
+   "title": "NX instruction manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "NX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3069579/Beckett-Nx.html"
+  },
+  {
+   "manualId": "1092873",
+   "slug": "Beckett-Nx",
+   "title": "NX Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "NX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1092873/Beckett-Nx.html"
+  },
+  {
+   "manualId": "2871029",
+   "slug": "Beckett-Nx",
+   "title": "NX Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "NX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2871029/Beckett-Nx.html"
+  },
+  {
+   "manualId": "1782936",
+   "slug": "Beckett-Nx-Series",
+   "title": "NX Series Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "NX Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1782936/Beckett-Nx-Series.html"
+  },
+  {
+   "manualId": "1413802",
+   "slug": "Beckett-Nx50lg",
+   "title": "NX50LB Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "NX50LB",
+   "extraModels": [
+    "NX50LB",
+    "NX50LC",
+    "NX50LD",
+    "NX50LF",
+    "NX50LH",
+    "NX70LB",
+    "NX70LC",
+    "NX70LD",
+    "NX70LF",
+    "NX70LG",
+    "NX90LB",
+    "NX90LC",
+    "NX90LD",
+    "NX90LF",
+    "NX90LG",
+    "NX90LH"
+   ],
+   "url": "https://www.manualslib.com/manual/1413802/Beckett-Nx50lg.html"
+  },
+  {
+   "manualId": "3426540",
+   "slug": "Beckett-Gp325ch",
+   "title": "operating instructions manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3426540/Beckett-Gp325ch.html"
+  },
+  {
+   "manualId": "1775562",
+   "slug": "Beckett-Cb221ul",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1775562/Beckett-Cb221ul.html"
+  },
+  {
+   "manualId": "1907891",
+   "slug": "Beckett-Fc1200",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1907891/Beckett-Fc1200.html"
+  },
+  {
+   "manualId": "2044395",
+   "slug": "Beckett-M60a",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "Submersible Pump M250A",
+    "Submersible Pump M400A"
+   ],
+   "url": "https://www.manualslib.com/manual/2044395/Beckett-M60a.html"
+  },
+  {
+   "manualId": "2202094",
+   "slug": "Beckett-Cb22",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2202094/Beckett-Cb22.html"
+  },
+  {
+   "manualId": "2237126",
+   "slug": "Beckett-M40",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2237126/Beckett-M40.html"
+  },
+  {
+   "manualId": "2973009",
+   "slug": "Beckett-M90aul",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2973009/Beckett-M90aul.html"
+  },
+  {
+   "manualId": "3140796",
+   "slug": "Beckett-Fc1250",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3140796/Beckett-Fc1250.html"
+  },
+  {
+   "manualId": "3375651",
+   "slug": "Beckett-M60a",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "Submersible Pump M250A",
+    "Submersible Pump M400A"
+   ],
+   "url": "https://www.manualslib.com/manual/3375651/Beckett-M60a.html"
+  },
+  {
+   "manualId": "4071332",
+   "slug": "Beckett-Lv450t",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4071332/Beckett-Lv450t.html"
+  },
+  {
+   "manualId": "4341780",
+   "slug": "Beckett-Fc1200",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4341780/Beckett-Fc1200.html"
+  },
+  {
+   "manualId": "14957",
+   "slug": "Beckett-Submersible-Pump-W800",
+   "title": "Pond & Waterfall Pump W600 owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "Pond & Waterfall Pump W600",
+   "extraModels": [
+    "Pond & Waterfall Pump W600"
+   ],
+   "url": "https://www.manualslib.com/manual/14957/Beckett-Submersible-Pump-W800.html"
+  },
+  {
+   "manualId": "14952",
+   "slug": "Beckett-Pond-And-Waterfall-Pump-W600",
+   "title": "Pond & Waterfall Pump W600 Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": "Pond & Waterfall Pump W600",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14952/Beckett-Pond-And-Waterfall-Pump-W600.html"
+  },
+  {
+   "manualId": "2163810",
+   "slug": "Beckett-Pbf750",
+   "title": "Pond Filter PBF750 instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Pond Filter PBF750",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2163810/Beckett-Pbf750.html"
+  },
+  {
+   "manualId": "14962",
+   "slug": "Beckett-Pond-Filter-Pbf750",
+   "title": "Pond Filter PBF750 Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": "Pond Filter PBF750",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14962/Beckett-Pond-Filter-Pbf750.html"
+  },
+  {
+   "manualId": "14913",
+   "slug": "Beckett-Fnb813",
+   "title": "Product Features",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14913/Beckett-Fnb813.html"
+  },
+  {
+   "manualId": "14918",
+   "slug": "Beckett-Dp80",
+   "title": "Product features",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14918/Beckett-Dp80.html"
+  },
+  {
+   "manualId": "14923",
+   "slug": "Beckett-Fairy-Fpk301",
+   "title": "Product features",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14923/Beckett-Fairy-Fpk301.html"
+  },
+  {
+   "manualId": "14925",
+   "slug": "Beckett-Pk35",
+   "title": "Product Features",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14925/Beckett-Pk35.html"
+  },
+  {
+   "manualId": "14941",
+   "slug": "Beckett-Wfk16",
+   "title": "Product features",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14941/Beckett-Wfk16.html"
+  },
+  {
+   "manualId": "14942",
+   "slug": "Beckett-Lp1",
+   "title": "Product Features",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14942/Beckett-Lp1.html"
+  },
+  {
+   "manualId": "14943",
+   "slug": "Beckett-Ph100",
+   "title": "Product Features",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14943/Beckett-Ph100.html"
+  },
+  {
+   "manualId": "14959",
+   "slug": "Beckett-Fl200",
+   "title": "Product Features",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14959/Beckett-Fl200.html"
+  },
+  {
+   "manualId": "14902",
+   "slug": "Beckett-Genisys-52040",
+   "title": "Product Sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14902/Beckett-Genisys-52040.html"
+  },
+  {
+   "manualId": "453145",
+   "slug": "Beckett-Afg-Oil-Burner-240v",
+   "title": "Product sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/453145/Beckett-Afg-Oil-Burner-240v.html"
+  },
+  {
+   "manualId": "1775563",
+   "slug": "Beckett-Brpap1",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1775563/Beckett-Brpap1.html"
+  },
+  {
+   "manualId": "2401383",
+   "slug": "Beckett-Cb501ulhts",
+   "title": "quick manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2401383/Beckett-Cb501ulhts.html"
+  },
+  {
+   "manualId": "1797130",
+   "slug": "Beckett-T501",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1797130/Beckett-T501.html"
+  },
+  {
+   "manualId": "2108572",
+   "slug": "Beckett-1014u",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2108572/Beckett-1014u.html"
+  },
+  {
+   "manualId": "2487306",
+   "slug": "Beckett-Ms601ulq",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2487306/Beckett-Ms601ulq.html"
+  },
+  {
+   "manualId": "2667256",
+   "slug": "Beckett-Cl202ul",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2667256/Beckett-Cl202ul.html"
+  },
+  {
+   "manualId": "2732956",
+   "slug": "Beckett-1502s",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2732956/Beckett-1502s.html"
+  },
+  {
+   "manualId": "2735401",
+   "slug": "Beckett-Bk17",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2735401/Beckett-Bk17.html"
+  },
+  {
+   "manualId": "2738835",
+   "slug": "Beckett-Cl201ulp",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2738835/Beckett-Cl201ulp.html"
+  },
+  {
+   "manualId": "3224528",
+   "slug": "Beckett-Bk22ul",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3224528/Beckett-Bk22ul.html"
+  },
+  {
+   "manualId": "3567077",
+   "slug": "Beckett-Bk171lsul",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3567077/Beckett-Bk171lsul.html"
+  },
+  {
+   "manualId": "4338992",
+   "slug": "Beckett-7207810",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4338992/Beckett-7207810.html"
+  },
+  {
+   "manualId": "4367733",
+   "slug": "Beckett-Ftn1445st",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4367733/Beckett-Ftn1445st.html"
+  },
+  {
+   "manualId": "4367743",
+   "slug": "Beckett-Ftn1407sss",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4367743/Beckett-Ftn1407sss.html"
+  },
+  {
+   "manualId": "4369263",
+   "slug": "Beckett-Ftn1412sss",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4369263/Beckett-Ftn1412sss.html"
+  },
+  {
+   "manualId": "4561983",
+   "slug": "Beckett-Ms601ul",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4561983/Beckett-Ms601ul.html"
+  },
+  {
+   "manualId": "4025629",
+   "slug": "Beckett-Rf101",
+   "title": "RF101 Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "RF101",
+   "extraModels": [
+    "RF102"
+   ],
+   "url": "https://www.manualslib.com/manual/4025629/Beckett-Rf101.html"
+  },
+  {
+   "manualId": "453149",
+   "slug": "Beckett-Sdc-24-Vdc",
+   "title": "SDC 24 VDC user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "SDC 24 VDC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/453149/Beckett-Sdc-24-Vdc.html"
+  },
+  {
+   "manualId": "14949",
+   "slug": "Beckett-G325",
+   "title": "service and maintenance manual",
+   "type": "Service",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14949/Beckett-G325.html"
+  },
+  {
+   "manualId": "1631729",
+   "slug": "Beckett-Sf-Series",
+   "title": "SF Series Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "SF Series",
+   "extraModels": [
+    "SF130FD",
+    "SF130FU",
+    "SF130VP",
+    "SF130VW",
+    "SF160FD",
+    "SF160FU",
+    "SF160VP",
+    "SF160VW",
+    "SF65FD",
+    "SF65FU",
+    "SF65VP",
+    "SF65VW",
+    "SF90FD",
+    "SF90FU",
+    "SF90VP",
+    "SF90VW",
+    "SM130FF",
+    "SM130VM",
+    "SM130VW",
+    "SM160FF",
+    "SM160VM",
+    "SM160VW",
+    "SM65FF",
+    "SM65VM",
+    "SM65VW",
+    "SM90FF",
+    "SM90VM",
+    "SM90VW"
+   ],
+   "url": "https://www.manualslib.com/manual/1631729/Beckett-Sf-Series.html"
+  },
+  {
+   "manualId": "453150",
+   "slug": "Beckett-Sf",
+   "title": "SF specification",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "SF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/453150/Beckett-Sf.html"
+  },
+  {
+   "manualId": "3880646",
+   "slug": "Beckett-Sm",
+   "title": "SM Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "SM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3880646/Beckett-Sm.html"
+  },
+  {
+   "manualId": "3859042",
+   "slug": "Beckett-Sm-Series",
+   "title": "SM Series Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "SM Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3859042/Beckett-Sm-Series.html"
+  },
+  {
+   "manualId": "960029",
+   "slug": "Beckett-Solarh2ot",
+   "title": "solarH2ot Manual To Selecting And Installing",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "solarH2ot",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/960029/Beckett-Solarh2ot.html"
+  },
+  {
+   "manualId": "14917",
+   "slug": "Beckett-Crystal-Pond-With-Bio-Barley-Bp8",
+   "title": "Specification",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14917/Beckett-Crystal-Pond-With-Bio-Barley-Bp8.html"
+  },
+  {
+   "manualId": "14920",
+   "slug": "Beckett-Fountain-Cleanser-Fp4",
+   "title": "Specification",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14920/Beckett-Fountain-Cleanser-Fp4.html"
+  },
+  {
+   "manualId": "14939",
+   "slug": "Beckett-Water-Treatments-Starter-Kit-Wtstarter",
+   "title": "specification",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14939/Beckett-Water-Treatments-Starter-Kit-Wtstarter.html"
+  },
+  {
+   "manualId": "14904",
+   "slug": "Beckett-Jets-1000",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14904/Beckett-Jets-1000.html"
+  },
+  {
+   "manualId": "14926",
+   "slug": "Beckett-Pond-Art-Kit-Ffpk309",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14926/Beckett-Pond-Art-Kit-Ffpk309.html"
+  },
+  {
+   "manualId": "14955",
+   "slug": "Beckett-Pool-Spa-Pump-G150apcp",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14955/Beckett-Pool-Spa-Pump-G150apcp.html"
+  },
+  {
+   "manualId": "14914",
+   "slug": "Beckett-Accent-Lighting-Lt20",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14914/Beckett-Accent-Lighting-Lt20.html"
+  },
+  {
+   "manualId": "14916",
+   "slug": "Beckett-Container-Fountain-Kit-Cgfk60",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14916/Beckett-Container-Fountain-Kit-Cgfk60.html"
+  },
+  {
+   "manualId": "14919",
+   "slug": "Beckett-Epdm-Pond-Liner-7086810",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14919/Beckett-Epdm-Pond-Liner-7086810.html"
+  },
+  {
+   "manualId": "14921",
+   "slug": "Beckett-Fountain-Nozzle-1420",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14921/Beckett-Fountain-Nozzle-1420.html"
+  },
+  {
+   "manualId": "14922",
+   "slug": "Beckett-Fountain-Nozzle-Accessory-1440",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14922/Beckett-Fountain-Nozzle-Accessory-1440.html"
+  },
+  {
+   "manualId": "14924",
+   "slug": "Beckett-Mini-Waterbell-Trumpet-1409",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14924/Beckett-Mini-Waterbell-Trumpet-1409.html"
+  },
+  {
+   "manualId": "14927",
+   "slug": "Beckett-Pond-Cherub-Cpk302",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14927/Beckett-Pond-Cherub-Cpk302.html"
+  },
+  {
+   "manualId": "14928",
+   "slug": "Beckett-Pond-Clarifier-Cppc16",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14928/Beckett-Pond-Clarifier-Cppc16.html"
+  },
+  {
+   "manualId": "14929",
+   "slug": "Beckett-Pond-Kit-Bl25led",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14929/Beckett-Pond-Kit-Bl25led.html"
+  },
+  {
+   "manualId": "14931",
+   "slug": "Beckett-Pond-Liner-7114010",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14931/Beckett-Pond-Liner-7114010.html"
+  },
+  {
+   "manualId": "14932",
+   "slug": "Beckett-Pond-Liner-Pl1322",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14932/Beckett-Pond-Liner-Pl1322.html"
+  },
+  {
+   "manualId": "14933",
+   "slug": "Beckett-Pond-Liner-Pl822",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14933/Beckett-Pond-Liner-Pl822.html"
+  },
+  {
+   "manualId": "14934",
+   "slug": "Beckett-Pond-Liner-Rlu100",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14934/Beckett-Pond-Liner-Rlu100.html"
+  },
+  {
+   "manualId": "14935",
+   "slug": "Beckett-Small-Pond-Kit-Sck210",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14935/Beckett-Small-Pond-Kit-Sck210.html"
+  },
+  {
+   "manualId": "14936",
+   "slug": "Beckett-Water-Treatments-Cpcr16",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14936/Beckett-Water-Treatments-Cpcr16.html"
+  },
+  {
+   "manualId": "14937",
+   "slug": "Beckett-Water-Treatments-Cpph16",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14937/Beckett-Water-Treatments-Cpph16.html"
+  },
+  {
+   "manualId": "14938",
+   "slug": "Beckett-Water-Treatments-Nb16",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14938/Beckett-Water-Treatments-Nb16.html"
+  },
+  {
+   "manualId": "14940",
+   "slug": "Beckett-Waterfall-Kit-Wfk8",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14940/Beckett-Waterfall-Kit-Wfk8.html"
+  },
+  {
+   "manualId": "14944",
+   "slug": "Beckett-Fountain-Pump-G90ag",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14944/Beckett-Fountain-Pump-G90ag.html"
+  },
+  {
+   "manualId": "14945",
+   "slug": "Beckett-Fountain-Pump-M130aul",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14945/Beckett-Fountain-Pump-M130aul.html"
+  },
+  {
+   "manualId": "14946",
+   "slug": "Beckett-Fountain-Pump-M250aul16",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14946/Beckett-Fountain-Pump-M250aul16.html"
+  },
+  {
+   "manualId": "14947",
+   "slug": "Beckett-Fountain-Pump-M400aul16",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14947/Beckett-Fountain-Pump-M400aul16.html"
+  },
+  {
+   "manualId": "14948",
+   "slug": "Beckett-Fountain-Pump-M60aul",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14948/Beckett-Fountain-Pump-M60aul.html"
+  },
+  {
+   "manualId": "14953",
+   "slug": "Beckett-Pond-Pump-G325ag20",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14953/Beckett-Pond-Pump-G325ag20.html"
+  },
+  {
+   "manualId": "14954",
+   "slug": "Beckett-Pond-Pump-G535ag20",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14954/Beckett-Pond-Pump-G535ag20.html"
+  },
+  {
+   "manualId": "14958",
+   "slug": "Beckett-Biological-Pond-Filter-Pf357",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14958/Beckett-Biological-Pond-Filter-Pf357.html"
+  },
+  {
+   "manualId": "14960",
+   "slug": "Beckett-Pond-Filter-Kit-Bf350a20",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14960/Beckett-Pond-Filter-Kit-Bf350a20.html"
+  },
+  {
+   "manualId": "14961",
+   "slug": "Beckett-Pond-Filter-Kit-Bf700a20",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14961/Beckett-Pond-Filter-Kit-Bf700a20.html"
+  },
+  {
+   "manualId": "14963",
+   "slug": "Beckett-Pond-Filter-Rfpcombo",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14963/Beckett-Pond-Filter-Rfpcombo.html"
+  },
+  {
+   "manualId": "14964",
+   "slug": "Beckett-Rfpg",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/14964/Beckett-Rfpg.html"
+  },
+  {
+   "manualId": "14956",
+   "slug": "Beckett-Submersible-Pump-M250a",
+   "title": "Submersible Pump M250A owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Submersible Pump M250A",
+   "extraModels": [
+    "Submersible Pump M400A"
+   ],
+   "url": "https://www.manualslib.com/manual/14956/Beckett-Submersible-Pump-M250a.html"
+  },
+  {
+   "manualId": "4342831",
+   "slug": "Beckett-Tt1304",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4342831/Beckett-Tt1304.html"
+  },
+  {
+   "manualId": "4355426",
+   "slug": "Beckett-Ftn1409sss",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4355426/Beckett-Ftn1409sss.html"
+  },
+  {
+   "manualId": "2417145",
+   "slug": "Beckett-Wfk12",
+   "title": "WFK12 instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "WFK12",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2417145/Beckett-Wfk12.html"
+  },
+  {
+   "manualId": "2651374",
+   "slug": "Beckett-Wfk8s",
+   "title": "WFK8S Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "WFK8S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2651374/Beckett-Wfk8s.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4425980",
+   "slug": "beckett-condensate-removal-pump-cb15-cb20-user-manual",
+   "title": "Beckett Condensate Removal Pump CB15/CB20 User Manual"
+  },
+  {
+   "manualId": "3620239",
+   "slug": "beckett-nk3-manual",
+   "title": "Beckett NK3 Manual"
+  },
+  {
+   "manualId": "3107423",
+   "slug": "beckett-m60a-pump-manual",
+   "title": "Beckett M60A - Pump Manual"
+  }
+ ],
+ "techDirectIds": [
+  "beckett"
+ ]
+}

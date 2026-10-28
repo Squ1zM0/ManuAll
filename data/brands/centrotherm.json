@@ -1,0 +1,37 @@
+{
+ "brand": "CENTROTHERM",
+ "brandSlug": "centrotherm",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/centrotherm/"
+ ],
+ "slugUsed": "centrotherm",
+ "capturedAt": "2026-10-28T06:35:17.224722+00:00",
+ "typePages": [
+  {
+   "path": "/brand/centrotherm/furnace.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1929245",
+   "slug": "Centrotherm-E1200-Ht-260-3",
+   "title": "E1200 HT 260-3 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 233,
+   "productModel": "E1200 HT 260-3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1929245/Centrotherm-E1200-Ht-260-3.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "centrotherm"
+ ]
+}

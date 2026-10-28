@@ -1,0 +1,133 @@
+{
+ "brand": "Flexcon",
+ "brandSlug": "flexcon",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/flexcon/"
+ ],
+ "slugUsed": "flexcon",
+ "capturedAt": "2026-10-28T07:08:54.382566+00:00",
+ "typePages": [
+  {
+   "path": "/brand/flexcon/tank-equipment.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/flexcon/toy.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/flexcon/water-heater.html",
+   "manuals": 30,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4239375",
+   "slug": "flexcon-mixmaster-baffle-tank-series-storage-tank-installation-manual",
+   "title": "Flexcon MIXMASTER BAFFLE TANK Series Storage Tank Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4239375/flexcon-mixmaster-baffle-tank-series-storage-tank-installation-manual.html"
+  },
+  {
+   "manualId": "3470971",
+   "slug": "Flexcon-Flex-2-Pro-Whv-Series",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3470971/Flexcon-Flex-2-Pro-Whv-Series.html"
+  },
+  {
+   "manualId": "2068022",
+   "slug": "Flexcon-Bg-Series",
+   "title": "Installation, Warnings, And Operation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2068022/Flexcon-Bg-Series.html"
+  },
+  {
+   "manualId": "2071922",
+   "slug": "Flexcon-Flex-2-Pro-Htx-Series",
+   "title": "Installation, Warnings, And Operation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2071922/Flexcon-Flex-2-Pro-Htx-Series.html"
+  },
+  {
+   "manualId": "2166275",
+   "slug": "Flexcon-Flex-2-Pro-Ph-Series",
+   "title": "Installation, Warnings, And Operation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2166275/Flexcon-Flex-2-Pro-Ph-Series.html"
+  },
+  {
+   "manualId": "2811188",
+   "slug": "Flexcon-Flex-2-Pro-Ph-Series",
+   "title": "Installation, Warnings, and Operation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2811188/Flexcon-Flex-2-Pro-Ph-Series.html"
+  },
+  {
+   "manualId": "2531567",
+   "slug": "Flexcon-Flu-H2plu",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2531567/Flexcon-Flu-H2plu.html"
+  },
+  {
+   "manualId": "3454618",
+   "slug": "Flexcon-Mixmaster-Baffle-Tank-Series",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3454618/Flexcon-Mixmaster-Baffle-Tank-Series.html"
+  },
+  {
+   "manualId": "2511522",
+   "slug": "Flexcon-H2plu-Series",
+   "title": "Owner's Manual And Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2511522/Flexcon-H2plu-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4239375",
+   "slug": "flexcon-mixmaster-baffle-tank-series-storage-tank-installation-manual",
+   "title": "Flexcon MIXMASTER BAFFLE TANK Series Storage Tank Installation Manual"
+  }
+ ],
+ "techDirectIds": [
+  "flexcon"
+ ]
+}

@@ -1,0 +1,361 @@
+{
+ "brand": "Islandaire",
+ "brandSlug": "islandaire",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/islandaire/"
+ ],
+ "slugUsed": "islandaire",
+ "capturedAt": "2026-10-28T08:31:01.471352+00:00",
+ "typePages": [
+  {
+   "path": "/brand/islandaire/air-conditioner.html",
+   "manuals": 81,
+   "status": 200
+  },
+  {
+   "path": "/brand/islandaire/fan.html",
+   "manuals": 24,
+   "status": 200
+  },
+  {
+   "path": "/brand/islandaire/gas-heater.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/islandaire/heat-pump.html",
+   "manuals": 26,
+   "status": 200
+  },
+  {
+   "path": "/brand/islandaire/inverter.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/islandaire/thermostat.html",
+   "manuals": 4,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2417757",
+   "slug": "Islandaire-6041206",
+   "title": "6041206 Installation and operation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "6041206",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2417757/Islandaire-6041206.html"
+  },
+  {
+   "manualId": "2385020",
+   "slug": "Islandaire-6041210",
+   "title": "6041210 Installation and operation manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "6041210",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2385020/Islandaire-6041210.html"
+  },
+  {
+   "manualId": "2417771",
+   "slug": "Islandaire-6041228",
+   "title": "6041228 Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "6041228",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2417771/Islandaire-6041228.html"
+  },
+  {
+   "manualId": "1399723",
+   "slug": "Islandaire-Ez-Series-25",
+   "title": "EZ Series 25 operating & maintenance manual",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "EZ Series 25",
+   "extraModels": [
+    "EZ Series 25"
+   ],
+   "url": "https://www.manualslib.com/manual/1399723/Islandaire-Ez-Series-25.html"
+  },
+  {
+   "manualId": "826238",
+   "slug": "Islandaire-Ez-Series-42",
+   "title": "EZ Series 42 Engineer's manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "EZ Series 42",
+   "extraModels": [
+    "EZ Series 42",
+    "EZ Series DR",
+    "EZ07",
+    "EZ09",
+    "EZ12",
+    "EZ15",
+    "EZ4212A2C1S45AA"
+   ],
+   "url": "https://www.manualslib.com/manual/826238/Islandaire-Ez-Series-42.html"
+  },
+  {
+   "manualId": "1125220",
+   "slug": "Islandaire-Ez-42-Series",
+   "title": "EZ Series 42 Engineering manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "EZ Series 42",
+   "extraModels": [
+    "EZ Series DR"
+   ],
+   "url": "https://www.manualslib.com/manual/1125220/Islandaire-Ez-42-Series.html"
+  },
+  {
+   "manualId": "2924885",
+   "slug": "Islandaire-Ez-42-Series",
+   "title": "EZ Series 42 Engineering manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "EZ Series 42",
+   "extraModels": [
+    "EZ Series DR",
+    "EZ07",
+    "EZ09",
+    "EZ12",
+    "EZ15",
+    "EZ DR.PTAC Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2924885/Islandaire-Ez-42-Series.html"
+  },
+  {
+   "manualId": "1011057",
+   "slug": "Islandaire-Ez-42-Series",
+   "title": "EZ Series 42 Installation and operation manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "EZ Series 42",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1011057/Islandaire-Ez-42-Series.html"
+  },
+  {
+   "manualId": "3642567",
+   "slug": "Islandaire-Ez42",
+   "title": "EZ Series 42 Installation instructions & owner's manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "EZ Series 42",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3642567/Islandaire-Ez42.html"
+  },
+  {
+   "manualId": "1597798",
+   "slug": "Islandaire-Ez-Series",
+   "title": "EZ Series Engineering manual",
+   "type": "Other",
+   "pages": 38,
+   "productModel": "EZ Series",
+   "extraModels": [
+    "EZ09",
+    "EZ12",
+    "EZ15",
+    "EZ18",
+    "EZVP Series",
+    "EZVR Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1597798/Islandaire-Ez-Series.html"
+  },
+  {
+   "manualId": "1598113",
+   "slug": "Islandaire-Ez-Series",
+   "title": "EZ Series Engineering manual",
+   "type": "Other",
+   "pages": 42,
+   "productModel": "EZ Series",
+   "extraModels": [
+    "EZ09 VP",
+    "EZ09 VR",
+    "EZ12 VP",
+    "EZ12 VR",
+    "EZ15 VP",
+    "EZ15 VR",
+    "EZ18 VP",
+    "EZ18 VR",
+    "EZVP Series",
+    "EZVR Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1598113/Islandaire-Ez-Series.html"
+  },
+  {
+   "manualId": "2179212",
+   "slug": "Islandaire-Ez-Series",
+   "title": "EZ Series Engineering manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "EZ Series",
+   "extraModels": [
+    "EZ NY"
+   ],
+   "url": "https://www.manualslib.com/manual/2179212/Islandaire-Ez-Series.html"
+  },
+  {
+   "manualId": "4201434",
+   "slug": "Islandaire-Ez-Series",
+   "title": "EZ Series Installation and user manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "EZ Series",
+   "extraModels": [
+    "EZ12",
+    "EZ18",
+    "EZ08",
+    "EZ10",
+    "EZ16",
+    "EZ20",
+    "EZ24"
+   ],
+   "url": "https://www.manualslib.com/manual/4201434/Islandaire-Ez-Series.html"
+  },
+  {
+   "manualId": "2370300",
+   "slug": "Islandaire-Ez-Series",
+   "title": "EZ Series Installation instructions & owner's manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "EZ Series",
+   "extraModels": [
+    "EZ Series 42"
+   ],
+   "url": "https://www.manualslib.com/manual/2370300/Islandaire-Ez-Series.html"
+  },
+  {
+   "manualId": "989424",
+   "slug": "Islandaire-Ez-Touch-Ir",
+   "title": "EZ Touch IR installation manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "EZ Touch IR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/989424/Islandaire-Ez-Touch-Ir.html"
+  },
+  {
+   "manualId": "2323208",
+   "slug": "Islandaire-Ez-Vp-Series",
+   "title": "EZ VP 09 Engineering manual",
+   "type": "Other",
+   "pages": 46,
+   "productModel": "EZ VP 09",
+   "extraModels": [
+    "EZ VP 09",
+    "EZ VP 12",
+    "EZ VP 15",
+    "EZ VP 18",
+    "EZ VP 24",
+    "EZ VR 09",
+    "EZ VR 12",
+    "EZ VR 15",
+    "EZ VR 18",
+    "EZ VR 24",
+    "EZ VR Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2323208/Islandaire-Ez-Vp-Series.html"
+  },
+  {
+   "manualId": "2379997",
+   "slug": "Islandaire-Ez-Gs-Series",
+   "title": "EZ07 Engineering manual",
+   "type": "Other",
+   "pages": 60,
+   "productModel": "EZ07",
+   "extraModels": [
+    "EZ07",
+    "EZ09",
+    "EZ12",
+    "EZ16"
+   ],
+   "url": "https://www.manualslib.com/manual/2379997/Islandaire-Ez-Gs-Series.html"
+  },
+  {
+   "manualId": "2748967",
+   "slug": "Islandaire-Ez2612a5a1s44aa",
+   "title": "EZ2609A2A1S41AA Installation instructions and owner's manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "EZ2609A2A1S41AA",
+   "extraModels": [
+    "EZ2609A2A1S41AA",
+    "EZ2609A2C1S44AA",
+    "EZ2609A5A1S41AA",
+    "EZ2609A5A1S44AA",
+    "EZ2609A9A1S44AA",
+    "EZ2609B2C1S44AA",
+    "EZ2612A2C1S44AA",
+    "EZ2612B2C1S44AA"
+   ],
+   "url": "https://www.manualslib.com/manual/2748967/Islandaire-Ez2612a5a1s44aa.html"
+  },
+  {
+   "manualId": "940957",
+   "slug": "Islandaire-Ez2609a5a1s44aa",
+   "title": "EZ2609A2C1S44AA Installation instructions and owner's manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "EZ2609A2C1S44AA",
+   "extraModels": [
+    "EZ2609A2C1S44AA",
+    "EZ2609A9A1S44AA",
+    "EZ2609B2C1S44AA",
+    "EZ2612A2C1S44AA",
+    "EZ2612A5A1S44AA",
+    "EZ2612B2C1S44AA"
+   ],
+   "url": "https://www.manualslib.com/manual/940957/Islandaire-Ez2609a5a1s44aa.html"
+  },
+  {
+   "manualId": "958435",
+   "slug": "Islandaire-Ez2609a5a1s44aa",
+   "title": "EZ2609A2C1S44AA Installation instructions and owner's manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "EZ2609A2C1S44AA",
+   "extraModels": [
+    "EZ2609A2C1S44AA",
+    "EZ2609A9A1S44AA",
+    "EZ2609B2C1S44AA",
+    "EZ2612A2C1S44AA",
+    "EZ2612A5A1S44AA",
+    "EZ2612B2C1S44AA"
+   ],
+   "url": "https://www.manualslib.com/manual/958435/Islandaire-Ez2609a5a1s44aa.html"
+  },
+  {
+   "manualId": "3885704",
+   "slug": "Islandaire-Ezdr",
+   "title": "EZDR Installation instructions & owner's manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "EZDR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3885704/Islandaire-Ezdr.html"
+  },
+  {
+   "manualId": "4201669",
+   "slug": "Islandaire-Ezla-Series",
+   "title": "EZLA Series Installation instructions & owner's manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "EZLA Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4201669/Islandaire-Ezla-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "islandaire"
+ ]
+}

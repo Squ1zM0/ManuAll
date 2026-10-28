@@ -1,0 +1,133 @@
+{
+ "brand": "Larkin",
+ "brandSlug": "larkin",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/larkin/"
+ ],
+ "slugUsed": "larkin",
+ "capturedAt": "2026-10-28T08:32:33.188170+00:00",
+ "typePages": [
+  {
+   "path": "/brand/larkin/accessories.html",
+   "manuals": 26,
+   "status": 200
+  },
+  {
+   "path": "/brand/larkin/control-unit.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/larkin/fan.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/larkin/test-equipment.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2604299",
+   "slug": "Larkin-Afc-Dcv",
+   "title": "AFC-DCV Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 15,
+   "productModel": "AFC-DCV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2604299/Larkin-Afc-Dcv.html"
+  },
+  {
+   "manualId": "2596662",
+   "slug": "Larkin-Auto-Fan-Control",
+   "title": "Auto Fan Control Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "Auto Fan Control",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2596662/Larkin-Auto-Fan-Control.html"
+  },
+  {
+   "manualId": "2792371",
+   "slug": "Larkin-Xrae",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2792371/Larkin-Xrae.html"
+  },
+  {
+   "manualId": "3537974",
+   "slug": "Larkin-Xcr",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3537974/Larkin-Xcr.html"
+  },
+  {
+   "manualId": "91150",
+   "slug": "Larkin-Lk-Lvtb",
+   "title": "LK-LVTB Technical manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "LK-LVTB",
+   "extraModels": [
+    "LWA050",
+    "LWA075",
+    "LWA100",
+    "LWA130",
+    "LWA155",
+    "LWA180",
+    "LWA210",
+    "LWA270",
+    "LWA340",
+    "LWE050",
+    "LWE075",
+    "LWE100",
+    "LWE130",
+    "LWE155",
+    "LWE180",
+    "LWE210",
+    "LWE270",
+    "LWE340",
+    "LWG100",
+    "LWG130",
+    "LWG155",
+    "LWG180",
+    "LWG210",
+    "LWG270",
+    "LWG340"
+   ],
+   "url": "https://www.manualslib.com/manual/91150/Larkin-Lk-Lvtb.html"
+  },
+  {
+   "manualId": "2721473",
+   "slug": "Larkin-Xuef-100",
+   "title": "XUEF-100 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "XUEF-100",
+   "extraModels": [
+    "XUEF-200",
+    "XUEF-300",
+    "XUEF-400",
+    "XUEFD-100"
+   ],
+   "url": "https://www.manualslib.com/manual/2721473/Larkin-Xuef-100.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "larkin"
+ ]
+}

@@ -1,0 +1,649 @@
+{
+ "brand": "Nailor",
+ "brandSlug": "nailor",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/nailor/"
+ ],
+ "slugUsed": "nailor",
+ "capturedAt": "2026-10-28T08:43:35.074182+00:00",
+ "typePages": [
+  {
+   "path": "/brand/nailor/accessories.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/nailor/air-cleaner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/nailor/air-conditioner.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/nailor/control-unit.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/nailor/controller.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/nailor/electric-heater.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/nailor/fan.html",
+   "manuals": 45,
+   "status": 200
+  },
+  {
+   "path": "/brand/nailor/fire-and-smoke-dampers.html",
+   "manuals": 153,
+   "status": 200
+  },
+  {
+   "path": "/brand/nailor/heater.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/nailor/security-sensors.html",
+   "manuals": 41,
+   "status": 200
+  },
+  {
+   "path": "/brand/nailor/thermostat.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/nailor/touch-terminals.html",
+   "manuals": 23,
+   "status": 200
+  },
+  {
+   "path": "/brand/nailor/transmitter.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/nailor/water-filtration-systems.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4595979",
+   "slug": "Nailor-0510v",
+   "title": "0510H Manual",
+   "type": "Other",
+   "pages": 54,
+   "productModel": "0510H",
+   "extraModels": [
+    "0510H",
+    "0510SS",
+    "0520H",
+    "0520SS",
+    "0520V",
+    "0530H",
+    "0530SS",
+    "0530V"
+   ],
+   "url": "https://www.manualslib.com/manual/4595979/Nailor-0510v.html"
+  },
+  {
+   "manualId": "3788129",
+   "slug": "Nailor-0570v",
+   "title": "0570V Manual",
+   "type": "Other",
+   "pages": 42,
+   "productModel": "0570V",
+   "extraModels": [
+    "0580V",
+    "0590V"
+   ],
+   "url": "https://www.manualslib.com/manual/3788129/Nailor-0570v.html"
+  },
+  {
+   "manualId": "3306219",
+   "slug": "Nailor-D1200-Series",
+   "title": "1200 Series Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "1200 Series",
+   "extraModels": [
+    "1290F",
+    "D1200-3 Series",
+    "D1201-OW Series",
+    "D1250 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3306219/Nailor-D1200-Series.html"
+  },
+  {
+   "manualId": "3779074",
+   "slug": "Nailor-1200",
+   "title": "1200 Series Manual",
+   "type": "Other",
+   "pages": 43,
+   "productModel": "1200 Series",
+   "extraModels": [
+    "1201"
+   ],
+   "url": "https://www.manualslib.com/manual/3779074/Nailor-1200.html"
+  },
+  {
+   "manualId": "2685985",
+   "slug": "Nailor-1210ss",
+   "title": "1210SS Manual",
+   "type": "Other",
+   "pages": 43,
+   "productModel": "1210SS",
+   "extraModels": [
+    "1211SS",
+    "1212SS",
+    "1213SS"
+   ],
+   "url": "https://www.manualslib.com/manual/2685985/Nailor-1210ss.html"
+  },
+  {
+   "manualId": "4037714",
+   "slug": "Nailor-1220ss-Series",
+   "title": "1220 Series Manual",
+   "type": "Other",
+   "pages": 46,
+   "productModel": "1220 Series",
+   "extraModels": [
+    "1220SS-3 Series",
+    "1221SS Series",
+    "1221SS-3 Series",
+    "1222SS Series",
+    "1222SS-3 Series",
+    "1223SS Series",
+    "1223SS-3 Series",
+    "DTS",
+    "ERL",
+    "QS1",
+    "QS2"
+   ],
+   "url": "https://www.manualslib.com/manual/4037714/Nailor-1220ss-Series.html"
+  },
+  {
+   "manualId": "4037715",
+   "slug": "Nailor-1221vb-Series",
+   "title": "1221VB Series Manual",
+   "type": "Other",
+   "pages": 39,
+   "productModel": "1221VB Series",
+   "extraModels": [
+    "1222VB Series",
+    "1223VB Series",
+    "DTS",
+    "ERL",
+    "QS1",
+    "QS2"
+   ],
+   "url": "https://www.manualslib.com/manual/4037715/Nailor-1221vb-Series.html"
+  },
+  {
+   "manualId": "2122567",
+   "slug": "Nailor-1290f",
+   "title": "1290F quick start manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "1290F",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2122567/Nailor-1290f.html"
+  },
+  {
+   "manualId": "2442970",
+   "slug": "Nailor-3000-Series",
+   "title": "3000 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "3000 Series",
+   "extraModels": [
+    "A3001",
+    "A30RE",
+    "A30RW",
+    "AT303",
+    "AT305",
+    "D3001Q",
+    "D30HQ",
+    "D30HQE",
+    "D30HQW",
+    "D30REQ",
+    "D30RW",
+    "D30RWQ",
+    "D3101",
+    "D31RW",
+    "E3001",
+    "E30RE",
+    "E30RW",
+    "MOA303",
+    "MOA305",
+    "P3001",
+    "P30RE",
+    "P30RW"
+   ],
+   "url": "https://www.manualslib.com/manual/2442970/Nailor-3000-Series.html"
+  },
+  {
+   "manualId": "4599760",
+   "slug": "Nailor-3000",
+   "title": "3000 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "3000 Series",
+   "extraModels": [
+    "33SZ",
+    "35N",
+    "35S",
+    "35SST",
+    "35SXC",
+    "37N",
+    "37S",
+    "37SST"
+   ],
+   "url": "https://www.manualslib.com/manual/4599760/Nailor-3000.html"
+  },
+  {
+   "manualId": "3889480",
+   "slug": "Nailor-3001-Series",
+   "title": "3001 Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "3001 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3889480/Nailor-3001-Series.html"
+  },
+  {
+   "manualId": "1513749",
+   "slug": "Nailor-33sz",
+   "title": "33SZ Installation & operation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "33SZ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1513749/Nailor-33sz.html"
+  },
+  {
+   "manualId": "4219476",
+   "slug": "Nailor-33sz",
+   "title": "33SZ Installation & operation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "33SZ",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4219476/Nailor-33sz.html"
+  },
+  {
+   "manualId": "4044296",
+   "slug": "Nailor-3400-Series",
+   "title": "3400 Series Manual",
+   "type": "Other",
+   "pages": 25,
+   "productModel": "3400 Series",
+   "extraModels": [
+    "34RE",
+    "34RW"
+   ],
+   "url": "https://www.manualslib.com/manual/4044296/Nailor-3400-Series.html"
+  },
+  {
+   "manualId": "3178105",
+   "slug": "Nailor-35s",
+   "title": "35N Installation and operation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "35N",
+   "extraModels": [
+    "35N",
+    "35ST",
+    "35SXC",
+    "37N",
+    "37S",
+    "37ST"
+   ],
+   "url": "https://www.manualslib.com/manual/3178105/Nailor-35s.html"
+  },
+  {
+   "manualId": "3448801",
+   "slug": "Nailor-35s-Series",
+   "title": "35N Installation and operation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "35N",
+   "extraModels": [
+    "35N",
+    "35SST",
+    "35ST",
+    "35SXC",
+    "37N",
+    "37S",
+    "37SST",
+    "37ST"
+   ],
+   "url": "https://www.manualslib.com/manual/3448801/Nailor-35s-Series.html"
+  },
+  {
+   "manualId": "3397250",
+   "slug": "Nailor-35sw",
+   "title": "35S Manual",
+   "type": "Other",
+   "pages": 144,
+   "productModel": "35S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3397250/Nailor-35sw.html"
+  },
+  {
+   "manualId": "3932883",
+   "slug": "Nailor-35se",
+   "title": "35SE Manual",
+   "type": "Other",
+   "pages": 144,
+   "productModel": "35SE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3932883/Nailor-35se.html"
+  },
+  {
+   "manualId": "2837235",
+   "slug": "Nailor-37s",
+   "title": "37S Manual",
+   "type": "Other",
+   "pages": 146,
+   "productModel": "37S",
+   "extraModels": [
+    "37SE",
+    "37SW"
+   ],
+   "url": "https://www.manualslib.com/manual/2837235/Nailor-37s.html"
+  },
+  {
+   "manualId": "1475306",
+   "slug": "Nailor-92ffd",
+   "title": "92FFD Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "92FFD",
+   "extraModels": [
+    "92FFD-SS"
+   ],
+   "url": "https://www.manualslib.com/manual/1475306/Nailor-92ffd.html"
+  },
+  {
+   "manualId": "3753911",
+   "slug": "Nailor-92ffu",
+   "title": "92FFU Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 33,
+   "productModel": "92FFU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3753911/Nailor-92ffu.html"
+  },
+  {
+   "manualId": "2160802",
+   "slug": "Nailor-At303",
+   "title": "AT303 Manual",
+   "type": "Other",
+   "pages": 93,
+   "productModel": "AT303",
+   "extraModels": [
+    "AT305"
+   ],
+   "url": "https://www.manualslib.com/manual/2160802/Nailor-At303.html"
+  },
+  {
+   "manualId": "1282111",
+   "slug": "Nailor-Bac-8001-36",
+   "title": "BAC-8001-36 Installation and operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "BAC-8001-36",
+   "extraModels": [
+    "BAC-8005-36",
+    "BAC-8007-36",
+    "TSP-8001-36"
+   ],
+   "url": "https://www.manualslib.com/manual/1282111/Nailor-Bac-8001-36.html"
+  },
+  {
+   "manualId": "3889481",
+   "slug": "Nailor-D3001",
+   "title": "D3001 Installation and operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "D3001",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3889481/Nailor-D3001.html"
+  },
+  {
+   "manualId": "3889482",
+   "slug": "Nailor-D30re",
+   "title": "D30RE Installation and operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "D30RE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3889482/Nailor-D30re.html"
+  },
+  {
+   "manualId": "1904157",
+   "slug": "Nailor-D35se",
+   "title": "D35SE Installation and operation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "D35SE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1904157/Nailor-D35se.html"
+  },
+  {
+   "manualId": "2086454",
+   "slug": "Nailor-Electra-Flo-G5",
+   "title": "ELECTRA-FLO G5 Operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "ELECTRA-FLO G5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2086454/Nailor-Electra-Flo-G5.html"
+  },
+  {
+   "manualId": "2000938",
+   "slug": "Nailor-Epic",
+   "title": "EPIC Operation manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "EPIC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2000938/Nailor-Epic.html"
+  },
+  {
+   "manualId": "2018327",
+   "slug": "Nailor-Engeneered-Comfort-39mu-Series",
+   "title": "Installation and operation manual",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2018327/Nailor-Engeneered-Comfort-39mu-Series.html"
+  },
+  {
+   "manualId": "1416667",
+   "slug": "Nailor-0763",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1416667/Nailor-0763.html"
+  },
+  {
+   "manualId": "821035",
+   "slug": "Nailor-Electric-Duct-Heater",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/821035/Nailor-Electric-Duct-Heater.html"
+  },
+  {
+   "manualId": "1695622",
+   "slug": "Nailor-92lfdf-Ss",
+   "title": "Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1695622/Nailor-92lfdf-Ss.html"
+  },
+  {
+   "manualId": "2112415",
+   "slug": "Nailor-Cvr-Series",
+   "title": "Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2112415/Nailor-Cvr-Series.html"
+  },
+  {
+   "manualId": "2518854",
+   "slug": "Nailor-Mac-700",
+   "title": "MAC-700 Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "MAC-700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2518854/Nailor-Mac-700.html"
+  },
+  {
+   "manualId": "4419330",
+   "slug": "nailor-epic-fan-card-volume-controller-operation-manual",
+   "title": "Nailor EPIC Fan Card Volume Controller Operation Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4419330/nailor-epic-fan-card-volume-controller-operation-manual.html"
+  },
+  {
+   "manualId": "2933139",
+   "slug": "Nailor-Engineered-Comfort-Cte-5201",
+   "title": "Operation And Users Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2933139/Nailor-Engineered-Comfort-Cte-5201.html"
+  },
+  {
+   "manualId": "2061071",
+   "slug": "Nailor-1210-Series",
+   "title": "OPERATIONS AND MAINTENANCE PROCEDURES",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "1220 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2061071/Nailor-1210-Series.html"
+  },
+  {
+   "manualId": "2172120",
+   "slug": "Nailor-0100-Series",
+   "title": "Operations And Maintenance Procedures",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2172120/Nailor-0100-Series.html"
+  },
+  {
+   "manualId": "2937456",
+   "slug": "Nailor-0714",
+   "title": "OPERATIONS AND MAINTENANCE PROCEDURES",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2937456/Nailor-0714.html"
+  },
+  {
+   "manualId": "4391169",
+   "slug": "Nailor-0500-Series",
+   "title": "Operations And Maintenance Procedures",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4391169/Nailor-0500-Series.html"
+  },
+  {
+   "manualId": "4552868",
+   "slug": "Nailor-1200-Ow-Series",
+   "title": "OPERATIONS AND MAINTENANCE PROCEDURES",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "1290F",
+    "D1200 Series",
+    "D1200-3 Series",
+    "D1250 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4552868/Nailor-1200-Ow-Series.html"
+  },
+  {
+   "manualId": "4569524",
+   "slug": "Nailor-0100",
+   "title": "Operations And Maintenance Procedures",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4569524/Nailor-0100.html"
+  },
+  {
+   "manualId": "2542126",
+   "slug": "Nailor-Iom-Bacnet-Uni2-Vav",
+   "title": "UNI2-VAV Assembly",
+   "type": "Other",
+   "pages": 6,
+   "productModel": "UNI2-VAV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2542126/Nailor-Iom-Bacnet-Uni2-Vav.html"
+  },
+  {
+   "manualId": "2531573",
+   "slug": "Nailor-Uni2-Vav",
+   "title": "UNI2-VAV Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "UNI2-VAV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2531573/Nailor-Uni2-Vav.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4419330",
+   "slug": "nailor-epic-fan-card-volume-controller-operation-manual",
+   "title": "Nailor EPIC Fan Card Volume Controller Operation Manual"
+  }
+ ],
+ "techDirectIds": [
+  "nailor"
+ ]
+}

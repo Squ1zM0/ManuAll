@@ -1,0 +1,530 @@
+{
+ "brand": "DuraVent",
+ "brandSlug": "duravent",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/duravent/"
+ ],
+ "slugUsed": "duravent",
+ "capturedAt": "2026-10-28T07:01:19.487796+00:00",
+ "typePages": [
+  {
+   "path": "/brand/duravent/fan.html",
+   "manuals": 58,
+   "status": 200
+  },
+  {
+   "path": "/brand/duravent/fireplace-accessories.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/duravent/ventilation.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/duravent/ventilation-hood.html",
+   "manuals": 43,
+   "status": 200
+  },
+  {
+   "path": "/brand/duravent/water-filtration-systems.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3640739",
+   "slug": "Duravent-7dt-36cf",
+   "title": "7DT-36CF installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "7DT-36CF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3640739/Duravent-7dt-36cf.html"
+  },
+  {
+   "manualId": "2567678",
+   "slug": "Duravent-Bv",
+   "title": "BV installation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "BV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2567678/Duravent-Bv.html"
+  },
+  {
+   "manualId": "3605467",
+   "slug": "Duravent-Bv",
+   "title": "BV installation instructions manual",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "BV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3605467/Duravent-Bv.html"
+  },
+  {
+   "manualId": "2373190",
+   "slug": "Duravent-Durastack-Pro-Das1-Series",
+   "title": "DAS1 22 E30 CE instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "DAS1 22 E30 CE",
+   "extraModels": [
+    "DAS1 22 E30 CE",
+    "DCL 8 WS E",
+    "DIS1 14 L36 BC",
+    "DURASTACK PRO DCL Series",
+    "DURASTACK PRO DIS1 Series",
+    "DURASTACK PRO DIS2 Series",
+    "DURASTACK PRO DIS4 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2373190/Duravent-Durastack-Pro-Das1-Series.html"
+  },
+  {
+   "manualId": "2156323",
+   "slug": "Duravent-Das1",
+   "title": "DAS1 installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "DAS1",
+   "extraModels": [
+    "DAS1-BC"
+   ],
+   "url": "https://www.manualslib.com/manual/2156323/Duravent-Das1.html"
+  },
+  {
+   "manualId": "1349852",
+   "slug": "Duravent-Dcl",
+   "title": "DAS1 Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "DAS1",
+   "extraModels": [
+    "DAS1",
+    "DIS2",
+    "DIS4"
+   ],
+   "url": "https://www.manualslib.com/manual/1349852/Duravent-Dcl.html"
+  },
+  {
+   "manualId": "3057967",
+   "slug": "Duravent-Ddw-Double-Wall",
+   "title": "DDW Double-Wall Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "DDW Double-Wall",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3057967/Duravent-Ddw-Double-Wall.html"
+  },
+  {
+   "manualId": "2916237",
+   "slug": "Duravent-Direct-Temp-Co-Linear-Insert-Kit",
+   "title": "DIRECT-TEMP Co-Linear Insert Kit installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "DIRECT-TEMP Co-Linear Insert Kit",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2916237/Duravent-Direct-Temp-Co-Linear-Insert-Kit.html"
+  },
+  {
+   "manualId": "2016074",
+   "slug": "Duravent-Directvent-Pro",
+   "title": "DirectVent Pro installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "DirectVent Pro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2016074/Duravent-Directvent-Pro.html"
+  },
+  {
+   "manualId": "2548804",
+   "slug": "Duravent-Directvent-Pro",
+   "title": "DirectVent Pro installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "DirectVent Pro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2548804/Duravent-Directvent-Pro.html"
+  },
+  {
+   "manualId": "3601236",
+   "slug": "Duravent-Directvent-Pro",
+   "title": "DirectVent Pro installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "DirectVent Pro",
+   "extraModels": [
+    "DirectVent Pro 4\"x6-5/8\"",
+    "DirectVent Pro 5\"x8\""
+   ],
+   "url": "https://www.manualslib.com/manual/3601236/Duravent-Directvent-Pro.html"
+  },
+  {
+   "manualId": "3846007",
+   "slug": "Duravent-Dis1",
+   "title": "DIS1 Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "DIS1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3846007/Duravent-Dis1.html"
+  },
+  {
+   "manualId": "3846008",
+   "slug": "Duravent-Dis3z",
+   "title": "DIS3Z Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "DIS3Z",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3846008/Duravent-Dis3z.html"
+  },
+  {
+   "manualId": "3583913",
+   "slug": "Duravent-Duraplus-2",
+   "title": "DP2 Installation and operation instruction manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "DP2",
+   "extraModels": [
+    "DP2"
+   ],
+   "url": "https://www.manualslib.com/manual/3583913/Duravent-Duraplus-2.html"
+  },
+  {
+   "manualId": "2301812",
+   "slug": "Duravent-Duraplus-Canada-2",
+   "title": "DPC2 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "DPC2",
+   "extraModels": [
+    "DPC2"
+   ],
+   "url": "https://www.manualslib.com/manual/2301812/Duravent-Duraplus-Canada-2.html"
+  },
+  {
+   "manualId": "4577620",
+   "slug": "Duravent-Duratech-Canada-Dtc",
+   "title": "DTC Assembly, Installation And Operation Instructions",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "DTC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4577620/Duravent-Duratech-Canada-Dtc.html"
+  },
+  {
+   "manualId": "3872728",
+   "slug": "Duravent-Dtc",
+   "title": "DTC Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "DTC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3872728/Duravent-Dtc.html"
+  },
+  {
+   "manualId": "3872727",
+   "slug": "Duravent-Dtp",
+   "title": "DTP Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "DTP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3872727/Duravent-Dtp.html"
+  },
+  {
+   "manualId": "1513646",
+   "slug": "Duravent-Durachimney-Ii",
+   "title": "DuraChimney II installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "DuraChimney II",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1513646/Duravent-Durachimney-Ii.html"
+  },
+  {
+   "manualId": "4524352",
+   "slug": "Duravent-Duraplus-6dp-Wt",
+   "title": "DuraPlus 6DP-WT installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "DuraPlus 6DP-WT",
+   "extraModels": [
+    "DuraPlus 6DP-WTSS",
+    "DuraPlus 7DP-WT",
+    "DuraPlus 7DT-WT",
+    "DuraPlus 8DP-F6",
+    "DuraPlus 8DP-WT",
+    "DuraPlus 9184",
+    "DuraPlus 9260",
+    "DuraPlus 9543"
+   ],
+   "url": "https://www.manualslib.com/manual/4524352/Duravent-Duraplus-6dp-Wt.html"
+  },
+  {
+   "manualId": "1236874",
+   "slug": "Duravent-Duraplus-Htc",
+   "title": "duraplus htc installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "duraplus htc",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1236874/Duravent-Duraplus-Htc.html"
+  },
+  {
+   "manualId": "1758940",
+   "slug": "Duravent-Duraplus-Htc",
+   "title": "duraplus htc installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "duraplus htc",
+   "extraModels": [
+    "DuraTech"
+   ],
+   "url": "https://www.manualslib.com/manual/1758940/Duravent-Duraplus-Htc.html"
+  },
+  {
+   "manualId": "1236876",
+   "slug": "Duravent-Duraplus",
+   "title": "duraplus installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "duraplus",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1236876/Duravent-Duraplus.html"
+  },
+  {
+   "manualId": "2016079",
+   "slug": "Duravent-Duraseal-Ds",
+   "title": "DuraSeal DS installation instructions manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "DuraSeal DS",
+   "extraModels": [
+    "DuraSeal DSD",
+    "DuraSeal DSID",
+    "DuraSeal DSLD",
+    "DuraSeal DSLS"
+   ],
+   "url": "https://www.manualslib.com/manual/2016079/Duravent-Duraseal-Ds.html"
+  },
+  {
+   "manualId": "2004391",
+   "slug": "Duravent-Duratech-Canada",
+   "title": "DuraTech Canada Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "DuraTech Canada",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2004391/Duravent-Duratech-Canada.html"
+  },
+  {
+   "manualId": "1455069",
+   "slug": "Duravent-Duratech",
+   "title": "DuraTech installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "DuraTech",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1455069/Duravent-Duratech.html"
+  },
+  {
+   "manualId": "4576888",
+   "slug": "Duravent-Duratech",
+   "title": "DuraTech installation instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "DuraTech",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4576888/Duravent-Duratech.html"
+  },
+  {
+   "manualId": "2004382",
+   "slug": "Duravent-Duratech-Premium",
+   "title": "DURATECH PREMIUM Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "DURATECH PREMIUM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2004382/Duravent-Duratech-Premium.html"
+  },
+  {
+   "manualId": "1765474",
+   "slug": "Duravent-Duratech-Series",
+   "title": "DuraTech Series installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "DuraTech Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1765474/Duravent-Duratech-Series.html"
+  },
+  {
+   "manualId": "4256014",
+   "slug": "duravent-duraplus-2-chimney-installation-manual",
+   "title": "DuraVent DURAPLUS 2 Chimney Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4256014/duravent-duraplus-2-chimney-installation-manual.html"
+  },
+  {
+   "manualId": "1649820",
+   "slug": "Duravent-Duraseal-Ds",
+   "title": "Duravent DuraSeal DS Manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": null,
+   "extraModels": [
+    "DuraSeal DSD",
+    "DuraSeal DSID"
+   ],
+   "url": "https://www.manualslib.com/manual/1649820/Duravent-Duraseal-Ds.html"
+  },
+  {
+   "manualId": "2582831",
+   "slug": "Duravent-Dvr",
+   "title": "DVR installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "DVR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2582831/Duravent-Dvr.html"
+  },
+  {
+   "manualId": "1480156",
+   "slug": "Duravent-Fasnseal-W2",
+   "title": "FasNSeal W2 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "FasNSeal W2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1480156/Duravent-Fasnseal-W2.html"
+  },
+  {
+   "manualId": "2097287",
+   "slug": "Duravent-Hepa-Tower",
+   "title": "Hepa Tower Installation and operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Hepa Tower",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2097287/Duravent-Hepa-Tower.html"
+  },
+  {
+   "manualId": "1792455",
+   "slug": "Duravent-Dvl",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1792455/Duravent-Dvl.html"
+  },
+  {
+   "manualId": "950235",
+   "slug": "Duravent-Pelletvent-Ul-641",
+   "title": "PelletVent installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "PelletVent",
+   "extraModels": [
+    "PelletVent UL 1777"
+   ],
+   "url": "https://www.manualslib.com/manual/950235/Duravent-Pelletvent-Ul-641.html"
+  },
+  {
+   "manualId": "2016085",
+   "slug": "Duravent-Polypro-Flex-Series",
+   "title": "PolyPro Flex Series installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "PolyPro Flex Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2016085/Duravent-Polypro-Flex-Series.html"
+  },
+  {
+   "manualId": "1272028",
+   "slug": "Duravent-Polypro",
+   "title": "polypro installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "polypro",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1272028/Duravent-Polypro.html"
+  },
+  {
+   "manualId": "2016083",
+   "slug": "Duravent-Polypro-Series",
+   "title": "PolyPro Series installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "PolyPro Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2016083/Duravent-Polypro-Series.html"
+  },
+  {
+   "manualId": "3788605",
+   "slug": "Duravent-Security-Chimneys-Ss",
+   "title": "security Chimneys LDCD installation instructions manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "security Chimneys LDCD",
+   "extraModels": [
+    "security Chimneys LDCD",
+    "security Chimneys LDCS",
+    "security Chimneys SSD",
+    "security Chimneys SSID"
+   ],
+   "url": "https://www.manualslib.com/manual/3788605/Duravent-Security-Chimneys-Ss.html"
+  },
+  {
+   "manualId": "3320338",
+   "slug": "Duravent-Selkirk-Ultimate-Stovepipe-Usp",
+   "title": "SELKIRK Ultimate StovePipe USP installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "SELKIRK Ultimate StovePipe USP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3320338/Duravent-Selkirk-Ultimate-Stovepipe-Usp.html"
+  },
+  {
+   "manualId": "2915511",
+   "slug": "Duravent-Selkirk-Ultra-Temp",
+   "title": "SELKIRK ULTRA-TEMP Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "SELKIRK ULTRA-TEMP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2915511/Duravent-Selkirk-Ultra-Temp.html"
+  },
+  {
+   "manualId": "841602",
+   "slug": "Duravent-Type-B",
+   "title": "Type B installation instructions manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "Type B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/841602/Duravent-Type-B.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4256014",
+   "slug": "duravent-duraplus-2-chimney-installation-manual",
+   "title": "DuraVent DURAPLUS 2 Chimney Installation Manual"
+  }
+ ],
+ "techDirectIds": [
+  "duravent"
+ ]
+}

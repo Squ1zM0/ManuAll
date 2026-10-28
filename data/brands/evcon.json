@@ -1,0 +1,169 @@
+{
+ "brand": "Evcon",
+ "brandSlug": "evcon",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/evcon/"
+ ],
+ "slugUsed": "evcon",
+ "capturedAt": "2026-10-28T07:05:30.986231+00:00",
+ "typePages": [
+  {
+   "path": "/brand/evcon/furnace.html",
+   "manuals": 32,
+   "status": 200
+  },
+  {
+   "path": "/brand/evcon/heat-pump.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2020850",
+   "slug": "Evcon-Dlas-Series",
+   "title": "DGAM Series installation instructions manual",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "DGAM Series",
+   "extraModels": [
+    "DGAM Series",
+    "DGAM056BDC",
+    "DGAM075ADC",
+    "DGAT Series",
+    "DGAT056BDC",
+    "DGAT070BDC",
+    "DGAT075ADC",
+    "DGAT095ADC",
+    "DLAS056BDC",
+    "DLAS075ADC"
+   ],
+   "url": "https://www.manualslib.com/manual/2020850/Evcon-Dlas-Series.html"
+  },
+  {
+   "manualId": "881507",
+   "slug": "Evcon-Dgam056bdd",
+   "title": "DGAM056BDD installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "DGAM056BDD",
+   "extraModels": [
+    "DGAM075BDD",
+    "DGAT090BDD",
+    "DLAS056BDD",
+    "DLAS075BDD"
+   ],
+   "url": "https://www.manualslib.com/manual/881507/Evcon-Dgam056bdd.html"
+  },
+  {
+   "manualId": "3828135",
+   "slug": "Evcon-Dgat056bdd",
+   "title": "DGAT056BDD installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "DGAT056BDD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3828135/Evcon-Dgat056bdd.html"
+  },
+  {
+   "manualId": "3828136",
+   "slug": "Evcon-Dgat070bdd",
+   "title": "DGAT070BDD installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "DGAT070BDD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3828136/Evcon-Dgat070bdd.html"
+  },
+  {
+   "manualId": "3828137",
+   "slug": "Evcon-Dgat075bdd",
+   "title": "DGAT075BDD installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "DGAT075BDD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3828137/Evcon-Dgat075bdd.html"
+  },
+  {
+   "manualId": "1005441",
+   "slug": "Evcon-Dgd-60-Mbh",
+   "title": "DGD 120 MBH installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "DGD 120 MBH",
+   "extraModels": [
+    "DGD 120 MBH"
+   ],
+   "url": "https://www.manualslib.com/manual/1005441/Evcon-Dgd-60-Mbh.html"
+  },
+  {
+   "manualId": "4647735",
+   "slug": "Evcon-Dgd06010u",
+   "title": "DGD06010U installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "DGD06010U",
+   "extraModels": [
+    "DGD08012U",
+    "DGD10016U",
+    "DGD12020U"
+   ],
+   "url": "https://www.manualslib.com/manual/4647735/Evcon-Dgd06010u.html"
+  },
+  {
+   "manualId": "641800",
+   "slug": "Evcon-Eb12b",
+   "title": "EB10B installation manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "EB10B",
+   "extraModels": [
+    "EB10B",
+    "EB17B",
+    "EB20B",
+    "EB23B"
+   ],
+   "url": "https://www.manualslib.com/manual/641800/Evcon-Eb12b.html"
+  },
+  {
+   "manualId": "3819766",
+   "slug": "Evcon-Eb15b",
+   "title": "EB15B installation manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "EB15B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3819766/Evcon-Eb15b.html"
+  },
+  {
+   "manualId": "500880",
+   "slug": "Evcon-Eb-Series",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/500880/Evcon-Eb-Series.html"
+  },
+  {
+   "manualId": "500877",
+   "slug": "Evcon-Erhq-Series",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/500877/Evcon-Erhq-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "evcon"
+ ]
+}

@@ -1,0 +1,828 @@
+{
+ "brand": "Ducane",
+ "brandSlug": "ducane",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/ducane/"
+ ],
+ "slugUsed": "ducane",
+ "capturedAt": "2026-10-28T07:01:01.181200+00:00",
+ "typePages": [
+  {
+   "path": "/brand/ducane/air-conditioner.html",
+   "manuals": 197,
+   "status": 200
+  },
+  {
+   "path": "/brand/ducane/projector.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/ducane/air-handlers.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/ducane/furnace.html",
+   "manuals": 63,
+   "status": 200
+  },
+  {
+   "path": "/brand/ducane/grill.html",
+   "manuals": 98,
+   "status": 200
+  },
+  {
+   "path": "/brand/ducane/heat-pump.html",
+   "manuals": 47,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "665691",
+   "slug": "Ducane-04-Series",
+   "title": "04 Series owner's manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "04 Series",
+   "extraModels": [
+    "05 Series",
+    "1605SS"
+   ],
+   "url": "https://www.manualslib.com/manual/665691/Ducane-04-Series.html"
+  },
+  {
+   "manualId": "255024",
+   "slug": "Ducane-Air-Conditioning-And-Heating",
+   "title": "13 SEER AC Brochure",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "13 SEER AC",
+   "extraModels": [
+    "13 SEER AC",
+    "13 SEER HP",
+    "14 SEER AC",
+    "14 SEER HP",
+    "16 SEER AC",
+    "16 SEER HP",
+    "18 SEER AC",
+    "18 SEER HP",
+    "Air Conditioning and Heating",
+    "RCE13",
+    "RGE13",
+    "RHP13"
+   ],
+   "url": "https://www.manualslib.com/manual/255024/Ducane-Air-Conditioning-And-Heating.html"
+  },
+  {
+   "manualId": "2512257",
+   "slug": "Ducane-13hpd-018-230",
+   "title": "13HPD-018-230 instructions manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "13HPD-018-230",
+   "extraModels": [
+    "13HPD-024-230",
+    "13HPD-030-230",
+    "13HPD-036-230",
+    "13HPD-042-230",
+    "13HPD-048-230",
+    "13HPD-060-230"
+   ],
+   "url": "https://www.manualslib.com/manual/2512257/Ducane-13hpd-018-230.html"
+  },
+  {
+   "manualId": "41014",
+   "slug": "Ducane-2020801-Meridian",
+   "title": "2020801 Meridian owner's manual",
+   "type": "User / Owner",
+   "pages": 65,
+   "productModel": "2020801 Meridian",
+   "extraModels": [
+    "Ducane Meridian 24 inch 3-burner LP",
+    "Ducane Meridian 32 inch 5-burner NG"
+   ],
+   "url": "https://www.manualslib.com/manual/41014/Ducane-2020801-Meridian.html"
+  },
+  {
+   "manualId": "632115",
+   "slug": "Ducane-Natural-Gas-Grill",
+   "title": "20529917 owner's manual",
+   "type": "User / Owner",
+   "pages": 23,
+   "productModel": "20529917",
+   "extraModels": [
+    "20529917",
+    "NATURAL GAS GRILL"
+   ],
+   "url": "https://www.manualslib.com/manual/632115/Ducane-Natural-Gas-Grill.html"
+  },
+  {
+   "manualId": "41016",
+   "slug": "Ducane-20529917",
+   "title": "20529917 user manual",
+   "type": "User / Owner",
+   "pages": 57,
+   "productModel": "20529917",
+   "extraModels": [
+    "Ducane Meridian 24 inch 3-burner LP"
+   ],
+   "url": "https://www.manualslib.com/manual/41016/Ducane-20529917.html"
+  },
+  {
+   "manualId": "41018",
+   "slug": "Ducane-Affinity-3100",
+   "title": "27010332 owner's manual",
+   "type": "User / Owner",
+   "pages": 61,
+   "productModel": "27010332",
+   "extraModels": [
+    "27010332",
+    "Affinity 31732101",
+    "Affinity 34100",
+    "AFFINITY 4100"
+   ],
+   "url": "https://www.manualslib.com/manual/41018/Ducane-Affinity-3100.html"
+  },
+  {
+   "manualId": "41021",
+   "slug": "Ducane-Affinity-3400",
+   "title": "27010341 owner's manual",
+   "type": "User / Owner",
+   "pages": 73,
+   "productModel": "27010341",
+   "extraModels": [
+    "27010341",
+    "AFFINITY 4400",
+    "Affinity S 3400"
+   ],
+   "url": "https://www.manualslib.com/manual/41021/Ducane-Affinity-3400.html"
+  },
+  {
+   "manualId": "255021",
+   "slug": "Ducane-2hp14",
+   "title": "2HP14 Specification Sheet",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "2HP14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/255021/Ducane-2hp14.html"
+  },
+  {
+   "manualId": "472061",
+   "slug": "Ducane-436-Inch",
+   "title": "436 INCH 2-BURNER Assembly manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "436 INCH 2-BURNER",
+   "extraModels": [
+    "436 INCH 2-BURNER"
+   ],
+   "url": "https://www.manualslib.com/manual/472061/Ducane-436-Inch.html"
+  },
+  {
+   "manualId": "714059",
+   "slug": "Ducane-455-Inch-3-Burner",
+   "title": "455 INCH 3-BURNER Assembly manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "455 INCH 3-BURNER",
+   "extraModels": [
+    "455 INCH 3-BURNER"
+   ],
+   "url": "https://www.manualslib.com/manual/714059/Ducane-455-Inch-3-Burner.html"
+  },
+  {
+   "manualId": "2129214",
+   "slug": "Ducane-4ac16lt-Series",
+   "title": "4AC16LT Series installation instructions manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "4AC16LT Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2129214/Ducane-4ac16lt-Series.html"
+  },
+  {
+   "manualId": "41037",
+   "slug": "Ducane-4hp13",
+   "title": "4hp13 Product information",
+   "type": "Other",
+   "pages": 6,
+   "productModel": "4hp13",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41037/Ducane-4hp13.html"
+  },
+  {
+   "manualId": "2460002",
+   "slug": "Ducane-4scu13-Series",
+   "title": "4SCU13 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "4SCU13 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2460002/Ducane-4scu13-Series.html"
+  },
+  {
+   "manualId": "3822090",
+   "slug": "Ducane-545-Inch-3-Burner",
+   "title": "545 INCH 3-BURNER Assembly manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "545 INCH 3-BURNER",
+   "extraModels": [
+    "545 INCH 3-BURNER"
+   ],
+   "url": "https://www.manualslib.com/manual/3822090/Ducane-545-Inch-3-Burner.html"
+  },
+  {
+   "manualId": "794766",
+   "slug": "Ducane-688-Inch-2-Burner",
+   "title": "688 INCH 2-BURNER Assembly manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "688 INCH 2-BURNER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/794766/Ducane-688-Inch-2-Burner.html"
+  },
+  {
+   "manualId": "4518712",
+   "slug": "Ducane-7ah1av-Series",
+   "title": "7AH1AV Series installation instructions manual",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "7AH1AV Series",
+   "extraModels": [
+    "7AH1AV-01",
+    "7AH1AV-018",
+    "7AH1AV-024",
+    "7AH1AV-030",
+    "7AH1AV-036",
+    "7AH1AV-042",
+    "7AH1AV-048",
+    "7AH1AV-060"
+   ],
+   "url": "https://www.manualslib.com/manual/4518712/Ducane-7ah1av-Series.html"
+  },
+  {
+   "manualId": "766006",
+   "slug": "Ducane-8104wb",
+   "title": "8104WB user manual",
+   "type": "User / Owner",
+   "pages": 127,
+   "productModel": "8104WB",
+   "extraModels": [
+    "8105B",
+    "8106B"
+   ],
+   "url": "https://www.manualslib.com/manual/766006/Ducane-8104wb.html"
+  },
+  {
+   "manualId": "893474",
+   "slug": "Ducane-8755g-Rj",
+   "title": "8755G-RJ user manual",
+   "type": "User / Owner",
+   "pages": 130,
+   "productModel": "8755G-RJ",
+   "extraModels": [
+    "8782"
+   ],
+   "url": "https://www.manualslib.com/manual/893474/Ducane-8755g-Rj.html"
+  },
+  {
+   "manualId": "2659957",
+   "slug": "Ducane-8961wu",
+   "title": "8960W user manual",
+   "type": "User / Owner",
+   "pages": 34,
+   "productModel": "8960W",
+   "extraModels": [
+    "8960W",
+    "8962WU",
+    "8962WUM",
+    "8963"
+   ],
+   "url": "https://www.manualslib.com/manual/2659957/Ducane-8961wu.html"
+  },
+  {
+   "manualId": "4230650",
+   "slug": "Ducane-97g2dfv-Series",
+   "title": "97G2DF070BV16 Service manual",
+   "type": "Service",
+   "pages": 51,
+   "productModel": "97G2DF070BV16",
+   "extraModels": [
+    "97G2DF070BV16",
+    "97G2DF090CV20",
+    "97G2DF110CV20"
+   ],
+   "url": "https://www.manualslib.com/manual/4230650/Ducane-97g2dfv-Series.html"
+  },
+  {
+   "manualId": "643985",
+   "slug": "Ducane-Affinity-3100",
+   "title": "Affinity 27010344 owner's manual",
+   "type": "User / Owner",
+   "pages": 33,
+   "productModel": "Affinity 27010344",
+   "extraModels": [
+    "Affinity 27010344",
+    "AFFINITY 4100",
+    "Affinity 4200"
+   ],
+   "url": "https://www.manualslib.com/manual/643985/Ducane-Affinity-3100.html"
+  },
+  {
+   "manualId": "714056",
+   "slug": "Ducane-Affinity-3100",
+   "title": "Affinity 27010344 owner's manual",
+   "type": "User / Owner",
+   "pages": 68,
+   "productModel": "Affinity 27010344",
+   "extraModels": [
+    "Affinity 27010344",
+    "Affinity 31742101",
+    "AFFINITY 4100",
+    "Affinity 4200"
+   ],
+   "url": "https://www.manualslib.com/manual/714056/Ducane-Affinity-3100.html"
+  },
+  {
+   "manualId": "472057",
+   "slug": "Ducane-Affinity-31-3200",
+   "title": "Affinity 27010373 owner's manual",
+   "type": "User / Owner",
+   "pages": 61,
+   "productModel": "Affinity 27010373",
+   "extraModels": [
+    "Affinity 27010373",
+    "AFFINITY 3100",
+    "Affinity 41-4200",
+    "AFFINITY 4100",
+    "Affinity 4200",
+    "Ducane Affinity 4200 LP"
+   ],
+   "url": "https://www.manualslib.com/manual/472057/Ducane-Affinity-31-3200.html"
+  },
+  {
+   "manualId": "1076836",
+   "slug": "Ducane-Affinity-31-3200",
+   "title": "Affinity 31-3200 owner's manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "Affinity 31-3200",
+   "extraModels": [
+    "Affinity 41-4200"
+   ],
+   "url": "https://www.manualslib.com/manual/1076836/Ducane-Affinity-31-3200.html"
+  },
+  {
+   "manualId": "1076113",
+   "slug": "Ducane-Affinity-4400",
+   "title": "AFFINITY 4400 owner's manual",
+   "type": "User / Owner",
+   "pages": 65,
+   "productModel": "AFFINITY 4400",
+   "extraModels": [
+    "Affinity S 3400"
+   ],
+   "url": "https://www.manualslib.com/manual/1076113/Ducane-Affinity-4400.html"
+  },
+  {
+   "manualId": "41019",
+   "slug": "Ducane-Affinity-4400",
+   "title": "AFFINITY 4400 owner's manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "AFFINITY 4400",
+   "extraModels": [
+    "Affinity LP 3400",
+    "Affinity S 3400",
+    "Ducane Affinity 3400 NG",
+    "Ducane Affinity 4400 NG"
+   ],
+   "url": "https://www.manualslib.com/manual/41019/Ducane-Affinity-4400.html"
+  },
+  {
+   "manualId": "472064",
+   "slug": "Ducane-Affinity-S-3200",
+   "title": "Affinity S 20208550 owner's manual",
+   "type": "User / Owner",
+   "pages": 57,
+   "productModel": "Affinity S 20208550",
+   "extraModels": [
+    "Affinity S 20208550",
+    "Affinity S 5200",
+    "Ducane Affinity S3200 LP",
+    "Ducane Affinity S5200 LP"
+   ],
+   "url": "https://www.manualslib.com/manual/472064/Ducane-Affinity-S-3200.html"
+  },
+  {
+   "manualId": "472058",
+   "slug": "Ducane-Affinity-S-3400",
+   "title": "Affinity S 20208569 owner's manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "Affinity S 20208569",
+   "extraModels": [
+    "Affinity S 20208569",
+    "Affinity S 5400"
+   ],
+   "url": "https://www.manualslib.com/manual/472058/Ducane-Affinity-S-3400.html"
+  },
+  {
+   "manualId": "1075814",
+   "slug": "Ducane-Affinity-S-3200",
+   "title": "Affinity S 3200 owner's manual",
+   "type": "User / Owner",
+   "pages": 57,
+   "productModel": "Affinity S 3200",
+   "extraModels": [
+    "Affinity S 5200"
+   ],
+   "url": "https://www.manualslib.com/manual/1075814/Ducane-Affinity-S-3200.html"
+  },
+  {
+   "manualId": "597963",
+   "slug": "Ducane-Ducane-Affinity-S3400-Ng",
+   "title": "Affinity S 3400 owner's manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "Affinity S 3400",
+   "extraModels": [
+    "Affinity S 5400",
+    "Ducane Affinity S5400 NG"
+   ],
+   "url": "https://www.manualslib.com/manual/597963/Ducane-Ducane-Affinity-S3400-Ng.html"
+  },
+  {
+   "manualId": "597965",
+   "slug": "Ducane-Ducane-Affinity-S5400-Lp",
+   "title": "Affinity S 3400 owner's manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "Affinity S 3400",
+   "extraModels": [
+    "Affinity S 3400",
+    "Ducane Affinity S3400 LP"
+   ],
+   "url": "https://www.manualslib.com/manual/597965/Ducane-Ducane-Affinity-S5400-Lp.html"
+  },
+  {
+   "manualId": "41026",
+   "slug": "Ducane-Cmpev050u3",
+   "title": "brochure",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41026/Ducane-Cmpev050u3.html"
+  },
+  {
+   "manualId": "41032",
+   "slug": "Ducane-Rluf80c-Series",
+   "title": "Brochure & specs",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41032/Ducane-Rluf80c-Series.html"
+  },
+  {
+   "manualId": "1076807",
+   "slug": "Ducane-Cmp-A-Series",
+   "title": "CMP A Series installation instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "CMP A Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1076807/Ducane-Cmp-A-Series.html"
+  },
+  {
+   "manualId": "41020",
+   "slug": "Ducane-2ac14",
+   "title": "Ducane 2AC14 Brochure",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41020/Ducane-2ac14.html"
+  },
+  {
+   "manualId": "255016",
+   "slug": "Ducane-2ac14",
+   "title": "Ducane 2AC14 Specifications",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/255016/Ducane-2ac14.html"
+  },
+  {
+   "manualId": "4406842",
+   "slug": "ducane-2sg13b-package-gas-electric-specifications",
+   "title": "Ducane 2SG13B Package Gas/Electric Specifications",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4406842/ducane-2sg13b-package-gas-electric-specifications.html"
+  },
+  {
+   "manualId": "41022",
+   "slug": "Ducane-2sg13b",
+   "title": "Ducane 2SG13B Specification Sheet",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41022/Ducane-2sg13b.html"
+  },
+  {
+   "manualId": "255020",
+   "slug": "Ducane-4ac13",
+   "title": "Ducane 4AC13 Specifications",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/255020/Ducane-4ac13.html"
+  },
+  {
+   "manualId": "472060",
+   "slug": "Ducane-4ac14l",
+   "title": "Ducane 4AC14L Brochure",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/472060/Ducane-4ac14l.html"
+  },
+  {
+   "manualId": "1495949",
+   "slug": "Ducane-Ac10b24",
+   "title": "Ducane AC10B24 Manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": null,
+   "extraModels": [
+    "AC10B18",
+    "AC10B30-A",
+    "AC10B36-B",
+    "AC10B36F",
+    "AC10B36TA",
+    "AC10B42-A",
+    "AC10B48-A",
+    "AC10B48FA",
+    "AC10B48TA",
+    "AC10B60-A",
+    "AC10B60F",
+    "AC10B60T"
+   ],
+   "url": "https://www.manualslib.com/manual/1495949/Ducane-Ac10b24.html"
+  },
+  {
+   "manualId": "41024",
+   "slug": "Ducane-Ducane-Evaporator-Coils-Ec1p",
+   "title": "Ducane Ducane Evaporator Coils EC1P Specification Sheet",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41024/Ducane-Ducane-Evaporator-Coils-Ec1p.html"
+  },
+  {
+   "manualId": "41010",
+   "slug": "Ducane-Electric-Air-Conditioning-2sa13b",
+   "title": "Ducane Electric Air Conditioning 2SA13B Specification Sheet",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41010/Ducane-Electric-Air-Conditioning-2sa13b.html"
+  },
+  {
+   "manualId": "472063",
+   "slug": "Ducane-Stainless-20529916",
+   "title": "Ducane Meridian 24 inch 3-burner LP owner's manual",
+   "type": "User / Owner",
+   "pages": 61,
+   "productModel": "Ducane Meridian 24 inch 3-burner LP",
+   "extraModels": [
+    "Ducane Meridian 24 inch 3-burner LP",
+    "Ducane Meridian 32 inch 5-burner NG"
+   ],
+   "url": "https://www.manualslib.com/manual/472063/Ducane-Stainless-20529916.html"
+  },
+  {
+   "manualId": "41013",
+   "slug": "Ducane-Meridian-2020802",
+   "title": "Ducane Meridian 32 inch 5-burner NG owner's manual",
+   "type": "User / Owner",
+   "pages": 61,
+   "productModel": "Ducane Meridian 32 inch 5-burner NG",
+   "extraModels": [
+    "Ducane Meridian 32 inch 5-burner NG"
+   ],
+   "url": "https://www.manualslib.com/manual/41013/Ducane-Meridian-2020802.html"
+  },
+  {
+   "manualId": "255017",
+   "slug": "Ducane-Rge13",
+   "title": "Ducane RGE13 Specifications",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/255017/Ducane-Rge13.html"
+  },
+  {
+   "manualId": "710232",
+   "slug": "Ducane-Meridian-2020802",
+   "title": "Meridian 2020802 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Meridian 2020802",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/710232/Ducane-Meridian-2020802.html"
+  },
+  {
+   "manualId": "41017",
+   "slug": "Ducane-Meridian-2020805",
+   "title": "Meridian 2020805 owner's manual",
+   "type": "User / Owner",
+   "pages": 69,
+   "productModel": "Meridian 2020805",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41017/Ducane-Meridian-2020805.html"
+  },
+  {
+   "manualId": "41015",
+   "slug": "Ducane-Meridian-2020806",
+   "title": "Meridian 2020806 owner's manual",
+   "type": "User / Owner",
+   "pages": 65,
+   "productModel": "Meridian 2020806",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41015/Ducane-Meridian-2020806.html"
+  },
+  {
+   "manualId": "472066",
+   "slug": "Ducane-Meridian-20529914",
+   "title": "Meridian 20529914 owner's manual",
+   "type": "User / Owner",
+   "pages": 61,
+   "productModel": "Meridian 20529914",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/472066/Ducane-Meridian-20529914.html"
+  },
+  {
+   "manualId": "472065",
+   "slug": "Ducane-Meridian",
+   "title": "MERIDIAN owner's manual",
+   "type": "User / Owner",
+   "pages": 57,
+   "productModel": "MERIDIAN",
+   "extraModels": [
+    "MERIDIAN 20529915"
+   ],
+   "url": "https://www.manualslib.com/manual/472065/Ducane-Meridian.html"
+  },
+  {
+   "manualId": "41036",
+   "slug": "Ducane-2sh13b",
+   "title": "Product information",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41036/Ducane-2sh13b.html"
+  },
+  {
+   "manualId": "1110053",
+   "slug": "Ducane-95g1",
+   "title": "Product Specifications",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1110053/Ducane-95g1.html"
+  },
+  {
+   "manualId": "3221306",
+   "slug": "Ducane-Lynx-18",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3221306/Ducane-Lynx-18.html"
+  },
+  {
+   "manualId": "41012",
+   "slug": "Ducane-Rhp13",
+   "title": "RHP13 Specifications",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "RHP13",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41012/Ducane-Rhp13.html"
+  },
+  {
+   "manualId": "41011",
+   "slug": "Ducane-Fits-All-92",
+   "title": "Specification Sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41011/Ducane-Fits-All-92.html"
+  },
+  {
+   "manualId": "41029",
+   "slug": "Ducane-Horizontal-80",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41029/Ducane-Horizontal-80.html"
+  },
+  {
+   "manualId": "41031",
+   "slug": "Ducane-Rlhf-R80c",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41031/Ducane-Rlhf-R80c.html"
+  },
+  {
+   "manualId": "255018",
+   "slug": "Ducane-2ac13",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/255018/Ducane-2ac13.html"
+  },
+  {
+   "manualId": "41025",
+   "slug": "Ducane-Fits-All-80v",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41025/Ducane-Fits-All-80v.html"
+  },
+  {
+   "manualId": "41027",
+   "slug": "Ducane-Fits-All-92",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41027/Ducane-Fits-All-92.html"
+  },
+  {
+   "manualId": "41030",
+   "slug": "Ducane-Rlbf-R80c",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41030/Ducane-Rlbf-R80c.html"
+  },
+  {
+   "manualId": "41028",
+   "slug": "Ducane-Fits-All-92v",
+   "title": "Technical specification",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/41028/Ducane-Fits-All-92v.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4406842",
+   "slug": "ducane-2sg13b-package-gas-electric-specifications",
+   "title": "Ducane 2SG13B Package Gas/Electric Specifications"
+  }
+ ],
+ "techDirectIds": [
+  "ducane"
+ ]
+}

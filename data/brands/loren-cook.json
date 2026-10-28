@@ -1,0 +1,393 @@
+{
+ "brand": "Loren Cook",
+ "brandSlug": "loren-cook",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/loren-cook/"
+ ],
+ "slugUsed": "loren-cook",
+ "capturedAt": "2026-10-28T08:33:16.231230+00:00",
+ "typePages": [
+  {
+   "path": "/brand/loren-cook/blower.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/loren-cook/controller.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/loren-cook/fan.html",
+   "manuals": 126,
+   "status": 200
+  },
+  {
+   "path": "/brand/loren-cook/industrial-equipment.html",
+   "manuals": 3,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3586237",
+   "slug": "Loren-Cook-Ac",
+   "title": "AC Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "AC",
+   "extraModels": [
+    "ACE",
+    "ACE-B 100",
+    "ACE-B 120",
+    "ACE-B 245",
+    "ACE-B 270",
+    "ACE-B 300",
+    "ACE-B 330",
+    "ACE-B 540",
+    "ACE-B 60",
+    "ACE-D 101",
+    "ACE-D 120",
+    "ACE-D 180",
+    "ACE-D 70",
+    "ACRU",
+    "ACRU-B 100",
+    "ACRU-B 120",
+    "ACRU-B 245",
+    "ACRU-B 270",
+    "ACRU-B 490",
+    "ACRU-D 101",
+    "ACRU-D 120",
+    "ACRU-D 195",
+    "ACRU-D 70",
+    "ACSC",
+    "ACW",
+    "VCR 100",
+    "VCR 225",
+    "VCR 245",
+    "VCR 270",
+    "VCR 490",
+    "VCR-HP 100",
+    "VCR-HP 225",
+    "VCR-HP 245",
+    "VCR-HP 270",
+    "VCR-HP 490",
+    "VCR-XP 100",
+    "VCR-XP 225",
+    "VCR-XP 245",
+    "VCR-XP 270",
+    "VCR-XP 490",
+    "VCRD 100",
+    "VCRD 95"
+   ],
+   "url": "https://www.manualslib.com/manual/3586237/Loren-Cook-Ac.html"
+  },
+  {
+   "manualId": "3828035",
+   "slug": "Loren-Cook-Ace-B",
+   "title": "ACE-B Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "ACE-B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3828035/Loren-Cook-Ace-B.html"
+  },
+  {
+   "manualId": "877317",
+   "slug": "Loren-Cook-Ace-D",
+   "title": "ACE-D Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "ACE-D",
+   "extraModels": [
+    "ACRU-HP",
+    "ACRU-XP",
+    "ACW-B",
+    "ACW-D",
+    "ACW-HP",
+    "ACW-XP"
+   ],
+   "url": "https://www.manualslib.com/manual/877317/Loren-Cook-Ace-D.html"
+  },
+  {
+   "manualId": "3828037",
+   "slug": "Loren-Cook-Acru-B",
+   "title": "ACRU-B Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "ACRU-B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3828037/Loren-Cook-Acru-B.html"
+  },
+  {
+   "manualId": "3828036",
+   "slug": "Loren-Cook-Acru-D",
+   "title": "ACRU-D Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "ACRU-D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3828036/Loren-Cook-Acru-D.html"
+  },
+  {
+   "manualId": "739576",
+   "slug": "Loren-Cook-Va",
+   "title": "AF Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "AF",
+   "extraModels": [
+    "AF",
+    "AVA"
+   ],
+   "url": "https://www.manualslib.com/manual/739576/Loren-Cook-Va.html"
+  },
+  {
+   "manualId": "1643652",
+   "slug": "Loren-Cook-Lxul",
+   "title": "AI Upblast Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "AI Upblast",
+   "extraModels": [
+    "AI Upblast",
+    "AUB",
+    "AUD",
+    "EUB",
+    "EUD",
+    "LEUMO",
+    "LTUMO",
+    "LXULMO",
+    "LXUMMO",
+    "SUB",
+    "TUD"
+   ],
+   "url": "https://www.manualslib.com/manual/1643652/Loren-Cook-Lxul.html"
+  },
+  {
+   "manualId": "3724735",
+   "slug": "Loren-Cook-Asp",
+   "title": "ASP Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "ASP",
+   "extraModels": [
+    "KSP"
+   ],
+   "url": "https://www.manualslib.com/manual/3724735/Loren-Cook-Asp.html"
+  },
+  {
+   "manualId": "2007992",
+   "slug": "Loren-Cook-Centri-Vane-Cv-Series",
+   "title": "Centri-Vane CV Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "Centri-Vane CV Series",
+   "extraModels": [
+    "Centri-Vane CVB",
+    "Centri-Vane CVD",
+    "Centri-Vane CVR",
+    "Centri-Vane CVR-S",
+    "Centri-Vane UCV",
+    "Centri-Vane UCV-S"
+   ],
+   "url": "https://www.manualslib.com/manual/2007992/Loren-Cook-Centri-Vane-Cv-Series.html"
+  },
+  {
+   "manualId": "2018831",
+   "slug": "Loren-Cook-H-Series",
+   "title": "H Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "H Series",
+   "extraModels": [
+    "HEE",
+    "HEE-D",
+    "HEF",
+    "HEF-D",
+    "HER",
+    "HER-D",
+    "HES",
+    "HES-D",
+    "HXE",
+    "HXEL",
+    "HXEM",
+    "HXF",
+    "HXFL",
+    "HXFM",
+    "HXS",
+    "HXSL",
+    "HXSM"
+   ],
+   "url": "https://www.manualslib.com/manual/2018831/Loren-Cook-H-Series.html"
+  },
+  {
+   "manualId": "2231407",
+   "slug": "Loren-Cook-Hvad-2020",
+   "title": "HVAD 2020 Installation & operation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "HVAD 2020",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2231407/Loren-Cook-Hvad-2020.html"
+  },
+  {
+   "manualId": "2053340",
+   "slug": "Loren-Cook-Imh",
+   "title": "IMH Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "IMH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2053340/Loren-Cook-Imh.html"
+  },
+  {
+   "manualId": "3692546",
+   "slug": "Loren-Cook-Cook-Flow-Monitor-System",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3692546/Loren-Cook-Cook-Flow-Monitor-System.html"
+  },
+  {
+   "manualId": "3730699",
+   "slug": "Loren-Cook-Cfs",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3730699/Loren-Cook-Cfs.html"
+  },
+  {
+   "manualId": "3754717",
+   "slug": "Loren-Cook-Cbf",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3754717/Loren-Cook-Cbf.html"
+  },
+  {
+   "manualId": "3859765",
+   "slug": "Loren-Cook-Leu",
+   "title": "LEU Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "LEU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3859765/Loren-Cook-Leu.html"
+  },
+  {
+   "manualId": "946639",
+   "slug": "Loren-Cook-Gemini",
+   "title": "Loren Cook Gemini Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 9,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/946639/Loren-Cook-Gemini.html"
+  },
+  {
+   "manualId": "3859764",
+   "slug": "Loren-Cook-Ltu",
+   "title": "LTU Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "LTU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3859764/Loren-Cook-Ltu.html"
+  },
+  {
+   "manualId": "3859766",
+   "slug": "Loren-Cook-Lxum",
+   "title": "LXUM Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "LXUM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3859766/Loren-Cook-Lxum.html"
+  },
+  {
+   "manualId": "1475870",
+   "slug": "Loren-Cook-Qmxd-Hp",
+   "title": "QMX Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 35,
+   "productModel": "QMX",
+   "extraModels": [
+    "QMXE",
+    "QMXE-HP",
+    "QMXLE",
+    "QMXLE-HP",
+    "QMXS",
+    "QMXS-HP",
+    "QMXU",
+    "QMXU-HP"
+   ],
+   "url": "https://www.manualslib.com/manual/1475870/Loren-Cook-Qmxd-Hp.html"
+  },
+  {
+   "manualId": "3851301",
+   "slug": "Loren-Cook-Qmx-Hp",
+   "title": "QMX-HP Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 35,
+   "productModel": "QMX-HP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3851301/Loren-Cook-Qmx-Hp.html"
+  },
+  {
+   "manualId": "1896710",
+   "slug": "Loren-Cook-Vari-Flow",
+   "title": "Specification And Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1896710/Loren-Cook-Vari-Flow.html"
+  },
+  {
+   "manualId": "3859768",
+   "slug": "Loren-Cook-Subh",
+   "title": "SUBH Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "SUBH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3859768/Loren-Cook-Subh.html"
+  },
+  {
+   "manualId": "3859767",
+   "slug": "Loren-Cook-Tub",
+   "title": "TUB Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "TUB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3859767/Loren-Cook-Tub.html"
+  },
+  {
+   "manualId": "3941703",
+   "slug": "Loren-Cook-Vcr",
+   "title": "VCR Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "VCR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3941703/Loren-Cook-Vcr.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "loren-cook"
+ ]
+}

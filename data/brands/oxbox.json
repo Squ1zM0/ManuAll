@@ -1,0 +1,151 @@
+{
+ "brand": "Oxbox",
+ "brandSlug": "oxbox",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/oxbox/"
+ ],
+ "slugUsed": "oxbox",
+ "capturedAt": "2026-10-28T08:47:09.235060+00:00",
+ "typePages": [
+  {
+   "path": "/brand/oxbox/air-handlers.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/oxbox/controller.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/oxbox/furnace.html",
+   "manuals": 45,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3744741",
+   "slug": "Oxbox-Psc-Series",
+   "title": "ECM Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "ECM Series",
+   "extraModels": [
+    "ECM Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3744741/Oxbox-Psc-Series.html"
+  },
+  {
+   "manualId": "2163183",
+   "slug": "Oxbox-G7-Series",
+   "title": "G7 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "G7 Series",
+   "extraModels": [
+    "G7SA",
+    "G7SC",
+    "G7SD",
+    "G7SK",
+    "G7SL",
+    "G7SM",
+    "G7TA",
+    "G7TC",
+    "G7TE",
+    "G7TK",
+    "G7TL",
+    "G7TN",
+    "GC2 Series",
+    "GC2SA",
+    "GC2SC",
+    "GC2SD",
+    "GC2SK",
+    "GC2SL",
+    "GC2SM",
+    "GC2TA",
+    "GC2TC",
+    "GC2TE",
+    "GC2TK",
+    "GC2TL",
+    "GC2TN"
+   ],
+   "url": "https://www.manualslib.com/manual/2163183/Oxbox-G7-Series.html"
+  },
+  {
+   "manualId": "2170116",
+   "slug": "Oxbox-Jayloam001",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2170116/Oxbox-Jayloam001.html"
+  },
+  {
+   "manualId": "3865621",
+   "slug": "Oxbox-J801x-D-Series",
+   "title": "J801X D Series user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "J801X D Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3865621/Oxbox-J801x-D-Series.html"
+  },
+  {
+   "manualId": "1818884",
+   "slug": "Oxbox-J801x-U-Series",
+   "title": "J801X U Series user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "J801X U Series",
+   "extraModels": [
+    "J951X D Series",
+    "J951X U Series",
+    "J952V U Series",
+    "J962V D Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1818884/Oxbox-J801x-U-Series.html"
+  },
+  {
+   "manualId": "1928970",
+   "slug": "Oxbox-J951x-U-Series",
+   "title": "J951X D Series installation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "J951X D Series",
+   "extraModels": [
+    "J951X D Series",
+    "J951X038BU",
+    "J951X054BD",
+    "J951X054BU",
+    "J951X072CD",
+    "J951X072CU",
+    "J951X090CD",
+    "J951X090CU",
+    "J951X108DU",
+    "J951X120DU"
+   ],
+   "url": "https://www.manualslib.com/manual/1928970/Oxbox-J951x-U-Series.html"
+  },
+  {
+   "manualId": "2879290",
+   "slug": "Oxbox-G8sa-Series",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2879290/Oxbox-G8sa-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "oxbox"
+ ]
+}

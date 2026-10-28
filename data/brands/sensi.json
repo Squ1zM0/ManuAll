@@ -1,0 +1,266 @@
+{
+ "brand": "Sensi",
+ "brandSlug": "sensi",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/sensi/"
+ ],
+ "slugUsed": "sensi",
+ "capturedAt": "2026-10-28T09:20:29.793949+00:00",
+ "typePages": [
+  {
+   "path": "/brand/sensi/security-sensors.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/sensi/thermostat.html",
+   "manuals": 33,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3452025",
+   "slug": "Sensi-1f76u-22wfb-Series",
+   "title": "1F76U-22WFB Series installation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "1F76U-22WFB Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3452025/Sensi-1f76u-22wfb-Series.html"
+  },
+  {
+   "manualId": "3841889",
+   "slug": "Sensi-1f86u-42wf",
+   "title": "1F86U-42WF installation manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "1F86U-42WF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3841889/Sensi-1f86u-42wf.html"
+  },
+  {
+   "manualId": "1807678",
+   "slug": "Sensi-1f87u-42wf",
+   "title": "1F87U-42WF Manual Operation",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "1F87U-42WF",
+   "extraModels": [
+    "ST55"
+   ],
+   "url": "https://www.manualslib.com/manual/1807678/Sensi-1f87u-42wf.html"
+  },
+  {
+   "manualId": "2196164",
+   "slug": "Sensi-1f95u-42wf-Series",
+   "title": "1F87U-42WF Navigation & Scheduling manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": "1F87U-42WF",
+   "extraModels": [
+    "1F87U-42WF",
+    "NH-AWIFI",
+    "OH-AWIFI",
+    "ST55",
+    "ST75 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2196164/Sensi-1f95u-42wf-Series.html"
+  },
+  {
+   "manualId": "3100573",
+   "slug": "Sensi-1f95u-42wf-Series",
+   "title": "1F95U-42WF Series manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "1F95U-42WF Series",
+   "extraModels": [
+    "NH-2WIFI Series",
+    "OH-2WIFI Series",
+    "ST75 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3100573/Sensi-1f95u-42wf-Series.html"
+  },
+  {
+   "manualId": "1912287",
+   "slug": "Sensi-1f95u-42wf-Series",
+   "title": "1F95U-42WF Series Manual Operation",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "1F95U-42WF Series",
+   "extraModels": [
+    "NH-AWIFI",
+    "OH-AWIFI",
+    "ST75 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1912287/Sensi-1f95u-42wf-Series.html"
+  },
+  {
+   "manualId": "4558221",
+   "slug": "Sensi-1f95u-42wf",
+   "title": "1F95U-42WF Series Manual operation manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "1F95U-42WF Series",
+   "extraModels": [
+    "ST75 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4558221/Sensi-1f95u-42wf.html"
+  },
+  {
+   "manualId": "1311445",
+   "slug": "Sensi-1f95u-42wf-St75",
+   "title": "1F95U-42WF, ST75 installation manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "1F95U-42WF, ST75",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1311445/Sensi-1f95u-42wf-St75.html"
+  },
+  {
+   "manualId": "1311444",
+   "slug": "Sensi-1f95u-42wf-St75",
+   "title": "1F95U-42WF, ST75 Manual operation manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "1F95U-42WF, ST75",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1311444/Sensi-1f95u-42wf-St75.html"
+  },
+  {
+   "manualId": "3022218",
+   "slug": "Sensi-1f96u-42wf-Series",
+   "title": "1F96U-42WF Series Setup manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "1F96U-42WF Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3022218/Sensi-1f96u-42wf-Series.html"
+  },
+  {
+   "manualId": "3407149",
+   "slug": "Sensi-Rs01-Sg",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3407149/Sensi-Rs01-Sg.html"
+  },
+  {
+   "manualId": "3935433",
+   "slug": "Sensi-Lite-Smart-Thermostat",
+   "title": "LITE SMART THERMOSTAT installation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "LITE SMART THERMOSTAT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3935433/Sensi-Lite-Smart-Thermostat.html"
+  },
+  {
+   "manualId": "4652524",
+   "slug": "Sensi-Lite-Z-Wave",
+   "title": "Lite Z-Wave Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "Lite Z-Wave",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4652524/Sensi-Lite-Z-Wave.html"
+  },
+  {
+   "manualId": "1813415",
+   "slug": "Sensi-Pro",
+   "title": "PRO Installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "PRO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1813415/Sensi-Pro.html"
+  },
+  {
+   "manualId": "2863361",
+   "slug": "sensi-touch-smart-thermostat-1f95u-42wf-and-st75-series-manual",
+   "title": "Sensi Touch Smart Thermostat 1F95U-42WF & ST75 Series Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2863361/sensi-touch-smart-thermostat-1f95u-42wf-and-st75-series-manual.html"
+  },
+  {
+   "manualId": "3935432",
+   "slug": "Sensi-St25-Series",
+   "title": "ST25 Series installation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "ST25 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3935432/Sensi-St25-Series.html"
+  },
+  {
+   "manualId": "2696650",
+   "slug": "Sensi-St75w",
+   "title": "ST75W Installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "ST75W",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2696650/Sensi-St75w.html"
+  },
+  {
+   "manualId": "3913870",
+   "slug": "Sensi-St76-Series",
+   "title": "ST76 Series Setup manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "ST76 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3913870/Sensi-St76-Series.html"
+  },
+  {
+   "manualId": "2926713",
+   "slug": "Sensi-Touch-2-1f96u-42wf-Series",
+   "title": "TOUCH 2 1F96U-42WF Series Manual operation",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "TOUCH 2 1F96U-42WF Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2926713/Sensi-Touch-2-1f96u-42wf-Series.html"
+  },
+  {
+   "manualId": "3909941",
+   "slug": "Sensi-Touch-2-St76-Series",
+   "title": "TOUCH 2 ST76 Series Manual operation",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "TOUCH 2 ST76 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3909941/Sensi-Touch-2-St76-Series.html"
+  },
+  {
+   "manualId": "1257970",
+   "slug": "Sensi-Up500w",
+   "title": "UP500W installation manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "UP500W",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1257970/Sensi-Up500w.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "2863361",
+   "slug": "sensi-touch-smart-thermostat-1f95u-42wf-and-st75-series-manual",
+   "title": "Sensi Touch Smart Thermostat 1F95U-42WF & ST75 Series Manual"
+  }
+ ],
+ "techDirectIds": [
+  "sensi-copeland"
+ ]
+}
