@@ -1,0 +1,350 @@
+{
+ "brand": "Dayton",
+ "brandSlug": "dayton",
+ "aliases": [],
+ "source": "manualmachine",
+ "scope": "Dayton (Grainger) heaters + HVAC blowers from manualmachine.com; ManualsLib gap-fill only. Dayton Audio, Elkay Dayton plumbing, and Dayton Superior are different companies and are excluded.",
+ "sourceBrandPages": [
+  "https://manualmachine.com/dayton/"
+ ],
+ "slugUsed": "dayton",
+ "capturedAt": "2026-10-28T14:28:11.421131+00:00",
+ "typePages": [
+  {
+   "path": "https://manualmachine.com/dayton/",
+   "manuals": 476,
+   "status": 200,
+   "note": "manualmachine brand page + letter sub-pages enumerated; this source has no type-page structure"
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1077686",
+   "slug": "dayton-1p579f-user-manual",
+   "title": "Dayton 1P579F User Manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "1P579F",
+   "extraModels": [],
+   "url": "https://manualmachine.com/dayton/1p579f/1077686-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077686"
+  },
+  {
+   "manualId": "1077704",
+   "slug": "dayton-1rvt7-user-manual",
+   "title": "Dayton 1RVT8, 1RVT7 User Manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "1RVT8",
+   "extraModels": [
+    "1RVT7"
+   ],
+   "url": "https://manualmachine.com/dayton/1rvt7/1077704-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077704"
+  },
+  {
+   "manualId": "9000878",
+   "slug": "dayton-1xjx7-user-manual",
+   "title": "Dayton 1XJX7, 1XJX8, 1XJX9, 1XJY1, 1XJY2 User Manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "1XJX7",
+   "extraModels": [
+    "1XJX8",
+    "1XJX9",
+    "1XJY1",
+    "1XJY2"
+   ],
+   "url": "https://manualmachine.com/dayton/1xjx7/9000878-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "9000878"
+  },
+  {
+   "manualId": "1077602",
+   "slug": "dayton-5s1792-user-manual",
+   "title": "Dayton 2E510F, 2E511F, 3E218F, 3E219F User Manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "2E510F",
+   "extraModels": [
+    "2E511F",
+    "3E218F",
+    "3E219F"
+   ],
+   "url": "https://manualmachine.com/dayton/5s1792/1077602-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077602",
+   "note": "manualmachine keys this document under form number 5S1792; models taken from the document header (verified: 2E510F/2E511F/3E218F/3E219F, 40,000-155,000 Btu/Hr portable oil-fired heaters)"
+  },
+  {
+   "manualId": "1077626",
+   "slug": "dayton-2e511d-user-manual",
+   "title": "Dayton 2E511D, 3E219C, 3E218D User Manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "2E511D",
+   "extraModels": [
+    "3E219C",
+    "3E218D"
+   ],
+   "url": "https://manualmachine.com/dayton/2e511d/1077626-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077626"
+  },
+  {
+   "manualId": "1077690",
+   "slug": "dayton-2zrp8-user-manual",
+   "title": "Dayton 2ZRP9, 2ZRP8 User Manual",
+   "type": "User / Owner",
+   "pages": 50,
+   "productModel": "2ZRP9",
+   "extraModels": [
+    "2ZRP8"
+   ],
+   "url": "https://manualmachine.com/dayton/2zrp8/1077690-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077690"
+  },
+  {
+   "manualId": "1077630",
+   "slug": "dayton-2e510e-user-manual",
+   "title": "Dayton 3E219D, 2E510E, 3E218E, 2E511E User Manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "3E219D",
+   "extraModels": [
+    "2E510E",
+    "3E218E",
+    "2E511E"
+   ],
+   "url": "https://manualmachine.com/dayton/2e510e/1077630-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077630"
+  },
+  {
+   "manualId": "1077652",
+   "slug": "dayton-3e358b-user-manual",
+   "title": "Dayton 3E358B, 3E359B User Manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "3E358B",
+   "extraModels": [
+    "3E359B"
+   ],
+   "url": "https://manualmachine.com/dayton/3e358b/1077652-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077652"
+  },
+  {
+   "manualId": "2510656",
+   "slug": "dayton-3ug73e-user-manual",
+   "title": "Dayton 3UG74E, 3UG73E User Manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "3UG74E",
+   "extraModels": [
+    "3UG73E"
+   ],
+   "url": "https://manualmachine.com/dayton/3ug73e/2510656-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "2510656"
+  },
+  {
+   "manualId": "1077676",
+   "slug": "dayton-3vg78-user-manual",
+   "title": "Dayton 3VG78 User Manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "3VG78",
+   "extraModels": [],
+   "url": "https://manualmachine.com/dayton/3vg78/1077676-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077676"
+  },
+  {
+   "manualId": "1077668",
+   "slug": "dayton-3vg79-user-manual",
+   "title": "Dayton 3VG79 User Manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "3VG79",
+   "extraModels": [],
+   "url": "https://manualmachine.com/dayton/3vg79/1077668-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077668"
+  },
+  {
+   "manualId": "1077606",
+   "slug": "dayton-3vg79a-user-manual",
+   "title": "Dayton 3VG79A User Manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "3VG79A",
+   "extraModels": [],
+   "url": "https://manualmachine.com/dayton/3vg79a/1077606-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077606"
+  },
+  {
+   "manualId": "1077662",
+   "slug": "dayton-3vg79b-user-manual",
+   "title": "Dayton 3VG79B User Manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "3VG79B",
+   "extraModels": [],
+   "url": "https://manualmachine.com/dayton/3vg79b/1077662-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077662"
+  },
+  {
+   "manualId": "1077648",
+   "slug": "dayton-3vg80-user-manual",
+   "title": "Dayton 3VG80 User Manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "3VG80",
+   "extraModels": [],
+   "url": "https://manualmachine.com/dayton/3vg80/1077648-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077648"
+  },
+  {
+   "manualId": "1077612",
+   "slug": "dayton-3vg81-user-manual",
+   "title": "Dayton 3VG81 User Manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "3VG81",
+   "extraModels": [],
+   "url": "https://manualmachine.com/dayton/3vg81/1077612-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077612"
+  },
+  {
+   "manualId": "1077616",
+   "slug": "dayton-3vh18a-user-manual",
+   "title": "Dayton 3VH18A, 3VH19A User Manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "3VH18A",
+   "extraModels": [
+    "3VH19A"
+   ],
+   "url": "https://manualmachine.com/dayton/3vh18a/1077616-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077616"
+  },
+  {
+   "manualId": "1077638",
+   "slug": "dayton-3vh19-user-manual",
+   "title": "Dayton 3VH19 User Manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "3VH19",
+   "extraModels": [],
+   "url": "https://manualmachine.com/dayton/3vh19/1077638-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077638"
+  },
+  {
+   "manualId": "1077692",
+   "slug": "dayton-3vh20-user-manual",
+   "title": "Dayton 3VH20 User Manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "3VH20",
+   "extraModels": [],
+   "url": "https://manualmachine.com/dayton/3vh20/1077692-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077692"
+  },
+  {
+   "manualId": "1077632",
+   "slug": "dayton-3vh22-user-manual",
+   "title": "Dayton 3VH22 User Manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "3VH22",
+   "extraModels": [],
+   "url": "https://manualmachine.com/dayton/3vh22/1077632-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077632"
+  },
+  {
+   "manualId": "1077636",
+   "slug": "dayton-3e460-user-manual",
+   "title": "Dayton 3VH34, 3E460, 5VD66, 5VD57, 3E462 User Manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "3VH34",
+   "extraModels": [
+    "3E460",
+    "5VD66",
+    "5VD57",
+    "3E462"
+   ],
+   "url": "https://manualmachine.com/dayton/3e460/1077636-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077636"
+  },
+  {
+   "manualId": "1077706",
+   "slug": "dayton-3wy46-user-manual",
+   "title": "Dayton 3WY47, 3WY46 User Manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "3WY47",
+   "extraModels": [
+    "3WY46"
+   ],
+   "url": "https://manualmachine.com/dayton/3wy46/1077706-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "1077706"
+  },
+  {
+   "manualId": "2510645",
+   "slug": "dayton-7ar79-user-manual",
+   "title": "Dayton 7D851A, 7AR79, 7AR88, 7D849A, 7D837A User Manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "7D851A",
+   "extraModels": [
+    "7AR79",
+    "7AR88",
+    "7D849A",
+    "7D837A"
+   ],
+   "url": "https://manualmachine.com/dayton/7ar79/2510645-user-manual/",
+   "source": "manualmachine",
+   "sourceId": "2510645"
+  }
+ ],
+ "gaps": {
+  "sourceNotes": [
+   "Source: manualmachine.com (chosen over manualshelf, whose scripted fetches fail with Cloudflare 403/remote disconnect, and manuals.plus ASIN-derived listings).",
+   "ManualsLib has no Dayton brand page (verified Oct 28: /brand/dayton/ 404, no D-letter match, 0 Dayton titles in any ManuAll file).",
+   "CAUTION: manualmachine's /dayton/ listing conflates four different 'Dayton' names. This file holds ONLY Dayton (Grainger) heaters/blowers. Excluded by content evidence, not by model pattern: Dayton Audio (143 entries), Elkay Dayton plumbing sinks/drains/grids spec sheets (50), Dayton Superior concrete forming hardware (2), Dayton fork-truck booms material handling (7), Dayton sump-pump technical data sheet (1).",
+   "218 viewer pages excluded as gated: page renders only an image + points gate, no OCR text, content unverifiable.",
+   "Page counts are max data-page-no (numbered content pages); viewer renders additional unnumbered gate/placeholder divs that are not manual pages."
+  ],
+  "excluded": {
+   "EXCLUDE-gated": 218,
+   "DUPLICATE-samedoc": 26,
+   "EXCLUDE-other-trade": 7,
+   "EXCLUDE-audio": 150,
+   "EXCLUDE-elkay-plumbing": 50,
+   "EXCLUDE-other-company": 2,
+   "EXCLUDE-spec": 1
+  },
+  "nearMatchesWithinFile": {},
+  "sameProductModelGroups": {},
+  "nearMatchesCrossBrand": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "dayton"
+ ]
+}

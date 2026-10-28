@@ -7,6 +7,15 @@ Validation (fails the build, never ships a partial index silently):
   - every url matches the manual PAGE form only:
       https://www.manualslib.com/manual/<digits>/<slug>.html
     (/guide/ URLs, data2 PDF URLs, and proxy URLs are rejected)
+  - EXTERNAL-SOURCE exception (pilot only, gated per manual): a manual with
+    "source": "manualmachine" is validated against the manualmachine viewer
+    form instead:
+      https://manualmachine.com/<brand>/<model>/<digits>-<slug>/
+    with the url's brand segment equal to the file's brandSlug, the url's
+    digits equal to manualId and to sourceId, and no PDF/data URL allowed.
+    The exception NEVER applies to a manual without that exact source value,
+    so the 355 ManualsLib files keep the strict rule above. External manuals
+    keep their source/sourceId in the built index so the app can label them.
   - every type is one of the five app labels
   - pages is null or a positive int
   - duplicate manualIds inside one brand file are dropped (warning)
@@ -17,6 +26,7 @@ Usage (from the repository root):
 import argparse, glob, json, os, re, sys, datetime
 
 URL_RE = re.compile(r"^https://www\.manualslib\.com/manual/(\d+)/([^/?#]+)\.html$")
+MM_URL_RE = re.compile(r"^https://manualmachine\.com/([^/]+)/([^/]+)/(\d+)-([^/?#]+)/$")
 TYPES = {"Service", "Installation", "Parts & Wiring", "User / Owner", "Other"}
 
 def fail(msg):
@@ -54,33 +64,71 @@ def main():
             url = m.get("url", "")
             if not re.fullmatch(r"\d+", mid):
                 fail(f"{path}: manualId not digits: {mid!r}")
-            mu = URL_RE.match(url or "")
-            if not mu:
-                fail(f"{path}: url is not a manual page URL: {url!r}")
-            if mu.group(1) != mid:
-                fail(f"{path}: manualId {mid} != id in url {url!r}")
-            if m.get("type") not in TYPES:
-                fail(f"{path}: unknown type {m.get('type')!r} for manual {mid}")
-            pages = m.get("pages")
-            if pages is not None and (not isinstance(pages, int) or pages <= 0):
-                fail(f"{path}: bad pages {pages!r} for manual {mid}")
-            if not m.get("title") or not m.get("slug"):
-                fail(f"{path}: manual {mid} missing title/slug")
-            if mid in seen:
-                print(f"WARN: {path}: duplicate manualId {mid}, dropping")
-                warnings += 1
-                continue
-            seen.add(mid)
-            kept.append({
-                "manualId": mid,
-                "slug": m["slug"],
-                "title": m["title"],
-                "type": m["type"],
-                "pages": pages,
-                "productModel": m.get("productModel"),
-                "extraModels": m.get("extraModels") or [],
-                "url": url,
-            })
+            kept_entry = None
+            if m.get("source") == "manualmachine":
+                # External-source exception: strict viewer-form validation.
+                mm = MM_URL_RE.match(url or "")
+                if not mm:
+                    fail(f"{path}: url is not a manualmachine viewer URL: {url!r}")
+                if mm.group(1) != slug:
+                    fail(f"{path}: manualmachine url brand {mm.group(1)!r} != file brandSlug {slug!r}")
+                if mm.group(3) != mid:
+                    fail(f"{path}: manualId {mid} != id in url {url!r}")
+                if str(m.get("sourceId", "")) != mid:
+                    fail(f"{path}: sourceId {m.get('sourceId')!r} != manualId {mid}")
+                if m.get("type") not in TYPES:
+                    fail(f"{path}: unknown type {m.get('type')!r} for manual {mid}")
+                pages = m.get("pages")
+                if pages is not None and (not isinstance(pages, int) or pages <= 0):
+                    fail(f"{path}: bad pages {pages!r} for manual {mid}")
+                if not m.get("title") or not m.get("slug"):
+                    fail(f"{path}: manual {mid} missing title/slug")
+                if mid in seen:
+                    print(f"WARN: {path}: duplicate manualId {mid}, dropping")
+                    warnings += 1
+                    continue
+                seen.add(mid)
+                kept_entry = {
+                    "manualId": mid,
+                    "slug": m["slug"],
+                    "title": m["title"],
+                    "type": m["type"],
+                    "pages": pages,
+                    "productModel": m.get("productModel"),
+                    "extraModels": m.get("extraModels") or [],
+                    "url": url,
+                    "source": "manualmachine",
+                    "sourceId": mid,
+                }
+            else:
+                mu = URL_RE.match(url or "")
+                if not mu:
+                    fail(f"{path}: url is not a manual page URL: {url!r}")
+                if mu.group(1) != mid:
+                    fail(f"{path}: manualId {mid} != id in url {url!r}")
+                if m.get("type") not in TYPES:
+                    fail(f"{path}: unknown type {m.get('type')!r} for manual {mid}")
+                pages = m.get("pages")
+                if pages is not None and (not isinstance(pages, int) or pages <= 0):
+                    fail(f"{path}: bad pages {pages!r} for manual {mid}")
+                if not m.get("title") or not m.get("slug"):
+                    fail(f"{path}: manual {mid} missing title/slug")
+                if mid in seen:
+                    print(f"WARN: {path}: duplicate manualId {mid}, dropping")
+                    warnings += 1
+                    continue
+                seen.add(mid)
+                kept_entry = {
+                    "manualId": mid,
+                    "slug": m["slug"],
+                    "title": m["title"],
+                    "type": m["type"],
+                    "pages": pages,
+                    "productModel": m.get("productModel"),
+                    "extraModels": m.get("extraModels") or [],
+                    "url": url,
+                }
+            kept.append(kept_entry)
         brands[slug] = {
             "name": name,
             "aliases": data.get("aliases") or [],
