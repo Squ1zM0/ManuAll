@@ -72,24 +72,27 @@ NAVIGATION.md                   historical live-lookup spec (reference only)
 
 ## Quarters — Oct 28, 2026
 
-The combined index (327 brands, 212,329 manuals) is 58.7 MB, which
+The combined index (335 brands, 213,264 manuals) is 59.0 MB, which
 GitHub's API refuses as a single file. It is therefore published in
 four quarters, split by brand — no brand's manual list is split
 across parts — balanced by serialized size so each part is about
-14.7 MB:
+14.8 MB:
 
 | Part | Brands | Manuals |
 |---|---|---|
-| dist/index-1.json | 80 | 52,153 |
-| dist/index-2.json | 82 | 51,617 |
-| dist/index-3.json | 82 | 54,665 |
-| dist/index-4.json | 83 | 53,894 |
+| dist/index-1.json | 82 | 52,362 |
+| dist/index-2.json | 84 | 51,823 |
+| dist/index-3.json | 84 | 54,857 |
+| dist/index-4.json | 85 | 54,222 |
 
-The 327 brands are 10 Phase 1 trade brands (33,588 manuals) plus
+The 335 brands are 10 Phase 1 trade brands (33,588 manuals) plus
 317 HVAC-category brands captured from TechDirect's HVAC list
-(178,741 manuals). A brand slug appearing in two quarters is a
-build error, never silently overwritten. The quarters are the
-index; `dist/index.json` remains only as the Phase 1 legacy file.
+(178,741 manuals) plus 8 major-gap brands captured Oct 28, 2026
+(935 manuals: Noritz, State Water Heaters, Chromalox, Electro
+Industries, HydroTherm, IBC, ThermaFlo, Vapor Power). A brand slug
+appearing in two quarters is a build error, never silently
+overwritten. The quarters are the index; `dist/index.json` remains
+only as the Phase 1 legacy file.
 
 ## Fetch pattern for Price-Cal
 
