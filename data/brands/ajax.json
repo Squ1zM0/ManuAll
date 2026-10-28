@@ -1,0 +1,47 @@
+{
+ "brand": "AJAX",
+ "brandSlug": "ajax",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/ajax/"
+ ],
+ "slugUsed": "ajax",
+ "capturedAt": "2026-10-28T13:12:53.621802+00:00",
+ "typePages": [
+  {
+   "path": "/brand/ajax/boiler.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "935128",
+   "slug": "Ajax-A050-A300",
+   "title": "A050-A300 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 116,
+   "productModel": "A050-A300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/935128/Ajax-A050-A300.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "ajax-boilers"
+ ],
+ "scope": "Ajax Boilers types only",
+ "scopeNote": "Ajax Boilers types only per Oct 28, 2026 B2 program. water-heater (single generic PVG WW title) and water-pump (single generic A1 1/2 title) inconclusive, excluded and listed. Control/security types belong to Ajax Systems, excluded.",
+ "includedTypes": [
+  "boiler"
+ ],
+ "excludedAmbiguousTypes": [
+  "water-heater",
+  "water-pump"
+ ],
+ "excludedTypeCount": 40
+}

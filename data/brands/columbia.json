@@ -1,0 +1,571 @@
+{
+ "brand": "Columbia",
+ "brandSlug": "columbia",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/columbia/"
+ ],
+ "slugUsed": "columbia",
+ "capturedAt": "2026-10-28T13:12:51.411929+00:00",
+ "typePages": [
+  {
+   "path": "/brand/columbia/boiler.html",
+   "manuals": 207,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1015370",
+   "slug": "Columbia-Mph-40",
+   "title": "100 Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "100 Series",
+   "extraModels": [
+    "100 Series",
+    "MPH 70",
+    "MPH 90"
+   ],
+   "url": "https://www.manualslib.com/manual/1015370/Columbia-Mph-40.html"
+  },
+  {
+   "manualId": "1110761",
+   "slug": "Columbia-Series-100",
+   "title": "100 Series Operator's manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "100 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1110761/Columbia-Series-100.html"
+  },
+  {
+   "manualId": "29993",
+   "slug": "Columbia-100-Series",
+   "title": "100 Series Operator's manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "100 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/29993/Columbia-100-Series.html"
+  },
+  {
+   "manualId": "885773",
+   "slug": "Columbia-Series-100",
+   "title": "100 Series Operator's manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "100 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/885773/Columbia-Series-100.html"
+  },
+  {
+   "manualId": "1309382",
+   "slug": "Columbia-Cdvb-Series",
+   "title": "CDVB SERIES Installation, operation & maintanance manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "CDVB SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1309382/Columbia-Cdvb-Series.html"
+  },
+  {
+   "manualId": "1064222",
+   "slug": "Columbia-Cdvb-50",
+   "title": "CDVB-100 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "CDVB-100",
+   "extraModels": [
+    "CDVB-100",
+    "CDVB-125",
+    "CDVB-150",
+    "CDVB-200"
+   ],
+   "url": "https://www.manualslib.com/manual/1064222/Columbia-Cdvb-50.html"
+  },
+  {
+   "manualId": "2962470",
+   "slug": "Columbia-Ceg-E-Series",
+   "title": "CEG E Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "CEG E Series",
+   "extraModels": [
+    "CEG075EID",
+    "CEG112EID",
+    "CEG150EID",
+    "CEG187EID",
+    "CEG225EID",
+    "CEG262EID",
+    "CEG299EID",
+    "CEGEID Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2962470/Columbia-Ceg-E-Series.html"
+  },
+  {
+   "manualId": "735346",
+   "slug": "Columbia-Ceg-C",
+   "title": "CEG-C Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "CEG-C",
+   "extraModels": [
+    "CEG112C",
+    "CEG150C",
+    "CEG187C",
+    "CEG225C",
+    "CEG262C",
+    "CEG300C"
+   ],
+   "url": "https://www.manualslib.com/manual/735346/Columbia-Ceg-C.html"
+  },
+  {
+   "manualId": "733825",
+   "slug": "Columbia-Cegdid075d",
+   "title": "CEG075EID Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "CEG075EID",
+   "extraModels": [
+    "CEG075EID",
+    "CEG112EID",
+    "CEG150EID",
+    "CEG187EID",
+    "CEG225EID",
+    "CEG262EID",
+    "CEG299EID",
+    "CEGDID112D",
+    "CEGDID150D",
+    "CEGDID187D",
+    "CEGDID225D",
+    "CEGDID262D",
+    "CEGDID299D"
+   ],
+   "url": "https://www.manualslib.com/manual/733825/Columbia-Cegdid075d.html"
+  },
+  {
+   "manualId": "848419",
+   "slug": "Columbia-Ceg-C",
+   "title": "Columbia CEG-C Installation Manual And Operating Instructions",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": null,
+   "extraModels": [
+    "CEG112C",
+    "CEG150C",
+    "CEG187C",
+    "CEG225C",
+    "CEG262C",
+    "CEG300C"
+   ],
+   "url": "https://www.manualslib.com/manual/848419/Columbia-Ceg-C.html"
+  },
+  {
+   "manualId": "905533",
+   "slug": "Columbia-Csc-Series",
+   "title": "CSC SERIES Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "CSC SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/905533/Columbia-Csc-Series.html"
+  },
+  {
+   "manualId": "1071553",
+   "slug": "Columbia-Csfe-3090s",
+   "title": "CSFE-3090S Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "CSFE-3090S",
+   "extraModels": [
+    "CSFE-3090ST",
+    "CSFE-4125S",
+    "CSFE-4125ST",
+    "CSFE-5185S",
+    "CSFE-5185ST",
+    "CSFE-6210S",
+    "CSFE-6210ST"
+   ],
+   "url": "https://www.manualslib.com/manual/1071553/Columbia-Csfe-3090s.html"
+  },
+  {
+   "manualId": "1023577",
+   "slug": "Columbia-Csfe0365",
+   "title": "CSFE0365 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "CSFE0365",
+   "extraModels": [
+    "CSFE3100",
+    "CSFE4100",
+    "CSFE4125",
+    "CSFE4150",
+    "CSFE5175",
+    "CSFE5200",
+    "CSFE6225",
+    "CSFE7275"
+   ],
+   "url": "https://www.manualslib.com/manual/1023577/Columbia-Csfe0365.html"
+  },
+  {
+   "manualId": "903098",
+   "slug": "Columbia-Csfe0365",
+   "title": "CSFE0365 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "CSFE0365",
+   "extraModels": [
+    "CSFE3100",
+    "CSFE4100",
+    "CSFE4125",
+    "CSFE4150",
+    "CSFE5175",
+    "CSFE5200",
+    "CSFE6225",
+    "CSFE7275"
+   ],
+   "url": "https://www.manualslib.com/manual/903098/Columbia-Csfe0365.html"
+  },
+  {
+   "manualId": "2962465",
+   "slug": "Columbia-Csfh-Iv-4-Series",
+   "title": "CSFH IV 4 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "CSFH IV 4 Series",
+   "extraModels": [
+    "CSFH-3085",
+    "CSFH-3100",
+    "CSFH-4100",
+    "CSFH-4125",
+    "CSFH-4145",
+    "CSFH-5160",
+    "CSFH-5185",
+    "CSFH-6175",
+    "CSFH-6210"
+   ],
+   "url": "https://www.manualslib.com/manual/2962465/Columbia-Csfh-Iv-4-Series.html"
+  },
+  {
+   "manualId": "1072054",
+   "slug": "Columbia-Csfh-3-Water",
+   "title": "CSFH-3 WATER Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "CSFH-3 WATER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1072054/Columbia-Csfh-3-Water.html"
+  },
+  {
+   "manualId": "3144146",
+   "slug": "Columbia-Csvb-Series",
+   "title": "CSVB Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "CSVB Series",
+   "extraModels": [
+    "CSVB-2",
+    "CSVB-3",
+    "CSVB-4",
+    "CSVB-5",
+    "CSVB-6"
+   ],
+   "url": "https://www.manualslib.com/manual/3144146/Columbia-Csvb-Series.html"
+  },
+  {
+   "manualId": "734864",
+   "slug": "Columbia-Csvb-2",
+   "title": "CSVB-2 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "CSVB-2",
+   "extraModels": [
+    "CSVB-3",
+    "CSVB-4",
+    "CSVB-5",
+    "CSVB-6",
+    "CSVB-7"
+   ],
+   "url": "https://www.manualslib.com/manual/734864/Columbia-Csvb-2.html"
+  },
+  {
+   "manualId": "1598339",
+   "slug": "Columbia-Ct-Series",
+   "title": "CT Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "CT Series",
+   "extraModels": [
+    "CT-10",
+    "CT-15",
+    "CT-20",
+    "CT-25",
+    "CT-35",
+    "CT-50",
+    "CT-6"
+   ],
+   "url": "https://www.manualslib.com/manual/1598339/Columbia-Ct-Series.html"
+  },
+  {
+   "manualId": "1417891",
+   "slug": "Columbia-Ct-10",
+   "title": "CT-10 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "CT-10",
+   "extraModels": [
+    "CT-15",
+    "CT-20",
+    "CT-25",
+    "CT-35",
+    "CT-50"
+   ],
+   "url": "https://www.manualslib.com/manual/1417891/Columbia-Ct-10.html"
+  },
+  {
+   "manualId": "735402",
+   "slug": "Columbia-L-Series",
+   "title": "CWH series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "CWH series",
+   "extraModels": [
+    "CWH series",
+    "CWH-1200",
+    "CWH-1510",
+    "CWH-170",
+    "CWH-1810",
+    "CWH-240",
+    "CWH-2460",
+    "CWH-300",
+    "CWH-390",
+    "CWH-475",
+    "CWH-610",
+    "CWH-780",
+    "L-18",
+    "L-20",
+    "L-22",
+    "L-24",
+    "L-30",
+    "L-32",
+    "WL series",
+    "WL-120",
+    "WL-140",
+    "WL-180",
+    "WL-60",
+    "WL-90"
+   ],
+   "url": "https://www.manualslib.com/manual/735402/Columbia-L-Series.html"
+  },
+  {
+   "manualId": "3893160",
+   "slug": "Columbia-Emerald-Em-100-Ee",
+   "title": "EMERALD EM-100 EE Installation and operator's manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "EMERALD EM-100 EE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3893160/Columbia-Emerald-Em-100-Ee.html"
+  },
+  {
+   "manualId": "2545011",
+   "slug": "Columbia-Emerald-Em-85-Ee",
+   "title": "EMERALD EM-110 EE Installation and operator's manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "EMERALD EM-110 EE",
+   "extraModels": [
+    "EMERALD EM-110 EE",
+    "EMERALD EM-135 EE",
+    "EMERALD EM-150 EE",
+    "EMERALD EM-3100 EE"
+   ],
+   "url": "https://www.manualslib.com/manual/2545011/Columbia-Emerald-Em-85-Ee.html"
+  },
+  {
+   "manualId": "3893161",
+   "slug": "Columbia-Emerald-Em-125-Ee",
+   "title": "EMERALD EM-125 EE Installation and operator's manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "EMERALD EM-125 EE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3893161/Columbia-Emerald-Em-125-Ee.html"
+  },
+  {
+   "manualId": "802253",
+   "slug": "Columbia-Emg-31-120",
+   "title": "EMG-31 120 instructions manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "EMG-31 120",
+   "extraModels": [
+    "EMG-31 140",
+    "EMG-31 160"
+   ],
+   "url": "https://www.manualslib.com/manual/802253/Columbia-Emg-31-120.html"
+  },
+  {
+   "manualId": "952868",
+   "slug": "Columbia-Heritage-Series",
+   "title": "HERITAGE series Installation, operating and service instructions",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "HERITAGE series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/952868/Columbia-Heritage-Series.html"
+  },
+  {
+   "manualId": "2515090",
+   "slug": "Columbia-L-Series",
+   "title": "L series owner's manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "L series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2515090/Columbia-L-Series.html"
+  },
+  {
+   "manualId": "3819548",
+   "slug": "Columbia-L-24",
+   "title": "L-24 owner's manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "L-24",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3819548/Columbia-L-24.html"
+  },
+  {
+   "manualId": "734033",
+   "slug": "Columbia-Lv-Series",
+   "title": "LV Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "LV Series",
+   "extraModels": [
+    "LV-100",
+    "LV-110",
+    "LV-125",
+    "LV-135",
+    "LV-150",
+    "LV-75"
+   ],
+   "url": "https://www.manualslib.com/manual/734033/Columbia-Lv-Series.html"
+  },
+  {
+   "manualId": "797708",
+   "slug": "Columbia-Mcb50",
+   "title": "MCB100 Installation, operation & maintanance manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "MCB100",
+   "extraModels": [
+    "MCB100",
+    "MCB125",
+    "MCB150",
+    "MCB175",
+    "MCB200",
+    "MCB250",
+    "MCB300",
+    "MCB75"
+   ],
+   "url": "https://www.manualslib.com/manual/797708/Columbia-Mcb50.html"
+  },
+  {
+   "manualId": "747159",
+   "slug": "Columbia-Mcb50",
+   "title": "MCB100 Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "MCB100",
+   "extraModels": [
+    "MCB100",
+    "MCB125",
+    "MCB150",
+    "MCB175",
+    "MCB200",
+    "MCB250",
+    "MCB300",
+    "MCB75"
+   ],
+   "url": "https://www.manualslib.com/manual/747159/Columbia-Mcb50.html"
+  },
+  {
+   "manualId": "728128",
+   "slug": "Columbia-Mph-Series",
+   "title": "MPH 100 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "MPH 100",
+   "extraModels": [
+    "MPH 100",
+    "MPH 30",
+    "MPH 40",
+    "MPH 50",
+    "MPH 60",
+    "MPH 70",
+    "MPH 80",
+    "MPH 90"
+   ],
+   "url": "https://www.manualslib.com/manual/728128/Columbia-Mph-Series.html"
+  },
+  {
+   "manualId": "3833280",
+   "slug": "Columbia-Mph-50",
+   "title": "MPH 50 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "MPH 50",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3833280/Columbia-Mph-50.html"
+  },
+  {
+   "manualId": "3833281",
+   "slug": "Columbia-Mph-60",
+   "title": "MPH 60 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "MPH 60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3833281/Columbia-Mph-60.html"
+  },
+  {
+   "manualId": "3833282",
+   "slug": "Columbia-Mph-80",
+   "title": "MPH 80 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "MPH 80",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3833282/Columbia-Mph-80.html"
+  },
+  {
+   "manualId": "634939",
+   "slug": "Columbia-Wl-60",
+   "title": "WL-60 owner's manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "WL-60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/634939/Columbia-Wl-60.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "columbia-boiler"
+ ],
+ "scope": "Columbia Boiler types only",
+ "scopeNote": "Columbia Boiler types only per Oct 28, 2026 B2 program. water-heater (MCB-series titles) inconclusive, excluded and listed. water-pump (AA4VG titles) belongs to another company, excluded.",
+ "includedTypes": [
+  "boiler"
+ ],
+ "excludedAmbiguousTypes": [
+  "water-heater"
+ ],
+ "excludedTypeCount": 37
+}

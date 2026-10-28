@@ -1,0 +1,1202 @@
+{
+ "brand": "Marley",
+ "brandSlug": "marley",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/marley/"
+ ],
+ "slugUsed": "marley",
+ "capturedAt": "2026-10-28T13:13:00.540524+00:00",
+ "typePages": [
+  {
+   "path": "/brand/marley/air-conditioner.html",
+   "manuals": 44,
+   "status": 200
+  },
+  {
+   "path": "/brand/marley/electric-heater.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/marley/fan.html",
+   "manuals": 70,
+   "status": 200
+  },
+  {
+   "path": "/brand/marley/heater.html",
+   "manuals": 349,
+   "status": 200
+  },
+  {
+   "path": "/brand/marley/heating-system.html",
+   "manuals": 4,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1112810",
+   "slug": "Marley-2500-And-C2500-Series",
+   "title": "2500 & C2500 Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "2500 & C2500 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1112810/Marley-2500-And-C2500-Series.html"
+  },
+  {
+   "manualId": "1989267",
+   "slug": "Marley-Re-Venti-Ms125e-Dc",
+   "title": "320120 Operating & assembly instructions",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "320120",
+   "extraModels": [
+    "320120",
+    "320335",
+    "531250",
+    "Heat energy saving set",
+    "HSSFB"
+   ],
+   "url": "https://www.manualslib.com/manual/1989267/Marley-Re-Venti-Ms125e-Dc.html"
+  },
+  {
+   "manualId": "1071562",
+   "slug": "Marley-935",
+   "title": "935 Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "935",
+   "extraModels": [
+    "945",
+    "958",
+    "968",
+    "978"
+   ],
+   "url": "https://www.manualslib.com/manual/1071562/Marley-935.html"
+  },
+  {
+   "manualId": "1238710",
+   "slug": "Marley-Aquatower-490a",
+   "title": "Aquatower 490A user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "Aquatower 490A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1238710/Marley-Aquatower-490a.html"
+  },
+  {
+   "manualId": "1914510",
+   "slug": "Marley-Aquatower",
+   "title": "Aquatower user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Aquatower",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1914510/Marley-Aquatower.html"
+  },
+  {
+   "manualId": "3544814",
+   "slug": "Marley-Aquatower-490",
+   "title": "Aquatower user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Aquatower",
+   "extraModels": [
+    "Aquatower 490A",
+    "Aquatower 490D",
+    "Aquatower 492D",
+    "Aquatower 492G",
+    "Aquatower 493G",
+    "Aquatower 493H",
+    "Aquatower 494G",
+    "Aquatower 494H",
+    "Aquatower 494K",
+    "Aquatower 495K",
+    "Aquatower 496K"
+   ],
+   "url": "https://www.manualslib.com/manual/3544814/Marley-Aquatower-490.html"
+  },
+  {
+   "manualId": "1286938",
+   "slug": "Marley-Cdf552se",
+   "title": "CDF547RE Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 31,
+   "productModel": "CDF547RE",
+   "extraModels": [
+    "CDF547RE",
+    "CDF547SE",
+    "CDF548RE",
+    "CDF548SE",
+    "CDF552RE",
+    "CDF557RE",
+    "CDF557SE",
+    "CDF558RE",
+    "CDF558SE"
+   ],
+   "url": "https://www.manualslib.com/manual/1286938/Marley-Cdf552se.html"
+  },
+  {
+   "manualId": "1690135",
+   "slug": "Marley-Classic-Series",
+   "title": "CLASSIC C11 Operating & assembly instructions",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "CLASSIC C11",
+   "extraModels": [
+    "CLASSIC C11",
+    "CLASSIC C12",
+    "CLASSIC C21",
+    "CLASSIC C31"
+   ],
+   "url": "https://www.manualslib.com/manual/1690135/Marley-Classic-Series.html"
+  },
+  {
+   "manualId": "1230549",
+   "slug": "Marley-Cslas",
+   "title": "CSLAL Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "CSLAL",
+   "extraModels": [
+    "CSLAL",
+    "CSLAM"
+   ],
+   "url": "https://www.manualslib.com/manual/1230549/Marley-Cslas.html"
+  },
+  {
+   "manualId": "1019800",
+   "slug": "Marley-Cz1512t",
+   "title": "CZ1012-IF Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "CZ1012-IF",
+   "extraModels": [
+    "CZ1012-IF",
+    "CZ1012T",
+    "CZ1048-IF",
+    "CZ1048T",
+    "CZ1512-IF",
+    "CZ1548-IF",
+    "CZ1548T",
+    "CZ2048-IF",
+    "CZ2048T"
+   ],
+   "url": "https://www.manualslib.com/manual/1019800/Marley-Cz1512t.html"
+  },
+  {
+   "manualId": "968722",
+   "slug": "Marley-D",
+   "title": "D Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/968722/Marley-D.html"
+  },
+  {
+   "manualId": "1498392",
+   "slug": "Marley-D",
+   "title": "D Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 19,
+   "productModel": "D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1498392/Marley-D.html"
+  },
+  {
+   "manualId": "692120",
+   "slug": "Marley-D-Series",
+   "title": "D Series Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "D Series",
+   "extraModels": [
+    "D1012C",
+    "D1024C",
+    "D1512",
+    "D2024"
+   ],
+   "url": "https://www.manualslib.com/manual/692120/Marley-D-Series.html"
+  },
+  {
+   "manualId": "1600046",
+   "slug": "Marley-Smart-Series",
+   "title": "Fahrenheat FSSWH1502 Operation manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Fahrenheat FSSWH1502",
+   "extraModels": [
+    "Fahrenheat FSSWH1502",
+    "Qmark HT1502SS",
+    "Qmark HT2024SS"
+   ],
+   "url": "https://www.manualslib.com/manual/1600046/Marley-Smart-Series.html"
+  },
+  {
+   "manualId": "3857353",
+   "slug": "Marley-Fahrenheat-Fsswh2004",
+   "title": "Fahrenheat FSSWH2004 Operation manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "Fahrenheat FSSWH2004",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857353/Marley-Fahrenheat-Fsswh2004.html"
+  },
+  {
+   "manualId": "688518",
+   "slug": "Marley-Lfp-Series",
+   "title": "Fahrenheat LFP610D Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "Fahrenheat LFP610D",
+   "extraModels": [
+    "Fahrenheat LFP610D",
+    "Fahrenheat LFP6152D",
+    "Fahrenheat LFP675D"
+   ],
+   "url": "https://www.manualslib.com/manual/688518/Marley-Lfp-Series.html"
+  },
+  {
+   "manualId": "2865666",
+   "slug": "Marley-Geareducer-3600",
+   "title": "Geareducer 3600 user manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "Geareducer 3600",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2865666/Marley-Geareducer-3600.html"
+  },
+  {
+   "manualId": "3907639",
+   "slug": "Marley-Geareducer-4000",
+   "title": "Geareducer 4000 user manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "Geareducer 4000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3907639/Marley-Geareducer-4000.html"
+  },
+  {
+   "manualId": "263449",
+   "slug": "Marley-Marley-Hp700",
+   "title": "HP7000 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "HP7000",
+   "extraModels": [
+    "HP7000"
+   ],
+   "url": "https://www.manualslib.com/manual/263449/Marley-Marley-Hp700.html"
+  },
+  {
+   "manualId": "1230560",
+   "slug": "Marley-Hra66420b",
+   "title": "HRA66420B Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "HRA66420B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1230560/Marley-Hra66420b.html"
+  },
+  {
+   "manualId": "1159319",
+   "slug": "Marley-Ht2024ssnw",
+   "title": "HT1502SSNW instruction manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "HT1502SSNW",
+   "extraModels": [
+    "HT1502SSNW",
+    "Qmark HT1502SS"
+   ],
+   "url": "https://www.manualslib.com/manual/1159319/Marley-Ht2024ssnw.html"
+  },
+  {
+   "manualId": "4332668",
+   "slug": "Marley-Smart-Series-Ht2024ss",
+   "title": "HT1502SSNW Operationsmanual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "HT1502SSNW",
+   "extraModels": [
+    "HT1502SSNW",
+    "HT2024SSNW",
+    "Smart Series FSSWH1502",
+    "Smart Series FSSWH2004",
+    "Smart Series HT1502SS"
+   ],
+   "url": "https://www.manualslib.com/manual/4332668/Marley-Smart-Series-Ht2024ss.html"
+  },
+  {
+   "manualId": "754271",
+   "slug": "Marley-Htss-Series",
+   "title": "HTSS Series Important instructions manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "HTSS Series",
+   "extraModels": [
+    "Qmark HT1502SS",
+    "Qmark HT2024SS"
+   ],
+   "url": "https://www.manualslib.com/manual/754271/Marley-Htss-Series.html"
+  },
+  {
+   "manualId": "821725",
+   "slug": "Marley-Htss-Series",
+   "title": "HTSS Series Important instructions manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "HTSS Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/821725/Marley-Htss-Series.html"
+  },
+  {
+   "manualId": "823481",
+   "slug": "Marley-Htwh-Series",
+   "title": "HTWH Series instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "HTWH Series",
+   "extraModels": [
+    "HTWH4004NV",
+    "HTWH4004SB",
+    "HTWH4007NV",
+    "HTWH4007SB",
+    "HTWH4008NV",
+    "HTWH4008SB"
+   ],
+   "url": "https://www.manualslib.com/manual/823481/Marley-Htwh-Series.html"
+  },
+  {
+   "manualId": "827239",
+   "slug": "Marley-U1000",
+   "title": "Insallation & maintenance manual",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/827239/Marley-U1000.html"
+  },
+  {
+   "manualId": "1050944",
+   "slug": "Marley-N1011b",
+   "title": "Installation & maintenance instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1050944/Marley-N1011b.html"
+  },
+  {
+   "manualId": "1245478",
+   "slug": "Marley-Mwuh",
+   "title": "Installation & maintenance instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1245478/Marley-Mwuh.html"
+  },
+  {
+   "manualId": "1497445",
+   "slug": "Marley-L-Series",
+   "title": "Installation & maintenance instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1497445/Marley-L-Series.html"
+  },
+  {
+   "manualId": "688514",
+   "slug": "Marley-U1000",
+   "title": "Installation & maintenance instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/688514/Marley-U1000.html"
+  },
+  {
+   "manualId": "816142",
+   "slug": "Marley-Dh1021c",
+   "title": "Installation & maintenance instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/816142/Marley-Dh1021c.html"
+  },
+  {
+   "manualId": "902910",
+   "slug": "Marley-Frc3027c",
+   "title": "Installation & maintenance instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/902910/Marley-Frc3027c.html"
+  },
+  {
+   "manualId": "947190",
+   "slug": "Marley-C4508d",
+   "title": "Installation & maintenance instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/947190/Marley-C4508d.html"
+  },
+  {
+   "manualId": "1071852",
+   "slug": "Marley-Uh-Series",
+   "title": "Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1071852/Marley-Uh-Series.html"
+  },
+  {
+   "manualId": "1262303",
+   "slug": "Marley-Rr41512",
+   "title": "Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1262303/Marley-Rr41512.html"
+  },
+  {
+   "manualId": "837846",
+   "slug": "Marley-542",
+   "title": "Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/837846/Marley-542.html"
+  },
+  {
+   "manualId": "912077",
+   "slug": "Marley-E3606-1125hfd",
+   "title": "Installation & operating instructions & parts manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/912077/Marley-E3606-1125hfd.html"
+  },
+  {
+   "manualId": "857163",
+   "slug": "Marley-1235-Series",
+   "title": "Installation and maintenance instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/857163/Marley-1235-Series.html"
+  },
+  {
+   "manualId": "827683",
+   "slug": "Marley-2500-Series",
+   "title": "Installation, operation & maintenance instructions",
+   "type": "Service",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/827683/Marley-2500-Series.html"
+  },
+  {
+   "manualId": "1073031",
+   "slug": "Marley-202slb",
+   "title": "Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1073031/Marley-202slb.html"
+  },
+  {
+   "manualId": "1506580",
+   "slug": "Marley-Mmh-Series",
+   "title": "instructions manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1506580/Marley-Mmh-Series.html"
+  },
+  {
+   "manualId": "466098",
+   "slug": "Marley-Mcm1503a",
+   "title": "instructions manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/466098/Marley-Mcm1503a.html"
+  },
+  {
+   "manualId": "1137417",
+   "slug": "Marley-K151fc",
+   "title": "K151FC Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "K151FC",
+   "extraModels": [
+    "K204FC",
+    "K303FC",
+    "K304FC",
+    "K306FC",
+    "K403FC",
+    "K404FC",
+    "K406FC",
+    "K4083FC",
+    "K408FC",
+    "K483FC",
+    "K484FC",
+    "K486FC",
+    "K487FC",
+    "K4883FC",
+    "K488FC"
+   ],
+   "url": "https://www.manualslib.com/manual/1137417/Marley-K151fc.html"
+  },
+  {
+   "manualId": "1988351",
+   "slug": "Marley-Classic-C10",
+   "title": "Marley CLASSIC C10 Operating & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [
+    "CLASSIC C20",
+    "CLASSIC C30",
+    "MC 100 E",
+    "MC 125 E",
+    "MC 150 E"
+   ],
+   "url": "https://www.manualslib.com/manual/1988351/Marley-Classic-C10.html"
+  },
+  {
+   "manualId": "1883903",
+   "slug": "Marley-Classic-C11",
+   "title": "Marley CLASSIC C11 Operating & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": null,
+   "extraModels": [
+    "CLASSIC C12",
+    "CLASSIC C21",
+    "CLASSIC C31",
+    "MC 100 VFN",
+    "MC 100 VN",
+    "MC 125 VN",
+    "MC 150 VN"
+   ],
+   "url": "https://www.manualslib.com/manual/1883903/Marley-Classic-C11.html"
+  },
+  {
+   "manualId": "926272",
+   "slug": "Marley-Fzl-Series",
+   "title": "Marley FZL Series Installation & Maintenance Instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/926272/Marley-Fzl-Series.html"
+  },
+  {
+   "manualId": "3872173",
+   "slug": "Marley-Heiz-Spar-Set",
+   "title": "Marley Heiz-Spar-Set Operating & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3872173/Marley-Heiz-Spar-Set.html"
+  },
+  {
+   "manualId": "840794",
+   "slug": "Marley-K404a",
+   "title": "Marley K404A Installation & Maintenance Instructions",
+   "type": "Service",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/840794/Marley-K404a.html"
+  },
+  {
+   "manualId": "841640",
+   "slug": "Marley-Lchhd24-O",
+   "title": "Marley LCHHD24-O Assembly And Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/841640/Marley-Lchhd24-O.html"
+  },
+  {
+   "manualId": "263448",
+   "slug": "Marley-Marley-Reflex-Marley-Reflex-Rtm",
+   "title": "Marley Marley Reflex Marley Reflex RTM Brochure",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/263448/Marley-Marley-Reflex-Marley-Reflex-Rtm.html"
+  },
+  {
+   "manualId": "1918441",
+   "slug": "Marley-Menv-180-Pro",
+   "title": "Marley MEnV 180 Pro Operating & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1918441/Marley-Menv-180-Pro.html"
+  },
+  {
+   "manualId": "1356245",
+   "slug": "Marley-Mm648",
+   "title": "Marley MM648 Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1356245/Marley-Mm648.html"
+  },
+  {
+   "manualId": "4062163",
+   "slug": "marley-nc-series-nc-modular-nc100-nc200-nc900-manual",
+   "title": "Marley NC Series, NC Modular, NC100, NC200, NC900 Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4062163/marley-nc-series-nc-modular-nc100-nc200-nc900-manual.html"
+  },
+  {
+   "manualId": "864072",
+   "slug": "Marley-Ph4ab",
+   "title": "Marley PH4AB Installation, Operation & Maintanance Instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/864072/Marley-Ph4ab.html"
+  },
+  {
+   "manualId": "1829494",
+   "slug": "Marley-Premium-P10",
+   "title": "Marley PREMIUM P10 Operating & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1829494/Marley-Premium-P10.html"
+  },
+  {
+   "manualId": "1690134",
+   "slug": "Marley-Premium-P11",
+   "title": "Marley Premium P11 Operating & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1690134/Marley-Premium-P11.html"
+  },
+  {
+   "manualId": "1679719",
+   "slug": "Marley-Premium-P12",
+   "title": "Marley Premium P12 Operating & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": null,
+   "extraModels": [
+    "MP 100 VFN"
+   ],
+   "url": "https://www.manualslib.com/manual/1679719/Marley-Premium-P12.html"
+  },
+  {
+   "manualId": "1879699",
+   "slug": "Marley-Premium-P12",
+   "title": "Marley PREMIUM P12 Operating & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": null,
+   "extraModels": [
+    "MP 100 VFN"
+   ],
+   "url": "https://www.manualslib.com/manual/1879699/Marley-Premium-P12.html"
+  },
+  {
+   "manualId": "2071234",
+   "slug": "Marley-Premium-P14",
+   "title": "Marley PREMIUM P14 Operating & Assembly Instructions",
+   "type": "User / Owner",
+   "pages": 29,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2071234/Marley-Premium-P14.html"
+  },
+  {
+   "manualId": "1524896",
+   "slug": "Marley-Uh-524ta",
+   "title": "Marley UH-524TA Installation & Maintenance Instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1524896/Marley-Uh-524ta.html"
+  },
+  {
+   "manualId": "823479",
+   "slug": "Marley-Wh-Series",
+   "title": "Marley WH Series Installation & Maintenance Instructions",
+   "type": "Service",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/823479/Marley-Wh-Series.html"
+  },
+  {
+   "manualId": "1605381",
+   "slug": "Marley-Md-Series",
+   "title": "MD Series user manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "MD Series",
+   "extraModels": [
+    "MD5006",
+    "MD5007",
+    "MD5008",
+    "MD5009",
+    "MD5010",
+    "MD5016",
+    "MD5017",
+    "MD5018"
+   ],
+   "url": "https://www.manualslib.com/manual/1605381/Marley-Md-Series.html"
+  },
+  {
+   "manualId": "886987",
+   "slug": "Marley-Md5016",
+   "title": "MD5016 installation manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "MD5016",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/886987/Marley-Md5016.html"
+  },
+  {
+   "manualId": "2077452",
+   "slug": "Marley-Menv-180-Ii",
+   "title": "MEnV 180 II Operating & assembly instructions",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "MEnV 180 II",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2077452/Marley-Menv-180-Ii.html"
+  },
+  {
+   "manualId": "1533260",
+   "slug": "Marley-Menv-180",
+   "title": "MEnV 180 Operating & assembly instructions",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "MEnV 180",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1533260/Marley-Menv-180.html"
+  },
+  {
+   "manualId": "1985829",
+   "slug": "Marley-Menv-180-Plus-60",
+   "title": "MEnV 180 plus 60 Operating & assembly instructions",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "MEnV 180 plus 60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1985829/Marley-Menv-180-Plus-60.html"
+  },
+  {
+   "manualId": "2337725",
+   "slug": "Marley-Menv-180-Plus",
+   "title": "MEnV 180 plus 60 Operating & assembly instructions",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "MEnV 180 plus 60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2337725/Marley-Menv-180-Plus.html"
+  },
+  {
+   "manualId": "811265",
+   "slug": "Marley-Mh",
+   "title": "MH engineering data",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "MH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/811265/Marley-Mh.html"
+  },
+  {
+   "manualId": "2032244",
+   "slug": "Marley-Ms-100vfn",
+   "title": "MS 100VFN installation instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "MS 100VFN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2032244/Marley-Ms-100vfn.html"
+  },
+  {
+   "manualId": "1098320",
+   "slug": "Marley-Mwuh5004a",
+   "title": "MWUH5004A Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "MWUH5004A",
+   "extraModels": [
+    "MWUH5008A"
+   ],
+   "url": "https://www.manualslib.com/manual/1098320/Marley-Mwuh5004a.html"
+  },
+  {
+   "manualId": "4056780",
+   "slug": "Marley-Nc-Series",
+   "title": "NC Modular Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "NC Modular",
+   "extraModels": [
+    "NC Modular",
+    "NC100",
+    "NC200",
+    "NC900"
+   ],
+   "url": "https://www.manualslib.com/manual/4056780/Marley-Nc-Series.html"
+  },
+  {
+   "manualId": "833606",
+   "slug": "Marley-Ph4ab",
+   "title": "PH4AB Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "PH4AB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/833606/Marley-Ph4ab.html"
+  },
+  {
+   "manualId": "872955",
+   "slug": "Marley-R1500",
+   "title": "R1500 Installation & maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "R1500",
+   "extraModels": [
+    "R1500T2",
+    "R2004",
+    "R2004T2",
+    "R2404",
+    "R2404T2"
+   ],
+   "url": "https://www.manualslib.com/manual/872955/Marley-R1500.html"
+  },
+  {
+   "manualId": "940907",
+   "slug": "Marley-S-Series",
+   "title": "S Series Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 46,
+   "productModel": "S Series",
+   "extraModels": [
+    "S1100B",
+    "S1104B",
+    "S1500B",
+    "S1504B"
+   ],
+   "url": "https://www.manualslib.com/manual/940907/Marley-S-Series.html"
+  },
+  {
+   "manualId": "1040727",
+   "slug": "Marley-S1500tb",
+   "title": "S1500TB Installation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "S1500TB",
+   "extraModels": [
+    "S1504TB"
+   ],
+   "url": "https://www.manualslib.com/manual/1040727/Marley-S1500tb.html"
+  },
+  {
+   "manualId": "1230547",
+   "slug": "Marley-Series-500",
+   "title": "Series 500 installation instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "Series 500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1230547/Marley-Series-500.html"
+  },
+  {
+   "manualId": "904794",
+   "slug": "Marley-Arwh1802",
+   "title": "Smart series ARWH1802 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "Smart series ARWH1802",
+   "extraModels": [
+    "Smart series ARWH4804",
+    "Smart series ARWH4807",
+    "Smart series ARWH4808"
+   ],
+   "url": "https://www.manualslib.com/manual/904794/Marley-Arwh1802.html"
+  },
+  {
+   "manualId": "1467581",
+   "slug": "Marley-Smart-Series-Arwh4807",
+   "title": "Smart series ARWH1802 Operation manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "Smart series ARWH1802",
+   "extraModels": [
+    "Smart series ARWH1802",
+    "Smart series ARWH4804",
+    "Smart series ARWH4808"
+   ],
+   "url": "https://www.manualslib.com/manual/1467581/Marley-Smart-Series-Arwh4807.html"
+  },
+  {
+   "manualId": "1230563",
+   "slug": "Marley-St02125",
+   "title": "ST02125 Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "ST02125",
+   "extraModels": [
+    "ST02188",
+    "ST02250",
+    "ST03125",
+    "ST03188",
+    "ST03250",
+    "ST04125",
+    "ST04250",
+    "ST05125",
+    "ST05188",
+    "ST05250",
+    "ST06125",
+    "ST06188",
+    "ST06250",
+    "ST08125",
+    "ST08188",
+    "ST08250",
+    "ST10125",
+    "ST10188",
+    "ST10250",
+    "STO4188"
+   ],
+   "url": "https://www.manualslib.com/manual/1230563/Marley-St02125.html"
+  },
+  {
+   "manualId": "1203136",
+   "slug": "Marley-Sv-100",
+   "title": "SV 100 installation instructions manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "SV 100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1203136/Marley-Sv-100.html"
+  },
+  {
+   "manualId": "1062678",
+   "slug": "Marley-U1000fa",
+   "title": "U1000FA Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "U1000FA",
+   "extraModels": [
+    "U1500FA",
+    "U2004FA",
+    "U2007FA"
+   ],
+   "url": "https://www.manualslib.com/manual/1062678/Marley-U1000fa.html"
+  },
+  {
+   "manualId": "1445199",
+   "slug": "Marley-Mmhd-1502tb",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1445199/Marley-Mmhd-1502tb.html"
+  },
+  {
+   "manualId": "263444",
+   "slug": "Marley-Hp7i",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/263444/Marley-Hp7i.html"
+  },
+  {
+   "manualId": "4184156",
+   "slug": "Marley-X72",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4184156/Marley-X72.html"
+  },
+  {
+   "manualId": "640354",
+   "slug": "Marley-H3",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/640354/Marley-H3.html"
+  },
+  {
+   "manualId": "1230561",
+   "slug": "Marley-Vrc4420sg",
+   "title": "VRC4420SG Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "VRC4420SG",
+   "extraModels": [
+    "VRC4440DTG",
+    "VRC4440DWG"
+   ],
+   "url": "https://www.manualslib.com/manual/1230561/Marley-Vrc4420sg.html"
+  },
+  {
+   "manualId": "1230555",
+   "slug": "Marley-Wd02112a",
+   "title": "WD02112A Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "WD02112A",
+   "extraModels": [
+    "WD02212A",
+    "WD02812A",
+    "WD03112A",
+    "WD03212A",
+    "WD03232A",
+    "WD03432A",
+    "WD03712A",
+    "WD03812A",
+    "WD03832A",
+    "WD05212A",
+    "WD05232A",
+    "WD05412A",
+    "WD05432A",
+    "WD05632A",
+    "WD05712A",
+    "WD05812A",
+    "WD05832A",
+    "WD07212A",
+    "WD07232A",
+    "WD07412A",
+    "WD07432A",
+    "WD07632A",
+    "WD07712A",
+    "WD07812A",
+    "WD07832A",
+    "WD10212A",
+    "WD10232A",
+    "WD10412A",
+    "WD10432A",
+    "WD10632A",
+    "WD10712A",
+    "WD10832A",
+    "WD12212A",
+    "WD12232A",
+    "WD12432A",
+    "WD12632A",
+    "WD12812A",
+    "WD12832A",
+    "WD15212A",
+    "WD15232A",
+    "WD15412A",
+    "WD15432A",
+    "WD15632A",
+    "WD15812A",
+    "WD15832A",
+    "WD20232A",
+    "WD20412A",
+    "WD20432A",
+    "WD20632A",
+    "WD25232A",
+    "WD25432A",
+    "WD25632A",
+    "WD25832A",
+    "WD30232A",
+    "WD30432A",
+    "WD30632A",
+    "WD30832A",
+    "WD39432A",
+    "WD39632A"
+   ],
+   "url": "https://www.manualslib.com/manual/1230555/Marley-Wd02112a.html"
+  },
+  {
+   "manualId": "1589211",
+   "slug": "Marley-Whb1000-Series",
+   "title": "WHB1000 Series Installation, operation & maintenance instructions manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "WHB1000 Series",
+   "extraModels": [
+    "WHB1101FC",
+    "WHB1151FC",
+    "WHB1157FC",
+    "WHB1201FC",
+    "WHB1202FC",
+    "WHB1207FC",
+    "WHB1208FC"
+   ],
+   "url": "https://www.manualslib.com/manual/1589211/Marley-Whb1000-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4062163",
+   "slug": "marley-nc-series-nc-modular-nc100-nc200-nc900-manual",
+   "title": "Marley NC Series, NC Modular, NC100, NC200, NC900 Manual"
+  }
+ ],
+ "techDirectIds": [
+  "marley-engineered-products"
+ ],
+ "scope": "Marley Engineered Products HVAC types only",
+ "scopeNote": "Marley Engineered Products HVAC types only per Oct 28, 2026 B2 program. heating-system included on title evidence (MEnV 180 ventilators). thermostat (generic titles), ventilation-hood (CLASSIC titles), and generic control types inconclusive, excluded and listed. water-pump (Layne title) belongs to another company, excluded.",
+ "includedTypes": [
+  "air-conditioner",
+  "electric-heater",
+  "fan",
+  "heater",
+  "heating-system"
+ ],
+ "excludedAmbiguousTypes": [
+  "control-panel",
+  "control-unit",
+  "controller",
+  "thermostat",
+  "ventilation-hood"
+ ],
+ "excludedTypeCount": 27
+}

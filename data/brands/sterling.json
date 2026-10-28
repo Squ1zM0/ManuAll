@@ -1,0 +1,591 @@
+{
+ "brand": "Sterling",
+ "brandSlug": "sterling",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/sterling/"
+ ],
+ "slugUsed": "sterling",
+ "capturedAt": "2026-10-28T13:12:36.005608+00:00",
+ "typePages": [
+  {
+   "path": "/brand/sterling/air-cleaner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sterling/air-conditioner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sterling/chiller.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/sterling/dehumidifier.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/sterling/fan.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/sterling/furnace.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/sterling/gas-heater.html",
+   "manuals": 53,
+   "status": 200
+  },
+  {
+   "path": "/brand/sterling/heater.html",
+   "manuals": 35,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "165478",
+   "slug": "Sterling-30f-To-65f",
+   "title": "30F to 65F Operation and installation manual",
+   "type": "Installation",
+   "pages": 43,
+   "productModel": "30F to 65F",
+   "extraModels": [
+    "SMC050",
+    "SMC100",
+    "SMC150"
+   ],
+   "url": "https://www.manualslib.com/manual/165478/Sterling-30f-To-65f.html"
+  },
+  {
+   "manualId": "481486",
+   "slug": "Sterling-A0554831",
+   "title": "A0554831 user manual",
+   "type": "User / Owner",
+   "pages": 70,
+   "productModel": "A0554831",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/481486/Sterling-A0554831.html"
+  },
+  {
+   "manualId": "1852949",
+   "slug": "Sterling-Fb-40mr",
+   "title": "FB-40MR instruction manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "FB-40MR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1852949/Sterling-Fb-40mr.html"
+  },
+  {
+   "manualId": "481481",
+   "slug": "Sterling-Gf-150",
+   "title": "GF-150 Installation instructions and parts list",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "GF-150",
+   "extraModels": [
+    "GF-250",
+    "GF-400",
+    "TF-100",
+    "TF-125",
+    "TF-150",
+    "TF-175",
+    "TF-200",
+    "TF-250",
+    "TF-300",
+    "TF-350",
+    "TF-400"
+   ],
+   "url": "https://www.manualslib.com/manual/481481/Sterling-Gf-150.html"
+  },
+  {
+   "manualId": "3814040",
+   "slug": "Sterling-Gg-30",
+   "title": "GG-30 installation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "GG-30",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3814040/Sterling-Gg-30.html"
+  },
+  {
+   "manualId": "3814042",
+   "slug": "Sterling-Gg-45",
+   "title": "GG-45 installation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "GG-45",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3814042/Sterling-Gg-45.html"
+  },
+  {
+   "manualId": "3814041",
+   "slug": "Sterling-Gg-60",
+   "title": "GG-60 installation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "GG-60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3814041/Sterling-Gg-60.html"
+  },
+  {
+   "manualId": "165349",
+   "slug": "Sterling-Tubular-Gas-Fired-Direct-Spark-Propeller-Unit-Heaters-Gg-120",
+   "title": "GG-90 installation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "GG-90",
+   "extraModels": [
+    "GG-90"
+   ],
+   "url": "https://www.manualslib.com/manual/165349/Sterling-Tubular-Gas-Fired-Direct-Spark-Propeller-Unit-Heaters-Gg-120.html"
+  },
+  {
+   "manualId": "165353",
+   "slug": "Sterling-Gp-Series",
+   "title": "GP Series user manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "GP Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165353/Sterling-Gp-Series.html"
+  },
+  {
+   "manualId": "1022119",
+   "slug": "Sterling-Jvb-Pm",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1022119/Sterling-Jvb-Pm.html"
+  },
+  {
+   "manualId": "1490747",
+   "slug": "Sterling-Versa-Line",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1490747/Sterling-Versa-Line.html"
+  },
+  {
+   "manualId": "1802281",
+   "slug": "Sterling-F-29a",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1802281/Sterling-F-29a.html"
+  },
+  {
+   "manualId": "857408",
+   "slug": "Sterling-Sterling-Gas-Fired-Propeller-Unit-Heaters",
+   "title": "M) Installation instructions & parts list",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "M)",
+   "extraModels": [
+    "M)",
+    "Gas Fired Propeller Unit Heaters",
+    "QVF 100",
+    "QVF 125",
+    "QVF 150",
+    "QVF 175",
+    "QVF 200",
+    "QVF 225",
+    "QVF 250",
+    "QVF 30",
+    "QVF 300",
+    "QVF 350",
+    "QVF 400 (S",
+    "QVF 45",
+    "QVF 60",
+    "QVF 75"
+   ],
+   "url": "https://www.manualslib.com/manual/857408/Sterling-Sterling-Gas-Fired-Propeller-Unit-Heaters.html"
+  },
+  {
+   "manualId": "2357009",
+   "slug": "Sterling-Hepapro-As800",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2357009/Sterling-Hepapro-As800.html"
+  },
+  {
+   "manualId": "2464101",
+   "slug": "Sterling-Se80tl",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2464101/Sterling-Se80tl.html"
+  },
+  {
+   "manualId": "917314",
+   "slug": "Sterling-Natural-Indoor-Gas-Fired-Duct-Furnace",
+   "title": "NATURAL INDOOR GAS-FIRED DUCT FURNACE Installation and service manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "NATURAL INDOOR GAS-FIRED DUCT FURNACE",
+   "extraModels": [
+    "NATURAL INDOOR GAS-FIRED DUCT FURNACE",
+    "POWER VENTED INDOOR GAS-FIRED DUCT FURNACE"
+   ],
+   "url": "https://www.manualslib.com/manual/917314/Sterling-Natural-Indoor-Gas-Fired-Duct-Furnace.html"
+  },
+  {
+   "manualId": "917917",
+   "slug": "Sterling-Outdoor-Rooftop-Gas-Fired-Duct-Furnace",
+   "title": "outdoor rooftop gas-fired duct furnace Installation and service manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "outdoor rooftop gas-fired duct furnace",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/917917/Sterling-Outdoor-Rooftop-Gas-Fired-Duct-Furnace.html"
+  },
+  {
+   "manualId": "1327247",
+   "slug": "Sterling-Svs4a-40cr",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1327247/Sterling-Svs4a-40cr.html"
+  },
+  {
+   "manualId": "2338891",
+   "slug": "Sterling-Se80t",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2338891/Sterling-Se80t.html"
+  },
+  {
+   "manualId": "803181",
+   "slug": "Sterling-Qvef100",
+   "title": "QVEF 100 M Installation & parts manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "QVEF 100 M",
+   "extraModels": [
+    "QVEF 100 S",
+    "QVEF 125 S",
+    "QVEF 150 S",
+    "QVEF 175 S",
+    "QVEF 200 S",
+    "QVEF 225 S",
+    "QVEF 250 S",
+    "QVEF 300 S",
+    "QVEF 350 S",
+    "QVEF 400 S",
+    "QVEF125",
+    "QVEF150",
+    "QVEF175",
+    "QVEF200",
+    "QVEF225",
+    "QVEF250",
+    "QVEF300",
+    "QVEF350",
+    "QVEF400"
+   ],
+   "url": "https://www.manualslib.com/manual/803181/Sterling-Qvef100.html"
+  },
+  {
+   "manualId": "733109",
+   "slug": "Sterling-Qvsd-100",
+   "title": "QVSD-100 Installation, instruction and service manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "QVSD-100",
+   "extraModels": [
+    "QVSD-125",
+    "QVSD-150",
+    "QVSD-175",
+    "QVSD-200",
+    "QVSD-225",
+    "QVSD-250",
+    "QVSD-300",
+    "QVSD-350",
+    "QVSD-400"
+   ],
+   "url": "https://www.manualslib.com/manual/733109/Sterling-Qvsd-100.html"
+  },
+  {
+   "manualId": "1189351",
+   "slug": "Sterling-Qvsf-100",
+   "title": "QVSF 100 Installation instructions & parts list",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "QVSF 100",
+   "extraModels": [
+    "QVSF 125",
+    "QVSF 150",
+    "QVSF 175",
+    "QVSF 200",
+    "QVSF 225",
+    "QVSF 250",
+    "QVSF 300",
+    "QVSF 350",
+    "QVSF 400"
+   ],
+   "url": "https://www.manualslib.com/manual/1189351/Sterling-Qvsf-100.html"
+  },
+  {
+   "manualId": "2503820",
+   "slug": "Sterling-Gp20-50-Series",
+   "title": "Reference manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2503820/Sterling-Gp20-50-Series.html"
+  },
+  {
+   "manualId": "165345",
+   "slug": "Sterling-Rf-30",
+   "title": "RF-30 Installation instructions and parts list",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "RF-30",
+   "extraModels": [
+    "RF-45",
+    "RF-60",
+    "RF-75",
+    "RF-90"
+   ],
+   "url": "https://www.manualslib.com/manual/165345/Sterling-Rf-30.html"
+  },
+  {
+   "manualId": "1651446",
+   "slug": "Sterling-Rsg-Series",
+   "title": "RSG 25 Manual",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "RSG 25",
+   "extraModels": [
+    "RSG 25",
+    "RSG 35",
+    "RSG 45"
+   ],
+   "url": "https://www.manualslib.com/manual/1651446/Sterling-Rsg-Series.html"
+  },
+  {
+   "manualId": "481485",
+   "slug": "Sterling-Sdaa-25-100",
+   "title": "SDAA 25-100 user manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "SDAA 25-100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/481485/Sterling-Sdaa-25-100.html"
+  },
+  {
+   "manualId": "720479",
+   "slug": "Sterling-Sdaa-25-100",
+   "title": "SDAA 25-100 user manual",
+   "type": "User / Owner",
+   "pages": 63,
+   "productModel": "SDAA 25-100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/720479/Sterling-Sdaa-25-100.html"
+  },
+  {
+   "manualId": "165342",
+   "slug": "Sterling-Sdf-500",
+   "title": "SDF 250 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "SDF 250",
+   "extraModels": [
+    "SDF 250",
+    "SDF 400"
+   ],
+   "url": "https://www.manualslib.com/manual/165342/Sterling-Sdf-500.html"
+  },
+  {
+   "manualId": "857480",
+   "slug": "Sterling-Sdfw",
+   "title": "SDFI Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "SDFI",
+   "extraModels": [
+    "SDFI"
+   ],
+   "url": "https://www.manualslib.com/manual/857480/Sterling-Sdfw.html"
+  },
+  {
+   "manualId": "165363",
+   "slug": "Sterling-Sdriom-2",
+   "title": "SDRIOM-2 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "SDRIOM-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165363/Sterling-Sdriom-2.html"
+  },
+  {
+   "manualId": "798498",
+   "slug": "Sterling-Separated-Combustion-Tubular-Gas-Fired-Unitheater",
+   "title": "Separated Combustion Tubular Gas Fired Unit Heater Installation instructions and parts list",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Separated Combustion Tubular Gas Fired Unit Heater",
+   "extraModels": [
+    "Separated Combustion Tubular Gas Fired Unit Heater",
+    "Separated Combustion Tubular Gas Fired UnitHeater"
+   ],
+   "url": "https://www.manualslib.com/manual/798498/Sterling-Separated-Combustion-Tubular-Gas-Fired-Unitheater.html"
+  },
+  {
+   "manualId": "626624",
+   "slug": "Sterling-Shr150",
+   "title": "SHR150 owner's manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "SHR150",
+   "extraModels": [
+    "SHR200"
+   ],
+   "url": "https://www.manualslib.com/manual/626624/Sterling-Shr150.html"
+  },
+  {
+   "manualId": "165337",
+   "slug": "Sterling-Sterlcool-Cfp05-30w",
+   "title": "STERLCOOL CFP05-25A Service and instruction manual",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "STERLCOOL CFP05-25A",
+   "extraModels": [
+    "STERLCOOL CFP05-25A",
+    "STERLCOOL CFP05-A",
+    "STERLCOOL CFP05-W",
+    "STERLCOOL CFP25-A",
+    "STERLCOOL CFP30-W"
+   ],
+   "url": "https://www.manualslib.com/manual/165337/Sterling-Sterlcool-Cfp05-30w.html"
+  },
+  {
+   "manualId": "165343",
+   "slug": "Sterling-Stt-110",
+   "title": "STT 110 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 57,
+   "productModel": "STT 110",
+   "extraModels": [
+    "STT 160"
+   ],
+   "url": "https://www.manualslib.com/manual/165343/Sterling-Stt-110.html"
+  },
+  {
+   "manualId": "3470432",
+   "slug": "Sterling-Stt-300",
+   "title": "STT 300 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 86,
+   "productModel": "STT 300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3470432/Sterling-Stt-300.html"
+  },
+  {
+   "manualId": "3470439",
+   "slug": "Sterling-Stt-800",
+   "title": "STT 800 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 86,
+   "productModel": "STT 800",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3470439/Sterling-Stt-800.html"
+  },
+  {
+   "manualId": "3582564",
+   "slug": "Sterling-Therm2200",
+   "title": "THERM2200 Handbook",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "THERM2200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3582564/Sterling-Therm2200.html"
+  },
+  {
+   "manualId": "3814039",
+   "slug": "Sterling-Tubular-Gas-Fired-Direct-Spark-Propeller-Unit-Heaters-Gg-105",
+   "title": "TUBULAR GAS FIRED DIRECT SPARK PROPELLER UNIT HEATERS GG-105 installation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "TUBULAR GAS FIRED DIRECT SPARK PROPELLER UNIT HEATERS GG-105",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3814039/Sterling-Tubular-Gas-Fired-Direct-Spark-Propeller-Unit-Heaters-Gg-105.html"
+  },
+  {
+   "manualId": "3814038",
+   "slug": "Sterling-Tubular-Gas-Fired-Direct-Spark-Propeller-Unit-Heaters-Gg-75",
+   "title": "TUBULAR GAS FIRED DIRECT SPARK PROPELLER UNIT HEATERS GG-75 installation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "TUBULAR GAS FIRED DIRECT SPARK PROPELLER UNIT HEATERS GG-75",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3814038/Sterling-Tubular-Gas-Fired-Direct-Spark-Propeller-Unit-Heaters-Gg-75.html"
+  },
+  {
+   "manualId": "1065554",
+   "slug": "Sterling-Tubular-Gas-Fired-Propeller-Unit-Heaters",
+   "title": "TUBULAR GAS FIRED PROPELLER UNIT HEATERS Installation instructions and parts list",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "TUBULAR GAS FIRED PROPELLER UNIT HEATERS",
+   "extraModels": [
+    "TUBULAR GAS FIRED PROPELLER UNIT HEATERS"
+   ],
+   "url": "https://www.manualslib.com/manual/1065554/Sterling-Tubular-Gas-Fired-Propeller-Unit-Heaters.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "sterling-hvac"
+ ],
+ "scope": "Sterling HVAC types only",
+ "scopeNote": "Sterling HVAC types only per Oct 28, 2026 B2 program. Sterling Plumbing (Kohler) bathtub/plumbing-fixture types excluded; ambiguous water/control types excluded and listed, never guessed in.",
+ "includedTypes": [
+  "air-cleaner",
+  "air-conditioner",
+  "chiller",
+  "dehumidifier",
+  "fan",
+  "furnace",
+  "gas-heater",
+  "heater"
+ ],
+ "excludedAmbiguousTypes": [
+  "control-unit",
+  "controller",
+  "dust-collector",
+  "temperature-controller",
+  "water-filtration-systems",
+  "water-heater",
+  "water-system"
+ ],
+ "excludedTypeCount": 49
+}

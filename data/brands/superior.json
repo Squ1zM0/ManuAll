@@ -1,0 +1,71 @@
+{
+ "brand": "Superior",
+ "brandSlug": "superior",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/superior/"
+ ],
+ "slugUsed": "superior",
+ "capturedAt": "2026-10-28T13:12:47.096878+00:00",
+ "typePages": [
+  {
+   "path": "/brand/superior/boiler.html",
+   "manuals": 5,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "4202537",
+   "slug": "Superior-Xb-6178",
+   "title": "10000155 user manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "10000155",
+   "extraModels": [
+    "10000155",
+    "10000158"
+   ],
+   "url": "https://www.manualslib.com/manual/4202537/Superior-Xb-6178.html"
+  },
+  {
+   "manualId": "1280803",
+   "slug": "Superior-Xb-6378",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1280803/Superior-Xb-6378.html"
+  },
+  {
+   "manualId": "1960549",
+   "slug": "Superior-Xb-6178-A",
+   "title": "XB 6178 A user manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "XB 6178 A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1960549/Superior-Xb-6178-A.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "superior-boiler"
+ ],
+ "scope": "Superior Boiler types only",
+ "scopeNote": "Superior Boiler types only per Oct 28, 2026 B2 program. Heating-adjacent types (gas-heater, heater, swimming-pool-heater) ambiguous, excluded and listed. Fireplace types belong to a different Superior company, excluded.",
+ "includedTypes": [
+  "boiler"
+ ],
+ "excludedAmbiguousTypes": [
+  "gas-heater",
+  "heater",
+  "swimming-pool-heater"
+ ],
+ "excludedTypeCount": 94
+}

@@ -1,0 +1,924 @@
+{
+ "brand": "Bryan Boilers",
+ "brandSlug": "bryan-boilers",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/bryan-boilers/"
+ ],
+ "slugUsed": "bryan-boilers",
+ "capturedAt": "2026-10-28T13:14:01.977314+00:00",
+ "typePages": [
+  {
+   "path": "/brand/bryan-boilers/boiler.html",
+   "manuals": 344,
+   "status": 200
+  },
+  {
+   "path": "/brand/bryan-boilers/boiler-supplies.html",
+   "manuals": 52,
+   "status": 200
+  },
+  {
+   "path": "/brand/bryan-boilers/control-systems.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/bryan-boilers/gateway.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/bryan-boilers/lawn-and-garden-equipment.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/bryan-boilers/swimming-pool-heater.html",
+   "manuals": 25,
+   "status": 200
+  },
+  {
+   "path": "/brand/bryan-boilers/vcr.html",
+   "manuals": 30,
+   "status": 200
+  },
+  {
+   "path": "/brand/bryan-boilers/ventilation-hood.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/bryan-boilers/water-dispenser.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/bryan-boilers/water-heater.html",
+   "manuals": 87,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "457845",
+   "slug": "Bryan-Boilers-A-H-Fs-15-12-50-D-Operati",
+   "title": "A-H-FS-15-12-50-D operati Installation and operating service manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "A-H-FS-15-12-50-D operati",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/457845/Bryan-Boilers-A-H-Fs-15-12-50-D-Operati.html"
+  },
+  {
+   "manualId": "3593115",
+   "slug": "Bryan-Boilers-Ab-Series",
+   "title": "AB Series Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "AB Series",
+   "extraModels": [
+    "AB120-S",
+    "AB150-S",
+    "AB200-S",
+    "AB250-S",
+    "AB300-S",
+    "AB90-S"
+   ],
+   "url": "https://www.manualslib.com/manual/3593115/Bryan-Boilers-Ab-Series.html"
+  },
+  {
+   "manualId": "22188",
+   "slug": "Bryan-Boilers-Ab-Series",
+   "title": "AB Series Brochure",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "AB Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22188/Bryan-Boilers-Ab-Series.html"
+  },
+  {
+   "manualId": "2034322",
+   "slug": "Bryan-Boilers-D-Series",
+   "title": "AB Series Installation, operation & service manual",
+   "type": "Service",
+   "pages": 37,
+   "productModel": "AB Series",
+   "extraModels": [
+    "AB Series",
+    "CL Series",
+    "F Series",
+    "K Series",
+    "RV Series",
+    "RW Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2034322/Bryan-Boilers-D-Series.html"
+  },
+  {
+   "manualId": "1015294",
+   "slug": "Bryan-Boilers-Clm-Series",
+   "title": "AB Series Installation, operation and service manual",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "AB Series",
+   "extraModels": [
+    "AB Series",
+    "F Series",
+    "HE-CLM Series",
+    "K Series",
+    "RV Series",
+    "RW Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1015294/Bryan-Boilers-Clm-Series.html"
+  },
+  {
+   "manualId": "22189",
+   "slug": "Bryan-Boilers-Ab120-W-Fdgo",
+   "title": "AB120-S Brochure & Specs",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "AB120-S",
+   "extraModels": [
+    "AB120-S",
+    "AB150-S",
+    "AB150-W",
+    "AB200-S",
+    "AB200-W",
+    "AB250-S",
+    "AB250-W",
+    "AB300-S",
+    "AB300-W",
+    "AB90-S",
+    "AB90-W"
+   ],
+   "url": "https://www.manualslib.com/manual/22189/Bryan-Boilers-Ab120-W-Fdgo.html"
+  },
+  {
+   "manualId": "250268",
+   "slug": "Bryan-Boilers-Water-Boiler",
+   "title": "AB120-W Specification Sheet",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "AB120-W",
+   "extraModels": [
+    "AB120-W",
+    "AB150-W",
+    "Knockdown K-350",
+    "Knockdown K-400",
+    "Knockdown K-450",
+    "Knockdown K-500",
+    "Knockdown K-550",
+    "Knockdown K-600",
+    "Knockdown K-650",
+    "AB200-W",
+    "AB250-W",
+    "AB300-W",
+    "AB90-W",
+    "CL75-W",
+    "CLM120-W",
+    "CLM150-W",
+    "CLM180-W",
+    "CLM210-W",
+    "CLM240-W",
+    "CLM270-W",
+    "CLM300-W",
+    "CLM90-W",
+    "D350-W",
+    "D450-W",
+    "D650-W",
+    "DR350-W",
+    "DR450-W",
+    "DR650-W",
+    "DR850-W",
+    "F350-W",
+    "F450-W",
+    "F650-W",
+    "F850-W",
+    "HE-CLM120",
+    "HE-CLM150",
+    "HE-CLM180",
+    "HE-CLM210",
+    "HE-CLM240",
+    "HE-CLM270",
+    "HE-CLM300",
+    "HE-CLM90",
+    "HECL75",
+    "HED305",
+    "HED350",
+    "HED450",
+    "HED650",
+    "Knockdown K-250",
+    "Knockdown K-300",
+    "Knockdown RV-250",
+    "Knockdown RV-300",
+    "Knockdown RV-350",
+    "Knockdown RV-400",
+    "Knockdown RV-450",
+    "Knockdown RV-500",
+    "Knockdown RV-550",
+    "Knockdown RV-600",
+    "Knockdown RV-700",
+    "Knockdown RV-800",
+    "RV200",
+    "RW1050",
+    "RW1260",
+    "RW1500",
+    "RW1700",
+    "RW1900",
+    "RW2100",
+    "RW850"
+   ],
+   "url": "https://www.manualslib.com/manual/250268/Bryan-Boilers-Water-Boiler.html"
+  },
+  {
+   "manualId": "2555347",
+   "slug": "Bryan-Boilers-Be-Series",
+   "title": "BE Series Installation and operating service manual",
+   "type": "Service",
+   "pages": 23,
+   "productModel": "BE Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2555347/Bryan-Boilers-Be-Series.html"
+  },
+  {
+   "manualId": "22221",
+   "slug": "Bryan-Boilers-Be-Series",
+   "title": "BE Series Specification sheet",
+   "type": "Other",
+   "pages": null,
+   "productModel": "BE Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22221/Bryan-Boilers-Be-Series.html"
+  },
+  {
+   "manualId": "3206966",
+   "slug": "Bryan-Boilers-Bfit-1000",
+   "title": "BFIT 1000 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "BFIT 1000",
+   "extraModels": [
+    "BFIT 1250",
+    "BFIT 1500",
+    "BFIT 2000",
+    "BFIT 2500",
+    "BFIT 3000",
+    "BFIT 3500",
+    "BFIT 4000",
+    "BFITW 2500",
+    "BFITW 3000",
+    "BFITW 3500",
+    "BFITW 4000"
+   ],
+   "url": "https://www.manualslib.com/manual/3206966/Bryan-Boilers-Bfit-1000.html"
+  },
+  {
+   "manualId": "3146641",
+   "slug": "Bryan-Boilers-Bfit-400",
+   "title": "BFIT 1000L Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 68,
+   "productModel": "BFIT 1000L",
+   "extraModels": [
+    "BFIT 1000L",
+    "BFIT 500",
+    "BFIT 650",
+    "BFIT 800"
+   ],
+   "url": "https://www.manualslib.com/manual/3146641/Bryan-Boilers-Bfit-400.html"
+  },
+  {
+   "manualId": "4164406",
+   "slug": "Bryan-Boilers-Bfit400c",
+   "title": "BFIT1000C Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "BFIT1000C",
+   "extraModels": [
+    "BFIT1000C",
+    "BFIT1250C",
+    "BFIT1500C",
+    "BFIT500C",
+    "BFIT650C",
+    "BFIT800C"
+   ],
+   "url": "https://www.manualslib.com/manual/4164406/Bryan-Boilers-Bfit400c.html"
+  },
+  {
+   "manualId": "4164414",
+   "slug": "Bryan-Boilers-Bfit400v",
+   "title": "BFIT1000V Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "BFIT1000V",
+   "extraModels": [
+    "BFIT1000V",
+    "BFIT1250V",
+    "BFIT1500V",
+    "BFIT500V",
+    "BFIT650V",
+    "BFIT800V"
+   ],
+   "url": "https://www.manualslib.com/manual/4164414/Bryan-Boilers-Bfit400v.html"
+  },
+  {
+   "manualId": "22190",
+   "slug": "Bryan-Boilers-B-26s-D",
+   "title": "Brochure",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22190/Bryan-Boilers-B-26s-D.html"
+  },
+  {
+   "manualId": "22195",
+   "slug": "Bryan-Boilers-Bryan-Dr-Series",
+   "title": "brochure",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22195/Bryan-Boilers-Bryan-Dr-Series.html"
+  },
+  {
+   "manualId": "22198",
+   "slug": "Bryan-Boilers-Cl-Series",
+   "title": "Brochure",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "F Series",
+    "RW Series"
+   ],
+   "url": "https://www.manualslib.com/manual/22198/Bryan-Boilers-Cl-Series.html"
+  },
+  {
+   "manualId": "22206",
+   "slug": "Bryan-Boilers-Eb-200-W-Fdgo",
+   "title": "Brochure & specs",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22206/Bryan-Boilers-Eb-200-W-Fdgo.html"
+  },
+  {
+   "manualId": "22217",
+   "slug": "Bryan-Boilers-Heat-Exchanger-Type-Pool-Heater",
+   "title": "Brochure & specs",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22217/Bryan-Boilers-Heat-Exchanger-Type-Pool-Heater.html"
+  },
+  {
+   "manualId": "22219",
+   "slug": "Bryan-Boilers-Steam-Exhaust-Heads-None",
+   "title": "Brochure & Specs",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22219/Bryan-Boilers-Steam-Exhaust-Heads-None.html"
+  },
+  {
+   "manualId": "22200",
+   "slug": "Bryan-Boilers-Clm-Series",
+   "title": "Bryan Boilers CLM Series Specification Sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "CLM120-W",
+    "CLM150-W",
+    "CLM180-W",
+    "CLM210-W",
+    "CLM240-W",
+    "CLM270-W",
+    "CLM300-W"
+   ],
+   "url": "https://www.manualslib.com/manual/22200/Bryan-Boilers-Clm-Series.html"
+  },
+  {
+   "manualId": "22201",
+   "slug": "Bryan-Boilers-Clm-150-S150-Gi",
+   "title": "Bryan Boilers CLM-150-S150-GI Brochure & Specs",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22201/Bryan-Boilers-Clm-150-S150-Gi.html"
+  },
+  {
+   "manualId": "22207",
+   "slug": "Bryan-Boilers-Flexible-Water-Tube-Boilers",
+   "title": "Bryan Boilers Flexible Water Tube Boilers Brochure",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22207/Bryan-Boilers-Flexible-Water-Tube-Boilers.html"
+  },
+  {
+   "manualId": "22211",
+   "slug": "Bryan-Boilers-Rv-Series",
+   "title": "Bryan Boilers RV Series Brochure & Specs",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22211/Bryan-Boilers-Rv-Series.html"
+  },
+  {
+   "manualId": "22225",
+   "slug": "Bryan-Boilers-Rv350",
+   "title": "Bryan Boilers RV350 Specification Sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "Knockdown RV-400"
+   ],
+   "url": "https://www.manualslib.com/manual/22225/Bryan-Boilers-Rv350.html"
+  },
+  {
+   "manualId": "22213",
+   "slug": "Bryan-Boilers-Rv500",
+   "title": "Bryan Boilers RV500 Specification Sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "Knockdown RV-450",
+    "Knockdown RV-550",
+    "Knockdown RV-600",
+    "Knockdown RV-700",
+    "Knockdown RV-800"
+   ],
+   "url": "https://www.manualslib.com/manual/22213/Bryan-Boilers-Rv500.html"
+  },
+  {
+   "manualId": "4529765",
+   "slug": "Bryan-Boilers-Bryan-Steam-Dst-Series",
+   "title": "Bryan Steam DST Series Installation and operating service manual",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "Bryan Steam DST Series",
+   "extraModels": [
+    "Bryan Steam DST Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4529765/Bryan-Boilers-Bryan-Steam-Dst-Series.html"
+  },
+  {
+   "manualId": "4529769",
+   "slug": "Bryan-Boilers-Bryan-Steam-Dtv-Series",
+   "title": "Bryan Steam DTV Series Installation and operating service manual",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "Bryan Steam DTV Series",
+   "extraModels": [
+    "Bryan Steam DTV Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4529769/Bryan-Boilers-Bryan-Steam-Dtv-Series.html"
+  },
+  {
+   "manualId": "22199",
+   "slug": "Bryan-Boilers-Clm",
+   "title": "CLM specification",
+   "type": "Other",
+   "pages": null,
+   "productModel": "CLM",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22199/Bryan-Boilers-Clm.html"
+  },
+  {
+   "manualId": "1320363",
+   "slug": "Bryan-Boilers-Concert",
+   "title": "Concert Instruction and operation manual",
+   "type": "User / Owner",
+   "pages": 69,
+   "productModel": "Concert",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1320363/Bryan-Boilers-Concert.html"
+  },
+  {
+   "manualId": "22186",
+   "slug": "Bryan-Boilers-150-Psi",
+   "title": "Dimensions",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [
+    "BE Series"
+   ],
+   "url": "https://www.manualslib.com/manual/22186/Bryan-Boilers-150-Psi.html"
+  },
+  {
+   "manualId": "767196",
+   "slug": "Bryan-Boilers-Electric-Water-Boilers",
+   "title": "Electric Water Boilers Installation, operation & service manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "Electric Water Boilers",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/767196/Bryan-Boilers-Electric-Water-Boilers.html"
+  },
+  {
+   "manualId": "802901",
+   "slug": "Bryan-Boilers-Electric-Steam-Boilers",
+   "title": "Electric Water Boilers Installation, operation & service manual",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "Electric Water Boilers",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/802901/Bryan-Boilers-Electric-Steam-Boilers.html"
+  },
+  {
+   "manualId": "1318134",
+   "slug": "Bryan-Boilers-Ff1000",
+   "title": "FF1000 Installation & operation manual",
+   "type": "Installation",
+   "pages": 85,
+   "productModel": "FF1000",
+   "extraModels": [
+    "FF1500",
+    "FF2000",
+    "FF2500",
+    "FF3000"
+   ],
+   "url": "https://www.manualslib.com/manual/1318134/Bryan-Boilers-Ff1000.html"
+  },
+  {
+   "manualId": "2508361",
+   "slug": "Bryan-Boilers-Free-Flex-Ff1000",
+   "title": "FF1000 Installation & operation manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "FF1000",
+   "extraModels": [
+    "FREE FLEX FF1500-3000",
+    "FREE FLEX FF3500-6000"
+   ],
+   "url": "https://www.manualslib.com/manual/2508361/Bryan-Boilers-Free-Flex-Ff1000.html"
+  },
+  {
+   "manualId": "250267",
+   "slug": "Bryan-Boilers-Forced-Draft-Steam-Boilers",
+   "title": "Forced Draft Steam Boilers Service manual",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "Forced Draft Steam Boilers",
+   "extraModels": [
+    "Forced Draft Steam Boilers"
+   ],
+   "url": "https://www.manualslib.com/manual/250267/Bryan-Boilers-Forced-Draft-Steam-Boilers.html"
+  },
+  {
+   "manualId": "2876840",
+   "slug": "Bryan-Boilers-Free-Flex",
+   "title": "FREE FLEX Installation & operation manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "FREE FLEX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2876840/Bryan-Boilers-Free-Flex.html"
+  },
+  {
+   "manualId": "22208",
+   "slug": "Bryan-Boilers-He-Clm-Series",
+   "title": "HE-CLM Series Brochure & specs",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "HE-CLM Series",
+   "extraModels": [
+    "HE-CLM120",
+    "HE-CLM150",
+    "HE-CLM180",
+    "HE-CLM210",
+    "HE-CLM240",
+    "HE-CLM270",
+    "HE-CLM300",
+    "HE-CLM90"
+   ],
+   "url": "https://www.manualslib.com/manual/22208/Bryan-Boilers-He-Clm-Series.html"
+  },
+  {
+   "manualId": "22224",
+   "slug": "Bryan-Boilers-K-Series",
+   "title": "K Series brochure",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "K Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22224/Bryan-Boilers-K-Series.html"
+  },
+  {
+   "manualId": "22196",
+   "slug": "Bryan-Boilers-Bryan-Knockdown-Clm-120-29",
+   "title": "Knockdown K-350 Brochure & Specs",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "Knockdown K-350",
+   "extraModels": [
+    "Knockdown K-350",
+    "Knockdown K-400",
+    "Knockdown K-450",
+    "Knockdown K-500",
+    "Knockdown K-550",
+    "Knockdown K-600",
+    "Knockdown K-650",
+    "Knockdown K-250",
+    "Knockdown K-300",
+    "Knockdown RV-250",
+    "Knockdown RV-300",
+    "Knockdown RV-350",
+    "Knockdown RV-400",
+    "Knockdown RV-450",
+    "Knockdown RV-500",
+    "Knockdown RV-550",
+    "Knockdown RV-600",
+    "Knockdown RV-700",
+    "Knockdown RV-800"
+   ],
+   "url": "https://www.manualslib.com/manual/22196/Bryan-Boilers-Bryan-Knockdown-Clm-120-29.html"
+  },
+  {
+   "manualId": "22209",
+   "slug": "Bryan-Boilers-K450",
+   "title": "Knockdown K-350 Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Knockdown K-350",
+   "extraModels": [
+    "Knockdown K-350",
+    "Knockdown K-400",
+    "Knockdown K-500",
+    "Knockdown K-550",
+    "Knockdown K-600",
+    "Knockdown K-650"
+   ],
+   "url": "https://www.manualslib.com/manual/22209/Bryan-Boilers-K450.html"
+  },
+  {
+   "manualId": "22212",
+   "slug": "Bryan-Boilers-Rv-Kd-Series",
+   "title": "Knockdown RV-450 parts list",
+   "type": "Parts & Wiring",
+   "pages": 2,
+   "productModel": "Knockdown RV-450",
+   "extraModels": [
+    "Knockdown RV-450",
+    "Knockdown RV-500",
+    "Knockdown RV-550",
+    "Knockdown RV-600",
+    "Knockdown RV-700",
+    "Knockdown RV-800"
+   ],
+   "url": "https://www.manualslib.com/manual/22212/Bryan-Boilers-Rv-Kd-Series.html"
+  },
+  {
+   "manualId": "22214",
+   "slug": "Bryan-Boilers-Tube-Steel-Boilers",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22214/Bryan-Boilers-Tube-Steel-Boilers.html"
+  },
+  {
+   "manualId": "457844",
+   "slug": "Bryan-Boilers-Dr-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "DR350-W",
+    "DR450-W",
+    "DR650-W",
+    "DR850-W"
+   ],
+   "url": "https://www.manualslib.com/manual/457844/Bryan-Boilers-Dr-Series.html"
+  },
+  {
+   "manualId": "22192",
+   "slug": "Bryan-Boilers-Bh-Series",
+   "title": "parts list",
+   "type": "Parts & Wiring",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22192/Bryan-Boilers-Bh-Series.html"
+  },
+  {
+   "manualId": "22205",
+   "slug": "Bryan-Boilers-Eb-Series",
+   "title": "product manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22205/Bryan-Boilers-Eb-Series.html"
+  },
+  {
+   "manualId": "22191",
+   "slug": "Bryan-Boilers-Be-210-W4t7",
+   "title": "specification",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22191/Bryan-Boilers-Be-210-W4t7.html"
+  },
+  {
+   "manualId": "22218",
+   "slug": "Bryan-Boilers-K-350-S150-Gi",
+   "title": "Specification",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "Knockdown K-400",
+    "Knockdown K-450",
+    "Knockdown K-500",
+    "Knockdown K-550",
+    "Knockdown K-600",
+    "Knockdown K-650"
+   ],
+   "url": "https://www.manualslib.com/manual/22218/Bryan-Boilers-K-350-S150-Gi.html"
+  },
+  {
+   "manualId": "22194",
+   "slug": "Bryan-Boilers-Broile-System",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22194/Bryan-Boilers-Broile-System.html"
+  },
+  {
+   "manualId": "22197",
+   "slug": "Bryan-Boilers-Cfs-15-20-20d",
+   "title": "Specification Sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22197/Bryan-Boilers-Cfs-15-20-20d.html"
+  },
+  {
+   "manualId": "22203",
+   "slug": "Bryan-Boilers-Dsh-10",
+   "title": "Specification Sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22203/Bryan-Boilers-Dsh-10.html"
+  },
+  {
+   "manualId": "22204",
+   "slug": "Bryan-Boilers-Dta-100",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22204/Bryan-Boilers-Dta-100.html"
+  },
+  {
+   "manualId": "22210",
+   "slug": "Bryan-Boilers-Ldtv-10",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22210/Bryan-Boilers-Ldtv-10.html"
+  },
+  {
+   "manualId": "22223",
+   "slug": "Bryan-Boilers-Clm-120-Wt-Fdg-844-Av-Cm-In",
+   "title": "Specification Sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22223/Bryan-Boilers-Clm-120-Wt-Fdg-844-Av-Cm-In.html"
+  },
+  {
+   "manualId": "22187",
+   "slug": "Bryan-Boilers-240bhs4t8",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22187/Bryan-Boilers-240bhs4t8.html"
+  },
+  {
+   "manualId": "22193",
+   "slug": "Bryan-Boilers-Bks2000",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22193/Bryan-Boilers-Bks2000.html"
+  },
+  {
+   "manualId": "22202",
+   "slug": "Bryan-Boilers-Dr250",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22202/Bryan-Boilers-Dr250.html"
+  },
+  {
+   "manualId": "22215",
+   "slug": "Bryan-Boilers-Clm120wp",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22215/Bryan-Boilers-Clm120wp.html"
+  },
+  {
+   "manualId": "22216",
+   "slug": "Bryan-Boilers-Clm300",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22216/Bryan-Boilers-Clm300.html"
+  },
+  {
+   "manualId": "22220",
+   "slug": "Bryan-Boilers-1770",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "Knockdown RV-500",
+    "Knockdown RV-550",
+    "Knockdown RV-600",
+    "Knockdown RV-700",
+    "Knockdown RV-800"
+   ],
+   "url": "https://www.manualslib.com/manual/22220/Bryan-Boilers-1770.html"
+  },
+  {
+   "manualId": "22222",
+   "slug": "Bryan-Boilers-Be-210-Wt4t7",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/22222/Bryan-Boilers-Be-210-Wt4t7.html"
+  },
+  {
+   "manualId": "457843",
+   "slug": "Bryan-Boilers-Triple-Flex-150",
+   "title": "Triple-Flex 150 Installation and operating service manual",
+   "type": "Service",
+   "pages": 81,
+   "productModel": "Triple-Flex 150",
+   "extraModels": [
+    "Triple-Flex 200",
+    "Triple-Flex 250",
+    "Triple-Flex 300"
+   ],
+   "url": "https://www.manualslib.com/manual/457843/Bryan-Boilers-Triple-Flex-150.html"
+  },
+  {
+   "manualId": "2936240",
+   "slug": "Bryan-Boilers-Ucg",
+   "title": "UCG Reference manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "UCG",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2936240/Bryan-Boilers-Ucg.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "bryan-steam"
+ ],
+ "scopeNote": "Bryan Steam captured under ManualsLib label 'Bryan Boilers' (/brand/bryan-boilers/); /brand/bryan-steam/ and /brand/bryan/ 404. Separate /brand/bryan-furnace/ page found (furnace type only) and NOT merged — held for Fred's call."
+}
