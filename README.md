@@ -23,8 +23,13 @@ stored here.
 
 Current runtime path (Price-Cal):
 
-1. The Manuals page fetches `dist/index.json` from this repository —
-   raw GitHub first, jsDelivr fallback, no proxy, no custom headers.
+1. The Manuals page fetches the index in four quarters from this
+   repository — `dist/index-1.json` through `dist/index-4.json` —
+   raw GitHub first, jsDelivr fallback per file, no proxy, no
+   custom headers. The app merges the four parts and serves the
+   combined index. If any quarter fails to load, the lookup fails
+   honestly instead of silently serving a partial index, and the
+   old single-file index is never used as a silent fallback.
 2. It matches the typed brand and model against the stored index
    (same slug rule, same exact/series-prefix matching, same
    show-all-within-the-series and ranking as the old live lookup).
@@ -54,25 +59,53 @@ code calls alone). The builder enforces the page-URL form; see
 
 ```
 data/brands/<brand-slug>.json   one file per brand (see docs/INDEX_FORMAT.md)
-scripts/build_index.py          assembles dist/index.json from data/brands/
-dist/index.json                 built index Price-Cal fetches (do not hand-edit)
+scripts/build_index.py          assembles the combined index from data/brands/
+dist/index-1.json .. index-4.json
+                                built index quarters Price-Cal fetches (do not
+                                hand-edit); brand-intact, size-balanced parts
+                                of the combined index (see "Quarters" below)
+dist/index.json                 Phase 1 legacy single-file index (10 brands);
+                                left in place, NOT read by the current app
 docs/INDEX_FORMAT.md            schema, builder usage, and fetch pattern
 NAVIGATION.md                   historical live-lookup spec (reference only)
 ```
 
+## Quarters — Oct 28, 2026
+
+The combined index (327 brands, 212,329 manuals) is 58.7 MB, which
+GitHub's API refuses as a single file. It is therefore published in
+four quarters, split by brand — no brand's manual list is split
+across parts — balanced by serialized size so each part is about
+14.7 MB:
+
+| Part | Brands | Manuals |
+|---|---|---|
+| dist/index-1.json | 80 | 52,153 |
+| dist/index-2.json | 82 | 51,617 |
+| dist/index-3.json | 82 | 54,665 |
+| dist/index-4.json | 83 | 53,894 |
+
+The 327 brands are 10 Phase 1 trade brands (33,588 manuals) plus
+317 HVAC-category brands captured from TechDirect's HVAC list
+(178,741 manuals). A brand slug appearing in two quarters is a
+build error, never silently overwritten. The quarters are the
+index; `dist/index.json` remains only as the Phase 1 legacy file.
+
 ## Fetch pattern for Price-Cal
 
-Raw GitHub first:
+Raw GitHub first, per quarter (N = 1..4):
 
 ```
-https://raw.githubusercontent.com/Squ1zM0/ManuAll/main/dist/index.json
+https://raw.githubusercontent.com/Squ1zM0/ManuAll/main/dist/index-N.json
 ```
 
-jsDelivr fallback:
+jsDelivr fallback, per quarter:
 
 ```
-https://cdn.jsdelivr.net/gh/Squ1zM0/ManuAll@main/dist/index.json
+https://cdn.jsdelivr.net/gh/Squ1zM0/ManuAll@main/dist/index-N.json
 ```
 
-Both are plain GETs with no custom headers. The index is fetched
-once per page session and cached in memory by the app.
+All are plain GETs with no custom headers. The app fetches all
+four quarters once per page session, merges them, and caches the
+merged index in memory. If any quarter fails on both hosts, the
+lookup fails instead of serving a partial index.
