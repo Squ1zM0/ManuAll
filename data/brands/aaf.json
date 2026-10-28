@@ -1,0 +1,532 @@
+{
+ "brand": "AAF",
+ "brandSlug": "aaf",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/aaf/"
+ ],
+ "slugUsed": "aaf",
+ "capturedAt": "2026-10-28T12:50:32.536596+00:00",
+ "typePages": [
+  {
+   "path": "/brand/aaf/air-cleaner.html",
+   "manuals": 33,
+   "status": 200
+  },
+  {
+   "path": "/brand/aaf/air-conditioner.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/aaf/control-unit.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/aaf/controller.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/aaf/dust-collector.html",
+   "manuals": 35,
+   "status": 200
+  },
+  {
+   "path": "/brand/aaf/fan.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/aaf/industrial-equipment.html",
+   "manuals": 29,
+   "status": 200
+  },
+  {
+   "path": "/brand/aaf/security-sensors.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/aaf/ventilation-hood.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/aaf/water-filtration-systems.html",
+   "manuals": 37,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2289445",
+   "slug": "Aaf-Arrestall-Ar-1-3-Fb",
+   "title": "ArrestAll AR 1-3 BV Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "ArrestAll AR 1-3 BV",
+   "extraModels": [
+    "ArrestAll AR 1-3 BV",
+    "ArrestAll AR 1-3 DC",
+    "ArrestAll AR 1-3 DD",
+    "ArrestAll AR 2-10 BV",
+    "ArrestAll AR 2-10 DC",
+    "ArrestAll AR 2-10 FB",
+    "ArrestAll AR 2-5 BV",
+    "ArrestAll AR 2-5 DC",
+    "ArrestAll AR 2-5 FB",
+    "ArrestAll AR 2-7.5 BV",
+    "ArrestAll AR 2-7.5 DC",
+    "ArrestAll AR 2-7.5 FB",
+    "ArrestAll AR 3-10 BV",
+    "ArrestAll AR 3-10 DC",
+    "ArrestAll AR 3-10 FB",
+    "ArrestAll AR 3-15 BV",
+    "ArrestAll AR 3-15 DC",
+    "ArrestAll AR 3-15 FB",
+    "ArrestAll AR 4-10 BV",
+    "ArrestAll AR 4-10 FB",
+    "ArrestAll AR 4-15H BV",
+    "ArrestAll AR 4-15H FB",
+    "ArrestAll AR 4-15L BV",
+    "ArrestAll AR 4-15L FB",
+    "ArrestAll AR 4-20 BV",
+    "ArrestAll AR 4-20 FB",
+    "ArrestAll AR 6-20 BV",
+    "ArrestAll AR 6-20 FB",
+    "ArrestAll AR 6-25 BV",
+    "ArrestAll AR 6-25 FB"
+   ],
+   "url": "https://www.manualslib.com/manual/2289445/Aaf-Arrestall-Ar-1-3-Fb.html"
+  },
+  {
+   "manualId": "3396090",
+   "slug": "Aaf-Astrofan-Base",
+   "title": "AstroFan Base instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "AstroFan Base",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3396090/Aaf-Astrofan-Base.html"
+  },
+  {
+   "manualId": "2129219",
+   "slug": "Aaf-Astrofan-Ec-Ffu",
+   "title": "AstroFan EC FFU Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "AstroFan EC FFU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2129219/Aaf-Astrofan-Ec-Ffu.html"
+  },
+  {
+   "manualId": "3932830",
+   "slug": "Aaf-Astrofan-Ffu",
+   "title": "AstroFan FFU instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "AstroFan FFU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3932830/Aaf-Astrofan-Ffu.html"
+  },
+  {
+   "manualId": "2075203",
+   "slug": "Aaf-Astropure-2000",
+   "title": "AstroPure 2000 Installation and operation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "AstroPure 2000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2075203/Aaf-Astropure-2000.html"
+  },
+  {
+   "manualId": "2160965",
+   "slug": "Aaf-Astropure-2000",
+   "title": "AstroPure 2000 Installation and operation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "AstroPure 2000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2160965/Aaf-Astropure-2000.html"
+  },
+  {
+   "manualId": "3428667",
+   "slug": "Aaf-Br00000676",
+   "title": "AstroPure 2000 Installation and operation manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "AstroPure 2000",
+   "extraModels": [
+    "AstroPure 2000",
+    "BR00000554",
+    "BR00000678"
+   ],
+   "url": "https://www.manualslib.com/manual/3428667/Aaf-Br00000676.html"
+  },
+  {
+   "manualId": "3487716",
+   "slug": "Aaf-Astropure-600n",
+   "title": "AstroPure 600N Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "AstroPure 600N",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3487716/Aaf-Astropure-600n.html"
+  },
+  {
+   "manualId": "2636863",
+   "slug": "Aaf-Coppa-2",
+   "title": "COPPA 2 Instructions for use and maintenance manual",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "COPPA 2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2636863/Aaf-Coppa-2.html"
+  },
+  {
+   "manualId": "2523967",
+   "slug": "Aaf-Fabripulse-Binvent",
+   "title": "FabriPulse BinVent Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 23,
+   "productModel": "FabriPulse BinVent",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2523967/Aaf-Fabripulse-Binvent.html"
+  },
+  {
+   "manualId": "2128714",
+   "slug": "Aaf-Fabripulse-M",
+   "title": "FabriPulse M Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 37,
+   "productModel": "FabriPulse M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2128714/Aaf-Fabripulse-M.html"
+  },
+  {
+   "manualId": "2947712",
+   "slug": "Aaf-Fah-202-2p-Md",
+   "title": "FAH-102-2P-HD Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "FAH-102-2P-HD",
+   "extraModels": [
+    "FAH-102-2P-HD",
+    "FAH-102-2P-MD",
+    "FAH-201-2P-CG",
+    "FAH-201-2P-HD",
+    "FAH-201-2P-MD",
+    "FAH-202-2P-CG",
+    "FAH-202-2P-HD"
+   ],
+   "url": "https://www.manualslib.com/manual/2947712/Aaf-Fah-202-2p-Md.html"
+  },
+  {
+   "manualId": "2309893",
+   "slug": "Aaf-Flanders-Astropure-500-Ir",
+   "title": "Flanders 393-500-100 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 21,
+   "productModel": "Flanders 393-500-100",
+   "extraModels": [
+    "Flanders 393-500-100",
+    "Flanders 393-500-200",
+    "Flanders 393-500-300",
+    "Flanders 393-500-400",
+    "Flanders AstroPure 1000-IE",
+    "Flanders AstroPure 1000-IR",
+    "Flanders AstroPure 500-IE"
+   ],
+   "url": "https://www.manualslib.com/manual/2309893/Aaf-Flanders-Astropure-500-Ir.html"
+  },
+  {
+   "manualId": "2188974",
+   "slug": "Aaf-Flanders-Astrohood-S-I",
+   "title": "Flanders AstroHood S-I Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 19,
+   "productModel": "Flanders AstroHood S-I",
+   "extraModels": [
+    "Flanders AstroHood S-II",
+    "HCFA 2424",
+    "HCFA 2448"
+   ],
+   "url": "https://www.manualslib.com/manual/2188974/Aaf-Flanders-Astrohood-S-I.html"
+  },
+  {
+   "manualId": "2936051",
+   "slug": "Aaf-Flanders-Saaf-Ru500v",
+   "title": "Flanders SAAF PRU1000V Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "Flanders SAAF PRU1000V",
+   "extraModels": [
+    "Flanders SAAF PRU1000V",
+    "Flanders SAAF PRU2000V",
+    "Flanders SAAF PRU4000V",
+    "Flanders SAAF PRU500V",
+    "Flanders SAAF RU1000V",
+    "Flanders SAAF RU2000V",
+    "Flanders SAAF RU4000V"
+   ],
+   "url": "https://www.manualslib.com/manual/2936051/Aaf-Flanders-Saaf-Ru500v.html"
+  },
+  {
+   "manualId": "2177971",
+   "slug": "Aaf-Astrohood-S-Lll-Rsr",
+   "title": "HCFA 2424 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "HCFA 2424",
+   "extraModels": [
+    "HCFA 2424",
+    "HCFA 2448",
+    "Flanders AstroHood S-III"
+   ],
+   "url": "https://www.manualslib.com/manual/2177971/Aaf-Astrohood-S-Lll-Rsr.html"
+  },
+  {
+   "manualId": "931645",
+   "slug": "Aaf-Hermannelson-Im-725",
+   "title": "HermanNelson IM 725 installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "HermanNelson IM 725",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/931645/Aaf-Hermannelson-Im-725.html"
+  },
+  {
+   "manualId": "2792428",
+   "slug": "Aaf-Hfs800c",
+   "title": "HFS800C Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "HFS800C",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2792428/Aaf-Hfs800c.html"
+  },
+  {
+   "manualId": "1472469",
+   "slug": "Aaf-Tm4",
+   "title": "Installation, operation and maintanance instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1472469/Aaf-Tm4.html"
+  },
+  {
+   "manualId": "1892562",
+   "slug": "Aaf-Flanders-Saafshield",
+   "title": "Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1892562/Aaf-Flanders-Saafshield.html"
+  },
+  {
+   "manualId": "2039187",
+   "slug": "Aaf-Saafshield",
+   "title": "Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2039187/Aaf-Saafshield.html"
+  },
+  {
+   "manualId": "2871688",
+   "slug": "Aaf-Americanairfilter-K",
+   "title": "Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2871688/Aaf-Americanairfilter-K.html"
+  },
+  {
+   "manualId": "6035",
+   "slug": "Aaf-Uv05",
+   "title": "MicroTech II UV05 Operation & maintenance manual",
+   "type": "Service",
+   "pages": 50,
+   "productModel": "MicroTech II UV05",
+   "extraModels": [
+    "MicroTech II UV05"
+   ],
+   "url": "https://www.manualslib.com/manual/6035/Aaf-Uv05.html"
+  },
+  {
+   "manualId": "1330779",
+   "slug": "Aaf-Av",
+   "title": "Operation And Maintenance",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1330779/Aaf-Av.html"
+  },
+  {
+   "manualId": "1639286",
+   "slug": "Aaf-Optiflo-Rc-Series",
+   "title": "OptiFlo 2RC16 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 31,
+   "productModel": "OptiFlo 2RC16",
+   "extraModels": [
+    "OptiFlo 2RC16",
+    "OptiFlo 2RC24",
+    "OptiFlo 2RC4",
+    "OptiFlo 2RC8",
+    "OptiFlo 3RC24",
+    "OptiFlo 3RC36",
+    "OptiFlo 3RC48",
+    "OptiFlo 3RC6",
+    "OptiFlo 3RC60",
+    "OptiFlo 4RC11",
+    "OptiFlo 4RC16",
+    "OptiFlo 4RC32",
+    "OptiFlo 4RC48",
+    "OptiFlo 4RC64",
+    "OptiFlo 4RC80",
+    "OptiFlo 4RC96",
+    "OptiFlo 5RC100",
+    "OptiFlo 5RC120",
+    "OptiFlo 5RC140",
+    "OptiFlo 5RC160",
+    "OptiFlo 5RC180",
+    "OptiFlo 5RC20",
+    "OptiFlo 5RC40",
+    "OptiFlo 5RC60",
+    "OptiFlo 5RC80"
+   ],
+   "url": "https://www.manualslib.com/manual/1639286/Aaf-Optiflo-Rc-Series.html"
+  },
+  {
+   "manualId": "3859505",
+   "slug": "Aaf-Optiflo-3rc12",
+   "title": "OptiFlo 3RC12 Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 31,
+   "productModel": "OptiFlo 3RC12",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3859505/Aaf-Optiflo-3rc12.html"
+  },
+  {
+   "manualId": "1458774",
+   "slug": "Aaf-Pulsepak-Prime-2-1h",
+   "title": "PulsePak Prime 10-2H Installation, operation and maintanance manual",
+   "type": "Installation",
+   "pages": 38,
+   "productModel": "PulsePak Prime 10-2H",
+   "extraModels": [
+    "PulsePak Prime 10-2H",
+    "PulsePak Prime 12-3H",
+    "PulsePak Prime 15-3H",
+    "PulsePak Prime 16-2H",
+    "PulsePak Prime 18-3H",
+    "PulsePak Prime 20-2H",
+    "PulsePak Prime 24-2H",
+    "PulsePak Prime 24-3H",
+    "PulsePak Prime 27-3H",
+    "PulsePak Prime 28-2H",
+    "PulsePak Prime 3-1H",
+    "PulsePak Prime 30-3H",
+    "PulsePak Prime 33-3H",
+    "PulsePak Prime 36-3H",
+    "PulsePak Prime 4-1H",
+    "PulsePak Prime 42-3H",
+    "PulsePak Prime 45-3H",
+    "PulsePak Prime 6-2H",
+    "PulsePak Prime 8-2H",
+    "PulsePak Prime 9-3H"
+   ],
+   "url": "https://www.manualslib.com/manual/1458774/Aaf-Pulsepak-Prime-2-1h.html"
+  },
+  {
+   "manualId": "2494897",
+   "slug": "Aaf-Astropure-550c",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2494897/Aaf-Astropure-550c.html"
+  },
+  {
+   "manualId": "1933459",
+   "slug": "Aaf-Rotoclone-Lvn",
+   "title": "RotoClone LVN Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 26,
+   "productModel": "RotoClone LVN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1933459/Aaf-Rotoclone-Lvn.html"
+  },
+  {
+   "manualId": "2590775",
+   "slug": "Aaf-Rotoclone-W",
+   "title": "RotoClone W Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 46,
+   "productModel": "RotoClone W",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2590775/Aaf-Rotoclone-W.html"
+  },
+  {
+   "manualId": "1640933",
+   "slug": "Aaf-Saaf-Porta-Scrubber-Ps-200",
+   "title": "SAAF PORTA-Scrubber PS-200 Installation, operation and maintenance instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "SAAF PORTA-Scrubber PS-200",
+   "extraModels": [
+    "SAAF PORTA-Scrubber PS-200NP",
+    "SAAF PORTA-Scrubber PS-500",
+    "SAAF PORTA-Scrubber PS-500NP"
+   ],
+   "url": "https://www.manualslib.com/manual/1640933/Aaf-Saaf-Porta-Scrubber-Ps-200.html"
+  },
+  {
+   "manualId": "1615666",
+   "slug": "Aaf-Astrocel-I-Htp",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1615666/Aaf-Astrocel-I-Htp.html"
+  },
+  {
+   "manualId": "4179293",
+   "slug": "Aaf-Wondair-Max",
+   "title": "WONDAIR Max Installation and operations manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "WONDAIR Max",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4179293/Aaf-Wondair-Max.html"
+  },
+  {
+   "manualId": "4179302",
+   "slug": "Aaf-Wondair-Mid",
+   "title": "WONDAIR Mid Installation and operations manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "WONDAIR Mid",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4179302/Aaf-Wondair-Mid.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "aaf-international-american-air-filter"
+ ]
+}

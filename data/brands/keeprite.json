@@ -1,0 +1,249 @@
+{
+ "brand": "KeepRite",
+ "brandSlug": "keeprite",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/keeprite/"
+ ],
+ "slugUsed": "keeprite",
+ "capturedAt": "2026-10-28T12:50:04.102270+00:00",
+ "typePages": [
+  {
+   "path": "/brand/keeprite/air-conditioner.html",
+   "manuals": 34,
+   "status": 200
+  },
+  {
+   "path": "/brand/keeprite/air-compressor.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/keeprite/air-handlers.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/keeprite/furnace.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/keeprite/heat-pump.html",
+   "manuals": 5,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3836851",
+   "slug": "Keeprite-C4a3",
+   "title": "C4A3 installation instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "C4A3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3836851/Keeprite-C4a3.html"
+  },
+  {
+   "manualId": "1116615",
+   "slug": "Keeprite-N4a3",
+   "title": "C4A4 installation instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "C4A4",
+   "extraModels": [
+    "C4A4",
+    "H4A3",
+    "H4A4",
+    "T4A3",
+    "T4A4"
+   ],
+   "url": "https://www.manualslib.com/manual/1116615/Keeprite-N4a3.html"
+  },
+  {
+   "manualId": "845333",
+   "slug": "Keeprite-R-410a",
+   "title": "C4A6 installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "C4A6",
+   "extraModels": [
+    "C4A6",
+    "C4A8",
+    "H4A6",
+    "H4A8",
+    "T4A6",
+    "T4A8"
+   ],
+   "url": "https://www.manualslib.com/manual/845333/Keeprite-R-410a.html"
+  },
+  {
+   "manualId": "1207866",
+   "slug": "Keeprite-Dlfcab",
+   "title": "DLCCAR Installation Instruction",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "DLCCAR",
+   "extraModels": [
+    "DLCCAR",
+    "DLCCHR",
+    "DLCDAR",
+    "DLCDHR",
+    "DLFCHB",
+    "DLFDAB",
+    "DLFDHB"
+   ],
+   "url": "https://www.manualslib.com/manual/1207866/Keeprite-Dlfcab.html"
+  },
+  {
+   "manualId": "1359764",
+   "slug": "Keeprite-Dlfcab",
+   "title": "DLCCAR Service manual",
+   "type": "Service",
+   "pages": 83,
+   "productModel": "DLCCAR",
+   "extraModels": [
+    "DLCCAR",
+    "DLCCHR",
+    "DLCDAR",
+    "DLCDHR",
+    "DLFCHB",
+    "DLFDAB",
+    "DLFDHB"
+   ],
+   "url": "https://www.manualslib.com/manual/1359764/Keeprite-Dlfcab.html"
+  },
+  {
+   "manualId": "3541012",
+   "slug": "Keeprite-Dlcpra-Series",
+   "title": "DLCPRA Series Service manual",
+   "type": "Service",
+   "pages": 66,
+   "productModel": "DLCPRA Series",
+   "extraModels": [
+    "DLCPRAH09AAK",
+    "DLCPRAH12AAK",
+    "DLCPRAH18AAK",
+    "DLCPRAH24AAK"
+   ],
+   "url": "https://www.manualslib.com/manual/3541012/Keeprite-Dlcpra-Series.html"
+  },
+  {
+   "manualId": "4194657",
+   "slug": "Keeprite-Dlfuaa",
+   "title": "DLFUAA installation instructions manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "DLFUAA",
+   "extraModels": [
+    "DLFUAAH60XAK"
+   ],
+   "url": "https://www.manualslib.com/manual/4194657/Keeprite-Dlfuaa.html"
+  },
+  {
+   "manualId": "3222110",
+   "slug": "Keeprite-F96vtn",
+   "title": "F96VTN Installation, Start-Up, Operating And Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "F96VTN",
+   "extraModels": [
+    "G96VTN0801716A"
+   ],
+   "url": "https://www.manualslib.com/manual/3222110/Keeprite-F96vtn.html"
+  },
+  {
+   "manualId": "3104645",
+   "slug": "Keeprite-F9mac-Series",
+   "title": "F9MAC Series Service and technical support manual",
+   "type": "Service",
+   "pages": 39,
+   "productModel": "F9MAC Series",
+   "extraModels": [
+    "F9MAC0601714A",
+    "F9MAC0602120A",
+    "F9MAC0801714A",
+    "F9MAC0802120A",
+    "F9MAC1002122A",
+    "F9MAC1202422A",
+    "G9MAC Series",
+    "G9MAC0601714A",
+    "G9MAC0602120A",
+    "G9MAC0801714A",
+    "G9MAC0802120A",
+    "G9MAC1002122A",
+    "G9MAC1202422A"
+   ],
+   "url": "https://www.manualslib.com/manual/3104645/Keeprite-F9mac-Series.html"
+  },
+  {
+   "manualId": "3924379",
+   "slug": "Keeprite-G96vtn",
+   "title": "G96VTN Installation, Start-Up, Operating And Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "G96VTN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3924379/Keeprite-G96vtn.html"
+  },
+  {
+   "manualId": "794068",
+   "slug": "Keeprite-K40-Cu-Im-13",
+   "title": "K40-CU-IM-13 Installation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "K40-CU-IM-13",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/794068/Keeprite-K40-Cu-Im-13.html"
+  },
+  {
+   "manualId": "2100087",
+   "slug": "Keeprite-Klp-Series",
+   "title": "KLP Series Product Data & Installation",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "KLP Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2100087/Keeprite-Klp-Series.html"
+  },
+  {
+   "manualId": "3836852",
+   "slug": "Keeprite-N4a4",
+   "title": "N4A4 installation instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "N4A4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3836852/Keeprite-N4a4.html"
+  },
+  {
+   "manualId": "2577668",
+   "slug": "Keeprite-Parallel",
+   "title": "Parallel Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "Parallel",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2577668/Keeprite-Parallel.html"
+  },
+  {
+   "manualId": "1058030",
+   "slug": "Keeprite-Procomfort-Dlfahh-Dlcahb",
+   "title": "ProComfort DLFAHH/DLCAHB owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "ProComfort DLFAHH/DLCAHB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1058030/Keeprite-Procomfort-Dlfahh-Dlcahb.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "keeprite-refrigeration"
+ ]
+}

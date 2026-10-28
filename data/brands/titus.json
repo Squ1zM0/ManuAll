@@ -1,0 +1,824 @@
+{
+ "brand": "Titus",
+ "brandSlug": "titus",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/titus/"
+ ],
+ "slugUsed": "titus",
+ "capturedAt": "2026-10-28T12:50:22.278131+00:00",
+ "typePages": [
+  {
+   "path": "/brand/titus/indoor-furnishing.html",
+   "manuals": 34,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/accessories.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/air-cleaner.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/air-conditioner.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/bicycle.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/cables-and-connectors.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/chiller.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/control-unit.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/controller.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/fan.html",
+   "manuals": 44,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/lcd-drawer.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/measuring-instruments.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/repeater.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/speakers.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/temperature-controller.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/thermostat.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/touch-terminals.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/ventilation-hood.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/titus/water-filtration-systems.html",
+   "manuals": 17,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "994566",
+   "slug": "Titus-3-Drx",
+   "title": "3-DRX Installation and operating manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "3-DRX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/994566/Titus-3-Drx.html"
+  },
+  {
+   "manualId": "2904846",
+   "slug": "Titus-655-9152",
+   "title": "655-7H60 Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "655-7H60",
+   "extraModels": [
+    "655-7H60",
+    "655-7H80",
+    "655-7L60",
+    "655-7L80",
+    "655-7M60",
+    "655-7M80",
+    "655-8016",
+    "655-8017",
+    "655-8018",
+    "655-9152-040-K1"
+   ],
+   "url": "https://www.manualslib.com/manual/2904846/Titus-655-9152.html"
+  },
+  {
+   "manualId": "1607649",
+   "slug": "Titus-Aerocross",
+   "title": "Application manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1607649/Titus-Aerocross.html"
+  },
+  {
+   "manualId": "2757545",
+   "slug": "Titus-Lp-Double",
+   "title": "Assembly instruction",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2757545/Titus-Lp-Double.html"
+  },
+  {
+   "manualId": "4253499",
+   "slug": "Titus-R-183",
+   "title": "Assembly instruction",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4253499/Titus-R-183.html"
+  },
+  {
+   "manualId": "2963993",
+   "slug": "Titus-R-110",
+   "title": "Assembly instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2963993/Titus-R-110.html"
+  },
+  {
+   "manualId": "4333032",
+   "slug": "Titus-Bac-8005",
+   "title": "BAC-8005 installation manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "BAC-8005",
+   "extraModels": [
+    "BAC-8205"
+   ],
+   "url": "https://www.manualslib.com/manual/4333032/Titus-Bac-8005.html"
+  },
+  {
+   "manualId": "2433909",
+   "slug": "Titus-Bac-8007",
+   "title": "BAC-8007 Installation & operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "BAC-8007",
+   "extraModels": [
+    "BAC-8207"
+   ],
+   "url": "https://www.manualslib.com/manual/2433909/Titus-Bac-8007.html"
+  },
+  {
+   "manualId": "3696438",
+   "slug": "Titus-Ecoair-Tt-Series",
+   "title": "BM060-TT6 installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "BM060-TT6",
+   "extraModels": [
+    "BM060-TT6"
+   ],
+   "url": "https://www.manualslib.com/manual/3696438/Titus-Ecoair-Tt-Series.html"
+  },
+  {
+   "manualId": "4206131",
+   "slug": "Titus-Cbaw",
+   "title": "CBAB Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 19,
+   "productModel": "CBAB",
+   "extraModels": [
+    "CBAB",
+    "CBAB-2",
+    "CBAB-3",
+    "CBAB-4",
+    "CBAB-5",
+    "CBAB-6",
+    "CBAS",
+    "CBAV-2",
+    "CBAV-3",
+    "CBAV-4",
+    "CBAV-6",
+    "CBAV-8"
+   ],
+   "url": "https://www.manualslib.com/manual/4206131/Titus-Cbaw.html"
+  },
+  {
+   "manualId": "3480588",
+   "slug": "Titus-Cms-2000",
+   "title": "CMS-2000 installation manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "CMS-2000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3480588/Titus-Cms-2000.html"
+  },
+  {
+   "manualId": "3482238",
+   "slug": "Titus-Cms-2000",
+   "title": "CMS-2000 user manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "CMS-2000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3482238/Titus-Cms-2000.html"
+  },
+  {
+   "manualId": "2054610",
+   "slug": "Titus-Dlsc",
+   "title": "DLSC Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 18,
+   "productModel": "DLSC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2054610/Titus-Dlsc.html"
+  },
+  {
+   "manualId": "3847210",
+   "slug": "Titus-Dvbc",
+   "title": "DVBC Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "DVBC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3847210/Titus-Dvbc.html"
+  },
+  {
+   "manualId": "1374517",
+   "slug": "Titus-Dvcp",
+   "title": "DVCP Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "DVCP",
+   "extraModels": [
+    "DVHC"
+   ],
+   "url": "https://www.manualslib.com/manual/1374517/Titus-Dvcp.html"
+  },
+  {
+   "manualId": "3847208",
+   "slug": "Titus-Dvir",
+   "title": "DVIR Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "DVIR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3847208/Titus-Dvir.html"
+  },
+  {
+   "manualId": "3847207",
+   "slug": "Titus-Dvri",
+   "title": "DVRI Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "DVRI",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3847207/Titus-Dvri.html"
+  },
+  {
+   "manualId": "3847209",
+   "slug": "Titus-Dvvc",
+   "title": "DVVC Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "DVVC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3847209/Titus-Dvvc.html"
+  },
+  {
+   "manualId": "4383291",
+   "slug": "Titus-Esv",
+   "title": "ESV Installation & operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "ESV",
+   "extraModels": [
+    "ESV-Q"
+   ],
+   "url": "https://www.manualslib.com/manual/4383291/Titus-Esv.html"
+  },
+  {
+   "manualId": "2993196",
+   "slug": "Titus-Ffd",
+   "title": "FFD Installation & operation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "FFD",
+   "extraModels": [
+    "FFDR",
+    "FFDRA"
+   ],
+   "url": "https://www.manualslib.com/manual/2993196/Titus-Ffd.html"
+  },
+  {
+   "manualId": "2034967",
+   "slug": "Titus-Ffde",
+   "title": "FFDE Installation & operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "FFDE",
+   "extraModels": [
+    "FFDER",
+    "FFDERA"
+   ],
+   "url": "https://www.manualslib.com/manual/2034967/Titus-Ffde.html"
+  },
+  {
+   "manualId": "3719444",
+   "slug": "Titus-Ffde",
+   "title": "FFDE Installation and operation manual",
+   "type": "Installation",
+   "pages": 51,
+   "productModel": "FFDE",
+   "extraModels": [
+    "FFDER",
+    "FFDERA",
+    "FFDB",
+    "FFDBR",
+    "FFDBRA",
+    "FFDBRAC",
+    "FFDERAC"
+   ],
+   "url": "https://www.manualslib.com/manual/3719444/Titus-Ffde.html"
+  },
+  {
+   "manualId": "3749882",
+   "slug": "Titus-Ffdl-Series",
+   "title": "FFDL Series Installation, operation & maintenance manual",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "FFDL Series",
+   "extraModels": [
+    "FFDLRA"
+   ],
+   "url": "https://www.manualslib.com/manual/3749882/Titus-Ffdl-Series.html"
+  },
+  {
+   "manualId": "3507531",
+   "slug": "Titus-Fms-2000m",
+   "title": "FMS-2000M installation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "FMS-2000M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3507531/Titus-Fms-2000m.html"
+  },
+  {
+   "manualId": "2842049",
+   "slug": "Titus-G3-Pwm-Board",
+   "title": "G3 PWM BOARD Manual",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "G3 PWM BOARD",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2842049/Titus-G3-Pwm-Board.html"
+  },
+  {
+   "manualId": "1344158",
+   "slug": "Titus-Helios",
+   "title": "Helios Installation & operation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Helios",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1344158/Titus-Helios.html"
+  },
+  {
+   "manualId": "4198451",
+   "slug": "Titus-Helios",
+   "title": "Helios Installation & operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "Helios",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4198451/Titus-Helios.html"
+  },
+  {
+   "manualId": "1451904",
+   "slug": "Titus-Tmr",
+   "title": "Installation & operation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1451904/Titus-Tmr.html"
+  },
+  {
+   "manualId": "1927291",
+   "slug": "Titus-Eos",
+   "title": "Installation & Start-Up Procedure",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1927291/Titus-Eos.html"
+  },
+  {
+   "manualId": "3182221",
+   "slug": "Titus-607-8d25-595-045",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3182221/Titus-607-8d25-595-045.html"
+  },
+  {
+   "manualId": "1452561",
+   "slug": "Titus-Tmr",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1452561/Titus-Tmr.html"
+  },
+  {
+   "manualId": "1983373",
+   "slug": "Titus-Tfs",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1983373/Titus-Tfs.html"
+  },
+  {
+   "manualId": "2146603",
+   "slug": "Titus-Ta1",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2146603/Titus-Ta1.html"
+  },
+  {
+   "manualId": "3337087",
+   "slug": "Titus-T3sq-2",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3337087/Titus-T3sq-2.html"
+  },
+  {
+   "manualId": "3749710",
+   "slug": "Titus-SlimlinePlus",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3749710/Titus-SlimlinePlus.html"
+  },
+  {
+   "manualId": "1396376",
+   "slug": "Titus-T3sq",
+   "title": "Installation operation & maintenance",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1396376/Titus-T3sq.html"
+  },
+  {
+   "manualId": "1837056",
+   "slug": "Titus-Ta1",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1837056/Titus-Ta1.html"
+  },
+  {
+   "manualId": "3963035",
+   "slug": "Titus-Katrina",
+   "title": "KATRINA Assembly instruction manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "KATRINA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3963035/Titus-Katrina.html"
+  },
+  {
+   "manualId": "2567576",
+   "slug": "Titus-Taf-D",
+   "title": "LHK Installation & operation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "LHK",
+   "extraModels": [
+    "LHK",
+    "PFC",
+    "TAF-G"
+   ],
+   "url": "https://www.manualslib.com/manual/2567576/Titus-Taf-D.html"
+  },
+  {
+   "manualId": "1982552",
+   "slug": "Titus-Lsc-Series",
+   "title": "LSC Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "LSC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1982552/Titus-Lsc-Series.html"
+  },
+  {
+   "manualId": "1173868",
+   "slug": "Titus-T3sq-2",
+   "title": "operating manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1173868/Titus-T3sq-2.html"
+  },
+  {
+   "manualId": "890241",
+   "slug": "Titus-Digital-T3sq",
+   "title": "operating manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/890241/Titus-Digital-T3sq.html"
+  },
+  {
+   "manualId": "1215834",
+   "slug": "Titus-Outdoor-360",
+   "title": "Outdoor 360 Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "Outdoor 360",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1215834/Titus-Outdoor-360.html"
+  },
+  {
+   "manualId": "1184333",
+   "slug": "Titus-Power-Boom-18",
+   "title": "Power Boom 18 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "Power Boom 18",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1184333/Titus-Power-Boom-18.html"
+  },
+  {
+   "manualId": "2067952",
+   "slug": "Titus-Quasi-Moto",
+   "title": "Quasi-Moto Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "Quasi-Moto",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2067952/Titus-Quasi-Moto.html"
+  },
+  {
+   "manualId": "2601772",
+   "slug": "Titus-Glissando-Tl-170",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2601772/Titus-Glissando-Tl-170.html"
+  },
+  {
+   "manualId": "4547847",
+   "slug": "Titus-Dw45",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4547847/Titus-Dw45.html"
+  },
+  {
+   "manualId": "1390377",
+   "slug": "Titus-Ste-8001",
+   "title": "STE-8001 installation manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "STE-8001",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1390377/Titus-Ste-8001.html"
+  },
+  {
+   "manualId": "2062887",
+   "slug": "Titus-Stefano-Orlati-Tekform-Dw70",
+   "title": "Stefano Orlati Tekform DW145 Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "Stefano Orlati Tekform DW145",
+   "extraModels": [
+    "Stefano Orlati Tekform DW145",
+    "Stefano Orlati Tekform DW182"
+   ],
+   "url": "https://www.manualslib.com/manual/2062887/Titus-Stefano-Orlati-Tekform-Dw70.html"
+  },
+  {
+   "manualId": "3669955",
+   "slug": "Titus-Tekform-SlimlinePlus-Dw70",
+   "title": "Stefano Orlati Tekform DW145 Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "Stefano Orlati Tekform DW145",
+   "extraModels": [
+    "Stefano Orlati Tekform DW145",
+    "Stefano Orlati Tekform DW182"
+   ],
+   "url": "https://www.manualslib.com/manual/3669955/Titus-Tekform-SlimlinePlus-Dw70.html"
+  },
+  {
+   "manualId": "4156747",
+   "slug": "Titus-Tekform-Slimline-Dw70",
+   "title": "Stefano Orlati Tekform DW145 Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "Stefano Orlati Tekform DW145",
+   "extraModels": [
+    "Stefano Orlati Tekform DW145",
+    "Stefano Orlati Tekform DW182",
+    "Tekform Slimline DW100"
+   ],
+   "url": "https://www.manualslib.com/manual/4156747/Titus-Tekform-Slimline-Dw70.html"
+  },
+  {
+   "manualId": "2611322",
+   "slug": "Titus-Tekform-Dw70",
+   "title": "Stefano Orlati Tekform DW70 Installation",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "Stefano Orlati Tekform DW70",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2611322/Titus-Tekform-Dw70.html"
+  },
+  {
+   "manualId": "1867198",
+   "slug": "Titus-Amplivox-Quickfit-Expando-6",
+   "title": "Step-By-Step Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1867198/Titus-Amplivox-Quickfit-Expando-6.html"
+  },
+  {
+   "manualId": "3893966",
+   "slug": "Titus-Taf-Hc",
+   "title": "TAF-HC Installation & operation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "TAF-HC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3893966/Titus-Taf-Hc.html"
+  },
+  {
+   "manualId": "3893967",
+   "slug": "Titus-Taf-R",
+   "title": "TAF-R Installation & operation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "TAF-R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3893967/Titus-Taf-R.html"
+  },
+  {
+   "manualId": "3893965",
+   "slug": "Titus-Taf-V",
+   "title": "TAF-V Installation & operation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "TAF-V",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3893965/Titus-Taf-V.html"
+  },
+  {
+   "manualId": "1866631",
+   "slug": "Titus-Tao",
+   "title": "TAO Installation & operation manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "TAO",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1866631/Titus-Tao.html"
+  },
+  {
+   "manualId": "1317394",
+   "slug": "Titus-Tekform-Slimline",
+   "title": "Tekform Slimline Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "Tekform Slimline",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1317394/Titus-Tekform-Slimline.html"
+  },
+  {
+   "manualId": "1912105",
+   "slug": "Titus-Thh-Series",
+   "title": "THH Series installation manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "THH Series",
+   "extraModels": [
+    "THHC 06",
+    "THHC 10",
+    "THHC 12",
+    "THHC 14",
+    "THHC 16",
+    "THHC 18",
+    "THHC 20",
+    "THHP 06",
+    "THHP 10",
+    "THHP 12",
+    "THHP 14",
+    "THHP 16",
+    "THHP 18",
+    "THHP 20"
+   ],
+   "url": "https://www.manualslib.com/manual/1912105/Titus-Thh-Series.html"
+  },
+  {
+   "manualId": "2152270",
+   "slug": "Titus-Thrc-High-Flow",
+   "title": "THRC High Flow Installation & operation manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "THRC High Flow",
+   "extraModels": [
+    "THRC High Flow",
+    "THRCLow Flow",
+    "THRCLow Flow UV"
+   ],
+   "url": "https://www.manualslib.com/manual/2152270/Titus-Thrc-High-Flow.html"
+  },
+  {
+   "manualId": "4579428",
+   "slug": "Titus-Tvb",
+   "title": "TVB installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "TVB",
+   "extraModels": [
+    "TVBA",
+    "TVBC",
+    "TVBF"
+   ],
+   "url": "https://www.manualslib.com/manual/4579428/Titus-Tvb.html"
+  },
+  {
+   "manualId": "3878138",
+   "slug": "Titus-Uv",
+   "title": "UV Installation & operation manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "UV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3878138/Titus-Uv.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "titus-hvac"
+ ]
+}

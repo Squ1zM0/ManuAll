@@ -1,0 +1,1985 @@
+{
+ "brand": "Venmar",
+ "brandSlug": "venmar",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/venmar/"
+ ],
+ "slugUsed": "venmar",
+ "capturedAt": "2026-10-28T12:51:27.272004+00:00",
+ "typePages": [
+  {
+   "path": "/brand/venmar/air-conditioner.html",
+   "manuals": 44,
+   "status": 200
+  },
+  {
+   "path": "/brand/venmar/air-cleaner.html",
+   "manuals": 23,
+   "status": 200
+  },
+  {
+   "path": "/brand/venmar/air-handlers.html",
+   "manuals": 16,
+   "status": 200
+  },
+  {
+   "path": "/brand/venmar/boiler.html",
+   "manuals": 25,
+   "status": 200
+  },
+  {
+   "path": "/brand/venmar/central-vacuum-systems.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/venmar/control-unit.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/venmar/controller.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/venmar/fan.html",
+   "manuals": 197,
+   "status": 200
+  },
+  {
+   "path": "/brand/venmar/heating-system.html",
+   "manuals": 41,
+   "status": 200
+  },
+  {
+   "path": "/brand/venmar/industrial-equipment.html",
+   "manuals": 44,
+   "status": 200
+  },
+  {
+   "path": "/brand/venmar/microwave-oven.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/venmar/portable-generator.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/venmar/range-hood.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/venmar/test-equipment.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/venmar/ventilation.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/venmar/ventilation-hood.html",
+   "manuals": 242,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2834198",
+   "slug": "Venmar-1-3-He",
+   "title": "1.3 HE installation manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "1.3 HE",
+   "extraModels": [
+    "1.8 HE",
+    "2.6 HE",
+    "3055 COMPACT",
+    "5585 COMPACT",
+    "vanEE 1000 HE",
+    "vanEE 2000 HE",
+    "vanEE 3000 HE"
+   ],
+   "url": "https://www.manualslib.com/manual/2834198/Venmar-1-3-He.html"
+  },
+  {
+   "manualId": "818332",
+   "slug": "Venmar-V-Nee-2000-He",
+   "title": "1.3 HE installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "1.3 HE",
+   "extraModels": [
+    "1.3 HE",
+    "1.8 HE",
+    "2.6 HE",
+    "3055 COMPACT",
+    "5585 COMPACT",
+    "vanEE 1000 HE",
+    "vanEE 2000 HE",
+    "vanEE 3000 HE"
+   ],
+   "url": "https://www.manualslib.com/manual/818332/Venmar-V-Nee-2000-He.html"
+  },
+  {
+   "manualId": "1408035",
+   "slug": "Venmar-Vanee-2000-He",
+   "title": "1.8 HE user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "1.8 HE",
+   "extraModels": [
+    "1.8 HE",
+    "2.6 HE",
+    "vanEE 3000 HE"
+   ],
+   "url": "https://www.manualslib.com/manual/1408035/Venmar-Vanee-2000-He.html"
+  },
+  {
+   "manualId": "266417",
+   "slug": "Venmar-1200-Cfm",
+   "title": "1200 cfm Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "1200 cfm",
+   "extraModels": [
+    "600 cfm",
+    "700 cfm"
+   ],
+   "url": "https://www.manualslib.com/manual/266417/Venmar-1200-Cfm.html"
+  },
+  {
+   "manualId": "2558909",
+   "slug": "Venmar-6lc",
+   "title": "12LC Installation, Operation And Service Instructions",
+   "type": "Service",
+   "pages": 60,
+   "productModel": "12LC",
+   "extraModels": [
+    "12LC",
+    "7000",
+    "V12LC",
+    "V6LC"
+   ],
+   "url": "https://www.manualslib.com/manual/2558909/Venmar-6lc.html"
+  },
+  {
+   "manualId": "1608909",
+   "slug": "Venmar-3055-Compact",
+   "title": "3055 COMPACT user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "3055 COMPACT",
+   "extraModels": [
+    "5585 COMPACT",
+    "vanEE 1000 HE",
+    "vanEE 2000 HE",
+    "vanEE 3000 HE"
+   ],
+   "url": "https://www.manualslib.com/manual/1608909/Venmar-3055-Compact.html"
+  },
+  {
+   "manualId": "3100445",
+   "slug": "Venmar-K10-Hrv",
+   "title": "40E User's and installer's manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "40E",
+   "extraModels": [
+    "40E",
+    "40H+",
+    "44152",
+    "44162",
+    "44252",
+    "44262",
+    "44500",
+    "44502",
+    "44600",
+    "44602",
+    "50H",
+    "K7 ERV",
+    "K8 HRV"
+   ],
+   "url": "https://www.manualslib.com/manual/3100445/Venmar-K10-Hrv.html"
+  },
+  {
+   "manualId": "3317627",
+   "slug": "Venmar-K7-Erv",
+   "title": "40E User's and installer's manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "40E",
+   "extraModels": [
+    "40E",
+    "40H+",
+    "44152",
+    "44162",
+    "44252",
+    "44262",
+    "44500",
+    "44502",
+    "44600",
+    "44602",
+    "50H",
+    "44153",
+    "44163",
+    "44253",
+    "44263",
+    "K10 HRV",
+    "K8 HRV"
+   ],
+   "url": "https://www.manualslib.com/manual/3317627/Venmar-K7-Erv.html"
+  },
+  {
+   "manualId": "4564886",
+   "slug": "Venmar-K10hrv",
+   "title": "40E User's and installer's manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "40E",
+   "extraModels": [
+    "40E",
+    "40H+",
+    "44152",
+    "44162",
+    "44252",
+    "44262",
+    "44500",
+    "44502",
+    "44600",
+    "44602",
+    "50H",
+    "K7ERV",
+    "K8HRV"
+   ],
+   "url": "https://www.manualslib.com/manual/4564886/Venmar-K10hrv.html"
+  },
+  {
+   "manualId": "2010600",
+   "slug": "Venmar-K7-Hrv",
+   "title": "40H User's and installer's manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "40H",
+   "extraModels": [
+    "40H",
+    "44150",
+    "44250"
+   ],
+   "url": "https://www.manualslib.com/manual/2010600/Venmar-K7-Hrv.html"
+  },
+  {
+   "manualId": "1216960",
+   "slug": "Venmar-41502",
+   "title": "41500 installation manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "41500",
+   "extraModels": [
+    "41500",
+    "41504",
+    "41506"
+   ],
+   "url": "https://www.manualslib.com/manual/1216960/Venmar-41502.html"
+  },
+  {
+   "manualId": "1502570",
+   "slug": "Venmar-41502",
+   "title": "41500 user manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "41500",
+   "extraModels": [
+    "41500",
+    "41504",
+    "41506"
+   ],
+   "url": "https://www.manualslib.com/manual/1502570/Venmar-41502.html"
+  },
+  {
+   "manualId": "1504847",
+   "slug": "Venmar-41502",
+   "title": "41500 User's and installer's manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "41500",
+   "extraModels": [
+    "41500",
+    "41504",
+    "41506",
+    "41550",
+    "41554",
+    "41556",
+    "41602",
+    "41604",
+    "41606",
+    "41650",
+    "41652",
+    "41654",
+    "41656"
+   ],
+   "url": "https://www.manualslib.com/manual/1504847/Venmar-41502.html"
+  },
+  {
+   "manualId": "3852517",
+   "slug": "Venmar-41552",
+   "title": "41552 User's and installer's manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "41552",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3852517/Venmar-41552.html"
+  },
+  {
+   "manualId": "3852518",
+   "slug": "Venmar-41600",
+   "title": "41600 User's and installer's manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "41600",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3852518/Venmar-41600.html"
+  },
+  {
+   "manualId": "2741426",
+   "slug": "Venmar-S10-Erv",
+   "title": "41700 installation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "41700",
+   "extraModels": [
+    "41700",
+    "41702",
+    "41704",
+    "41706",
+    "41708",
+    "41800",
+    "41802",
+    "41804",
+    "41806",
+    "41808",
+    "S10 ERV plus",
+    "S10C ERV",
+    "S10n ERV plus",
+    "VANEE 70E",
+    "VANEE 70E ECM",
+    "VANEE 70EC",
+    "VANEE 70EN+",
+    "VB0197",
+    "VB0198",
+    "VB0199"
+   ],
+   "url": "https://www.manualslib.com/manual/2741426/Venmar-S10-Erv.html"
+  },
+  {
+   "manualId": "2947093",
+   "slug": "Venmar-500vf",
+   "title": "500VF Installation and user manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "500VF",
+   "extraModels": [
+    "600VF",
+    "SFDB-DK",
+    "SFDB-DL",
+    "SFDB-DM"
+   ],
+   "url": "https://www.manualslib.com/manual/2947093/Venmar-500vf.html"
+  },
+  {
+   "manualId": "1753883",
+   "slug": "Venmar-550vf1",
+   "title": "550VF1 Installation and user manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "550VF1",
+   "extraModels": [
+    "650VF1",
+    "700VF1"
+   ],
+   "url": "https://www.manualslib.com/manual/1753883/Venmar-550vf1.html"
+  },
+  {
+   "manualId": "1899003",
+   "slug": "Venmar-Avs-E15-Ecm-Erv",
+   "title": "60H-V+ installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "60H-V+",
+   "extraModels": [
+    "60H-V+",
+    "90H-V ECM ERV",
+    "90H-V ECM HRV",
+    "90H-V+"
+   ],
+   "url": "https://www.manualslib.com/manual/1899003/Venmar-Avs-E15-Ecm-Erv.html"
+  },
+  {
+   "manualId": "1524589",
+   "slug": "Venmar-E15-Ecm-Hrv",
+   "title": "60H-V+ User's and installer's manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "60H-V+",
+   "extraModels": [
+    "60H-V+",
+    "90H-V ECM ERV",
+    "90H-V ECM HRV",
+    "90H-V+",
+    "E10 HRV",
+    "E15 HRV"
+   ],
+   "url": "https://www.manualslib.com/manual/1524589/Venmar-E15-Ecm-Hrv.html"
+  },
+  {
+   "manualId": "3910831",
+   "slug": "Venmar-650vf",
+   "title": "650VF Installation and user manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "650VF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3910831/Venmar-650vf.html"
+  },
+  {
+   "manualId": "2874578",
+   "slug": "Venmar-A110h65rt",
+   "title": "A110H65RS User's and installer's manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "A110H65RS",
+   "extraModels": [
+    "A110H65RS",
+    "A130E65RS",
+    "A130E65RT",
+    "A130H65RS",
+    "A130H65RT",
+    "A150E75NS",
+    "A150E75NT",
+    "A150H75NS",
+    "A150H75NT",
+    "A160E65RS",
+    "A160E65RT",
+    "A160E75RS",
+    "A160E75RT",
+    "A160H65RS",
+    "A160H65RT",
+    "A160H75RS",
+    "A160H75RT",
+    "V110H65RS",
+    "V110H65RT",
+    "V130E65RS",
+    "V130E65RT",
+    "V130H65RS",
+    "V130H65RT",
+    "V150E75NS",
+    "V150E75NT",
+    "V150H75NS",
+    "V150H75NT",
+    "V160E65RS",
+    "V160E65RT",
+    "V160E75RS",
+    "V160E75RT",
+    "V160H65RS",
+    "V160H65RT",
+    "V160H75RS",
+    "V160H75RT"
+   ],
+   "url": "https://www.manualslib.com/manual/2874578/Venmar-A110h65rt.html"
+  },
+  {
+   "manualId": "3279935",
+   "slug": "Venmar-Vanee-Air-Master-A110h65rs",
+   "title": "A110H65RS User's and installer's manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "A110H65RS",
+   "extraModels": [
+    "A110H65RT",
+    "A130E65RS",
+    "A130E65RT",
+    "A130H65RS",
+    "A130H65RT",
+    "A150H75NS",
+    "A150H75NT",
+    "A160E65RT",
+    "A160H65RS",
+    "A160H65RT",
+    "A160H75RS",
+    "A160H75RT",
+    "V110H65RS",
+    "V130E65RS",
+    "V130E65RT",
+    "V130H65RS",
+    "V150H75NT",
+    "V160E65RS",
+    "V160E65RT",
+    "V160H65RT",
+    "V160H75RS",
+    "V160H75RT"
+   ],
+   "url": "https://www.manualslib.com/manual/3279935/Venmar-Vanee-Air-Master-A110h65rs.html"
+  },
+  {
+   "manualId": "3234518",
+   "slug": "Venmar-A180h75rt-Series",
+   "title": "A180E75RT Series User's and installer's manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "A180E75RT Series",
+   "extraModels": [
+    "A180E75RT Series",
+    "A210E75RS Series",
+    "A210E75RT Series",
+    "A230H75RS Series",
+    "A230H75RT Series",
+    "V180E75RT Series",
+    "V180H75RT Series",
+    "V210E75RS Series",
+    "V210E75RT Series",
+    "V230H75RS Series",
+    "V230H75RT Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3234518/Venmar-A180h75rt-Series.html"
+  },
+  {
+   "manualId": "4119070",
+   "slug": "Venmar-A180h75rt-Series",
+   "title": "A180H75RT Series User's and installer's manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "A180H75RT Series",
+   "extraModels": [
+    "A210E75RS Series",
+    "A210E75RT Series",
+    "A230H75RS Series",
+    "A230H75RT Series",
+    "AIBOE75RT Series",
+    "V180E75RT Series",
+    "V180H75R1 Series",
+    "V210E75RS Series",
+    "V210E75RT Series",
+    "V230H75RS Series",
+    "V230H75RT Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4119070/Venmar-A180h75rt-Series.html"
+  },
+  {
+   "manualId": "2655577",
+   "slug": "Venmar-Ea-1500",
+   "title": "AE60 Installation and user manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "AE60",
+   "extraModels": [
+    "AE60",
+    "HV 1.5"
+   ],
+   "url": "https://www.manualslib.com/manual/2655577/Venmar-Ea-1500.html"
+  },
+  {
+   "manualId": "641573",
+   "slug": "Venmar-Ae60",
+   "title": "AE60 Installation and user manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "AE60",
+   "extraModels": [
+    "EA1500",
+    "HV 1.5"
+   ],
+   "url": "https://www.manualslib.com/manual/641573/Venmar-Ae60.html"
+  },
+  {
+   "manualId": "3868365",
+   "slug": "Venmar-Avs-E10-Hrv",
+   "title": "AVS E10 HRV installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "AVS E10 HRV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3868365/Venmar-Avs-E10-Hrv.html"
+  },
+  {
+   "manualId": "3868363",
+   "slug": "Venmar-Avs-E15-Ecm-Hrv",
+   "title": "AVS E15 ECM HRV installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "AVS E15 ECM HRV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3868363/Venmar-Avs-E15-Ecm-Hrv.html"
+  },
+  {
+   "manualId": "3868364",
+   "slug": "Venmar-Avs-E15-Hrv",
+   "title": "AVS E15 HRV installation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "AVS E15 HRV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3868364/Venmar-Avs-E15-Hrv.html"
+  },
+  {
+   "manualId": "3863445",
+   "slug": "Venmar-Avs-S10-Erv",
+   "title": "AVS S10 ERV user manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "AVS S10 ERV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3863445/Venmar-Avs-S10-Erv.html"
+  },
+  {
+   "manualId": "1757744",
+   "slug": "Venmar-Avs-S10c-Erv",
+   "title": "AVS S10 ERVPLUS user manual",
+   "type": "User / Owner",
+   "pages": 14,
+   "productModel": "AVS S10 ERVPLUS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1757744/Venmar-Avs-S10c-Erv.html"
+  },
+  {
+   "manualId": "2669118",
+   "slug": "Venmar-Bcda-Series",
+   "title": "BCDA Series Installation use and care manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "BCDA Series",
+   "extraModels": [
+    "BCDA130WW",
+    "BCS3 Series",
+    "BCS324WWC",
+    "BCS330WWC",
+    "BCSM Series",
+    "NCDA Series",
+    "NCS3 Series",
+    "NCS330SSC",
+    "NCS330WWC",
+    "NCSEK Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2669118/Venmar-Bcda-Series.html"
+  },
+  {
+   "manualId": "2377567",
+   "slug": "Venmar-Bistro-Vbldn1-Series",
+   "title": "Bistro VBLDN1 Series Installation use and care manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "Bistro VBLDN1 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2377567/Venmar-Bistro-Vbldn1-Series.html"
+  },
+  {
+   "manualId": "4531524",
+   "slug": "Venmar-Bistro-Vbldn130ss",
+   "title": "Bistro VBLDN1 Series Installation use and care manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "Bistro VBLDN1 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4531524/Venmar-Bistro-Vbldn130ss.html"
+  },
+  {
+   "manualId": "4531525",
+   "slug": "Venmar-Bistro-Vbldn130wh",
+   "title": "Bistro VBLDN1 Series Installation use and care manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "Bistro VBLDN1 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4531525/Venmar-Bistro-Vbldn130wh.html"
+  },
+  {
+   "manualId": "2376444",
+   "slug": "Venmar-Bistro-Vbnde1-Series",
+   "title": "BISTRO VBNDE1 Series Installation use and care manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "BISTRO VBNDE1 Series",
+   "extraModels": [
+    "BISTRO VBNSA1 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2376444/Venmar-Bistro-Vbnde1-Series.html"
+  },
+  {
+   "manualId": "2651839",
+   "slug": "Venmar-Bistro-Vbnsa1-Series",
+   "title": "BISTRO VBNDE1 Series Installation use and care manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "BISTRO VBNDE1 Series",
+   "extraModels": [
+    "BISTRO VBNDE1 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2651839/Venmar-Bistro-Vbnsa1-Series.html"
+  },
+  {
+   "manualId": "4531531",
+   "slug": "Venmar-Bistro-Vbnde130ss",
+   "title": "BISTRO VBNDE1 Series Installation use and care manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "BISTRO VBNDE1 Series",
+   "extraModels": [
+    "BISTRO VBNSA1 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4531531/Venmar-Bistro-Vbnde130ss.html"
+  },
+  {
+   "manualId": "4531547",
+   "slug": "Venmar-Bistro-Vbndh130ww",
+   "title": "BISTRO VBNDH130WW Installation use and care manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "BISTRO VBNDH130WW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4531547/Venmar-Bistro-Vbndh130ww.html"
+  },
+  {
+   "manualId": "2366785",
+   "slug": "Venmar-Vbnlb1-Series",
+   "title": "BISTRO VBNLB130SS Installation use and care manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "BISTRO VBNLB130SS",
+   "extraModels": [
+    "BISTRO VBNLB130SS"
+   ],
+   "url": "https://www.manualslib.com/manual/2366785/Venmar-Vbnlb1-Series.html"
+  },
+  {
+   "manualId": "4531567",
+   "slug": "Venmar-Bistro-Vbnlb130ss",
+   "title": "BISTRO VBNLB130SS Installation use and care manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "BISTRO VBNLB130SS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4531567/Venmar-Bistro-Vbnlb130ss.html"
+  },
+  {
+   "manualId": "2322320",
+   "slug": "Venmar-Bkdd1-Series",
+   "title": "BKDD1 Series Installation use and care manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "BKDD1 Series",
+   "extraModels": [
+    "BKDF1 Series",
+    "BKSA2 Series",
+    "BKSM1 Series",
+    "BKSR1 Series",
+    "CKSL1 Series",
+    "NKDF1 Series",
+    "NKSA2 Series",
+    "NKSH1 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2322320/Venmar-Bkdd1-Series.html"
+  },
+  {
+   "manualId": "2170553",
+   "slug": "Venmar-Broan-Elite-E12000-Series",
+   "title": "BROAN Elite E12000 Series user manual",
+   "type": "User / Owner",
+   "pages": 37,
+   "productModel": "BROAN Elite E12000 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2170553/Venmar-Broan-Elite-E12000-Series.html"
+  },
+  {
+   "manualId": "2923055",
+   "slug": "Venmar-Broan-Hrv-7-1-Hepa",
+   "title": "Broan HRV 5.1 Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Broan HRV 5.1",
+   "extraModels": [
+    "Broan HRV 5.1",
+    "EVO5 500 HRV",
+    "EVO5 700 HRV HEPA",
+    "VB0310",
+    "VB0311",
+    "VB0312",
+    "VB0313"
+   ],
+   "url": "https://www.manualslib.com/manual/2923055/Venmar-Broan-Hrv-7-1-Hepa.html"
+  },
+  {
+   "manualId": "1213937",
+   "slug": "Venmar-Hdn17-Series",
+   "title": "C180 SERIES Installation instructions & use and care",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "C180 SERIES",
+   "extraModels": [
+    "C180 SERIES",
+    "C270 SERIES",
+    "C370 SERIES",
+    "C600E SERIES",
+    "C600M SERIES",
+    "ED370 SERIES",
+    "ED600E SERIES",
+    "ROB15 SERIES",
+    "ROB35 SERIES",
+    "ROV15 SERIES",
+    "ROV35 SERIES",
+    "V10 SERIES",
+    "V30 SERIES",
+    "V40E SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/1213937/Venmar-Hdn17-Series.html"
+  },
+  {
+   "manualId": "839392",
+   "slug": "Venmar-C180",
+   "title": "C180 SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "C180 SERIES",
+   "extraModels": [
+    "C270 SERIES",
+    "C370 SERIES",
+    "C600E SERIES",
+    "ED370 SERIES",
+    "ROB15 SERIES",
+    "ROB35 SERIES",
+    "ROV15 SERIES",
+    "ROV35 SERIES",
+    "V10 SERIES",
+    "V30 SERIES",
+    "V40E SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/839392/Venmar-C180.html"
+  },
+  {
+   "manualId": "1659056",
+   "slug": "Venmar-C600e30wh",
+   "title": "C600E30WH Installation instructions; use and care information",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "C600E30WH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1659056/Venmar-C600e30wh.html"
+  },
+  {
+   "manualId": "1204144",
+   "slug": "Venmar-Cc700-Series",
+   "title": "CC700 SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "CC700 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1204144/Venmar-Cc700-Series.html"
+  },
+  {
+   "manualId": "1425083",
+   "slug": "Venmar-C700-Series",
+   "title": "CC700 SERIES Installation instructions manual",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": "CC700 SERIES",
+   "extraModels": [
+    "CC700 SERIES",
+    "CIS700 SERIES",
+    "Connaisseur CIC700 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1425083/Venmar-C700-Series.html"
+  },
+  {
+   "manualId": "2370674",
+   "slug": "Venmar-Chef-Vcqdd1-Series",
+   "title": "Chef VCQDD1 Series Installation use and care manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Chef VCQDD1 Series",
+   "extraModels": [
+    "Chef VCQSEN1 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2370674/Venmar-Chef-Vcqdd1-Series.html"
+  },
+  {
+   "manualId": "4531542",
+   "slug": "Venmar-Chef-Vcqdd130ss",
+   "title": "Chef VCQDD1 Series Installation use and care manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "Chef VCQDD1 Series",
+   "extraModels": [
+    "Chef VCQSEN1 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4531542/Venmar-Chef-Vcqdd130ss.html"
+  },
+  {
+   "manualId": "4531535",
+   "slug": "Venmar-Chef-Vcqla130wh",
+   "title": "CHEF VCQLA130WH Installation use and care manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "CHEF VCQLA130WH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4531535/Venmar-Chef-Vcqla130wh.html"
+  },
+  {
+   "manualId": "853925",
+   "slug": "Venmar-Connaisseur-Cic700-Series",
+   "title": "CIC700I16WG installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "CIC700I16WG",
+   "extraModels": [
+    "CIC700I16WG"
+   ],
+   "url": "https://www.manualslib.com/manual/853925/Venmar-Connaisseur-Cic700-Series.html"
+  },
+  {
+   "manualId": "875974",
+   "slug": "Venmar-Connaisseur-Cis700-Series",
+   "title": "CIS700 SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "CIS700 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/875974/Venmar-Connaisseur-Cis700-Series.html"
+  },
+  {
+   "manualId": "781875",
+   "slug": "Venmar-Connaisseur-3000-Series",
+   "title": "CONNAISSEUR 3000 SERIES Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "CONNAISSEUR 3000 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/781875/Venmar-Connaisseur-3000-Series.html"
+  },
+  {
+   "manualId": "1019137",
+   "slug": "Venmar-Connaisseur-Cc32i-Series",
+   "title": "CONNAISSEUR CC32I SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "CONNAISSEUR CC32I SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1019137/Venmar-Connaisseur-Cc32i-Series.html"
+  },
+  {
+   "manualId": "1151628",
+   "slug": "Venmar-C700",
+   "title": "Connaisseure C700 SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "Connaisseure C700 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1151628/Venmar-C700.html"
+  },
+  {
+   "manualId": "861673",
+   "slug": "Venmar-Connaisseure-C700-Series",
+   "title": "Connaisseure C700 SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "Connaisseure C700 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/861673/Venmar-Connaisseure-C700-Series.html"
+  },
+  {
+   "manualId": "1019518",
+   "slug": "Venmar-Cpm-Series",
+   "title": "CPM SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "CPM SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1019518/Venmar-Cpm-Series.html"
+  },
+  {
+   "manualId": "1205150",
+   "slug": "Venmar-Cpm-Series",
+   "title": "CPM SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "CPM SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1205150/Venmar-Cpm-Series.html"
+  },
+  {
+   "manualId": "1293980",
+   "slug": "Venmar-Solo-1-5",
+   "title": "Duo 1.2 Installer manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Duo 1.2",
+   "extraModels": [
+    "Duo 1.2",
+    "Duo 1.4",
+    "Duo 1.9",
+    "Solo 2.0"
+   ],
+   "url": "https://www.manualslib.com/manual/1293980/Venmar-Solo-1-5.html"
+  },
+  {
+   "manualId": "829398",
+   "slug": "Venmar-Solo-1-5",
+   "title": "Duo 1.2 Installer manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Duo 1.2",
+   "extraModels": [
+    "Duo 1.2",
+    "Duo 1.4",
+    "Duo 1.9",
+    "Solo 2.0"
+   ],
+   "url": "https://www.manualslib.com/manual/829398/Venmar-Solo-1-5.html"
+  },
+  {
+   "manualId": "3853423",
+   "slug": "Venmar-E15-Ecm-Erv",
+   "title": "E15 ECM ERV User's and installer's manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "E15 ECM ERV",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3853423/Venmar-E15-Ecm-Erv.html"
+  },
+  {
+   "manualId": "3527535",
+   "slug": "Venmar-Ea-20200",
+   "title": "EA 20200 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "EA 20200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3527535/Venmar-Ea-20200.html"
+  },
+  {
+   "manualId": "3054523",
+   "slug": "Venmar-Hrv110",
+   "title": "ERV130 User's and installer's manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "ERV130",
+   "extraModels": [
+    "ERV130"
+   ],
+   "url": "https://www.manualslib.com/manual/3054523/Venmar-Hrv110.html"
+  },
+  {
+   "manualId": "4528010",
+   "slug": "Venmar-Erv130",
+   "title": "ERV130 User's and installer's manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "ERV130",
+   "extraModels": [
+    "HRV110"
+   ],
+   "url": "https://www.manualslib.com/manual/4528010/Venmar-Erv130.html"
+  },
+  {
+   "manualId": "808339",
+   "slug": "Venmar-Erv5000-10000",
+   "title": "ERV5000-10000 Installation, operation and maintenance instructions manual",
+   "type": "Service",
+   "pages": 108,
+   "productModel": "ERV5000-10000",
+   "extraModels": [
+    "HRV3000-10000"
+   ],
+   "url": "https://www.manualslib.com/manual/808339/Venmar-Erv5000-10000.html"
+  },
+  {
+   "manualId": "3366643",
+   "slug": "Venmar-Esb10",
+   "title": "ESB10 installation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "ESB10",
+   "extraModels": [
+    "ESC270",
+    "QDE"
+   ],
+   "url": "https://www.manualslib.com/manual/3366643/Venmar-Esb10.html"
+  },
+  {
+   "manualId": "484823",
+   "slug": "Venmar-Esb10",
+   "title": "ESB10 installation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "ESB10",
+   "extraModels": [
+    "ESC270",
+    "ESN10",
+    "ESV10",
+    "QDE"
+   ],
+   "url": "https://www.manualslib.com/manual/484823/Venmar-Esb10.html"
+  },
+  {
+   "manualId": "2372282",
+   "slug": "Venmar-Eurodesign-Edjdn1-Series",
+   "title": "EuroDesign EDJDN1 Series Installation use and care manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "EuroDesign EDJDN1 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2372282/Venmar-Eurodesign-Edjdn1-Series.html"
+  },
+  {
+   "manualId": "4531549",
+   "slug": "Venmar-Eurodesign-Edjdn130ss",
+   "title": "EuroDesign EDJDN1 Series Installation use and care manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "EuroDesign EDJDN1 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4531549/Venmar-Eurodesign-Edjdn130ss.html"
+  },
+  {
+   "manualId": "2373311",
+   "slug": "Venmar-Eurodesign-Edjld1-Series",
+   "title": "EuroDesign EDJLD1 Series Installation use and care manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "EuroDesign EDJLD1 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2373311/Venmar-Eurodesign-Edjld1-Series.html"
+  },
+  {
+   "manualId": "4531572",
+   "slug": "Venmar-Eurodesign-Edjld130ss",
+   "title": "EuroDesign EDJLD1 Series Installation use and care manual",
+   "type": "Installation",
+   "pages": 50,
+   "productModel": "EuroDesign EDJLD1 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4531572/Venmar-Eurodesign-Edjld130ss.html"
+  },
+  {
+   "manualId": "641524",
+   "slug": "Venmar-Fae125",
+   "title": "FAE 125M Installation and user manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "FAE 125M",
+   "extraModels": [
+    "VFAE125",
+    "VFAE125M"
+   ],
+   "url": "https://www.manualslib.com/manual/641524/Venmar-Fae125.html"
+  },
+  {
+   "manualId": "641584",
+   "slug": "Venmar-Fae115",
+   "title": "FAE115 Installation and user manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "FAE115",
+   "extraModels": [
+    "FAE115M",
+    "uFAE115",
+    "uFAE115M",
+    "vFAE115",
+    "vFAE115M"
+   ],
+   "url": "https://www.manualslib.com/manual/641584/Venmar-Fae115.html"
+  },
+  {
+   "manualId": "2764096",
+   "slug": "Venmar-H50100h",
+   "title": "H50100E installation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "H50100E",
+   "extraModels": [
+    "H50100E"
+   ],
+   "url": "https://www.manualslib.com/manual/2764096/Venmar-H50100h.html"
+  },
+  {
+   "manualId": "3857827",
+   "slug": "Venmar-He-1-3",
+   "title": "HE 1.3 user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "HE 1.3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857827/Venmar-He-1-3.html"
+  },
+  {
+   "manualId": "3857828",
+   "slug": "Venmar-He-1-8",
+   "title": "HE 1.8 user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "HE 1.8",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857828/Venmar-He-1-8.html"
+  },
+  {
+   "manualId": "3857829",
+   "slug": "Venmar-He-2-6",
+   "title": "HE 2.6 user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "HE 2.6",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857829/Venmar-He-2-6.html"
+  },
+  {
+   "manualId": "641534",
+   "slug": "Venmar-Hepa-3-2",
+   "title": "HEPA 3.2 Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "HEPA 3.2",
+   "extraModels": [
+    "THH 1.0"
+   ],
+   "url": "https://www.manualslib.com/manual/641534/Venmar-Hepa-3-2.html"
+  },
+  {
+   "manualId": "3819324",
+   "slug": "Venmar-Hepa-3000",
+   "title": "HEPA 3000 user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "HEPA 3000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3819324/Venmar-Hepa-3000.html"
+  },
+  {
+   "manualId": "266420",
+   "slug": "Venmar-Hepa-3100",
+   "title": "HEPA 3100 Installation and user manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "HEPA 3100",
+   "extraModels": [
+    "HEPA 4100",
+    "HF 3.1",
+    "HR 2.6",
+    "HRV 2600",
+    "HRV 2600*"
+   ],
+   "url": "https://www.manualslib.com/manual/266420/Venmar-Hepa-3100.html"
+  },
+  {
+   "manualId": "626845",
+   "slug": "Venmar-Hepa-4100",
+   "title": "HEPA 3100 user manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "HEPA 3100",
+   "extraModels": [
+    "HEPA 3100",
+    "HF 3.1",
+    "HR 2.6",
+    "HRV 2600"
+   ],
+   "url": "https://www.manualslib.com/manual/626845/Venmar-Hepa-4100.html"
+  },
+  {
+   "manualId": "3819323",
+   "slug": "Venmar-Hepa-4000",
+   "title": "HEPA 4000 user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "HEPA 4000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3819323/Venmar-Hepa-4000.html"
+  },
+  {
+   "manualId": "626866",
+   "slug": "Venmar-Hrv-2500",
+   "title": "HF 3.0 user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "HF 3.0",
+   "extraModels": [
+    "HF 3.0",
+    "HR 2.5"
+   ],
+   "url": "https://www.manualslib.com/manual/626866/Venmar-Hrv-2500.html"
+  },
+  {
+   "manualId": "1637086",
+   "slug": "Venmar-Avs-Hrv-Constructo-1-5es",
+   "title": "HRV CONSTRUCTO 1.5ES Installer manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "HRV CONSTRUCTO 1.5ES",
+   "extraModels": [
+    "HRV CONSTRUCTO 2.0ES"
+   ],
+   "url": "https://www.manualslib.com/manual/1637086/Venmar-Avs-Hrv-Constructo-1-5es.html"
+  },
+  {
+   "manualId": "641531",
+   "slug": "Venmar-Hrv-Constructo-2-0es",
+   "title": "HRV CONSTRUCTO 1.5ES user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "HRV CONSTRUCTO 1.5ES",
+   "extraModels": [
+    "HRV CONSTRUCTO 1.5ES"
+   ],
+   "url": "https://www.manualslib.com/manual/641531/Venmar-Hrv-Constructo-2-0es.html"
+  },
+  {
+   "manualId": "1522124",
+   "slug": "Venmar-Hrv-Constructo-2-0es",
+   "title": "HRV CONSTRUCTO 1.5ES User's and installer's manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "HRV CONSTRUCTO 1.5ES",
+   "extraModels": [
+    "HRV CONSTRUCTO 1.5ES",
+    "NOVO+ 100H",
+    "NOVO+ 200H"
+   ],
+   "url": "https://www.manualslib.com/manual/1522124/Venmar-Hrv-Constructo-2-0es.html"
+  },
+  {
+   "manualId": "1299597",
+   "slug": "Venmar-Hrv600i",
+   "title": "HRV1200i installation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "HRV1200i",
+   "extraModels": [
+    "HRV1200i",
+    "HRV700i"
+   ],
+   "url": "https://www.manualslib.com/manual/1299597/Venmar-Hrv600i.html"
+  },
+  {
+   "manualId": "862787",
+   "slug": "Venmar-Ispira-Ik700-Series",
+   "title": "IK700 SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "IK700 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/862787/Venmar-Ispira-Ik700-Series.html"
+  },
+  {
+   "manualId": "4415303",
+   "slug": "installation-and-owner-guide-40355-40455-vt9w-controls",
+   "title": "Installation & Owner Guide: 40355, 40455, VT9W Controls",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4415303/installation-and-owner-guide-40355-40455-vt9w-controls.html"
+  },
+  {
+   "manualId": "1413722",
+   "slug": "Venmar-40455",
+   "title": "Installation and owner's manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1413722/Venmar-40455.html"
+  },
+  {
+   "manualId": "2020604",
+   "slug": "Venmar-Deco-Touch-Wall-Control",
+   "title": "Installation and owner's manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2020604/Venmar-Deco-Touch-Wall-Control.html"
+  },
+  {
+   "manualId": "2020609",
+   "slug": "Venmar-Deco-Touch-Wall-Control",
+   "title": "Installation and owner's manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2020609/Venmar-Deco-Touch-Wall-Control.html"
+  },
+  {
+   "manualId": "2052956",
+   "slug": "Venmar-V-Nee-20-40-60",
+   "title": "Installation and user manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2052956/Venmar-V-Nee-20-40-60.html"
+  },
+  {
+   "manualId": "3497926",
+   "slug": "Venmar-41400",
+   "title": "Installation and user manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3497926/Venmar-41400.html"
+  },
+  {
+   "manualId": "1026043",
+   "slug": "Venmar-Ispira-Ic700-Series",
+   "title": "ISPIRA IB700 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "ISPIRA IB700 Series",
+   "extraModels": [
+    "ISPIRA IB700 Series",
+    "ISPIRA IC700ES Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1026043/Venmar-Ispira-Ic700-Series.html"
+  },
+  {
+   "manualId": "2655288",
+   "slug": "Venmar-Ic700es",
+   "title": "ISPIRA IC700 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "ISPIRA IC700 Series",
+   "extraModels": [
+    "VJ603302SS Jazz"
+   ],
+   "url": "https://www.manualslib.com/manual/2655288/Venmar-Ic700es.html"
+  },
+  {
+   "manualId": "2388467",
+   "slug": "Venmar-Ispira-Is700-Series",
+   "title": "ISPIRA IS700 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "ISPIRA IS700 Series",
+   "extraModels": [
+    "ISPIRA IS70036WG"
+   ],
+   "url": "https://www.manualslib.com/manual/2388467/Venmar-Ispira-Is700-Series.html"
+  },
+  {
+   "manualId": "1162797",
+   "slug": "Venmar-Ispira-Iu600es-Series",
+   "title": "ISPIRA IU600ES SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "ISPIRA IU600ES SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1162797/Venmar-Ispira-Iu600es-Series.html"
+  },
+  {
+   "manualId": "815815",
+   "slug": "Venmar-Jazz-Vj10430ss",
+   "title": "Jazz VJ10430SS Homeowner's Operating Instructions",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "Jazz VJ10430SS",
+   "extraModels": [
+    "Jazz VJ10430WH"
+   ],
+   "url": "https://www.manualslib.com/manual/815815/Venmar-Jazz-Vj10430ss.html"
+  },
+  {
+   "manualId": "841485",
+   "slug": "Venmar-Jazz-Vj10430ss",
+   "title": "Jazz VJ10430SS installation instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "Jazz VJ10430SS",
+   "extraModels": [
+    "Jazz VJ10430WH"
+   ],
+   "url": "https://www.manualslib.com/manual/841485/Venmar-Jazz-Vj10430ss.html"
+  },
+  {
+   "manualId": "2651553",
+   "slug": "Venmar-Jazz-Vj51030ss",
+   "title": "JAZZ VJ51030SS installation instructions manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "JAZZ VJ51030SS",
+   "extraModels": [
+    "JAZZ VJ51036SS"
+   ],
+   "url": "https://www.manualslib.com/manual/2651553/Venmar-Jazz-Vj51030ss.html"
+  },
+  {
+   "manualId": "1017636",
+   "slug": "Venmar-Jazz-Vj603302ss",
+   "title": "Jazz VJ604302SS installation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "Jazz VJ604302SS",
+   "extraModels": [
+    "Jazz VJ604302SS"
+   ],
+   "url": "https://www.manualslib.com/manual/1017636/Venmar-Jazz-Vj603302ss.html"
+  },
+  {
+   "manualId": "986215",
+   "slug": "Venmar-Jazz-Vj70430ss",
+   "title": "Jazz VJ70430SS installation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "Jazz VJ70430SS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/986215/Venmar-Jazz-Vj70430ss.html"
+  },
+  {
+   "manualId": "2394037",
+   "slug": "Venmar-Jazz-Vj70524ss",
+   "title": "Jazz VJ70524SS installation instructions manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "Jazz VJ70524SS",
+   "extraModels": [
+    "Jazz VJ70530SS"
+   ],
+   "url": "https://www.manualslib.com/manual/2394037/Venmar-Jazz-Vj70524ss.html"
+  },
+  {
+   "manualId": "1023719",
+   "slug": "Venmar-Vj70524ss",
+   "title": "Jazz VJ70524SS installation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "Jazz VJ70524SS",
+   "extraModels": [
+    "Jazz VJ70530SS",
+    "VJ70536SS"
+   ],
+   "url": "https://www.manualslib.com/manual/1023719/Venmar-Vj70524ss.html"
+  },
+  {
+   "manualId": "859733",
+   "slug": "Venmar-Jazz-Vj70636ss",
+   "title": "Jazz VJ70636SS installation instructions manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "Jazz VJ70636SS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/859733/Venmar-Jazz-Vj70636ss.html"
+  },
+  {
+   "manualId": "1790198",
+   "slug": "Venmar-Kubix-Hrv-Plus-Series",
+   "title": "KUBIX ERV 44112 user manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "KUBIX ERV 44112",
+   "extraModels": [
+    "KUBIX ERV 44112",
+    "KUBIX ERV 44113",
+    "KUBIX ERV Series",
+    "KUBIX HRV 44102",
+    "KUBIX HRV 44103"
+   ],
+   "url": "https://www.manualslib.com/manual/1790198/Venmar-Kubix-Hrv-Plus-Series.html"
+  },
+  {
+   "manualId": "1287887",
+   "slug": "Venmar-Avs-S10-Erv-41700",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1287887/Venmar-Avs-S10-Erv-41700.html"
+  },
+  {
+   "manualId": "3938736",
+   "slug": "Venmar-Pro-100",
+   "title": "PRO 100 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "PRO 100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3938736/Venmar-Pro-100.html"
+  },
+  {
+   "manualId": "3938737",
+   "slug": "Venmar-Pro-200",
+   "title": "PRO 200 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "PRO 200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3938737/Venmar-Pro-200.html"
+  },
+  {
+   "manualId": "1386799",
+   "slug": "Venmar-Pro225",
+   "title": "PRO225 Installation and user manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "PRO225",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1386799/Venmar-Pro225.html"
+  },
+  {
+   "manualId": "3847834",
+   "slug": "Venmar-Pro250",
+   "title": "PRO250 Installation and user manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "PRO250",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3847834/Venmar-Pro250.html"
+  },
+  {
+   "manualId": "759518",
+   "slug": "Venmar-Pro301",
+   "title": "PRO301 Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "PRO301",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/759518/Venmar-Pro301.html"
+  },
+  {
+   "manualId": "2854249",
+   "slug": "Venmar-Avs-Hrv-Eko-1-5",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2854249/Venmar-Avs-Hrv-Eko-1-5.html"
+  },
+  {
+   "manualId": "1699022",
+   "slug": "Venmar-Signature-S1-Series",
+   "title": "Signature S1 Series Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "Signature S1 Series",
+   "extraModels": [
+    "Signature S2 Series",
+    "Signature S3 Series",
+    "Signature S4 Series",
+    "Signature Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1699022/Venmar-Signature-S1-Series.html"
+  },
+  {
+   "manualId": "3031960",
+   "slug": "Venmar-Hrv2000i",
+   "title": "Start-up",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3031960/Venmar-Hrv2000i.html"
+  },
+  {
+   "manualId": "1108651",
+   "slug": "Venmar-Ho50200",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1108651/Venmar-Ho50200.html"
+  },
+  {
+   "manualId": "1165908",
+   "slug": "Venmar-X24-Hrv-Ecm",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1165908/Venmar-X24-Hrv-Ecm.html"
+  },
+  {
+   "manualId": "1456277",
+   "slug": "Venmar-Avs-Constructo-1-0-Hrv",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1456277/Venmar-Avs-Constructo-1-0-Hrv.html"
+  },
+  {
+   "manualId": "3927369",
+   "slug": "Venmar-V110h65rt",
+   "title": "V110H65RT User's and installer's manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "V110H65RT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3927369/Venmar-V110h65rt.html"
+  },
+  {
+   "manualId": "3927370",
+   "slug": "Venmar-V130h65rt",
+   "title": "V130H65RT User's and installer's manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "V130H65RT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3927370/Venmar-V130h65rt.html"
+  },
+  {
+   "manualId": "3927371",
+   "slug": "Venmar-V150h75ns",
+   "title": "V150H75NS User's and installer's manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "V150H75NS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3927371/Venmar-V150h75ns.html"
+  },
+  {
+   "manualId": "3927372",
+   "slug": "Venmar-V160h65rs",
+   "title": "V160H65RS User's and installer's manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "V160H65RS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3927372/Venmar-V160h65rs.html"
+  },
+  {
+   "manualId": "1232540",
+   "slug": "Venmar-Vbldf1",
+   "title": "VBLDF1 Installation use and care manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "VBLDF1",
+   "extraModels": [
+    "VBLDSH1"
+   ],
+   "url": "https://www.manualslib.com/manual/1232540/Venmar-Vbldf1.html"
+  },
+  {
+   "manualId": "2841625",
+   "slug": "Venmar-Vblsh1-Series",
+   "title": "VBLDF1 Installation use and care manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "VBLDF1",
+   "extraModels": [
+    "VBLDF1"
+   ],
+   "url": "https://www.manualslib.com/manual/2841625/Venmar-Vblsh1-Series.html"
+  },
+  {
+   "manualId": "3469271",
+   "slug": "Venmar-Vblsh130ss",
+   "title": "VBLDF1 Installation use and care manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "VBLDF1",
+   "extraModels": [
+    "VBLDF1",
+    "VBLDF130BL",
+    "VBLDF130SS",
+    "VBLDF130WW",
+    "VBLSH130WW"
+   ],
+   "url": "https://www.manualslib.com/manual/3469271/Venmar-Vblsh130ss.html"
+  },
+  {
+   "manualId": "4531554",
+   "slug": "Venmar-Bistro-Vblsh130ww",
+   "title": "VBLDF1 Installation use and care manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "VBLDF1",
+   "extraModels": [
+    "VBLDF1"
+   ],
+   "url": "https://www.manualslib.com/manual/4531554/Venmar-Bistro-Vblsh130ww.html"
+  },
+  {
+   "manualId": "2720405",
+   "slug": "Venmar-Vbndh1",
+   "title": "VBNDH1 Installation use and care manual",
+   "type": "Installation",
+   "pages": 46,
+   "productModel": "VBNDH1",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2720405/Venmar-Vbndh1.html"
+  },
+  {
+   "manualId": "1272710",
+   "slug": "Venmar-Vcqla1-Series",
+   "title": "VCQLA1 Series Installation use and care manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "VCQLA1 Series",
+   "extraModels": [
+    "VCQLA130SS"
+   ],
+   "url": "https://www.manualslib.com/manual/1272710/Venmar-Vcqla1-Series.html"
+  },
+  {
+   "manualId": "1239254",
+   "slug": "Venmar-Vcs500-Series",
+   "title": "VCS500 SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "VCS500 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1239254/Venmar-Vcs500-Series.html"
+  },
+  {
+   "manualId": "3841131",
+   "slug": "Venmar-Vcs550-Series",
+   "title": "VCS550 SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "VCS550 SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3841131/Venmar-Vcs550-Series.html"
+  },
+  {
+   "manualId": "4426998",
+   "slug": "venmar-ces-erv500i-e-installation-and-maintenance-manual",
+   "title": "Venmar CES ERV500i/e Installation & Maintenance Manual",
+   "type": "Service",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4426998/venmar-ces-erv500i-e-installation-and-maintenance-manual.html"
+  },
+  {
+   "manualId": "3082662",
+   "slug": "Venmar-Erv500i",
+   "title": "Venmar ERV500i Installation, Operation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 24,
+   "productModel": null,
+   "extraModels": [
+    "ERV500e"
+   ],
+   "url": "https://www.manualslib.com/manual/3082662/Venmar-Erv500i.html"
+  },
+  {
+   "manualId": "2394039",
+   "slug": "Venmar-Vj504302ss",
+   "title": "VJ504302SS installation instructions manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "VJ504302SS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2394039/Venmar-Vj504302ss.html"
+  },
+  {
+   "manualId": "4530985",
+   "slug": "Venmar-Jazz-Vj603302ss",
+   "title": "VJ603302SS Jazz installation instructions manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "VJ603302SS Jazz",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4530985/Venmar-Jazz-Vj603302ss.html"
+  },
+  {
+   "manualId": "871602",
+   "slug": "Venmar-Vj603302ss-Jazz",
+   "title": "VJ603302SS Jazz installation instructions manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "VJ603302SS Jazz",
+   "extraModels": [
+    "VJ70536SS"
+   ],
+   "url": "https://www.manualslib.com/manual/871602/Venmar-Vj603302ss-Jazz.html"
+  },
+  {
+   "manualId": "1023650",
+   "slug": "Venmar-Vj60330ss",
+   "title": "VJ60330SS installation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "VJ60330SS",
+   "extraModels": [
+    "VJ60430SS"
+   ],
+   "url": "https://www.manualslib.com/manual/1023650/Venmar-Vj60330ss.html"
+  },
+  {
+   "manualId": "926363",
+   "slug": "Venmar-Vj61030ss",
+   "title": "VJ61030SS Using instructions",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "VJ61030SS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/926363/Venmar-Vj61030ss.html"
+  },
+  {
+   "manualId": "2227010",
+   "slug": "Venmar-Vj70330ss",
+   "title": "VJ70330SS Installation instruction",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "VJ70330SS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2227010/Venmar-Vj70330ss.html"
+  },
+  {
+   "manualId": "1088554",
+   "slug": "Venmar-Vj70330ss",
+   "title": "VJ70330SS instructions manual",
+   "type": "User / Owner",
+   "pages": 13,
+   "productModel": "VJ70330SS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1088554/Venmar-Vj70330ss.html"
+  },
+  {
+   "manualId": "1123287",
+   "slug": "Venmar-Vj71030ss",
+   "title": "VJ71030SS installation instructions manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "VJ71030SS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1123287/Venmar-Vj71030ss.html"
+  },
+  {
+   "manualId": "813789",
+   "slug": "Venmar-Vj71130ss",
+   "title": "VJ71130SS installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "VJ71130SS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/813789/Venmar-Vj71130ss.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4415303",
+   "slug": "installation-and-owner-guide-40355-40455-vt9w-controls",
+   "title": "Installation & Owner Guide: 40355, 40455, VT9W Controls"
+  },
+  {
+   "manualId": "4426998",
+   "slug": "venmar-ces-erv500i-e-installation-and-maintenance-manual",
+   "title": "Venmar CES ERV500i/e Installation & Maintenance Manual"
+  }
+ ],
+ "techDirectIds": [
+  "venmar-systems"
+ ]
+}

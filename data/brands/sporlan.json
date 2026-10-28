@@ -1,0 +1,244 @@
+{
+ "brand": "Sporlan",
+ "brandSlug": "sporlan",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/sporlan/"
+ ],
+ "slugUsed": "sporlan",
+ "capturedAt": "2026-10-28T12:52:07.532824+00:00",
+ "typePages": [
+  {
+   "path": "/brand/sporlan/cables-and-connectors.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/sporlan/control-unit.html",
+   "manuals": 101,
+   "status": 200
+  },
+  {
+   "path": "/brand/sporlan/controller.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/sporlan/thermostat.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/sporlan/touch-panel.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3857951",
+   "slug": "Sporlan-10g711b",
+   "title": "10G711B Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "10G711B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857951/Sporlan-10g711b.html"
+  },
+  {
+   "manualId": "1611114",
+   "slug": "Sporlan-B5d",
+   "title": "10G711C Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "10G711C",
+   "extraModels": [
+    "10G711C",
+    "12D",
+    "12D-SC",
+    "16D-SC",
+    "8D",
+    "8D-SC"
+   ],
+   "url": "https://www.manualslib.com/manual/1611114/Sporlan-B5d.html"
+  },
+  {
+   "manualId": "3857950",
+   "slug": "Sporlan-10g79b",
+   "title": "10G79B Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "10G79B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857950/Sporlan-10g79b.html"
+  },
+  {
+   "manualId": "3857949",
+   "slug": "Sporlan-16d",
+   "title": "16D Installation and servicing instructions",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "16D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3857949/Sporlan-16d.html"
+  },
+  {
+   "manualId": "1530516",
+   "slug": "Sporlan-Esx",
+   "title": "ESX Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "ESX",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1530516/Sporlan-Esx.html"
+  },
+  {
+   "manualId": "1463348",
+   "slug": "Sporlan-Oroa-5",
+   "title": "Installation & service instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1463348/Sporlan-Oroa-5.html"
+  },
+  {
+   "manualId": "1530512",
+   "slug": "Sporlan-Orit-10",
+   "title": "Installation & service instructions",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1530512/Sporlan-Orit-10.html"
+  },
+  {
+   "manualId": "1530514",
+   "slug": "Sporlan-Orit-12",
+   "title": "Installation & service instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1530514/Sporlan-Orit-12.html"
+  },
+  {
+   "manualId": "1063762",
+   "slug": "Sporlan-Psk201",
+   "title": "Installation And Operating Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1063762/Sporlan-Psk201.html"
+  },
+  {
+   "manualId": "1535095",
+   "slug": "Sporlan-Sdr-4",
+   "title": "Installation and service instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1535095/Sporlan-Sdr-4.html"
+  },
+  {
+   "manualId": "3785338",
+   "slug": "Sporlan-8d7b",
+   "title": "Installation And Servicing Instruction",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3785338/Sporlan-8d7b.html"
+  },
+  {
+   "manualId": "1482521",
+   "slug": "Sporlan-Asc-H-7",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1482521/Sporlan-Asc-H-7.html"
+  },
+  {
+   "manualId": "1530513",
+   "slug": "Sporlan-See-All",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1530513/Sporlan-See-All.html"
+  },
+  {
+   "manualId": "1535120",
+   "slug": "Sporlan-Ebv-Series",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1535120/Sporlan-Ebv-Series.html"
+  },
+  {
+   "manualId": "1546096",
+   "slug": "Sporlan-Secondary-Fluid-Control",
+   "title": "Quick reference manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1546096/Sporlan-Secondary-Fluid-Control.html"
+  },
+  {
+   "manualId": "4545952",
+   "slug": "Sporlan-S3c",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4545952/Sporlan-S3c.html"
+  },
+  {
+   "manualId": "2938415",
+   "slug": "Sporlan-Parker-S3c",
+   "title": "Startup manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2938415/Sporlan-Parker-S3c.html"
+  },
+  {
+   "manualId": "1992475",
+   "slug": "Sporlan-Superheat",
+   "title": "Superheat Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Superheat",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1992475/Sporlan-Superheat.html"
+  },
+  {
+   "manualId": "1563777",
+   "slug": "Sporlan-Superheat",
+   "title": "Superheat Installation And Servicing Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "Superheat",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1563777/Sporlan-Superheat.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "parker-sporlan"
+ ]
+}
