@@ -72,24 +72,31 @@ NAVIGATION.md                   historical live-lookup spec (reference only)
 
 ## Quarters — Oct 28, 2026
 
-The combined index (335 brands, 213,264 manuals) is 59.0 MB, which
+The combined index (345 brands, 215,421 manuals) is 59.7 MB, which
 GitHub's API refuses as a single file. It is therefore published in
 four quarters, split by brand — no brand's manual list is split
 across parts — balanced by serialized size so each part is about
-14.8 MB:
+14.9 MB:
 
 | Part | Brands | Manuals |
 |---|---|---|
-| dist/index-1.json | 82 | 52,362 |
-| dist/index-2.json | 84 | 51,823 |
-| dist/index-3.json | 84 | 54,857 |
-| dist/index-4.json | 85 | 54,222 |
+| dist/index-1.json | 84 | 52,856 |
+| dist/index-2.json | 87 | 52,164 |
+| dist/index-3.json | 86 | 55,697 |
+| dist/index-4.json | 88 | 54,704 |
 
-The 335 brands are 10 Phase 1 trade brands (33,588 manuals) plus
+The 345 brands are 10 Phase 1 trade brands (33,588 manuals) plus
 317 HVAC-category brands captured from TechDirect's HVAC list
 (178,741 manuals) plus 8 major-gap brands captured Oct 28, 2026
 (935 manuals: Noritz, State Water Heaters, Chromalox, Electro
-Industries, HydroTherm, IBC, ThermaFlo, Vapor Power). A brand slug
+Industries, HydroTherm, IBC, ThermaFlo, Vapor Power) plus 9 Tier B1
+brands (1,457 manuals: Burnham, KeepRite, Titus, AAF, Hoshizaki,
+Venmar, Hurst, First Company, Sporlan) plus Samsung HVAC-only
+(700 manuals: 12 HVAC types from /brand/samsung/ — air-cleaner,
+air-conditioner, air-conditioner-accessories, air-handlers, chiller,
+dehumidifier, fan, heat-pump, heat-pump-accessories, heater,
+heating-system, split-type-air-conditioner; electronics/appliance
+types excluded per Fred, Oct 28, 2026). A brand slug
 appearing in two quarters is a build error, never silently
 overwritten. The quarters are the index; `dist/index.json` remains
 only as the Phase 1 legacy file.
