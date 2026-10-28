@@ -1,0 +1,2992 @@
+{
+ "brand": "State Water Heaters",
+ "brandSlug": "state-water-heaters",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/state-water-heaters/"
+ ],
+ "slugUsed": "state-water-heaters",
+ "capturedAt": "2026-10-28T12:38:18.275562+00:00",
+ "typePages": [
+  {
+   "path": "/brand/state-water-heaters/boiler.html",
+   "manuals": 49,
+   "status": 200
+  },
+  {
+   "path": "/brand/state-water-heaters/gas-water-heater.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/state-water-heaters/heat-pump.html",
+   "manuals": 42,
+   "status": 200
+  },
+  {
+   "path": "/brand/state-water-heaters/pest-control.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/state-water-heaters/sander.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/state-water-heaters/water-heater.html",
+   "manuals": 1077,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "899959",
+   "slug": "State-Water-Heaters-Commercial-Electric-Water-Heaters",
+   "title": "***120kW I instruction manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "***120kW I",
+   "extraModels": [
+    "***120kW I",
+    "***120kW S",
+    "***52kW I",
+    "***52kW S",
+    "***82kW I",
+    "***82kW S"
+   ],
+   "url": "https://www.manualslib.com/manual/899959/State-Water-Heaters-Commercial-Electric-Water-Heaters.html"
+  },
+  {
+   "manualId": "903441",
+   "slug": "State-Water-Heaters-21-000-236-000-Btu-Tankless-Water-Heater",
+   "title": "000 - 236 Owner's manual and installation manual",
+   "type": "Installation",
+   "pages": 67,
+   "productModel": "000 - 236",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/903441/State-Water-Heaters-21-000-236-000-Btu-Tankless-Water-Heater.html"
+  },
+  {
+   "manualId": "4593197",
+   "slug": "State-Water-Heaters-B-4-Spindle-Sander",
+   "title": "018215 Operator's manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "018215",
+   "extraModels": [
+    "018215",
+    "018220"
+   ],
+   "url": "https://www.manualslib.com/manual/4593197/State-Water-Heaters-B-4-Spindle-Sander.html"
+  },
+  {
+   "manualId": "3285312",
+   "slug": "State-Water-Heaters-Gs6-40-Ubpds",
+   "title": "100 SERIES Installation and operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "100 SERIES",
+   "extraModels": [
+    "100 SERIES",
+    "GS6-50-UBPDS"
+   ],
+   "url": "https://www.manualslib.com/manual/3285312/State-Water-Heaters-Gs6-40-Ubpds.html"
+  },
+  {
+   "manualId": "165247",
+   "slug": "State-Water-Heaters-Gp6-50",
+   "title": "100 SERIES instruction manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "100 SERIES",
+   "extraModels": [
+    "100 SERIES",
+    "GP6 50 YTVIT SERIES 100"
+   ],
+   "url": "https://www.manualslib.com/manual/165247/State-Water-Heaters-Gp6-50.html"
+  },
+  {
+   "manualId": "165301",
+   "slug": "State-Water-Heaters-Suf-100-250",
+   "title": "100 SERIES instruction manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "100 SERIES",
+   "extraModels": [
+    "Series 101",
+    "SUF 100 150",
+    "SUF 100 199",
+    "SUF-60-120"
+   ],
+   "url": "https://www.manualslib.com/manual/165301/State-Water-Heaters-Suf-100-250.html"
+  },
+  {
+   "manualId": "2485039",
+   "slug": "State-Water-Heaters-100-Series",
+   "title": "100 SERIES instruction manual",
+   "type": "User / Owner",
+   "pages": 104,
+   "productModel": "100 SERIES",
+   "extraModels": [
+    "CSB-80",
+    "SANDBLASTER CSB 120",
+    "SANDBLASTER CSB 52"
+   ],
+   "url": "https://www.manualslib.com/manual/2485039/State-Water-Heaters-100-Series.html"
+  },
+  {
+   "manualId": "3104253",
+   "slug": "State-Water-Heaters-Ssf-100",
+   "title": "100 SERIES instruction manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "100 SERIES",
+   "extraModels": [
+    "Series 101",
+    "SSX100"
+   ],
+   "url": "https://www.manualslib.com/manual/3104253/State-Water-Heaters-Ssf-100.html"
+  },
+  {
+   "manualId": "3163167",
+   "slug": "State-Water-Heaters-Sbl-100-76ne",
+   "title": "100 SERIES instruction manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "100 SERIES",
+   "extraModels": [
+    "SBL 75 76NE"
+   ],
+   "url": "https://www.manualslib.com/manual/3163167/State-Water-Heaters-Sbl-100-76ne.html"
+  },
+  {
+   "manualId": "3541324",
+   "slug": "State-Water-Heaters-101-Series",
+   "title": "100 SERIES instruction manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "100 SERIES",
+   "extraModels": [
+    "100 SERIES",
+    "SBD 30 150",
+    "SBD 30 199"
+   ],
+   "url": "https://www.manualslib.com/manual/3541324/State-Water-Heaters-101-Series.html"
+  },
+  {
+   "manualId": "165250",
+   "slug": "State-Water-Heaters-Gs6-Gsx-65-Hrrt",
+   "title": "100 SERIES Parts List",
+   "type": "Parts & Wiring",
+   "pages": 2,
+   "productModel": "100 SERIES",
+   "extraModels": [
+    "100 SERIES",
+    "Series 101"
+   ],
+   "url": "https://www.manualslib.com/manual/165250/State-Water-Heaters-Gs6-Gsx-65-Hrrt.html"
+  },
+  {
+   "manualId": "1233973",
+   "slug": "State-Water-Heaters-Sse-5",
+   "title": "100 SERIES Service Handbook",
+   "type": "Service",
+   "pages": 84,
+   "productModel": "100 SERIES",
+   "extraModels": [
+    "100 SERIES",
+    "102 SERIES",
+    "SSE-120"
+   ],
+   "url": "https://www.manualslib.com/manual/1233973/State-Water-Heaters-Sse-5.html"
+  },
+  {
+   "manualId": "1892606",
+   "slug": "State-Water-Heaters-100-Series",
+   "title": "100 SERIES User's information manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "100 SERIES",
+   "extraModels": [
+    "SHPA-125",
+    "SHPA-185",
+    "SHPA-25",
+    "SHPA-250",
+    "SHPA-60",
+    "SHPA-90"
+   ],
+   "url": "https://www.manualslib.com/manual/1892606/State-Water-Heaters-100-Series.html"
+  },
+  {
+   "manualId": "2405029",
+   "slug": "State-Water-Heaters-100-Series",
+   "title": "100 SERIES User's information manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "100 SERIES",
+   "extraModels": [
+    "SHPM-1080",
+    "SHPM-1350",
+    "SHPM-1620",
+    "SHPM-1890",
+    "SHPM-2160",
+    "SHPM-270",
+    "SHPM-810",
+    "SHPM540"
+   ],
+   "url": "https://www.manualslib.com/manual/2405029/State-Water-Heaters-100-Series.html"
+  },
+  {
+   "manualId": "2988292",
+   "slug": "State-Water-Heaters-Shpm-270",
+   "title": "100 SERIES User's information manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "100 SERIES",
+   "extraModels": [
+    "100 SERIES",
+    "SHPM-1080",
+    "SHPM-1350",
+    "SHPM-1620",
+    "SHPM-1890",
+    "SHPM-2160",
+    "SHPM-810",
+    "SHPM540"
+   ],
+   "url": "https://www.manualslib.com/manual/2988292/State-Water-Heaters-Shpm-270.html"
+  },
+  {
+   "manualId": "3277215",
+   "slug": "State-Water-Heaters-Shpw-25",
+   "title": "100 SERIES User's information manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "100 SERIES",
+   "extraModels": [
+    "100 SERIES",
+    "SHPW-125",
+    "SHPW-185",
+    "SHPW-250",
+    "SHPW-60",
+    "SHPW-90"
+   ],
+   "url": "https://www.manualslib.com/manual/3277215/State-Water-Heaters-Shpw-25.html"
+  },
+  {
+   "manualId": "3706667",
+   "slug": "State-Water-Heaters-104-Series",
+   "title": "105 Series instruction manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "105 Series",
+   "extraModels": [
+    "105 Series",
+    "GPG-540A",
+    "GPG-650A",
+    "GPG-740A",
+    "GPV-540A",
+    "GPV-650A",
+    "GPV-740A"
+   ],
+   "url": "https://www.manualslib.com/manual/3706667/State-Water-Heaters-104-Series.html"
+  },
+  {
+   "manualId": "1066135",
+   "slug": "State-Water-Heaters-110c",
+   "title": "110C Installation manual and owner's manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "110C",
+   "extraModels": [
+    "310C",
+    "510C"
+   ],
+   "url": "https://www.manualslib.com/manual/1066135/State-Water-Heaters-110c.html"
+  },
+  {
+   "manualId": "2701063",
+   "slug": "State-Water-Heaters-310c",
+   "title": "110C Installation manual and owner's manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "110C",
+   "extraModels": [
+    "110C",
+    "510C",
+    "AO Smith ATI-510C",
+    "AT-D3U-CV",
+    "AT-K5U-CV",
+    "AT-KJr3U-CV",
+    "GTS-510C-NI",
+    "Reliance TS-510C",
+    "Takagi TK-510C"
+   ],
+   "url": "https://www.manualslib.com/manual/2701063/State-Water-Heaters-310c.html"
+  },
+  {
+   "manualId": "1067268",
+   "slug": "State-Water-Heaters-6-Series",
+   "title": "120 Series instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "120 Series",
+   "extraModels": [
+    "120 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1067268/State-Water-Heaters-6-Series.html"
+  },
+  {
+   "manualId": "3923105",
+   "slug": "State-Water-Heaters-121-Series",
+   "title": "121 Series Service handbook",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "121 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3923105/State-Water-Heaters-121-Series.html"
+  },
+  {
+   "manualId": "817945",
+   "slug": "State-Water-Heaters-184671-000",
+   "title": "184671-000 instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "184671-000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/817945/State-Water-Heaters-184671-000.html"
+  },
+  {
+   "manualId": "165220",
+   "slug": "State-Water-Heaters-184671-000-Rear",
+   "title": "184671-000 Warranty",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "184671-000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165220/State-Water-Heaters-184671-000-Rear.html"
+  },
+  {
+   "manualId": "165222",
+   "slug": "State-Water-Heaters-184735-000",
+   "title": "184735-000 instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "184735-000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165222/State-Water-Heaters-184735-000.html"
+  },
+  {
+   "manualId": "165224",
+   "slug": "State-Water-Heaters-184748-001",
+   "title": "184748-001 instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "184748-001",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165224/State-Water-Heaters-184748-001.html"
+  },
+  {
+   "manualId": "165227",
+   "slug": "State-Water-Heaters-185244-004",
+   "title": "185244-004 instruction manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "185244-004",
+   "extraModels": [
+    "315466-000",
+    "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2",
+    "Select Direct-Vent GS6 40 YBDS",
+    "Select GS6 Series",
+    "Select Power-Vent C3 (FVIR) GS6 50 YBVIT",
+    "Select Power-Vent C3 (FVIR) GS6 50 YBVIT 2"
+   ],
+   "url": "https://www.manualslib.com/manual/165227/State-Water-Heaters-185244-004.html"
+  },
+  {
+   "manualId": "165229",
+   "slug": "State-Water-Heaters-186489-002",
+   "title": "186489-002 Installation Instructions and Use & Care manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "186489-002",
+   "extraModels": [
+    "GPX Series",
+    "GS6 30 YBRT",
+    "GS6 40 YBPDT",
+    "GS6 50 YBPDT",
+    "GS6-30-ORBT-400",
+    "GS6-40-BCT-400",
+    "GSX Series",
+    "Premier Series",
+    "Select GS6 Series",
+    "Select Series"
+   ],
+   "url": "https://www.manualslib.com/manual/165229/State-Water-Heaters-186489-002.html"
+  },
+  {
+   "manualId": "165228",
+   "slug": "State-Water-Heaters-186589-001",
+   "title": "186589-001 instruction manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "186589-001",
+   "extraModels": [
+    "Select GS6 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/165228/State-Water-Heaters-186589-001.html"
+  },
+  {
+   "manualId": "165225",
+   "slug": "State-Water-Heaters-196114-000",
+   "title": "196114-000 Installation, operation, service, maintenance, limited warranty",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "196114-000",
+   "extraModels": [
+    "65"
+   ],
+   "url": "https://www.manualslib.com/manual/165225/State-Water-Heaters-196114-000.html"
+  },
+  {
+   "manualId": "165235",
+   "slug": "State-Water-Heaters-197425-004",
+   "title": "197425-004 instruction manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "197425-004",
+   "extraModels": [
+    "GP6 50YIVIT"
+   ],
+   "url": "https://www.manualslib.com/manual/165235/State-Water-Heaters-197425-004.html"
+  },
+  {
+   "manualId": "165196",
+   "slug": "State-Water-Heaters-200-Series",
+   "title": "200 Series Brochure & specs",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "200 Series",
+   "extraModels": [
+    "GS6 30 YBRT",
+    "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2",
+    "GS6 50 YBPDT"
+   ],
+   "url": "https://www.manualslib.com/manual/165196/State-Water-Heaters-200-Series.html"
+  },
+  {
+   "manualId": "3289458",
+   "slug": "State-Water-Heaters-Edt662ort",
+   "title": "200 Series instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "200 Series",
+   "extraModels": [
+    "200 Series",
+    "EDT120ORT",
+    "EDT802ORT"
+   ],
+   "url": "https://www.manualslib.com/manual/3289458/State-Water-Heaters-Edt662ort.html"
+  },
+  {
+   "manualId": "1900657",
+   "slug": "State-Water-Heaters-300-Series",
+   "title": "300 Series Installation and operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "300 Series",
+   "extraModels": [
+    "301 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1900657/State-Water-Heaters-300-Series.html"
+  },
+  {
+   "manualId": "3275561",
+   "slug": "State-Water-Heaters-301-Series",
+   "title": "300 Series instruction manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "300 Series",
+   "extraModels": [
+    "300 Series",
+    "SUF 100",
+    "SUF 100 150",
+    "SUF 119 300 PEA",
+    "SUF-100-250",
+    "SUF-60-120"
+   ],
+   "url": "https://www.manualslib.com/manual/3275561/State-Water-Heaters-301-Series.html"
+  },
+  {
+   "manualId": "3605099",
+   "slug": "State-Water-Heaters-Suf-100-199ne",
+   "title": "300 Series instruction manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "300 Series",
+   "extraModels": [
+    "300 Series",
+    "301 Series",
+    "SUF 100-150",
+    "SUF-100-250",
+    "SUF-60-120"
+   ],
+   "url": "https://www.manualslib.com/manual/3605099/State-Water-Heaters-Suf-100-199ne.html"
+  },
+  {
+   "manualId": "712106",
+   "slug": "State-Water-Heaters-305",
+   "title": "305 Exterior Brochure & specs",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "305 Exterior",
+   "extraModels": [
+    "505 Exterior",
+    "705 Exterior"
+   ],
+   "url": "https://www.manualslib.com/manual/712106/State-Water-Heaters-305.html"
+  },
+  {
+   "manualId": "165306",
+   "slug": "State-Water-Heaters-Tankless-On-Demand-705-Series-200",
+   "title": "305 Exterior Operation and installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "305 Exterior",
+   "extraModels": [
+    "305 Exterior",
+    "505 Exterior",
+    "Tankless On-Demand 705 Series 200",
+    "U287-084"
+   ],
+   "url": "https://www.manualslib.com/manual/165306/State-Water-Heaters-Tankless-On-Demand-705-Series-200.html"
+  },
+  {
+   "manualId": "882928",
+   "slug": "State-Water-Heaters-305",
+   "title": "305 Exterior Operation and installation manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "305 Exterior",
+   "extraModels": [
+    "505 Exterior",
+    "705 Exterior"
+   ],
+   "url": "https://www.manualslib.com/manual/882928/State-Water-Heaters-305.html"
+  },
+  {
+   "manualId": "165233",
+   "slug": "State-Water-Heaters-317913-000",
+   "title": "317913-000 Technical manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "317913-000",
+   "extraModels": [
+    "SUF 100-150"
+   ],
+   "url": "https://www.manualslib.com/manual/165233/State-Water-Heaters-317913-000.html"
+  },
+  {
+   "manualId": "185502",
+   "slug": "State-Water-Heaters-318258-000",
+   "title": "318258-000 Installation Instructions and Use & Care manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "318258-000",
+   "extraModels": [
+    "EPX-80DHPT"
+   ],
+   "url": "https://www.manualslib.com/manual/185502/State-Water-Heaters-318258-000.html"
+  },
+  {
+   "manualId": "3981199",
+   "slug": "State-Water-Heaters-400-Series",
+   "title": "400 Series instruction manual",
+   "type": "User / Owner",
+   "pages": 112,
+   "productModel": "400 Series",
+   "extraModels": [
+    "401 Series",
+    "450 Series",
+    "451 Series",
+    "FLEX 100G",
+    "FLEX 119G",
+    "FLEX 60G"
+   ],
+   "url": "https://www.manualslib.com/manual/3981199/State-Water-Heaters-400-Series.html"
+  },
+  {
+   "manualId": "924064",
+   "slug": "State-Water-Heaters-Gpg-Gpv-540a",
+   "title": "650A instruction manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "650A",
+   "extraModels": [
+    "650A",
+    "740A"
+   ],
+   "url": "https://www.manualslib.com/manual/924064/State-Water-Heaters-Gpg-Gpv-540a.html"
+  },
+  {
+   "manualId": "990455",
+   "slug": "State-Water-Heaters-710",
+   "title": "710 Installation manual and owner's manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "710",
+   "extraModels": [
+    "710 ASME",
+    "T-M32"
+   ],
+   "url": "https://www.manualslib.com/manual/990455/State-Water-Heaters-710.html"
+  },
+  {
+   "manualId": "165244",
+   "slug": "State-Water-Heaters-A-B-C-D-E-F-100",
+   "title": "A B C D E F 100 instruction manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "A B C D E F 100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165244/State-Water-Heaters-A-B-C-D-E-F-100.html"
+  },
+  {
+   "manualId": "165200",
+   "slug": "State-Water-Heaters-Asme-Sw-37-670",
+   "title": "ASME SW 37-670 instruction manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "ASME SW 37-670",
+   "extraModels": [
+    "SW150540K",
+    "SW150600K",
+    "SW150660K",
+    "SW150720K",
+    "SW2201020K",
+    "SW2201080K",
+    "SW2201140K",
+    "SW220780K",
+    "SW220840K",
+    "SW220900K",
+    "SW220960K",
+    "SW3341200K",
+    "SW3341260K",
+    "SW3341380K",
+    "SW3341500K",
+    "SW3341620K",
+    "SW3341740K",
+    "SW37105K",
+    "SW37120K",
+    "SW37150K",
+    "SW37180K",
+    "SW3745K",
+    "SW3760K",
+    "SW3775K",
+    "SW3790K",
+    "SW4001800K",
+    "SW4001860K",
+    "SW4001980K",
+    "SW4002100K",
+    "SW5002200K",
+    "SW5002340K",
+    "SW5002460K",
+    "SW5002580K",
+    "SW60210K",
+    "SW60240K",
+    "SW60270K",
+    "SW60300K",
+    "SW6702700K",
+    "SW6702820K",
+    "SW6702940K",
+    "SW6703060K",
+    "SW6703180K",
+    "SW6703300K",
+    "SW96330K",
+    "SW96390K",
+    "SW96420K",
+    "SW96450K",
+    "SW96480K"
+   ],
+   "url": "https://www.manualslib.com/manual/165200/State-Water-Heaters-Asme-Sw-37-670.html"
+  },
+  {
+   "manualId": "4260167",
+   "slug": "State-Water-Heaters-B-4",
+   "title": "B-4 Operator's manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "B-4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4260167/State-Water-Heaters-B-4.html"
+  },
+  {
+   "manualId": "4347962",
+   "slug": "State-Water-Heaters-B-4-Spindle-Sander",
+   "title": "B-4 owner's manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "B-4",
+   "extraModels": [
+    "T-5"
+   ],
+   "url": "https://www.manualslib.com/manual/4347962/State-Water-Heaters-B-4-Spindle-Sander.html"
+  },
+  {
+   "manualId": "165206",
+   "slug": "State-Water-Heaters-Gp650ytpdt",
+   "title": "brochure",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "SHE50100NE"
+   ],
+   "url": "https://www.manualslib.com/manual/165206/State-Water-Heaters-Gp650ytpdt.html"
+  },
+  {
+   "manualId": "165238",
+   "slug": "State-Water-Heaters-Collins",
+   "title": "brochure",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165238/State-Water-Heaters-Collins.html"
+  },
+  {
+   "manualId": "165239",
+   "slug": "State-Water-Heaters-Ccvit-Pr6-50",
+   "title": "CCVIT PR6 50 owner's manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "CCVIT PR6 50",
+   "extraModels": [
+    "PR6 40 CBDS",
+    "PR6 40 CCVIT",
+    "PR6 40 XCVIT",
+    "PR6 50 XCVIT",
+    "XCVIT"
+   ],
+   "url": "https://www.manualslib.com/manual/165239/State-Water-Heaters-Ccvit-Pr6-50.html"
+  },
+  {
+   "manualId": "165209",
+   "slug": "State-Water-Heaters-Commercial-Gas-Water-Heater",
+   "title": "Commercial Gas Water Heater instruction manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "Commercial Gas Water Heater",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165209/State-Water-Heaters-Commercial-Gas-Water-Heater.html"
+  },
+  {
+   "manualId": "3920339",
+   "slug": "State-Water-Heaters-Csb120-I-Series",
+   "title": "CSB120 I Series Service handbook",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "CSB120 I Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3920339/State-Water-Heaters-Csb120-I-Series.html"
+  },
+  {
+   "manualId": "3920340",
+   "slug": "State-Water-Heaters-Csb120-S-Series",
+   "title": "CSB120 S Series Service handbook",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "CSB120 S Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3920340/State-Water-Heaters-Csb120-S-Series.html"
+  },
+  {
+   "manualId": "3144449",
+   "slug": "State-Water-Heaters-Csb52-I-Series",
+   "title": "CSB52 I Series Service handbook",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "CSB52 I Series",
+   "extraModels": [
+    "CSB52 S Series",
+    "CSB82 S Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3144449/State-Water-Heaters-Csb52-I-Series.html"
+  },
+  {
+   "manualId": "3920338",
+   "slug": "State-Water-Heaters-Csb82-I-Series",
+   "title": "CSB82 I Series Service handbook",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "CSB82 I Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3920338/State-Water-Heaters-Csb82-I-Series.html"
+  },
+  {
+   "manualId": "165277",
+   "slug": "State-Water-Heaters-Sbd85500pe",
+   "title": "D85500NE instruction manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "D85500NE",
+   "extraModels": [
+    "D85500NE",
+    "SBD85500NE"
+   ],
+   "url": "https://www.manualslib.com/manual/165277/State-Water-Heaters-Sbd85500pe.html"
+  },
+  {
+   "manualId": "893359",
+   "slug": "State-Water-Heaters-Direct-Vent-Gas-Water-Heaters",
+   "title": "DIRECT VENT GAS WATER HEATERS instruction manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "DIRECT VENT GAS WATER HEATERS",
+   "extraModels": [
+    "DIRECT VENT GAS WATER HEATERS"
+   ],
+   "url": "https://www.manualslib.com/manual/893359/State-Water-Heaters-Direct-Vent-Gas-Water-Heaters.html"
+  },
+  {
+   "manualId": "1023478",
+   "slug": "State-Water-Heaters-En6-50-Dort-100",
+   "title": "EN6-50-DORT 100 Installation Instructions and Use & Care manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "EN6-50-DORT 100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1023478/State-Water-Heaters-En6-50-Dort-100.html"
+  },
+  {
+   "manualId": "4099027",
+   "slug": "State-Water-Heaters-Force-90Plus",
+   "title": "Force 90+ instruction manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "Force 90+",
+   "extraModels": [
+    "SHE-75-100-ME 400"
+   ],
+   "url": "https://www.manualslib.com/manual/4099027/State-Water-Heaters-Force-90Plus.html"
+  },
+  {
+   "manualId": "165241",
+   "slug": "State-Water-Heaters-Force-90Plus-Scgss01108",
+   "title": "Force 90+ Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Force 90+",
+   "extraModels": [
+    "SHE50 100NE"
+   ],
+   "url": "https://www.manualslib.com/manual/165241/State-Water-Heaters-Force-90Plus-Scgss01108.html"
+  },
+  {
+   "manualId": "711731",
+   "slug": "State-Water-Heaters-She50-100ne",
+   "title": "Force 90+ Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Force 90+",
+   "extraModels": [
+    "Force 90+"
+   ],
+   "url": "https://www.manualslib.com/manual/711731/State-Water-Heaters-She50-100ne.html"
+  },
+  {
+   "manualId": "756757",
+   "slug": "State-Water-Heaters-Fvir",
+   "title": "FVIR Installation Instructions and Use & Care manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "FVIR",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/756757/State-Water-Heaters-Fvir.html"
+  },
+  {
+   "manualId": "2798724",
+   "slug": "State-Water-Heaters-Gb61-40t40",
+   "title": "G102-50S40 Installation Instructions and Use & Care manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "G102-50S40",
+   "extraModels": [
+    "G102-50S40",
+    "G102-50T50",
+    "G102-50T60",
+    "G62-30S30",
+    "G62-50S40",
+    "G62-50T50",
+    "G82-50T50",
+    "GB101-40S40"
+   ],
+   "url": "https://www.manualslib.com/manual/2798724/State-Water-Heaters-Gb61-40t40.html"
+  },
+  {
+   "manualId": "165204",
+   "slug": "State-Water-Heaters-Gas",
+   "title": "Gas Specification sheet",
+   "type": "Other",
+   "pages": 6,
+   "productModel": "Gas",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165204/State-Water-Heaters-Gas.html"
+  },
+  {
+   "manualId": "903069",
+   "slug": "State-Water-Heaters-Gas-Water-Heater",
+   "title": "Gas Water Heater Owner's manual and installation manual",
+   "type": "Installation",
+   "pages": 51,
+   "productModel": "Gas Water Heater",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/903069/State-Water-Heaters-Gas-Water-Heater.html"
+  },
+  {
+   "manualId": "165261",
+   "slug": "State-Water-Heaters-Premier-Power-Vent-Dv-Series-Gp6-50-Htpdt-120-Series",
+   "title": "GP6 50 120 instruction manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "GP6 50 120",
+   "extraModels": [
+    "GP6 50 120",
+    "Premier Power Vent DV Series GP6 50 HTPDT 120 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/165261/State-Water-Heaters-Premier-Power-Vent-Dv-Series-Gp6-50-Htpdt-120-Series.html"
+  },
+  {
+   "manualId": "2391636",
+   "slug": "State-Water-Heaters-Gp6-50-Series",
+   "title": "GP6 50 Series instruction manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "GP6 50 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2391636/State-Water-Heaters-Gp6-50-Series.html"
+  },
+  {
+   "manualId": "165205",
+   "slug": "State-Water-Heaters-Gp6-50-Ytvit",
+   "title": "GP6 50 YTVIT Replacement parts list",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": "GP6 50 YTVIT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165205/State-Water-Heaters-Gp6-50-Ytvit.html"
+  },
+  {
+   "manualId": "1067618",
+   "slug": "State-Water-Heaters-She-50-100-Ne",
+   "title": "GP650 HTPDT Service handbook",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "GP650 HTPDT",
+   "extraModels": [
+    "GP650 HTPDT",
+    "GP650YTPDT",
+    "SHE 50-100 PE"
+   ],
+   "url": "https://www.manualslib.com/manual/1067618/State-Water-Heaters-She-50-100-Ne.html"
+  },
+  {
+   "manualId": "165211",
+   "slug": "State-Water-Heaters-Gp650-Htpdt",
+   "title": "GP650 HTPDT Service handbook",
+   "type": "Service",
+   "pages": 54,
+   "productModel": "GP650 HTPDT",
+   "extraModels": [
+    "GP650YTPDT",
+    "SHE50-100 NE",
+    "SHE50-100PE",
+    "SHE50100NE"
+   ],
+   "url": "https://www.manualslib.com/manual/165211/State-Water-Heaters-Gp650-Htpdt.html"
+  },
+  {
+   "manualId": "850843",
+   "slug": "State-Water-Heaters-Gp650ytvit",
+   "title": "GP650YTVIT instruction manual",
+   "type": "User / Owner",
+   "pages": 72,
+   "productModel": "GP650YTVIT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/850843/State-Water-Heaters-Gp650ytvit.html"
+  },
+  {
+   "manualId": "724929",
+   "slug": "State-Water-Heaters-Gpg-81-140",
+   "title": "GPG 81-140 instruction manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "GPG 81-140",
+   "extraModels": [
+    "GPG 81-199",
+    "GPG 81-270",
+    "GPG 81-370"
+   ],
+   "url": "https://www.manualslib.com/manual/724929/State-Water-Heaters-Gpg-81-140.html"
+  },
+  {
+   "manualId": "165245",
+   "slug": "State-Water-Heaters-Gpg-540a",
+   "title": "GPG-540A Installation operation & maintenance",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "GPG-540A",
+   "extraModels": [
+    "GPG-650A",
+    "GPG-740A",
+    "GPV-540A",
+    "GPV-650A",
+    "GPV-740A"
+   ],
+   "url": "https://www.manualslib.com/manual/165245/State-Water-Heaters-Gpg-540a.html"
+  },
+  {
+   "manualId": "165207",
+   "slug": "State-Water-Heaters-Gpg-Gpv-540a",
+   "title": "GPG-540A Replacement parts list manual",
+   "type": "Parts & Wiring",
+   "pages": 6,
+   "productModel": "GPG-540A",
+   "extraModels": [
+    "GPG-540A",
+    "GPG-650A",
+    "GPG-740A",
+    "GPV-650A",
+    "GPV-740A",
+    "Series 104"
+   ],
+   "url": "https://www.manualslib.com/manual/165207/State-Water-Heaters-Gpg-Gpv-540a.html"
+  },
+  {
+   "manualId": "165246",
+   "slug": "State-Water-Heaters-Gpo-86-199",
+   "title": "GPO 69-700(A) Installation & operation instruction",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "GPO 69-700(A)",
+   "extraModels": [
+    "GPO 69-700(A)",
+    "GPO 75-385(A)",
+    "GPO 75-455(A)",
+    "GPO 84-315(A)",
+    "GPO 86-245"
+   ],
+   "url": "https://www.manualslib.com/manual/165246/State-Water-Heaters-Gpo-86-199.html"
+  },
+  {
+   "manualId": "804406",
+   "slug": "State-Water-Heaters-Gpo-86-199",
+   "title": "GPO 69-700A Installation & operation instruction",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "GPO 69-700A",
+   "extraModels": [
+    "GPO 69-700A",
+    "GPO 75-385",
+    "GPO 75-385A",
+    "GPO 75-455",
+    "GPO 75-455A",
+    "GPO 84-315",
+    "GPO 84-315A",
+    "GPO 86-245",
+    "THRU GPO 69-700"
+   ],
+   "url": "https://www.manualslib.com/manual/804406/State-Water-Heaters-Gpo-86-199.html"
+  },
+  {
+   "manualId": "864068",
+   "slug": "State-Water-Heaters-Gpx",
+   "title": "GPX Service handbook",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "GPX",
+   "extraModels": [
+    "GSX",
+    "Select GS6 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/864068/State-Water-Heaters-Gpx.html"
+  },
+  {
+   "manualId": "165249",
+   "slug": "State-Water-Heaters-Gpx",
+   "title": "GPX user manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "GPX",
+   "extraModels": [
+    "GSX",
+    "Select GS6 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/165249/State-Water-Heaters-Gpx.html"
+  },
+  {
+   "manualId": "165251",
+   "slug": "State-Water-Heaters-Green-Choice",
+   "title": "Green Choice instruction manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "Green Choice",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165251/State-Water-Heaters-Green-Choice.html"
+  },
+  {
+   "manualId": "632248",
+   "slug": "State-Water-Heaters-Gs6-40-Ybvis",
+   "title": "GS 6 Installation and operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "GS 6",
+   "extraModels": [
+    "GS6 50 YRVHSL",
+    "GS6 75 YRVHTL"
+   ],
+   "url": "https://www.manualslib.com/manual/632248/State-Water-Heaters-Gs6-40-Ybvis.html"
+  },
+  {
+   "manualId": "165248",
+   "slug": "State-Water-Heaters-Gs6-30",
+   "title": "GS6 30 YBRT parts list",
+   "type": "Parts & Wiring",
+   "pages": 2,
+   "productModel": "GS6 30 YBRT",
+   "extraModels": [
+    "GS6 40 YBPDT",
+    "GS6 50 YBPDT"
+   ],
+   "url": "https://www.manualslib.com/manual/165248/State-Water-Heaters-Gs6-30.html"
+  },
+  {
+   "manualId": "165212",
+   "slug": "State-Water-Heaters-Gs6-40-Hbrt",
+   "title": "GS6 30 YBRT Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "GS6 30 YBRT",
+   "extraModels": [
+    "GS6 30 YBRT",
+    "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2",
+    "GS6 50 YBPDT"
+   ],
+   "url": "https://www.manualslib.com/manual/165212/State-Water-Heaters-Gs6-40-Hbrt.html"
+  },
+  {
+   "manualId": "165281",
+   "slug": "State-Water-Heaters-Select-Smgss01207",
+   "title": "GS6 30 YBRT Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "GS6 30 YBRT",
+   "extraModels": [
+    "GS6 30 YBRT",
+    "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2"
+   ],
+   "url": "https://www.manualslib.com/manual/165281/State-Water-Heaters-Select-Smgss01207.html"
+  },
+  {
+   "manualId": "165283",
+   "slug": "State-Water-Heaters-Select-Srgss01906",
+   "title": "GS6 30 YBRT Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "GS6 30 YBRT",
+   "extraModels": [
+    "GS6 30 YBRT",
+    "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2",
+    "GS6 50 YBPDT"
+   ],
+   "url": "https://www.manualslib.com/manual/165283/State-Water-Heaters-Select-Srgss01906.html"
+  },
+  {
+   "manualId": "712105",
+   "slug": "State-Water-Heaters-Gs6-30-Ybrt",
+   "title": "GS6 30 YBRT Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "GS6 30 YBRT",
+   "extraModels": [
+    "GS6 40 YBPDT",
+    "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2",
+    "GS6 50 YBPDT"
+   ],
+   "url": "https://www.manualslib.com/manual/712105/State-Water-Heaters-Gs6-30-Ybrt.html"
+  },
+  {
+   "manualId": "711725",
+   "slug": "State-Water-Heaters-Select-Smgss01207",
+   "title": "GS6 30 YBRT Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "GS6 30 YBRT",
+   "extraModels": [
+    "GS6 30 YBRT",
+    "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2",
+    "GS6 50 YBPDT"
+   ],
+   "url": "https://www.manualslib.com/manual/711725/State-Water-Heaters-Select-Smgss01207.html"
+  },
+  {
+   "manualId": "711737",
+   "slug": "State-Water-Heaters-Gs6-40-Ybpdt",
+   "title": "GS6 40 YBPDT Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "GS6 40 YBPDT",
+   "extraModels": [
+    "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2",
+    "GS6 50 YBPDT"
+   ],
+   "url": "https://www.manualslib.com/manual/711737/State-Water-Heaters-Gs6-40-Ybpdt.html"
+  },
+  {
+   "manualId": "165287",
+   "slug": "State-Water-Heaters-Srgss00107",
+   "title": "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2 Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2",
+   "extraModels": [
+    "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2",
+    "GS6 50 YBPDT"
+   ],
+   "url": "https://www.manualslib.com/manual/165287/State-Water-Heaters-Srgss00107.html"
+  },
+  {
+   "manualId": "165288",
+   "slug": "State-Water-Heaters-Srgss00905",
+   "title": "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2 Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2",
+   "extraModels": [
+    "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2",
+    "GS6 50 YBPDT"
+   ],
+   "url": "https://www.manualslib.com/manual/165288/State-Water-Heaters-Srgss00905.html"
+  },
+  {
+   "manualId": "165213",
+   "slug": "State-Water-Heaters-Gs6-50-Hrvit-5",
+   "title": "GS6 50 YBPDT Service parts",
+   "type": "Service",
+   "pages": 2,
+   "productModel": "GS6 50 YBPDT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165213/State-Water-Heaters-Gs6-50-Hrvit-5.html"
+  },
+  {
+   "manualId": "165256",
+   "slug": "State-Water-Heaters-Gs675hrvit",
+   "title": "GS675HRVIT instruction manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "GS675HRVIT",
+   "extraModels": [
+    "GS675YRVIT"
+   ],
+   "url": "https://www.manualslib.com/manual/165256/State-Water-Heaters-Gs675hrvit.html"
+  },
+  {
+   "manualId": "539791",
+   "slug": "State-Water-Heaters-Gs675yrvlt",
+   "title": "GS675HRVIT instruction manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "GS675HRVIT",
+   "extraModels": [
+    "GS675HRVIT",
+    "GS675HRVLT",
+    "GS675YRVIT"
+   ],
+   "url": "https://www.manualslib.com/manual/539791/State-Water-Heaters-Gs675yrvlt.html"
+  },
+  {
+   "manualId": "165226",
+   "slug": "State-Water-Heaters-198067-000",
+   "title": "Installation operation & maintenance",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165226/State-Water-Heaters-198067-000.html"
+  },
+  {
+   "manualId": "165198",
+   "slug": "State-Water-Heaters-40-Dhms",
+   "title": "parts list",
+   "type": "Parts & Wiring",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165198/State-Water-Heaters-40-Dhms.html"
+  },
+  {
+   "manualId": "165232",
+   "slug": "State-Water-Heaters-50-Dxrs",
+   "title": "parts list",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165232/State-Water-Heaters-50-Dxrs.html"
+  },
+  {
+   "manualId": "165234",
+   "slug": "State-Water-Heaters-50-Hxrt-Yxrt",
+   "title": "parts list",
+   "type": "Parts & Wiring",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165234/State-Water-Heaters-50-Hxrt-Yxrt.html"
+  },
+  {
+   "manualId": "165236",
+   "slug": "State-Water-Heaters-80-Doct",
+   "title": "parts list",
+   "type": "Parts & Wiring",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165236/State-Water-Heaters-80-Doct.html"
+  },
+  {
+   "manualId": "165237",
+   "slug": "State-Water-Heaters-Ccvit-2",
+   "title": "parts list",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "PR6 40 XCVIT",
+    "PR6 50 XCVIT"
+   ],
+   "url": "https://www.manualslib.com/manual/165237/State-Water-Heaters-Ccvit-2.html"
+  },
+  {
+   "manualId": "165252",
+   "slug": "State-Water-Heaters-P6-30-20t1",
+   "title": "parts list",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165252/State-Water-Heaters-P6-30-20t1.html"
+  },
+  {
+   "manualId": "165275",
+   "slug": "State-Water-Heaters-Sbs-65-65n",
+   "title": "parts list",
+   "type": "Parts & Wiring",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165275/State-Water-Heaters-Sbs-65-65n.html"
+  },
+  {
+   "manualId": "711735",
+   "slug": "State-Water-Heaters-Patriot",
+   "title": "PATRIOT Brochure & specs",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "PATRIOT",
+   "extraModels": [
+    "PCE 120 20RTA",
+    "PCE 30 20LSA",
+    "PCE 40 20LSA",
+    "PCE 50 20LSA",
+    "PCE 52 20RTA",
+    "PCE 66 20RTA",
+    "PCE 82 20RTA"
+   ],
+   "url": "https://www.manualslib.com/manual/711735/State-Water-Heaters-Patriot.html"
+  },
+  {
+   "manualId": "165254",
+   "slug": "State-Water-Heaters-Patriot-Commercial-Electric-Water-Heater",
+   "title": "PATRIOT Specification sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "PATRIOT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165254/State-Water-Heaters-Patriot-Commercial-Electric-Water-Heater.html"
+  },
+  {
+   "manualId": "165255",
+   "slug": "State-Water-Heaters-Pce-6-120",
+   "title": "PCE 120 20RTA Installation & operation instruction",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "PCE 120 20RTA",
+   "extraModels": [
+    "PCE 120 20RTA",
+    "PCE 30 20LSA",
+    "PCE 3020RTA",
+    "PCE 40 20LSA",
+    "PCE 50 20LSA",
+    "PCE 52 20RTA",
+    "PCE 66 20RTA",
+    "PCE 82 20RTA",
+    "PCE-1010MSA",
+    "PCE-1710MSA",
+    "PCE-2010MSA",
+    "PCE-610MSA"
+   ],
+   "url": "https://www.manualslib.com/manual/165255/State-Water-Heaters-Pce-6-120.html"
+  },
+  {
+   "manualId": "752366",
+   "slug": "State-Water-Heaters-Pce-6-10msa",
+   "title": "PCE-10 10MSA instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "PCE-10 10MSA",
+   "extraModels": [
+    "PCE-10 10MSA",
+    "PCE-1010MS",
+    "PCE-120 2ORTA",
+    "PCE-1202ORTA",
+    "PCE-129 2ORTA Series 110",
+    "PCE-17 10MSA",
+    "PCE-1710MS",
+    "PCE-2010MS",
+    "PCE-30 2ORTA",
+    "PCE-30 2ORTA Series 110",
+    "PCE-302OLSA",
+    "PCE-302ORTA",
+    "PCE-40 2OLSA",
+    "PCE-40 2OLSA Series 110",
+    "PCE-40 2ORTA",
+    "PCE-402OLSA",
+    "PCE-402ORTA",
+    "PCE-50 2OLSA",
+    "PCE-502OLSA",
+    "PCE-52 2ORTA",
+    "PCE-522ORTA",
+    "PCE-6 10MSA 102 Series PCE-10 10MSA 102 Series PCE-17 10MSA 102 Series PCE-20 10MSA 102 Series PCE-30 2OLSA 110 Series",
+    "PCE-6 10MSA Series 102",
+    "PCE-66 2ORTA",
+    "PCE-662ORTA",
+    "PCE-82 2ORTA",
+    "PCE-822ORTA"
+   ],
+   "url": "https://www.manualslib.com/manual/752366/State-Water-Heaters-Pce-6-10msa.html"
+  },
+  {
+   "manualId": "3823199",
+   "slug": "State-Water-Heaters-Pce-20-10msa",
+   "title": "PCE-20 10MSA instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "PCE-20 10MSA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3823199/State-Water-Heaters-Pce-20-10msa.html"
+  },
+  {
+   "manualId": "3823200",
+   "slug": "State-Water-Heaters-Pce-30-2olsa",
+   "title": "PCE-30 2OLSA instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "PCE-30 2OLSA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3823200/State-Water-Heaters-Pce-30-2olsa.html"
+  },
+  {
+   "manualId": "730658",
+   "slug": "State-Water-Heaters-Power-Direct-Vented-Gas-Models",
+   "title": "Power Direct Vented Gas models instruction manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "Power Direct Vented Gas models",
+   "extraModels": [
+    "Power Direct Vented Gas models",
+    "Select GS6 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/730658/State-Water-Heaters-Power-Direct-Vented-Gas-Models.html"
+  },
+  {
+   "manualId": "165257",
+   "slug": "State-Water-Heaters-Power-Vent-Power-Direct-Vent-Gas-Models",
+   "title": "Power Vent/Power Direct Vent Gas Models instruction manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "Power Vent/Power Direct Vent Gas Models",
+   "extraModels": [
+    "Power Vent/Power Direct Vent Gas Models"
+   ],
+   "url": "https://www.manualslib.com/manual/165257/State-Water-Heaters-Power-Vent-Power-Direct-Vent-Gas-Models.html"
+  },
+  {
+   "manualId": "165214",
+   "slug": "State-Water-Heaters-Pr6-40-Cbds",
+   "title": "PR6 40 CBDS parts list",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": "PR6 40 CBDS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165214/State-Water-Heaters-Pr6-40-Cbds.html"
+  },
+  {
+   "manualId": "165259",
+   "slug": "State-Water-Heaters-Premier-0710-316888-002",
+   "title": "Premier 0710 316888-002 Installation and operating manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "Premier 0710 316888-002",
+   "extraModels": [
+    "Premier GPH-90N"
+   ],
+   "url": "https://www.manualslib.com/manual/165259/State-Water-Heaters-Premier-0710-316888-002.html"
+  },
+  {
+   "manualId": "3923106",
+   "slug": "State-Water-Heaters-Premier-Gp650-Ytpdt",
+   "title": "PREMIER GP650 YTPDT Service handbook",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "PREMIER GP650 YTPDT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3923106/State-Water-Heaters-Premier-Gp650-Ytpdt.html"
+  },
+  {
+   "manualId": "641619",
+   "slug": "State-Water-Heaters-Premier",
+   "title": "Premier Installation Instructions and Use & Care manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "Premier",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/641619/State-Water-Heaters-Premier.html"
+  },
+  {
+   "manualId": "165216",
+   "slug": "State-Water-Heaters-Premier-Residential-Gas-Water-Heaters",
+   "title": "PREMIER Residential Gas Water Heaters Specification sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "PREMIER Residential Gas Water Heaters",
+   "extraModels": [
+    "PREMIER Residential Gas Water Heaters"
+   ],
+   "url": "https://www.manualslib.com/manual/165216/State-Water-Heaters-Premier-Residential-Gas-Water-Heaters.html"
+  },
+  {
+   "manualId": "682943",
+   "slug": "State-Water-Heaters-Premier",
+   "title": "Premier Use and care manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "Premier",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/682943/State-Water-Heaters-Premier.html"
+  },
+  {
+   "manualId": "165223",
+   "slug": "State-Water-Heaters-195115-000",
+   "title": "Product warranty",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165223/State-Water-Heaters-195115-000.html"
+  },
+  {
+   "manualId": "4199751",
+   "slug": "State-Water-Heaters-Prv-30",
+   "title": "PRV 30 Installation, maintenance and user instruction",
+   "type": "Service",
+   "pages": 20,
+   "productModel": "PRV 30",
+   "extraModels": [
+    "PRV 40",
+    "PRV 50"
+   ],
+   "url": "https://www.manualslib.com/manual/4199751/State-Water-Heaters-Prv-30.html"
+  },
+  {
+   "manualId": "992070",
+   "slug": "State-Water-Heaters-Prv-30-Nors-G",
+   "title": "PRV 30 NORS G Installation and user instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "PRV 30 NORS G",
+   "extraModels": [
+    "PRV 40 NORS G",
+    "PRV 50 NRRS G"
+   ],
+   "url": "https://www.manualslib.com/manual/992070/State-Water-Heaters-Prv-30-Nors-G.html"
+  },
+  {
+   "manualId": "165219",
+   "slug": "State-Water-Heaters-She50-100",
+   "title": "Replacement parts list",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165219/State-Water-Heaters-She50-100.html"
+  },
+  {
+   "manualId": "165231",
+   "slug": "State-Water-Heaters-5-Thru-120",
+   "title": "Replacement parts list",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165231/State-Water-Heaters-5-Thru-120.html"
+  },
+  {
+   "manualId": "165253",
+   "slug": "State-Water-Heaters-Pe",
+   "title": "Replacement parts list",
+   "type": "Parts & Wiring",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165253/State-Water-Heaters-Pe.html"
+  },
+  {
+   "manualId": "165270",
+   "slug": "State-Water-Heaters-Sbd-150",
+   "title": "Replacement parts list",
+   "type": "Parts & Wiring",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "SBD 30 150",
+    "SBD 30 199"
+   ],
+   "url": "https://www.manualslib.com/manual/165270/State-Water-Heaters-Sbd-150.html"
+  },
+  {
+   "manualId": "165284",
+   "slug": "State-Water-Heaters-She50-76",
+   "title": "Replacement parts list",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165284/State-Water-Heaters-She50-76.html"
+  },
+  {
+   "manualId": "165305",
+   "slug": "State-Water-Heaters-Tpg-Tpo-Tpd-140-140-Thru-140-720",
+   "title": "Replacement parts list",
+   "type": "Parts & Wiring",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165305/State-Water-Heaters-Tpg-Tpo-Tpd-140-140-Thru-140-720.html"
+  },
+  {
+   "manualId": "165271",
+   "slug": "State-Water-Heaters-Sbd100400ne-A",
+   "title": "Replacement parts list manual",
+   "type": "Parts & Wiring",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "SBD71120NE"
+   ],
+   "url": "https://www.manualslib.com/manual/165271/State-Water-Heaters-Sbd100400ne-A.html"
+  },
+  {
+   "manualId": "165264",
+   "slug": "State-Water-Heaters-Residential-Gas-Water-Heater",
+   "title": "RESIDENTIAL ELECTRIC WATER HEATER instruction manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "RESIDENTIAL ELECTRIC WATER HEATER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165264/State-Water-Heaters-Residential-Gas-Water-Heater.html"
+  },
+  {
+   "manualId": "826871",
+   "slug": "State-Water-Heaters-Residential-Electric-Water-Heater",
+   "title": "RESIDENTIAL ELECTRIC WATER HEATER Service handbook",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "RESIDENTIAL ELECTRIC WATER HEATER",
+   "extraModels": [
+    "Standard Residential"
+   ],
+   "url": "https://www.manualslib.com/manual/826871/State-Water-Heaters-Residential-Electric-Water-Heater.html"
+  },
+  {
+   "manualId": "165265",
+   "slug": "State-Water-Heaters-Rooftop-Srt80-120ne",
+   "title": "ROOFTOP SRT80 120NE Installation & operation instruction",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "ROOFTOP SRT80 120NE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165265/State-Water-Heaters-Rooftop-Srt80-120ne.html"
+  },
+  {
+   "manualId": "2168261",
+   "slug": "State-Water-Heaters-Alg-Erase",
+   "title": "Safety Datasheet",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2168261/State-Water-Heaters-Alg-Erase.html"
+  },
+  {
+   "manualId": "165263",
+   "slug": "State-Water-Heaters-Sandblaster-Csb-120",
+   "title": "SANDBLASTER CSB 120 Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "SANDBLASTER CSB 120",
+   "extraModels": [
+    "SANDBLASTER CSB 52"
+   ],
+   "url": "https://www.manualslib.com/manual/165263/State-Water-Heaters-Sandblaster-Csb-120.html"
+  },
+  {
+   "manualId": "165269",
+   "slug": "State-Water-Heaters-Sandblaster-Sbd30-150",
+   "title": "Sandblaster SBD30 150 NE Service handbook",
+   "type": "Service",
+   "pages": 55,
+   "productModel": "Sandblaster SBD30 150 NE",
+   "extraModels": [
+    "Sandblaster SBD30 199 NE",
+    "SandBlaster SBD30-199",
+    "SandBlaster SBN 154",
+    "SandBlaster SBN 71-120",
+    "SandBlaster SBN 85-310",
+    "SandBlaster SBN 85-366NE",
+    "SandBlaster SBN 85-390NE",
+    "SandBlaster SBN100-199",
+    "SandBlaster SBN100-200",
+    "SandBlaster SBN100-250",
+    "SandBlaster SBN100-275",
+    "SANDBLASTER SBN71 120",
+    "SandBlaster SBN80-180",
+    "SANDBLASTER SBN85 390 (A)",
+    "SANDBLASTER SERIES 108"
+   ],
+   "url": "https://www.manualslib.com/manual/165269/State-Water-Heaters-Sandblaster-Sbd30-150.html"
+  },
+  {
+   "manualId": "165215",
+   "slug": "State-Water-Heaters-Sandblaster-Self-Cleaning-Commercial-Gas-Water-Heaters",
+   "title": "Sandblaster SBD30 150 NE Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Sandblaster SBD30 150 NE",
+   "extraModels": [
+    "Sandblaster SBD30 150 NE",
+    "Sandblaster SBD30 199 NE"
+   ],
+   "url": "https://www.manualslib.com/manual/165215/State-Water-Heaters-Sandblaster-Self-Cleaning-Commercial-Gas-Water-Heaters.html"
+  },
+  {
+   "manualId": "711733",
+   "slug": "State-Water-Heaters-Sbd30-150-Ne",
+   "title": "Sandblaster SBD30 150 NE Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "Sandblaster SBD30 150 NE",
+   "extraModels": [
+    "Sandblaster SBD30 199 NE"
+   ],
+   "url": "https://www.manualslib.com/manual/711733/State-Water-Heaters-Sbd30-150-Ne.html"
+  },
+  {
+   "manualId": "165218",
+   "slug": "State-Water-Heaters-Sandblaster-Sbd71-120",
+   "title": "SandBlaster SBD71 120 Service handbook",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "SandBlaster SBD71 120",
+   "extraModels": [
+    "SandBlaster SBD85 500"
+   ],
+   "url": "https://www.manualslib.com/manual/165218/State-Water-Heaters-Sandblaster-Sbd71-120.html"
+  },
+  {
+   "manualId": "165276",
+   "slug": "State-Water-Heaters-Sbn85390ne-A",
+   "title": "SandBlaster SBN 85-366NE Installation operation & maintenance",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "SandBlaster SBN 85-366NE",
+   "extraModels": [
+    "SandBlaster SBN 85-366NE",
+    "SBN 71-120NE",
+    "SBN 81-154NE",
+    "SBN100180NE",
+    "SBN100199NE",
+    "SBN100250NE",
+    "SBN100275NE",
+    "SBN85310NE"
+   ],
+   "url": "https://www.manualslib.com/manual/165276/State-Water-Heaters-Sbn85390ne-A.html"
+  },
+  {
+   "manualId": "165273",
+   "slug": "State-Water-Heaters-Sbn71120ne",
+   "title": "SandBlaster SBN 85-366NE Replacement parts list",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": "SandBlaster SBN 85-366NE",
+   "extraModels": [
+    "SandBlaster SBN 85-366NE",
+    "SandBlaster SBN 85-390NE",
+    "SBN 81-154NE",
+    "SBN100180NE",
+    "SBN100199NE",
+    "SBN100275NE",
+    "SBN85310NE",
+    "SBN85390NE/A"
+   ],
+   "url": "https://www.manualslib.com/manual/165273/State-Water-Heaters-Sbn71120ne.html"
+  },
+  {
+   "manualId": "165274",
+   "slug": "State-Water-Heaters-Sbn85390ne",
+   "title": "SandBlaster SBN 85-366NE Replacement parts list",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": "SandBlaster SBN 85-366NE",
+   "extraModels": [
+    "SandBlaster SBN 85-366NE",
+    "SBN 71-120NE",
+    "SBN 81-154NE",
+    "SBN 81-180NE",
+    "SBN100199NE",
+    "SBN100250NE",
+    "SBN100275NE",
+    "SBN85310NE",
+    "SBN85390NE/A"
+   ],
+   "url": "https://www.manualslib.com/manual/165274/State-Water-Heaters-Sbn85390ne.html"
+  },
+  {
+   "manualId": "2391154",
+   "slug": "State-Water-Heaters-Sbd71120",
+   "title": "SBD100199* Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "SBD100199*",
+   "extraModels": [
+    "SBD100199*",
+    "SBD100250",
+    "SBD100275",
+    "SBD100390",
+    "SBD65251",
+    "SBD65305",
+    "SBD81154",
+    "SBD81180",
+    "SBD81199",
+    "SBD85365"
+   ],
+   "url": "https://www.manualslib.com/manual/2391154/State-Water-Heaters-Sbd71120.html"
+  },
+  {
+   "manualId": "1232106",
+   "slug": "State-Water-Heaters-Sbd71120",
+   "title": "SBD100390E Service handbook",
+   "type": "Service",
+   "pages": 31,
+   "productModel": "SBD100390E",
+   "extraModels": [
+    "SBD100390E",
+    "SBD100390NE",
+    "SBD100390PE",
+    "SBD71120N",
+    "SBD71120P"
+   ],
+   "url": "https://www.manualslib.com/manual/1232106/State-Water-Heaters-Sbd71120.html"
+  },
+  {
+   "manualId": "165272",
+   "slug": "State-Water-Heaters-Sbd71120ne",
+   "title": "SBD100399 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "SBD100399",
+   "extraModels": [
+    "SBD100399",
+    "SBD81190",
+    "SBD85500",
+    "SBD85500NE"
+   ],
+   "url": "https://www.manualslib.com/manual/165272/State-Water-Heaters-Sbd71120ne.html"
+  },
+  {
+   "manualId": "801062",
+   "slug": "State-Water-Heaters-Sbd85500ne",
+   "title": "SBD85500NE instruction manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "SBD85500NE",
+   "extraModels": [
+    "SBD85500PE"
+   ],
+   "url": "https://www.manualslib.com/manual/801062/State-Water-Heaters-Sbd85500ne.html"
+  },
+  {
+   "manualId": "838123",
+   "slug": "State-Water-Heaters-Sbl-100-76ne-Series-100",
+   "title": "SBL 100 76N instruction manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "SBL 100 76N",
+   "extraModels": [
+    "SBL 100 76NE Series 100"
+   ],
+   "url": "https://www.manualslib.com/manual/838123/State-Water-Heaters-Sbl-100-76ne-Series-100.html"
+  },
+  {
+   "manualId": "2392116",
+   "slug": "State-Water-Heaters-Sbl-81120ne",
+   "title": "SBL 100199NE instruction manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "SBL 100199NE",
+   "extraModels": [
+    "SBL 100199NE",
+    "SBL 100250NE(A)",
+    "SBL 100275NE(A)",
+    "SBL 81180NE",
+    "SBL 81199NE",
+    "SBL 86310NE(A)",
+    "SBL 86366NE(A)",
+    "SBL 86390NE(A)",
+    "SBL81154NE"
+   ],
+   "url": "https://www.manualslib.com/manual/2392116/State-Water-Heaters-Sbl-81120ne.html"
+  },
+  {
+   "manualId": "2392115",
+   "slug": "State-Water-Heaters-Sbl81120ne",
+   "title": "SBL81120NE instruction manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "SBL81120NE",
+   "extraModels": [
+    "SBL81154NE",
+    "SBL95180NE",
+    "SBL95199NE",
+    "SBL95250NE(A)"
+   ],
+   "url": "https://www.manualslib.com/manual/2392115/State-Water-Heaters-Sbl81120ne.html"
+  },
+  {
+   "manualId": "481461",
+   "slug": "State-Water-Heaters-Sbl95-199ne",
+   "title": "SBL85 275NE instruction manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "SBL85 275NE",
+   "extraModels": [
+    "SBL85 275NE",
+    "SBL85 275NE(A)",
+    "SBL85 390NE",
+    "SBL85 390NE(A)"
+   ],
+   "url": "https://www.manualslib.com/manual/481461/State-Water-Heaters-Sbl95-199ne.html"
+  },
+  {
+   "manualId": "1067679",
+   "slug": "State-Water-Heaters-Sbl85275nea",
+   "title": "SBL85275NE Service handbook",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "SBL85275NE",
+   "extraModels": [
+    "SBL85310NE",
+    "SBL85310NEA",
+    "SBL85366NE",
+    "SBL85366NEA",
+    "SBL85390NE",
+    "SBL85390NEA"
+   ],
+   "url": "https://www.manualslib.com/manual/1067679/State-Water-Heaters-Sbl85275nea.html"
+  },
+  {
+   "manualId": "165296",
+   "slug": "State-Water-Heaters-Sbn-71-120ne",
+   "title": "SBN 100-199NE Service handbook",
+   "type": "Service",
+   "pages": 47,
+   "productModel": "SBN 100-199NE",
+   "extraModels": [
+    "SBN 100-199NE",
+    "SBN 100-250NEA",
+    "SBN 100-275NEA",
+    "SBN 81-154NE",
+    "SBN 81-180NE",
+    "SBN 85-310NEA",
+    "SBN 85-366NEA",
+    "SBN 85-390NEA",
+    "STC-074"
+   ],
+   "url": "https://www.manualslib.com/manual/165296/State-Water-Heaters-Sbn-71-120ne.html"
+  },
+  {
+   "manualId": "4047759",
+   "slug": "State-Water-Heaters-Sbt-75-115",
+   "title": "SBT 100-199T Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "SBT 100-199T",
+   "extraModels": [
+    "SBT 100-199T",
+    "SBT 100-260T",
+    "SBT 100-400",
+    "SBT 30-225NE",
+    "SBT 70-360",
+    "SBT 75-140",
+    "SBT 80-180"
+   ],
+   "url": "https://www.manualslib.com/manual/4047759/State-Water-Heaters-Sbt-75-115.html"
+  },
+  {
+   "manualId": "4543633",
+   "slug": "State-Water-Heaters-Sbt-75-75-Ne",
+   "title": "SBT 75-75 NE user manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "SBT 75-75 NE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4543633/State-Water-Heaters-Sbt-75-75-Ne.html"
+  },
+  {
+   "manualId": "3101117",
+   "slug": "State-Water-Heaters-Scc-40-40",
+   "title": "SCC 100-110 Installation, user and service manual",
+   "type": "Service",
+   "pages": 96,
+   "productModel": "SCC 100-110",
+   "extraModels": [
+    "SCC 100-110",
+    "SCC 40-70",
+    "SCC 50-40",
+    "SCC 50-70",
+    "SCC 65-110",
+    "SCC 65-80",
+    "SCC 75-110",
+    "SCC 75-80"
+   ],
+   "url": "https://www.manualslib.com/manual/3101117/State-Water-Heaters-Scc-40-40.html"
+  },
+  {
+   "manualId": "1330862",
+   "slug": "State-Water-Heaters-Sce-80-115",
+   "title": "SCE 65-400 Installation, user and service manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "SCE 65-400",
+   "extraModels": [
+    "SCE 65-400",
+    "SCE 65-500 LP",
+    "SCE 70-360",
+    "SCE 80-140",
+    "SCE 80-180",
+    "SCE 95-199",
+    "SCE 95-260"
+   ],
+   "url": "https://www.manualslib.com/manual/1330862/State-Water-Heaters-Sce-80-115.html"
+  },
+  {
+   "manualId": "909229",
+   "slug": "State-Water-Heaters-Sce-80-115",
+   "title": "SCE 65-400 Installation, user and service manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "SCE 65-400",
+   "extraModels": [
+    "SCE 65-400",
+    "SCE 65-500",
+    "SCE 70-360",
+    "SCE 80-140",
+    "SCE 80-180",
+    "SCE 95-199",
+    "SCE 95-260"
+   ],
+   "url": "https://www.manualslib.com/manual/909229/State-Water-Heaters-Sce-80-115.html"
+  },
+  {
+   "manualId": "3144038",
+   "slug": "State-Water-Heaters-Seh-250",
+   "title": "SEH-1000 instruction manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "SEH-1000",
+   "extraModels": [
+    "SEH-1000",
+    "SEH-1250",
+    "SEH-1500",
+    "SEH-200 THRU SEH-10000",
+    "SEH-2000",
+    "SEH-300",
+    "SEH-3000",
+    "SEH-350",
+    "SEH-400",
+    "SEH-500",
+    "SEH-600",
+    "SEH-700",
+    "SEH-7500",
+    "SEH-800",
+    "SEH5000",
+    "SEV-1000",
+    "SEV-1250",
+    "SEV-150 THRU SEV-10000",
+    "SEV-1500",
+    "SEV-2000",
+    "SEV-250",
+    "SEV-300",
+    "SEV-3000",
+    "SEV-350",
+    "SEV-400",
+    "SEV-500",
+    "SEV-600",
+    "SEV-700",
+    "SEV-7500",
+    "SEV-800",
+    "SEV5000"
+   ],
+   "url": "https://www.manualslib.com/manual/3144038/State-Water-Heaters-Seh-250.html"
+  },
+  {
+   "manualId": "165280",
+   "slug": "State-Water-Heaters-Seh-200-Thru-Seh-10000",
+   "title": "SEH-200 instruction manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "SEH-200",
+   "extraModels": [
+    "SEV-150",
+    "SEV-150 THRU SEV-10000"
+   ],
+   "url": "https://www.manualslib.com/manual/165280/State-Water-Heaters-Seh-200-Thru-Seh-10000.html"
+  },
+  {
+   "manualId": "165201",
+   "slug": "State-Water-Heaters-50-Ybvit-Hbvit",
+   "title": "Service parts",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2",
+    "Series 101"
+   ],
+   "url": "https://www.manualslib.com/manual/165201/State-Water-Heaters-50-Ybvit-Hbvit.html"
+  },
+  {
+   "manualId": "165202",
+   "slug": "State-Water-Heaters-50-Yrvit",
+   "title": "Service parts",
+   "type": "Service",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2",
+    "GS6 50 YBPDT"
+   ],
+   "url": "https://www.manualslib.com/manual/165202/State-Water-Heaters-50-Yrvit.html"
+  },
+  {
+   "manualId": "165278",
+   "slug": "State-Water-Heaters-Sci-10-Soms",
+   "title": "Service parts list",
+   "type": "Service",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165278/State-Water-Heaters-Sci-10-Soms.html"
+  },
+  {
+   "manualId": "165293",
+   "slug": "State-Water-Heaters-She-50-76n",
+   "title": "SHE 50 76N instruction manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "SHE 50 76N",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165293/State-Water-Heaters-She-50-76n.html"
+  },
+  {
+   "manualId": "3623744",
+   "slug": "State-Water-Heaters-She-50100-Series",
+   "title": "SHE 75100 Series instruction manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "SHE 75100 Series",
+   "extraModels": [
+    "SHE 75100 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3623744/State-Water-Heaters-She-50100-Series.html"
+  },
+  {
+   "manualId": "665707",
+   "slug": "State-Water-Heaters-She50",
+   "title": "she100 instruction manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "she100",
+   "extraModels": [
+    "she100",
+    "SHE50 124",
+    "SHE50 125"
+   ],
+   "url": "https://www.manualslib.com/manual/665707/State-Water-Heaters-She50.html"
+  },
+  {
+   "manualId": "912825",
+   "slug": "State-Water-Heaters-Sof-85-220-G",
+   "title": "SOF 70 700 G Installation instructions and user manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "SOF 70 700 G",
+   "extraModels": [
+    "SOF 70 700 G",
+    "SOF 75 390 G",
+    "SOF 75 470 G",
+    "SOF 85 260 G",
+    "SOF 85 300 G"
+   ],
+   "url": "https://www.manualslib.com/manual/912825/State-Water-Heaters-Sof-85-220-G.html"
+  },
+  {
+   "manualId": "165203",
+   "slug": "State-Water-Heaters-Force-90tm",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165203/State-Water-Heaters-Force-90tm.html"
+  },
+  {
+   "manualId": "165208",
+   "slug": "State-Water-Heaters-Titan-Gpg85-540-Nea",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165208/State-Water-Heaters-Titan-Gpg85-540-Nea.html"
+  },
+  {
+   "manualId": "165210",
+   "slug": "State-Water-Heaters-Gpo69-700",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165210/State-Water-Heaters-Gpo69-700.html"
+  },
+  {
+   "manualId": "165217",
+   "slug": "State-Water-Heaters-Sdv100-199",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165217/State-Water-Heaters-Sdv100-199.html"
+  },
+  {
+   "manualId": "165230",
+   "slug": "State-Water-Heaters-305-Exterior",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "305 Interior",
+    "505 Exterior",
+    "505 Interior",
+    "705 Exterior",
+    "705 Interior"
+   ],
+   "url": "https://www.manualslib.com/manual/165230/State-Water-Heaters-305-Exterior.html"
+  },
+  {
+   "manualId": "165240",
+   "slug": "State-Water-Heaters-Commercial-Scgss00107",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165240/State-Water-Heaters-Commercial-Scgss00107.html"
+  },
+  {
+   "manualId": "165260",
+   "slug": "State-Water-Heaters-Premier-Residential-Electric-Water-Heaters",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "PREMIER Residential Gas Water Heaters"
+   ],
+   "url": "https://www.manualslib.com/manual/165260/State-Water-Heaters-Premier-Residential-Electric-Water-Heaters.html"
+  },
+  {
+   "manualId": "165267",
+   "slug": "State-Water-Heaters-Sandblaster-Scess00308",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165267/State-Water-Heaters-Sandblaster-Scess00308.html"
+  },
+  {
+   "manualId": "165268",
+   "slug": "State-Water-Heaters-Sandblaster-Scgss00407",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165268/State-Water-Heaters-Sandblaster-Scgss00407.html"
+  },
+  {
+   "manualId": "165282",
+   "slug": "State-Water-Heaters-Select-Srgss01706",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165282/State-Water-Heaters-Select-Srgss01706.html"
+  },
+  {
+   "manualId": "165285",
+   "slug": "State-Water-Heaters-Smess00107",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165285/State-Water-Heaters-Smess00107.html"
+  },
+  {
+   "manualId": "165286",
+   "slug": "State-Water-Heaters-Smgss00108",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165286/State-Water-Heaters-Smgss00108.html"
+  },
+  {
+   "manualId": "165289",
+   "slug": "State-Water-Heaters-Srgss01806",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "GS6 50 YBPDT"
+   ],
+   "url": "https://www.manualslib.com/manual/165289/State-Water-Heaters-Srgss01806.html"
+  },
+  {
+   "manualId": "165290",
+   "slug": "State-Water-Heaters-Srgss02207",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165290/State-Water-Heaters-Srgss02207.html"
+  },
+  {
+   "manualId": "165291",
+   "slug": "State-Water-Heaters-Statesman-Premium-Heavy-Duty",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "Statesman SSE-10",
+    "Statesman SSE-100",
+    "Statesman SSE-20",
+    "Statesman SSE-30",
+    "Statesman SSE-40",
+    "Statesman SSE-50",
+    "Statesman SSE-65",
+    "Statesman SSE-80"
+   ],
+   "url": "https://www.manualslib.com/manual/165291/State-Water-Heaters-Statesman-Premium-Heavy-Duty.html"
+  },
+  {
+   "manualId": "165302",
+   "slug": "State-Water-Heaters-Titan-Stgpg-0303",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165302/State-Water-Heaters-Titan-Stgpg-0303.html"
+  },
+  {
+   "manualId": "711729",
+   "slug": "State-Water-Heaters-Sandblaster-Sbn71-120ne",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/711729/State-Water-Heaters-Sandblaster-Sbn71-120ne.html"
+  },
+  {
+   "manualId": "157356",
+   "slug": "State-Water-Heaters-Csb-120",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "SANDBLASTER CSB 52"
+   ],
+   "url": "https://www.manualslib.com/manual/157356/State-Water-Heaters-Csb-120.html"
+  },
+  {
+   "manualId": "165243",
+   "slug": "State-Water-Heaters-Gas-Fired-Water-Heaters",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165243/State-Water-Heaters-Gas-Fired-Water-Heaters.html"
+  },
+  {
+   "manualId": "165262",
+   "slug": "State-Water-Heaters-Premier-Residential-Water-Heaters",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [
+    "PREMIER Residential Gas Water Heaters"
+   ],
+   "url": "https://www.manualslib.com/manual/165262/State-Water-Heaters-Premier-Residential-Water-Heaters.html"
+  },
+  {
+   "manualId": "165279",
+   "slug": "State-Water-Heaters-Select-Dairy-Barn-Sress00406",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165279/State-Water-Heaters-Select-Dairy-Barn-Sress00406.html"
+  },
+  {
+   "manualId": "711726",
+   "slug": "State-Water-Heaters-Titan-Gpo-86-199oe",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/711726/State-Water-Heaters-Titan-Gpo-86-199oe.html"
+  },
+  {
+   "manualId": "711727",
+   "slug": "State-Water-Heaters-Srgss01806",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "GS6 50 YBPDT"
+   ],
+   "url": "https://www.manualslib.com/manual/711727/State-Water-Heaters-Srgss01806.html"
+  },
+  {
+   "manualId": "711728",
+   "slug": "State-Water-Heaters-Gs6-40-Ybds",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2",
+    "GS6 50 YBPDT"
+   ],
+   "url": "https://www.manualslib.com/manual/711728/State-Water-Heaters-Gs6-40-Ybds.html"
+  },
+  {
+   "manualId": "712107",
+   "slug": "State-Water-Heaters-Sci-30-Yomt",
+   "title": "Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/712107/State-Water-Heaters-Sci-30-Yomt.html"
+  },
+  {
+   "manualId": "165242",
+   "slug": "State-Water-Heaters-Asme-Sse-120",
+   "title": "SSE-120 instruction manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "SSE-120",
+   "extraModels": [
+    "SSE-5"
+   ],
+   "url": "https://www.manualslib.com/manual/165242/State-Water-Heaters-Asme-Sse-120.html"
+  },
+  {
+   "manualId": "2116520",
+   "slug": "State-Water-Heaters-Sse-5",
+   "title": "SSE-120 instruction manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "SSE-120",
+   "extraModels": [
+    "SSE-120",
+    "Statesman SSE-10",
+    "Statesman SSE-100",
+    "Statesman SSE-20",
+    "Statesman SSE-30",
+    "Statesman SSE-40",
+    "Statesman SSE-50",
+    "Statesman SSE-65",
+    "Statesman SSE-80"
+   ],
+   "url": "https://www.manualslib.com/manual/2116520/State-Water-Heaters-Sse-5.html"
+  },
+  {
+   "manualId": "165292",
+   "slug": "State-Water-Heaters-Sse-120",
+   "title": "SSE-120 user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "SSE-120",
+   "extraModels": [
+    "SSE-5"
+   ],
+   "url": "https://www.manualslib.com/manual/165292/State-Water-Heaters-Sse-120.html"
+  },
+  {
+   "manualId": "165294",
+   "slug": "State-Water-Heaters-Ssed-5",
+   "title": "SSED 120 instruction manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "SSED 120",
+   "extraModels": [
+    "SSED 120"
+   ],
+   "url": "https://www.manualslib.com/manual/165294/State-Water-Heaters-Ssed-5.html"
+  },
+  {
+   "manualId": "797680",
+   "slug": "State-Water-Heaters-Standard-Residential-Gas-Water-Heater",
+   "title": "Standard Residential Service handbook",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "Standard Residential",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/797680/State-Water-Heaters-Standard-Residential-Gas-Water-Heater.html"
+  },
+  {
+   "manualId": "3199355",
+   "slug": "State-Water-Heaters-120-Series",
+   "title": "State Water Heaters 120 Series Service Handbook",
+   "type": "Service",
+   "pages": 72,
+   "productModel": null,
+   "extraModels": [
+    "GP650 HTPDT",
+    "GP650YTPDT",
+    "PREMIER GP650 HTPDT",
+    "PREMIER GP675 YTPDT",
+    "SHE 50-100 NE",
+    "SHE 50-100 PE"
+   ],
+   "url": "https://www.manualslib.com/manual/3199355/State-Water-Heaters-120-Series.html"
+  },
+  {
+   "manualId": "165197",
+   "slug": "State-Water-Heaters-40",
+   "title": "State Water Heaters 40 Parts List",
+   "type": "Parts & Wiring",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165197/State-Water-Heaters-40.html"
+  },
+  {
+   "manualId": "897347",
+   "slug": "State-Water-Heaters-60120-100250",
+   "title": "State Water Heaters 60120-100250 Service Handbook",
+   "type": "Service",
+   "pages": 56,
+   "productModel": null,
+   "extraModels": [
+    "119300",
+    "119400",
+    "119500"
+   ],
+   "url": "https://www.manualslib.com/manual/897347/State-Water-Heaters-60120-100250.html"
+  },
+  {
+   "manualId": "711738",
+   "slug": "State-Water-Heaters-Gs6-40-Ybrt",
+   "title": "State Water Heaters GS6 40 YBRT Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [
+    "GS6 40 YBVIT, GS6 40 HBVIT, GS6 50 YBVIT, GS6 50 HBVIT, GS6 40 YBVIT 2, GS6 40 HBVIT 2, GS6 50 YBVIT 2, GS6 50 HBVIT 2",
+    "GS6 50 YBPDT"
+   ],
+   "url": "https://www.manualslib.com/manual/711738/State-Water-Heaters-Gs6-40-Ybrt.html"
+  },
+  {
+   "manualId": "743639",
+   "slug": "State-Water-Heaters-Hybrid-Electric-Heat-Pump-Water-Heater",
+   "title": "State Water Heaters Hybrid Electric Heat Pump Water Heater Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": null,
+   "extraModels": [
+    "Hybrid Electric Heat Pump Water Heater",
+    "State-Premier"
+   ],
+   "url": "https://www.manualslib.com/manual/743639/State-Water-Heaters-Hybrid-Electric-Heat-Pump-Water-Heater.html"
+  },
+  {
+   "manualId": "4102780",
+   "slug": "State-Water-Heaters-Prv-40-N-Pods",
+   "title": "State Water Heaters PRV 40 N/PODS Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": null,
+   "extraModels": [
+    "PRV 40 NODS",
+    "PRV 50 N/PODS",
+    "PW 50 NODS",
+    "SR8 40 N/PADS",
+    "SR8 40 NADS",
+    "SR8 50 N/PADS",
+    "SR8 50 NADS"
+   ],
+   "url": "https://www.manualslib.com/manual/4102780/State-Water-Heaters-Prv-40-N-Pods.html"
+  },
+  {
+   "manualId": "165295",
+   "slug": "State-Water-Heaters-Stc-080",
+   "title": "STC-080 Service handbook",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "STC-080",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165295/State-Water-Heaters-Stc-080.html"
+  },
+  {
+   "manualId": "165303",
+   "slug": "State-Water-Heaters-Suf-130-300",
+   "title": "SUF 100 150 Service handbook",
+   "type": "Service",
+   "pages": 38,
+   "productModel": "SUF 100 150",
+   "extraModels": [
+    "SUF 100 150",
+    "SUF 100 199",
+    "SUF 100 250",
+    "SUF 100-150",
+    "SUF 100-199",
+    "SUF 130 400",
+    "SUF-60-120"
+   ],
+   "url": "https://www.manualslib.com/manual/165303/State-Water-Heaters-Suf-130-300.html"
+  },
+  {
+   "manualId": "165221",
+   "slug": "State-Water-Heaters-Suf-100-250ne",
+   "title": "SUF 100 150NE Brochure & specs",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "SUF 100 150NE",
+   "extraModels": [
+    "SUF 100 150NE",
+    "SUF 100 199NE",
+    "SUF 60 120NE"
+   ],
+   "url": "https://www.manualslib.com/manual/165221/State-Water-Heaters-Suf-100-250ne.html"
+  },
+  {
+   "manualId": "860689",
+   "slug": "State-Water-Heaters-Ultra-Forcce-Suf-60-120",
+   "title": "SUF 100 150NE Installation & operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "SUF 100 150NE",
+   "extraModels": [
+    "SUF 100 150NE",
+    "SUF 100 199NE",
+    "SUF 60 120NE",
+    "Ultra Forcce SUF 100 240",
+    "Ultra Force SUF 100 150PE",
+    "Ultra Force SUF 100 199PE",
+    "Ultra Force SUF 100 240NE",
+    "Ultra Force SUF 60 120PE"
+   ],
+   "url": "https://www.manualslib.com/manual/860689/State-Water-Heaters-Ultra-Forcce-Suf-60-120.html"
+  },
+  {
+   "manualId": "1067866",
+   "slug": "State-Water-Heaters-Suf60",
+   "title": "SUF 100 Service handbook",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "SUF 100",
+   "extraModels": [
+    "SUF 100",
+    "SUF 120",
+    "SUF 130",
+    "SUF 250",
+    "SUF 500"
+   ],
+   "url": "https://www.manualslib.com/manual/1067866/State-Water-Heaters-Suf60.html"
+  },
+  {
+   "manualId": "165298",
+   "slug": "State-Water-Heaters-Suf-130-Thru-500",
+   "title": "SUF 100 THRU 250 user manual",
+   "type": "User / Owner",
+   "pages": 49,
+   "productModel": "SUF 100 THRU 250",
+   "extraModels": [
+    "SUF 100 THRU 250",
+    "SUF 60 THRU 120"
+   ],
+   "url": "https://www.manualslib.com/manual/165298/State-Water-Heaters-Suf-130-Thru-500.html"
+  },
+  {
+   "manualId": "3099497",
+   "slug": "State-Water-Heaters-Suf-120-300",
+   "title": "SUF 100-150 Installation, user and service manual",
+   "type": "Service",
+   "pages": 118,
+   "productModel": "SUF 100-150",
+   "extraModels": [
+    "SUF 100-150",
+    "SUF 100-199",
+    "SUF 120-400",
+    "SUF 120-500",
+    "SUF-100-250",
+    "SUF-60-120"
+   ],
+   "url": "https://www.manualslib.com/manual/3099497/State-Water-Heaters-Suf-120-300.html"
+  },
+  {
+   "manualId": "962019",
+   "slug": "State-Water-Heaters-Suf-60-120",
+   "title": "SUF 100-150 Installation, user and service manual",
+   "type": "Service",
+   "pages": 97,
+   "productModel": "SUF 100-150",
+   "extraModels": [
+    "SUF 100-150",
+    "SUF 100-199",
+    "SUF-100-250"
+   ],
+   "url": "https://www.manualslib.com/manual/962019/State-Water-Heaters-Suf-60-120.html"
+  },
+  {
+   "manualId": "3208089",
+   "slug": "State-Water-Heaters-Suf-119300",
+   "title": "SUF 119300 Service Handbook",
+   "type": "Service",
+   "pages": 54,
+   "productModel": "SUF 119300",
+   "extraModels": [
+    "301 Series",
+    "SUF 119500",
+    "SUF-100-250",
+    "SUF-60-120"
+   ],
+   "url": "https://www.manualslib.com/manual/3208089/State-Water-Heaters-Suf-119300.html"
+  },
+  {
+   "manualId": "165309",
+   "slug": "State-Water-Heaters-Ultra-Force-100",
+   "title": "SUF 120 Installation & operation instruction",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "SUF 120",
+   "extraModels": [
+    "SUF 120",
+    "SUF 150",
+    "SUF 199",
+    "SUF 250",
+    "ULTRA FORCE 101"
+   ],
+   "url": "https://www.manualslib.com/manual/165309/State-Water-Heaters-Ultra-Force-100.html"
+  },
+  {
+   "manualId": "1002079",
+   "slug": "State-Water-Heaters-Suf-130-300",
+   "title": "SUF 130 300 instruction manual",
+   "type": "User / Owner",
+   "pages": 76,
+   "productModel": "SUF 130 300",
+   "extraModels": [
+    "SUF 130 400",
+    "SUF 130 THRU 500"
+   ],
+   "url": "https://www.manualslib.com/manual/1002079/State-Water-Heaters-Suf-130-300.html"
+  },
+  {
+   "manualId": "1409950",
+   "slug": "State-Water-Heaters-Suf-60120-Thru",
+   "title": "SUF 60120 THRU instruction manual",
+   "type": "User / Owner",
+   "pages": 80,
+   "productModel": "SUF 60120 THRU",
+   "extraModels": [
+    "SUF-100-250"
+   ],
+   "url": "https://www.manualslib.com/manual/1409950/State-Water-Heaters-Suf-60120-Thru.html"
+  },
+  {
+   "manualId": "165300",
+   "slug": "State-Water-Heaters-Suf-130-300-400-500",
+   "title": "SUF-130- 300/400/500 instruction manual",
+   "type": "User / Owner",
+   "pages": 76,
+   "productModel": "SUF-130- 300/400/500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165300/State-Water-Heaters-Suf-130-300-400-500.html"
+  },
+  {
+   "manualId": "733390",
+   "slug": "State-Water-Heaters-T-H3m-Dv",
+   "title": "T-H3M-DV Installation manual and owner's manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "T-H3M-DV",
+   "extraModels": [
+    "T-H3M-OS"
+   ],
+   "url": "https://www.manualslib.com/manual/733390/State-Water-Heaters-T-H3m-Dv.html"
+  },
+  {
+   "manualId": "165304",
+   "slug": "State-Water-Heaters-Tpd-140-140",
+   "title": "TPD-140-140 instruction manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "TPD-140-140",
+   "extraModels": [
+    "TPD-600-2500",
+    "TPG-140-140",
+    "TPG-600-2500",
+    "TPO-140-140",
+    "TPO-600-2500",
+    "TPX-140-140",
+    "TPX-600-2500"
+   ],
+   "url": "https://www.manualslib.com/manual/165304/State-Water-Heaters-Tpd-140-140.html"
+  },
+  {
+   "manualId": "813527",
+   "slug": "State-Water-Heaters-Ultra-Force-Suf-130-300",
+   "title": "ULTRA FORCE SUF-130-300 Installation, operation & service manual",
+   "type": "Service",
+   "pages": 36,
+   "productModel": "ULTRA FORCE SUF-130-300",
+   "extraModels": [
+    "ULTRA FORCE SUF-130-400"
+   ],
+   "url": "https://www.manualslib.com/manual/813527/State-Water-Heaters-Ultra-Force-Suf-130-300.html"
+  },
+  {
+   "manualId": "165299",
+   "slug": "State-Water-Heaters-Suf-130-300",
+   "title": "ULTRA FORCE SUF-130-300 Operator's manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "ULTRA FORCE SUF-130-300",
+   "extraModels": [
+    "ULTRA FORCE SUF-130-400"
+   ],
+   "url": "https://www.manualslib.com/manual/165299/State-Water-Heaters-Suf-130-300.html"
+  },
+  {
+   "manualId": "1066026",
+   "slug": "State-Water-Heaters-Ultra-Low-Nox-Series",
+   "title": "Ultra Low Nox Series Installation Instructions and Use & Care manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "Ultra Low Nox Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1066026/State-Water-Heaters-Ultra-Low-Nox-Series.html"
+  },
+  {
+   "manualId": "3506507",
+   "slug": "State-Water-Heaters-Upvs-80y",
+   "title": "UPVS-110E installation instructions manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "UPVS-110E",
+   "extraModels": [
+    "UPVS-110E",
+    "UPVS-110Y",
+    "UPVS-40Y",
+    "UPVS-55Y",
+    "UPVS-90E"
+   ],
+   "url": "https://www.manualslib.com/manual/3506507/State-Water-Heaters-Upvs-80y.html"
+  },
+  {
+   "manualId": "165297",
+   "slug": "State-Water-Heaters-Suf-130-300-400",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/165297/State-Water-Heaters-Suf-130-300-400.html"
+  },
+  {
+   "manualId": "165312",
+   "slug": "State-Water-Heaters-Utra-Force-Stc-077",
+   "title": "Utra-Force STC-077 Service handbook",
+   "type": "Service",
+   "pages": 46,
+   "productModel": "Utra-Force STC-077",
+   "extraModels": [
+    "Utra-Force SUF100 150NE",
+    "Utra-Force SUF100 199NE",
+    "Utra-Force SUF100 240NE"
+   ],
+   "url": "https://www.manualslib.com/manual/165312/State-Water-Heaters-Utra-Force-Stc-077.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "state-water-heaters"
+ ]
+}

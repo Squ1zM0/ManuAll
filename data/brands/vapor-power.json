@@ -1,0 +1,49 @@
+{
+ "brand": "Vapor Power",
+ "brandSlug": "vapor-power",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/vapor-power/"
+ ],
+ "slugUsed": "vapor-power",
+ "capturedAt": "2026-10-28T12:39:34.450325+00:00",
+ "typePages": [
+  {
+   "path": "/brand/vapor-power/boiler.html",
+   "manuals": 3,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "914026",
+   "slug": "Vapor-Power-Hwr-Series",
+   "title": "HWR Series instruction manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "HWR Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/914026/Vapor-Power-Hwr-Series.html"
+  },
+  {
+   "manualId": "2442416",
+   "slug": "Vapor-Power-Str",
+   "title": "RESISTO-FLO instruction manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "RESISTO-FLO",
+   "extraModels": [
+    "RESISTO-FLO"
+   ],
+   "url": "https://www.manualslib.com/manual/2442416/Vapor-Power-Str.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "vapor-power"
+ ]
+}

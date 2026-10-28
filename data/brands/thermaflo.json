@@ -1,0 +1,87 @@
+{
+ "brand": "ThermaFlo",
+ "brandSlug": "thermaflo",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/thermaflo/"
+ ],
+ "slugUsed": "thermaflo",
+ "capturedAt": "2026-10-28T12:39:32.733880+00:00",
+ "typePages": [
+  {
+   "path": "/brand/thermaflo/boiler.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/thermaflo/control-unit.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/thermaflo/test-equipment.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/thermaflo/water-heater.html",
+   "manuals": 3,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "3730464",
+   "slug": "Thermaflo-Th-750-Series",
+   "title": "EC800II Operation & maintenance manual",
+   "type": "Service",
+   "pages": 22,
+   "productModel": "EC800II",
+   "extraModels": [
+    "EC800II",
+    "TH-750V"
+   ],
+   "url": "https://www.manualslib.com/manual/3730464/Thermaflo-Th-750-Series.html"
+  },
+  {
+   "manualId": "3051212",
+   "slug": "Thermaflo-3010-P-Series",
+   "title": "Installation and maintenance manual",
+   "type": "Service",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3051212/Thermaflo-3010-P-Series.html"
+  },
+  {
+   "manualId": "1433523",
+   "slug": "Thermaflo-Ozsaver-4000",
+   "title": "OzSaver 4000 Manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "OzSaver 4000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1433523/Thermaflo-Ozsaver-4000.html"
+  },
+  {
+   "manualId": "4600147",
+   "slug": "Thermaflo-Th-750-Series",
+   "title": "TH-250 Series Operation & maintenance manual",
+   "type": "Service",
+   "pages": 22,
+   "productModel": "TH-250 Series",
+   "extraModels": [
+    "TH-250 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4600147/Thermaflo-Th-750-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "thermaflo"
+ ]
+}

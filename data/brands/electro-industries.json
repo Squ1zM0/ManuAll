@@ -1,0 +1,835 @@
+{
+ "brand": "Electro Industries",
+ "brandSlug": "electro-industries",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/electro-industries/"
+ ],
+ "slugUsed": "electro-industries",
+ "capturedAt": "2026-10-28T12:38:53.124181+00:00",
+ "typePages": [
+  {
+   "path": "/brand/electro-industries/air-conditioner.html",
+   "manuals": 40,
+   "status": 200
+  },
+  {
+   "path": "/brand/electro-industries/boiler.html",
+   "manuals": 149,
+   "status": 200
+  },
+  {
+   "path": "/brand/electro-industries/control-systems.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/electro-industries/controller.html",
+   "manuals": 18,
+   "status": 200
+  },
+  {
+   "path": "/brand/electro-industries/fan.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/electro-industries/furnace.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/electro-industries/heater.html",
+   "manuals": 19,
+   "status": 200
+  },
+  {
+   "path": "/brand/electro-industries/heating-system.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/electro-industries/measuring-instruments.html",
+   "manuals": 21,
+   "status": 200
+  },
+  {
+   "path": "/brand/electro-industries/media-converter.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/electro-industries/multiplexer.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "43394",
+   "slug": "Electro-Industries-1252",
+   "title": "1252 Installation and operation manual",
+   "type": "Installation",
+   "pages": 154,
+   "productModel": "1252",
+   "extraModels": [
+    "250",
+    "Nexus 1250",
+    "Nexus 1252"
+   ],
+   "url": "https://www.manualslib.com/manual/43394/Electro-Industries-1252.html"
+  },
+  {
+   "manualId": "3514253",
+   "slug": "Electro-Industries-Eb-Ze-8-Series",
+   "title": "EB 10 Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "EB 10 Series",
+   "extraModels": [
+    "EB 10 Series",
+    "EB 15 Series",
+    "EB 18 Series",
+    "EB 23 Series",
+    "EB- 13 Series",
+    "EB-C-18-48",
+    "EB-C-27 Series",
+    "EB-C-31",
+    "EB-C-36",
+    "EB-C-36-48",
+    "EB-C-40 Series",
+    "EB-C-54-48",
+    "EB-ZT 8 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3514253/Electro-Industries-Eb-Ze-8-Series.html"
+  },
+  {
+   "manualId": "3938253",
+   "slug": "Electro-Industries-Eb-20-Series",
+   "title": "EB 20 Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "EB 20 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3938253/Electro-Industries-Eb-20-Series.html"
+  },
+  {
+   "manualId": "3938254",
+   "slug": "Electro-Industries-Eb-27-Series",
+   "title": "EB 27 Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "EB 27 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3938254/Electro-Industries-Eb-27-Series.html"
+  },
+  {
+   "manualId": "818852",
+   "slug": "Electro-Industries-Eb-Ma-10",
+   "title": "EB-MA-10 user manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "EB-MA-10",
+   "extraModels": [
+    "EB-MA-15",
+    "EB-MA-20"
+   ],
+   "url": "https://www.manualslib.com/manual/818852/Electro-Industries-Eb-Ma-10.html"
+  },
+  {
+   "manualId": "2673207",
+   "slug": "Electro-Industries-Eb-Mo-10",
+   "title": "EB-MO-10 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "EB-MO-10",
+   "extraModels": [
+    "EB-MO-15",
+    "EB-MO-20"
+   ],
+   "url": "https://www.manualslib.com/manual/2673207/Electro-Industries-Eb-Mo-10.html"
+  },
+  {
+   "manualId": "2687433",
+   "slug": "Electro-Industries-Eb-Mx-10",
+   "title": "EB-MS-10 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "EB-MS-10",
+   "extraModels": [
+    "EB-MS-10",
+    "EB-MS-15",
+    "EB-MS-20",
+    "EB-MX-15"
+   ],
+   "url": "https://www.manualslib.com/manual/2687433/Electro-Industries-Eb-Mx-10.html"
+  },
+  {
+   "manualId": "866045",
+   "slug": "Electro-Industries-Eb-Ms-10",
+   "title": "EB-MS-10 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "EB-MS-10",
+   "extraModels": [
+    "EB-MS-15",
+    "EB-MS-20"
+   ],
+   "url": "https://www.manualslib.com/manual/866045/Electro-Industries-Eb-Ms-10.html"
+  },
+  {
+   "manualId": "3899114",
+   "slug": "Electro-Industries-Eb-Mx-20",
+   "title": "EB-MX-20 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "EB-MX-20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3899114/Electro-Industries-Eb-Mx-20.html"
+  },
+  {
+   "manualId": "919765",
+   "slug": "Electro-Industries-Eb-S-13",
+   "title": "EB-S-13 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "EB-S-13",
+   "extraModels": [
+    "EB-S-18",
+    "EB-S-23",
+    "EB-S-27"
+   ],
+   "url": "https://www.manualslib.com/manual/919765/Electro-Industries-Eb-S-13.html"
+  },
+  {
+   "manualId": "1161852",
+   "slug": "Electro-Industries-Eb-Wx-13-2",
+   "title": "EB-WX-13-2 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 31,
+   "productModel": "EB-WX-13-2",
+   "extraModels": [
+    "EB-WX-27-2"
+   ],
+   "url": "https://www.manualslib.com/manual/1161852/Electro-Industries-Eb-Wx-13-2.html"
+  },
+  {
+   "manualId": "2306359",
+   "slug": "Electro-Industries-Electro-Duct",
+   "title": "ELECTRO DUCT installation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "ELECTRO DUCT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2306359/Electro-Industries-Electro-Duct.html"
+  },
+  {
+   "manualId": "2332396",
+   "slug": "Electro-Industries-Heatchoice-Eh-Series",
+   "title": "Electro Industries HeatChoice EH Series Manual",
+   "type": "Other",
+   "pages": 26,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2332396/Electro-Industries-Heatchoice-Eh-Series.html"
+  },
+  {
+   "manualId": "3649998",
+   "slug": "Electro-Industries-Mini-Ezboiler-R1-Series",
+   "title": "Electro Mini EZBoiler EZB-R1-01-120-1 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "Electro Mini EZBoiler EZB-R1-01-120-1",
+   "extraModels": [
+    "Electro Mini EZBoiler EZB-R1-01-120-1",
+    "Electro Mini EZBoiler EZB-R1-03-120-1",
+    "Electro Mini EZBoiler EZB-R1-05-240-1",
+    "Electro Mini EZBoiler EZB-R1-07-240-1",
+    "Electro Mini EZBoiler EZB-R1-09-240-1"
+   ],
+   "url": "https://www.manualslib.com/manual/3649998/Electro-Industries-Mini-Ezboiler-R1-Series.html"
+  },
+  {
+   "manualId": "3545650",
+   "slug": "Electro-Industries-Electro-Ts-Series",
+   "title": "Electro TS Series Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "Electro TS Series",
+   "extraModels": [
+    "EB-C+ Series",
+    "EB-C-STG5",
+    "EB-MA Series",
+    "EB-MO Series",
+    "EB-MS Series",
+    "EB-S Series",
+    "EB-WA Series",
+    "EB-WO Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3545650/Electro-Industries-Electro-Ts-Series.html"
+  },
+  {
+   "manualId": "837929",
+   "slug": "Electro-Industries-Electro-Boiler-Eb-Wo-13",
+   "title": "Electro-Boiler EB-WO-13 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "Electro-Boiler EB-WO-13",
+   "extraModels": [
+    "Electro-Boiler EB-WO-18",
+    "Electro-Boiler EB-WO-23",
+    "Electro-Boiler EB-WO-27",
+    "TS EB-WA-13",
+    "TS EB-WA-18",
+    "TS EB-WA-23",
+    "TS EB-WA-27"
+   ],
+   "url": "https://www.manualslib.com/manual/837929/Electro-Industries-Electro-Boiler-Eb-Wo-13.html"
+  },
+  {
+   "manualId": "3654150",
+   "slug": "Electro-Industries-Electro-Boiler-Edb-T1-Series",
+   "title": "ELECTRO-BOILER EDB-T1 Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "ELECTRO-BOILER EDB-T1 Series",
+   "extraModels": [
+    "ELECTRO-BOILER EDB-T1-18-480-3",
+    "ELECTRO-BOILER EDB-T1-20-240-1",
+    "ELECTRO-BOILER EDB-T1-20-600-3",
+    "ELECTRO-BOILER EDB-T1-24-240-1",
+    "ELECTRO-BOILER EDB-T1-24-480-3",
+    "ELECTRO-BOILER EDB-T1-24-600-3",
+    "ELECTRO-BOILER EDB-T1-28-208-3",
+    "ELECTRO-BOILER EDB-T1-28-240-1",
+    "ELECTRO-BOILER EDB-T1-30-480-3",
+    "ELECTRO-BOILER EDB-T1-32-208-3",
+    "ELECTRO-BOILER EDB-T1-32-240-1",
+    "ELECTRO-BOILER EDB-T1-32-240-3",
+    "ELECTRO-BOILER EDB-T1-32-600-3",
+    "ELECTRO-BOILER EDB-T1-36-208-3",
+    "ELECTRO-BOILER EDB-T1-36-240-1",
+    "ELECTRO-BOILER EDB-T1-36-240-3",
+    "ELECTRO-BOILER EDB-T1-36-480-3",
+    "ELECTRO-BOILER EDB-T1-36-600-3"
+   ],
+   "url": "https://www.manualslib.com/manual/3654150/Electro-Industries-Electro-Boiler-Edb-T1-Series.html"
+  },
+  {
+   "manualId": "3688936",
+   "slug": "Electro-Industries-Electro-Boiler-Edb-T1-18-240-3",
+   "title": "ELECTRO-BOILER EDB-T1 Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "ELECTRO-BOILER EDB-T1 Series",
+   "extraModels": [
+    "ELECTRO-BOILER EDB-T1-18-208-3",
+    "ELECTRO-BOILER EDB-T1-18-480-3",
+    "ELECTRO-BOILER EDB-T1-20-240-1",
+    "ELECTRO-BOILER EDB-T1-23-208-3",
+    "ELECTRO-BOILER EDB-T1-23-240-3",
+    "ELECTRO-BOILER EDB-T1-24-240-1",
+    "ELECTRO-BOILER EDB-T1-24-480-3",
+    "ELECTRO-BOILER EDB-T1-28-208-3",
+    "ELECTRO-BOILER EDB-T1-28-240-1",
+    "ELECTRO-BOILER EDB-T1-28-240-3",
+    "ELECTRO-BOILER EDB-T1-28-480-3",
+    "ELECTRO-BOILER EDB-T1-30-480-3",
+    "ELECTRO-BOILER EDB-T1-32-208-3",
+    "ELECTRO-BOILER EDB-T1-32-240-1",
+    "ELECTRO-BOILER EDB-T1-32-240-3",
+    "ELECTRO-BOILER EDB-T1-36-208-3",
+    "ELECTRO-BOILER EDB-T1-36-240-1",
+    "ELECTRO-BOILER EDB-T1-36-240-3",
+    "ELECTRO-BOILER EDB-T1-36-480-3"
+   ],
+   "url": "https://www.manualslib.com/manual/3688936/Electro-Industries-Electro-Boiler-Edb-T1-18-240-3.html"
+  },
+  {
+   "manualId": "4150496",
+   "slug": "Electro-Industries-Make-Up-Air-Ii",
+   "title": "EM-MA10-240-1-10 Installation & operating manual",
+   "type": "Installation",
+   "pages": 47,
+   "productModel": "EM-MA10-240-1-10",
+   "extraModels": [
+    "EM-MA10-240-1-10",
+    "Make-Up Air II"
+   ],
+   "url": "https://www.manualslib.com/manual/4150496/Electro-Industries-Make-Up-Air-Ii.html"
+  },
+  {
+   "manualId": "2664784",
+   "slug": "Electro-Industries-Em-Mb00",
+   "title": "EM-MB00 Installation & operating manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "EM-MB00",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2664784/Electro-Industries-Em-Mb00.html"
+  },
+  {
+   "manualId": "2435896",
+   "slug": "Electro-Industries-Em-Mb01",
+   "title": "EM-MB01 Installation & operating manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "EM-MB01",
+   "extraModels": [
+    "EM-MB02"
+   ],
+   "url": "https://www.manualslib.com/manual/2435896/Electro-Industries-Em-Mb01.html"
+  },
+  {
+   "manualId": "1626103",
+   "slug": "Electro-Industries-Em-Mc00-Series",
+   "title": "EM-MC Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "EM-MC Series",
+   "extraModels": [
+    "EM-MC Series",
+    "EM-MC00-240-1-08",
+    "EM-MC05-208-3-08",
+    "EM-MC05-240-1-08",
+    "EM-MD Series",
+    "EM-MD00 Series",
+    "EM-MD00-240-1-10",
+    "EM-MD05-208-3-10",
+    "EM-MD05-240-1-10",
+    "EM-MD10-208-3-10",
+    "EM-MD10-240-1-10",
+    "EM-ME Series",
+    "EM-ME00 Series",
+    "EM-ME00-240-1-14",
+    "EM-ME05-208-3-14",
+    "EM-ME05-240-1-14",
+    "EM-ME10-208-3-14",
+    "EM-ME10-240-1-14",
+    "EM-ME14-208-3-14",
+    "EM-ME15-240-1-14",
+    "EM-MF Series",
+    "EM-MF00 Series",
+    "EM-MF00-240-1-14",
+    "EM-MF05-208-3-14",
+    "EM-MF05-240-1-14",
+    "EM-MF10-208-3-14",
+    "EM-MF10-240-1-14",
+    "EM-MF14-208-3-14",
+    "EM-MF15-240-1-14",
+    "EM-MG Series",
+    "EM-MG00 Series",
+    "EM-MG00-240-1-14",
+    "EM-MG05-240-1-14",
+    "EM-MG07-208-3-14",
+    "EM-MG10-240-1-14",
+    "EM-MG14-208-3-14",
+    "EM-MG15-240-1-14",
+    "EM-MG20-240-1-14",
+    "EM-MG22-208-3-14"
+   ],
+   "url": "https://www.manualslib.com/manual/1626103/Electro-Industries-Em-Mc00-Series.html"
+  },
+  {
+   "manualId": "2129853",
+   "slug": "Electro-Industries-Em-We1025h",
+   "title": "EM-WE1025H installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "EM-WE1025H",
+   "extraModels": [
+    "EM-WE1025L",
+    "EM-WE1535H",
+    "EM-WE1535L",
+    "EM-WE2035H",
+    "EM-WE2035L"
+   ],
+   "url": "https://www.manualslib.com/manual/2129853/Electro-Industries-Em-We1025h.html"
+  },
+  {
+   "manualId": "2559617",
+   "slug": "Electro-Industries-Em-Wx01-120-1-06",
+   "title": "EM-WX01-120-1-06 quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "EM-WX01-120-1-06",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2559617/Electro-Industries-Em-Wx01-120-1-06.html"
+  },
+  {
+   "manualId": "1475691",
+   "slug": "Electro-Industries-Em-Wx02-240-1-08",
+   "title": "EM-WX02-240-1-08 user manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "EM-WX02-240-1-08",
+   "extraModels": [
+    "EM-WX05-240-1-08",
+    "EM-WX10-240-1-10"
+   ],
+   "url": "https://www.manualslib.com/manual/1475691/Electro-Industries-Em-Wx02-240-1-08.html"
+  },
+  {
+   "manualId": "2343738",
+   "slug": "Electro-Industries-Mini-Boiler-Emb-H-1",
+   "title": "EMB-H-5 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "EMB-H-5",
+   "extraModels": [
+    "EMB-H-5",
+    "EMB-H-7",
+    "EMB-H-9",
+    "Mini-Boiler EMB-H-2",
+    "Mini-Boiler EMB-H-4"
+   ],
+   "url": "https://www.manualslib.com/manual/2343738/Electro-Industries-Mini-Boiler-Emb-H-1.html"
+  },
+  {
+   "manualId": "851418",
+   "slug": "Electro-Industries-Emb-H-5",
+   "title": "EMB-H-5 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "EMB-H-5",
+   "extraModels": [
+    "EMB-H-7",
+    "EMB-H-9"
+   ],
+   "url": "https://www.manualslib.com/manual/851418/Electro-Industries-Emb-H-5.html"
+  },
+  {
+   "manualId": "2098536",
+   "slug": "Electro-Industries-Ezb-Eco-Ezb-T1-05-240-1",
+   "title": "EZB-Eco EZB-T1-05-240-1 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "EZB-Eco EZB-T1-05-240-1",
+   "extraModels": [
+    "EZB-Eco EZB-T1-07-240-1",
+    "EZB-Eco EZB-T1-10-240-1",
+    "EZB-Eco EZB-T1-12-240-1",
+    "EZB-Eco EZB-T1-15-240-1",
+    "EZB-Eco EZB-T1-17-240-1",
+    "EZB-Eco EZB-T1-20-240-1"
+   ],
+   "url": "https://www.manualslib.com/manual/2098536/Electro-Industries-Ezb-Eco-Ezb-T1-05-240-1.html"
+  },
+  {
+   "manualId": "3584166",
+   "slug": "Electro-Industries-Ezb-Edge-Ezb-E1-4-05-240-1",
+   "title": "EZB-Edge EZB-E1/4-05-240-1 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 45,
+   "productModel": "EZB-Edge EZB-E1/4-05-240-1",
+   "extraModels": [
+    "EZB-Edge EZB-E1/4-07-240-1",
+    "EZB-Edge EZB-E1/4-10-240-1",
+    "EZB-Edge EZB-E1/4-12-240-1",
+    "EZB-Edge EZB-E1/4-15-240-1",
+    "EZB-Edge EZB-E1/4-17-240-1",
+    "EZB-Edge EZB-E1/4-20-240-1"
+   ],
+   "url": "https://www.manualslib.com/manual/3584166/Electro-Industries-Ezb-Edge-Ezb-E1-4-05-240-1.html"
+  },
+  {
+   "manualId": "3756749",
+   "slug": "Electro-Industries-Ezboiler-Ezb-T1-20-240-1",
+   "title": "EZBoiler EZB-T1-20-240-1 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "EZBoiler EZB-T1-20-240-1",
+   "extraModels": [
+    "EZBoiler EZB-T1-24-240-1",
+    "EZBoiler EZB-T1-28-240-1",
+    "EZBoiler EZB-T1-32-240-1",
+    "EZBoiler EZB-T1-36-240-1"
+   ],
+   "url": "https://www.manualslib.com/manual/3756749/Electro-Industries-Ezboiler-Ezb-T1-20-240-1.html"
+  },
+  {
+   "manualId": "745657",
+   "slug": "Electro-Industries-He-E-21-Series",
+   "title": "HE-E-**-21 Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "HE-E-**-21 Series",
+   "extraModels": [
+    "HE-E-10-21",
+    "HE-E-15-21",
+    "HE-E-20-21"
+   ],
+   "url": "https://www.manualslib.com/manual/745657/Electro-Industries-He-E-21-Series.html"
+  },
+  {
+   "manualId": "2627444",
+   "slug": "Electro-Industries-Hp-Btc",
+   "title": "HP-BTC Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "HP-BTC",
+   "extraModels": [
+    "HP-BTC-24"
+   ],
+   "url": "https://www.manualslib.com/manual/2627444/Electro-Industries-Hp-Btc.html"
+  },
+  {
+   "manualId": "912870",
+   "slug": "Electro-Industries-Make-Up-Air-Ii-Em-Ma01",
+   "title": "Make-Up Air II EM-MA01 Installation & operating manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "Make-Up Air II EM-MA01",
+   "extraModels": [
+    "Make-Up Air II EM-MA02"
+   ],
+   "url": "https://www.manualslib.com/manual/912870/Electro-Industries-Make-Up-Air-Ii-Em-Ma01.html"
+  },
+  {
+   "manualId": "851352",
+   "slug": "Electro-Industries-Mini-Boiler-Emb-5",
+   "title": "Mini-Boiler BH309 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "Mini-Boiler BH309",
+   "extraModels": [
+    "Mini-Boiler BH309",
+    "Mini-Boiler BL001",
+    "Mini-Boiler BS310",
+    "Mini-Boiler BX301",
+    "Mini-Boiler EMB-9"
+   ],
+   "url": "https://www.manualslib.com/manual/851352/Electro-Industries-Mini-Boiler-Emb-5.html"
+  },
+  {
+   "manualId": "2738656",
+   "slug": "Electro-Industries-Mini-Boiler-Emb-1",
+   "title": "Mini-Boiler EMB-1 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "Mini-Boiler EMB-1",
+   "extraModels": [
+    "Mini-Boiler EMB-2",
+    "Mini-Boiler EMB-4"
+   ],
+   "url": "https://www.manualslib.com/manual/2738656/Electro-Industries-Mini-Boiler-Emb-1.html"
+  },
+  {
+   "manualId": "3326666",
+   "slug": "Electro-Industries-Mini-Boiler-Emb-R1-01-120-1",
+   "title": "Mini-Boiler EMB-R1-01-120-1 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "Mini-Boiler EMB-R1-01-120-1",
+   "extraModels": [
+    "Mini-Boiler EMB-R1-03-120-1",
+    "Mini-Boiler EMB-R1-05-120-1",
+    "Mini-Boiler EMB-R1-07-120-1",
+    "Mini-Boiler EMB-R1-09-120-1"
+   ],
+   "url": "https://www.manualslib.com/manual/3326666/Electro-Industries-Mini-Boiler-Emb-R1-01-120-1.html"
+  },
+  {
+   "manualId": "1576896",
+   "slug": "Electro-Industries-Mini-Boiler-Emb-S-1",
+   "title": "Mini-Boiler EMB-S-1 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "Mini-Boiler EMB-S-1",
+   "extraModels": [
+    "Mini-Boiler EMB-S-2",
+    "Mini-Boiler EMB-S-4",
+    "Mini-Boiler EMB-S-5",
+    "Mini-Boiler EMB-S-7",
+    "Mini-Boiler EMB-S-9"
+   ],
+   "url": "https://www.manualslib.com/manual/1576896/Electro-Industries-Mini-Boiler-Emb-S-1.html"
+  },
+  {
+   "manualId": "1041528",
+   "slug": "Electro-Industries-Mini-Boiler-Emb-W-9",
+   "title": "Mini-Boiler EMB-W-9 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 23,
+   "productModel": "Mini-Boiler EMB-W-9",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1041528/Electro-Industries-Mini-Boiler-Emb-W-9.html"
+  },
+  {
+   "manualId": "1089430",
+   "slug": "Electro-Industries-Nexus-1262",
+   "title": "Nexus 1262 Installation & operation manual",
+   "type": "Installation",
+   "pages": 212,
+   "productModel": "Nexus 1262",
+   "extraModels": [
+    "Nexus 1271"
+   ],
+   "url": "https://www.manualslib.com/manual/1089430/Electro-Industries-Nexus-1262.html"
+  },
+  {
+   "manualId": "627515",
+   "slug": "Electro-Industries-Shark-100",
+   "title": "Shark 100 Installation & operation manual",
+   "type": "Installation",
+   "pages": 114,
+   "productModel": "Shark 100",
+   "extraModels": [
+    "Shark 100T"
+   ],
+   "url": "https://www.manualslib.com/manual/627515/Electro-Industries-Shark-100.html"
+  },
+  {
+   "manualId": "3239179",
+   "slug": "Electro-Industries-Shark-100",
+   "title": "Shark 100 quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "Shark 100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3239179/Electro-Industries-Shark-100.html"
+  },
+  {
+   "manualId": "1330038",
+   "slug": "Electro-Industries-Shark-100s",
+   "title": "Shark 100S Installation & operation manual",
+   "type": "Installation",
+   "pages": 164,
+   "productModel": "Shark 100S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1330038/Electro-Industries-Shark-100s.html"
+  },
+  {
+   "manualId": "2723401",
+   "slug": "Electro-Industries-Shark-100s",
+   "title": "Shark 100S quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "Shark 100S",
+   "extraModels": [
+    "Shark 200S"
+   ],
+   "url": "https://www.manualslib.com/manual/2723401/Electro-Industries-Shark-100s.html"
+  },
+  {
+   "manualId": "1383193",
+   "slug": "Electro-Industries-Shark-200",
+   "title": "Shark 200 Installation & operation manual",
+   "type": "Installation",
+   "pages": 353,
+   "productModel": "Shark 200",
+   "extraModels": [
+    "Shark 200T"
+   ],
+   "url": "https://www.manualslib.com/manual/1383193/Electro-Industries-Shark-200.html"
+  },
+  {
+   "manualId": "843269",
+   "slug": "Electro-Industries-Shark-200",
+   "title": "Shark 200 Installation & operation manual",
+   "type": "Installation",
+   "pages": 179,
+   "productModel": "Shark 200",
+   "extraModels": [
+    "Shark 200T"
+   ],
+   "url": "https://www.manualslib.com/manual/843269/Electro-Industries-Shark-200.html"
+  },
+  {
+   "manualId": "1246792",
+   "slug": "Electro-Industries-Shark-200s",
+   "title": "Shark 200S Installation & operator's manual",
+   "type": "Installation",
+   "pages": 220,
+   "productModel": "Shark 200S",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1246792/Electro-Industries-Shark-200s.html"
+  },
+  {
+   "manualId": "1991376",
+   "slug": "Electro-Industries-Shark-St40",
+   "title": "Shark ST40 quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "Shark ST40",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1991376/Electro-Industries-Shark-St40.html"
+  },
+  {
+   "manualId": "847772",
+   "slug": "Electro-Industries-Sm1-16",
+   "title": "SM1-16 Installation & operation manual",
+   "type": "Installation",
+   "pages": 35,
+   "productModel": "SM1-16",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/847772/Electro-Industries-Sm1-16.html"
+  },
+  {
+   "manualId": "596183",
+   "slug": "Electro-Industries-Fibercom",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/596183/Electro-Industries-Fibercom.html"
+  },
+  {
+   "manualId": "3158056",
+   "slug": "Electro-Industries-Warmflo-Em-Wc0515h",
+   "title": "WarmFlo EM-WC0515H Manual",
+   "type": "Other",
+   "pages": 19,
+   "productModel": "WarmFlo EM-WC0515H",
+   "extraModels": [
+    "WarmFlo EM-WC0515L",
+    "WarmFlo EM-WC1025H",
+    "WarmFlo EM-WC1025L"
+   ],
+   "url": "https://www.manualslib.com/manual/3158056/Electro-Industries-Warmflo-Em-Wc0515h.html"
+  },
+  {
+   "manualId": "2794279",
+   "slug": "Electro-Industries-Warmflo-Ii",
+   "title": "WARMFLO II Installation And Operations",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "WARMFLO II",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2794279/Electro-Industries-Warmflo-Ii.html"
+  },
+  {
+   "manualId": "3054401",
+   "slug": "Electro-Industries-Wf-Em3",
+   "title": "WARMFLO II Manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": "WARMFLO II",
+   "extraModels": [
+    "WARMFLO II",
+    "WF-EZ3",
+    "WF-LGR3"
+   ],
+   "url": "https://www.manualslib.com/manual/3054401/Electro-Industries-Wf-Em3.html"
+  },
+  {
+   "manualId": "2584449",
+   "slug": "Electro-Industries-Warmflo-Wf-Anz7",
+   "title": "WARMFLO WF-ANZ7 Manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "WARMFLO WF-ANZ7",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2584449/Electro-Industries-Warmflo-Wf-Anz7.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "electro-industries"
+ ]
+}

@@ -1,0 +1,1548 @@
+{
+ "brand": "IBC",
+ "brandSlug": "ibc",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/ibc/"
+ ],
+ "slugUsed": "ibc",
+ "capturedAt": "2026-10-28T12:39:28.018271+00:00",
+ "typePages": [
+  {
+   "path": "/brand/ibc/air-handlers.html",
+   "manuals": 27,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/barcode-reader.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/bathtubs.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/boiler.html",
+   "manuals": 170,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/boiler-supplies.html",
+   "manuals": 23,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/burner.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/card-reader.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/chassis.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/cleaning-equipment.html",
+   "manuals": 13,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/control-systems.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/control-unit.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/controller.html",
+   "manuals": 36,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/door-locks.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/fan.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/hearing-aid.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/heat-pump.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/industrial-equipment.html",
+   "manuals": 33,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/racks-and-stands.html",
+   "manuals": 22,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/software.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/switch.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/touchscreen.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/ultrasonic-jewelry-cleaner.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/water-heater.html",
+   "manuals": 45,
+   "status": 200
+  },
+  {
+   "path": "/brand/ibc/water-pump.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "1076178",
+   "slug": "Ibc-30",
+   "title": "115 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "115",
+   "extraModels": [
+    "115",
+    "115-HO",
+    "115-HO-C",
+    "40",
+    "40l",
+    "50",
+    "60",
+    "60l",
+    "80",
+    "80-HO",
+    "80-HO-C"
+   ],
+   "url": "https://www.manualslib.com/manual/1076178/Ibc-30.html"
+  },
+  {
+   "manualId": "3747772",
+   "slug": "Ibc-President-Series",
+   "title": "AA50075B Manual",
+   "type": "Other",
+   "pages": 49,
+   "productModel": "AA50075B",
+   "extraModels": [
+    "AA50075B",
+    "AA50076B",
+    "AA50077B",
+    "AA50078B",
+    "President-93"
+   ],
+   "url": "https://www.manualslib.com/manual/3747772/Ibc-President-Series.html"
+  },
+  {
+   "manualId": "4197929",
+   "slug": "Ibc-Ahu-1200-Hc",
+   "title": "AHU 1200 HC Installation & operating manual",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "AHU 1200 HC",
+   "extraModels": [
+    "AHU 2000 HC"
+   ],
+   "url": "https://www.manualslib.com/manual/4197929/Ibc-Ahu-1200-Hc.html"
+  },
+  {
+   "manualId": "3005002",
+   "slug": "Ibc-Ahu-800",
+   "title": "AHU 1200 Low Velocity Installation & operating manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "AHU 1200 Low Velocity",
+   "extraModels": [
+    "AHU 1200 Low Velocity",
+    "AHU 1200 LV",
+    "AHU 1600",
+    "AHU 2000",
+    "AHU 2000 Low Velocity",
+    "AHU 2000 LV",
+    "AHU Series",
+    "AHU1200",
+    "IAHCCF1-0800",
+    "IAHCCF1-1200",
+    "IAHCCF1-1600",
+    "IAHCCF1-800",
+    "IALCCF1-1200",
+    "IALCCF1-2000"
+   ],
+   "url": "https://www.manualslib.com/manual/3005002/Ibc-Ahu-800.html"
+  },
+  {
+   "manualId": "2022455",
+   "slug": "Ibc-Ahu-Series",
+   "title": "AHU 1600 Installation & operating manual",
+   "type": "Installation",
+   "pages": 75,
+   "productModel": "AHU 1600",
+   "extraModels": [
+    "AHU 1600",
+    "AHU 800",
+    "AHU1200"
+   ],
+   "url": "https://www.manualslib.com/manual/2022455/Ibc-Ahu-Series.html"
+  },
+  {
+   "manualId": "2933578",
+   "slug": "Ibc-Ahu-Series",
+   "title": "AHU 1600 Quick Reference Installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "AHU 1600",
+   "extraModels": [
+    "AHU 1600",
+    "AHU 800",
+    "AHU1200"
+   ],
+   "url": "https://www.manualslib.com/manual/2933578/Ibc-Ahu-Series.html"
+  },
+  {
+   "manualId": "1859371",
+   "slug": "Ibc-Ahu-Series",
+   "title": "AHU 800 Installation and operating manual",
+   "type": "Installation",
+   "pages": 63,
+   "productModel": "AHU 800",
+   "extraModels": [
+    "AHU 800"
+   ],
+   "url": "https://www.manualslib.com/manual/1859371/Ibc-Ahu-Series.html"
+  },
+  {
+   "manualId": "3422605",
+   "slug": "Ibc-P-1606",
+   "title": "Assembly Replacement",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3422605/Ibc-P-1606.html"
+  },
+  {
+   "manualId": "874934",
+   "slug": "Ibc-Boilernet-Interface-Controller-Ii",
+   "title": "BoilerNet Interface Controller II user manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "BoilerNet Interface Controller II",
+   "extraModels": [
+    "BoilerNet Interface Controller II"
+   ],
+   "url": "https://www.manualslib.com/manual/874934/Ibc-Boilernet-Interface-Controller-Ii.html"
+  },
+  {
+   "manualId": "1426014",
+   "slug": "Ibc-Bti-30",
+   "title": "BTI 119-MAX Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "BTI 119-MAX",
+   "extraModels": [
+    "BTI 119-MAX",
+    "BTI 40",
+    "BTI 55",
+    "BTI 65",
+    "BTI 80",
+    "BTI 80-MAX"
+   ],
+   "url": "https://www.manualslib.com/manual/1426014/Ibc-Bti-30.html"
+  },
+  {
+   "manualId": "3101451",
+   "slug": "Ibc-Cx-Series",
+   "title": "CX 150 Installation and operating manual",
+   "type": "Installation",
+   "pages": 124,
+   "productModel": "CX 150",
+   "extraModels": [
+    "CX 150",
+    "CX 199",
+    "ICGFSW1-0150",
+    "ICGFSW1-0199"
+   ],
+   "url": "https://www.manualslib.com/manual/3101451/Ibc-Cx-Series.html"
+  },
+  {
+   "manualId": "3194063",
+   "slug": "Ibc-Cx-150",
+   "title": "CX 150 Quick Start",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "CX 150",
+   "extraModels": [
+    "CX 199"
+   ],
+   "url": "https://www.manualslib.com/manual/3194063/Ibc-Cx-150.html"
+  },
+  {
+   "manualId": "1716485",
+   "slug": "Ibc-Ex-850",
+   "title": "CX Series User's information manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "CX Series",
+   "extraModels": [
+    "CX Series",
+    "EX 700",
+    "EX Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1716485/Ibc-Ex-850.html"
+  },
+  {
+   "manualId": "1502649",
+   "slug": "Ibc-Dc-Series",
+   "title": "DC 15-95 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 83,
+   "productModel": "DC 15-95",
+   "extraModels": [
+    "DC 15-95",
+    "DC 15-96",
+    "DC 20-125",
+    "DC 33-160"
+   ],
+   "url": "https://www.manualslib.com/manual/1502649/Ibc-Dc-Series.html"
+  },
+  {
+   "manualId": "905863",
+   "slug": "Ibc-Dc-23-84",
+   "title": "DC 23-84 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "DC 23-84",
+   "extraModels": [
+    "DC 33-160",
+    "HC 13-50"
+   ],
+   "url": "https://www.manualslib.com/manual/905863/Ibc-Dc-23-84.html"
+  },
+  {
+   "manualId": "3829107",
+   "slug": "Ibc-Dc-29-106",
+   "title": "DC 29-106 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "DC 29-106",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3829107/Ibc-Dc-29-106.html"
+  },
+  {
+   "manualId": "3829108",
+   "slug": "Ibc-Dc-33-124",
+   "title": "DC 33-124 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "DC 33-124",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3829108/Ibc-Dc-33-124.html"
+  },
+  {
+   "manualId": "1212639",
+   "slug": "Ibc-Dc-Series",
+   "title": "DC Series User's information manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "DC Series",
+   "extraModels": [
+    "HC Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1212639/Ibc-Dc-Series.html"
+  },
+  {
+   "manualId": "847366",
+   "slug": "Ibc-Dcx-Series",
+   "title": "DCX Series user manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "DCX Series",
+   "extraModels": [
+    "Magbar DCX",
+    "Smart Mag DCX",
+    "Smart Prox DCX",
+    "Smart Slot DCX"
+   ],
+   "url": "https://www.manualslib.com/manual/847366/Ibc-Dcx-Series.html"
+  },
+  {
+   "manualId": "2977341",
+   "slug": "Ibc-Ebx-Series",
+   "title": "EBX Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "EBX Series",
+   "extraModels": [
+    "EBX10K-240",
+    "EBX12K-240",
+    "EBX4K-240",
+    "EBX8K-240",
+    "IBEXSW1-004K",
+    "IBEXSW1-008K",
+    "IBEXSW1-010K",
+    "IBEXSW1-012K"
+   ],
+   "url": "https://www.manualslib.com/manual/2977341/Ibc-Ebx-Series.html"
+  },
+  {
+   "manualId": "3374362",
+   "slug": "Ibc-Ex400",
+   "title": "EX 400 Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "EX 400",
+   "extraModels": [
+    "EX 500"
+   ],
+   "url": "https://www.manualslib.com/manual/3374362/Ibc-Ex400.html"
+  },
+  {
+   "manualId": "2034964",
+   "slug": "Ibc-Ex-Series",
+   "title": "EX 400 Installation & operating manual",
+   "type": "Installation",
+   "pages": 136,
+   "productModel": "EX 400",
+   "extraModels": [
+    "EX 400",
+    "EX 500",
+    "EX 700",
+    "EX 850"
+   ],
+   "url": "https://www.manualslib.com/manual/2034964/Ibc-Ex-Series.html"
+  },
+  {
+   "manualId": "2000305",
+   "slug": "Ibc-Ex-Series",
+   "title": "EX 400 Quick Reference Installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "EX 400",
+   "extraModels": [
+    "EX 400",
+    "EX 500",
+    "EX 700",
+    "EX 850"
+   ],
+   "url": "https://www.manualslib.com/manual/2000305/Ibc-Ex-Series.html"
+  },
+  {
+   "manualId": "3374371",
+   "slug": "Ibc-Ex700",
+   "title": "EX 700 Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "EX 700",
+   "extraModels": [
+    "EX 850"
+   ],
+   "url": "https://www.manualslib.com/manual/3374371/Ibc-Ex700.html"
+  },
+  {
+   "manualId": "3416147",
+   "slug": "Ibc-Ex700",
+   "title": "EX 700 Assembly instructions manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "EX 700",
+   "extraModels": [
+    "EX 850",
+    "MX02-C-4",
+    "MX03-C-4"
+   ],
+   "url": "https://www.manualslib.com/manual/3416147/Ibc-Ex700.html"
+  },
+  {
+   "manualId": "1710592",
+   "slug": "Ibc-Ex-Series",
+   "title": "EX 700 Installation and operating manual",
+   "type": "Installation",
+   "pages": 104,
+   "productModel": "EX 700",
+   "extraModels": [
+    "EX 700",
+    "EX 850"
+   ],
+   "url": "https://www.manualslib.com/manual/1710592/Ibc-Ex-Series.html"
+  },
+  {
+   "manualId": "2158875",
+   "slug": "Ibc-Ex-700",
+   "title": "EX 700 quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "EX 700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2158875/Ibc-Ex-700.html"
+  },
+  {
+   "manualId": "2096043",
+   "slug": "Ibc-V-10",
+   "title": "EX Series Manual",
+   "type": "Other",
+   "pages": 103,
+   "productModel": "EX Series",
+   "extraModels": [
+    "EX Series",
+    "SL SERIES",
+    "VX Series",
+    "SL Series",
+    "SX Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2096043/Ibc-V-10.html"
+  },
+  {
+   "manualId": "3134991",
+   "slug": "Ibc-Hc-Series",
+   "title": "HC 13-50 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 76,
+   "productModel": "HC 13-50",
+   "extraModels": [
+    "HC 13-50",
+    "HC 20-125",
+    "HC 23-84",
+    "HC 29-106",
+    "HC 33-160"
+   ],
+   "url": "https://www.manualslib.com/manual/3134991/Ibc-Hc-Series.html"
+  },
+  {
+   "manualId": "3180161",
+   "slug": "Ibc-Hc-15-95",
+   "title": "HC 13-50 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 78,
+   "productModel": "HC 13-50",
+   "extraModels": [
+    "HC 13-50",
+    "HC 20-125",
+    "HC 33-160",
+    "HC Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3180161/Ibc-Hc-15-95.html"
+  },
+  {
+   "manualId": "3223143",
+   "slug": "Ibc-Hc-33-124",
+   "title": "HC 13-50 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "HC 13-50",
+   "extraModels": [
+    "HC 13-50",
+    "HC 20-125",
+    "HC 23-84",
+    "HC 29-106",
+    "HC 33-160",
+    "HC Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3223143/Ibc-Hc-33-124.html"
+  },
+  {
+   "manualId": "3922050",
+   "slug": "Ibc-Hc-15-96",
+   "title": "HC 15-96 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 78,
+   "productModel": "HC 15-96",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3922050/Ibc-Hc-15-96.html"
+  },
+  {
+   "manualId": "3306117",
+   "slug": "Ibc-Hpx-3",
+   "title": "HPX 3 Installation and operating manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "HPX 3",
+   "extraModels": [
+    "IHEXXF1-003T",
+    "IHEXXF1-005T"
+   ],
+   "url": "https://www.manualslib.com/manual/3306117/Ibc-Hpx-3.html"
+  },
+  {
+   "manualId": "3928554",
+   "slug": "Ibc-Hpx-5",
+   "title": "HPX 5 Installation and operating manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "HPX 5",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3928554/Ibc-Hpx-5.html"
+  },
+  {
+   "manualId": "4239002",
+   "slug": "ibc-p-153-boiler-burner-kit-installation-manual",
+   "title": "IBC P-153 Boiler Burner Kit Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4239002/ibc-p-153-boiler-burner-kit-installation-manual.html"
+  },
+  {
+   "manualId": "4236420",
+   "slug": "ibc-p-311b-boiler-fan-kit-installation-manual",
+   "title": "IBC P-311B Boiler Fan Kit Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4236420/ibc-p-311b-boiler-fan-kit-installation-manual.html"
+  },
+  {
+   "manualId": "913470",
+   "slug": "Ibc-Vfc-15-150",
+   "title": "Ibc VFC 15-150 Manual",
+   "type": "Other",
+   "pages": 84,
+   "productModel": null,
+   "extraModels": [
+    "VFC 45-225"
+   ],
+   "url": "https://www.manualslib.com/manual/913470/Ibc-Vfc-15-150.html"
+  },
+  {
+   "manualId": "2061050",
+   "slug": "Ibc-Vx-Series",
+   "title": "IBGFSW1-0110 Installation & operating manual",
+   "type": "Installation",
+   "pages": 111,
+   "productModel": "IBGFSW1-0110",
+   "extraModels": [
+    "IBGFSW1-0110",
+    "IBGFSW1-0150",
+    "IBGFSW1-0199",
+    "VX 110",
+    "VX 150",
+    "VX 199"
+   ],
+   "url": "https://www.manualslib.com/manual/2061050/Ibc-Vx-Series.html"
+  },
+  {
+   "manualId": "2234181",
+   "slug": "Ibc-Ibt-25",
+   "title": "Installation & operating manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2234181/Ibc-Ibt-25.html"
+  },
+  {
+   "manualId": "3272015",
+   "slug": "Ibc-Ibt-52",
+   "title": "Installation & operating manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3272015/Ibc-Ibt-52.html"
+  },
+  {
+   "manualId": "1527533",
+   "slug": "Ibc-P-271",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1527533/Ibc-P-271.html"
+  },
+  {
+   "manualId": "1535715",
+   "slug": "Ibc-P-270",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1535715/Ibc-P-270.html"
+  },
+  {
+   "manualId": "1569580",
+   "slug": "Ibc-P-242",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1569580/Ibc-P-242.html"
+  },
+  {
+   "manualId": "1666659",
+   "slug": "Ibc-P-272",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1666659/Ibc-P-272.html"
+  },
+  {
+   "manualId": "3294500",
+   "slug": "Ibc-P-1609",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3294500/Ibc-P-1609.html"
+  },
+  {
+   "manualId": "3294507",
+   "slug": "Ibc-P-1610",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3294507/Ibc-P-1610.html"
+  },
+  {
+   "manualId": "3482678",
+   "slug": "Ibc-P-1249",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3482678/Ibc-P-1249.html"
+  },
+  {
+   "manualId": "3534694",
+   "slug": "Ibc-P-1250",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 3,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3534694/Ibc-P-1250.html"
+  },
+  {
+   "manualId": "3410882",
+   "slug": "Ibc-P-242b-V-10",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3410882/Ibc-P-242b-V-10.html"
+  },
+  {
+   "manualId": "4015744",
+   "slug": "Ibc-P-326",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4015744/Ibc-P-326.html"
+  },
+  {
+   "manualId": "1220431",
+   "slug": "Ibc-Biobolt",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1220431/Ibc-Biobolt.html"
+  },
+  {
+   "manualId": "3792512",
+   "slug": "Ibc-P-242c-V-10",
+   "title": "Installation manual",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3792512/Ibc-P-242c-V-10.html"
+  },
+  {
+   "manualId": "1911789",
+   "slug": "Ibc-Cleaner-Lc",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1911789/Ibc-Cleaner-Lc.html"
+  },
+  {
+   "manualId": "2013006",
+   "slug": "Ibc-Brand-Cleaner-Sc",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2013006/Ibc-Brand-Cleaner-Sc.html"
+  },
+  {
+   "manualId": "3066597",
+   "slug": "Ibc-Sl-80-399",
+   "title": "instruction manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3066597/Ibc-Sl-80-399.html"
+  },
+  {
+   "manualId": "3568005",
+   "slug": "Ibc-Imperial",
+   "title": "Instruction manual",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3568005/Ibc-Imperial.html"
+  },
+  {
+   "manualId": "2180265",
+   "slug": "Ibc-P-749b",
+   "title": "INSTRUCTIONAL NOTE",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2180265/Ibc-P-749b.html"
+  },
+  {
+   "manualId": "2860775",
+   "slug": "Ibc-P-1001",
+   "title": "Instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2860775/Ibc-P-1001.html"
+  },
+  {
+   "manualId": "3138733",
+   "slug": "Ibc-Interstar-Iwt-Series",
+   "title": "INTERSTAR IWT Series Installation & operating manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "INTERSTAR IWT Series",
+   "extraModels": [
+    "INTERSTOR IWT",
+    "IWT 119",
+    "IWT 119-Max",
+    "IWT 40",
+    "IWT 50",
+    "IWT 65",
+    "IWT 80",
+    "IWT 80-Max"
+   ],
+   "url": "https://www.manualslib.com/manual/3138733/Ibc-Interstar-Iwt-Series.html"
+  },
+  {
+   "manualId": "1963727",
+   "slug": "Ibc-Iwt-Series",
+   "title": "IWT 119 Installation and operating manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "IWT 119",
+   "extraModels": [
+    "IWT 119",
+    "IWT 119-Max",
+    "IWT 40",
+    "IWT 50",
+    "IWT 65",
+    "IWT 80",
+    "IWT 80-Max"
+   ],
+   "url": "https://www.manualslib.com/manual/1963727/Ibc-Iwt-Series.html"
+  },
+  {
+   "manualId": "2044620",
+   "slug": "Ibc-Sft-28-199",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2044620/Ibc-Sft-28-199.html"
+  },
+  {
+   "manualId": "3053823",
+   "slug": "Ibc-P-175",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3053823/Ibc-P-175.html"
+  },
+  {
+   "manualId": "3271426",
+   "slug": "Ibc-P-1203",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "EX 850"
+   ],
+   "url": "https://www.manualslib.com/manual/3271426/Ibc-P-1203.html"
+  },
+  {
+   "manualId": "4096316",
+   "slug": "Ibc-P-280",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4096316/Ibc-P-280.html"
+  },
+  {
+   "manualId": "3145659",
+   "slug": "Ibc-Mve2-Series",
+   "title": "MVE2 Series quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "MVE2 Series",
+   "extraModels": [
+    "MVE204",
+    "MVE204S",
+    "MVE206",
+    "MVE206S",
+    "MVE210",
+    "MVE210S",
+    "MVE215",
+    "MVE215S",
+    "MVE222",
+    "MVE222S"
+   ],
+   "url": "https://www.manualslib.com/manual/3145659/Ibc-Mve2-Series.html"
+  },
+  {
+   "manualId": "2030249",
+   "slug": "Ibc-Nsound-Kha-900r",
+   "title": "NSound KHA-900R user manual",
+   "type": "User / Owner",
+   "pages": 15,
+   "productModel": "NSound KHA-900R",
+   "extraModels": [
+    "NSound KHA-900T"
+   ],
+   "url": "https://www.manualslib.com/manual/2030249/Ibc-Nsound-Kha-900r.html"
+  },
+  {
+   "manualId": "3465708",
+   "slug": "Ibc-P-153",
+   "title": "P-153 Replacement instructions manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": "P-153",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3465708/Ibc-P-153.html"
+  },
+  {
+   "manualId": "3294527",
+   "slug": "Ibc-P-311b",
+   "title": "P-311B Replacement Instructions",
+   "type": "User / Owner",
+   "pages": 5,
+   "productModel": "P-311B",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3294527/Ibc-P-311b.html"
+  },
+  {
+   "manualId": "3716285",
+   "slug": "Ibc-Qscan",
+   "title": "Qscan user manual",
+   "type": "User / Owner",
+   "pages": 76,
+   "productModel": "Qscan",
+   "extraModels": [
+    "Qscan Mini"
+   ],
+   "url": "https://www.manualslib.com/manual/3716285/Ibc-Qscan.html"
+  },
+  {
+   "manualId": "932237",
+   "slug": "Ibc-Qscan",
+   "title": "Qscan user manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "Qscan",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/932237/Ibc-Qscan.html"
+  },
+  {
+   "manualId": "4331611",
+   "slug": "Ibc-Qscan",
+   "title": "Qscan User'smanual",
+   "type": "User / Owner",
+   "pages": 87,
+   "productModel": "Qscan",
+   "extraModels": [
+    "Qscan Mini",
+    "QscanT"
+   ],
+   "url": "https://www.manualslib.com/manual/4331611/Ibc-Qscan.html"
+  },
+  {
+   "manualId": "2530907",
+   "slug": "Ibc-Sfc-99",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2530907/Ibc-Sfc-99.html"
+  },
+  {
+   "manualId": "2530908",
+   "slug": "Ibc-Sfc-99",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2530908/Ibc-Sfc-99.html"
+  },
+  {
+   "manualId": "2557619",
+   "slug": "Ibc-Sft-199",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2557619/Ibc-Sft-199.html"
+  },
+  {
+   "manualId": "2582685",
+   "slug": "Ibc-P-1201",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2582685/Ibc-P-1201.html"
+  },
+  {
+   "manualId": "3315344",
+   "slug": "Ibc-P-807",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3315344/Ibc-P-807.html"
+  },
+  {
+   "manualId": "3637803",
+   "slug": "Ibc-Optipop-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3637803/Ibc-Optipop-Series.html"
+  },
+  {
+   "manualId": "3422624",
+   "slug": "Ibc-P-1605",
+   "title": "Replacement Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3422624/Ibc-P-1605.html"
+  },
+  {
+   "manualId": "3691493",
+   "slug": "Ibc-P-1620",
+   "title": "Replacement Instructions",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3691493/Ibc-P-1620.html"
+  },
+  {
+   "manualId": "2988214",
+   "slug": "Ibc-P-153b",
+   "title": "Replacement instructions manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2988214/Ibc-P-153b.html"
+  },
+  {
+   "manualId": "3336733",
+   "slug": "Ibc-P-1627",
+   "title": "Replacement instructions manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3336733/Ibc-P-1627.html"
+  },
+  {
+   "manualId": "4161340",
+   "slug": "Ibc-Sl-80-399",
+   "title": "Replacement instructions manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4161340/Ibc-Sl-80-399.html"
+  },
+  {
+   "manualId": "3877144",
+   "slug": "Ibc-Sfb",
+   "title": "SFB Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "SFB",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3877144/Ibc-Sfb.html"
+  },
+  {
+   "manualId": "2119702",
+   "slug": "Ibc-Sfc",
+   "title": "SFB Series Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "SFB Series",
+   "extraModels": [
+    "SFB Series",
+    "SFC Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2119702/Ibc-Sfc.html"
+  },
+  {
+   "manualId": "1917347",
+   "slug": "Ibc-Sfc-99",
+   "title": "SFC-125 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "SFC-125",
+   "extraModels": [
+    "SFC-125"
+   ],
+   "url": "https://www.manualslib.com/manual/1917347/Ibc-Sfc-99.html"
+  },
+  {
+   "manualId": "3094328",
+   "slug": "Ibc-Sfc-125",
+   "title": "SFC-125 Notes",
+   "type": "Other",
+   "pages": 6,
+   "productModel": "SFC-125",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3094328/Ibc-Sfc-125.html"
+  },
+  {
+   "manualId": "2056350",
+   "slug": "Ibc-Sfc-199",
+   "title": "SFC-199 Fuel Conversion Instructions",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "SFC-199",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2056350/Ibc-Sfc-199.html"
+  },
+  {
+   "manualId": "3138370",
+   "slug": "Ibc-Sfc-199",
+   "title": "SFC-199 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "SFC-199",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3138370/Ibc-Sfc-199.html"
+  },
+  {
+   "manualId": "2158023",
+   "slug": "Ibc-Sft-Series",
+   "title": "SFT Series User's information manual",
+   "type": "User / Owner",
+   "pages": 18,
+   "productModel": "SFT Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2158023/Ibc-Sft-Series.html"
+  },
+  {
+   "manualId": "1991509",
+   "slug": "Ibc-Intergas-Sft-199",
+   "title": "SFT-199 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 70,
+   "productModel": "SFT-199",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1991509/Ibc-Intergas-Sft-199.html"
+  },
+  {
+   "manualId": "3443095",
+   "slug": "Ibc-Sky-35",
+   "title": "SKY-35 Installation & operation manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "SKY-35",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3443095/Ibc-Sky-35.html"
+  },
+  {
+   "manualId": "1632907",
+   "slug": "Ibc-Sl-G3-Series",
+   "title": "SL 10-85 G3 Commissioning Supplement",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "SL 10-85 G3",
+   "extraModels": [
+    "SL 10-85 G3",
+    "SL 14-115 G3",
+    "SL 30-199 G3"
+   ],
+   "url": "https://www.manualslib.com/manual/1632907/Ibc-Sl-G3-Series.html"
+  },
+  {
+   "manualId": "2195468",
+   "slug": "Ibc-Sl-Series",
+   "title": "SL 10-85 G3 Installation & operating manual",
+   "type": "Installation",
+   "pages": 124,
+   "productModel": "SL 10-85 G3",
+   "extraModels": [
+    "SL 10-85 G3",
+    "SL 14-115 G3",
+    "SL 20-160 G3",
+    "SL 30-199 G3"
+   ],
+   "url": "https://www.manualslib.com/manual/2195468/Ibc-Sl-Series.html"
+  },
+  {
+   "manualId": "3162846",
+   "slug": "Ibc-Sl-20-160-G3",
+   "title": "SL 10-85 G3 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 90,
+   "productModel": "SL 10-85 G3",
+   "extraModels": [
+    "SL 10-85 G3",
+    "SL 14-115 G3",
+    "SL 30-199 G3"
+   ],
+   "url": "https://www.manualslib.com/manual/3162846/Ibc-Sl-20-160-G3.html"
+  },
+  {
+   "manualId": "3717589",
+   "slug": "Ibc-Sl-10-85-G3",
+   "title": "SL 10-85 G3 Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "SL 10-85 G3",
+   "extraModels": [
+    "SL 14-115 G3",
+    "SL 20-160 G3",
+    "SL 30-199 G3"
+   ],
+   "url": "https://www.manualslib.com/manual/3717589/Ibc-Sl-10-85-G3.html"
+  },
+  {
+   "manualId": "1544616",
+   "slug": "Ibc-Sl-10-85-G3",
+   "title": "SL 10-85 G3 Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "SL 10-85 G3",
+   "extraModels": [
+    "SL 14-115 G3",
+    "SL 20-160 G3",
+    "SL 30-199 G3"
+   ],
+   "url": "https://www.manualslib.com/manual/1544616/Ibc-Sl-10-85-G3.html"
+  },
+  {
+   "manualId": "3499358",
+   "slug": "Ibc-Sl-10-85-G3",
+   "title": "SL 10-85 G3 quick reference",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "SL 10-85 G3",
+   "extraModels": [
+    "SL 14-115 G3",
+    "SL 20-160 G3",
+    "SL 30-199 G3"
+   ],
+   "url": "https://www.manualslib.com/manual/3499358/Ibc-Sl-10-85-G3.html"
+  },
+  {
+   "manualId": "1314427",
+   "slug": "Ibc-Sl-14-115-G3",
+   "title": "SL 14-115 G3 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 86,
+   "productModel": "SL 14-115 G3",
+   "extraModels": [
+    "SL 20-160 G3",
+    "SL 30-199 G3"
+   ],
+   "url": "https://www.manualslib.com/manual/1314427/Ibc-Sl-14-115-G3.html"
+  },
+  {
+   "manualId": "3471543",
+   "slug": "Ibc-Sl-20-115-G2",
+   "title": "SL 20-115 G2 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 74,
+   "productModel": "SL 20-115 G2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3471543/Ibc-Sl-20-115-G2.html"
+  },
+  {
+   "manualId": "2860759",
+   "slug": "Ibc-Sl-Series",
+   "title": "SL 26-260 G3 Installation & operating manual",
+   "type": "Installation",
+   "pages": 121,
+   "productModel": "SL 26-260 G3",
+   "extraModels": [
+    "SL 26-260 G3",
+    "SL 40-399 G3"
+   ],
+   "url": "https://www.manualslib.com/manual/2860759/Ibc-Sl-Series.html"
+  },
+  {
+   "manualId": "1271064",
+   "slug": "Ibc-Sl-40-399-G3",
+   "title": "SL 26-260 G3 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "SL 26-260 G3",
+   "extraModels": [
+    "SL 26-260 G3"
+   ],
+   "url": "https://www.manualslib.com/manual/1271064/Ibc-Sl-40-399-G3.html"
+  },
+  {
+   "manualId": "2283060",
+   "slug": "Ibc-Sl-26-260-G3",
+   "title": "SL 26-260 G3 quick start manual",
+   "type": "Other",
+   "pages": 6,
+   "productModel": "SL 26-260 G3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2283060/Ibc-Sl-26-260-G3.html"
+  },
+  {
+   "manualId": "3278659",
+   "slug": "Ibc-Sl-28-160",
+   "title": "SL 28-160 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 74,
+   "productModel": "SL 28-160",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3278659/Ibc-Sl-28-160.html"
+  },
+  {
+   "manualId": "3249955",
+   "slug": "Ibc-Sl-30-175",
+   "title": "SL 30-175 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 74,
+   "productModel": "SL 30-175",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3249955/Ibc-Sl-30-175.html"
+  },
+  {
+   "manualId": "906940",
+   "slug": "Ibc-Sl-35-199",
+   "title": "SL 35-199 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 76,
+   "productModel": "SL 35-199",
+   "extraModels": [
+    "SL 45-260"
+   ],
+   "url": "https://www.manualslib.com/manual/906940/Ibc-Sl-35-199.html"
+  },
+  {
+   "manualId": "3019303",
+   "slug": "Ibc-Sl-35-199",
+   "title": "SL 35-199 quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "SL 35-199",
+   "extraModels": [
+    "SL 45-260"
+   ],
+   "url": "https://www.manualslib.com/manual/3019303/Ibc-Sl-35-199.html"
+  },
+  {
+   "manualId": "2122454",
+   "slug": "Ibc-Sl-40-399-G3",
+   "title": "SL 40-399 G3 quick start manual",
+   "type": "Other",
+   "pages": 7,
+   "productModel": "SL 40-399 G3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2122454/Ibc-Sl-40-399-G3.html"
+  },
+  {
+   "manualId": "4144214",
+   "slug": "Ibc-Vx-Series",
+   "title": "SL SERIES User's information manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "SL SERIES",
+   "extraModels": [
+    "SL SERIES",
+    "SL Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4144214/Ibc-Vx-Series.html"
+  },
+  {
+   "manualId": "973059",
+   "slug": "Ibc-Sl-Series",
+   "title": "SL SERIES User's information manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "SL SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/973059/Ibc-Sl-Series.html"
+  },
+  {
+   "manualId": "1302620",
+   "slug": "Ibc-Topfix-200",
+   "title": "TopFix 200 installation manual",
+   "type": "Installation",
+   "pages": 81,
+   "productModel": "TopFix 200",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1302620/Ibc-Topfix-200.html"
+  },
+  {
+   "manualId": "788556",
+   "slug": "Ibc-810",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/788556/Ibc-810.html"
+  },
+  {
+   "manualId": "2762726",
+   "slug": "Ibc-V-10",
+   "title": "V-10 operating instructions manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "V-10",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2762726/Ibc-V-10.html"
+  },
+  {
+   "manualId": "2882585",
+   "slug": "Ibc-Versa-Ic",
+   "title": "VERSA IC quick start manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "VERSA IC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2882585/Ibc-Versa-Ic.html"
+  },
+  {
+   "manualId": "1043269",
+   "slug": "Ibc-Vfc-15-150",
+   "title": "VFC 15-150 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "VFC 15-150",
+   "extraModels": [
+    "VFC 45-225"
+   ],
+   "url": "https://www.manualslib.com/manual/1043269/Ibc-Vfc-15-150.html"
+  },
+  {
+   "manualId": "1415143",
+   "slug": "Ibc-Vfc-15-150",
+   "title": "VFC 15-150 Operating instructions manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "VFC 15-150",
+   "extraModels": [
+    "VFC 45-225"
+   ],
+   "url": "https://www.manualslib.com/manual/1415143/Ibc-Vfc-15-150.html"
+  },
+  {
+   "manualId": "2095482",
+   "slug": "Ibc-Vx-110",
+   "title": "VX 110 Quick Reference Installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": "VX 110",
+   "extraModels": [
+    "VX 150",
+    "VX 199"
+   ],
+   "url": "https://www.manualslib.com/manual/2095482/Ibc-Vx-110.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4239002",
+   "slug": "ibc-p-153-boiler-burner-kit-installation-manual",
+   "title": "IBC P-153 Boiler Burner Kit Installation Manual"
+  },
+  {
+   "manualId": "4236420",
+   "slug": "ibc-p-311b-boiler-fan-kit-installation-manual",
+   "title": "IBC P-311B Boiler Fan Kit Installation Manual"
+  }
+ ],
+ "techDirectIds": [
+  "ibc"
+ ]
+}

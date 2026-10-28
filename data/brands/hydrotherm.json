@@ -1,0 +1,1031 @@
+{
+ "brand": "HydroTherm",
+ "brandSlug": "hydrotherm",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/hydrotherm/"
+ ],
+ "slugUsed": "hydrotherm",
+ "capturedAt": "2026-10-28T12:39:01.864676+00:00",
+ "typePages": [
+  {
+   "path": "/brand/hydrotherm/bathroom-fixtures.html",
+   "manuals": 50,
+   "status": 200
+  },
+  {
+   "path": "/brand/hydrotherm/boiler.html",
+   "manuals": 236,
+   "status": 200
+  },
+  {
+   "path": "/brand/hydrotherm/heat-pump.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/hydrotherm/heater.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/hydrotherm/heating-system.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/hydrotherm/swimming-pool-heater.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/hydrotherm/water-system.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "923743",
+   "slug": "Hydrotherm-Om-06",
+   "title": "0M 08 Installation, operation and maintanance manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "0M 08",
+   "extraModels": [
+    "0M 08",
+    "OM 07",
+    "OM 09",
+    "OM 11",
+    "OM 12",
+    "OM 13",
+    "OM 14",
+    "OM 15",
+    "OM 16",
+    "OM10"
+   ],
+   "url": "https://www.manualslib.com/manual/923743/Hydrotherm-Om-06.html"
+  },
+  {
+   "manualId": "2185176",
+   "slug": "Hydrotherm-Mg-Series",
+   "title": "42-9158 Installation Manual And Replacement Parts List",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "42-9158",
+   "extraModels": [
+    "42-9158",
+    "MG2-605"
+   ],
+   "url": "https://www.manualslib.com/manual/2185176/Hydrotherm-Mg-Series.html"
+  },
+  {
+   "manualId": "791315",
+   "slug": "Hydrotherm-70-195",
+   "title": "70-195 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "70-195",
+   "extraModels": [
+    "HWX 105",
+    "HWX 140",
+    "HWX 175",
+    "HWX 195",
+    "HWX 70"
+   ],
+   "url": "https://www.manualslib.com/manual/791315/Hydrotherm-70-195.html"
+  },
+  {
+   "manualId": "2594856",
+   "slug": "Hydrotherm-B-Series",
+   "title": "B Series quick start manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "B Series",
+   "extraModels": [
+    "B/500",
+    "B/600",
+    "B/700",
+    "B/800",
+    "BFS/500",
+    "BFS/600",
+    "BFS/700",
+    "BFS/800"
+   ],
+   "url": "https://www.manualslib.com/manual/2594856/Hydrotherm-B-Series.html"
+  },
+  {
+   "manualId": "942640",
+   "slug": "Hydrotherm-Cs300",
+   "title": "CS300 Installation and operating manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "CS300",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/942640/Hydrotherm-Cs300.html"
+  },
+  {
+   "manualId": "970933",
+   "slug": "Hydrotherm-Volt-Ss-X6-Op",
+   "title": "DYNAMIC SS/X8/OP owner's manual",
+   "type": "User / Owner",
+   "pages": 30,
+   "productModel": "DYNAMIC SS/X8/OP",
+   "extraModels": [
+    "DYNAMIC SS/X8/OP",
+    "RAPID SS/X4/OP"
+   ],
+   "url": "https://www.manualslib.com/manual/970933/Hydrotherm-Volt-Ss-X6-Op.html"
+  },
+  {
+   "manualId": "1637451",
+   "slug": "Hydrotherm-Dynamic-Ss-X8-Op",
+   "title": "DYNAMIC-SS/X8/C Manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "DYNAMIC-SS/X8/C",
+   "extraModels": [
+    "DYNAMIC-SS/X8/C"
+   ],
+   "url": "https://www.manualslib.com/manual/1637451/Hydrotherm-Dynamic-Ss-X8-Op.html"
+  },
+  {
+   "manualId": "1767156",
+   "slug": "Hydrotherm-Dynamic-Ss-X8-Op",
+   "title": "DYNAMIC-SS/X8/C Solution manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "DYNAMIC-SS/X8/C",
+   "extraModels": [
+    "DYNAMIC-SS/X8/C"
+   ],
+   "url": "https://www.manualslib.com/manual/1767156/Hydrotherm-Dynamic-Ss-X8-Op.html"
+  },
+  {
+   "manualId": "1805314",
+   "slug": "Hydrotherm-Dynamic-X8",
+   "title": "DYNAMIC/X8 owner's manual",
+   "type": "User / Owner",
+   "pages": 33,
+   "productModel": "DYNAMIC/X8",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1805314/Hydrotherm-Dynamic-X8.html"
+  },
+  {
+   "manualId": "3428987",
+   "slug": "Hydrotherm-Dynamic-X8",
+   "title": "DYNAMIC/X8 owner's manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "DYNAMIC/X8",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3428987/Hydrotherm-Dynamic-X8.html"
+  },
+  {
+   "manualId": "823795",
+   "slug": "Hydrotherm-Ew2-1203",
+   "title": "EW2-1203 Installation, operation & maintanance manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "EW2-1203",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/823795/Hydrotherm-Ew2-1203.html"
+  },
+  {
+   "manualId": "2498727",
+   "slug": "Hydrotherm-Fc-500",
+   "title": "FC/500 quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "FC/500",
+   "extraModels": [
+    "FC/600",
+    "FC/700",
+    "FC/800"
+   ],
+   "url": "https://www.manualslib.com/manual/2498727/Hydrotherm-Fc-500.html"
+  },
+  {
+   "manualId": "877917",
+   "slug": "Hydrotherm-Fx-Series",
+   "title": "FX Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 32,
+   "productModel": "FX Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/877917/Hydrotherm-Fx-Series.html"
+  },
+  {
+   "manualId": "4151415",
+   "slug": "Hydrotherm-Gx-Series",
+   "title": "GX Series Installation, operating and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "GX Series",
+   "extraModels": [
+    "GX-150",
+    "GX-200",
+    "GX-400",
+    "PGX-150",
+    "PGX-200",
+    "PGX-400"
+   ],
+   "url": "https://www.manualslib.com/manual/4151415/Hydrotherm-Gx-Series.html"
+  },
+  {
+   "manualId": "864060",
+   "slug": "Hydrotherm-Gx-Series",
+   "title": "GX Series Installation, operating and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "GX Series",
+   "extraModels": [
+    "GX-150",
+    "GX-200",
+    "GX-400",
+    "PGX-150",
+    "PGX-200",
+    "PGX-400"
+   ],
+   "url": "https://www.manualslib.com/manual/864060/Hydrotherm-Gx-Series.html"
+  },
+  {
+   "manualId": "1899382",
+   "slug": "Hydrotherm-Gx-Series",
+   "title": "GX Series Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "GX Series",
+   "extraModels": [
+    "GX-150",
+    "GX-200",
+    "GX-400",
+    "PGX-150",
+    "PGX-200",
+    "PGX-400"
+   ],
+   "url": "https://www.manualslib.com/manual/1899382/Hydrotherm-Gx-Series.html"
+  },
+  {
+   "manualId": "4160913",
+   "slug": "Hydrotherm-Gx-Series",
+   "title": "GX Series User's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "GX Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4160913/Hydrotherm-Gx-Series.html"
+  },
+  {
+   "manualId": "502625",
+   "slug": "Hydrotherm-Gx-Series",
+   "title": "GX Series User's information manual",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": "GX Series",
+   "extraModels": [
+    "GX-200"
+   ],
+   "url": "https://www.manualslib.com/manual/502625/Hydrotherm-Gx-Series.html"
+  },
+  {
+   "manualId": "4227987",
+   "slug": "Hydrotherm-Hc-C-Series",
+   "title": "HC-100C installation manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "HC-100C",
+   "extraModels": [
+    "HC-100C",
+    "HC-100C-P",
+    "HC-100C-PV",
+    "HC-125C",
+    "HC-125C-P",
+    "HC-125C-PV",
+    "HC-145C",
+    "HC-145C-P",
+    "HC-145C-PV",
+    "HC-165B",
+    "HC-165B-P",
+    "HC-165B-PV",
+    "HC-65C",
+    "HC-65C-P",
+    "HC-65C-PV",
+    "HC-85C",
+    "HC-85C-P",
+    "HC-85C-PV"
+   ],
+   "url": "https://www.manualslib.com/manual/4227987/Hydrotherm-Hc-C-Series.html"
+  },
+  {
+   "manualId": "901695",
+   "slug": "Hydrotherm-Hc-65",
+   "title": "HC-120 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "HC-120",
+   "extraModels": [
+    "HC-120"
+   ],
+   "url": "https://www.manualslib.com/manual/901695/Hydrotherm-Hc-65.html"
+  },
+  {
+   "manualId": "3828916",
+   "slug": "Hydrotherm-Hc-145",
+   "title": "HC-145 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "HC-145",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3828916/Hydrotherm-Hc-145.html"
+  },
+  {
+   "manualId": "3828917",
+   "slug": "Hydrotherm-Hc-165",
+   "title": "HC-165 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "HC-165",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3828917/Hydrotherm-Hc-165.html"
+  },
+  {
+   "manualId": "3828915",
+   "slug": "Hydrotherm-Hc-85",
+   "title": "HC-85 Installation operation & maintenance",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "HC-85",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3828915/Hydrotherm-Hc-85.html"
+  },
+  {
+   "manualId": "857400",
+   "slug": "Hydrotherm-Heatnet-Kn-6",
+   "title": "HeaetNet V3 KN-10 User information",
+   "type": "User / Owner",
+   "pages": 108,
+   "productModel": "HeaetNet V3 KN-10",
+   "extraModels": [
+    "HeaetNet V3 KN-10",
+    "HeaetNet V3 KN-16",
+    "HeaetNet V3 KN-20",
+    "HeaetNet V3 KN-26",
+    "HeaetNet V3 KN-30",
+    "HeaetNet V3 KN-6",
+    "HeatNet KN-10",
+    "HeatNet KN-16",
+    "HeatNet KN-20",
+    "HeatNet KN-26",
+    "HeatNet KN-30"
+   ],
+   "url": "https://www.manualslib.com/manual/857400/Hydrotherm-Heatnet-Kn-6.html"
+  },
+  {
+   "manualId": "819983",
+   "slug": "Hydrotherm-Kn-Series",
+   "title": "HeatNet KN-10 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "HeatNet KN-10",
+   "extraModels": [
+    "HeatNet KN-10",
+    "HeatNet KN-20",
+    "HeatNet KN6"
+   ],
+   "url": "https://www.manualslib.com/manual/819983/Hydrotherm-Kn-Series.html"
+  },
+  {
+   "manualId": "892283",
+   "slug": "Hydrotherm-Kn-6",
+   "title": "HeatNet KN-10 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "HeatNet KN-10",
+   "extraModels": [
+    "HeatNet KN-10",
+    "HeatNet KN-16",
+    "HeatNet KN-20",
+    "HeatNet KN-26",
+    "HeatNet KN-30"
+   ],
+   "url": "https://www.manualslib.com/manual/892283/Hydrotherm-Kn-6.html"
+  },
+  {
+   "manualId": "870222",
+   "slug": "Hydrotherm-Kn-20",
+   "title": "HeatNet KN-20 Field assembly instructions",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "HeatNet KN-20",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/870222/Hydrotherm-Kn-20.html"
+  },
+  {
+   "manualId": "2381769",
+   "slug": "Hydrotherm-Hf-Series",
+   "title": "HF Series quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "HF Series",
+   "extraModels": [
+    "HF2",
+    "HF3",
+    "HF4"
+   ],
+   "url": "https://www.manualslib.com/manual/2381769/Hydrotherm-Hf-Series.html"
+  },
+  {
+   "manualId": "2589891",
+   "slug": "Hydrotherm-Hr-Series",
+   "title": "HR Series quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "HR Series",
+   "extraModels": [
+    "HR1/400",
+    "HR1/500",
+    "HR1/600",
+    "HR1/700",
+    "HR1/800",
+    "HR1/900",
+    "HR3",
+    "HR4"
+   ],
+   "url": "https://www.manualslib.com/manual/2589891/Hydrotherm-Hr-Series.html"
+  },
+  {
+   "manualId": "3894861",
+   "slug": "Hydrotherm-Hr2",
+   "title": "HR2 quick start manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "HR2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3894861/Hydrotherm-Hr2.html"
+  },
+  {
+   "manualId": "1766513",
+   "slug": "Hydrotherm-Swivel-Series",
+   "title": "HSW-3 Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "HSW-3",
+   "extraModels": [
+    "HSW-3",
+    "HSW-4",
+    "HSW-5"
+   ],
+   "url": "https://www.manualslib.com/manual/1766513/Hydrotherm-Swivel-Series.html"
+  },
+  {
+   "manualId": "2425059",
+   "slug": "Hydrotherm-Swivel-Series",
+   "title": "HSW-3 Manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "HSW-3",
+   "extraModels": [
+    "HSW-3",
+    "HSW-4",
+    "HSW-5"
+   ],
+   "url": "https://www.manualslib.com/manual/2425059/Hydrotherm-Swivel-Series.html"
+  },
+  {
+   "manualId": "811118",
+   "slug": "Hydrotherm-Hv",
+   "title": "HV User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "HV",
+   "extraModels": [
+    "HW"
+   ],
+   "url": "https://www.manualslib.com/manual/811118/Hydrotherm-Hv.html"
+  },
+  {
+   "manualId": "946359",
+   "slug": "Hydrotherm-Hv-50",
+   "title": "HV-100 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "HV-100",
+   "extraModels": [
+    "HV-100",
+    "HV-125",
+    "HV-150",
+    "HV-75"
+   ],
+   "url": "https://www.manualslib.com/manual/946359/Hydrotherm-Hv-50.html"
+  },
+  {
+   "manualId": "502622",
+   "slug": "Hydrotherm-Hv-75",
+   "title": "HV-100 User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": "HV-100",
+   "extraModels": [
+    "HV-100",
+    "HV-125",
+    "HV-150",
+    "HV-50",
+    "HW-100",
+    "HW-125",
+    "HW-150",
+    "HW-175",
+    "HW-200",
+    "HW-50",
+    "HW-75"
+   ],
+   "url": "https://www.manualslib.com/manual/502622/Hydrotherm-Hv-75.html"
+  },
+  {
+   "manualId": "821821",
+   "slug": "Hydrotherm-Hvx-70",
+   "title": "HVX 175 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "HVX 175",
+   "extraModels": [
+    "HVX 175",
+    "HVX-105",
+    "HVX-140",
+    "HVX-165"
+   ],
+   "url": "https://www.manualslib.com/manual/821821/Hydrotherm-Hvx-70.html"
+  },
+  {
+   "manualId": "801711",
+   "slug": "Hydrotherm-Hvx",
+   "title": "HVX Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "HVX",
+   "extraModels": [
+    "HVX 70",
+    "HVX Series",
+    "HVX-105",
+    "HVX-140",
+    "HVX-165"
+   ],
+   "url": "https://www.manualslib.com/manual/801711/Hydrotherm-Hvx.html"
+  },
+  {
+   "manualId": "1654081",
+   "slug": "Hydrotherm-Hw-Series",
+   "title": "HW Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "HW Series",
+   "extraModels": [
+    "HW-100",
+    "HW-125",
+    "HW-150",
+    "HW-175",
+    "HW-200",
+    "HW-50",
+    "HW-75"
+   ],
+   "url": "https://www.manualslib.com/manual/1654081/Hydrotherm-Hw-Series.html"
+  },
+  {
+   "manualId": "2352806",
+   "slug": "Hydrotherm-Hw-Series",
+   "title": "HW Series Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "HW Series",
+   "extraModels": [
+    "HW2",
+    "HW3"
+   ],
+   "url": "https://www.manualslib.com/manual/2352806/Hydrotherm-Hw-Series.html"
+  },
+  {
+   "manualId": "3884849",
+   "slug": "Hydrotherm-Hw4",
+   "title": "HW4 Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "HW4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3884849/Hydrotherm-Hw4.html"
+  },
+  {
+   "manualId": "2956793",
+   "slug": "Hydrotherm-Hwx-70-195",
+   "title": "HWX 70-195 Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "HWX 70-195",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2956793/Hydrotherm-Hwx-70-195.html"
+  },
+  {
+   "manualId": "3828918",
+   "slug": "Hydrotherm-Hc-100",
+   "title": "Hydrotherm HC-100 Installation Operation & Maintenance",
+   "type": "Service",
+   "pages": 24,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3828918/Hydrotherm-Hc-100.html"
+  },
+  {
+   "manualId": "4266428",
+   "slug": "Hydrotherm-Hc-125",
+   "title": "Hydrotherm HC-125 Installation, Operation & Maintenance Instruction Manual",
+   "type": "Service",
+   "pages": 24,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4266428/Hydrotherm-Hc-125.html"
+  },
+  {
+   "manualId": "876991",
+   "slug": "Hydrotherm-Heatnet-Kn2",
+   "title": "Hydrotherm HeatNet KN2 Manual",
+   "type": "Other",
+   "pages": 88,
+   "productModel": null,
+   "extraModels": [
+    "HeatNet KN-10",
+    "HeatNet KN-20",
+    "HeatNet KN-30",
+    "HeatNet KN6",
+    "KN-4"
+   ],
+   "url": "https://www.manualslib.com/manual/876991/Hydrotherm-Heatnet-Kn2.html"
+  },
+  {
+   "manualId": "4162755",
+   "slug": "Hydrotherm-Kn-Series",
+   "title": "Hydrotherm KN Series Assembly, Installation And Operation Instructions",
+   "type": "Installation",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [
+    "HeatNet KN-10",
+    "HeatNet KN-16",
+    "HeatNet KN-20",
+    "HeatNet KN-26",
+    "HeatNet KN-30",
+    "HeatNet KN6"
+   ],
+   "url": "https://www.manualslib.com/manual/4162755/Hydrotherm-Kn-Series.html"
+  },
+  {
+   "manualId": "2855391",
+   "slug": "Hydrotherm-Kn-Series",
+   "title": "Hydrotherm KN Series Manual",
+   "type": "Other",
+   "pages": 52,
+   "productModel": null,
+   "extraModels": [
+    "HeatNet KN-10",
+    "HeatNet KN-20",
+    "HeatNet KN6"
+   ],
+   "url": "https://www.manualslib.com/manual/2855391/Hydrotherm-Kn-Series.html"
+  },
+  {
+   "manualId": "904267",
+   "slug": "Hydrotherm-Kn-16",
+   "title": "Hydrotherm KN-16 Field Assembly  Instructions",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": null,
+   "extraModels": [
+    "HeatNet KN-26",
+    "HeatNet KN-30"
+   ],
+   "url": "https://www.manualslib.com/manual/904267/Hydrotherm-Kn-16.html"
+  },
+  {
+   "manualId": "2429743",
+   "slug": "Hydrotherm-Multitemp-Mr-Series",
+   "title": "Hydrotherm MultiTemp MR Series Installation Manual And Replacement Parts List",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": null,
+   "extraModels": [
+    "MultiTemp MR-360C",
+    "MultiTemp MR-420C",
+    "MultiTemp MR-500C",
+    "MultiTemp MR-600B",
+    "MultiTemp MR-750C",
+    "MultiTemp MR-840C",
+    "MultiTemp MR-900B"
+   ],
+   "url": "https://www.manualslib.com/manual/2429743/Hydrotherm-Multitemp-Mr-Series.html"
+  },
+  {
+   "manualId": "912298",
+   "slug": "Hydrotherm-R-Series",
+   "title": "Hydrotherm R SERIES Installation, Operation & Maintenance Manual & Replacement Parts List",
+   "type": "Service",
+   "pages": 28,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/912298/Hydrotherm-R-Series.html"
+  },
+  {
+   "manualId": "972203",
+   "slug": "Hydrotherm-Vga-175b",
+   "title": "Hydrotherm VGA-175B Installation, Operation & Maintenance Manual And Replacement Parts List",
+   "type": "Service",
+   "pages": 28,
+   "productModel": null,
+   "extraModels": [
+    "VGA-200B",
+    "VGA-250B",
+    "VGA-300B",
+    "VGA-350B",
+    "VGA-400B"
+   ],
+   "url": "https://www.manualslib.com/manual/972203/Hydrotherm-Vga-175b.html"
+  },
+  {
+   "manualId": "913922",
+   "slug": "Hydrotherm-42",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/913922/Hydrotherm-42.html"
+  },
+  {
+   "manualId": "2182863",
+   "slug": "Hydrotherm-Dynamic-X8",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2182863/Hydrotherm-Dynamic-X8.html"
+  },
+  {
+   "manualId": "881681",
+   "slug": "Hydrotherm-Kn-2",
+   "title": "KN SERIES Control manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "KN SERIES",
+   "extraModels": [
+    "KN SERIES",
+    "KN-4"
+   ],
+   "url": "https://www.manualslib.com/manual/881681/Hydrotherm-Kn-2.html"
+  },
+  {
+   "manualId": "807622",
+   "slug": "Hydrotherm-Kn-2",
+   "title": "KN-2 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "KN-2",
+   "extraModels": [
+    "KN-4"
+   ],
+   "url": "https://www.manualslib.com/manual/807622/Hydrotherm-Kn-2.html"
+  },
+  {
+   "manualId": "1111795",
+   "slug": "Hydrotherm-Kn-2",
+   "title": "KN-2 installation instructions manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "KN-2",
+   "extraModels": [
+    "KN-4"
+   ],
+   "url": "https://www.manualslib.com/manual/1111795/Hydrotherm-Kn-2.html"
+  },
+  {
+   "manualId": "951064",
+   "slug": "Hydrotherm-Heatnet-Kn-2",
+   "title": "KN-2 user manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "KN-2",
+   "extraModels": [
+    "KN-4"
+   ],
+   "url": "https://www.manualslib.com/manual/951064/Hydrotherm-Heatnet-Kn-2.html"
+  },
+  {
+   "manualId": "934669",
+   "slug": "Hydrotherm-Multipulse-Am-Series",
+   "title": "MultiPulse AM Series troubleshooting manual",
+   "type": "Service",
+   "pages": 48,
+   "productModel": "MultiPulse AM Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/934669/Hydrotherm-Multipulse-Am-Series.html"
+  },
+  {
+   "manualId": "801534",
+   "slug": "Hydrotherm-Pb",
+   "title": "PB Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "PB",
+   "extraModels": [
+    "PB-105",
+    "PB-120",
+    "PB-150",
+    "PB-180",
+    "PB-200",
+    "PB-235",
+    "PB-245",
+    "PB-295"
+   ],
+   "url": "https://www.manualslib.com/manual/801534/Hydrotherm-Pb.html"
+  },
+  {
+   "manualId": "830338",
+   "slug": "Hydrotherm-Pb-Series",
+   "title": "PB Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "PB",
+   "extraModels": [
+    "PB-105",
+    "PB-120",
+    "PB-150",
+    "PB-180",
+    "PB-200",
+    "PB-235",
+    "PB-245",
+    "PB-295"
+   ],
+   "url": "https://www.manualslib.com/manual/830338/Hydrotherm-Pb-Series.html"
+  },
+  {
+   "manualId": "4197725",
+   "slug": "Hydrotherm-Pb-Series",
+   "title": "PB Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "PB Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4197725/Hydrotherm-Pb-Series.html"
+  },
+  {
+   "manualId": "2297912",
+   "slug": "Hydrotherm-H-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2297912/Hydrotherm-H-Series.html"
+  },
+  {
+   "manualId": "2406998",
+   "slug": "Hydrotherm-B-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2406998/Hydrotherm-B-Series.html"
+  },
+  {
+   "manualId": "1959105",
+   "slug": "Hydrotherm-Tr-Series",
+   "title": "TR Series Manual",
+   "type": "Other",
+   "pages": 5,
+   "productModel": "TR Series",
+   "extraModels": [
+    "TR1",
+    "TR2",
+    "TR3"
+   ],
+   "url": "https://www.manualslib.com/manual/1959105/Hydrotherm-Tr-Series.html"
+  },
+  {
+   "manualId": "2499583",
+   "slug": "Hydrotherm-Tr-Series",
+   "title": "TR Series quick start manual",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "TR Series",
+   "extraModels": [
+    "TR1",
+    "TR2",
+    "TR3"
+   ],
+   "url": "https://www.manualslib.com/manual/2499583/Hydrotherm-Tr-Series.html"
+  },
+  {
+   "manualId": "502610",
+   "slug": "Hydrotherm-22-Umhvx3",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/502610/Hydrotherm-22-Umhvx3.html"
+  },
+  {
+   "manualId": "798134",
+   "slug": "Hydrotherm-Umhwx3-1",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/798134/Hydrotherm-Umhwx3-1.html"
+  },
+  {
+   "manualId": "2954053",
+   "slug": "Hydrotherm-Vgab-Series",
+   "title": "VGA-175B Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "VGA-175B",
+   "extraModels": [
+    "VGA-175B",
+    "VGA-200B",
+    "VGA-250B",
+    "VGA-300B",
+    "VGA-350B",
+    "VGA-400B",
+    "VGAB2-501"
+   ],
+   "url": "https://www.manualslib.com/manual/2954053/Hydrotherm-Vgab-Series.html"
+  },
+  {
+   "manualId": "968709",
+   "slug": "Hydrotherm-Vgx-88",
+   "title": "VGX 118 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "VGX 118",
+   "extraModels": [
+    "VGX 118",
+    "VGX 147",
+    "VGX 177",
+    "VGX 206",
+    "VGX 236",
+    "VGX 288"
+   ],
+   "url": "https://www.manualslib.com/manual/968709/Hydrotherm-Vgx-88.html"
+  },
+  {
+   "manualId": "790521",
+   "slug": "Hydrotherm-Vgx-88",
+   "title": "VGX 288 Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "VGX 288",
+   "extraModels": [
+    "VGX 288"
+   ],
+   "url": "https://www.manualslib.com/manual/790521/Hydrotherm-Vgx-88.html"
+  },
+  {
+   "manualId": "3970000",
+   "slug": "Hydrotherm-Vgx-88-288",
+   "title": "VGX 88-288 Manual",
+   "type": "Other",
+   "pages": 33,
+   "productModel": "VGX 88-288",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3970000/Hydrotherm-Vgx-88-288.html"
+  },
+  {
+   "manualId": "958617",
+   "slug": "Hydrotherm-Vsb2-605",
+   "title": "VSB2-605 Installation, operation & maintenance manual and replacement parts list",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "VSB2-605",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/958617/Hydrotherm-Vsb2-605.html"
+  },
+  {
+   "manualId": "953071",
+   "slug": "Hydrotherm-Vsb2-605",
+   "title": "VSB2-605 Installation, operation, & maintenance instruction",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "VSB2-605",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/953071/Hydrotherm-Vsb2-605.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [],
+ "techDirectIds": [
+  "hydrotherm"
+ ]
+}
