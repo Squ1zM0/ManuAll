@@ -1,0 +1,7457 @@
+{
+ "brand": "Goodman",
+ "brandSlug": "goodman",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/goodman/"
+ ],
+ "slugUsed": "goodman",
+ "capturedAt": "2026-10-28T05:27:09.489772+00:00",
+ "typePages": [
+  {
+   "path": "/brand/goodman/air-conditioner.html",
+   "manuals": 974,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/air-cleaner.html",
+   "manuals": 51,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/air-handlers.html",
+   "manuals": 315,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/blower.html",
+   "manuals": 22,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/car-receiver.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/desktop.html",
+   "manuals": 14,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/electric-heater.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/fan.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/furnace.html",
+   "manuals": 1149,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/gas-heater.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/heat-pump.html",
+   "manuals": 687,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/heater.html",
+   "manuals": 25,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/heating-system.html",
+   "manuals": 19,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/humidifier.html",
+   "manuals": 5,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/indoor-fireplace.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/remote-control.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/thermostat.html",
+   "manuals": 49,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/voice-recorder.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/goodman/water-pump.html",
+   "manuals": 26,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "891906",
+   "slug": "Goodman-Mss9",
+   "title": "*CSS9* installation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "*CSS9*",
+   "extraModels": [
+    "*CSS9*"
+   ],
+   "url": "https://www.manualslib.com/manual/891906/Goodman-Mss9.html"
+  },
+  {
+   "manualId": "1059468",
+   "slug": "Goodman-Gmss96",
+   "title": "*CSS920402BN installation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "*CSS920402BN",
+   "extraModels": [
+    "*CSS920402BN",
+    "*CSS920603BN",
+    "*CSS920804CN",
+    "*CSS921005CN",
+    "*CSS960402BN",
+    "*CSS960603BN",
+    "*CSS960804CN",
+    "*CSS961005CN",
+    "*CSS961205DN",
+    "*MSS920402BN",
+    "*MSS920603BN",
+    "*MSS920803BN",
+    "*MSS920804CN",
+    "*MSS920805CN",
+    "*MSS921004CN",
+    "*MSS921005CN",
+    "*MSS921205DN",
+    "*MSS960402BN",
+    "*MSS960603BN",
+    "*MSS960803BN",
+    "*MSS960804CN",
+    "*MSS960805CN",
+    "*MSS961005CN",
+    "*MSS961205DN"
+   ],
+   "url": "https://www.manualslib.com/manual/1059468/Goodman-Gmss96.html"
+  },
+  {
+   "manualId": "918513",
+   "slug": "Goodman-Cvc96",
+   "title": "*CVC96 installation instructions manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "*CVC96",
+   "extraModels": [
+    "*MVC96"
+   ],
+   "url": "https://www.manualslib.com/manual/918513/Goodman-Cvc96.html"
+  },
+  {
+   "manualId": "1420987",
+   "slug": "Goodman-Mec961205dn",
+   "title": "*MEC96 instruction manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "*MEC96",
+   "extraModels": [
+    "CEC96 Series",
+    "CEC960403BN",
+    "CEC960603BN",
+    "CEC960803BN",
+    "CEC961005CN",
+    "EC960603BN",
+    "EC960803BN",
+    "MEC960302BN",
+    "MEC960303AN",
+    "MEC960402BN",
+    "MEC960403AN",
+    "MEC960603AN",
+    "MEC960603BN",
+    "MEC960803BN",
+    "MEC960804CN",
+    "MEC961004CN",
+    "MEC961005CN"
+   ],
+   "url": "https://www.manualslib.com/manual/1420987/Goodman-Mec961205dn.html"
+  },
+  {
+   "manualId": "2524800",
+   "slug": "Goodman-Mec96-Series",
+   "title": "*MEC96 instruction manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "*MEC96",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2524800/Goodman-Mec96-Series.html"
+  },
+  {
+   "manualId": "897378",
+   "slug": "Goodman-Mec96",
+   "title": "*MEC96 Technical manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "*MEC96",
+   "extraModels": [
+    "AMEC960302BN Series",
+    "AMEC960402BN Series",
+    "AMEC960603BN Series",
+    "AMEC960803BN Series",
+    "AMEC961004CN Series",
+    "AMEC961205DN Series",
+    "GMEC960302BN Series",
+    "GMEC960402BN Series",
+    "GMEC960603BN Series",
+    "GMEC960803BN Series",
+    "GMEC961004CN Series",
+    "GMEC961205DN Series"
+   ],
+   "url": "https://www.manualslib.com/manual/897378/Goodman-Mec96.html"
+  },
+  {
+   "manualId": "789925",
+   "slug": "Goodman-Mh8",
+   "title": "*MH80453A Series installation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "*MH80453A Series",
+   "extraModels": [
+    "*MH80453A Series",
+    "*MH80703A Series",
+    "*MH80704B Series",
+    "*MH80903B Series",
+    "*MH80904B Series",
+    "*MH80905C Series",
+    "*MH81155C Series",
+    "*MH81405D Series",
+    "*MS80453A Series",
+    "*MS80703A Series",
+    "*MS80704B Series",
+    "*MS80903B Series",
+    "*MS80904B Series",
+    "*MS80905C Series",
+    "*MS81155C Series",
+    "*MS81405D Series",
+    "DH8",
+    "DS8",
+    "GDS80453AXC",
+    "GDS80703AXC",
+    "GDS80904BXC",
+    "GDS81155CXC",
+    "GHS80453AXC",
+    "GHS80704BXC",
+    "GHS80905CXC",
+    "GME8",
+    "GME80703BXC Series",
+    "GME80905CXC Series",
+    "GME81155CXC Series",
+    "HS8",
+    "MS8"
+   ],
+   "url": "https://www.manualslib.com/manual/789925/Goodman-Mh8.html"
+  },
+  {
+   "manualId": "446549",
+   "slug": "Goodman-Mh8",
+   "title": "*MH81405D Series installation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "*MH81405D Series",
+   "extraModels": [
+    "*MH81405D Series",
+    "*MS81405D Series",
+    "DH8",
+    "DS8",
+    "GDS80403A",
+    "GDS80603A",
+    "GDS80804B",
+    "GDS81005C",
+    "GHS80403A",
+    "GHS80604B",
+    "GHS80805C",
+    "GME8",
+    "GME80603B Series",
+    "GME80805C Series",
+    "GME81005C Series",
+    "HS8",
+    "MH80403A",
+    "MH80603A",
+    "MH80604B",
+    "MH80803B",
+    "MH80804B",
+    "MH80805C",
+    "MH81005C",
+    "MH81205D",
+    "MS8",
+    "MS80403A",
+    "MS80603A",
+    "MS80604B",
+    "MS80803B",
+    "MS80804B",
+    "MS80805C",
+    "MS81005C",
+    "MS81205D"
+   ],
+   "url": "https://www.manualslib.com/manual/446549/Goodman-Mh8.html"
+  },
+  {
+   "manualId": "1183759",
+   "slug": "Goodman-Pc",
+   "title": "*PH 15 installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "*PH 15",
+   "extraModels": [
+    "*PH 15"
+   ],
+   "url": "https://www.manualslib.com/manual/1183759/Goodman-Pc.html"
+  },
+  {
+   "manualId": "1306769",
+   "slug": "Goodman-Ph-16",
+   "title": "*PH 15 Service instructions manual",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "*PH 15",
+   "extraModels": [
+    "*PH 15"
+   ],
+   "url": "https://www.manualslib.com/manual/1306769/Goodman-Ph-16.html"
+  },
+  {
+   "manualId": "920428",
+   "slug": "Goodman-Szc-16-Seer",
+   "title": "*SZC 16 SEER Technical manual",
+   "type": "Other",
+   "pages": 41,
+   "productModel": "*SZC 16 SEER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/920428/Goodman-Szc-16-Seer.html"
+  },
+  {
+   "manualId": "2858064",
+   "slug": "Goodman-Cvc97-Series",
+   "title": "0603BNA Technical manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "0603BNA",
+   "extraModels": [
+    "0603BNA",
+    "0803BNA",
+    "0804CNA",
+    "1005CNA",
+    "1205DNA",
+    "CVM970603BNA Series",
+    "CVM970803BNA Series",
+    "CVM970804CNA Series",
+    "CVM971005CNA Series",
+    "GCVM971005CN",
+    "GMVM970803BN",
+    "GMVM970804CN",
+    "GSXC180241",
+    "MVC97 Series",
+    "MVM970603BNA Series",
+    "MVM970803BNA Series",
+    "MVM970804CNA Series",
+    "MVM971005CNA Series",
+    "MVM971205DNA Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2858064/Goodman-Cvc97-Series.html"
+  },
+  {
+   "manualId": "61553",
+   "slug": "Goodman-10-3-Eer",
+   "title": "10.3 EER Specifications",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "10.3 EER",
+   "extraModels": [
+    "PCC 10.3 EER"
+   ],
+   "url": "https://www.manualslib.com/manual/61553/Goodman-10-3-Eer.html"
+  },
+  {
+   "manualId": "61554",
+   "slug": "Goodman-13-Seer-Gpc13m",
+   "title": "13 SEER GPC13M Product Specifications",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "13 SEER GPC13M",
+   "extraModels": [
+    "GPC13M 13 SEER"
+   ],
+   "url": "https://www.manualslib.com/manual/61554/Goodman-13-Seer-Gpc13m.html"
+  },
+  {
+   "manualId": "1897083",
+   "slug": "Goodman-1-5-Ton",
+   "title": "15 ton CPC Series installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": "15 ton CPC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1897083/Goodman-1-5-Ton.html"
+  },
+  {
+   "manualId": "61568",
+   "slug": "Goodman-Io-367b",
+   "title": "15 ton CPC Series installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "15 ton CPC Series",
+   "extraModels": [
+    "15 ton CPC Series",
+    "20 ton CPC Series"
+   ],
+   "url": "https://www.manualslib.com/manual/61568/Goodman-Io-367b.html"
+  },
+  {
+   "manualId": "801009",
+   "slug": "Goodman-Air-Conditioning-Condensing-Unit-1-Thru-5-Ton-And-Gas-Fired-Furnace",
+   "title": "15 Use and care instructions manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "15",
+   "extraModels": [
+    "15"
+   ],
+   "url": "https://www.manualslib.com/manual/801009/Goodman-Air-Conditioning-Condensing-Unit-1-Thru-5-Ton-And-Gas-Fired-Furnace.html"
+  },
+  {
+   "manualId": "2870816",
+   "slug": "Goodman-Gpd-M-Series",
+   "title": "209319576 installation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "209319576",
+   "extraModels": [
+    "209319576",
+    "209319579",
+    "209319582",
+    "209319588",
+    "APD M Series",
+    "GPDM32406041",
+    "GPDM33008041",
+    "GPDM33608041",
+    "GPDM34210041"
+   ],
+   "url": "https://www.manualslib.com/manual/2870816/Goodman-Gpd-M-Series.html"
+  },
+  {
+   "manualId": "2003300",
+   "slug": "Goodman-36f22",
+   "title": "36F22 User's information manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "36F22",
+   "extraModels": [
+    "36G54"
+   ],
+   "url": "https://www.manualslib.com/manual/2003300/Goodman-36f22.html"
+  },
+  {
+   "manualId": "3872692",
+   "slug": "Goodman-36g22",
+   "title": "36G22 User's information manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "36G22",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3872692/Goodman-36g22.html"
+  },
+  {
+   "manualId": "2168279",
+   "slug": "Goodman-A-G-Pg",
+   "title": "[A/G]PG Service instructions manual",
+   "type": "Service",
+   "pages": 52,
+   "productModel": "[A/G]PG",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2168279/Goodman-A-G-Pg.html"
+  },
+  {
+   "manualId": "798533",
+   "slug": "Goodman-A-Gpg13-M-Series-W-R410a",
+   "title": "A/GPG13 M SERIES Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "A/GPG13 M SERIES",
+   "extraModels": [
+    "GPG1324***M",
+    "GPG1330***M",
+    "GPG1336***M",
+    "GPG1342***M",
+    "GPG1348***M",
+    "GPG1360***M"
+   ],
+   "url": "https://www.manualslib.com/manual/798533/Goodman-A-Gpg13-M-Series-W-R410a.html"
+  },
+  {
+   "manualId": "61559",
+   "slug": "Goodman-A-Gpg13-M-Series",
+   "title": "A/GPG13 M SERIES Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "A/GPG13 M SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/61559/Goodman-A-Gpg13-M-Series.html"
+  },
+  {
+   "manualId": "816699",
+   "slug": "Goodman-Apg-13",
+   "title": "A/GPG1324-60***M41AA series Service instructions manual",
+   "type": "Service",
+   "pages": 63,
+   "productModel": "A/GPG1324-60***M41AA series",
+   "extraModels": [
+    "A/GPG1324-60***M41AA series",
+    "A/GPG1324-60***M41AB series",
+    "GPG1336/48/60***M43AA series",
+    "GPG1336/48/60***M43AB Series"
+   ],
+   "url": "https://www.manualslib.com/manual/816699/Goodman-Apg-13.html"
+  },
+  {
+   "manualId": "2725323",
+   "slug": "Goodman-Arpf",
+   "title": "ACNF Technical manual",
+   "type": "Other",
+   "pages": 42,
+   "productModel": "ACNF",
+   "extraModels": [
+    "ACNF",
+    "ADPF",
+    "AEPF",
+    "ARUF",
+    "ARUF182416",
+    "ASPF",
+    "ATUF",
+    "AWUF"
+   ],
+   "url": "https://www.manualslib.com/manual/2725323/Goodman-Arpf.html"
+  },
+  {
+   "manualId": "803046",
+   "slug": "Goodman-Acnf",
+   "title": "ACNF Use and care instructions manual",
+   "type": "User / Owner",
+   "pages": 7,
+   "productModel": "ACNF",
+   "extraModels": [
+    "ADPF",
+    "AEPF",
+    "ARPF",
+    "ARUF",
+    "ASPF",
+    "AWUF"
+   ],
+   "url": "https://www.manualslib.com/manual/803046/Goodman-Acnf.html"
+  },
+  {
+   "manualId": "61574",
+   "slug": "Goodman-Rt6100004r13",
+   "title": "ACNF****16AA Service instructions manual",
+   "type": "Service",
+   "pages": 69,
+   "productModel": "ACNF****16AA",
+   "extraModels": [
+    "ACNF****16AA",
+    "ACNF****1AA",
+    "ACNF****1BA",
+    "ADPF****16AA",
+    "ADPF****1BA",
+    "ADPF304216AC",
+    "ADPF364216AB",
+    "ADPF486016AB",
+    "AEPF****16AA",
+    "AEPF****16BA",
+    "AEPF****16BB",
+    "AEPF****16CA",
+    "AEPF****1BA",
+    "AEPF313716AA",
+    "AH**-1*",
+    "ARPF****16AA",
+    "ARPF****16BA",
+    "ARPF****1BA",
+    "ARPF364216AB",
+    "ARPF486016AB",
+    "ARUF****16AA",
+    "ARUF****16BA",
+    "ARUF****1BA",
+    "ARUF364216AB",
+    "ARUF364216AC",
+    "ARUF486016AB",
+    "ASC130**1AA",
+    "ASC130**1AB",
+    "ASC130**1AC",
+    "ASC1301**1AD",
+    "ASC130601BD",
+    "ASH130**1AA",
+    "ASH130**1AB",
+    "ASH130**1AC",
+    "ASPF****16AA",
+    "ASPF****16BA",
+    "ASPF313716AA",
+    "AWUF****16AA",
+    "AWUF****16BA",
+    "AWUF****1AA",
+    "AWUF****1BA",
+    "AWUF30051AA",
+    "AWUF30101AA",
+    "AWUF370**16AA",
+    "CAPF*****6AA",
+    "CAPF*****6BA",
+    "CAPF36***CA",
+    "CAUF*****6AA",
+    "CAUF*****6BA",
+    "CAUF36***CA",
+    "CHPF*****6AA",
+    "CHPF*****6BA",
+    "CHPF1824A6CA",
+    "CHPF2430B6CA",
+    "CHPF3636B6CA",
+    "CHPF3642C6CA",
+    "CHPF3642D6CA",
+    "CHPF3743C6BA",
+    "CHPF3743D6BA",
+    "CHPF4860D6D",
+    "CSCF*****6AA",
+    "CSCF*****6BA",
+    "GSC130**1AB",
+    "GSC1300421AC",
+    "GSC1300484AC",
+    "GSC130181AA",
+    "GSC130181AD",
+    "GSC130181AE",
+    "GSC130181BA",
+    "GSC13018AC",
+    "GSC130241AA",
+    "GSC130241AD",
+    "GSC130241AE",
+    "GSC130241CA",
+    "GSC130241DA",
+    "GSC130301AD",
+    "GSC130301AE",
+    "GSC130301CA",
+    "GSC130301DA",
+    "GSC13030AC",
+    "GSC13036*AA",
+    "GSC13036*AB",
+    "GSC130361AA",
+    "GSC130361BA",
+    "GSC130361BB",
+    "GSC130361DD",
+    "GSC130361DE",
+    "GSC130361DF",
+    "GSC130361FA",
+    "GSC130363AE",
+    "GSC130363AF",
+    "GSC130363BA",
+    "GSC13048*AA",
+    "GSC13048*AB",
+    "GSC13048*AC",
+    "GSC13048*AD",
+    "GSC130481AA",
+    "GSC130481AE",
+    "GSC130481AF",
+    "GSC130481AG",
+    "GSC130483AE",
+    "GSC130483AF",
+    "GSC140**1AA",
+    "GSC140**1AB",
+    "GSC140**1AC",
+    "GSC140**1AD",
+    "GSC140181BA",
+    "GSC140421BA",
+    "GSH10***AA",
+    "GSH10***AB",
+    "GSH13***AA",
+    "GSH13**1AB",
+    "GSH13**1AC",
+    "GSH130181BA",
+    "GSH130301BA",
+    "GSH13036*AD",
+    "GSH13036*BA",
+    "GSH13036*BB",
+    "GSH130421AE",
+    "GSH13048*AD",
+    "GSH13048*AG",
+    "GSH140**1AA",
+    "GSH140**1AB",
+    "GSH140**1AC",
+    "GSH140361AF",
+    "GSH140421AD",
+    "GSH140448AD",
+    "GSH140601AE",
+    "MBE****AA-1AA",
+    "MBE****AA-1BA",
+    "MBR****AA-1AA",
+    "VSC130181AA",
+    "VSC130601AA",
+    "VSH13181AA",
+    "VSH13601AA"
+   ],
+   "url": "https://www.manualslib.com/manual/61574/Goodman-Rt6100004r13.html"
+  },
+  {
+   "manualId": "1976186",
+   "slug": "Goodman-Acnf18-Series",
+   "title": "ACNF18 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "ACNF18 Series",
+   "extraModels": [
+    "ACNF24 Series",
+    "ACNF25 Series",
+    "ACNF30 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1976186/Goodman-Acnf18-Series.html"
+  },
+  {
+   "manualId": "3871622",
+   "slug": "Goodman-Acnf31-Series",
+   "title": "ACNF31 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "ACNF31 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3871622/Goodman-Acnf31-Series.html"
+  },
+  {
+   "manualId": "1245041",
+   "slug": "Goodman-Acs-Series",
+   "title": "ACS series Service instructions manual",
+   "type": "Service",
+   "pages": 131,
+   "productModel": "ACS series",
+   "extraModels": [
+    "ACV series",
+    "ADS series",
+    "ADV series",
+    "AMH series",
+    "AMS series",
+    "AMV series",
+    "DCS series",
+    "DDS series",
+    "DHS series",
+    "DMS series",
+    "GCH series",
+    "GCS series",
+    "GCV series",
+    "GDH series",
+    "GDS series",
+    "GHS series",
+    "GKS series",
+    "GME series",
+    "GMH series",
+    "GMS series",
+    "GMV series"
+   ],
+   "url": "https://www.manualslib.com/manual/1245041/Goodman-Acs-Series.html"
+  },
+  {
+   "manualId": "716765",
+   "slug": "Goodman-Mh95",
+   "title": "ACSH96 installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "ACSH96",
+   "extraModels": [
+    "ACSH96",
+    "AMEH96",
+    "GCH9",
+    "GCH95",
+    "GME95"
+   ],
+   "url": "https://www.manualslib.com/manual/716765/Goodman-Mh95.html"
+  },
+  {
+   "manualId": "821062",
+   "slug": "Goodman-Gmss9-Series",
+   "title": "ACSS9 Series Service instructions manual",
+   "type": "Service",
+   "pages": 57,
+   "productModel": "ACSS9 Series",
+   "extraModels": [
+    "ACSS9 Series",
+    "Amana GCSS920402BNAA",
+    "AMSS9 Series",
+    "GCSS9 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/821062/Goodman-Gmss9-Series.html"
+  },
+  {
+   "manualId": "2225624",
+   "slug": "Goodman-Acvc8-Ca-Series-Amvc8-Ca-Series",
+   "title": "ACVC8 CA Series AMVC8 CA Series Service and Troubleshooting",
+   "type": "Service",
+   "pages": 53,
+   "productModel": "ACVC8 CA Series AMVC8 CA Series",
+   "extraModels": [
+    "ACVC80 AA Series",
+    "ACVC800603BX AA",
+    "ACVC800803BX AA",
+    "ACVC800805CX AA",
+    "ACVC801005CX AA",
+    "AMVC80 AA Series",
+    "AMVC800603BN AA",
+    "AMVC800603BX AA",
+    "AMVC800604BN AA",
+    "AMVC800604BX AA",
+    "AMVC800803BN AA",
+    "AMVC800803BX AA",
+    "AMVC800804CN AA",
+    "AMVC800804CX AA",
+    "AMVC800805CN AA",
+    "AMVC800805CX AA",
+    "AMVC800805DN AA",
+    "AMVC800805DX AA",
+    "AMVC801005CN AA",
+    "AMVC801005CX AA",
+    "GCVC8 CA Series GMVC8 CA Series",
+    "GCVC80 AA Series",
+    "GCVC800603BX AA",
+    "GCVC800803BX AA",
+    "GCVC800805CX AA",
+    "GCVC801005CX AA",
+    "GMVC800603BN AA",
+    "GMVC800603BX AA",
+    "GMVC800604BN AA",
+    "GMVC800604BX AA",
+    "GMVC800803BN AA",
+    "GMVC800803BX AA",
+    "GMVC800804CN AA",
+    "GMVC800804CX AA",
+    "GMVC800805CN AA",
+    "GMVC800805CX AA",
+    "GMVC800805DN AA",
+    "GMVC800805DX AA",
+    "GMVC801005CN AA",
+    "GMVC801005CX AA"
+   ],
+   "url": "https://www.manualslib.com/manual/2225624/Goodman-Acvc8-Ca-Series-Amvc8-Ca-Series.html"
+  },
+  {
+   "manualId": "2298833",
+   "slug": "Goodman-Acvc96-Ba-Series",
+   "title": "ACVC96 BA Series Service and Troubleshooting",
+   "type": "Service",
+   "pages": 65,
+   "productModel": "ACVC96 BA Series",
+   "extraModels": [
+    "AMVC96 BA Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2298833/Goodman-Acvc96-Ba-Series.html"
+  },
+  {
+   "manualId": "870576",
+   "slug": "Goodman-Gcvc960403bnaa",
+   "title": "ACVC960403BNAA Technical manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "ACVC960403BNAA",
+   "extraModels": [
+    "ACVC960403BNAA",
+    "ACVC960603BNAA",
+    "ACVC960804CNAA",
+    "ACVC961005CNAA",
+    "ACVC961205DNAA",
+    "AMVC960403BNAA",
+    "AMVC960603BNAA",
+    "AMVC960803BNAA",
+    "AMVC960804CNAA",
+    "AMVC961005CNAA",
+    "AMVC961205DNAA",
+    "CVC960603BNAA",
+    "CVC960804CNAA",
+    "CVC961005CNAA",
+    "CVC961205DNAA",
+    "GCVC960603BNAA",
+    "GCVC960804CNAA",
+    "GCVC961005CNAA",
+    "GCVC961205DNAA",
+    "GMVC960403BNAA",
+    "GMVC960603BNAA",
+    "GMVC960803BNAA",
+    "GMVC960804CNAA",
+    "GMVC961005CNAA",
+    "GMVC961205DNAA",
+    "MVC960403BNAA",
+    "MVC960603BNAA",
+    "MVC960803BNAA",
+    "MVC960804CNAA",
+    "MVC961005CNAA",
+    "MVC961205DNAA"
+   ],
+   "url": "https://www.manualslib.com/manual/870576/Goodman-Gcvc960403bnaa.html"
+  },
+  {
+   "manualId": "1188865",
+   "slug": "Goodman-Gmvm",
+   "title": "ACVM Service instructions manual",
+   "type": "Service",
+   "pages": 81,
+   "productModel": "ACVM",
+   "extraModels": [
+    "ACVM",
+    "AMVM",
+    "GCVM"
+   ],
+   "url": "https://www.manualslib.com/manual/1188865/Goodman-Gmvm.html"
+  },
+  {
+   "manualId": "716766",
+   "slug": "Goodman-Mvm96",
+   "title": "ACVM960604CX installation instructions manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "ACVM960604CX",
+   "extraModels": [
+    "ACVM960604CX",
+    "ACVM960805DX",
+    "AMVM960603BX",
+    "AMVM960805CX",
+    "AMVM961005DX",
+    "AMVM961155DX",
+    "CVM96 Series",
+    "GCVM960604CX",
+    "GCVM960805DX",
+    "GCVM961005DX",
+    "GMVM960603BX",
+    "GMVM960805CX",
+    "GMVM961005DX",
+    "GMVM961155DX"
+   ],
+   "url": "https://www.manualslib.com/manual/716766/Goodman-Mvm96.html"
+  },
+  {
+   "manualId": "789914",
+   "slug": "Goodman-Mvm96",
+   "title": "ACVM960604CX installation instructions manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "ACVM960604CX",
+   "extraModels": [
+    "ACVM960604CX",
+    "ACVM960805DX",
+    "ACVM961005DX",
+    "AMVM960603BX",
+    "AMVM960805CX",
+    "AMVM961005DX",
+    "AMVM961155DX",
+    "CVM96 Series",
+    "GCVM960604CX",
+    "GCVM960805DX",
+    "GCVM961005DX",
+    "GMVM960603BX",
+    "GMVM960805CX",
+    "GMVM961005DX",
+    "GMVM961155DX"
+   ],
+   "url": "https://www.manualslib.com/manual/789914/Goodman-Mvm96.html"
+  },
+  {
+   "manualId": "830157",
+   "slug": "Goodman-Gcvm960604cxa-Series",
+   "title": "ACVM960604CXA Series Technical manual",
+   "type": "Other",
+   "pages": 23,
+   "productModel": "ACVM960604CXA Series",
+   "extraModels": [
+    "ACVM960604CXA Series",
+    "ACVM960604CXB Series",
+    "ACVM960805DXA Series",
+    "ACVM960805DXB Series",
+    "ACVM961005DXA Series",
+    "AMVM960603BXA Series",
+    "AMVM960603BXB Series",
+    "AMVM960805CXA Series",
+    "AMVM960805CXB Series",
+    "AMVM961005DXA Series",
+    "AMVM961005DXB Series",
+    "AMVM961155DXA Series",
+    "AMVM961155DXB Series",
+    "GCVM960604CXB Series",
+    "GCVM960805DXA Series",
+    "GCVM960805DXB Series",
+    "GCVM961005DXA Series",
+    "GCVM961005DXB Series",
+    "GMVM960603BXA Series",
+    "GMVM960603BXB Series",
+    "GMVM960805CXA Series",
+    "GMVM960805CXB Series",
+    "GMVM961005DXA Series",
+    "GMVM961005DXB Series",
+    "GMVM961155DXA Series",
+    "GMVM961155DXB Series"
+   ],
+   "url": "https://www.manualslib.com/manual/830157/Goodman-Gcvm960604cxa-Series.html"
+  },
+  {
+   "manualId": "61556",
+   "slug": "Goodman-Adpf",
+   "title": "ADPF Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "ADPF",
+   "extraModels": [
+    "ARUF",
+    "ASPF",
+    "ATUF"
+   ],
+   "url": "https://www.manualslib.com/manual/61556/Goodman-Adpf.html"
+  },
+  {
+   "manualId": "3061856",
+   "slug": "Goodman-Aruf-Series",
+   "title": "ADPF Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "ADPF Series",
+   "extraModels": [
+    "ADPF Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3061856/Goodman-Aruf-Series.html"
+  },
+  {
+   "manualId": "61619",
+   "slug": "Goodman-Asx",
+   "title": "ADPF304216AC Service instructions manual",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "ADPF304216AC",
+   "extraModels": [
+    "ADPF304216AC",
+    "ADPF364216AB",
+    "ADPF486016AB",
+    "AEPF313716AA",
+    "ARPF364216AB",
+    "ARPF486016AB",
+    "ARUF364216AB",
+    "ARUF364216AC",
+    "ARUF486016AB",
+    "ASPF313716AA",
+    "CHPF2430B6CA",
+    "CHPF3636B6CA",
+    "CHPF3743C6BA",
+    "GSX Series",
+    "GSZ Series",
+    "SSX16",
+    "RS6200006",
+    "ASX14",
+    "ASX16",
+    "ASZ",
+    "CHPF3743D6CA",
+    "DSX",
+    "DSZ",
+    "SSX",
+    "SSZ",
+    "SSZ14",
+    "SSZ16"
+   ],
+   "url": "https://www.manualslib.com/manual/61619/Goodman-Asx.html"
+  },
+  {
+   "manualId": "4401361",
+   "slug": "Goodman-Grvt80",
+   "title": "ADVT80 Service and Troubleshooting",
+   "type": "Service",
+   "pages": 56,
+   "productModel": "ADVT80",
+   "extraModels": [
+    "ADVT80",
+    "ARVT80",
+    "GDVT80"
+   ],
+   "url": "https://www.manualslib.com/manual/4401361/Goodman-Grvt80.html"
+  },
+  {
+   "manualId": "1289252",
+   "slug": "Goodman-Aepf",
+   "title": "AEPF Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "AEPF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1289252/Goodman-Aepf.html"
+  },
+  {
+   "manualId": "3915755",
+   "slug": "Goodman-Aepf-Series",
+   "title": "AEPF Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "AEPF Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3915755/Goodman-Aepf-Series.html"
+  },
+  {
+   "manualId": "2236108",
+   "slug": "Goodman-Aepf",
+   "title": "AEPF Supplemental & Opeating Instructions",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "AEPF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2236108/Goodman-Aepf.html"
+  },
+  {
+   "manualId": "61557",
+   "slug": "Goodman-Aept",
+   "title": "AEPT Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "AEPT",
+   "extraModels": [
+    "AEPT Series",
+    "ARPF",
+    "ARPF Series",
+    "ARPT",
+    "ARPT Series",
+    "ARUF Series"
+   ],
+   "url": "https://www.manualslib.com/manual/61557/Goodman-Aept.html"
+  },
+  {
+   "manualId": "3939722",
+   "slug": "Goodman-Ahkd15-3",
+   "title": "AHKD15-3 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "AHKD15-3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3939722/Goodman-Ahkd15-3.html"
+  },
+  {
+   "manualId": "3546911",
+   "slug": "Goodman-Ar090-Series",
+   "title": "AHKD15-4 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 10,
+   "productModel": "AHKD15-4",
+   "extraModels": [
+    "AHKD15-4",
+    "AHKD20-3",
+    "AHKD20-4",
+    "AHKD30-3",
+    "AHKD30-4",
+    "AR120 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3546911/Goodman-Ar090-Series.html"
+  },
+  {
+   "manualId": "695287",
+   "slug": "Goodman-Msg-12crn1n",
+   "title": "Air Conditioners Service instructions manual",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "Air Conditioners",
+   "extraModels": [
+    "Air Conditioners",
+    "MSG-12HRN1W",
+    "MSG-18CRN1N",
+    "MSG-18HRN1W",
+    "MSG-24CRN1N",
+    "MSG-24HRN1W"
+   ],
+   "url": "https://www.manualslib.com/manual/695287/Goodman-Msg-12crn1n.html"
+  },
+  {
+   "manualId": "1061359",
+   "slug": "Goodman-Akss9-Gks9",
+   "title": "AKSS9/GKS9 installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "AKSS9/GKS9",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1061359/Goodman-Akss9-Gks9.html"
+  },
+  {
+   "manualId": "2211064",
+   "slug": "Goodman-Gmec80",
+   "title": "Amana ACEC80 Service instructions manual",
+   "type": "Service",
+   "pages": 37,
+   "productModel": "Amana ACEC80",
+   "extraModels": [
+    "Amana ACEC80",
+    "Amana AMEC80",
+    "GCEC80"
+   ],
+   "url": "https://www.manualslib.com/manual/2211064/Goodman-Gmec80.html"
+  },
+  {
+   "manualId": "1422168",
+   "slug": "Goodman-Gmec96",
+   "title": "Amana ACEC96 Service instructions manual",
+   "type": "Service",
+   "pages": 72,
+   "productModel": "Amana ACEC96",
+   "extraModels": [
+    "Amana ACEC96",
+    "Amana AMEC96",
+    "GCEC96"
+   ],
+   "url": "https://www.manualslib.com/manual/1422168/Goodman-Gmec96.html"
+  },
+  {
+   "manualId": "1370860",
+   "slug": "Goodman-Amana-Amh8",
+   "title": "Amana ADSH8 Service instructions manual",
+   "type": "Service",
+   "pages": 7,
+   "productModel": "Amana ADSH8",
+   "extraModels": [
+    "Amana ADSH8",
+    "Amana GDH8",
+    "Amana GMH8"
+   ],
+   "url": "https://www.manualslib.com/manual/1370860/Goodman-Amana-Amh8.html"
+  },
+  {
+   "manualId": "2442781",
+   "slug": "Goodman-Amana-Amh8",
+   "title": "Amana ADSH8 Service instructions manual",
+   "type": "Service",
+   "pages": 66,
+   "productModel": "Amana ADSH8",
+   "extraModels": [
+    "Amana ADSH8",
+    "Amana GDH8",
+    "Amana GMH8"
+   ],
+   "url": "https://www.manualslib.com/manual/2442781/Goodman-Amana-Amh8.html"
+  },
+  {
+   "manualId": "836195",
+   "slug": "Goodman-Amh8",
+   "title": "Amana ADSH8 Service instructions manual",
+   "type": "Service",
+   "pages": 62,
+   "productModel": "Amana ADSH8",
+   "extraModels": [
+    "Amana ADSH8",
+    "Amana GMH8",
+    "ADSH8 Series",
+    "AMH8 Series",
+    "GDH8"
+   ],
+   "url": "https://www.manualslib.com/manual/836195/Goodman-Amh8.html"
+  },
+  {
+   "manualId": "1201790",
+   "slug": "Goodman-Gmec96",
+   "title": "Amana AMEC96 Service instructions manual",
+   "type": "Service",
+   "pages": 58,
+   "productModel": "Amana AMEC96",
+   "extraModels": [
+    "Amana AMEC96"
+   ],
+   "url": "https://www.manualslib.com/manual/1201790/Goodman-Gmec96.html"
+  },
+  {
+   "manualId": "2409914",
+   "slug": "Goodman-Gmes8-U-Series",
+   "title": "Amana AMES80 U Series Service and Troubleshooting",
+   "type": "Service",
+   "pages": 28,
+   "productModel": "Amana AMES80 U Series",
+   "extraModels": [
+    "Amana AMES80 U Series",
+    "Amana AMES800403AUAA",
+    "Amana AMES800603AUAA",
+    "Amana AMES800604BUAA",
+    "Amana AMES800804BUAA",
+    "Amana AMES800805CUAA",
+    "GMES800403AUAA",
+    "GMES800603AUAA",
+    "GMES800604BUAA",
+    "GMES800804BUAA",
+    "GMES800805CUAA"
+   ],
+   "url": "https://www.manualslib.com/manual/2409914/Goodman-Gmes8-U-Series.html"
+  },
+  {
+   "manualId": "3211138",
+   "slug": "Goodman-Amana-Comfortnet-Gmvc8",
+   "title": "Amana ComfortNet ADVC8 Service instructions manual",
+   "type": "Service",
+   "pages": 92,
+   "productModel": "Amana ComfortNet ADVC8",
+   "extraModels": [
+    "Amana ComfortNet ADVC8",
+    "Amana ComfortNet AMVC8"
+   ],
+   "url": "https://www.manualslib.com/manual/3211138/Goodman-Amana-Comfortnet-Gmvc8.html"
+  },
+  {
+   "manualId": "1056939",
+   "slug": "Goodman-Gmh8",
+   "title": "Amana GMH8 installation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Amana GMH8",
+   "extraModels": [
+    "GDH8"
+   ],
+   "url": "https://www.manualslib.com/manual/1056939/Goodman-Gmh8.html"
+  },
+  {
+   "manualId": "736073",
+   "slug": "Goodman-Gmh8",
+   "title": "Amana GMH8 installation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "Amana GMH8",
+   "extraModels": [
+    "GDH8"
+   ],
+   "url": "https://www.manualslib.com/manual/736073/Goodman-Gmh8.html"
+  },
+  {
+   "manualId": "792511",
+   "slug": "Goodman-Gmh8",
+   "title": "Amana GMH8 Technical manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "Amana GMH8",
+   "extraModels": [
+    "GMH80403A*BB series",
+    "GMH80603A*BB series",
+    "GMH80604B*BB series",
+    "GMH80803B*BB series",
+    "GMH80804B*BB series",
+    "GMH80805C*BB series",
+    "GMH81005C*BB series",
+    "GMH81205D*BA series",
+    "GMH81405DNCC"
+   ],
+   "url": "https://www.manualslib.com/manual/792511/Goodman-Gmh8.html"
+  },
+  {
+   "manualId": "2030169",
+   "slug": "Goodman-Mes96-U-Series",
+   "title": "AMES960403BU AA Service and Troubleshooting",
+   "type": "Service",
+   "pages": 29,
+   "productModel": "AMES960403BU AA",
+   "extraModels": [
+    "AMES960403BU AA",
+    "AMES960603BU AA",
+    "AMES960805CU AA",
+    "GMES960403BU AA",
+    "GMES960603BU AA",
+    "GMES960805CU AA"
+   ],
+   "url": "https://www.manualslib.com/manual/2030169/Goodman-Mes96-U-Series.html"
+  },
+  {
+   "manualId": "3764819",
+   "slug": "Goodman-Amst-14-U00-Series",
+   "title": "AMST 14 U00 Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "AMST 14 U00 Series",
+   "extraModels": [
+    "AMST24BU1400AA",
+    "AMST30BU1400AA",
+    "AMST36BU1400AA",
+    "AMST36CU1400AA",
+    "AMST42CU1400AA",
+    "AMST48CU1400AA",
+    "AMST48DU1400AA",
+    "AMST60DU1400AA"
+   ],
+   "url": "https://www.manualslib.com/manual/3764819/Goodman-Amst-14-U00-Series.html"
+  },
+  {
+   "manualId": "4267937",
+   "slug": "Goodman-Amst36bu1400",
+   "title": "AMST36BU1400 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "AMST36BU1400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4267937/Goodman-Amst36bu1400.html"
+  },
+  {
+   "manualId": "61580",
+   "slug": "Goodman-Amv8",
+   "title": "AMV8 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "AMV8",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/61580/Goodman-Amv8.html"
+  },
+  {
+   "manualId": "2287244",
+   "slug": "Goodman-Amvs96u",
+   "title": "AMVS960603BU AA Service and Troubleshooting",
+   "type": "Service",
+   "pages": 40,
+   "productModel": "AMVS960603BU AA",
+   "extraModels": [
+    "AMVS960603BU AA",
+    "AMVS960805CU AA",
+    "GMVS960603BU AA",
+    "GMVS960805CU AA",
+    "GMVS96U"
+   ],
+   "url": "https://www.manualslib.com/manual/2287244/Goodman-Amvs96u.html"
+  },
+  {
+   "manualId": "3935105",
+   "slug": "Goodman-Amvt30bp1400",
+   "title": "AMVT30BP1400 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "AMVT30BP1400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3935105/Goodman-Amvt30bp1400.html"
+  },
+  {
+   "manualId": "3935106",
+   "slug": "Goodman-Amvt42cp1400",
+   "title": "AMVT42CP1400 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "AMVT42CP1400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3935106/Goodman-Amvt42cp1400.html"
+  },
+  {
+   "manualId": "3935107",
+   "slug": "Goodman-Amvt48cp1400",
+   "title": "AMVT48CP1400 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "AMVT48CP1400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3935107/Goodman-Amvt48cp1400.html"
+  },
+  {
+   "manualId": "3935108",
+   "slug": "Goodman-Amvt60dp1400",
+   "title": "AMVT60DP1400 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "AMVT60DP1400",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3935108/Goodman-Amvt60dp1400.html"
+  },
+  {
+   "manualId": "61592",
+   "slug": "Goodman-Ansi-Z21-47csa-2-3",
+   "title": "ANSI Z21.47CSA-2.3 installation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "ANSI Z21.47CSA-2.3",
+   "extraModels": [
+    "CPG180",
+    "CPG240"
+   ],
+   "url": "https://www.manualslib.com/manual/61592/Goodman-Ansi-Z21-47csa-2-3.html"
+  },
+  {
+   "manualId": "2931099",
+   "slug": "Goodman-Apd-14-M-Series",
+   "title": "APD 14 M Series installation instructions manual",
+   "type": "Installation",
+   "pages": 33,
+   "productModel": "APD 14 M Series",
+   "extraModels": [
+    "APD 14 M Series",
+    "GPD 14 M Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2931099/Goodman-Apd-14-M-Series.html"
+  },
+  {
+   "manualId": "2325520",
+   "slug": "Goodman-Apg14-M-Series",
+   "title": "APG14 M Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "APG14 M Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2325520/Goodman-Apg14-M-Series.html"
+  },
+  {
+   "manualId": "1093251",
+   "slug": "Goodman-Apg152407041a-Series",
+   "title": "APG152407041A Series Technical manual",
+   "type": "Other",
+   "pages": 41,
+   "productModel": "APG152407041A Series",
+   "extraModels": [
+    "APG153009041A Series",
+    "APG153609041A Series",
+    "APG153709041A Series",
+    "APG154209041A Series",
+    "APG154811541A Series",
+    "APG154911541A Series",
+    "APG156014041A Series",
+    "GPG152407041A Series",
+    "GPG153009041A Series",
+    "GPG153609041A Series",
+    "GPG153709041A Series",
+    "GPG154209041A Series",
+    "GPG154811541A Series",
+    "GPG154911541A Series",
+    "GPG156014041A Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1093251/Goodman-Apg152407041a-Series.html"
+  },
+  {
+   "manualId": "61598",
+   "slug": "Goodman-R-410a",
+   "title": "APH1524M41AA Service instructions manual",
+   "type": "Service",
+   "pages": 47,
+   "productModel": "APH1524M41AA",
+   "extraModels": [
+    "APH1524M41AA",
+    "APH1536M41AA",
+    "APH1548M41AA",
+    "APH1560M41AA",
+    "GPH1524M41AA",
+    "GPH1536M41AA",
+    "GPH1548M41AA",
+    "GPH1560M41AA"
+   ],
+   "url": "https://www.manualslib.com/manual/61598/Goodman-R-410a.html"
+  },
+  {
+   "manualId": "2385630",
+   "slug": "Goodman-Aph16-M-Series",
+   "title": "APH16 M Series installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "APH16 M Series",
+   "extraModels": [
+    "APH1660M"
+   ],
+   "url": "https://www.manualslib.com/manual/2385630/Goodman-Aph16-M-Series.html"
+  },
+  {
+   "manualId": "4437357",
+   "slug": "Goodman-Gr9s96-U-Series",
+   "title": "AR9S96 U Series Service and Troubleshooting",
+   "type": "Service",
+   "pages": 34,
+   "productModel": "AR9S96 U Series",
+   "extraModels": [
+    "AR9S96 U Series",
+    "AR9S960403BUA",
+    "AR9S960603BUA",
+    "AR9S960805CUA",
+    "GR9S960403BUA",
+    "GR9S960603BUA",
+    "GR9S960805CUA"
+   ],
+   "url": "https://www.manualslib.com/manual/4437357/Goodman-Gr9s96-U-Series.html"
+  },
+  {
+   "manualId": "3915754",
+   "slug": "Goodman-Arpf-Series",
+   "title": "ARPF Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "ARPF Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3915754/Goodman-Arpf-Series.html"
+  },
+  {
+   "manualId": "857760",
+   "slug": "Goodman-Arpt-14",
+   "title": "ARPT 14 series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "ARPT 14 series",
+   "extraModels": [
+    "ARPT18B14",
+    "ARPT24B14",
+    "ARPT30B14",
+    "ARPT36C14",
+    "ARPT36D14",
+    "ARPT42D14",
+    "ARPT48D14",
+    "ARPT60D14",
+    "ARUF 14 series",
+    "ARUF**14 Series",
+    "ARUF18B14 Series",
+    "ARUF24B14 Series",
+    "ARUF30B14 Series",
+    "ARUF36C14 Series",
+    "ARUF42C14",
+    "ARUF48D14 Series",
+    "ARUF60D14 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/857760/Goodman-Arpt-14.html"
+  },
+  {
+   "manualId": "1210109",
+   "slug": "Goodman-Rs6100004",
+   "title": "ARPT 14 series Technical manual",
+   "type": "Other",
+   "pages": 42,
+   "productModel": "ARPT 14 series",
+   "extraModels": [
+    "ARPT 14 series",
+    "ASPT 14 series",
+    "ASUF 14 series",
+    "RS6200006"
+   ],
+   "url": "https://www.manualslib.com/manual/1210109/Goodman-Rs6100004.html"
+  },
+  {
+   "manualId": "1555347",
+   "slug": "Goodman-Aruf-14-Series",
+   "title": "ARPT**14 Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "ARPT**14 Series",
+   "extraModels": [
+    "ARPT**14 Series",
+    "ARPT18B14",
+    "ARPT24B14",
+    "ARPT30B14",
+    "ARPT36C14",
+    "ARPT36D14",
+    "ARPT42D14",
+    "ARPT48D14",
+    "ARPT60D14",
+    "ARUF18B14 Series",
+    "ARUF24B14 Series",
+    "ARUF30B14 Series",
+    "ARUF30C14 Series",
+    "ARUF36C14 Series",
+    "ARUF42C14AA",
+    "ARUF42C14AB",
+    "ARUF48D14 Series",
+    "ARUF60D14 Series",
+    "ASPT**14 Series",
+    "ASPT24B14",
+    "ASPT30C14",
+    "ASPT36C14",
+    "ASPT42C14",
+    "ASPT42D14",
+    "ASPT48C14",
+    "ASPT48D14",
+    "ASPT60D14",
+    "ASUF**14 Series",
+    "ASUF29B14",
+    "ASUF39C14",
+    "ASUF49C14",
+    "ASUF59D14"
+   ],
+   "url": "https://www.manualslib.com/manual/1555347/Goodman-Aruf-14-Series.html"
+  },
+  {
+   "manualId": "3840068",
+   "slug": "Goodman-Aruf-14-Series",
+   "title": "ARUF 14 series Technical manual",
+   "type": "Other",
+   "pages": 42,
+   "productModel": "ARUF 14 series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3840068/Goodman-Aruf-14-Series.html"
+  },
+  {
+   "manualId": "734679",
+   "slug": "Goodman-Asas-10asc",
+   "title": "ASAS-10ASC Installation, Operation And Service Instructions",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "ASAS-10ASC",
+   "extraModels": [
+    "ASAS-11ASC",
+    "ASAS-12ASC",
+    "ASAS-18ASC",
+    "GSAS-10ASC",
+    "GSAS-11ASC",
+    "GSAS-12ASC",
+    "GSAS-18ASC"
+   ],
+   "url": "https://www.manualslib.com/manual/734679/Goodman-Asas-10asc.html"
+  },
+  {
+   "manualId": "731843",
+   "slug": "Goodman-Gsasd-10",
+   "title": "ASASD-10 Installation, Operation And Service Instructions",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "ASASD-10",
+   "extraModels": [
+    "ASASD-10",
+    "ASASD-11",
+    "ASASD-12",
+    "ASASD-18",
+    "GSASD-11",
+    "GSASD-12",
+    "GSASD-18"
+   ],
+   "url": "https://www.manualslib.com/manual/731843/Goodman-Gsasd-10.html"
+  },
+  {
+   "manualId": "3827698",
+   "slug": "Goodman-Ash-Series",
+   "title": "ASH Series Service instructions manual",
+   "type": "Service",
+   "pages": 254,
+   "productModel": "ASH Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3827698/Goodman-Ash-Series.html"
+  },
+  {
+   "manualId": "867424",
+   "slug": "Goodman-Gsh-Series",
+   "title": "ASH130181AA Service instructions manual",
+   "type": "Service",
+   "pages": 254,
+   "productModel": "ASH130181AA",
+   "extraModels": [
+    "ASH130181AA",
+    "ASH130181AB",
+    "ASH130181AC",
+    "ASH130241AA",
+    "ASH130241AB",
+    "ASH130241AC",
+    "ASH130241AD",
+    "ASH130301AA",
+    "ASH130301AB",
+    "ASH130301AC",
+    "ASH130301AD",
+    "ASH130361AA",
+    "ASH130361AB",
+    "ASH130361AC",
+    "ASH130361AD",
+    "ASH130421AA",
+    "ASH130421AB",
+    "ASH130421AC",
+    "ASH130481AA",
+    "ASH130481AB",
+    "ASH130481AC",
+    "ASH130601AA",
+    "ASH130601AB",
+    "ASH130601AC",
+    "GSH100903AA",
+    "GSH100903AB",
+    "GSH100904AA",
+    "GSH100904AB",
+    "GSH101203AA",
+    "GSH101203AB",
+    "GSH101204AA",
+    "GSH101204AB",
+    "GSH130181AC",
+    "GSH130181BA",
+    "GSH130191AC",
+    "GSH130241AC",
+    "GSH130241BA",
+    "GSH130251AC",
+    "GSH130251AE",
+    "GSH130301AC",
+    "GSH130301BA",
+    "GSH130311AC",
+    "GSH130311AE",
+    "GSH130361AC",
+    "GSH130361AD",
+    "GSH130361BA",
+    "GSH130361BB",
+    "GSH130363AC",
+    "GSH130363AD",
+    "GSH130421AC",
+    "GSH130421AD",
+    "GSH130421AE",
+    "GSH130481AC",
+    "GSH130481AD",
+    "GSH130483AC",
+    "GSH130483AD",
+    "GSH140181AA",
+    "GSH140181AB",
+    "GSH140241AA",
+    "GSH140241AB",
+    "GSH140241AC",
+    "GSH140301AA",
+    "GSH140301AB",
+    "GSH140301AC",
+    "GSH140361AA",
+    "GSH140361AB",
+    "GSH140361AC",
+    "GSH140361AD",
+    "GSH140361AE",
+    "GSH140361AF",
+    "GSH140421AA",
+    "GSH140421AB",
+    "GSH140421AC",
+    "GSH140421AD",
+    "GSH140481AA",
+    "GSH140481AB",
+    "GSH140481AC",
+    "GSH140481AD",
+    "GSH140601AA",
+    "GSH140601AB",
+    "GSH140601AC",
+    "GSH140601AE",
+    "VSH Series",
+    "VSH130181AA",
+    "VSH130191AA",
+    "VSH130241AA",
+    "VSH130251AA",
+    "VSH130301AA",
+    "VSH130311AA",
+    "VSH130361AA",
+    "VSH130421AA",
+    "VSH130481AA",
+    "VSH130601AA"
+   ],
+   "url": "https://www.manualslib.com/manual/867424/Goodman-Gsh-Series.html"
+  },
+  {
+   "manualId": "1899038",
+   "slug": "Goodman-Aspf-Series",
+   "title": "ASPF Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "ASPF Series",
+   "extraModels": [
+    "ASPF183016",
+    "ASPF313716",
+    "ASPF426016"
+   ],
+   "url": "https://www.manualslib.com/manual/1899038/Goodman-Aspf-Series.html"
+  },
+  {
+   "manualId": "1210110",
+   "slug": "Goodman-Rs6200006",
+   "title": "ASPT 14 series Installation and operationg instructions",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "ASPT 14 series",
+   "extraModels": [
+    "ASPT 14 series",
+    "ASUF 14 series"
+   ],
+   "url": "https://www.manualslib.com/manual/1210110/Goodman-Rs6200006.html"
+  },
+  {
+   "manualId": "1016463",
+   "slug": "Goodman-Asx",
+   "title": "ASX Service instructions manual",
+   "type": "Service",
+   "pages": 73,
+   "productModel": "ASX",
+   "extraModels": [
+    "SSX"
+   ],
+   "url": "https://www.manualslib.com/manual/1016463/Goodman-Asx.html"
+  },
+  {
+   "manualId": "61576",
+   "slug": "Goodman-Sx14-R-410a",
+   "title": "ASX140181BA repair parts",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "ASX140181BA",
+   "extraModels": [
+    "ASX140181BA",
+    "ASX140181CA",
+    "ASX140241BA",
+    "ASX140241CA",
+    "ASX140301BA",
+    "ASX140301CA",
+    "ASX140361BA",
+    "ASX140361CA",
+    "ASX140421CA",
+    "ASX140421DA",
+    "ASX140481BA",
+    "ASX140481CA",
+    "ASX140601BA",
+    "SSX140181BA",
+    "SSX140241BA",
+    "SSX140301BA",
+    "SSX140361BA",
+    "SSX140421CA",
+    "SSX140481BA"
+   ],
+   "url": "https://www.manualslib.com/manual/61576/Goodman-Sx14-R-410a.html"
+  },
+  {
+   "manualId": "3804769",
+   "slug": "Goodman-Asz14",
+   "title": "ASZ14 Service instructions manual",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "ASZ14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3804769/Goodman-Asz14.html"
+  },
+  {
+   "manualId": "3804770",
+   "slug": "Goodman-Asz16",
+   "title": "ASZ16 Service instructions manual",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "ASZ16",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3804770/Goodman-Asz16.html"
+  },
+  {
+   "manualId": "1068276",
+   "slug": "Goodman-Aszc180361a-Series",
+   "title": "ASZC180361A Technical manual",
+   "type": "Other",
+   "pages": 37,
+   "productModel": "ASZC180361A",
+   "extraModels": [
+    "ASZC180481A",
+    "ASZC180601A",
+    "ASZC180601B",
+    "DSZC180361A",
+    "DSZC180481A",
+    "DSZC180601A",
+    "DSZC180601B"
+   ],
+   "url": "https://www.manualslib.com/manual/1068276/Goodman-Aszc180361a-Series.html"
+  },
+  {
+   "manualId": "984284",
+   "slug": "Goodman-Aszc180361a",
+   "title": "ASZC180361A Technical manual",
+   "type": "Other",
+   "pages": 33,
+   "productModel": "ASZC180361A",
+   "extraModels": [
+    "ASZC180481A",
+    "ASZC180601A",
+    "ASZC180601B",
+    "DSZC180361A",
+    "DSZC180481A",
+    "DSZC180601A",
+    "DSZC180601B"
+   ],
+   "url": "https://www.manualslib.com/manual/984284/Goodman-Aszc180361a.html"
+  },
+  {
+   "manualId": "2351764",
+   "slug": "Goodman-Aurora-Series",
+   "title": "Aurora Series owner's manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "Aurora Series",
+   "extraModels": [
+    "MSH093E21AXAA",
+    "MSH183E21AXAA",
+    "MSH243E21AXAA"
+   ],
+   "url": "https://www.manualslib.com/manual/2351764/Goodman-Aurora-Series.html"
+  },
+  {
+   "manualId": "3300453",
+   "slug": "Goodman-Avptc-14-Series",
+   "title": "AVPTC 14 Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "AVPTC 14 Series",
+   "extraModels": [
+    "AVPTC33C14",
+    "AVPTC39C14"
+   ],
+   "url": "https://www.manualslib.com/manual/3300453/Goodman-Avptc-14-Series.html"
+  },
+  {
+   "manualId": "1356639",
+   "slug": "Goodman-Avptc-24b14a-Series",
+   "title": "AVPTC 24B14A Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "AVPTC 24B14A Series",
+   "extraModels": [
+    "AVPTC 30C14A Series",
+    "AVPTC 36C14A Series",
+    "AVPTC 42D14A Series",
+    "AVPTC 48C14A Series",
+    "AVPTC 48D14A Series",
+    "AVPTC 60D14A Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1356639/Goodman-Avptc-24b14a-Series.html"
+  },
+  {
+   "manualId": "61560",
+   "slug": "Goodman-Avptc-Avptc183014",
+   "title": "AVPTC AVPTC183014 Technical manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "AVPTC AVPTC183014",
+   "extraModels": [
+    "AVPTC AVPTC313714",
+    "AVPTC426014"
+   ],
+   "url": "https://www.manualslib.com/manual/61560/Goodman-Avptc-Avptc183014.html"
+  },
+  {
+   "manualId": "2621299",
+   "slug": "Goodman-Avptc-Series",
+   "title": "AVPTC Series repair parts",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "AVPTC Series",
+   "extraModels": [
+    "AVPTC24B14AA",
+    "AVPTC30C14AA",
+    "AVPTC42D14AA",
+    "AVPTC42D14AB",
+    "AVPTC48D14AA",
+    "AVPTC48D14AB",
+    "AVPTC60D14AA",
+    "AVPTC60D14AB"
+   ],
+   "url": "https://www.manualslib.com/manual/2621299/Goodman-Avptc-Series.html"
+  },
+  {
+   "manualId": "1289171",
+   "slug": "Goodman-Avptc42d14-Series",
+   "title": "AVPTC24B14 series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "AVPTC24B14 series",
+   "extraModels": [
+    "AVPTC24B14 series",
+    "AVPTC30C14 series",
+    "AVPTC48C14 series",
+    "AVPTC48D14 series"
+   ],
+   "url": "https://www.manualslib.com/manual/1289171/Goodman-Avptc42d14-Series.html"
+  },
+  {
+   "manualId": "1292850",
+   "slug": "Goodman-Avptc24b14a",
+   "title": "AVPTC24B14A Technical manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "AVPTC24B14A",
+   "extraModels": [
+    "AVPTC30C14A",
+    "AVPTC48C14A",
+    "AVPTC48D14A",
+    "AVPTC60D14A"
+   ],
+   "url": "https://www.manualslib.com/manual/1292850/Goodman-Avptc24b14a.html"
+  },
+  {
+   "manualId": "3843291",
+   "slug": "Goodman-Avptc36c14-Series",
+   "title": "AVPTC36C14 series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "AVPTC36C14 series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3843291/Goodman-Avptc36c14-Series.html"
+  },
+  {
+   "manualId": "3843453",
+   "slug": "Goodman-Avptc36c14a",
+   "title": "AVPTC36C14A Technical manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "AVPTC36C14A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3843453/Goodman-Avptc36c14a.html"
+  },
+  {
+   "manualId": "3895924",
+   "slug": "Goodman-Avptc36c14aa",
+   "title": "AVPTC36C14AA repair parts",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "AVPTC36C14AA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3895924/Goodman-Avptc36c14aa.html"
+  },
+  {
+   "manualId": "3928281",
+   "slug": "Goodman-Avptc37c14",
+   "title": "AVPTC37C14 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "AVPTC37C14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3928281/Goodman-Avptc37c14.html"
+  },
+  {
+   "manualId": "3843454",
+   "slug": "Goodman-Avptc42d14a",
+   "title": "AVPTC42D14A Technical manual",
+   "type": "Other",
+   "pages": 11,
+   "productModel": "AVPTC42D14A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3843454/Goodman-Avptc42d14a.html"
+  },
+  {
+   "manualId": "3928282",
+   "slug": "Goodman-Avptc49c14",
+   "title": "AVPTC49C14 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "AVPTC49C14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3928282/Goodman-Avptc49c14.html"
+  },
+  {
+   "manualId": "3843292",
+   "slug": "Goodman-Avptc60d14-Series",
+   "title": "AVPTC60D14 series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "AVPTC60D14 series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3843292/Goodman-Avptc60d14-Series.html"
+  },
+  {
+   "manualId": "2145698",
+   "slug": "Goodman-Avzc180241",
+   "title": "AVXC2000241 Service bulletin",
+   "type": "Service",
+   "pages": 16,
+   "productModel": "AVXC2000241",
+   "extraModels": [
+    "AVXC2000241",
+    "AVXC2000361",
+    "AVXC2000481",
+    "AVXC2000601",
+    "AVZC180361",
+    "AVZC180481",
+    "AVZC180601",
+    "AVZC200241",
+    "AVZC200361",
+    "AVZC200481",
+    "AVZC200601",
+    "GVXC200241",
+    "GVXC200361",
+    "GVXC200481",
+    "GVXC200601",
+    "GVZC200241",
+    "GVZC200361",
+    "GVZC200481",
+    "GVZC200601"
+   ],
+   "url": "https://www.manualslib.com/manual/2145698/Goodman-Avzc180241.html"
+  },
+  {
+   "manualId": "2789397",
+   "slug": "Goodman-Awst-Series",
+   "title": "AWST Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "AWST Series",
+   "extraModels": [
+    "AWST30 LU1405 AA",
+    "AWST36 LU1405 AA"
+   ],
+   "url": "https://www.manualslib.com/manual/2789397/Goodman-Awst-Series.html"
+  },
+  {
+   "manualId": "3905322",
+   "slug": "Goodman-Awst18-Su1403-Aa",
+   "title": "AWST18 SU1403 AA Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "AWST18 SU1403 AA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3905322/Goodman-Awst18-Su1403-Aa.html"
+  },
+  {
+   "manualId": "256357",
+   "slug": "Goodman-Tstat-Gts1175",
+   "title": "Brochure & Specs",
+   "type": "Other",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/256357/Goodman-Tstat-Gts1175.html"
+  },
+  {
+   "manualId": "256364",
+   "slug": "Goodman-Tstat-G2200c",
+   "title": "Brochure & Specs",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/256364/Goodman-Tstat-G2200c.html"
+  },
+  {
+   "manualId": "2349734",
+   "slug": "Goodman-Mec80-Series",
+   "title": "CEC80 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "CEC80 Series",
+   "extraModels": [
+    "CEC80 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2349734/Goodman-Mec80-Series.html"
+  },
+  {
+   "manualId": "3892512",
+   "slug": "Goodman-Cec96-Series",
+   "title": "CEC96 Series instruction manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "CEC96 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3892512/Goodman-Cec96-Series.html"
+  },
+  {
+   "manualId": "3769563",
+   "slug": "Goodman-Mes80-Series",
+   "title": "CES80 Series Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "CES80 Series",
+   "extraModels": [
+    "CES80 Series",
+    "CES800403A",
+    "CES800603A",
+    "CES800804B",
+    "CES800805C",
+    "CES801005C",
+    "MES800403A",
+    "MES800603A",
+    "MES800603B",
+    "MES800604B",
+    "MES800803B",
+    "MES800804B",
+    "MES800804C",
+    "MES800805C",
+    "MES801005C",
+    "MES801205D"
+   ],
+   "url": "https://www.manualslib.com/manual/3769563/Goodman-Mes80-Series.html"
+  },
+  {
+   "manualId": "1550579",
+   "slug": "Goodman-Ch-Series",
+   "title": "CH SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 9,
+   "productModel": "CH SERIES",
+   "extraModels": [
+    "CHPF4860"
+   ],
+   "url": "https://www.manualslib.com/manual/1550579/Goodman-Ch-Series.html"
+  },
+  {
+   "manualId": "803855",
+   "slug": "Goodman-R-410a",
+   "title": "CHJD Series installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "CHJD Series",
+   "extraModels": [
+    "CHJD Series",
+    "CHJF Series",
+    "GHGD Series",
+    "GHRD Series",
+    "LHJD Series",
+    "LHJF Series",
+    "THGD Series",
+    "THGF Series",
+    "THJD Series",
+    "THJF Series",
+    "THJR Series",
+    "THRD Series",
+    "YHJD Series",
+    "YHJF Series",
+    "YHJR Series"
+   ],
+   "url": "https://www.manualslib.com/manual/803855/Goodman-R-410a.html"
+  },
+  {
+   "manualId": "3907416",
+   "slug": "Goodman-Chpf3636b6",
+   "title": "CHPF3636B6 Technical manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "CHPF3636B6",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3907416/Goodman-Chpf3636b6.html"
+  },
+  {
+   "manualId": "3010187",
+   "slug": "Goodman-Ckf-Series",
+   "title": "CKF Series Technical manual",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "CKF Series",
+   "extraModels": [
+    "CKF24-2M",
+    "CKF24-2N",
+    "CKF24-2P",
+    "CKF36-2M",
+    "CKF36-2N",
+    "CKF36-2P",
+    "CKF36-5M",
+    "CKF36-5N",
+    "CKF36-5P",
+    "CKF48-5M",
+    "CKF48-5N",
+    "CKF48-5P",
+    "CKF60-5M",
+    "CKF60-5N",
+    "CKF60-5P",
+    "CKF70-5M",
+    "CKF70-5N",
+    "CKF70-5P"
+   ],
+   "url": "https://www.manualslib.com/manual/3010187/Goodman-Ckf-Series.html"
+  },
+  {
+   "manualId": "61573",
+   "slug": "Goodman-Ss-Ckf50",
+   "title": "CKF24-2 Series Product specifications",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "CKF24-2 Series",
+   "extraModels": [
+    "CKF24-2 Series",
+    "CKF36-2 Series",
+    "CKF36-5 Series",
+    "CKF48-5 Series",
+    "CKF60-5 Series",
+    "CKF70-5 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/61573/Goodman-Ss-Ckf50.html"
+  },
+  {
+   "manualId": "3546916",
+   "slug": "Goodman-Ckl090",
+   "title": "CKL090 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "CKL090",
+   "extraModels": [
+    "CKL090-3",
+    "CKL090-4",
+    "CKL120",
+    "CKL120-3",
+    "CKL120-4"
+   ],
+   "url": "https://www.manualslib.com/manual/3546916/Goodman-Ckl090.html"
+  },
+  {
+   "manualId": "4266422",
+   "slug": "Goodman-Ckl30-1l",
+   "title": "CKL30-1L Service instructions manual",
+   "type": "Service",
+   "pages": 181,
+   "productModel": "CKL30-1L",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4266422/Goodman-Ckl30-1l.html"
+  },
+  {
+   "manualId": "864317",
+   "slug": "Goodman-Comfortnet-Acvc9",
+   "title": "ComfortNet ACVC9 Technical manu technical manualal",
+   "type": "Other",
+   "pages": 25,
+   "productModel": "ComfortNet ACVC9",
+   "extraModels": [
+    "ComfortNet ACVC950714CXAD",
+    "ComfortNet ACVC950714CXBA",
+    "ComfortNet ACVC950915DXAD",
+    "ComfortNet ACVC950915DXBA",
+    "ComfortNet ACVC951155DXAA",
+    "ComfortNet AMVC95",
+    "ComfortNet AMVC950453BXAE",
+    "ComfortNet AMVC950453BXBA",
+    "ComfortNet AMVC950704CXAE",
+    "ComfortNet AMVC950704CXBA",
+    "ComfortNet AMVC950905CXAD",
+    "ComfortNet AMVC950905CXBA",
+    "ComfortNet AMVC950905DXAE",
+    "ComfortNet AMVC950905DXBA",
+    "ComfortNet AMVC951155DXAE",
+    "ComfortNet AMVC951155DXBA",
+    "ComfortNet GCVC9",
+    "ComfortNet GCVC950714CXAD",
+    "ComfortNet GCVC950714CXBA",
+    "ComfortNet GCVC950915DXAD",
+    "ComfortNet GCVC950915DXBA",
+    "ComfortNet GCVC951155DXAE",
+    "ComfortNet GMVC95",
+    "ComfortNet GMVC950453BXAE",
+    "ComfortNet GMVC950453BXBA",
+    "ComfortNet GMVC950704CXAE",
+    "ComfortNet GMVC950704CXBA",
+    "ComfortNet GMVC950905CXAD",
+    "ComfortNet GMVC950905CXBA",
+    "ComfortNet GMVC950905DXAE",
+    "ComfortNet GMVC950905DXBA",
+    "ComfortNet GMVC951155DXAE",
+    "ComfortNet GMVC951155DXBA"
+   ],
+   "url": "https://www.manualslib.com/manual/864317/Goodman-Comfortnet-Acvc9.html"
+  },
+  {
+   "manualId": "884531",
+   "slug": "Goodman-Comfortnet-Acvc9",
+   "title": "ComfortNet ACVC9 Technical manual",
+   "type": "Other",
+   "pages": 37,
+   "productModel": "ComfortNet ACVC9",
+   "extraModels": [
+    "ComfortNet ACVC90704CXAA",
+    "ComfortNet ACVC90704CXAB",
+    "ComfortNet ACVC90905DXAA",
+    "ComfortNet ACVC90905DXAB",
+    "ComfortNet ACVC950714CXAA",
+    "ComfortNet ACVC950915DXAA",
+    "ComfortNet AMVC95",
+    "ComfortNet AMVC950453BXAA",
+    "ComfortNet AMVC950453BXAB",
+    "ComfortNet AMVC950704CXAA",
+    "ComfortNet AMVC950704CXAB",
+    "ComfortNet AMVC950905CXAA",
+    "ComfortNet AMVC950905DXAA",
+    "ComfortNet AMVC950905DXAB",
+    "ComfortNet AMVC951155DXAA",
+    "ComfortNet AMVC951155DXAB",
+    "ComfortNet GCVC9",
+    "ComfortNet GCVC90704CXAA",
+    "ComfortNet GCVC90704CXAB",
+    "ComfortNet GCVC90905DXAA",
+    "ComfortNet GCVC90905DXAB",
+    "ComfortNet GCVC91155DXAA",
+    "ComfortNet GCVC91155DXAB",
+    "ComfortNet GCVC950714CXAA",
+    "ComfortNet GCVC950915DXAA",
+    "ComfortNet GMVC95",
+    "ComfortNet GMVC950453BXAB",
+    "ComfortNet GMVC950704CXAA",
+    "ComfortNet GMVC950704CXAB",
+    "ComfortNet GMVC950905CXAA",
+    "ComfortNet GMVC950905DXAA",
+    "ComfortNet GMVC950905DXAB",
+    "ComfortNet GMVC951155DXAA",
+    "ComfortNet GMVC951155DXAB",
+    "GMVC950453BXAA"
+   ],
+   "url": "https://www.manualslib.com/manual/884531/Goodman-Comfortnet-Acvc9.html"
+  },
+  {
+   "manualId": "61578",
+   "slug": "Goodman-Acvc90704cxaa",
+   "title": "ComfortNet ACVC90704CXAA repair parts",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "ComfortNet ACVC90704CXAA",
+   "extraModels": [
+    "ComfortNet ACVC90704CXAB",
+    "ComfortNet ACVC90905DXAA",
+    "ComfortNet ACVC90905DXAB",
+    "ComfortNet ACVC950714CXAA",
+    "ComfortNet ACVC950915DXAA",
+    "ComfortNet GCVC90704CXAA",
+    "ComfortNet GCVC90704CXAB",
+    "ComfortNet GCVC90905DXAA",
+    "ComfortNet GCVC90905DXAB",
+    "ComfortNet GCVC91155DXAA",
+    "ComfortNet GCVC91155DXAB",
+    "ComfortNet GCVC950714CXAA",
+    "ComfortNet GCVC950915DXAA"
+   ],
+   "url": "https://www.manualslib.com/manual/61578/Goodman-Acvc90704cxaa.html"
+  },
+  {
+   "manualId": "897420",
+   "slug": "Goodman-Gmvc950453bxaa",
+   "title": "ComfortNet ACVC90704CXAA Technical manual",
+   "type": "Other",
+   "pages": 29,
+   "productModel": "ComfortNet ACVC90704CXAA",
+   "extraModels": [
+    "ComfortNet ACVC90704CXAA",
+    "ComfortNet ACVC90905DXAA",
+    "ComfortNet AMVC950453BXAA",
+    "ComfortNet AMVC950704CXAA",
+    "ComfortNet AMVC950905DXAA",
+    "ComfortNet AMVC951155DXAA",
+    "ComfortNet GCVC90704CXAA",
+    "ComfortNet GCVC90905DXAA",
+    "ComfortNet GCVC91155DXAA",
+    "ComfortNet GMVC950704CXAA",
+    "ComfortNet GMVC950905DXAA",
+    "ComfortNet GMVC951155DXAA"
+   ],
+   "url": "https://www.manualslib.com/manual/897420/Goodman-Gmvc950453bxaa.html"
+  },
+  {
+   "manualId": "3109060",
+   "slug": "Goodman-Comfortnet-Asxc-Series",
+   "title": "ComfortNet ASXC Series Service instructions manual",
+   "type": "Service",
+   "pages": 108,
+   "productModel": "ComfortNet ASXC Series",
+   "extraModels": [
+    "ComfortNet ASZC Series",
+    "ComfortNet CAPF3131B6",
+    "ComfortNet CAPF3131C6",
+    "ComfortNet CAPF3636D6",
+    "ComfortNet CAPT3131C4",
+    "ComfortNet CAPT4961C4",
+    "ComfortNet CAPT4961D4",
+    "ComfortNet CAUF1824A6",
+    "ComfortNet CAUF1824C6",
+    "ComfortNet CAUF3030B6",
+    "ComfortNet CAUF3030C6",
+    "ComfortNet CAUF3131B6",
+    "ComfortNet CAUF3131C6",
+    "ComfortNet CAUF4860C6",
+    "ComfortNet CAUF4961C6",
+    "ComfortNet CAUF4961D6",
+    "ComfortNet CSCF1824N6",
+    "ComfortNet CSCF3036N6",
+    "ComfortNet CSCF3642N6",
+    "ComfortNet CSCF4860N6",
+    "ComfortNet DSXC Series",
+    "ComfortNet DSZC Series",
+    "ComfortNet GSXC Series",
+    "ComfortNet GSZC Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3109060/Goodman-Comfortnet-Asxc-Series.html"
+  },
+  {
+   "manualId": "2750677",
+   "slug": "Goodman-Comfortnet-Gcvc95-Series",
+   "title": "ComfortNet CVC9 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "ComfortNet CVC9 Series",
+   "extraModels": [
+    "ComfortNet GGCVC950714CX",
+    "ComfortNet GGMVC950704CX",
+    "ComfortNet GGMVC951155DX",
+    "CVC91155DX",
+    "CVC950714CX",
+    "CVC950915DX",
+    "MVC95",
+    "MVC950453BX",
+    "MVC950704CX",
+    "MVC950905CX",
+    "MVC950905DX",
+    "MVC951155DX"
+   ],
+   "url": "https://www.manualslib.com/manual/2750677/Goodman-Comfortnet-Gcvc95-Series.html"
+  },
+  {
+   "manualId": "1407157",
+   "slug": "Goodman-Comfortnet-Asxc160-1aa-Series",
+   "title": "ComfortNet DSXC160241AC Service instructions manual",
+   "type": "Service",
+   "pages": 109,
+   "productModel": "ComfortNet DSXC160241AC",
+   "extraModels": [
+    "ComfortNet DSXC160241AC",
+    "ComfortNet DSXC160361AC",
+    "ComfortNet ASXC160241BB",
+    "ComfortNet ASXC160241BC",
+    "ComfortNet ASXC160241BD",
+    "ComfortNet ASXC160241BE",
+    "ComfortNet ASXC160241CA",
+    "ComfortNet ASXC160361BB",
+    "ComfortNet ASXC160361BC",
+    "ComfortNet ASXC160361BD",
+    "ComfortNet ASXC160361CA",
+    "ComfortNet ASXC160481BA",
+    "ComfortNet ASXC160481BB",
+    "ComfortNet ASXC160481BC",
+    "ComfortNet ASXC160481BD",
+    "ComfortNet ASXC160481BE",
+    "ComfortNet ASXC160481CA",
+    "ComfortNet ASXC160601BA",
+    "ComfortNet ASXC160601BB",
+    "ComfortNet ASXC160601BC",
+    "ComfortNet ASXC160601BD",
+    "ComfortNet ASXC160601CA",
+    "ComfortNet ASXC18**1AA Series",
+    "ComfortNet ASXC180361AB",
+    "ComfortNet ASXC180361AC",
+    "ComfortNet ASXC180361AD",
+    "ComfortNet ASXC180481AB",
+    "ComfortNet ASXC180481AC",
+    "ComfortNet ASXC180481AD",
+    "ComfortNet ASXC180481BB",
+    "ComfortNet ASXC180601AB",
+    "ComfortNet ASXC180601AC",
+    "ComfortNet ASXC180601AD",
+    "ComfortNet ASZC160**1AA Series",
+    "ComfortNet ASZC160241AB",
+    "ComfortNet ASZC160241AC",
+    "ComfortNet ASZC160241AD",
+    "ComfortNet ASZC160241AE",
+    "ComfortNet ASZC160241CA",
+    "ComfortNet ASZC160361AB",
+    "ComfortNet ASZC160361AC",
+    "ComfortNet ASZC160361AD",
+    "ComfortNet ASZC160361AE",
+    "ComfortNet ASZC160361CA",
+    "ComfortNet ASZC160481AB",
+    "ComfortNet ASZC160481AC",
+    "ComfortNet ASZC160481AE",
+    "ComfortNet ASZC160481CA",
+    "ComfortNet ASZC160601AB",
+    "ComfortNet ASZC160601BA",
+    "ComfortNet ASZC160601BB",
+    "ComfortNet ASZC160601CA",
+    "ComfortNet ASZC180**1AA Series",
+    "ComfortNet ASZC180241CA",
+    "ComfortNet ASZC180361AB",
+    "ComfortNet ASZC180361AC",
+    "ComfortNet ASZC180361AD",
+    "ComfortNet ASZC180361CA",
+    "ComfortNet ASZC180481AB",
+    "ComfortNet ASZC180481AC",
+    "ComfortNet ASZC180481CA",
+    "ComfortNet ASZC180601AB",
+    "ComfortNet ASZC180601BA",
+    "ComfortNet ASZC180601BB",
+    "ComfortNet ASZC180601BC",
+    "ComfortNet ASZC180601CA",
+    "ComfortNet DSXC160**1AA Series",
+    "ComfortNet DSXC160241AB",
+    "ComfortNet DSXC160241AF",
+    "ComfortNet DSXC160361AB",
+    "ComfortNet DSXC160481AF",
+    "ComfortNet DSXC160481BA",
+    "ComfortNet DSXC160481BB",
+    "ComfortNet DSXC160481BC",
+    "ComfortNet DSXC160601BA",
+    "ComfortNet DSXC160601BB",
+    "ComfortNet DSXC160601BC",
+    "ComfortNet DSXC18**1AA Series",
+    "ComfortNet DSXC180361AB",
+    "ComfortNet DSXC18036AC",
+    "ComfortNet DSXC180481AB",
+    "ComfortNet DSXC180481AC",
+    "ComfortNet DSXC180601AB",
+    "ComfortNet DSXC180601AC",
+    "ComfortNet DSZC16**1AA Series",
+    "ComfortNet DSZC160241AB",
+    "ComfortNet DSZC160241AC",
+    "ComfortNet DSZC160241AD",
+    "ComfortNet DSZC160241AE",
+    "ComfortNet DSZC160361AB",
+    "ComfortNet DSZC160361AC",
+    "ComfortNet DSZC160361AD",
+    "ComfortNet DSZC160361AE",
+    "ComfortNet DSZC160481AB",
+    "ComfortNet DSZC160481AC",
+    "ComfortNet DSZC160481AD",
+    "ComfortNet DSZC160481AE",
+    "ComfortNet DSZC160601AB",
+    "ComfortNet DSZC160601BA",
+    "ComfortNet DSZC160601BB",
+    "ComfortNet DSZC160601BC",
+    "ComfortNet DSZC18**1AA Series",
+    "ComfortNet DSZC180241AD",
+    "ComfortNet DSZC180361AB",
+    "ComfortNet DSZC180361AC",
+    "ComfortNet DSZC180361AD",
+    "ComfortNet DSZC180481AB",
+    "ComfortNet DSZC180481AC",
+    "ComfortNet DSZC180481AD",
+    "ComfortNet DSZC180601AB",
+    "ComfortNet DSZC180601BA",
+    "ComfortNet DSZC180601BB",
+    "ComfortNet GSXC160241CA",
+    "ComfortNet GSXC160361CA",
+    "ComfortNet GSXC160481CA",
+    "ComfortNet GSXC160601CA",
+    "ComfortNet GSXC180241BA",
+    "ComfortNet GSXC180361BA",
+    "ComfortNet GSXC180481BA",
+    "ComfortNet GSXC180481BB",
+    "ComfortNet GSXC180601BA",
+    "ComfortNet GSZC16024",
+    "ComfortNet GSZC16036",
+    "ComfortNet GSZC16048",
+    "ComfortNet GSZC16060",
+    "ComfortNet GSZC18024",
+    "ComfortNet GSZC18036",
+    "ComfortNet GSZC18048",
+    "ComfortNet GSZC18060"
+   ],
+   "url": "https://www.manualslib.com/manual/1407157/Goodman-Comfortnet-Asxc160-1aa-Series.html"
+  },
+  {
+   "manualId": "806458",
+   "slug": "Goodman-Condencing-Unit",
+   "title": "Condencing Unit Installation & service reference",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "Condencing Unit",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/806458/Goodman-Condencing-Unit.html"
+  },
+  {
+   "manualId": "796559",
+   "slug": "Goodman-Condensing-Unit",
+   "title": "CONDENSING UNIT Installation & service reference",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "CONDENSING UNIT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/796559/Goodman-Condensing-Unit.html"
+  },
+  {
+   "manualId": "800945",
+   "slug": "Goodman-Condensing-Unit",
+   "title": "CONDENSING UNIT Installation & service reference",
+   "type": "Service",
+   "pages": 25,
+   "productModel": "CONDENSING UNIT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/800945/Goodman-Condensing-Unit.html"
+  },
+  {
+   "manualId": "858865",
+   "slug": "Goodman-Condensing-Unitair-Conditioning",
+   "title": "CONDENSING UNITAIR CONDITIONING Installation & service reference",
+   "type": "Service",
+   "pages": 24,
+   "productModel": "CONDENSING UNITAIR CONDITIONING",
+   "extraModels": [
+    "SXC160241 Series",
+    "SXC160361 Series",
+    "SXC160481 Series",
+    "SXC160601 Series",
+    "SXC180361 Series",
+    "SXC180481 Series",
+    "SXC180601 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/858865/Goodman-Condensing-Unitair-Conditioning.html"
+  },
+  {
+   "manualId": "3673426",
+   "slug": "Goodman-Costera-Gxbk090dg4bb",
+   "title": "COSTERA GXBK090DG4BB Manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "COSTERA GXBK090DG4BB",
+   "extraModels": [
+    "COSTERA GLCK090DG4AB"
+   ],
+   "url": "https://www.manualslib.com/manual/3673426/Goodman-Costera-Gxbk090dg4bb.html"
+  },
+  {
+   "manualId": "256347",
+   "slug": "Goodman-Cpc-Convercial-Ss-Cpc90-150",
+   "title": "CPC CONVERCIAL SS-CPC90-150 user manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "CPC CONVERCIAL SS-CPC90-150",
+   "extraModels": [
+    "CPC090 Series",
+    "CPC120 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/256347/Goodman-Cpc-Convercial-Ss-Cpc90-150.html"
+  },
+  {
+   "manualId": "483772",
+   "slug": "Goodman-Cpc-Series",
+   "title": "CPC036 installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "CPC036",
+   "extraModels": [
+    "CPC036",
+    "CPC048",
+    "CPC060",
+    "CPC072",
+    "CPH036",
+    "CPH048",
+    "CPH060",
+    "CPH072",
+    "CPH SERIES"
+   ],
+   "url": "https://www.manualslib.com/manual/483772/Goodman-Cpc-Series.html"
+  },
+  {
+   "manualId": "61566",
+   "slug": "Goodman-Io-354b",
+   "title": "CPC036 installation instructions manual",
+   "type": "Installation",
+   "pages": 27,
+   "productModel": "CPC036",
+   "extraModels": [
+    "CPC036",
+    "CPC048",
+    "CPC060",
+    "CPC072",
+    "CPH036",
+    "CPH048",
+    "CPH060",
+    "CPH072"
+   ],
+   "url": "https://www.manualslib.com/manual/61566/Goodman-Io-354b.html"
+  },
+  {
+   "manualId": "256352",
+   "slug": "Goodman-Ss-Cpc36-72",
+   "title": "CPC036XXX1DXXXB Specifications",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "CPC036XXX1DXXXB",
+   "extraModels": [
+    "CPC036XXX1DXXXB",
+    "CPC036XXX3BXXXB",
+    "CPC036XXX3DXXXB",
+    "CPC036XXX4BXXXB",
+    "CPC036XXX7BXXXB",
+    "CPC048XXX1DXXXB",
+    "CPC048XXX3BXXXB",
+    "CPC048XXX3DXXXB",
+    "CPC048XXX4BXXXB",
+    "CPC048XXX7BXXXB",
+    "CPC060XXX1DXXXB",
+    "CPC060XXX3BXXXB",
+    "CPC060XXX3DXXXB",
+    "CPC060XXX4BXXXB",
+    "CPC060XXX7BXXXB",
+    "CPC072XXX3BXXXB",
+    "CPC072XXX4BXXXB",
+    "CPC072XXX7BXXXB"
+   ],
+   "url": "https://www.manualslib.com/manual/256352/Goodman-Ss-Cpc36-72.html"
+  },
+  {
+   "manualId": "61603",
+   "slug": "Goodman-Cpc036xxx3bxjxba",
+   "title": "CPC036XXX3BXJXBA repair parts",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "CPC036XXX3BXJXBA",
+   "extraModels": [
+    "CPC036XXX3BXXXBA",
+    "CPC036XXX4BXJXBA",
+    "CPC036XXX4BXXXBA",
+    "CPC048XXX3BXJXBA",
+    "CPC048XXX3BXXXBA",
+    "CPC048XXX4BXJXBA",
+    "CPC048XXX4BXXXBA",
+    "CPC048XXX7BXJXBA",
+    "CPC048XXX7BXXXBA",
+    "CPC060XXX3BXJXBA",
+    "CPC060XXX3BXXXBA",
+    "CPC060XXX4BXJXBA",
+    "CPC060XXX4BXXXBA",
+    "CPC060XXX7BXJXBA",
+    "CPC060XXX7BXXXBA Series",
+    "CPC072XXX3BXJXBA Series",
+    "CPC072XXX3BXXXBA Series",
+    "CPC072XXX4BXJXBA Series",
+    "CPC072XXX4BXXXBA Series",
+    "CPC072XXX7BXJXBA Series",
+    "CPC072XXX7BXXXBA Series"
+   ],
+   "url": "https://www.manualslib.com/manual/61603/Goodman-Cpc036xxx3bxjxba.html"
+  },
+  {
+   "manualId": "483773",
+   "slug": "Goodman-Cpg-Series",
+   "title": "CPG SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "CPG SERIES",
+   "extraModels": [
+    "CPG036045",
+    "CPG036090",
+    "CPG048090",
+    "CPG048115",
+    "CPG060090",
+    "CPG060140",
+    "CPG072140"
+   ],
+   "url": "https://www.manualslib.com/manual/483773/Goodman-Cpg-Series.html"
+  },
+  {
+   "manualId": "61600",
+   "slug": "Goodman-Cpg-Series",
+   "title": "CPG SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "CPG SERIES",
+   "extraModels": [
+    "CPG090",
+    "CPG102",
+    "CPG150"
+   ],
+   "url": "https://www.manualslib.com/manual/61600/Goodman-Cpg-Series.html"
+  },
+  {
+   "manualId": "256355",
+   "slug": "Goodman-Ss-Cpg36-72",
+   "title": "CPG0360451D***B Series Specifications",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "CPG0360451D***B Series",
+   "extraModels": [
+    "CPG0360451D***B Series",
+    "CPG0360453B***B Series",
+    "CPG0360453D***B Series",
+    "CPG0360454B***B Series",
+    "CPG0360901D***B Series",
+    "CPG0360903B***B Series",
+    "CPG0360903D***B Series",
+    "CPG0360904B***B Series",
+    "CPG0360907B***B Series",
+    "CPG0480901D***B Series",
+    "CPG0480903B***B Series",
+    "CPG0480903D***B Series",
+    "CPG0480904B***B Series",
+    "CPG0481151D***B Series",
+    "CPG0481153B***B Series",
+    "CPG0481153D***B Series",
+    "CPG0481154B***B Series",
+    "CPG0481157B***B Series",
+    "CPG0600901D***B Series",
+    "CPG0600903B***B Series",
+    "CPG0600903D***B Series",
+    "CPG0600904B***B Series",
+    "CPG0601401D***B Series",
+    "CPG0601403B***B Series",
+    "CPG0601403D***B Series",
+    "CPG0601404B***B Series",
+    "CPG0601407B***B Series",
+    "CPG0721403B***B Series",
+    "CPG0721404B***B Series",
+    "CPG0721407B***B Series"
+   ],
+   "url": "https://www.manualslib.com/manual/256355/Goodman-Ss-Cpg36-72.html"
+  },
+  {
+   "manualId": "256353",
+   "slug": "Goodman-Ss-Cpg180-240",
+   "title": "CPG1803503B***B Series Specifications",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "CPG1803503B***B Series",
+   "extraModels": [
+    "CPG1803503B***B Series",
+    "CPG1803504B***B Series",
+    "CPG1803507B***B Series",
+    "CPG2404003B***B Series",
+    "CPG2404004B***B Series",
+    "CPG2404007B***B Series"
+   ],
+   "url": "https://www.manualslib.com/manual/256353/Goodman-Ss-Cpg180-240.html"
+  },
+  {
+   "manualId": "256348",
+   "slug": "Goodman-Cph-Commercial-Ss-Cph90-150",
+   "title": "CPH COMMERCIAL SS-CPH90-150 user manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "CPH COMMERCIAL SS-CPH90-150",
+   "extraModels": [
+    "CPH090 Series",
+    "CPH120 Series",
+    "CPH150 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/256348/Goodman-Cph-Commercial-Ss-Cph90-150.html"
+  },
+  {
+   "manualId": "61596",
+   "slug": "Goodman-Rp-526a",
+   "title": "CPH036XXX3BXJXBA repair parts",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "CPH036XXX3BXJXBA",
+   "extraModels": [
+    "CPH036XXX3BXJXBA",
+    "CPH036XXX3BXXXBA",
+    "CPH036XXX4BXJXBA",
+    "CPH036XXX4BXXXBA",
+    "CPH048XXX3BXJXBA",
+    "CPH048XXX3BXXXBA",
+    "CPH048XXX4BXJXBA",
+    "CPH048XXX4BXXXBA",
+    "CPH048XXX7BXJXBA",
+    "CPH048XXX7BXXXBA",
+    "CPH060XXX3BXJXBA",
+    "CPH060XXX3BXXXBA",
+    "CPH060XXX4BXJXBA",
+    "CPH060XXX4BXXXBA",
+    "CPH060XXX7BXJXBA",
+    "CPH060XXX7BXXXBA",
+    "CPH072XXX3BXJXBA",
+    "CPH072XXX3BXXXBA",
+    "CPH072XXX4BXJXBA",
+    "CPH072XXX4BXXXBA",
+    "CPH072XXX7BXJXBA",
+    "CPH072XXX7BXXXBA"
+   ],
+   "url": "https://www.manualslib.com/manual/61596/Goodman-Rp-526a.html"
+  },
+  {
+   "manualId": "484020",
+   "slug": "Goodman-Ss-Cpkf50",
+   "title": "CPKF24-2 Product specifications",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "CPKF24-2",
+   "extraModels": [
+    "CPKF24-2",
+    "CPKF36-2",
+    "CPKF36-5",
+    "CPKF42-5",
+    "CPKF48-5",
+    "CPKF60-5",
+    "CPKF61-5"
+   ],
+   "url": "https://www.manualslib.com/manual/484020/Goodman-Ss-Cpkf50.html"
+  },
+  {
+   "manualId": "256354",
+   "slug": "Goodman-Ss-Cpkf50-Ss-Cpkf50",
+   "title": "CPKF24-2 user manual",
+   "type": "User / Owner",
+   "pages": 16,
+   "productModel": "CPKF24-2",
+   "extraModels": [
+    "CPKF24-2",
+    "CPKF36-2",
+    "CPKF36-5",
+    "CPKF42-5",
+    "CPKF48-5",
+    "CPKF60-5",
+    "CPKF61-5"
+   ],
+   "url": "https://www.manualslib.com/manual/256354/Goodman-Ss-Cpkf50-Ss-Cpkf50.html"
+  },
+  {
+   "manualId": "729005",
+   "slug": "Goodman-Cple090",
+   "title": "CPLE090 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "CPLE090",
+   "extraModels": [
+    "CPLE120"
+   ],
+   "url": "https://www.manualslib.com/manual/729005/Goodman-Cple090.html"
+  },
+  {
+   "manualId": "1084722",
+   "slug": "Goodman-Gmvc950704cx",
+   "title": "CVC9/95 installation instructions manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "CVC9/95",
+   "extraModels": [
+    "CVC9/95",
+    "GCVC90704CX",
+    "GCVC90905DX",
+    "GCVC950714CX",
+    "GCVC950915DX",
+    "GMVC950453BX",
+    "GMVC950905CX",
+    "GMVC950905DX",
+    "GMVC951155DX"
+   ],
+   "url": "https://www.manualslib.com/manual/1084722/Goodman-Gmvc950704cx.html"
+  },
+  {
+   "manualId": "61582",
+   "slug": "Goodman-Cvc9-95",
+   "title": "CVC9/95 installation instructions manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "CVC9/95",
+   "extraModels": [
+    "CVC90704CX",
+    "CVC90905DX",
+    "CVC91155DX",
+    "CVC950714CX",
+    "MVC95",
+    "MVC950453BX",
+    "MVC950704CX",
+    "MVC950905CX",
+    "MVC950905DX",
+    "MVC951155DX"
+   ],
+   "url": "https://www.manualslib.com/manual/61582/Goodman-Cvc9-95.html"
+  },
+  {
+   "manualId": "836277",
+   "slug": "Goodman-Cvc9-95",
+   "title": "CVC9/95 installation instructions manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "CVC9/95",
+   "extraModels": [
+    "CVC91155DX",
+    "CVC950714CX",
+    "CVC950915DX",
+    "CVC951155DX",
+    "MVC95",
+    "MVC950453BX",
+    "MVC950704CX",
+    "MVC950905CX",
+    "MVC950905DX",
+    "MVC951155DX"
+   ],
+   "url": "https://www.manualslib.com/manual/836277/Goodman-Cvc9-95.html"
+  },
+  {
+   "manualId": "4517779",
+   "slug": "Goodman-Mvc97-Series",
+   "title": "CVC97 Series Technical manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "CVC97 Series",
+   "extraModels": [
+    "CVC97 Series",
+    "CVM970603BNA Series",
+    "CVM970803BNA Series",
+    "CVM970804CNA Series",
+    "CVM971005CNA Series",
+    "GCVM970804CN",
+    "GMVM970803BN",
+    "MVM970603BNA Series",
+    "MVM970803BNA Series",
+    "MVM970804CNA Series",
+    "MVM971005CNA Series",
+    "MVM971205DNA Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4517779/Goodman-Mvc97-Series.html"
+  },
+  {
+   "manualId": "703864",
+   "slug": "Goodman-Cvm96-Series",
+   "title": "CVM96 Series Technical manual",
+   "type": "Other",
+   "pages": 23,
+   "productModel": "CVM96 Series",
+   "extraModels": [
+    "MVM96 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/703864/Goodman-Cvm96-Series.html"
+  },
+  {
+   "manualId": "1176187",
+   "slug": "Goodman-Mh8",
+   "title": "DH8 installation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "DH8",
+   "extraModels": [
+    "DH8",
+    "DS8",
+    "GME8",
+    "HS8",
+    "MS8"
+   ],
+   "url": "https://www.manualslib.com/manual/1176187/Goodman-Mh8.html"
+  },
+  {
+   "manualId": "3891620",
+   "slug": "Goodman-Downflow",
+   "title": "DOWNFLOW installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "DOWNFLOW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3891620/Goodman-Downflow.html"
+  },
+  {
+   "manualId": "2938394",
+   "slug": "Goodman-Dsx16",
+   "title": "DSX16 Technical manual",
+   "type": "Other",
+   "pages": 34,
+   "productModel": "DSX16",
+   "extraModels": [
+    "DSX160241A",
+    "DSX160241B",
+    "DSX160361A",
+    "DSX160361B",
+    "DSX160481A",
+    "DSX160601A"
+   ],
+   "url": "https://www.manualslib.com/manual/2938394/Goodman-Dsx16.html"
+  },
+  {
+   "manualId": "2938380",
+   "slug": "Goodman-Dsx18",
+   "title": "DSX18 Technical manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "DSX18",
+   "extraModels": [
+    "DSX180361A",
+    "DSX180481A",
+    "DSX180601A"
+   ],
+   "url": "https://www.manualslib.com/manual/2938380/Goodman-Dsx18.html"
+  },
+  {
+   "manualId": "1244541",
+   "slug": "Goodman-Dsxc16",
+   "title": "DSXC16 Manual",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "DSXC16",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1244541/Goodman-Dsxc16.html"
+  },
+  {
+   "manualId": "1354301",
+   "slug": "Goodman-Asxc160361a",
+   "title": "DSXC160481B* Technical manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "DSXC160481B*",
+   "extraModels": [
+    "DSXC160481B*",
+    "DSXC160601B*",
+    "ASXC160241A",
+    "ASXC160241B",
+    "ASXC160361B",
+    "ASXC160481A",
+    "ASXC160481B",
+    "ASXC160601A",
+    "ASXC160601B",
+    "DSXC160241A",
+    "DSXC160361A",
+    "DSXC160481A",
+    "DSXC160601A"
+   ],
+   "url": "https://www.manualslib.com/manual/1354301/Goodman-Asxc160361a.html"
+  },
+  {
+   "manualId": "2936340",
+   "slug": "Goodman-Dsz180601a-Series",
+   "title": "DSZ180361A Series Technical manual",
+   "type": "Other",
+   "pages": 25,
+   "productModel": "DSZ180361A Series",
+   "extraModels": [
+    "DSZ180361A Series",
+    "DSZ180481A Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2936340/Goodman-Dsz180601a-Series.html"
+  },
+  {
+   "manualId": "256356",
+   "slug": "Goodman-Ss-Dszc18",
+   "title": "DSZC180361A Specifications",
+   "type": "Other",
+   "pages": 32,
+   "productModel": "DSZC180361A",
+   "extraModels": [
+    "DSZC180361A",
+    "DSZC180481A",
+    "DSZC180601A",
+    "DSZC180601B"
+   ],
+   "url": "https://www.manualslib.com/manual/256356/Goodman-Ss-Dszc18.html"
+  },
+  {
+   "manualId": "858290",
+   "slug": "Goodman-Mvc8",
+   "title": "DVC8 installation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "DVC8",
+   "extraModels": [
+    "DVC8"
+   ],
+   "url": "https://www.manualslib.com/manual/858290/Goodman-Mvc8.html"
+  },
+  {
+   "manualId": "61591",
+   "slug": "Goodman-Vc8",
+   "title": "DVC80603B installation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "DVC80603B",
+   "extraModels": [
+    "DVC80603B",
+    "DVC80805C",
+    "DVC81005C",
+    "MVC80604B",
+    "MVC80805C",
+    "MVC81005C"
+   ],
+   "url": "https://www.manualslib.com/manual/61591/Goodman-Vc8.html"
+  },
+  {
+   "manualId": "4372000",
+   "slug": "Goodman-Gzv7s-1-A-Series",
+   "title": "G VM970804C Series installation instructions manual",
+   "type": "Installation",
+   "pages": 53,
+   "productModel": "G VM970804C Series",
+   "extraModels": [
+    "G VM970804C Series",
+    "G VT800804C Series",
+    "G VT960804C Series",
+    "GXV9S 1 A Series",
+    "GZV7SA6010"
+   ],
+   "url": "https://www.manualslib.com/manual/4372000/Goodman-Gzv7s-1-A-Series.html"
+  },
+  {
+   "manualId": "2735158",
+   "slug": "Goodman-G2270",
+   "title": "G2270 Owner's Manual & Installation Instructions",
+   "type": "Installation",
+   "pages": 41,
+   "productModel": "G2270",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2735158/Goodman-G2270.html"
+  },
+  {
+   "manualId": "1498326",
+   "slug": "Goodman-G4273",
+   "title": "G4272C Quick start setup manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "G4272C",
+   "extraModels": [
+    "G4272C"
+   ],
+   "url": "https://www.manualslib.com/manual/1498326/Goodman-G4273.html"
+  },
+  {
+   "manualId": "2545083",
+   "slug": "Goodman-G4273",
+   "title": "G4273 quick start manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "G4273",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2545083/Goodman-G4273.html"
+  },
+  {
+   "manualId": "811745",
+   "slug": "Goodman-Gas-Fired-Warm-Air-Furnace",
+   "title": "GAS-FIRED WARM AIR FURNACE User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "GAS-FIRED WARM AIR FURNACE",
+   "extraModels": [
+    "GAS-FIRED WARM AIR FURNACE"
+   ],
+   "url": "https://www.manualslib.com/manual/811745/Goodman-Gas-Fired-Warm-Air-Furnace.html"
+  },
+  {
+   "manualId": "860651",
+   "slug": "Goodman-Gas-Fired-Warm-Air-Furnace",
+   "title": "GAS-FIRED WARM AIR FURNACE User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "GAS-FIRED WARM AIR FURNACE",
+   "extraModels": [
+    "GAS-FIRED WARM AIR FURNACE"
+   ],
+   "url": "https://www.manualslib.com/manual/860651/Goodman-Gas-Fired-Warm-Air-Furnace.html"
+  },
+  {
+   "manualId": "3893628",
+   "slug": "Goodman-Gc9s80",
+   "title": "GC9S80 Service and Troubleshooting",
+   "type": "Service",
+   "pages": 55,
+   "productModel": "GC9S80",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3893628/Goodman-Gc9s80.html"
+  },
+  {
+   "manualId": "3893805",
+   "slug": "Goodman-Gc9s96",
+   "title": "GC9S96 Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "GC9S96",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3893805/Goodman-Gc9s96.html"
+  },
+  {
+   "manualId": "1197083",
+   "slug": "Goodman-Gcd-573m",
+   "title": "GCD 573M instruction manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "GCD 573M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1197083/Goodman-Gcd-573m.html"
+  },
+  {
+   "manualId": "2586305",
+   "slug": "Goodman-Gmec80-Series",
+   "title": "GCEC80 Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "GCEC80",
+   "extraModels": [
+    "GCEC80"
+   ],
+   "url": "https://www.manualslib.com/manual/2586305/Goodman-Gmec80-Series.html"
+  },
+  {
+   "manualId": "2586312",
+   "slug": "Goodman-Gcec96-Series",
+   "title": "GCEC96 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "GCEC96",
+   "extraModels": [
+    "GCEC960403BNA",
+    "GCEC960603BNA",
+    "GCEC960803BNA",
+    "GCEC961005CNA"
+   ],
+   "url": "https://www.manualslib.com/manual/2586312/Goodman-Gcec96-Series.html"
+  },
+  {
+   "manualId": "3872311",
+   "slug": "Goodman-Gces80-Series",
+   "title": "GCES80 Series Service and Troubleshooting",
+   "type": "Service",
+   "pages": 53,
+   "productModel": "GCES80 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3872311/Goodman-Gces80-Series.html"
+  },
+  {
+   "manualId": "742338",
+   "slug": "Goodman-Gmh95",
+   "title": "GCH9 installation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "GCH9",
+   "extraModels": [
+    "GCH9",
+    "GCH95",
+    "GCH950453BX",
+    "GCH950703BX",
+    "GCH950704CX",
+    "GCH950904CX",
+    "GCH950905DX",
+    "GME95",
+    "GME950403BX",
+    "GME950603BX",
+    "GME950805CX",
+    "GME951005DX",
+    "GMH950453BX",
+    "GMH950703BX",
+    "GMH950704CX",
+    "GMH950904CX",
+    "GMH950905CX",
+    "GMH950905DX",
+    "GMH951155DX"
+   ],
+   "url": "https://www.manualslib.com/manual/742338/Goodman-Gmh95.html"
+  },
+  {
+   "manualId": "788794",
+   "slug": "Goodman-Gmh95",
+   "title": "GCH9 installation instructions manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "GCH9",
+   "extraModels": [
+    "GCH9"
+   ],
+   "url": "https://www.manualslib.com/manual/788794/Goodman-Gmh95.html"
+  },
+  {
+   "manualId": "794059",
+   "slug": "Goodman-Gch95",
+   "title": "GCH9 installation instructions manual",
+   "type": "Installation",
+   "pages": 44,
+   "productModel": "GCH9",
+   "extraModels": [
+    "GMH95"
+   ],
+   "url": "https://www.manualslib.com/manual/794059/Goodman-Gch95.html"
+  },
+  {
+   "manualId": "813230",
+   "slug": "Goodman-Gmh95",
+   "title": "GCH9 installation instructions manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "GCH9",
+   "extraModels": [
+    "GCH9"
+   ],
+   "url": "https://www.manualslib.com/manual/813230/Goodman-Gmh95.html"
+  },
+  {
+   "manualId": "483765",
+   "slug": "Goodman-Gch9",
+   "title": "GCH9 Technical manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "GCH9",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/483765/Goodman-Gch9.html"
+  },
+  {
+   "manualId": "688502",
+   "slug": "Goodman-Gmh95",
+   "title": "GCH91155DX Product specifications",
+   "type": "Other",
+   "pages": 13,
+   "productModel": "GCH91155DX",
+   "extraModels": [
+    "GCH91155DX",
+    "GCH95",
+    "GCH950453BX",
+    "GCH950703BX",
+    "GCH950704CX",
+    "GCH950904CX",
+    "GCH950905DX",
+    "GMH950453BXA",
+    "GMH950703BXA",
+    "GMH950704CXA",
+    "GMH950904CXA",
+    "GMH950905CXA",
+    "GMH951155DXA"
+   ],
+   "url": "https://www.manualslib.com/manual/688502/Goodman-Gmh95.html"
+  },
+  {
+   "manualId": "3106238",
+   "slug": "Goodman-Gmh95-0453bxa",
+   "title": "GCH93 1155DXA Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "GCH93 1155DXA",
+   "extraModels": [
+    "GCH93 1155DXA",
+    "GCH95",
+    "GCH95 0453BXA",
+    "GCH95 0703BXA",
+    "GCH95 0704CXA",
+    "GCH95 0904CXA",
+    "GCH95 0905DXA",
+    "GMH95 0703BXA",
+    "GMH95 0704CXA",
+    "GMH95 0904CXA",
+    "GMH95 0905CXA",
+    "GMH95 1155DXA"
+   ],
+   "url": "https://www.manualslib.com/manual/3106238/Goodman-Gmh95-0453bxa.html"
+  },
+  {
+   "manualId": "789980",
+   "slug": "Goodman-Gms9",
+   "title": "GCS9 installation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "GCS9",
+   "extraModels": [
+    "GCS9"
+   ],
+   "url": "https://www.manualslib.com/manual/789980/Goodman-Gms9.html"
+  },
+  {
+   "manualId": "793138",
+   "slug": "Goodman-Gms9",
+   "title": "GCS9 installation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "GCS9",
+   "extraModels": [
+    "GCS9"
+   ],
+   "url": "https://www.manualslib.com/manual/793138/Goodman-Gms9.html"
+  },
+  {
+   "manualId": "1039648",
+   "slug": "Goodman-Gcss960804cn",
+   "title": "GCSS960804CN User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "GCSS960804CN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1039648/Goodman-Gcss960804cn.html"
+  },
+  {
+   "manualId": "893730",
+   "slug": "Goodman-Gmv9",
+   "title": "GCV9 Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "GCV9 Series",
+   "extraModels": [
+    "GCV9 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/893730/Goodman-Gmv9.html"
+  },
+  {
+   "manualId": "736236",
+   "slug": "Goodman-Gmv95",
+   "title": "GCV9 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "GCV9 Series",
+   "extraModels": [
+    "GCV9 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/736236/Goodman-Gmv95.html"
+  },
+  {
+   "manualId": "817409",
+   "slug": "Goodman-Gmv9",
+   "title": "GCV9 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "GCV9 Series",
+   "extraModels": [
+    "GCV9 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/817409/Goodman-Gmv9.html"
+  },
+  {
+   "manualId": "919489",
+   "slug": "Goodman-Gmv95",
+   "title": "GCV9 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "GCV9 Series",
+   "extraModels": [
+    "GCV9 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/919489/Goodman-Gmv95.html"
+  },
+  {
+   "manualId": "808410",
+   "slug": "Goodman-Gmv950453bx-Series",
+   "title": "GCV9 Series Technical information manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "GCV9 Series",
+   "extraModels": [
+    "GCV9 Series",
+    "GCV90704CX Series",
+    "GCV90905DX Series",
+    "GCV91155DX Series",
+    "GMV950704CX Series",
+    "GMV950905DX Series",
+    "GMV951155DX Series"
+   ],
+   "url": "https://www.manualslib.com/manual/808410/Goodman-Gmv950453bx-Series.html"
+  },
+  {
+   "manualId": "2631622",
+   "slug": "Goodman-Gmvc800603b-A-Series",
+   "title": "GCVC800603B A Series Wiring diagram",
+   "type": "Parts & Wiring",
+   "pages": 10,
+   "productModel": "GCVC800603B A Series",
+   "extraModels": [
+    "GCVC800603B A Series",
+    "GCVC800803B A Series",
+    "GCVC800805C A Series",
+    "GCVC801005C A Series",
+    "GMVC800604BA Series",
+    "GMVC800803B A Series",
+    "GMVC800804C A Series",
+    "GMVC800805C A Series",
+    "GMVC800805D A Series",
+    "GMVC801005C A Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2631622/Goodman-Gmvc800603b-A-Series.html"
+  },
+  {
+   "manualId": "897814",
+   "slug": "Goodman-Gmvc950453bx",
+   "title": "GCVC91155DX Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "GCVC91155DX",
+   "extraModels": [
+    "GCVC91155DX",
+    "GCVC950714CX",
+    "GCVC950915DX",
+    "GMVC950704CX",
+    "GMVC950905CX",
+    "GMVC950905DX",
+    "GMVC951155DX"
+   ],
+   "url": "https://www.manualslib.com/manual/897814/Goodman-Gmvc950453bx.html"
+  },
+  {
+   "manualId": "3882435",
+   "slug": "Goodman-Gcvc96-Ba-Series",
+   "title": "GCVC96 BA Series Service and Troubleshooting",
+   "type": "Service",
+   "pages": 65,
+   "productModel": "GCVC96 BA Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3882435/Goodman-Gcvc96-Ba-Series.html"
+  },
+  {
+   "manualId": "557719",
+   "slug": "Goodman-Gmvm96",
+   "title": "GCVM96 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "GCVM96",
+   "extraModels": [
+    "GCVM96",
+    "GMVM960603BX",
+    "GMVM960805CX",
+    "GMVM961005DX",
+    "GMVM961155DX"
+   ],
+   "url": "https://www.manualslib.com/manual/557719/Goodman-Gmvm96.html"
+  },
+  {
+   "manualId": "3851796",
+   "slug": "Goodman-Gcvm97",
+   "title": "GCVM97 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "GCVM97",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3851796/Goodman-Gcvm97.html"
+  },
+  {
+   "manualId": "3183456",
+   "slug": "Goodman-Gcvm970803bn",
+   "title": "GCVM970803BN User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "GCVM970803BN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3183456/Goodman-Gcvm970803bn.html"
+  },
+  {
+   "manualId": "3940235",
+   "slug": "Goodman-Gd9s96",
+   "title": "GD9S96 Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "GD9S96",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3940235/Goodman-Gd9s96.html"
+  },
+  {
+   "manualId": "849214",
+   "slug": "Goodman-Gdh8-Series",
+   "title": "GDH8 Technical manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "GDH8",
+   "extraModels": [
+    "GDH80403A*A Series",
+    "GDH80403A*B Series",
+    "GDH80603A*A Series",
+    "GDH80603A*B Series",
+    "GDH80804B*A Series",
+    "GDH80804B*B Series",
+    "GDH81005C*A Series",
+    "GDH81005C*B Series"
+   ],
+   "url": "https://www.manualslib.com/manual/849214/Goodman-Gdh8-Series.html"
+  },
+  {
+   "manualId": "61581",
+   "slug": "Goodman-Gdh80453axca",
+   "title": "GDH80453AXCA repair parts",
+   "type": "Service",
+   "pages": 10,
+   "productModel": "GDH80453AXCA",
+   "extraModels": [
+    "GDH80453AXCB",
+    "GDH80703AXCA",
+    "GDH80703AXCB",
+    "GDH80904BXCA",
+    "GDH80904BXCB",
+    "GDH81155CXCA",
+    "GDH81155CXCB"
+   ],
+   "url": "https://www.manualslib.com/manual/61581/Goodman-Gdh80453axca.html"
+  },
+  {
+   "manualId": "4264919",
+   "slug": "Goodman-Gups050-2",
+   "title": "GDPI050-2 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "GDPI050-2",
+   "extraModels": [
+    "GDPI050-2",
+    "GDPI140-5",
+    "GDPS050-2",
+    "GDPS140-5",
+    "GDPX050-2B",
+    "GDPX120-5B",
+    "GUPI050-2",
+    "GUPI140-5",
+    "GUPS140-5",
+    "GUPX050-2B",
+    "GUPX120-5B"
+   ],
+   "url": "https://www.manualslib.com/manual/4264919/Goodman-Gups050-2.html"
+  },
+  {
+   "manualId": "1141179",
+   "slug": "Goodman-Gms8",
+   "title": "GDS8 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 30,
+   "productModel": "GDS8",
+   "extraModels": [
+    "GDS8",
+    "GHS8"
+   ],
+   "url": "https://www.manualslib.com/manual/1141179/Goodman-Gms8.html"
+  },
+  {
+   "manualId": "738470",
+   "slug": "Goodman-Gms8",
+   "title": "GDS8 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "GDS8",
+   "extraModels": [
+    "GDS8",
+    "GHS8"
+   ],
+   "url": "https://www.manualslib.com/manual/738470/Goodman-Gms8.html"
+  },
+  {
+   "manualId": "61604",
+   "slug": "Goodman-Gds8",
+   "title": "GDS8 Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "GDS8",
+   "extraModels": [
+    "GHS8",
+    "GMS8"
+   ],
+   "url": "https://www.manualslib.com/manual/61604/Goodman-Gds8.html"
+  },
+  {
+   "manualId": "689314",
+   "slug": "Goodman-Gms8",
+   "title": "GDS8 Product specifications",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "GDS8",
+   "extraModels": [
+    "GDS8",
+    "GDS80453AXB",
+    "GDS80703AXB",
+    "GDS80904BXB",
+    "GDS81155CXB",
+    "GHS8",
+    "GHS80453AXB",
+    "GHS80704BXB",
+    "GHS80905CXB",
+    "GMS80453ANB",
+    "GMS80703ANB",
+    "GMS80704BNB",
+    "GMS80904BNB",
+    "GMS80905CNB",
+    "GMS81155CNB",
+    "GMS81405DNB"
+   ],
+   "url": "https://www.manualslib.com/manual/689314/Goodman-Gms8.html"
+  },
+  {
+   "manualId": "808474",
+   "slug": "Goodman-Gds8",
+   "title": "GDS8 Technical information manual",
+   "type": "Other",
+   "pages": 23,
+   "productModel": "GDS8",
+   "extraModels": [
+    "GDS80453AN",
+    "GDS80703AN",
+    "GDS80904BN",
+    "GDS81155CN",
+    "GHS8",
+    "GHS80453AN",
+    "GHS80704BN",
+    "GHS80905CN",
+    "GMS8",
+    "GMS80704BN",
+    "GMS80905CN",
+    "GMS81405DN"
+   ],
+   "url": "https://www.manualslib.com/manual/808474/Goodman-Gds8.html"
+  },
+  {
+   "manualId": "704243",
+   "slug": "Goodman-Gds8",
+   "title": "GDS8 Technical manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "GDS8",
+   "extraModels": [
+    "GDS80453AXC",
+    "GDS80703AXC",
+    "GDS80904BXC",
+    "GDS81155CXC",
+    "GHS8",
+    "GHS80453AXC",
+    "GHS80704AXC",
+    "GHS81155CXC"
+   ],
+   "url": "https://www.manualslib.com/manual/704243/Goodman-Gds8.html"
+  },
+  {
+   "manualId": "800947",
+   "slug": "Goodman-Gds8",
+   "title": "GDS8 Technical manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "GDS8",
+   "extraModels": [
+    "GDS80403A",
+    "GDS80603A",
+    "GDS80804B",
+    "GDS81005C",
+    "GHS8",
+    "GHS80403A",
+    "GHS80604A",
+    "GHS80805C"
+   ],
+   "url": "https://www.manualslib.com/manual/800947/Goodman-Gds8.html"
+  },
+  {
+   "manualId": "61583",
+   "slug": "Goodman-Gds80453axca",
+   "title": "GDS80453AXCA repair parts",
+   "type": "Service",
+   "pages": 10,
+   "productModel": "GDS80453AXCA",
+   "extraModels": [
+    "GDS80453AXCB",
+    "GDS80703AXCA",
+    "GDS80703AXCB",
+    "GDS80904BXCA",
+    "GDS80904BXCB",
+    "GDS81155CXCA",
+    "GDS81155CXCB"
+   ],
+   "url": "https://www.manualslib.com/manual/61583/Goodman-Gds80453axca.html"
+  },
+  {
+   "manualId": "1084631",
+   "slug": "Goodman-Gdvc80703b",
+   "title": "GDVC80703B installation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "GDVC80703B",
+   "extraModels": [
+    "GDVC80905CX",
+    "GDVC81155CX",
+    "GMVC80704BX",
+    "GMVC80905CX",
+    "GMVC81155CX"
+   ],
+   "url": "https://www.manualslib.com/manual/1084631/Goodman-Gdvc80703b.html"
+  },
+  {
+   "manualId": "3678892",
+   "slug": "Goodman-Grvm97",
+   "title": "GDVM97 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "GDVM97",
+   "extraModels": [
+    "GDVM97"
+   ],
+   "url": "https://www.manualslib.com/manual/3678892/Goodman-Grvm97.html"
+  },
+  {
+   "manualId": "61584",
+   "slug": "Goodman-Ghs80453axca",
+   "title": "GHS80453AXCA repair parts",
+   "type": "Service",
+   "pages": 10,
+   "productModel": "GHS80453AXCA",
+   "extraModels": [
+    "GHS80453AXCB",
+    "GHS80704BXCA",
+    "GHS80704BXCB",
+    "GHS80905CXCA",
+    "GHS80905CXCB"
+   ],
+   "url": "https://www.manualslib.com/manual/61584/Goodman-Ghs80453axca.html"
+  },
+  {
+   "manualId": "483768",
+   "slug": "Goodman-Gks9",
+   "title": "GKS9 installation instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "GKS9",
+   "extraModels": [
+    "GKS90453BX",
+    "GKS90703BX",
+    "GKS90704CX",
+    "GKS90904CX",
+    "GKS90905DX",
+    "GKS91155DX"
+   ],
+   "url": "https://www.manualslib.com/manual/483768/Goodman-Gks9.html"
+  },
+  {
+   "manualId": "738450",
+   "slug": "Goodman-Gks9",
+   "title": "GKS9 installation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "GKS9",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/738450/Goodman-Gks9.html"
+  },
+  {
+   "manualId": "845532",
+   "slug": "Goodman-Gks9",
+   "title": "GKS9 installation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "GKS9",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/845532/Goodman-Gks9.html"
+  },
+  {
+   "manualId": "61585",
+   "slug": "Goodman-Gks9",
+   "title": "GKS9 Technical manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "GKS9",
+   "extraModels": [
+    "GKS90453BX",
+    "GKS90703BX",
+    "GKS90704CX",
+    "GKS90904CX",
+    "GKS90905DX",
+    "GKS91155DX"
+   ],
+   "url": "https://www.manualslib.com/manual/61585/Goodman-Gks9.html"
+  },
+  {
+   "manualId": "868532",
+   "slug": "Goodman-Gks9",
+   "title": "GKS9 Technical manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "GKS9",
+   "extraModels": [
+    "GKS90453BX",
+    "GKS90703BX",
+    "GKS90704CX",
+    "GKS90904CX",
+    "GKS90905DX",
+    "GKS91155DX"
+   ],
+   "url": "https://www.manualslib.com/manual/868532/Goodman-Gks9.html"
+  },
+  {
+   "manualId": "2551932",
+   "slug": "Goodman-Gm9s80-U-Series",
+   "title": "GM9S80-U Series Specification sheet",
+   "type": "Other",
+   "pages": 10,
+   "productModel": "GM9S80-U Series",
+   "extraModels": [
+    "GM9S800403AU",
+    "GM9S800603AU",
+    "GM9S800604BU",
+    "GM9S800804BU",
+    "GM9S800805CU"
+   ],
+   "url": "https://www.manualslib.com/manual/2551932/Goodman-Gm9s80-U-Series.html"
+  },
+  {
+   "manualId": "2599489",
+   "slug": "Goodman-Gm9s92",
+   "title": "GM9S92 Manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "GM9S92",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2599489/Goodman-Gm9s92.html"
+  },
+  {
+   "manualId": "738656",
+   "slug": "Goodman-Gme8",
+   "title": "GME8 installation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "GME8",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/738656/Goodman-Gme8.html"
+  },
+  {
+   "manualId": "61589",
+   "slug": "Goodman-Upflow-Horizontal-Gme8",
+   "title": "GME8 Technical manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "GME8",
+   "extraModels": [
+    "GME80703BXC Series",
+    "GME80905CXC Series",
+    "GME81155CXC Series"
+   ],
+   "url": "https://www.manualslib.com/manual/61589/Goodman-Upflow-Horizontal-Gme8.html"
+  },
+  {
+   "manualId": "803168",
+   "slug": "Goodman-Gme8",
+   "title": "GME8 Technical manual",
+   "type": "Other",
+   "pages": 19,
+   "productModel": "GME8",
+   "extraModels": [
+    "GME80603B Series",
+    "GME80805C Series",
+    "GME80805D Series",
+    "GME81005C Series"
+   ],
+   "url": "https://www.manualslib.com/manual/803168/Goodman-Gme8.html"
+  },
+  {
+   "manualId": "256359",
+   "slug": "Goodman-Ss-Gme8",
+   "title": "GME80603B Series Specifications",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "GME80603B Series",
+   "extraModels": [
+    "GME80603B Series",
+    "GME80805C Series",
+    "GME81005C Series"
+   ],
+   "url": "https://www.manualslib.com/manual/256359/Goodman-Ss-Gme8.html"
+  },
+  {
+   "manualId": "835727",
+   "slug": "Goodman-Gme95",
+   "title": "GME95 Technical manual",
+   "type": "Other",
+   "pages": 14,
+   "productModel": "GME95",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/835727/Goodman-Gme95.html"
+  },
+  {
+   "manualId": "2780231",
+   "slug": "Goodman-Gmec96-Series",
+   "title": "GMEC96 Manual",
+   "type": "Other",
+   "pages": 18,
+   "productModel": "GMEC96",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2780231/Goodman-Gmec96-Series.html"
+  },
+  {
+   "manualId": "919710",
+   "slug": "Goodman-Xmec96-Series",
+   "title": "GMEC96 user manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "GMEC96",
+   "extraModels": [
+    "GMEC96"
+   ],
+   "url": "https://www.manualslib.com/manual/919710/Goodman-Xmec96-Series.html"
+  },
+  {
+   "manualId": "1264011",
+   "slug": "Goodman-Gmec96",
+   "title": "GMEC96 User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "GMEC96",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1264011/Goodman-Gmec96.html"
+  },
+  {
+   "manualId": "4267935",
+   "slug": "Goodman-Gmes96",
+   "title": "GMES96 installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "GMES96",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4267935/Goodman-Gmes96.html"
+  },
+  {
+   "manualId": "3826528",
+   "slug": "Goodman-Gmh8-Series",
+   "title": "GMH8 Series Service instructions manual",
+   "type": "Service",
+   "pages": 62,
+   "productModel": "GMH8 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3826528/Goodman-Gmh8-Series.html"
+  },
+  {
+   "manualId": "916368",
+   "slug": "Goodman-Gmh80453an-Series",
+   "title": "GMH80453AN Series Technical manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "GMH80453AN Series",
+   "extraModels": [
+    "GMH80704BN Series",
+    "GMH80905CN Series",
+    "GMH81155CN Series",
+    "GMH81405DN Series"
+   ],
+   "url": "https://www.manualslib.com/manual/916368/Goodman-Gmh80453an-Series.html"
+  },
+  {
+   "manualId": "3829549",
+   "slug": "Goodman-Gmh80703an-Series",
+   "title": "GMH80703AN Series Technical manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "GMH80703AN Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3829549/Goodman-Gmh80703an-Series.html"
+  },
+  {
+   "manualId": "3829547",
+   "slug": "Goodman-Gmh80903bn-Series",
+   "title": "GMH80903BN Series Technical manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "GMH80903BN Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3829547/Goodman-Gmh80903bn-Series.html"
+  },
+  {
+   "manualId": "3829548",
+   "slug": "Goodman-Gmh80904bn-Series",
+   "title": "GMH80904BN Series Technical manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "GMH80904BN Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3829548/Goodman-Gmh80904bn-Series.html"
+  },
+  {
+   "manualId": "61588",
+   "slug": "Goodman-Gmh95",
+   "title": "GMH95 Technical manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "GMH95",
+   "extraModels": [
+    "GMH950453BXA",
+    "GMH950703BXA",
+    "GMH950704CXA",
+    "GMH950904CXA",
+    "GMH950905DXA",
+    "GMH951155DXA"
+   ],
+   "url": "https://www.manualslib.com/manual/61588/Goodman-Gmh95.html"
+  },
+  {
+   "manualId": "940734",
+   "slug": "Goodman-Gmh95",
+   "title": "GMH95 Technical manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "GMH95",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/940734/Goodman-Gmh95.html"
+  },
+  {
+   "manualId": "764363",
+   "slug": "Goodman-Gmn-Series",
+   "title": "GMN SERIES Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 26,
+   "productModel": "GMN SERIES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/764363/Goodman-Gmn-Series.html"
+  },
+  {
+   "manualId": "811263",
+   "slug": "Goodman-Gmnt",
+   "title": "GMNT Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "GMNT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/811263/Goodman-Gmnt.html"
+  },
+  {
+   "manualId": "752984",
+   "slug": "Goodman-Gmnte",
+   "title": "GMNTE Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 22,
+   "productModel": "GMNTE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/752984/Goodman-Gmnte.html"
+  },
+  {
+   "manualId": "803265",
+   "slug": "Goodman-Gmp",
+   "title": "GMP Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 45,
+   "productModel": "GMP Series",
+   "extraModels": [
+    "GMP Series",
+    "GMPE"
+   ],
+   "url": "https://www.manualslib.com/manual/803265/Goodman-Gmp.html"
+  },
+  {
+   "manualId": "863402",
+   "slug": "Goodman-Gmp-Series",
+   "title": "GMP Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "GMP Series",
+   "extraModels": [
+    "GMP050-32",
+    "GMP075-32",
+    "GMP100-42",
+    "GMP125-52",
+    "GMP150-52"
+   ],
+   "url": "https://www.manualslib.com/manual/863402/Goodman-Gmp-Series.html"
+  },
+  {
+   "manualId": "803966",
+   "slug": "Goodman-Gmpn",
+   "title": "GMPN Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "GMPN",
+   "extraModels": [
+    "GMPN Series",
+    "GMPN040",
+    "GMPN060",
+    "GMPN080",
+    "GMPN100",
+    "GMPN120"
+   ],
+   "url": "https://www.manualslib.com/manual/803966/Goodman-Gmpn.html"
+  },
+  {
+   "manualId": "638623",
+   "slug": "Goodman-Gmpn100",
+   "title": "GMPN040 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "GMPN040",
+   "extraModels": [
+    "GMPN040",
+    "GMPN060",
+    "GMPN080",
+    "GMPN120"
+   ],
+   "url": "https://www.manualslib.com/manual/638623/Goodman-Gmpn100.html"
+  },
+  {
+   "manualId": "2029768",
+   "slug": "Goodman-Gms8-Series",
+   "title": "GMS8 Technical manual",
+   "type": "Other",
+   "pages": 17,
+   "productModel": "GMS8",
+   "extraModels": [
+    "GMS80403A A Series",
+    "GMS80603A A Series",
+    "GMS80604B A Series",
+    "GMS80804B A Series",
+    "GMS80805C A Series",
+    "GMS81005C A Series",
+    "GMS81205D A Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2029768/Goodman-Gms8-Series.html"
+  },
+  {
+   "manualId": "703167",
+   "slug": "Goodman-Gms8",
+   "title": "GMS8 Technical manual",
+   "type": "Other",
+   "pages": 15,
+   "productModel": "GMS8",
+   "extraModels": [
+    "GMS80453ANC",
+    "GMS80703ANC",
+    "GMS80704BNC",
+    "GMS80904BNC",
+    "GMS80905CNC",
+    "GMS81155CNC",
+    "GMS81405DNC"
+   ],
+   "url": "https://www.manualslib.com/manual/703167/Goodman-Gms8.html"
+  },
+  {
+   "manualId": "3825240",
+   "slug": "Goodman-Gms80453an",
+   "title": "GMS80453AN Technical information manual",
+   "type": "Other",
+   "pages": 23,
+   "productModel": "GMS80453AN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3825240/Goodman-Gms80453an.html"
+  },
+  {
+   "manualId": "61605",
+   "slug": "Goodman-Gms80453ancc",
+   "title": "GMS80453ANCC repair parts",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "GMS80453ANCC",
+   "extraModels": [
+    "GMS80453AXCC",
+    "GMS80703ANCC",
+    "GMS80703AXCC",
+    "GMS80704BNCC",
+    "GMS80704BXCC",
+    "GMS80904BNCC",
+    "GMS80904BXCC",
+    "GMS80905CNCC",
+    "GMS80905CXCC",
+    "GMS81155CNCC",
+    "GMS81155CXCC",
+    "GMS81405DNCC"
+   ],
+   "url": "https://www.manualslib.com/manual/61605/Goodman-Gms80453ancc.html"
+  },
+  {
+   "manualId": "3825241",
+   "slug": "Goodman-Gms80703an",
+   "title": "GMS80703AN Technical information manual",
+   "type": "Other",
+   "pages": 23,
+   "productModel": "GMS80703AN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3825241/Goodman-Gms80703an.html"
+  },
+  {
+   "manualId": "3825242",
+   "slug": "Goodman-Gms80904bn",
+   "title": "GMS80904BN Technical information manual",
+   "type": "Other",
+   "pages": 23,
+   "productModel": "GMS80904BN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3825242/Goodman-Gms80904bn.html"
+  },
+  {
+   "manualId": "3825243",
+   "slug": "Goodman-Gms81155cn",
+   "title": "GMS81155CN Technical information manual",
+   "type": "Other",
+   "pages": 23,
+   "productModel": "GMS81155CN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3825243/Goodman-Gms81155cn.html"
+  },
+  {
+   "manualId": "61587",
+   "slug": "Goodman-Gms90453bxa",
+   "title": "GMS90453BXA repair parts",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "GMS90453BXA",
+   "extraModels": [
+    "GMS90703BXA",
+    "GMS90904CXA",
+    "GMS91155DXA",
+    "P1256801F",
+    "P1256802F",
+    "P1256804F",
+    "P1256806F",
+    "P1256807F",
+    "P1256808F",
+    "P1256809F"
+   ],
+   "url": "https://www.manualslib.com/manual/61587/Goodman-Gms90453bxa.html"
+  },
+  {
+   "manualId": "922086",
+   "slug": "Goodman-Gms95",
+   "title": "GMS95 installation instructions manual",
+   "type": "Installation",
+   "pages": 37,
+   "productModel": "GMS95",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/922086/Goodman-Gms95.html"
+  },
+  {
+   "manualId": "691376",
+   "slug": "Goodman-Gms95",
+   "title": "GMS95 Technical information manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "GMS95",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/691376/Goodman-Gms95.html"
+  },
+  {
+   "manualId": "4266352",
+   "slug": "Goodman-Gmss92",
+   "title": "GMSS92 installation instructions manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "GMSS92",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4266352/Goodman-Gmss92.html"
+  },
+  {
+   "manualId": "4268782",
+   "slug": "Goodman-Gmt",
+   "title": "GMT Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "GMT",
+   "extraModels": [
+    "GMTH"
+   ],
+   "url": "https://www.manualslib.com/manual/4268782/Goodman-Gmt.html"
+  },
+  {
+   "manualId": "856539",
+   "slug": "Goodman-Gmv8",
+   "title": "GMV8 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 34,
+   "productModel": "GMV8",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/856539/Goodman-Gmv8.html"
+  },
+  {
+   "manualId": "829116",
+   "slug": "Goodman-Gmv8",
+   "title": "GMV8 Technical information manual",
+   "type": "Other",
+   "pages": 19,
+   "productModel": "GMV8",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/829116/Goodman-Gmv8.html"
+  },
+  {
+   "manualId": "859225",
+   "slug": "Goodman-Gmv95",
+   "title": "GMV95 Series Technical information manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "GMV95 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/859225/Goodman-Gmv95.html"
+  },
+  {
+   "manualId": "3880305",
+   "slug": "Goodman-Gmvc80-Aa-Series",
+   "title": "GMVC80 AA Series Service and Troubleshooting",
+   "type": "Service",
+   "pages": 53,
+   "productModel": "GMVC80 AA Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3880305/Goodman-Gmvc80-Aa-Series.html"
+  },
+  {
+   "manualId": "3882436",
+   "slug": "Goodman-Gmvc96-Ba-Series",
+   "title": "GMVC96 BA Series Service and Troubleshooting",
+   "type": "Service",
+   "pages": 65,
+   "productModel": "GMVC96 BA Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3882436/Goodman-Gmvc96-Ba-Series.html"
+  },
+  {
+   "manualId": "256361",
+   "slug": "Goodman-Variable-Speed-Gas-Furnace-Gmvm96",
+   "title": "GMVM96 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "GMVM96",
+   "extraModels": [
+    "GMVM960603BX",
+    "GMVM960805CX",
+    "GMVM961005DX",
+    "GMVM961155DX"
+   ],
+   "url": "https://www.manualslib.com/manual/256361/Goodman-Variable-Speed-Gas-Furnace-Gmvm96.html"
+  },
+  {
+   "manualId": "1488540",
+   "slug": "Goodman-Gmvm97",
+   "title": "GMVM97 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "GMVM97",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1488540/Goodman-Gmvm97.html"
+  },
+  {
+   "manualId": "2336336",
+   "slug": "Goodman-Gmvs96-U",
+   "title": "GMVS96U quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": "GMVS96U",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2336336/Goodman-Gmvs96-U.html"
+  },
+  {
+   "manualId": "4242797",
+   "slug": "goodman-acst-series-hvac-air-handler-user-manual",
+   "title": "Goodman ACST Series HVAC Air Handler User Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4242797/goodman-acst-series-hvac-air-handler-user-manual.html"
+  },
+  {
+   "manualId": "4236445",
+   "slug": "goodman-ahve-series-air-handler-installation-and-operation-manual",
+   "title": "Goodman AHVE Series Air Handler Installation & Operation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4236445/goodman-ahve-series-air-handler-installation-and-operation-manual.html"
+  },
+  {
+   "manualId": "3390477",
+   "slug": "Goodman-Ahve-Series",
+   "title": "Goodman AHVE Series Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3390477/Goodman-Ahve-Series.html"
+  },
+  {
+   "manualId": "4238243",
+   "slug": "goodman-amvt-series-air-handler-product-specifications-manual",
+   "title": "Goodman AMVT Series Air Handler Product Specifications Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4238243/goodman-amvt-series-air-handler-product-specifications-manual.html"
+  },
+  {
+   "manualId": "3444342",
+   "slug": "Goodman-Amvt-Series",
+   "title": "Goodman AMVT Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": null,
+   "extraModels": [
+    "AMVT24BP1400",
+    "AMVT24BP1400BA",
+    "AMVT36BP1400",
+    "AMVT36CP1400",
+    "AMVT48CP1400BA",
+    "AMVT48DP1400",
+    "AMVT48DP1400BA",
+    "AMVT60DP1400BA"
+   ],
+   "url": "https://www.manualslib.com/manual/3444342/Goodman-Amvt-Series.html"
+  },
+  {
+   "manualId": "3486354",
+   "slug": "Goodman-Aruf-Series",
+   "title": "Goodman ARUF Series Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [
+    "ARUF25B14",
+    "ARUF29B14",
+    "ARUF31B14",
+    "ARUF37C14",
+    "ARUF37D14",
+    "ARUF43C14",
+    "ARUF43D14",
+    "ARUF47D14",
+    "ARUF49C14",
+    "ARUF49D14",
+    "ARUF61D14"
+   ],
+   "url": "https://www.manualslib.com/manual/3486354/Goodman-Aruf-Series.html"
+  },
+  {
+   "manualId": "61558",
+   "slug": "Goodman-Aruf172916ca",
+   "title": "Goodman ARUF172916CA Repair Parts",
+   "type": "Service",
+   "pages": 10,
+   "productModel": null,
+   "extraModels": [
+    "ARUF182416CA",
+    "ARUF193116CA",
+    "ARUF303016CA",
+    "ARUF363616CA",
+    "ARUF364216CA",
+    "ARUF374316CA",
+    "ARUF486016CA",
+    "ARUF496116CA"
+   ],
+   "url": "https://www.manualslib.com/manual/61558/Goodman-Aruf172916ca.html"
+  },
+  {
+   "manualId": "3456120",
+   "slug": "Goodman-Awst-Series",
+   "title": "Goodman AWST Series Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": null,
+   "extraModels": [
+    "AWST18-AWST24",
+    "AWST30-AWST36"
+   ],
+   "url": "https://www.manualslib.com/manual/3456120/Goodman-Awst-Series.html"
+  },
+  {
+   "manualId": "3905323",
+   "slug": "Goodman-Awst24-Su1405-Aa",
+   "title": "Goodman AWST24 SU1405 AA Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3905323/Goodman-Awst24-Su1405-Aa.html"
+  },
+  {
+   "manualId": "798118",
+   "slug": "Goodman-Condensing-Ac-Unit",
+   "title": "Goodman CONDENSING AC UNIT Installation & Service Reference",
+   "type": "Service",
+   "pages": 9,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/798118/Goodman-Condensing-Ac-Unit.html"
+  },
+  {
+   "manualId": "704360",
+   "slug": "Goodman-Condensing-Unit-Heat-Pump",
+   "title": "Goodman CONDENSING UNIT HEAT PUMP Installation & Service Reference",
+   "type": "Service",
+   "pages": 25,
+   "productModel": null,
+   "extraModels": [
+    "CONDENSING UNIT HEAT PUMP"
+   ],
+   "url": "https://www.manualslib.com/manual/704360/Goodman-Condensing-Unit-Heat-Pump.html"
+  },
+  {
+   "manualId": "1181786",
+   "slug": "Goodman-Dsxc160241aa-B",
+   "title": "Goodman DSXC160241AA/B Manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": null,
+   "extraModels": [
+    "ComfortNet DSXC160241AC",
+    "ComfortNet DSXC160361AC",
+    "DSXC160361AA/B",
+    "DSXC160481B*",
+    "DSXC160601B*"
+   ],
+   "url": "https://www.manualslib.com/manual/1181786/Goodman-Dsxc160241aa-B.html"
+  },
+  {
+   "manualId": "61586",
+   "slug": "Goodman-Gks90453bxaa",
+   "title": "Goodman GKS90453BXAA Repair Parts",
+   "type": "Service",
+   "pages": 12,
+   "productModel": null,
+   "extraModels": [
+    "GKS90453BXAB",
+    "GKS90453BXAC",
+    "GKS90703BXAA",
+    "GKS90703BXAB",
+    "GKS90703BXAC",
+    "GKS90703BXAD",
+    "GKS90703BXAE",
+    "GKS90704CXAA",
+    "GKS90704CXAB",
+    "GKS90704CXAC",
+    "GKS90904CXAA",
+    "GKS90904CXAB",
+    "GKS90904CXAC",
+    "GKS90904CXAD",
+    "GKS90904CXAE",
+    "GKS90905DXAA",
+    "GKS90905DXAB",
+    "GKS90905DXAC",
+    "GKS91155DXAA",
+    "GKS91155DXAB",
+    "GKS91155DXAC",
+    "GKS91155DXAD"
+   ],
+   "url": "https://www.manualslib.com/manual/61586/Goodman-Gks90453bxaa.html"
+  },
+  {
+   "manualId": "4097138",
+   "slug": "Goodman-Glzs4ba6010",
+   "title": "Goodman GLZS4BA6010 Installation & Service Reference",
+   "type": "Service",
+   "pages": 17,
+   "productModel": null,
+   "extraModels": [
+    "GLZS4BA4210",
+    "GLZS4BA4810"
+   ],
+   "url": "https://www.manualslib.com/manual/4097138/Goodman-Glzs4ba6010.html"
+  },
+  {
+   "manualId": "2559548",
+   "slug": "Goodman-Gm9s80",
+   "title": "Goodman GM9S80 Service And Troubleshooting",
+   "type": "Service",
+   "pages": 55,
+   "productModel": null,
+   "extraModels": [
+    "AC9S80",
+    "AM9S80",
+    "VC9S80",
+    "VM9S80"
+   ],
+   "url": "https://www.manualslib.com/manual/2559548/Goodman-Gm9s80.html"
+  },
+  {
+   "manualId": "2563472",
+   "slug": "Goodman-Gm9s96",
+   "title": "Goodman GM9S96 Manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2563472/Goodman-Gm9s96.html"
+  },
+  {
+   "manualId": "2398047",
+   "slug": "Goodman-Gmec96-Series",
+   "title": "Goodman GMEC96 Series Service And Troubleshooting",
+   "type": "Service",
+   "pages": 65,
+   "productModel": null,
+   "extraModels": [
+    "GCEC96",
+    "GCEC960403BNAA",
+    "GCEC960603BNAA",
+    "GCEC960803BNAA",
+    "GCEC961005BNAA",
+    "GMEC960302BNAB",
+    "GMEC960302BNAC",
+    "GMEC960303ANAA",
+    "GMEC960402BNAA",
+    "GMEC960402BNAB",
+    "GMEC960402BNAC",
+    "GMEC960403ANAA",
+    "GMEC960603ANAA",
+    "GMEC960603BNAA",
+    "GMEC960603BNAB",
+    "GMEC960603BNAC",
+    "GMEC960603BNBA",
+    "GMEC960803BNAA",
+    "GMEC960803BNAB",
+    "GMEC960803BNAC",
+    "GMEC960804CNAB",
+    "GMEC960804CNAC",
+    "GMEC961004CNAA",
+    "GMEC961004CNAB",
+    "GMEC961004CNAC",
+    "GMEC961005CNAB",
+    "GMEC961005CNAC",
+    "GMEC961205DNAA",
+    "GMEC961205DNAB",
+    "GMEC961205DNAC"
+   ],
+   "url": "https://www.manualslib.com/manual/2398047/Goodman-Gmec96-Series.html"
+  },
+  {
+   "manualId": "1993571",
+   "slug": "Goodman-Gmes80-Series",
+   "title": "Goodman GMES80 Series Service And Troubleshooting",
+   "type": "Service",
+   "pages": 53,
+   "productModel": null,
+   "extraModels": [
+    "ACES80 Series",
+    "ACES800403A",
+    "ACES800603A",
+    "ACES800804B",
+    "ACES800805C",
+    "ACES801005C",
+    "AMES80 Series",
+    "AMES800403A",
+    "AMES800603A",
+    "AMES800603B",
+    "AMES800604B",
+    "AMES800803B",
+    "AMES800804B",
+    "AMES800804C",
+    "AMES800805C",
+    "AMES801005C",
+    "AMES801205D",
+    "CES800403A",
+    "CES800603A",
+    "CES800804B",
+    "CES800805C",
+    "CES801005C",
+    "MES800403A",
+    "MES800603A",
+    "MES800603B",
+    "MES800604B",
+    "MES800803B",
+    "MES800804B",
+    "MES800804C",
+    "MES800805C",
+    "MES801005C",
+    "MES801205D",
+    "VCES80 Series",
+    "VMES80 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1993571/Goodman-Gmes80-Series.html"
+  },
+  {
+   "manualId": "3226824",
+   "slug": "Goodman-Gmvc95",
+   "title": "Goodman GMVC95 Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [
+    "ComfortNet GCVC9",
+    "ComfortNet GMVC950704CXAA",
+    "ComfortNet GMVC950905DXAA",
+    "ComfortNet GMVC951155DXAA",
+    "CVC90905DXAAG",
+    "CVC91155DXAA",
+    "GCVC90704CXAAG",
+    "GMVC950453BXAA"
+   ],
+   "url": "https://www.manualslib.com/manual/3226824/Goodman-Gmvc95.html"
+  },
+  {
+   "manualId": "3740728",
+   "slug": "Goodman-Gpch3-Series",
+   "title": "Goodman GPCH3 Series Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": null,
+   "extraModels": [
+    "GPCH3 2431",
+    "GPCH3 3031",
+    "GPCH3 3631",
+    "GPCH3 4231",
+    "GPCH3 4831",
+    "GPCH3 6031"
+   ],
+   "url": "https://www.manualslib.com/manual/3740728/Goodman-Gpch3-Series.html"
+  },
+  {
+   "manualId": "3557796",
+   "slug": "Goodman-Gr9s96",
+   "title": "Goodman GR9S96 Manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": null,
+   "extraModels": [
+    "GR9S960403AN",
+    "GR9S960603BN",
+    "GR9S960803BN",
+    "GR9S960804CN",
+    "GR9S960805CN",
+    "GR9S961005CN",
+    "GR9S961205DN"
+   ],
+   "url": "https://www.manualslib.com/manual/3557796/Goodman-Gr9s96.html"
+  },
+  {
+   "manualId": "1605403",
+   "slug": "Goodman-Gsc13-Series",
+   "title": "Goodman GSC13 Series Wiring Diagram",
+   "type": "Parts & Wiring",
+   "pages": 20,
+   "productModel": null,
+   "extraModels": [
+    "GSC130181G",
+    "GSC130241F",
+    "GSC130301E",
+    "GSC130361G",
+    "GSC130421C",
+    "GSC130481C",
+    "GSC130601D"
+   ],
+   "url": "https://www.manualslib.com/manual/1605403/Goodman-Gsc13-Series.html"
+  },
+  {
+   "manualId": "920672",
+   "slug": "Goodman-Gsx-Series",
+   "title": "Goodman GSX Series Installation & Operation Instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/920672/Goodman-Gsx-Series.html"
+  },
+  {
+   "manualId": "1124934",
+   "slug": "Goodman-Gsx13",
+   "title": "Goodman GSX13 Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1124934/Goodman-Gsx13.html"
+  },
+  {
+   "manualId": "3484811",
+   "slug": "Goodman-Gsx13-Series",
+   "title": "Goodman GSX13 Series Manual",
+   "type": "Other",
+   "pages": 22,
+   "productModel": null,
+   "extraModels": [
+    "GSX13 0181E",
+    "GSX13 0241E",
+    "GSX13 0301B",
+    "GSX13 0301L",
+    "GSX13 0361E",
+    "GSX13 0421B",
+    "GSX13 0481B",
+    "GSX13 0601B",
+    "GSX13 0611A",
+    "GSX130181A Series",
+    "GSX130601"
+   ],
+   "url": "https://www.manualslib.com/manual/3484811/Goodman-Gsx13-Series.html"
+  },
+  {
+   "manualId": "1357057",
+   "slug": "Goodman-Gsx14-0181l",
+   "title": "Goodman GSX14 0181L Manual",
+   "type": "Other",
+   "pages": 76,
+   "productModel": null,
+   "extraModels": [
+    "GSX14 0191K",
+    "GSX14 0241L",
+    "GSX14 0251L",
+    "GSX14 0301K",
+    "GSX14 0311K",
+    "GSX14 0361K",
+    "GSX14 0371K",
+    "GSX14 0421K",
+    "GSX14 0431K",
+    "GSX14 0481K",
+    "GSX14 0601K"
+   ],
+   "url": "https://www.manualslib.com/manual/1357057/Goodman-Gsx14-0181l.html"
+  },
+  {
+   "manualId": "1481835",
+   "slug": "Goodman-Gsz14",
+   "title": "Goodman GSZ14 Manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1481835/Goodman-Gsz14.html"
+  },
+  {
+   "manualId": "1839201",
+   "slug": "Goodman-Gsz16",
+   "title": "Goodman GSZ16 Installation & Service Reference",
+   "type": "Service",
+   "pages": 13,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1839201/Goodman-Gsz16.html"
+  },
+  {
+   "manualId": "1326591",
+   "slug": "Goodman-Tstatg2111-2",
+   "title": "Goodman TSTATG2111-2 Owner's Manual And Installation Instructions",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1326591/Goodman-Tstatg2111-2.html"
+  },
+  {
+   "manualId": "1061759",
+   "slug": "Goodman-Tstatg4272gt",
+   "title": "Goodman TSTATG4272GT Owner's Manual And Installation Instructions",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1061759/Goodman-Tstatg4272gt.html"
+  },
+  {
+   "manualId": "3490373",
+   "slug": "Goodman-Tstatg4273",
+   "title": "Goodman TSTATG4273 Owner's Manual And Installation Instructions",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3490373/Goodman-Tstatg4273.html"
+  },
+  {
+   "manualId": "1074767",
+   "slug": "Goodman-Gpc-M-Series",
+   "title": "GPC \"M\" Series installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "GPC \"M\" Series",
+   "extraModels": [
+    "GPH \"M\" Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1074767/Goodman-Gpc-M-Series.html"
+  },
+  {
+   "manualId": "1173987",
+   "slug": "Goodman-Gpc1336m41",
+   "title": "GPC 13 SEER H Series installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "GPC 13 SEER H Series",
+   "extraModels": [
+    "GPC 13 SEER H Series",
+    "GPC SERIES",
+    "GPC1336M21",
+    "GPC1336M43",
+    "GPC1348M21",
+    "GPC1348M41",
+    "GPC1348M43",
+    "GPC1360M21",
+    "GPC1360M41",
+    "GPC1360M43",
+    "GPH 13 M Series",
+    "GPH 13 SEER H Series",
+    "GPH1324M21",
+    "GPH1324M41",
+    "GPH1330M21",
+    "GPH1336M21",
+    "GPH1336M43 Series",
+    "GPH1342M41",
+    "GPH1348M21",
+    "GPH1348M43 Series",
+    "GPH1360M2",
+    "GPH1360M41",
+    "GPH1360M43 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1173987/Goodman-Gpc1336m41.html"
+  },
+  {
+   "manualId": "1180427",
+   "slug": "Goodman-Gpc-13-Seer-H-Series",
+   "title": "GPC 13 SEER H Series installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "GPC 13 SEER H Series",
+   "extraModels": [
+    "GPH 13 SEER H Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1180427/Goodman-Gpc-13-Seer-H-Series.html"
+  },
+  {
+   "manualId": "557721",
+   "slug": "Goodman-Gpc-14-Seer-R-410a",
+   "title": "GPC 14 SEER R-410A Technical manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "GPC 14 SEER R-410A",
+   "extraModels": [
+    "GPC1424H41A",
+    "GPC1430H41A",
+    "GPC1436H41A",
+    "GPC1442H41A",
+    "GPC1448H41A",
+    "GPC1460H41A Series"
+   ],
+   "url": "https://www.manualslib.com/manual/557721/Goodman-Gpc-14-Seer-R-410a.html"
+  },
+  {
+   "manualId": "750823",
+   "slug": "Goodman-Gpc-Series",
+   "title": "GPC SERIES Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "GPC SERIES",
+   "extraModels": [
+    "GPH 13 M Series"
+   ],
+   "url": "https://www.manualslib.com/manual/750823/Goodman-Gpc-Series.html"
+  },
+  {
+   "manualId": "2433770",
+   "slug": "Goodman-Gpc13-H-Series",
+   "title": "GPC13 M Series repair parts",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "GPC13 M Series",
+   "extraModels": [
+    "GPC13 M Series",
+    "GPC1324H41AB",
+    "GPC1330H41AB",
+    "GPC1336H41AB",
+    "GPC1342H41AB",
+    "GPC1349H41AA",
+    "GPC1360H41BB"
+   ],
+   "url": "https://www.manualslib.com/manual/2433770/Goodman-Gpc13-H-Series.html"
+  },
+  {
+   "manualId": "693863",
+   "slug": "Goodman-Gph13",
+   "title": "GPC13 M Series Service instructions manual",
+   "type": "Service",
+   "pages": 47,
+   "productModel": "GPC13 M Series",
+   "extraModels": [
+    "GPC13 M Series"
+   ],
+   "url": "https://www.manualslib.com/manual/693863/Goodman-Gph13.html"
+  },
+  {
+   "manualId": "703465",
+   "slug": "Goodman-Gpc13-M-Series",
+   "title": "GPC13 M Series Technical manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "GPC13 M Series",
+   "extraModels": [
+    "GPC1336M41A",
+    "GPC1348M41A",
+    "GPC1360M41A"
+   ],
+   "url": "https://www.manualslib.com/manual/703465/Goodman-Gpc13-M-Series.html"
+  },
+  {
+   "manualId": "3939845",
+   "slug": "Goodman-Gpc13",
+   "title": "GPC13 Service instructions manual",
+   "type": "Service",
+   "pages": 43,
+   "productModel": "GPC13",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3939845/Goodman-Gpc13.html"
+  },
+  {
+   "manualId": "728237",
+   "slug": "Goodman-Pc-13-Seer-R-410a",
+   "title": "GPC1324H41AA Technical manual",
+   "type": "Other",
+   "pages": 48,
+   "productModel": "GPC1324H41AA",
+   "extraModels": [
+    "GPC1324H41AA",
+    "GPC1330H41AA",
+    "GPC1336H41AA",
+    "GPC1342H41AA",
+    "GPC1348H41BA",
+    "GPC1360H41BA"
+   ],
+   "url": "https://www.manualslib.com/manual/728237/Goodman-Pc-13-Seer-R-410a.html"
+  },
+  {
+   "manualId": "256349",
+   "slug": "Goodman-Gpc13h",
+   "title": "GPC1324H41AC Specifications",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "GPC1324H41AC",
+   "extraModels": [
+    "GPC1324H41AC",
+    "GPC1330H41AA",
+    "GPC1330H41AC",
+    "GPC1336H41AA",
+    "GPC1336H41AC",
+    "GPC1342H41AC",
+    "GPC1348H41BA",
+    "GPC1349H41AB",
+    "GPC1360H41BA",
+    "GPC1360H41BC"
+   ],
+   "url": "https://www.manualslib.com/manual/256349/Goodman-Gpc13h.html"
+  },
+  {
+   "manualId": "3549768",
+   "slug": "Goodman-Gph13-H-1-Series",
+   "title": "GPC13H Service instructions manual",
+   "type": "Service",
+   "pages": 43,
+   "productModel": "GPC13H",
+   "extraModels": [
+    "GPC13H",
+    "GPH1324-30H21AC",
+    "GPH1324-48H21AB",
+    "GPH1324H21AD",
+    "GPH1330H21AD",
+    "GPH1336-42H21AC",
+    "GPH1336-42H21AD",
+    "GPH1336H21AE",
+    "GPH1342H21AE",
+    "GPH1348-60H21AC",
+    "GPH1348H21AD",
+    "GPH1360H21AA",
+    "GPH1360H21AD"
+   ],
+   "url": "https://www.manualslib.com/manual/3549768/Goodman-Gph13-H-1-Series.html"
+  },
+  {
+   "manualId": "61555",
+   "slug": "Goodman-13-Seer-Gpc13h",
+   "title": "GPC13H Specifications",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "GPC13H",
+   "extraModels": [
+    "GPC13H 13 SEER"
+   ],
+   "url": "https://www.manualslib.com/manual/61555/Goodman-13-Seer-Gpc13h.html"
+  },
+  {
+   "manualId": "61563",
+   "slug": "Goodman-Gpc1424h41ab",
+   "title": "GPC1424H41AB repair parts",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "GPC1424H41AB",
+   "extraModels": [
+    "GPC1430H41AB",
+    "GPC1436H41AB",
+    "GPC1442H41AB",
+    "GPC1448H41AB"
+   ],
+   "url": "https://www.manualslib.com/manual/61563/Goodman-Gpc1424h41ab.html"
+  },
+  {
+   "manualId": "256350",
+   "slug": "Goodman-Gpc14h",
+   "title": "GPC1424H41AC Specifications",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "GPC1424H41AC",
+   "extraModels": [
+    "GPC1424H41AC",
+    "GPC1430H41AC",
+    "GPC1436H41AC",
+    "GPC1442H41AC",
+    "GPC1448H41AC",
+    "GPC1460H41A Series"
+   ],
+   "url": "https://www.manualslib.com/manual/256350/Goodman-Gpc14h.html"
+  },
+  {
+   "manualId": "1179523",
+   "slug": "Goodman-Gph16",
+   "title": "GPC15 SEER installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "GPC15 SEER",
+   "extraModels": [
+    "GPC15 SEER",
+    "GPC1524H41",
+    "GPC1530H41",
+    "GPC1536H41",
+    "GPC1542H41",
+    "GPC1548H41",
+    "GPC1560H41",
+    "GPH1624H41",
+    "GPH1630H41",
+    "GPH1636H41",
+    "GPH1642H41",
+    "GPH1648H41"
+   ],
+   "url": "https://www.manualslib.com/manual/1179523/Goodman-Gph16.html"
+  },
+  {
+   "manualId": "61564",
+   "slug": "Goodman-Gpc15-Seer",
+   "title": "GPC15 SEER Technical manual",
+   "type": "Other",
+   "pages": 25,
+   "productModel": "GPC15 SEER",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/61564/Goodman-Gpc15-Seer.html"
+  },
+  {
+   "manualId": "2913886",
+   "slug": "Goodman-H-Series",
+   "title": "GPC1524H41 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "GPC1524H41",
+   "extraModels": [
+    "GPC1524H41",
+    "GPC1530H41",
+    "GPC1536H41",
+    "GPC1542H41",
+    "GPC1548H41",
+    "GPC1560H41",
+    "GPC15H",
+    "GPH1624H41",
+    "GPH1630H41",
+    "GPH1660H41",
+    "GPH16H"
+   ],
+   "url": "https://www.manualslib.com/manual/2913886/Goodman-H-Series.html"
+  },
+  {
+   "manualId": "3235826",
+   "slug": "Goodman-M-Series",
+   "title": "GPCM3 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "GPCM3 Series",
+   "extraModels": [
+    "GPCM3 Series",
+    "GPCM33041",
+    "GPCM33641",
+    "GPCM34841",
+    "PHM3 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3235826/Goodman-M-Series.html"
+  },
+  {
+   "manualId": "3925137",
+   "slug": "Goodman-Gpcm32441",
+   "title": "GPCM32441 installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "GPCM32441",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3925137/Goodman-Gpcm32441.html"
+  },
+  {
+   "manualId": "3925136",
+   "slug": "Goodman-Gpcm36041",
+   "title": "GPCM36041 installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "GPCM36041",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3925136/Goodman-Gpcm36041.html"
+  },
+  {
+   "manualId": "3825621",
+   "slug": "Goodman-Gpg-15",
+   "title": "GPG 15 Service instructions manual",
+   "type": "Service",
+   "pages": 63,
+   "productModel": "GPG 15",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3825621/Goodman-Gpg-15.html"
+  },
+  {
+   "manualId": "2436219",
+   "slug": "Goodman-Gpg-16-M-Series",
+   "title": "GPG 16 M Series installation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "GPG 16 M Series",
+   "extraModels": [
+    "GPG 16 M Series",
+    "GPG1624 M41 Series",
+    "GPG1630 M41 Series",
+    "GPG1636 M41 Series",
+    "GPG1642 M41 Series",
+    "GPG1648 M41 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2436219/Goodman-Gpg-16-M-Series.html"
+  },
+  {
+   "manualId": "807084",
+   "slug": "Goodman-Gpg10",
+   "title": "GPG10 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 21,
+   "productModel": "GPG10",
+   "extraModels": [
+    "GPG12"
+   ],
+   "url": "https://www.manualslib.com/manual/807084/Goodman-Gpg10.html"
+  },
+  {
+   "manualId": "2524565",
+   "slug": "Goodman-Gpg10360901a",
+   "title": "GPG10360901A User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "GPG10360901A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2524565/Goodman-Gpg10360901a.html"
+  },
+  {
+   "manualId": "483769",
+   "slug": "Goodman-Gpg13",
+   "title": "GPG13 Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "GPG13",
+   "extraModels": [
+    "GPG13241A",
+    "GPG13301A",
+    "GPG13361A",
+    "GPG13421A"
+   ],
+   "url": "https://www.manualslib.com/manual/483769/Goodman-Gpg13.html"
+  },
+  {
+   "manualId": "256351",
+   "slug": "Goodman-Gpg13m",
+   "title": "GPG1324045M41A Series Specifications",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "GPG1324045M41A Series",
+   "extraModels": [
+    "GPG1324045M41A Series",
+    "GPG1324070M41A Series",
+    "GPG1330045M41A Series",
+    "GPG1330070M41A Series",
+    "GPG1336045M41A Series",
+    "GPG1336045M41C Series",
+    "GPG1336070M41A Series",
+    "GPG1336070M41C Series",
+    "GPG1336090M41A Series",
+    "GPG1336090M41C Series",
+    "GPG1342070M41A Series",
+    "GPG1342090M41A Series",
+    "GPG1348070M41A Series",
+    "GPG1348090M41A",
+    "GPG1348115M41A",
+    "GPG1360090M41A",
+    "GPG1360115M41A",
+    "GPG1360140M41A"
+   ],
+   "url": "https://www.manualslib.com/manual/256351/Goodman-Gpg13m.html"
+  },
+  {
+   "manualId": "2378802",
+   "slug": "Goodman-Gpg13m",
+   "title": "GPG13M Manual",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "GPG13M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2378802/Goodman-Gpg13m.html"
+  },
+  {
+   "manualId": "3883580",
+   "slug": "Goodman-Gpg14-M-Series",
+   "title": "GPG14 M Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "GPG14 M Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3883580/Goodman-Gpg14-M-Series.html"
+  },
+  {
+   "manualId": "483771",
+   "slug": "Goodman-Pg-15-Seer-M-Series",
+   "title": "GPG152407041 installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "GPG152407041",
+   "extraModels": [
+    "GPG152407041",
+    "GPG153009041",
+    "GPG153709041",
+    "GPG154211541",
+    "GPG154911541",
+    "GPG156014041"
+   ],
+   "url": "https://www.manualslib.com/manual/483771/Goodman-Pg-15-Seer-M-Series.html"
+  },
+  {
+   "manualId": "2009546",
+   "slug": "Goodman-Gpg16-M-Series",
+   "title": "GPG16 M Series installation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "GPG16 M Series",
+   "extraModels": [
+    "GPG1660140M41"
+   ],
+   "url": "https://www.manualslib.com/manual/2009546/Goodman-Gpg16-M-Series.html"
+  },
+  {
+   "manualId": "1880836",
+   "slug": "Goodman-Gpg16",
+   "title": "GPG16 User's information manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "GPG16",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1880836/Goodman-Gpg16.html"
+  },
+  {
+   "manualId": "483770",
+   "slug": "Goodman-Gph-13-M-Series",
+   "title": "GPH 13 M Series Technical manual",
+   "type": "Other",
+   "pages": 29,
+   "productModel": "GPH 13 M Series",
+   "extraModels": [
+    "GPH 13 M Series",
+    "GPH1324M41AB",
+    "GPH1330M41AB",
+    "GPH1336M41AB",
+    "GPH1342M41AB",
+    "GPH1348M41AB",
+    "GPH1360M41AB"
+   ],
+   "url": "https://www.manualslib.com/manual/483770/Goodman-Gph-13-M-Series.html"
+  },
+  {
+   "manualId": "703914",
+   "slug": "Goodman-Gph-14-Seer-R-410a",
+   "title": "GPH 14 SEER R-410A Technical manual",
+   "type": "Other",
+   "pages": 28,
+   "productModel": "GPH 14 SEER R-410A",
+   "extraModels": [
+    "GPH1424H41AB",
+    "GPH1430H41AB",
+    "GPH1436H41AB",
+    "GPH1442H41AB",
+    "GPH1448H41AB",
+    "GPH1460H41AB"
+   ],
+   "url": "https://www.manualslib.com/manual/703914/Goodman-Gph-14-Seer-R-410a.html"
+  },
+  {
+   "manualId": "3939844",
+   "slug": "Goodman-Gph13-21a-Series",
+   "title": "GPH13 21A Series Service instructions manual",
+   "type": "Service",
+   "pages": 43,
+   "productModel": "GPH13 21A Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3939844/Goodman-Gph13-21a-Series.html"
+  },
+  {
+   "manualId": "61590",
+   "slug": "Goodman-Gph1324m41ab",
+   "title": "GPH1324M41AB repair parts",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "GPH1324M41AB",
+   "extraModels": [
+    "GPH1330M41AB",
+    "GPH1336M41AB",
+    "GPH1336M43AA",
+    "GPH1342M41AB",
+    "GPH1348M41AB",
+    "GPH1348M43AA",
+    "GPH1360M41AB",
+    "GPH1360M43AA"
+   ],
+   "url": "https://www.manualslib.com/manual/61590/Goodman-Gph1324m41ab.html"
+  },
+  {
+   "manualId": "3838677",
+   "slug": "Goodman-Gph1330m41",
+   "title": "GPH1330M41 installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "GPH1330M41",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3838677/Goodman-Gph1330m41.html"
+  },
+  {
+   "manualId": "3838678",
+   "slug": "Goodman-Gph1336m41",
+   "title": "GPH1336M41 installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "GPH1336M41",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3838678/Goodman-Gph1336m41.html"
+  },
+  {
+   "manualId": "256358",
+   "slug": "Goodman-Ss-Gph13mc",
+   "title": "GPH1336M43 Series Specifications",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "GPH1336M43 Series",
+   "extraModels": [
+    "GPH1336M43 Series",
+    "GPH1348M43 Series",
+    "GPH1360M43 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/256358/Goodman-Ss-Gph13mc.html"
+  },
+  {
+   "manualId": "256360",
+   "slug": "Goodman-Gph13m",
+   "title": "GPH1336M43 Series Specifications",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "GPH1336M43 Series",
+   "extraModels": [
+    "GPH1336M43 Series",
+    "GPH1360M43 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/256360/Goodman-Gph13m.html"
+  },
+  {
+   "manualId": "3838679",
+   "slug": "Goodman-Gph1348m41",
+   "title": "GPH1348M41 installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "GPH1348M41",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3838679/Goodman-Gph1348m41.html"
+  },
+  {
+   "manualId": "707146",
+   "slug": "Goodman-Gph13h",
+   "title": "GPH13H Specifications",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "GPH13H",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/707146/Goodman-Gph13h.html"
+  },
+  {
+   "manualId": "256362",
+   "slug": "Goodman-Gph14h",
+   "title": "GPH1424H41A Specifications",
+   "type": "Other",
+   "pages": 24,
+   "productModel": "GPH1424H41A",
+   "extraModels": [
+    "GPH1424H41A",
+    "GPH1430H41A",
+    "GPH1436H41A",
+    "GPH1442H41A",
+    "GPH1448H41A",
+    "GPH1460H41A"
+   ],
+   "url": "https://www.manualslib.com/manual/256362/Goodman-Gph14h.html"
+  },
+  {
+   "manualId": "61599",
+   "slug": "Goodman-Gph1424h41ab",
+   "title": "GPH1424H41AB repair parts",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "GPH1424H41AB",
+   "extraModels": [
+    "GPH1430H41AB",
+    "GPH1436H41AB",
+    "GPH1442H41AB",
+    "GPH1448H41AB",
+    "GPH1460H41AB"
+   ],
+   "url": "https://www.manualslib.com/manual/61599/Goodman-Gph1424h41ab.html"
+  },
+  {
+   "manualId": "1410144",
+   "slug": "Goodman-Gph1524m41",
+   "title": "GPH1524M41 installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "GPH1524M41",
+   "extraModels": [
+    "GPH1530M41",
+    "GPH1542M41",
+    "GPH1548M41",
+    "GPH1560M41"
+   ],
+   "url": "https://www.manualslib.com/manual/1410144/Goodman-Gph1524m41.html"
+  },
+  {
+   "manualId": "256365",
+   "slug": "Goodman-Gph15m",
+   "title": "GPH1524M41A Specifications",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "GPH1524M41A",
+   "extraModels": [
+    "GPH1524M41A",
+    "GPH1530M41A",
+    "GPH1536M41A",
+    "GPH1542M41A",
+    "GPH1543M41A",
+    "GPH1548M41A",
+    "GPH1549M41A",
+    "GPH1560M41A"
+   ],
+   "url": "https://www.manualslib.com/manual/256365/Goodman-Gph15m.html"
+  },
+  {
+   "manualId": "3848946",
+   "slug": "Goodman-Gph1536m41",
+   "title": "GPH1536M41 installation manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "GPH1536M41",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3848946/Goodman-Gph1536m41.html"
+  },
+  {
+   "manualId": "1903620",
+   "slug": "Goodman-Gph16-M-Series",
+   "title": "GPH16 M Series installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "GPH16 M Series",
+   "extraModels": [
+    "GPH1660M"
+   ],
+   "url": "https://www.manualslib.com/manual/1903620/Goodman-Gph16-M-Series.html"
+  },
+  {
+   "manualId": "1234163",
+   "slug": "Goodman-Gph1624m41",
+   "title": "GPH1624M41 installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "GPH1624M41",
+   "extraModels": [
+    "GPH1630M41",
+    "GPH1636M41",
+    "GPH1642M41",
+    "GPH1648M41"
+   ],
+   "url": "https://www.manualslib.com/manual/1234163/Goodman-Gph1624m41.html"
+  },
+  {
+   "manualId": "3909480",
+   "slug": "Goodman-Gph1636h41",
+   "title": "GPH1636H41 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "GPH1636H41",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3909480/Goodman-Gph1636h41.html"
+  },
+  {
+   "manualId": "3909481",
+   "slug": "Goodman-Gph1642h41",
+   "title": "GPH1642H41 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "GPH1642H41",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3909481/Goodman-Gph1642h41.html"
+  },
+  {
+   "manualId": "3909482",
+   "slug": "Goodman-Gph1648h41",
+   "title": "GPH1648H41 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "GPH1648H41",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3909482/Goodman-Gph1648h41.html"
+  },
+  {
+   "manualId": "807099",
+   "slug": "Goodman-Grl-Series",
+   "title": "GRL SERIES installation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "GRL SERIES",
+   "extraModels": [
+    "GRL-04",
+    "GRL-06",
+    "GRL-09"
+   ],
+   "url": "https://www.manualslib.com/manual/807099/Goodman-Grl-Series.html"
+  },
+  {
+   "manualId": "3678883",
+   "slug": "Goodman-Grvt80",
+   "title": "GRVT80 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "GRVT80",
+   "extraModels": [
+    "GDVT80"
+   ],
+   "url": "https://www.manualslib.com/manual/3678883/Goodman-Grvt80.html"
+  },
+  {
+   "manualId": "3678882",
+   "slug": "Goodman-Grvt96",
+   "title": "GRVT96 Manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "GRVT96",
+   "extraModels": [
+    "GDVT96"
+   ],
+   "url": "https://www.manualslib.com/manual/3678882/Goodman-Grvt96.html"
+  },
+  {
+   "manualId": "744722",
+   "slug": "Goodman-Gsc13-Seer",
+   "title": "GSC13 SEER Technical manual",
+   "type": "Other",
+   "pages": 49,
+   "productModel": "GSC13 SEER",
+   "extraModels": [
+    "GSC130181BB",
+    "GSC130181D",
+    "GSC130181F",
+    "GSC130241DB",
+    "GSC130241E",
+    "GSC130241F",
+    "GSC130301DB",
+    "GSC130301E",
+    "GSC130361F",
+    "GSC130361G",
+    "GSC130363BB",
+    "GSC130421BB",
+    "GSC130481BB",
+    "GSC130483BB",
+    "GSC130484BB",
+    "GSC130601CB",
+    "GSC130603BB",
+    "GSC130604BB"
+   ],
+   "url": "https://www.manualslib.com/manual/744722/Goodman-Gsc13-Seer.html"
+  },
+  {
+   "manualId": "799866",
+   "slug": "Goodman-Gsc13018",
+   "title": "GSC13018 Installation & service reference",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "GSC13018",
+   "extraModels": [
+    "GSC13030",
+    "GSC13036",
+    "GSC13048",
+    "GSC13060"
+   ],
+   "url": "https://www.manualslib.com/manual/799866/Goodman-Gsc13018.html"
+  },
+  {
+   "manualId": "816058",
+   "slug": "Goodman-Gsc130181a",
+   "title": "GSC130181A Technical manual",
+   "type": "Other",
+   "pages": 91,
+   "productModel": "GSC130181A",
+   "extraModels": [
+    "GSC130181B",
+    "GSC130181C",
+    "GSC130181D",
+    "GSC130241A",
+    "GSC130241D",
+    "GSC130241E",
+    "GSC130241F",
+    "GSC130301A",
+    "GSC130301C",
+    "GSC130301D",
+    "GSC130361D",
+    "GSC130361F",
+    "GSC130361G",
+    "GSC130363A",
+    "GSC130363B",
+    "GSC130421A",
+    "GSC130421B",
+    "GSC130481A",
+    "GSC130481B",
+    "GSC130483A",
+    "GSC130483B",
+    "GSC130484A",
+    "GSC130484B",
+    "GSC130601B",
+    "GSC130601C",
+    "GSC130603A",
+    "GSC130603B",
+    "GSC130604A",
+    "GSC130604B",
+    "VSC130181A",
+    "VSC130181B",
+    "VSC130241A",
+    "VSC130301A",
+    "VSC130301B",
+    "VSC130361A",
+    "VSC130361B",
+    "VSC130421A",
+    "VSC130481A",
+    "VSC130601A"
+   ],
+   "url": "https://www.manualslib.com/manual/816058/Goodman-Gsc130181a.html"
+  },
+  {
+   "manualId": "61606",
+   "slug": "Goodman-Remote-Condensing-Units-Gsc13",
+   "title": "GSC130181AB Repair Parts",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "GSC130181AB",
+   "extraModels": [
+    "GSC130181AB",
+    "GSC130181CA",
+    "GSC130241AB",
+    "GSC130301AB",
+    "GSC130361BB",
+    "GSC130361DA",
+    "GSC130361DB",
+    "GSC130361DF",
+    "GSC130361EA",
+    "GSC130361EB",
+    "GSC130363AB",
+    "GSC130363AC",
+    "GSC130421AB",
+    "GSC130481AB",
+    "GSC130481AC",
+    "GSC130483AB",
+    "GSC130483AC",
+    "GSC130484AB",
+    "GSC130601BB",
+    "GSC130601BC",
+    "GSC130603AB",
+    "GSC130603AC",
+    "GSC130604AB",
+    "GSC130604AC"
+   ],
+   "url": "https://www.manualslib.com/manual/61606/Goodman-Remote-Condensing-Units-Gsc13.html"
+  },
+  {
+   "manualId": "3824847",
+   "slug": "Goodman-Gsc13024",
+   "title": "GSC13024 Installation & service reference",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "GSC13024",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3824847/Goodman-Gsc13024.html"
+  },
+  {
+   "manualId": "3824848",
+   "slug": "Goodman-Gsc13042",
+   "title": "GSC13042 Installation & service reference",
+   "type": "Service",
+   "pages": 12,
+   "productModel": "GSC13042",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3824848/Goodman-Gsc13042.html"
+  },
+  {
+   "manualId": "61593",
+   "slug": "Goodman-Gsc140481a",
+   "title": "GSC140421A Technical information manual",
+   "type": "Other",
+   "pages": 25,
+   "productModel": "GSC140421A",
+   "extraModels": [
+    "GSC140421A",
+    "GSC140601A",
+    "GSH 14 SEER",
+    "GSH140181A",
+    "GSH140241A",
+    "GSH140301A",
+    "GSH140361A",
+    "GSH140421A",
+    "GSH140481A",
+    "GSH140601A",
+    "RT6213004"
+   ],
+   "url": "https://www.manualslib.com/manual/61593/Goodman-Gsc140481a.html"
+  },
+  {
+   "manualId": "1539089",
+   "slug": "Goodman-Gsh130181a-Series",
+   "title": "GSH 13 Series Technical information manual",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "GSH 13 Series",
+   "extraModels": [
+    "GSH130191A Series",
+    "GSH130241A Series",
+    "GSH130251A Series",
+    "GSH130301A Series",
+    "GSH130311A Series",
+    "GSH130361A Series",
+    "GSH130363A Series",
+    "GSH130421A Series",
+    "GSH130481A Series",
+    "GSH130483A Series",
+    "GSH130484A Series",
+    "GSH130601A Series",
+    "GSH130603A Series",
+    "GSH130604A Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1539089/Goodman-Gsh130181a-Series.html"
+  },
+  {
+   "manualId": "256363",
+   "slug": "Goodman-Ss-Gsh10c",
+   "title": "GSH100903A Specifications",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "GSH100903A",
+   "extraModels": [
+    "GSH100903A",
+    "GSH100903B",
+    "GSH101203A"
+   ],
+   "url": "https://www.manualslib.com/manual/256363/Goodman-Ss-Gsh10c.html"
+  },
+  {
+   "manualId": "61594",
+   "slug": "Goodman-Gsh-10-Seer",
+   "title": "GSH100903AA repair parts",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "GSH100903AA",
+   "extraModels": [
+    "GSH100903AA",
+    "GSH100903AB",
+    "GSH100904AA",
+    "GSH100904AB",
+    "GSH101203AA",
+    "GSH101203AB",
+    "GSH101204AA",
+    "GSH101204AB"
+   ],
+   "url": "https://www.manualslib.com/manual/61594/Goodman-Gsh-10-Seer.html"
+  },
+  {
+   "manualId": "813001",
+   "slug": "Goodman-Gsm",
+   "title": "GSM Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 29,
+   "productModel": "GSM",
+   "extraModels": [
+    "GSMS"
+   ],
+   "url": "https://www.manualslib.com/manual/813001/Goodman-Gsm.html"
+  },
+  {
+   "manualId": "745400",
+   "slug": "Goodman-Gsx-13-Seer",
+   "title": "GSX 13 SEER Technical manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "GSX 13 SEER",
+   "extraModels": [
+    "GSX130181A Series",
+    "GSX130181B Series",
+    "GSX130181C Series",
+    "GSX130181D Series",
+    "GSX130181E Series",
+    "GSX130241A Series",
+    "GSX130241B Series",
+    "GSX130241D Series",
+    "GSX130301A Series",
+    "GSX130301B Series",
+    "GSX130301D Series",
+    "GSX130361A Series",
+    "GSX130361B Series",
+    "GSX130361C Series",
+    "GSX130361D Series",
+    "GSX130361E Series",
+    "GSX130421A Series",
+    "GSX130421B Series",
+    "GSX130481A Series",
+    "GSX130481B Series",
+    "GSX130601A Series",
+    "GSX130601B Series",
+    "GSX130611A Series"
+   ],
+   "url": "https://www.manualslib.com/manual/745400/Goodman-Gsx-13-Seer.html"
+  },
+  {
+   "manualId": "61571",
+   "slug": "Goodman-Gsx",
+   "title": "GSX Series Technical manual",
+   "type": "Other",
+   "pages": 57,
+   "productModel": "GSX Series",
+   "extraModels": [
+    "GSX Series",
+    "GSX130181A Series",
+    "GSX130181B Series",
+    "GSX130181C Series",
+    "GSX130181D Series",
+    "GSX130181E Series",
+    "GSX130241A Series",
+    "GSX130241B Series",
+    "GSX130241D Series",
+    "GSX130301A Series",
+    "GSX130301B Series",
+    "GSX130301D Series",
+    "GSX130361A Series",
+    "GSX130361B Series",
+    "GSX130361D Series",
+    "GSX130421A Series",
+    "GSX130421B Series",
+    "GSX130481A Series",
+    "GSX130481B Series",
+    "GSX130601A Series"
+   ],
+   "url": "https://www.manualslib.com/manual/61571/Goodman-Gsx.html"
+  },
+  {
+   "manualId": "1225564",
+   "slug": "Goodman-Gsx160181f-Series",
+   "title": "GSX106611F Series Technical manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "GSX106611F Series",
+   "extraModels": [
+    "GSX106611F Series",
+    "GSX160241F Series",
+    "GSX160301F Series",
+    "GSX160361F Series",
+    "GSX160421F Series",
+    "GSX160481F Series",
+    "GSX160601F Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1225564/Goodman-Gsx160181f-Series.html"
+  },
+  {
+   "manualId": "1151559",
+   "slug": "Goodman-Gsx13",
+   "title": "GSX13 user manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "GSX13",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1151559/Goodman-Gsx13.html"
+  },
+  {
+   "manualId": "1195253",
+   "slug": "Goodman-Gsx13",
+   "title": "GSX13 user manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "GSX13",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1195253/Goodman-Gsx13.html"
+  },
+  {
+   "manualId": "3263264",
+   "slug": "Goodman-Gsz140311",
+   "title": "GSX130601 Installation & service reference",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "GSX130601",
+   "extraModels": [
+    "GSX130601",
+    "GSX130181",
+    "GSX130241",
+    "GSX130361",
+    "GSX130421",
+    "GSX130481",
+    "GSX140601",
+    "GSX160421"
+   ],
+   "url": "https://www.manualslib.com/manual/3263264/Goodman-Gsz140311.html"
+  },
+  {
+   "manualId": "3926595",
+   "slug": "Goodman-Gsx16s421",
+   "title": "GSX16S421 Installation & service reference",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "GSX16S421",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3926595/Goodman-Gsx16s421.html"
+  },
+  {
+   "manualId": "4266344",
+   "slug": "Goodman-Gsxc18",
+   "title": "GSXC18 Service instructions manual",
+   "type": "Service",
+   "pages": 108,
+   "productModel": "GSXC18",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4266344/Goodman-Gsxc18.html"
+  },
+  {
+   "manualId": "3489780",
+   "slug": "Goodman-Gsxs6-1-A-Series",
+   "title": "GSXS6 1 A Series installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "GSXS6 1 A Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3489780/Goodman-Gsxs6-1-A-Series.html"
+  },
+  {
+   "manualId": "761591",
+   "slug": "Goodman-Gsz-14-Seer",
+   "title": "GSZ 14 SEER Technical manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "GSZ 14 SEER",
+   "extraModels": [
+    "GSZ140181A",
+    "GSZ140241A",
+    "GSZ140301A",
+    "GSZ140361A",
+    "GSZ140421A",
+    "GSZ140481A",
+    "GSZ140601A"
+   ],
+   "url": "https://www.manualslib.com/manual/761591/Goodman-Gsz-14-Seer.html"
+  },
+  {
+   "manualId": "3829736",
+   "slug": "Goodman-Gsz-Series",
+   "title": "GSZ Series Installation & operation instructions",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "GSZ Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3829736/Goodman-Gsz-Series.html"
+  },
+  {
+   "manualId": "61597",
+   "slug": "Goodman-Gsz-Vsz-13-Seer",
+   "title": "GSZ/VSZ 13 SEER Technical manual",
+   "type": "Other",
+   "pages": 56,
+   "productModel": "GSZ/VSZ 13 SEER",
+   "extraModels": [
+    "GSZ130181A",
+    "GSZ130241A",
+    "GSZ130241B",
+    "GSZ130301A",
+    "GSZ130361A",
+    "GSZ130361B",
+    "GSZ130363A",
+    "GSZ130421A",
+    "GSZ130481A",
+    "GSZ130483A",
+    "GSZ130484A",
+    "GSZ130601A",
+    "GSZ130603A",
+    "GSZ130604A",
+    "VSZ130181A",
+    "VSZ130241A",
+    "VSZ130241B",
+    "VSZ130301A",
+    "VSZ130361A",
+    "VSZ130361B",
+    "VSZ130421A",
+    "VSZ130481A",
+    "VSZ130601A"
+   ],
+   "url": "https://www.manualslib.com/manual/61597/Goodman-Gsz-Vsz-13-Seer.html"
+  },
+  {
+   "manualId": "61595",
+   "slug": "Goodman-Gsz11",
+   "title": "GSZ11 repair parts",
+   "type": "Service",
+   "pages": 9,
+   "productModel": "GSZ11",
+   "extraModels": [
+    "GSZ110903AA",
+    "GSZ110904AA",
+    "GSZ111203AA",
+    "GSZ111204AA",
+    "GSZ11203AA",
+    "GSZ11204AA",
+    "GSZ11903AA",
+    "GSZ11904AA"
+   ],
+   "url": "https://www.manualslib.com/manual/61595/Goodman-Gsz11.html"
+  },
+  {
+   "manualId": "3937184",
+   "slug": "Goodman-Gszs6-1-A-Series",
+   "title": "GSZS6 1 A Series installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "GSZS6 1 A Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3937184/Goodman-Gszs6-1-A-Series.html"
+  },
+  {
+   "manualId": "2385848",
+   "slug": "Goodman-Gt4272",
+   "title": "GT4272 Owner's manual & installation manual",
+   "type": "Installation",
+   "pages": 93,
+   "productModel": "GT4272",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2385848/Goodman-Gt4272.html"
+  },
+  {
+   "manualId": "1031225",
+   "slug": "Goodman-Gt4273",
+   "title": "GT4273 owner's manual",
+   "type": "User / Owner",
+   "pages": 95,
+   "productModel": "GT4273",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1031225/Goodman-Gt4273.html"
+  },
+  {
+   "manualId": "3779971",
+   "slug": "Goodman-Gxv6s-1-A-Series",
+   "title": "GXV6S 1 A Series installation instructions manual",
+   "type": "Installation",
+   "pages": 61,
+   "productModel": "GXV6S 1 A Series",
+   "extraModels": [
+    "GXV6S 181 Series",
+    "GXV6S 241 Series",
+    "GXV6S 301 Series",
+    "GXV6S 361 Series",
+    "GXV6S 421 Series",
+    "GXV6S 481 Series",
+    "GXV6S 601 Series",
+    "GXV9SA 10A Series",
+    "GXV9SA2410",
+    "GXV9SA3610",
+    "GXV9SA4810",
+    "GZV6S 1 A Series",
+    "GZV6S 181 Series",
+    "GZV6S 241 Series",
+    "GZV6S 301 Series",
+    "GZV6S 361 Series",
+    "GZV6S 421 Series",
+    "GZV6S 481 Series",
+    "GZV6S 601 Series",
+    "GZV6SA3610",
+    "GZV7SA 10A Series",
+    "GZV7SA2410",
+    "GZV7SA3610",
+    "GZV7SA4210",
+    "GZV7SA4810"
+   ],
+   "url": "https://www.manualslib.com/manual/3779971/Goodman-Gxv6s-1-A-Series.html"
+  },
+  {
+   "manualId": "3967244",
+   "slug": "Goodman-Gxv6s-1-A-Series",
+   "title": "GXV6S 1 A Series Service instructions manual",
+   "type": "Service",
+   "pages": 137,
+   "productModel": "GXV6S 1 A Series",
+   "extraModels": [
+    "AHVE EEV Series",
+    "CAPEA Series",
+    "CHPEA EEV Series",
+    "GXV9SA 1 A Series",
+    "GZV6SA 1 A Series",
+    "GZV7SA 1 A Series"
+   ],
+   "url": "https://www.manualslib.com/manual/3967244/Goodman-Gxv6s-1-A-Series.html"
+  },
+  {
+   "manualId": "4612850",
+   "slug": "Goodman-Gzv9s-1-A-Series",
+   "title": "GXV9S 1 A Series installation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "GXV9S 1 A Series",
+   "extraModels": [
+    "GXV9S 1 A Series",
+    "GZV7S 1 A Series"
+   ],
+   "url": "https://www.manualslib.com/manual/4612850/Goodman-Gzv9s-1-A-Series.html"
+  },
+  {
+   "manualId": "1205611",
+   "slug": "Goodman-Hg31es",
+   "title": "HG31ES user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "HG31ES",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1205611/Goodman-Hg31es.html"
+  },
+  {
+   "manualId": "4416644",
+   "slug": "horizontal-two-way-coil-installation-instructions",
+   "title": "Horizontal Two-Way Coil Installation Instructions",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4416644/horizontal-two-way-coil-installation-instructions.html"
+  },
+  {
+   "manualId": "61565",
+   "slug": "Goodman-Io-Gsh14-Sp",
+   "title": "INSTALACIÓN Y REFERENCIA DE SERVICIO TÉCNICO",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/61565/Goodman-Io-Gsh14-Sp.html"
+  },
+  {
+   "manualId": "1431115",
+   "slug": "Goodman-Ac-18",
+   "title": "Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1431115/Goodman-Ac-18.html"
+  },
+  {
+   "manualId": "3554715",
+   "slug": "Goodman-Ah3043-1fr",
+   "title": "Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3554715/Goodman-Ah3043-1fr.html"
+  },
+  {
+   "manualId": "3569717",
+   "slug": "Goodman-Ah1826-1",
+   "title": "Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3569717/Goodman-Ah1826-1.html"
+  },
+  {
+   "manualId": "484019",
+   "slug": "Goodman-Msh-9-000",
+   "title": "Installation & operation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": null,
+   "extraModels": [
+    "12,000 BTUH",
+    "MSC 9,000",
+    "MSC Series",
+    "MSH Series"
+   ],
+   "url": "https://www.manualslib.com/manual/484019/Goodman-Msh-9-000.html"
+  },
+  {
+   "manualId": "1164259",
+   "slug": "Goodman-Gmu1620-A",
+   "title": "Installation and maintenance instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1164259/Goodman-Gmu1620-A.html"
+  },
+  {
+   "manualId": "796446",
+   "slug": "Goodman-A-Hepa650",
+   "title": "Installation And Maintenance Instructions",
+   "type": "Service",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/796446/Goodman-A-Hepa650.html"
+  },
+  {
+   "manualId": "862647",
+   "slug": "Goodman-Hum-Sftbp",
+   "title": "Installation and mounting manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/862647/Goodman-Hum-Sftbp.html"
+  },
+  {
+   "manualId": "61572",
+   "slug": "Goodman-Split-System-Condensing-Units-Io-101g",
+   "title": "Installation and operating instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/61572/Goodman-Split-System-Condensing-Units-Io-101g.html"
+  },
+  {
+   "manualId": "1474063",
+   "slug": "Goodman-Hks",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1474063/Goodman-Hks.html"
+  },
+  {
+   "manualId": "2962354",
+   "slug": "Goodman-Otdfpkg-01",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2962354/Goodman-Otdfpkg-01.html"
+  },
+  {
+   "manualId": "61602",
+   "slug": "Goodman-Hum-Fp",
+   "title": "installation instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/61602/Goodman-Hum-Fp.html"
+  },
+  {
+   "manualId": "1509108",
+   "slug": "Goodman-Awuf18",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1509108/Goodman-Awuf18.html"
+  },
+  {
+   "manualId": "61567",
+   "slug": "Goodman-Msg-12crn1",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/61567/Goodman-Msg-12crn1.html"
+  },
+  {
+   "manualId": "2643745",
+   "slug": "Goodman-Hamfk",
+   "title": "instructions",
+   "type": "User / Owner",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2643745/Goodman-Hamfk.html"
+  },
+  {
+   "manualId": "2510456",
+   "slug": "Goodman-Io-259u",
+   "title": "IO-259U Installation & service reference",
+   "type": "Service",
+   "pages": 17,
+   "productModel": "IO-259U",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2510456/Goodman-Io-259u.html"
+  },
+  {
+   "manualId": "2456108",
+   "slug": "Goodman-Io-402k",
+   "title": "IO-402K Installation & service reference",
+   "type": "Service",
+   "pages": 13,
+   "productModel": "IO-402K",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2456108/Goodman-Io-402k.html"
+  },
+  {
+   "manualId": "1541612",
+   "slug": "Goodman-Mbr",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1541612/Goodman-Mbr.html"
+  },
+  {
+   "manualId": "2780237",
+   "slug": "Goodman-Gm9s96-U-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2780237/Goodman-Gm9s96-U-Series.html"
+  },
+  {
+   "manualId": "2963635",
+   "slug": "Goodman-Aruf-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2963635/Goodman-Aruf-Series.html"
+  },
+  {
+   "manualId": "3670133",
+   "slug": "Goodman-Acst-Series",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3670133/Goodman-Acst-Series.html"
+  },
+  {
+   "manualId": "3701521",
+   "slug": "Goodman-Gmvs800604bua",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [
+    "GMVS960603BU AA",
+    "GMVS960805CU AA"
+   ],
+   "url": "https://www.manualslib.com/manual/3701521/Goodman-Gmvs800604bua.html"
+  },
+  {
+   "manualId": "2317094",
+   "slug": "Goodman-Maytag-Amana-A-Gpg14-M-Series",
+   "title": "Maytag Amana A/GPG14 M Series Installation & operating instructions manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "Maytag Amana A/GPG14 M Series",
+   "extraModels": [
+    "Maytag Amana PG1424040M41",
+    "Maytag Amana PG1424060M41",
+    "Maytag Amana PG1430040M41",
+    "Maytag Amana PG1430060M41",
+    "Maytag Amana PG1436040M41",
+    "Maytag Amana PG1436060M41",
+    "Maytag Amana PG1436080M41",
+    "Maytag Amana PG1442060M41",
+    "Maytag Amana PG1442080M41",
+    "Maytag Amana PG1448060M41",
+    "Maytag Amana PG1448080M41",
+    "Maytag Amana PG1448100M41",
+    "Maytag Amana PG1461080M41",
+    "Maytag Amana PG1461100M41",
+    "Maytag Amana PG1461120M41"
+   ],
+   "url": "https://www.manualslib.com/manual/2317094/Goodman-Maytag-Amana-A-Gpg14-M-Series.html"
+  },
+  {
+   "manualId": "1500926",
+   "slug": "Goodman-Mbe-Series",
+   "title": "MBE Series installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "MBE Series",
+   "extraModels": [
+    "MBE1200",
+    "MBE1600",
+    "MBE2000",
+    "MBR Series",
+    "MBR1200",
+    "MBR1600",
+    "MBR2000",
+    "MBR0800"
+   ],
+   "url": "https://www.manualslib.com/manual/1500926/Goodman-Mbe-Series.html"
+  },
+  {
+   "manualId": "2975311",
+   "slug": "Goodman-Mbr-Series",
+   "title": "MBE Series Technical information manual",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "MBE Series",
+   "extraModels": [
+    "MBE Series",
+    "MBE1200",
+    "MBE1600",
+    "MBE2000",
+    "MBR1200",
+    "MBR1600",
+    "MBR2000",
+    "MBR800"
+   ],
+   "url": "https://www.manualslib.com/manual/2975311/Goodman-Mbr-Series.html"
+  },
+  {
+   "manualId": "2091551",
+   "slug": "Goodman-Mbvc-1-Series",
+   "title": "MBVC 1 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "MBVC 1 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2091551/Goodman-Mbvc-1-Series.html"
+  },
+  {
+   "manualId": "61577",
+   "slug": "Goodman-Mbvc-Rt6223003",
+   "title": "MBVC RT6223003 Technical manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "MBVC RT6223003",
+   "extraModels": [
+    "MBVC1200AA-1AA",
+    "MBVC1600AA-1AA",
+    "MBVC2000AA-1AA"
+   ],
+   "url": "https://www.manualslib.com/manual/61577/Goodman-Mbvc-Rt6223003.html"
+  },
+  {
+   "manualId": "1131612",
+   "slug": "Goodman-Msc-15-Series",
+   "title": "MSC 15 Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "MSC 15 Series",
+   "extraModels": [
+    "MSC 19 Series",
+    "MSH 15 Series",
+    "MSH 19 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1131612/Goodman-Msc-15-Series.html"
+  },
+  {
+   "manualId": "683706",
+   "slug": "Goodman-Msg09crn1n",
+   "title": "MSG-12CRN1N repair parts",
+   "type": "Service",
+   "pages": 7,
+   "productModel": "MSG-12CRN1N",
+   "extraModels": [
+    "MSG-12CRN1N",
+    "MSG-18CRN1N",
+    "MSG-24CRN1N"
+   ],
+   "url": "https://www.manualslib.com/manual/683706/Goodman-Msg09crn1n.html"
+  },
+  {
+   "manualId": "811209",
+   "slug": "Goodman-Msg-12crn1n",
+   "title": "MSG-12CRN1N Service instructions manual",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "MSG-12CRN1N",
+   "extraModels": [
+    "MSG-12HRN1W",
+    "MSG-18CRN1N",
+    "MSG-18HRN1W",
+    "MSG-24CRN1N",
+    "MSG-24HRN1W"
+   ],
+   "url": "https://www.manualslib.com/manual/811209/Goodman-Msg-12crn1n.html"
+  },
+  {
+   "manualId": "3884801",
+   "slug": "Goodman-Msh123e21axaa",
+   "title": "MSH123E21AXAA owner's manual",
+   "type": "User / Owner",
+   "pages": 19,
+   "productModel": "MSH123E21AXAA",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3884801/Goodman-Msh123e21axaa.html"
+  },
+  {
+   "manualId": "3784895",
+   "slug": "Goodman-Oasis-Series",
+   "title": "Oasis NH25-36F owner's manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "Oasis NH25-36F",
+   "extraModels": [
+    "Oasis NH25-36F"
+   ],
+   "url": "https://www.manualslib.com/manual/3784895/Goodman-Oasis-Series.html"
+  },
+  {
+   "manualId": "599797",
+   "slug": "Goodman-Hum-Sftbp",
+   "title": "owner's manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/599797/Goodman-Hum-Sftbp.html"
+  },
+  {
+   "manualId": "806829",
+   "slug": "Goodman-Package-Terminal-Air-Conditioner-Heat-Pump",
+   "title": "PACKAGE TERMINAL AIR CONDITIONER/HEAT PUMP Installation instructions & owner's manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "PACKAGE TERMINAL AIR CONDITIONER/HEAT PUMP",
+   "extraModels": [
+    "PACKAGE TERMINAL AIR CONDITIONER/HEAT PUMP"
+   ],
+   "url": "https://www.manualslib.com/manual/806829/Goodman-Package-Terminal-Air-Conditioner-Heat-Pump.html"
+  },
+  {
+   "manualId": "1023937",
+   "slug": "Goodman-Pc-Series",
+   "title": "PC Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "PC Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1023937/Goodman-Pc-Series.html"
+  },
+  {
+   "manualId": "61569",
+   "slug": "Goodman-Ss-Pcb50",
+   "title": "PCB090-5 Product specifications",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "PCB090-5",
+   "extraModels": [
+    "PCB090-5",
+    "PCB120-5",
+    "PCB180-5"
+   ],
+   "url": "https://www.manualslib.com/manual/61569/Goodman-Ss-Pcb50.html"
+  },
+  {
+   "manualId": "2600308",
+   "slug": "Goodman-Pg1660",
+   "title": "PG1660 user manual",
+   "type": "User / Owner",
+   "pages": 12,
+   "productModel": "PG1660",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2600308/Goodman-Pg1660.html"
+  },
+  {
+   "manualId": "61575",
+   "slug": "Goodman-Ss-Pgbc50",
+   "title": "PGB090210-5 Especificaciones del Producto",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "PGB090210-5",
+   "extraModels": [
+    "PGB090210-5",
+    "PGB120245-5",
+    "PGB180245-5"
+   ],
+   "url": "https://www.manualslib.com/manual/61575/Goodman-Ss-Pgbc50.html"
+  },
+  {
+   "manualId": "1996787",
+   "slug": "Goodman-Ph-15-Seer-Series",
+   "title": "PH 15 SEER Series Technical manual",
+   "type": "Other",
+   "pages": 43,
+   "productModel": "PH 15 SEER Series",
+   "extraModels": [
+    "PH1524M41AC",
+    "PH1524M41AD",
+    "PH1530M41AC",
+    "PH1530M41AD",
+    "PH1536M41AC",
+    "PH1536M41AD",
+    "PH1543M41AC",
+    "PH1549M41AC",
+    "PH1549M41AD",
+    "PH1560M41AC",
+    "PH1560M41AD"
+   ],
+   "url": "https://www.manualslib.com/manual/1996787/Goodman-Ph-15-Seer-Series.html"
+  },
+  {
+   "manualId": "3833559",
+   "slug": "Goodman-Ph-Series",
+   "title": "PH Series Installation and operation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "PH Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3833559/Goodman-Ph-Series.html"
+  },
+  {
+   "manualId": "61548",
+   "slug": "Goodman-G1eac-Series",
+   "title": "Product specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/61548/Goodman-G1eac-Series.html"
+  },
+  {
+   "manualId": "61550",
+   "slug": "Goodman-Ggm-Series",
+   "title": "Product Specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/61550/Goodman-Ggm-Series.html"
+  },
+  {
+   "manualId": "61551",
+   "slug": "Goodman-Gsas-Series",
+   "title": "Product specifications",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/61551/Goodman-Gsas-Series.html"
+  },
+  {
+   "manualId": "61570",
+   "slug": "Goodman-Pc50",
+   "title": "Product specifications",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/61570/Goodman-Pc50.html"
+  },
+  {
+   "manualId": "2336310",
+   "slug": "Goodman-Gmvs80-U",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2336310/Goodman-Gmvs80-U.html"
+  },
+  {
+   "manualId": "2647363",
+   "slug": "Goodman-Acnf-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2647363/Goodman-Acnf-Series.html"
+  },
+  {
+   "manualId": "849844",
+   "slug": "Goodman-Gv102zrh-Series",
+   "title": "quick start manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/849844/Goodman-Gv102zrh-Series.html"
+  },
+  {
+   "manualId": "61561",
+   "slug": "Goodman-Avptc183014aa",
+   "title": "repair parts",
+   "type": "Service",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/61561/Goodman-Avptc183014aa.html"
+  },
+  {
+   "manualId": "61562",
+   "slug": "Goodman-Cklb18-1",
+   "title": "REPUESTOS",
+   "type": "Other",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/61562/Goodman-Cklb18-1.html"
+  },
+  {
+   "manualId": "61549",
+   "slug": "Goodman-Gdmhepa",
+   "title": "Specification sheet",
+   "type": "Other",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/61549/Goodman-Gdmhepa.html"
+  },
+  {
+   "manualId": "745745",
+   "slug": "Goodman-Ssx-14-Seer",
+   "title": "SSX 14 SEER Technical manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "SSX 14 SEER",
+   "extraModels": [
+    "SSX140181A Series",
+    "SSX140181B Series",
+    "SSX140241A Series",
+    "SSX140241B Series",
+    "SSX140301A Series",
+    "SSX140301B Series",
+    "SSX140361A Series",
+    "SSX140361B Series",
+    "SSX140421A Series",
+    "SSX140421B Series",
+    "SSX140421C Series",
+    "SSX140481A Series",
+    "SSX140481B Series",
+    "SSX140601A Series"
+   ],
+   "url": "https://www.manualslib.com/manual/745745/Goodman-Ssx-14-Seer.html"
+  },
+  {
+   "manualId": "3804768",
+   "slug": "Goodman-Ssx14",
+   "title": "SSX14 Service instructions manual",
+   "type": "Service",
+   "pages": 80,
+   "productModel": "SSX14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3804768/Goodman-Ssx14.html"
+  },
+  {
+   "manualId": "698213",
+   "slug": "Goodman-Ssx16",
+   "title": "SSX16 Product specifications",
+   "type": "Other",
+   "pages": 44,
+   "productModel": "SSX16",
+   "extraModels": [
+    "SSX160241B",
+    "SSX160301A",
+    "SSX160361B",
+    "SSX160421A",
+    "SSX160481B",
+    "SSX160591A"
+   ],
+   "url": "https://www.manualslib.com/manual/698213/Goodman-Ssx16.html"
+  },
+  {
+   "manualId": "61601",
+   "slug": "Goodman-Ssz-14-Seer",
+   "title": "SSZ 14 SEER Technical manual",
+   "type": "Other",
+   "pages": 39,
+   "productModel": "SSZ 14 SEER",
+   "extraModels": [
+    "SSZ140181A",
+    "SSZ140241A",
+    "SSZ140301A",
+    "SSZ140361A",
+    "SSZ140361B",
+    "SSZ140421A",
+    "SSZ140481A",
+    "SSZ140601A"
+   ],
+   "url": "https://www.manualslib.com/manual/61601/Goodman-Ssz-14-Seer.html"
+  },
+  {
+   "manualId": "747175",
+   "slug": "Goodman-Ssz-14-Seer",
+   "title": "SSZ 14 SEER Technical manual",
+   "type": "Other",
+   "pages": 39,
+   "productModel": "SSZ 14 SEER",
+   "extraModels": [
+    "SSZ140181A",
+    "SSZ140241A",
+    "SSZ140301A",
+    "SSZ140361A",
+    "SSZ140361B",
+    "SSZ140421A",
+    "SSZ140481A",
+    "SSZ140601A"
+   ],
+   "url": "https://www.manualslib.com/manual/747175/Goodman-Ssz-14-Seer.html"
+  },
+  {
+   "manualId": "754453",
+   "slug": "Goodman-Ssz-16-Seer",
+   "title": "SSZ 16 SEER Technical information manual",
+   "type": "Other",
+   "pages": 21,
+   "productModel": "SSZ 16 SEER",
+   "extraModels": [
+    "SSZ160241A Series",
+    "SSZ160361A Series",
+    "SSZ160481A Series",
+    "SSZ160601A Series"
+   ],
+   "url": "https://www.manualslib.com/manual/754453/Goodman-Ssz-16-Seer.html"
+  },
+  {
+   "manualId": "890264",
+   "slug": "Goodman-Ssz-16-Seer",
+   "title": "SSZ 16 SEER Technical manual",
+   "type": "Other",
+   "pages": 33,
+   "productModel": "SSZ 16 SEER",
+   "extraModels": [
+    "SSZ160241A Series",
+    "SSZ160361A Series",
+    "SSZ160481A Series",
+    "SSZ160601A Series",
+    "SSZ160601B Series"
+   ],
+   "url": "https://www.manualslib.com/manual/890264/Goodman-Ssz-16-Seer.html"
+  },
+  {
+   "manualId": "1245509",
+   "slug": "Goodman-Ssz14",
+   "title": "SSZ14 Manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "SSZ14",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1245509/Goodman-Ssz14.html"
+  },
+  {
+   "manualId": "1169681",
+   "slug": "Goodman-Ssz16",
+   "title": "SSZ16 Product specifications",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "SSZ16",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1169681/Goodman-Ssz16.html"
+  },
+  {
+   "manualId": "1179481",
+   "slug": "Goodman-Tstatg1100-2",
+   "title": "TSTATG1100-2 owner's manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "TSTATG1100-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1179481/Goodman-Tstatg1100-2.html"
+  },
+  {
+   "manualId": "765950",
+   "slug": "Goodman-Tstatg1152-2",
+   "title": "TSTATG1152-2 owner's manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "TSTATG1152-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/765950/Goodman-Tstatg1152-2.html"
+  },
+  {
+   "manualId": "798857",
+   "slug": "Goodman-Tstatg1152-2",
+   "title": "TSTATG1152-2 user manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "TSTATG1152-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/798857/Goodman-Tstatg1152-2.html"
+  },
+  {
+   "manualId": "3703838",
+   "slug": "Goodman-Tstatg2100",
+   "title": "TSTATG2100 owner's manual",
+   "type": "User / Owner",
+   "pages": 21,
+   "productModel": "TSTATG2100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3703838/Goodman-Tstatg2100.html"
+  },
+  {
+   "manualId": "604482",
+   "slug": "Goodman-Tstatg2100-2",
+   "title": "TSTATG2100-2 owner's manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "TSTATG2100-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/604482/Goodman-Tstatg2100-2.html"
+  },
+  {
+   "manualId": "995941",
+   "slug": "Goodman-Tstatg2100-2",
+   "title": "TSTATG2100-2 owner's manual",
+   "type": "User / Owner",
+   "pages": 22,
+   "productModel": "TSTATG2100-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/995941/Goodman-Tstatg2100-2.html"
+  },
+  {
+   "manualId": "789929",
+   "slug": "Goodman-Tstatg2111",
+   "title": "TSTATG2111 installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "TSTATG2111",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/789929/Goodman-Tstatg2111.html"
+  },
+  {
+   "manualId": "61611",
+   "slug": "Goodman-Tstatg2111",
+   "title": "TSTATG2111 owner's manual",
+   "type": "User / Owner",
+   "pages": 57,
+   "productModel": "TSTATG2111",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/61611/Goodman-Tstatg2111.html"
+  },
+  {
+   "manualId": "816199",
+   "slug": "Goodman-Tstatg2152-2",
+   "title": "TSTATG2152-2 installation instructions manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "TSTATG2152-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/816199/Goodman-Tstatg2152-2.html"
+  },
+  {
+   "manualId": "1059737",
+   "slug": "Goodman-Tstatg2152-2",
+   "title": "TSTATG2152-2 owner's manual",
+   "type": "User / Owner",
+   "pages": 41,
+   "productModel": "TSTATG2152-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1059737/Goodman-Tstatg2152-2.html"
+  },
+  {
+   "manualId": "628772",
+   "slug": "Goodman-Tstatg2152-2",
+   "title": "TSTATG2152-2 owner's manual",
+   "type": "User / Owner",
+   "pages": 25,
+   "productModel": "TSTATG2152-2",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/628772/Goodman-Tstatg2152-2.html"
+  },
+  {
+   "manualId": "893103",
+   "slug": "Goodman-Tstatg4271gt",
+   "title": "TSTATG4271GT owner's manual",
+   "type": "User / Owner",
+   "pages": 63,
+   "productModel": "TSTATG4271GT",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/893103/Goodman-Tstatg4271gt.html"
+  },
+  {
+   "manualId": "3034460",
+   "slug": "Goodman-Tstatg4272",
+   "title": "TSTATG4272 owner's manual",
+   "type": "User / Owner",
+   "pages": 41,
+   "productModel": "TSTATG4272",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3034460/Goodman-Tstatg4272.html"
+  },
+  {
+   "manualId": "3907417",
+   "slug": "Goodman-Tx2n4a",
+   "title": "TX2N4A Technical manual",
+   "type": "Other",
+   "pages": 12,
+   "productModel": "TX2N4A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3907417/Goodman-Tx2n4a.html"
+  },
+  {
+   "manualId": "2500023",
+   "slug": "Goodman-Upflow",
+   "title": "UPFLOW installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "UPFLOW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2500023/Goodman-Upflow.html"
+  },
+  {
+   "manualId": "651691",
+   "slug": "Goodman-Gmsg",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/651691/Goodman-Gmsg.html"
+  },
+  {
+   "manualId": "502368",
+   "slug": "Goodman-Hi-115a",
+   "title": "User's information manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/502368/Goodman-Hi-115a.html"
+  },
+  {
+   "manualId": "987678",
+   "slug": "Goodman-Xmvm97-Series",
+   "title": "xCVM97 Series installation instructions manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "xCVM97 Series",
+   "extraModels": [
+    "xCVM97 Series"
+   ],
+   "url": "https://www.manualslib.com/manual/987678/Goodman-Xmvm97-Series.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "4238243",
+   "slug": "goodman-amvt-series-air-handler-product-specifications-manual",
+   "title": "Goodman AMVT Series Air Handler Product Specifications Manual"
+  },
+  {
+   "manualId": "4416644",
+   "slug": "horizontal-two-way-coil-installation-instructions",
+   "title": "Horizontal Two-Way Coil Installation Instructions"
+  },
+  {
+   "manualId": "4236445",
+   "slug": "goodman-ahve-series-air-handler-installation-and-operation-manual",
+   "title": "Goodman AHVE Series Air Handler Installation & Operation Manual"
+  },
+  {
+   "manualId": "4242797",
+   "slug": "goodman-acst-series-hvac-air-handler-user-manual",
+   "title": "Goodman ACST Series HVAC Air Handler User Manual"
+  }
+ ]
+}

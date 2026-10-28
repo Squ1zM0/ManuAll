@@ -1,0 +1,2793 @@
+{
+ "brand": "Navien",
+ "brandSlug": "navien",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/navien/"
+ ],
+ "slugUsed": "navien",
+ "capturedAt": "2026-10-28T05:25:10.062502+00:00",
+ "typePages": [
+  {
+   "path": "/brand/navien/air-conditioner.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/air-handlers.html",
+   "manuals": 9,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/boiler.html",
+   "manuals": 392,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/boiler-supplies.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/cable-box.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/control-unit.html",
+   "manuals": 6,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/controller.html",
+   "manuals": 41,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/food-warmer.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/furnace.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/gas-heater.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/gateway.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/heat-pump.html",
+   "manuals": 15,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/heater.html",
+   "manuals": 14,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/heating-pad.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/heating-system.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/intercom-system.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/network-hardware.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/racks-and-stands.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/remote-control.html",
+   "manuals": 7,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/telephone.html",
+   "manuals": 4,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/thermostat.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/water-dispenser.html",
+   "manuals": 8,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/water-filtration-systems.html",
+   "manuals": 12,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/water-heater.html",
+   "manuals": 378,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/water-system.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/wireless-modules.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/navien/wireless-router.html",
+   "manuals": 2,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2229759",
+   "slug": "Navien-Nr-20du",
+   "title": "24AWE.CONTROL Manual",
+   "type": "Other",
+   "pages": 68,
+   "productModel": "24AWE.CONTROL",
+   "extraModels": [
+    "24AWE.CONTROL"
+   ],
+   "url": "https://www.manualslib.com/manual/2229759/Navien-Nr-20du.html"
+  },
+  {
+   "manualId": "4128358",
+   "slug": "Navien-Ncb500-15k",
+   "title": "41-709-09 Installation & operation manual",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "41-709-09",
+   "extraModels": [
+    "41-709-09",
+    "41-709-10",
+    "41-709-11",
+    "41-709-12",
+    "NCB500-18K",
+    "NCB500-24K",
+    "NCB500-30K"
+   ],
+   "url": "https://www.manualslib.com/manual/4128358/Navien-Ncb500-15k.html"
+  },
+  {
+   "manualId": "4153633",
+   "slug": "Navien-41-709-12g",
+   "title": "41-709-09 Installation & operation manual",
+   "type": "Installation",
+   "pages": 87,
+   "productModel": "41-709-09",
+   "extraModels": [
+    "41-709-09",
+    "41-709-10",
+    "41-709-11",
+    "NCB500",
+    "NCB500-15K",
+    "NCB500-18K",
+    "NCB500-24K",
+    "NCB500-30K"
+   ],
+   "url": "https://www.manualslib.com/manual/4153633/Navien-41-709-12g.html"
+  },
+  {
+   "manualId": "4179458",
+   "slug": "Navien-Ncb500-15k-System",
+   "title": "41-709-09 Service manual",
+   "type": "Service",
+   "pages": 112,
+   "productModel": "41-709-09",
+   "extraModels": [
+    "41-709-09",
+    "41-709-10",
+    "41-709-11",
+    "41-709-12",
+    "NCB500-18K",
+    "NCB500-24K",
+    "NCB500-30K"
+   ],
+   "url": "https://www.manualslib.com/manual/4179458/Navien-Ncb500-15k-System.html"
+  },
+  {
+   "manualId": "4128205",
+   "slug": "Navien-Ncb500-15k",
+   "title": "41-709-09 User's information manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "41-709-09",
+   "extraModels": [
+    "41-709-09",
+    "41-709-10",
+    "41-709-11",
+    "41-709-12",
+    "NCB500-18K",
+    "NCB500-24K",
+    "NCB500-30K"
+   ],
+   "url": "https://www.manualslib.com/manual/4128205/Navien-Ncb500-15k.html"
+  },
+  {
+   "manualId": "4161189",
+   "slug": "Navien-Ncb300-28k",
+   "title": "47-709-09 Service manual",
+   "type": "Service",
+   "pages": 111,
+   "productModel": "47-709-09",
+   "extraModels": [
+    "47-709-09",
+    "47-709-10",
+    "47-709-11",
+    "47-709-17",
+    "NCB300-30K",
+    "NCB300-37K",
+    "NCB300-41K"
+   ],
+   "url": "https://www.manualslib.com/manual/4161189/Navien-Ncb300-28k.html"
+  },
+  {
+   "manualId": "4153574",
+   "slug": "Navien-Ncb500-1sPlus-30k",
+   "title": "47-709-12 Installation & operation manual",
+   "type": "Installation",
+   "pages": 87,
+   "productModel": "47-709-12",
+   "extraModels": [
+    "47-709-12",
+    "47-709-13",
+    "47-709-14",
+    "47-709-18",
+    "NCB500-1S+/32K",
+    "NCB500-2S+/41K",
+    "NCB500-2S/37K"
+   ],
+   "url": "https://www.manualslib.com/manual/4153574/Navien-Ncb500-1sPlus-30k.html"
+  },
+  {
+   "manualId": "4172990",
+   "slug": "Navien-Ncb500-1sPlus-30k",
+   "title": "47-709-12 Service manual",
+   "type": "Service",
+   "pages": 124,
+   "productModel": "47-709-12",
+   "extraModels": [
+    "47-709-12",
+    "47-709-13",
+    "47-709-14",
+    "47-709-18",
+    "NCB500-1S+/32K",
+    "NCB500-2S+/41K",
+    "NCB500-2S/37K"
+   ],
+   "url": "https://www.manualslib.com/manual/4172990/Navien-Ncb500-1sPlus-30k.html"
+  },
+  {
+   "manualId": "1805315",
+   "slug": "Navien-Bcm-40rw",
+   "title": "BCM-40RW Installation & operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "BCM-40RW",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1805315/Navien-Bcm-40rw.html"
+  },
+  {
+   "manualId": "4127093",
+   "slug": "Navien-Bcm-41rw",
+   "title": "BCM-41RW Installation & operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "BCM-41RW",
+   "extraModels": [
+    "BCM-45RW"
+   ],
+   "url": "https://www.manualslib.com/manual/4127093/Navien-Bcm-41rw.html"
+  },
+  {
+   "manualId": "3621808",
+   "slug": "Navien-Carboncore-Eme511-Series",
+   "title": "CarbonCore EME511 Series user manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "CarbonCore EME511 Series",
+   "extraModels": [
+    "CarbonCore EME511-KP",
+    "CarbonCore EME511-QP",
+    "CarbonCore EME511-SP"
+   ],
+   "url": "https://www.manualslib.com/manual/3621808/Navien-Carboncore-Eme511-Series.html"
+  },
+  {
+   "manualId": "1397214",
+   "slug": "Navien-Cr-180",
+   "title": "CC-180 installation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "CC-180",
+   "extraModels": [
+    "CC-180",
+    "CC-180A",
+    "CC-210",
+    "CC-210(A)",
+    "CC-240",
+    "CC-240(A)",
+    "CR-180(A)",
+    "CR-210",
+    "CR-210(A)",
+    "CR-240",
+    "CR-240(A)"
+   ],
+   "url": "https://www.manualslib.com/manual/1397214/Navien-Cr-180.html"
+  },
+  {
+   "manualId": "990123",
+   "slug": "Navien-Cr-180",
+   "title": "CC-180 installation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "CC-180",
+   "extraModels": [
+    "CC-180",
+    "CC-180A",
+    "CC-210",
+    "CC-210(A)",
+    "CC-240",
+    "CC-240(A)",
+    "CR-180(A)",
+    "CR-210",
+    "CR-210(A)",
+    "CR-240",
+    "CR-240(A)"
+   ],
+   "url": "https://www.manualslib.com/manual/990123/Navien-Cr-180.html"
+  },
+  {
+   "manualId": "1010696",
+   "slug": "Navien-Cr-180",
+   "title": "CC-180 Owner's operation manual",
+   "type": "User / Owner",
+   "pages": 40,
+   "productModel": "CC-180",
+   "extraModels": [
+    "CC-180",
+    "CC-180A",
+    "CC-210",
+    "CC-210(A)",
+    "CC-240",
+    "CC-240(A)",
+    "CR-180(A)",
+    "CR-210",
+    "CR-210(A)",
+    "CR-240",
+    "CR-240(A)"
+   ],
+   "url": "https://www.manualslib.com/manual/1010696/Navien-Cr-180.html"
+  },
+  {
+   "manualId": "920631",
+   "slug": "Navien-Cr-180-A",
+   "title": "CC-180A Owner's operation manual",
+   "type": "User / Owner",
+   "pages": 41,
+   "productModel": "CC-180A",
+   "extraModels": [
+    "CC-180A",
+    "CC-210(A)",
+    "CC-240(A)",
+    "CR-210(A)",
+    "CR-240(A)"
+   ],
+   "url": "https://www.manualslib.com/manual/920631/Navien-Cr-180-A.html"
+  },
+  {
+   "manualId": "4260195",
+   "slug": "Navien-Ch-180",
+   "title": "CH-180 installation manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "CH-180",
+   "extraModels": [
+    "CH-210",
+    "CH-240"
+   ],
+   "url": "https://www.manualslib.com/manual/4260195/Navien-Ch-180.html"
+  },
+  {
+   "manualId": "810547",
+   "slug": "Navien-Ch-180",
+   "title": "CH-180 installation manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "CH-180",
+   "extraModels": [
+    "CH-210",
+    "CH-240"
+   ],
+   "url": "https://www.manualslib.com/manual/810547/Navien-Ch-180.html"
+  },
+  {
+   "manualId": "849252",
+   "slug": "Navien-Ch-180-Asme",
+   "title": "CH-180 installation manual",
+   "type": "Installation",
+   "pages": 84,
+   "productModel": "CH-180",
+   "extraModels": [
+    "CH-210",
+    "CH-240"
+   ],
+   "url": "https://www.manualslib.com/manual/849252/Navien-Ch-180-Asme.html"
+  },
+  {
+   "manualId": "836679",
+   "slug": "Navien-Ch-180",
+   "title": "CH-180 Operation manual",
+   "type": "Other",
+   "pages": 46,
+   "productModel": "CH-180",
+   "extraModels": [
+    "CH-210",
+    "CH-240"
+   ],
+   "url": "https://www.manualslib.com/manual/836679/Navien-Ch-180.html"
+  },
+  {
+   "manualId": "691294",
+   "slug": "Navien-Ch-180",
+   "title": "CH-180 Owner's operation manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "CH-180",
+   "extraModels": [
+    "CH-210",
+    "CH-240"
+   ],
+   "url": "https://www.manualslib.com/manual/691294/Navien-Ch-180.html"
+  },
+  {
+   "manualId": "764571",
+   "slug": "Navien-Ch-180",
+   "title": "CH-180 Service manual",
+   "type": "Service",
+   "pages": 155,
+   "productModel": "CH-180",
+   "extraModels": [
+    "CH-210",
+    "CH-240"
+   ],
+   "url": "https://www.manualslib.com/manual/764571/Navien-Ch-180.html"
+  },
+  {
+   "manualId": "756536",
+   "slug": "Navien-Ch-180-Asme",
+   "title": "CH-180 User's operation manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "CH-180",
+   "extraModels": [
+    "CH-210",
+    "CH-240"
+   ],
+   "url": "https://www.manualslib.com/manual/756536/Navien-Ch-180-Asme.html"
+  },
+  {
+   "manualId": "1239141",
+   "slug": "Navien-Comfort-Mate-Eqh-20wus",
+   "title": "COMFORT MATE EQH-20WUS installation instructions manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "COMFORT MATE EQH-20WUS",
+   "extraModels": [
+    "COMFORT MATE EQH-40WUS"
+   ],
+   "url": "https://www.manualslib.com/manual/1239141/Navien-Comfort-Mate-Eqh-20wus.html"
+  },
+  {
+   "manualId": "1748913",
+   "slug": "Navien-Mate-Eqm-350",
+   "title": "Comfort-Mate EQM 350 user manual",
+   "type": "User / Owner",
+   "pages": 68,
+   "productModel": "Comfort-Mate EQM 350",
+   "extraModels": [
+    "Comfort-Mate EQM 350"
+   ],
+   "url": "https://www.manualslib.com/manual/1748913/Navien-Mate-Eqm-350.html"
+  },
+  {
+   "manualId": "1522163",
+   "slug": "Navien-Comfort-Mate-Eqm301-Ssus",
+   "title": "Comfort-Mate EQM301-KSUS quick start manual",
+   "type": "Other",
+   "pages": 4,
+   "productModel": "Comfort-Mate EQM301-KSUS",
+   "extraModels": [
+    "Comfort-Mate EQM301-KSUS",
+    "Comfort-Mate EQM301-QSUS"
+   ],
+   "url": "https://www.manualslib.com/manual/1522163/Navien-Comfort-Mate-Eqm301-Ssus.html"
+  },
+  {
+   "manualId": "1330942",
+   "slug": "Navien-Comfort-Mate-Eqm301-Qsus",
+   "title": "Comfort-Mate EQM301-KSUS user manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "Comfort-Mate EQM301-KSUS",
+   "extraModels": [
+    "Comfort-Mate EQM301-KSUS",
+    "Comfort-Mate EQM301-SSUS"
+   ],
+   "url": "https://www.manualslib.com/manual/1330942/Navien-Comfort-Mate-Eqm301-Qsus.html"
+  },
+  {
+   "manualId": "4369712",
+   "slug": "Navien-Comfortcirc",
+   "title": "ComfortCirc Installation and operation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "ComfortCirc",
+   "extraModels": [
+    "NAP-10SS"
+   ],
+   "url": "https://www.manualslib.com/manual/4369712/Navien-Comfortcirc.html"
+  },
+  {
+   "manualId": "1169995",
+   "slug": "Navien-Kdb-535gtd",
+   "title": "DB-1535GPS installation manual",
+   "type": "Installation",
+   "pages": 36,
+   "productModel": "DB-1535GPS",
+   "extraModels": [
+    "DB-1535GPS",
+    "DB-2035GPS",
+    "KDB-1035GPD",
+    "KDB-1035GPG",
+    "KDB-1535GPD",
+    "KDB-1535GPG",
+    "KDB-2035GPD",
+    "KDB-2035GPG",
+    "KDB-535GPD",
+    "KDB-535GPS",
+    "KDB-535GTG",
+    "KDB-535GTS",
+    "KDB-735GPD",
+    "KDB-735GPS",
+    "KDB-735GTD",
+    "KDB-735GTG",
+    "KDB-735GTS"
+   ],
+   "url": "https://www.manualslib.com/manual/1169995/Navien-Kdb-535gtd.html"
+  },
+  {
+   "manualId": "2962790",
+   "slug": "Navien-Eme501",
+   "title": "EME501 user manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "EME501",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2962790/Navien-Eme501.html"
+  },
+  {
+   "manualId": "4148803",
+   "slug": "Navien-Wua500",
+   "title": "GWUA50005GND0001 Installation & operation manual",
+   "type": "Installation",
+   "pages": 25,
+   "productModel": "GWUA50005GND0001",
+   "extraModels": [
+    "GWUA50005GND0001",
+    "WUA500-05GND"
+   ],
+   "url": "https://www.manualslib.com/manual/4148803/Navien-Wua500.html"
+  },
+  {
+   "manualId": "2345104",
+   "slug": "Navien-H2air",
+   "title": "H2Air installation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "H2Air",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2345104/Navien-H2air.html"
+  },
+  {
+   "manualId": "1234820",
+   "slug": "Navien-Comfortmate-Eqh-20wus",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1234820/Navien-Comfortmate-Eqh-20wus.html"
+  },
+  {
+   "manualId": "2797586",
+   "slug": "Navien-G-002212-Series",
+   "title": "Installation Instructions",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2797586/Navien-G-002212-Series.html"
+  },
+  {
+   "manualId": "2331636",
+   "slug": "Navien-Peakflow-S-Gpwc110001ac001",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2331636/Navien-Peakflow-S-Gpwc110001ac001.html"
+  },
+  {
+   "manualId": "2786314",
+   "slug": "Navien-Peakflow-A",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2786314/Navien-Peakflow-A.html"
+  },
+  {
+   "manualId": "4038635",
+   "slug": "Navien-Peakflow-C",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4038635/Navien-Peakflow-C.html"
+  },
+  {
+   "manualId": "1412439",
+   "slug": "Navien-Hotbutton-Npe-Odc",
+   "title": "installation manual",
+   "type": "Installation",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1412439/Navien-Hotbutton-Npe-Odc.html"
+  },
+  {
+   "manualId": "1530811",
+   "slug": "Navien-Peakflowe-Gxxx001725",
+   "title": "Installation, operation and maintenance manual",
+   "type": "Service",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1530811/Navien-Peakflowe-Gxxx001725.html"
+  },
+  {
+   "manualId": "1689141",
+   "slug": "Navien-Kd-One-Uha-422sg-M",
+   "title": "KD One UHA-422SG/M user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "KD One UHA-422SG/M",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1689141/Navien-Kd-One-Uha-422sg-M.html"
+  },
+  {
+   "manualId": "1138745",
+   "slug": "Navien-Kdb-203-Stc",
+   "title": "KDB-203 STC instruction manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "KDB-203 STC",
+   "extraModels": [
+    "KDB-253 STC",
+    "KDB-353 STC"
+   ],
+   "url": "https://www.manualslib.com/manual/1138745/Navien-Kdb-203-Stc.html"
+  },
+  {
+   "manualId": "1835246",
+   "slug": "Navien-Lcb700-21rs",
+   "title": "LCB700-21LC Installation & operation manual",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "LCB700-21LC",
+   "extraModels": [
+    "LCB700-21LC",
+    "LCB700-21LCX",
+    "LCB700-21LS",
+    "LCB700-21LSX",
+    "LCB700-21RSX",
+    "LCB700-28LC",
+    "LCB700-28LCX",
+    "LCB700-28LS",
+    "LCB700-28LSX",
+    "LCB700-28RSX",
+    "LCB700-36LC",
+    "LCB700-36LCX",
+    "LCB700-36LS",
+    "LCB700-36LSX",
+    "LCB700-36RS",
+    "LCB700-36RSX"
+   ],
+   "url": "https://www.manualslib.com/manual/1835246/Navien-Lcb700-21rs.html"
+  },
+  {
+   "manualId": "4128256",
+   "slug": "Navien-Lcb700-21rs",
+   "title": "LCB700-21LC Service manual",
+   "type": "Service",
+   "pages": 143,
+   "productModel": "LCB700-21LC",
+   "extraModels": [
+    "LCB700-21LC",
+    "LCB700-21LCX",
+    "LCB700-21LS",
+    "LCB700-21LSX",
+    "LCB700-21RSX",
+    "LCB700-28LC",
+    "LCB700-28LCX",
+    "LCB700-28LS",
+    "LCB700-28LSX",
+    "LCB700-28RS",
+    "LCB700-28RSX",
+    "LCB700-36LC",
+    "LCB700-36LCX",
+    "LCB700-36LS",
+    "LCB700-36LSX",
+    "LCB700-36RS",
+    "LCB700-36RSX"
+   ],
+   "url": "https://www.manualslib.com/manual/4128256/Navien-Lcb700-21rs.html"
+  },
+  {
+   "manualId": "3866173",
+   "slug": "Navien-Lcb700-28rs",
+   "title": "LCB700-28RS Installation & operation manual",
+   "type": "Installation",
+   "pages": 96,
+   "productModel": "LCB700-28RS",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3866173/Navien-Lcb700-28rs.html"
+  },
+  {
+   "manualId": "2606534",
+   "slug": "Navien-Ll1gbq21-Navien-Ncn-Ce-21k",
+   "title": "LL1GBQ21-NAVIEN NCN CE 21K installation manual",
+   "type": "Installation",
+   "pages": 60,
+   "productModel": "LL1GBQ21-NAVIEN NCN CE 21K",
+   "extraModels": [
+    "LL1GBQ26-NAVIEN NCN CE 25K",
+    "LL1GBQ32-NAVIEN NCN CE 32K",
+    "LL1GBQ38-NAVIEN NCN CE 37K"
+   ],
+   "url": "https://www.manualslib.com/manual/2606534/Navien-Ll1gbq21-Navien-Ncn-Ce-21k.html"
+  },
+  {
+   "manualId": "1741917",
+   "slug": "Navien-Lonworks-Gateway",
+   "title": "LonWorks Gateway Installation & operation manual",
+   "type": "Installation",
+   "pages": 48,
+   "productModel": "LonWorks Gateway",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1741917/Navien-Lonworks-Gateway.html"
+  },
+  {
+   "manualId": "1878791",
+   "slug": "Navien-Lst-58k",
+   "title": "LST-58K instruction manual",
+   "type": "User / Owner",
+   "pages": 56,
+   "productModel": "LST-58K",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1878791/Navien-Lst-58k.html"
+  },
+  {
+   "manualId": "1831352",
+   "slug": "Navien-Ready-Link-Rack",
+   "title": "Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1831352/Navien-Ready-Link-Rack.html"
+  },
+  {
+   "manualId": "1748914",
+   "slug": "Navien-Mate-Eqm-580",
+   "title": "Mate EQM 580 user manual",
+   "type": "User / Owner",
+   "pages": 100,
+   "productModel": "Mate EQM 580",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1748914/Navien-Mate-Eqm-580.html"
+  },
+  {
+   "manualId": "3653932",
+   "slug": "Navien-Mate-Eqm582",
+   "title": "MATE EQM582 user manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "MATE EQM582",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3653932/Navien-Mate-Eqm582.html"
+  },
+  {
+   "manualId": "4577124",
+   "slug": "Navien-Modbus-Rtu",
+   "title": "Modbus RTU Installation & operation manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "Modbus RTU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4577124/Navien-Modbus-Rtu.html"
+  },
+  {
+   "manualId": "1741916",
+   "slug": "Navien-Modbus-Bacnet-Gateway",
+   "title": "Modbus/BACnet Gateway Installation & operation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "Modbus/BACnet Gateway",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1741916/Navien-Modbus-Bacnet-Gateway.html"
+  },
+  {
+   "manualId": "4553669",
+   "slug": "Navien-Nae-Series",
+   "title": "NAE Series Installation instructions manual",
+   "type": "Installation",
+   "pages": 70,
+   "productModel": "NAE Series",
+   "extraModels": [
+    "NAE28V36",
+    "NAE28V60"
+   ],
+   "url": "https://www.manualslib.com/manual/4553669/Navien-Nae-Series.html"
+  },
+  {
+   "manualId": "4644537",
+   "slug": "Navien-Nae-Series",
+   "title": "NAE Series Installation instructions manual",
+   "type": "Installation",
+   "pages": 77,
+   "productModel": "NAE Series",
+   "extraModels": [
+    "NAE28V3622A1-24K",
+    "NAE28V3622A1-36K",
+    "NAE28V6022A1-48K",
+    "NAE28V6022A1-60K"
+   ],
+   "url": "https://www.manualslib.com/manual/4644537/Navien-Nae-Series.html"
+  },
+  {
+   "manualId": "4080083",
+   "slug": "Navien-Nam-Series",
+   "title": "NAM Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "NAM Series",
+   "extraModels": [
+    "NAM24B",
+    "NAM36B",
+    "NAM36C",
+    "NAM48C",
+    "NAM59C",
+    "NAM59D"
+   ],
+   "url": "https://www.manualslib.com/manual/4080083/Navien-Nam-Series.html"
+  },
+  {
+   "manualId": "4080087",
+   "slug": "Navien-Nas-Series",
+   "title": "NAS Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "NAS Series",
+   "extraModels": [
+    "NASS 24B",
+    "NASS 36C",
+    "NASS 48D",
+    "NASS 59D",
+    "NASV 24B",
+    "NASV 36C",
+    "NASV 48D",
+    "NASV 59D"
+   ],
+   "url": "https://www.manualslib.com/manual/4080087/Navien-Nas-Series.html"
+  },
+  {
+   "manualId": "2940974",
+   "slug": "Navien-Navicirc",
+   "title": "NaviCirc Installation and operation manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "NaviCirc",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2940974/Navien-Navicirc.html"
+  },
+  {
+   "manualId": "1751861",
+   "slug": "Navien-Navicirc-Series",
+   "title": "NaviCirc Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 24,
+   "productModel": "NaviCirc Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1751861/Navien-Navicirc-Series.html"
+  },
+  {
+   "manualId": "4274338",
+   "slug": "navien-ncb-250-150h-boiler-installation-and-operation-manual",
+   "title": "Navien NCB-250/150H Boiler Installation and Operation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4274338/navien-ncb-250-150h-boiler-installation-and-operation-manual.html"
+  },
+  {
+   "manualId": "4246307",
+   "slug": "navien-nhb-055h-boiler-installation-and-operation-manual",
+   "title": "Navien NHB-055H boiler Installation and Operation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4246307/navien-nhb-055h-boiler-installation-and-operation-manual.html"
+  },
+  {
+   "manualId": "2863690",
+   "slug": "navien-nhb-150-condensing-boiler-manual",
+   "title": "Navien NHB-150 Condensing Boiler Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2863690/navien-nhb-150-condensing-boiler-manual.html"
+  },
+  {
+   "manualId": "4244704",
+   "slug": "navien-nhw700-water-heater-user-manual",
+   "title": "Navien NHW700 Water Heater User Manual",
+   "type": "User / Owner",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4244704/navien-nhw700-water-heater-user-manual.html"
+  },
+  {
+   "manualId": "2863689",
+   "slug": "navien-npe-180a-npe-240a-condensing-water-heater-manual",
+   "title": "Navien NPE-180A, NPE-240A Condensing Water Heater Manual",
+   "type": "Other",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2863689/navien-npe-180a-npe-240a-condensing-water-heater-manual.html"
+  },
+  {
+   "manualId": "4244491",
+   "slug": "navien-npe-180a2-water-heater-installation-manual",
+   "title": "Navien NPE-180A2 Water Heater Installation Manual",
+   "type": "Installation",
+   "pages": null,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4244491/navien-npe-180a2-water-heater-installation-manual.html"
+  },
+  {
+   "manualId": "3019731",
+   "slug": "Navien-Navilink-Lite",
+   "title": "NaviLink Lite user manual",
+   "type": "User / Owner",
+   "pages": 62,
+   "productModel": "NaviLink Lite",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3019731/Navien-Navilink-Lite.html"
+  },
+  {
+   "manualId": "1597396",
+   "slug": "Navien-Navilink",
+   "title": "NaviLink user manual",
+   "type": "User / Owner",
+   "pages": 44,
+   "productModel": "NaviLink",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1597396/Navien-Navilink.html"
+  },
+  {
+   "manualId": "4080333",
+   "slug": "Navien-Naz-Series",
+   "title": "NAZ Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 62,
+   "productModel": "NAZ Series",
+   "extraModels": [
+    "NAZ17V36-24K",
+    "NAZ17V36-36K",
+    "NAZ17V60-48K",
+    "NAZ17V60-60K"
+   ],
+   "url": "https://www.manualslib.com/manual/4080333/Navien-Naz-Series.html"
+  },
+  {
+   "manualId": "1998197",
+   "slug": "Navien-Nbh-Series",
+   "title": "NBH Series User's information manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "NBH Series",
+   "extraModels": [
+    "NHB-055",
+    "NHB-080",
+    "NHB-110",
+    "NHB-150"
+   ],
+   "url": "https://www.manualslib.com/manual/1998197/Navien-Nbh-Series.html"
+  },
+  {
+   "manualId": "4148845",
+   "slug": "Navien-Ncb-H-Series",
+   "title": "NCB H Series User's information manual",
+   "type": "User / Owner",
+   "pages": 64,
+   "productModel": "NCB H Series",
+   "extraModels": [
+    "NCB-190/060H",
+    "NCB-190/080H",
+    "NCB-240/110H",
+    "NCB-240/130H",
+    "NCB-250/150H"
+   ],
+   "url": "https://www.manualslib.com/manual/4148845/Navien-Ncb-H-Series.html"
+  },
+  {
+   "manualId": "1058172",
+   "slug": "Navien-Ncb-150e",
+   "title": "NCB-150E Installation & operation manual",
+   "type": "Installation",
+   "pages": 83,
+   "productModel": "NCB-150E",
+   "extraModels": [
+    "NCB-180E",
+    "NCB-210E",
+    "NCB-240E",
+    "NCB-E",
+    "NCB-E Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1058172/Navien-Ncb-150e.html"
+  },
+  {
+   "manualId": "1260413",
+   "slug": "Navien-Ncb-150e",
+   "title": "NCB-150E Installation & operation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "NCB-150E",
+   "extraModels": [
+    "NCB-180E",
+    "NCB-210E",
+    "NCB-240E"
+   ],
+   "url": "https://www.manualslib.com/manual/1260413/Navien-Ncb-150e.html"
+  },
+  {
+   "manualId": "1051955",
+   "slug": "Navien-Ncb-150e",
+   "title": "NCB-150E Quick installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NCB-150E",
+   "extraModels": [
+    "NCB-180E",
+    "NCB-210E",
+    "NCB-240E"
+   ],
+   "url": "https://www.manualslib.com/manual/1051955/Navien-Ncb-150e.html"
+  },
+  {
+   "manualId": "1059790",
+   "slug": "Navien-Ncb-150e",
+   "title": "NCB-150E Service manual",
+   "type": "Service",
+   "pages": 157,
+   "productModel": "NCB-150E",
+   "extraModels": [
+    "NCB-180E",
+    "NCB-210E",
+    "NCB-240E"
+   ],
+   "url": "https://www.manualslib.com/manual/1059790/Navien-Ncb-150e.html"
+  },
+  {
+   "manualId": "790769",
+   "slug": "Navien-Ncb-180",
+   "title": "NCB-180 Installation & operation manual",
+   "type": "Installation",
+   "pages": 77,
+   "productModel": "NCB-180",
+   "extraModels": [
+    "NCB-210",
+    "NCB-240"
+   ],
+   "url": "https://www.manualslib.com/manual/790769/Navien-Ncb-180.html"
+  },
+  {
+   "manualId": "1420852",
+   "slug": "Navien-Ncb-180",
+   "title": "NCB-180 Manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "NCB-180",
+   "extraModels": [
+    "NCB-210",
+    "NCB-240"
+   ],
+   "url": "https://www.manualslib.com/manual/1420852/Navien-Ncb-180.html"
+  },
+  {
+   "manualId": "1045815",
+   "slug": "Navien-Ncb-180",
+   "title": "NCB-180 Quick installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NCB-180",
+   "extraModels": [
+    "NCB-210",
+    "NCB-240"
+   ],
+   "url": "https://www.manualslib.com/manual/1045815/Navien-Ncb-180.html"
+  },
+  {
+   "manualId": "640498",
+   "slug": "Navien-Ncb-180ncb-210",
+   "title": "NCB-180 Quick installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NCB-180",
+   "extraModels": [
+    "NCB-240"
+   ],
+   "url": "https://www.manualslib.com/manual/640498/Navien-Ncb-180ncb-210.html"
+  },
+  {
+   "manualId": "733684",
+   "slug": "Navien-Ncb-180",
+   "title": "NCB-180 Service manual",
+   "type": "Service",
+   "pages": 149,
+   "productModel": "NCB-180",
+   "extraModels": [
+    "NCB-210",
+    "NCB-240"
+   ],
+   "url": "https://www.manualslib.com/manual/733684/Navien-Ncb-180.html"
+  },
+  {
+   "manualId": "1850482",
+   "slug": "Navien-Ncb-180",
+   "title": "NCB-180 User's information manual",
+   "type": "User / Owner",
+   "pages": 9,
+   "productModel": "NCB-180",
+   "extraModels": [
+    "NCB-210",
+    "NCB-240"
+   ],
+   "url": "https://www.manualslib.com/manual/1850482/Navien-Ncb-180.html"
+  },
+  {
+   "manualId": "801298",
+   "slug": "Navien-Ncb-180",
+   "title": "NCB-180 User's information manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "NCB-180",
+   "extraModels": [
+    "NCB-210",
+    "NCB-240"
+   ],
+   "url": "https://www.manualslib.com/manual/801298/Navien-Ncb-180.html"
+  },
+  {
+   "manualId": "2094574",
+   "slug": "Navien-Ncb-190-060h",
+   "title": "NCB-190/060H Installation & operation manual",
+   "type": "Installation",
+   "pages": 145,
+   "productModel": "NCB-190/060H",
+   "extraModels": [
+    "NCB-190/080H",
+    "NCB-240/110H",
+    "NCB-240/130H",
+    "NCB-250/150H",
+    "NCB-H Series"
+   ],
+   "url": "https://www.manualslib.com/manual/2094574/Navien-Ncb-190-060h.html"
+  },
+  {
+   "manualId": "4001836",
+   "slug": "Navien-Ncb-250-150h",
+   "title": "NCB-190/060H Installation & operation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NCB-190/060H",
+   "extraModels": [
+    "NCB-190/060H",
+    "NCB-190/080H",
+    "NCB-240/110H",
+    "NCB-240/130H"
+   ],
+   "url": "https://www.manualslib.com/manual/4001836/Navien-Ncb-250-150h.html"
+  },
+  {
+   "manualId": "3440276",
+   "slug": "Navien-Ncb-250-150h",
+   "title": "NCB-190/060H Quick installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NCB-190/060H",
+   "extraModels": [
+    "NCB-190/060H",
+    "NCB-190/080H",
+    "NCB-240/110H",
+    "NCB-240/130H"
+   ],
+   "url": "https://www.manualslib.com/manual/3440276/Navien-Ncb-250-150h.html"
+  },
+  {
+   "manualId": "2224995",
+   "slug": "Navien-Ncb-190-060h",
+   "title": "NCB-190/060H User's information manual",
+   "type": "User / Owner",
+   "pages": 31,
+   "productModel": "NCB-190/060H",
+   "extraModels": [
+    "NCB-190/080H",
+    "NCB-240/110H",
+    "NCB-240/130H",
+    "NCB-250/150H"
+   ],
+   "url": "https://www.manualslib.com/manual/2224995/Navien-Ncb-190-060h.html"
+  },
+  {
+   "manualId": "1539004",
+   "slug": "Navien-Ncb-20lhwe",
+   "title": "NCB-20LHWE Installation & operation manual",
+   "type": "Installation",
+   "pages": 80,
+   "productModel": "NCB-20LHWE",
+   "extraModels": [
+    "NCB-23LHWE",
+    "NCB-28LHWE",
+    "NCB-33LHWE"
+   ],
+   "url": "https://www.manualslib.com/manual/1539004/Navien-Ncb-20lhwe.html"
+  },
+  {
+   "manualId": "1502638",
+   "slug": "Navien-Ncb-24ldwe",
+   "title": "NCB-24LDWE Installation & operation manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "NCB-24LDWE",
+   "extraModels": [
+    "NCB-28LDWE",
+    "NCB-34LDWE",
+    "NCB-40LDWE"
+   ],
+   "url": "https://www.manualslib.com/manual/1502638/Navien-Ncb-24ldwe.html"
+  },
+  {
+   "manualId": "1247738",
+   "slug": "Navien-Ncb-24ldwe",
+   "title": "NCB-24LDWE User's information manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "NCB-24LDWE",
+   "extraModels": [
+    "NCB-28LDWE",
+    "NCB-34LDWE",
+    "NCB-40LDWE"
+   ],
+   "url": "https://www.manualslib.com/manual/1247738/Navien-Ncb-24ldwe.html"
+  },
+  {
+   "manualId": "965575",
+   "slug": "Navien-Ncb-24lswe",
+   "title": "NCB-24LSWE Installation & operation manual",
+   "type": "Installation",
+   "pages": 63,
+   "productModel": "NCB-24LSWE",
+   "extraModels": [
+    "NCB-28LSWE",
+    "NCB-34LSWE",
+    "NCB-40LSWE"
+   ],
+   "url": "https://www.manualslib.com/manual/965575/Navien-Ncb-24lswe.html"
+  },
+  {
+   "manualId": "1162342",
+   "slug": "Navien-Ncb-24lswe",
+   "title": "NCB-24LSWE Service manual",
+   "type": "Service",
+   "pages": 144,
+   "productModel": "NCB-24LSWE",
+   "extraModels": [
+    "NCB-28LSWE",
+    "NCB-34LSWE",
+    "NCB-40LSWE"
+   ],
+   "url": "https://www.manualslib.com/manual/1162342/Navien-Ncb-24lswe.html"
+  },
+  {
+   "manualId": "3650924",
+   "slug": "Navien-Ncb700-3s-54k",
+   "title": "NCB-700-2S+/42K Installation & operation manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "NCB-700-2S+/42K",
+   "extraModels": [
+    "NCB-700-2S+/42K"
+   ],
+   "url": "https://www.manualslib.com/manual/3650924/Navien-Ncb700-3s-54k.html"
+  },
+  {
+   "manualId": "2913810",
+   "slug": "Navien-Ncb-700-2sPlus-42k",
+   "title": "NCB-700-2S+/42K Service manual",
+   "type": "Service",
+   "pages": 121,
+   "productModel": "NCB-700-2S+/42K",
+   "extraModels": [
+    "NCB-700-3S/54K"
+   ],
+   "url": "https://www.manualslib.com/manual/2913810/Navien-Ncb-700-2sPlus-42k.html"
+  },
+  {
+   "manualId": "2913824",
+   "slug": "Navien-Ncb300-28k",
+   "title": "NCB300-28K Installation & operation manual",
+   "type": "Installation",
+   "pages": 82,
+   "productModel": "NCB300-28K",
+   "extraModels": [
+    "NCB300-37K",
+    "NCB300-41K"
+   ],
+   "url": "https://www.manualslib.com/manual/2913824/Navien-Ncb300-28k.html"
+  },
+  {
+   "manualId": "2913825",
+   "slug": "Navien-Ncb300-28k",
+   "title": "NCB300-28K Service manual",
+   "type": "Service",
+   "pages": 108,
+   "productModel": "NCB300-28K",
+   "extraModels": [
+    "NCB300-37K",
+    "NCB300-41K"
+   ],
+   "url": "https://www.manualslib.com/manual/2913825/Navien-Ncb300-28k.html"
+  },
+  {
+   "manualId": "2616074",
+   "slug": "Navien-Ncb500-1-5s-37k",
+   "title": "NCB500-1.5S/37K Installation & operation manual",
+   "type": "Installation",
+   "pages": 72,
+   "productModel": "NCB500-1.5S/37K",
+   "extraModels": [
+    "NCB500-2S/41K"
+   ],
+   "url": "https://www.manualslib.com/manual/2616074/Navien-Ncb500-1-5s-37k.html"
+  },
+  {
+   "manualId": "2913826",
+   "slug": "Navien-Ncb500-2s-37k",
+   "title": "NCB500-2S+/41K Service manual",
+   "type": "Service",
+   "pages": 118,
+   "productModel": "NCB500-2S+/41K",
+   "extraModels": [
+    "NCB500-2S+/41K"
+   ],
+   "url": "https://www.manualslib.com/manual/2913826/Navien-Ncb500-2s-37k.html"
+  },
+  {
+   "manualId": "2616022",
+   "slug": "Navien-Ncb700-24l",
+   "title": "NCB700-24L User's information manual",
+   "type": "User / Owner",
+   "pages": 17,
+   "productModel": "NCB700-24L",
+   "extraModels": [
+    "NCB700-28L",
+    "NCB700-34L",
+    "NCB700-40L"
+   ],
+   "url": "https://www.manualslib.com/manual/2616022/Navien-Ncb700-24l.html"
+  },
+  {
+   "manualId": "2926517",
+   "slug": "Navien-Ncb700-2s-Plus-42k",
+   "title": "NCB700-2S Plus 42K Installation & operation manual",
+   "type": "Installation",
+   "pages": 100,
+   "productModel": "NCB700-2S Plus 42K",
+   "extraModels": [
+    "NCB700-3S 54K"
+   ],
+   "url": "https://www.manualslib.com/manual/2926517/Navien-Ncb700-2s-Plus-42k.html"
+  },
+  {
+   "manualId": "2616104",
+   "slug": "Navien-Ncb700-42c",
+   "title": "NCB700-42C Installation & operation manual",
+   "type": "Installation",
+   "pages": 75,
+   "productModel": "NCB700-42C",
+   "extraModels": [
+    "NCB700-54C"
+   ],
+   "url": "https://www.manualslib.com/manual/2616104/Navien-Ncb700-42c.html"
+  },
+  {
+   "manualId": "941196",
+   "slug": "Navien-Ncm-1130hh",
+   "title": "NCM-1130HH installation instructions manual",
+   "type": "Installation",
+   "pages": 88,
+   "productModel": "NCM-1130HH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/941196/Navien-Ncm-1130hh.html"
+  },
+  {
+   "manualId": "1290950",
+   "slug": "Navien-Ncn-21k-A",
+   "title": "NCN-21K(A) installation instructions manual",
+   "type": "Installation",
+   "pages": 56,
+   "productModel": "NCN-21K(A)",
+   "extraModels": [
+    "NCN-25K(A)",
+    "NCN-32K(A)",
+    "NCN-37K(A)"
+   ],
+   "url": "https://www.manualslib.com/manual/1290950/Navien-Ncn-21k-A.html"
+  },
+  {
+   "manualId": "1290951",
+   "slug": "Navien-Ncn-21k-A",
+   "title": "NCN-21K(A) Instructions for use manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "NCN-21K(A)",
+   "extraModels": [
+    "NCN-25K(A)",
+    "NCN-32K(A)",
+    "NCN-37(A)"
+   ],
+   "url": "https://www.manualslib.com/manual/1290951/Navien-Ncn-21k-A.html"
+  },
+  {
+   "manualId": "1998163",
+   "slug": "Navien-Nfb-Series",
+   "title": "NFB Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 232,
+   "productModel": "NFB Series",
+   "extraModels": [
+    "NFB-175",
+    "NFB-200"
+   ],
+   "url": "https://www.manualslib.com/manual/1998163/Navien-Nfb-Series.html"
+  },
+  {
+   "manualId": "1527688",
+   "slug": "Navien-Nfb-175",
+   "title": "NFB-175 Quick installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NFB-175",
+   "extraModels": [
+    "NFB-200"
+   ],
+   "url": "https://www.manualslib.com/manual/1527688/Navien-Nfb-175.html"
+  },
+  {
+   "manualId": "2516834",
+   "slug": "Navien-Nfb-175h",
+   "title": "NFB-175H installation manual",
+   "type": "Installation",
+   "pages": 135,
+   "productModel": "NFB-175H",
+   "extraModels": [
+    "NFB-200H"
+   ],
+   "url": "https://www.manualslib.com/manual/2516834/Navien-Nfb-175h.html"
+  },
+  {
+   "manualId": "2311874",
+   "slug": "Navien-Nfb-175h",
+   "title": "NFB-175H User's information manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "NFB-175H",
+   "extraModels": [
+    "NFB-200H"
+   ],
+   "url": "https://www.manualslib.com/manual/2311874/Navien-Nfb-175h.html"
+  },
+  {
+   "manualId": "1998211",
+   "slug": "Navien-Nhb-Series",
+   "title": "NFB-301C Installation & operation manual",
+   "type": "Installation",
+   "pages": 135,
+   "productModel": "NFB-301C",
+   "extraModels": [
+    "NFB-301C",
+    "NFB-399C"
+   ],
+   "url": "https://www.manualslib.com/manual/1998211/Navien-Nhb-Series.html"
+  },
+  {
+   "manualId": "2037546",
+   "slug": "Navien-Nfb-C-Series",
+   "title": "NFB-301C Quick installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NFB-301C",
+   "extraModels": [
+    "NFB-301C",
+    "NFB-399C"
+   ],
+   "url": "https://www.manualslib.com/manual/2037546/Navien-Nfb-C-Series.html"
+  },
+  {
+   "manualId": "1865092",
+   "slug": "Navien-Nfb-301c",
+   "title": "NFB-301C User's information manual",
+   "type": "User / Owner",
+   "pages": 52,
+   "productModel": "NFB-301C",
+   "extraModels": [
+    "NFB-399C"
+   ],
+   "url": "https://www.manualslib.com/manual/1865092/Navien-Nfb-301c.html"
+  },
+  {
+   "manualId": "4516203",
+   "slug": "Navien-Nfb700-500c",
+   "title": "NFB700 Installation & operation manual",
+   "type": "Installation",
+   "pages": 159,
+   "productModel": "NFB700",
+   "extraModels": [
+    "NFB700-1000C",
+    "NFB700-600C",
+    "NFB700-800C"
+   ],
+   "url": "https://www.manualslib.com/manual/4516203/Navien-Nfb700-500c.html"
+  },
+  {
+   "manualId": "1842360",
+   "slug": "Navien-Nfc-Series",
+   "title": "NFC Series User's information manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "NFC Series",
+   "extraModels": [
+    "NFC-175",
+    "NFC-200"
+   ],
+   "url": "https://www.manualslib.com/manual/1842360/Navien-Nfc-Series.html"
+  },
+  {
+   "manualId": "1838815",
+   "slug": "Navien-Nfc-175",
+   "title": "NFC-175 Installation & operation manual",
+   "type": "Installation",
+   "pages": 124,
+   "productModel": "NFC-175",
+   "extraModels": [
+    "NFC-200"
+   ],
+   "url": "https://www.manualslib.com/manual/1838815/Navien-Nfc-175.html"
+  },
+  {
+   "manualId": "2788709",
+   "slug": "Navien-Nfc-200",
+   "title": "NFC-175 Quick installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NFC-175",
+   "extraModels": [
+    "NFC-175"
+   ],
+   "url": "https://www.manualslib.com/manual/2788709/Navien-Nfc-200.html"
+  },
+  {
+   "manualId": "1552261",
+   "slug": "Navien-Nfc-175",
+   "title": "NFC-175 Service manual",
+   "type": "Service",
+   "pages": 138,
+   "productModel": "NFC-175",
+   "extraModels": [
+    "NFC-200"
+   ],
+   "url": "https://www.manualslib.com/manual/1552261/Navien-Nfc-175.html"
+  },
+  {
+   "manualId": "2750520",
+   "slug": "Navien-Nfc-250-175h",
+   "title": "NFC-250/175H installation manual",
+   "type": "Installation",
+   "pages": 151,
+   "productModel": "NFC-250/175H",
+   "extraModels": [
+    "NFC-250/200H"
+   ],
+   "url": "https://www.manualslib.com/manual/2750520/Navien-Nfc-250-175h.html"
+  },
+  {
+   "manualId": "2491395",
+   "slug": "Navien-Nfc-250-175h",
+   "title": "NFC-250/175H Quick installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NFC-250/175H",
+   "extraModels": [
+    "NFC-250/200H"
+   ],
+   "url": "https://www.manualslib.com/manual/2491395/Navien-Nfc-250-175h.html"
+  },
+  {
+   "manualId": "2719680",
+   "slug": "Navien-Nfc-250-200h",
+   "title": "NFC-250/175H User's information manual",
+   "type": "User / Owner",
+   "pages": 29,
+   "productModel": "NFC-250/175H",
+   "extraModels": [
+    "NFC-250/175H"
+   ],
+   "url": "https://www.manualslib.com/manual/2719680/Navien-Nfc-250-200h.html"
+  },
+  {
+   "manualId": "4148233",
+   "slug": "Navien-Nfc-250-175h",
+   "title": "NFC-250/175H User's information manual",
+   "type": "User / Owner",
+   "pages": 60,
+   "productModel": "NFC-250/175H",
+   "extraModels": [
+    "NFC-250/200H"
+   ],
+   "url": "https://www.manualslib.com/manual/4148233/Navien-Nfc-250-175h.html"
+  },
+  {
+   "manualId": "3376487",
+   "slug": "Navien-Nhb-H-Series",
+   "title": "NHB H Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 143,
+   "productModel": "NHB H Series",
+   "extraModels": [
+    "NHB-055H",
+    "NHB-080H",
+    "NHB-110H",
+    "NHB-150H"
+   ],
+   "url": "https://www.manualslib.com/manual/3376487/Navien-Nhb-H-Series.html"
+  },
+  {
+   "manualId": "1175973",
+   "slug": "Navien-Nhb-055",
+   "title": "NHB Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 102,
+   "productModel": "NHB Series",
+   "extraModels": [
+    "NHB Series",
+    "NHB-080",
+    "NHB-110",
+    "NHB-150",
+    "NHB-55",
+    "NHB-80"
+   ],
+   "url": "https://www.manualslib.com/manual/1175973/Navien-Nhb-055.html"
+  },
+  {
+   "manualId": "3285924",
+   "slug": "Navien-Nhb-110",
+   "title": "NHB Series User's information manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "NHB Series",
+   "extraModels": [
+    "NHB Series",
+    "NHB-150",
+    "NHB-55",
+    "NHB-80"
+   ],
+   "url": "https://www.manualslib.com/manual/3285924/Navien-Nhb-110.html"
+  },
+  {
+   "manualId": "1260399",
+   "slug": "Navien-Nhb-055",
+   "title": "NHB-055 Installation & operation manual",
+   "type": "Installation",
+   "pages": 11,
+   "productModel": "NHB-055",
+   "extraModels": [
+    "NHB-080",
+    "NHB-110",
+    "NHB-150"
+   ],
+   "url": "https://www.manualslib.com/manual/1260399/Navien-Nhb-055.html"
+  },
+  {
+   "manualId": "877383",
+   "slug": "Navien-Nhb-055",
+   "title": "NHB-055 Installation & operation manual",
+   "type": "Installation",
+   "pages": 83,
+   "productModel": "NHB-055",
+   "extraModels": [
+    "NHB-080",
+    "NHB-110",
+    "NHB-150"
+   ],
+   "url": "https://www.manualslib.com/manual/877383/Navien-Nhb-055.html"
+  },
+  {
+   "manualId": "870434",
+   "slug": "Navien-Nhb-055",
+   "title": "NHB-055 Quick installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NHB-055",
+   "extraModels": [
+    "NHB-080",
+    "NHB-110",
+    "NHB-150"
+   ],
+   "url": "https://www.manualslib.com/manual/870434/Navien-Nhb-055.html"
+  },
+  {
+   "manualId": "1409700",
+   "slug": "Navien-Nhb-055",
+   "title": "NHB-055 Service manual",
+   "type": "Service",
+   "pages": 147,
+   "productModel": "NHB-055",
+   "extraModels": [
+    "NHB-080",
+    "NHB-110",
+    "NHB-150"
+   ],
+   "url": "https://www.manualslib.com/manual/1409700/Navien-Nhb-055.html"
+  },
+  {
+   "manualId": "873249",
+   "slug": "Navien-Nhb-055",
+   "title": "NHB-055 User's information manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "NHB-055",
+   "extraModels": [
+    "NHB-080",
+    "NHB-110",
+    "NHB-150"
+   ],
+   "url": "https://www.manualslib.com/manual/873249/Navien-Nhb-055.html"
+  },
+  {
+   "manualId": "3462795",
+   "slug": "Navien-Nhb-055h",
+   "title": "NHB-055H Quick installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NHB-055H",
+   "extraModels": [
+    "NHB-080H",
+    "NHB-110H",
+    "NHB-150H"
+   ],
+   "url": "https://www.manualslib.com/manual/3462795/Navien-Nhb-055h.html"
+  },
+  {
+   "manualId": "3751185",
+   "slug": "Navien-Nhb-H",
+   "title": "NHB-055H Service manual",
+   "type": "Service",
+   "pages": 123,
+   "productModel": "NHB-055H",
+   "extraModels": [
+    "NHB-055H",
+    "NHB-080H",
+    "NHB-110H",
+    "NHB-150H"
+   ],
+   "url": "https://www.manualslib.com/manual/3751185/Navien-Nhb-H.html"
+  },
+  {
+   "manualId": "3313134",
+   "slug": "Navien-Nhb-055h",
+   "title": "NHB-055H User's information manual",
+   "type": "User / Owner",
+   "pages": 29,
+   "productModel": "NHB-055H",
+   "extraModels": [
+    "NHB-080H",
+    "NHB-110H",
+    "NHB-150H"
+   ],
+   "url": "https://www.manualslib.com/manual/3313134/Navien-Nhb-055h.html"
+  },
+  {
+   "manualId": "3285896",
+   "slug": "Navien-Nhb-55",
+   "title": "NHB-110 Quick installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NHB-110",
+   "extraModels": [
+    "NHB-110",
+    "NHB-150",
+    "NHB-80"
+   ],
+   "url": "https://www.manualslib.com/manual/3285896/Navien-Nhb-55.html"
+  },
+  {
+   "manualId": "3323362",
+   "slug": "Navien-Nhw700",
+   "title": "NHW700 installation manual",
+   "type": "Installation",
+   "pages": 83,
+   "productModel": "NHW700",
+   "extraModels": [
+    "NHW700-160AE",
+    "NHW700-160AI",
+    "NHW700-180AE",
+    "NHW700-180AI",
+    "NHW700-199AE",
+    "NHW700-199AI"
+   ],
+   "url": "https://www.manualslib.com/manual/3323362/Navien-Nhw700.html"
+  },
+  {
+   "manualId": "3233841",
+   "slug": "Navien-Nhw700",
+   "title": "NHW700 User's information manual",
+   "type": "User / Owner",
+   "pages": 27,
+   "productModel": "NHW700",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3233841/Navien-Nhw700.html"
+  },
+  {
+   "manualId": "1171913",
+   "slug": "Navien-Nr-Series",
+   "title": "NP Series Service manual",
+   "type": "Service",
+   "pages": 109,
+   "productModel": "NP Series",
+   "extraModels": [
+    "NP Series"
+   ],
+   "url": "https://www.manualslib.com/manual/1171913/Navien-Nr-Series.html"
+  },
+  {
+   "manualId": "1248918",
+   "slug": "Navien-Nr-180",
+   "title": "NP-180 installation manual",
+   "type": "Installation",
+   "pages": 78,
+   "productModel": "NP-180",
+   "extraModels": [
+    "NP-180",
+    "NP-180A",
+    "NP-210",
+    "NP-210A",
+    "NP-240",
+    "NP-240A",
+    "NR-180A",
+    "NR-210",
+    "NR-210A",
+    "NR-240",
+    "NR-240A"
+   ],
+   "url": "https://www.manualslib.com/manual/1248918/Navien-Nr-180.html"
+  },
+  {
+   "manualId": "891098",
+   "slug": "Navien-Nr-180-A",
+   "title": "NP-180 installation manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "NP-180",
+   "extraModels": [
+    "NP-180",
+    "NP-180A",
+    "NP-210",
+    "NP-210A",
+    "NP-240",
+    "NP-240A",
+    "NR-210",
+    "NR-210A",
+    "NR-240",
+    "NR-240A"
+   ],
+   "url": "https://www.manualslib.com/manual/891098/Navien-Nr-180-A.html"
+  },
+  {
+   "manualId": "937053",
+   "slug": "Navien-Nr-180-A",
+   "title": "NP-180 Operation & installation manual",
+   "type": "Installation",
+   "pages": 89,
+   "productModel": "NP-180",
+   "extraModels": [
+    "NP-180",
+    "NP-180A",
+    "NP-210",
+    "NP-210A",
+    "NP-240",
+    "NP-240A",
+    "NR-210",
+    "NR-210A",
+    "NR-240",
+    "NR-240A"
+   ],
+   "url": "https://www.manualslib.com/manual/937053/Navien-Nr-180-A.html"
+  },
+  {
+   "manualId": "699327",
+   "slug": "Navien-Nr-180",
+   "title": "NP-180 Quick installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NP-180",
+   "extraModels": [
+    "NP-180",
+    "NP-180A",
+    "NP-210",
+    "NP-210A",
+    "NP-240",
+    "NP-240A",
+    "NR-180A",
+    "NR-210",
+    "NR-210A",
+    "NR-240",
+    "NR-240A"
+   ],
+   "url": "https://www.manualslib.com/manual/699327/Navien-Nr-180.html"
+  },
+  {
+   "manualId": "833964",
+   "slug": "Navien-Np-180",
+   "title": "NP-180 Service manual",
+   "type": "Service",
+   "pages": 179,
+   "productModel": "NP-180",
+   "extraModels": [
+    "NP-180A",
+    "NP-210",
+    "NP-210A",
+    "NP-240",
+    "NP-240A",
+    "NR-180",
+    "NR-180A",
+    "NR-210",
+    "NR-210A",
+    "NR-240",
+    "NR-240A"
+   ],
+   "url": "https://www.manualslib.com/manual/833964/Navien-Np-180.html"
+  },
+  {
+   "manualId": "905107",
+   "slug": "Navien-Nr-180-A",
+   "title": "NP-180A Owner's operation manual",
+   "type": "User / Owner",
+   "pages": 45,
+   "productModel": "NP-180A",
+   "extraModels": [
+    "NP-180A",
+    "NP-210A",
+    "NP-240A",
+    "NR-210A",
+    "NR-240A"
+   ],
+   "url": "https://www.manualslib.com/manual/905107/Navien-Nr-180-A.html"
+  },
+  {
+   "manualId": "3954274",
+   "slug": "Navien-Npe-180a2",
+   "title": "NPE-150S2 Conversion manual",
+   "type": "Other",
+   "pages": 16,
+   "productModel": "NPE-150S2",
+   "extraModels": [
+    "NPE-150S2",
+    "NPE-180S2",
+    "NPE-210A2",
+    "NPE-210S2",
+    "NPE-240A2",
+    "NPE-240S2"
+   ],
+   "url": "https://www.manualslib.com/manual/3954274/Navien-Npe-180a2.html"
+  },
+  {
+   "manualId": "2131563",
+   "slug": "Navien-Npe-180a2",
+   "title": "NPE-150S2 installation manual",
+   "type": "Installation",
+   "pages": 132,
+   "productModel": "NPE-150S2",
+   "extraModels": [
+    "NPE-150S2",
+    "NPE-180S2",
+    "NPE-210A2",
+    "NPE-210S2",
+    "NPE-240A2",
+    "NPE-240S2"
+   ],
+   "url": "https://www.manualslib.com/manual/2131563/Navien-Npe-180a2.html"
+  },
+  {
+   "manualId": "3180620",
+   "slug": "Navien-Npe-180a2",
+   "title": "NPE-150S2 installation manual",
+   "type": "Installation",
+   "pages": 143,
+   "productModel": "NPE-150S2",
+   "extraModels": [
+    "NPE-150S2",
+    "NPE-180S2",
+    "NPE-210A2",
+    "NPE-210S2",
+    "NPE-240A2",
+    "NPE-240S2"
+   ],
+   "url": "https://www.manualslib.com/manual/3180620/Navien-Npe-180a2.html"
+  },
+  {
+   "manualId": "3685272",
+   "slug": "Navien-Npe-180a2",
+   "title": "NPE-150S2 installation manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "NPE-150S2",
+   "extraModels": [
+    "NPE-150S2",
+    "NPE-180S2",
+    "NPE-210A2",
+    "NPE-210S2",
+    "NPE-240A2",
+    "NPE-240S2"
+   ],
+   "url": "https://www.manualslib.com/manual/3685272/Navien-Npe-180a2.html"
+  },
+  {
+   "manualId": "2131569",
+   "slug": "Navien-Npe-180a2",
+   "title": "NPE-150S2 Quick installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NPE-150S2",
+   "extraModels": [
+    "NPE-150S2",
+    "NPE-180S2",
+    "NPE-210A2",
+    "NPE-210S2",
+    "NPE-240A2",
+    "NPE-240S2"
+   ],
+   "url": "https://www.manualslib.com/manual/2131569/Navien-Npe-180a2.html"
+  },
+  {
+   "manualId": "688852",
+   "slug": "Navien-Npe-180a",
+   "title": "NPE-180A Brochure & Specs",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-240A",
+    "NPE-210A"
+   ],
+   "url": "https://www.manualslib.com/manual/688852/Navien-Npe-180a.html"
+  },
+  {
+   "manualId": "1413742",
+   "slug": "Navien-Npe-180a",
+   "title": "NPE-180A Conversion Manualline",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-240A",
+    "NPE-180S",
+    "NPE-210A",
+    "NPE-210S",
+    "NPE-240S"
+   ],
+   "url": "https://www.manualslib.com/manual/1413742/Navien-Npe-180a.html"
+  },
+  {
+   "manualId": "1413744",
+   "slug": "Navien-Npe-180s",
+   "title": "NPE-180A Conversion Manualline",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-180A",
+    "NPE-240A",
+    "NPE-210A",
+    "NPE-210S",
+    "NPE-240S"
+   ],
+   "url": "https://www.manualslib.com/manual/1413744/Navien-Npe-180s.html"
+  },
+  {
+   "manualId": "3316056",
+   "slug": "Navien-Npe",
+   "title": "NPE-180A Installation & operation manual",
+   "type": "Installation",
+   "pages": 103,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-180A",
+    "NPE-240A",
+    "NPE-150S",
+    "NPE-180S",
+    "NPE-210A",
+    "NPE-210S",
+    "NPE-240S"
+   ],
+   "url": "https://www.manualslib.com/manual/3316056/Navien-Npe.html"
+  },
+  {
+   "manualId": "1055596",
+   "slug": "Navien-Npe-180a",
+   "title": "NPE-180A installation manual",
+   "type": "Installation",
+   "pages": 71,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-240A",
+    "NPE-150S",
+    "NPE-180S",
+    "NPE-210A",
+    "NPE-210S",
+    "NPE-240S"
+   ],
+   "url": "https://www.manualslib.com/manual/1055596/Navien-Npe-180a.html"
+  },
+  {
+   "manualId": "1226037",
+   "slug": "Navien-Npe-180a",
+   "title": "NPE-180A installation manual",
+   "type": "Installation",
+   "pages": 39,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-240A"
+   ],
+   "url": "https://www.manualslib.com/manual/1226037/Navien-Npe-180a.html"
+  },
+  {
+   "manualId": "2761679",
+   "slug": "Navien-Npe-180a",
+   "title": "NPE-180A installation manual",
+   "type": "Installation",
+   "pages": 13,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-240A",
+    "NPE-150S",
+    "NPE-180S",
+    "NPE-210A",
+    "NPE-210S",
+    "NPE-240S"
+   ],
+   "url": "https://www.manualslib.com/manual/2761679/Navien-Npe-180a.html"
+  },
+  {
+   "manualId": "3038716",
+   "slug": "Navien-Npe-240a",
+   "title": "NPE-180A installation manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-180A",
+    "30012634A",
+    "NPE-180S",
+    "NPE-210A",
+    "NPE-210S",
+    "NPE-240S"
+   ],
+   "url": "https://www.manualslib.com/manual/3038716/Navien-Npe-240a.html"
+  },
+  {
+   "manualId": "3624119",
+   "slug": "Navien-Npe-150s",
+   "title": "NPE-180A installation manual",
+   "type": "Installation",
+   "pages": 86,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-180A",
+    "NPE-240A",
+    "NNPE210SNG",
+    "NPE Series",
+    "NPE-150S2",
+    "NPE-180A2",
+    "NPE-180S",
+    "NPE-180S2",
+    "NPE-210A",
+    "NPE-210A2",
+    "NPE-210S",
+    "NPE-240A2",
+    "NPE-240S"
+   ],
+   "url": "https://www.manualslib.com/manual/3624119/Navien-Npe-150s.html"
+  },
+  {
+   "manualId": "794687",
+   "slug": "Navien-Npe-180a",
+   "title": "NPE-180A installation manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-240A",
+    "NPE-180S",
+    "NPE-210A",
+    "NPE-210S",
+    "NPE-240S"
+   ],
+   "url": "https://www.manualslib.com/manual/794687/Navien-Npe-180a.html"
+  },
+  {
+   "manualId": "982547",
+   "slug": "Navien-Npe-180a",
+   "title": "NPE-180A installation manual",
+   "type": "Installation",
+   "pages": 69,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-240A",
+    "NPE-210A"
+   ],
+   "url": "https://www.manualslib.com/manual/982547/Navien-Npe-180a.html"
+  },
+  {
+   "manualId": "2734217",
+   "slug": "Navien-Npe-210a",
+   "title": "NPE-180A Operation manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-180A",
+    "NPE-240A",
+    "NPE-150S",
+    "NPE-180S",
+    "NPE-210S",
+    "NPE-240S"
+   ],
+   "url": "https://www.manualslib.com/manual/2734217/Navien-Npe-210a.html"
+  },
+  {
+   "manualId": "739037",
+   "slug": "Navien-Npe-180a",
+   "title": "NPE-180A Operation manual",
+   "type": "Other",
+   "pages": 20,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-240A",
+    "NPE-180S",
+    "NPE-210A",
+    "NPE-210S",
+    "NPE-240S"
+   ],
+   "url": "https://www.manualslib.com/manual/739037/Navien-Npe-180a.html"
+  },
+  {
+   "manualId": "2487324",
+   "slug": "Navien-Npe-180a",
+   "title": "NPE-180A Quick installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-240A",
+    "NPE-210A"
+   ],
+   "url": "https://www.manualslib.com/manual/2487324/Navien-Npe-180a.html"
+  },
+  {
+   "manualId": "730222",
+   "slug": "Navien-Npe-180a",
+   "title": "NPE-180A Quick installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-240A",
+    "NPE-180S",
+    "NPE-210A",
+    "NPE-210S",
+    "NPE-240S"
+   ],
+   "url": "https://www.manualslib.com/manual/730222/Navien-Npe-180a.html"
+  },
+  {
+   "manualId": "900160",
+   "slug": "Navien-Npe-180a",
+   "title": "NPE-180A Quick installation manual",
+   "type": "Installation",
+   "pages": 4,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-240A",
+    "NPE-210A"
+   ],
+   "url": "https://www.manualslib.com/manual/900160/Navien-Npe-180a.html"
+  },
+  {
+   "manualId": "1358915",
+   "slug": "Navien-Npe-180a",
+   "title": "NPE-180A Service manual",
+   "type": "Service",
+   "pages": 171,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-240A",
+    "NPE-150S",
+    "NPE-180S",
+    "NPE-210A",
+    "NPE-210S",
+    "NPE-240S"
+   ],
+   "url": "https://www.manualslib.com/manual/1358915/Navien-Npe-180a.html"
+  },
+  {
+   "manualId": "698688",
+   "slug": "Navien-Npe-Series",
+   "title": "NPE-180A Specification Sheet",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-180A",
+    "NPE-240A",
+    "NPE-210A"
+   ],
+   "url": "https://www.manualslib.com/manual/698688/Navien-Npe-Series.html"
+  },
+  {
+   "manualId": "1413986",
+   "slug": "Navien-Npe-180a",
+   "title": "NPE-180A user manual",
+   "type": "User / Owner",
+   "pages": 2,
+   "productModel": "NPE-180A",
+   "extraModels": [
+    "NPE-240A",
+    "NPE-180S",
+    "NPE-210A",
+    "NPE-210S",
+    "NPE-240S"
+   ],
+   "url": "https://www.manualslib.com/manual/1413986/Navien-Npe-180a.html"
+  },
+  {
+   "manualId": "2131565",
+   "slug": "Navien-Npe-180a2",
+   "title": "NPE-180A2 User's information manual",
+   "type": "User / Owner",
+   "pages": 48,
+   "productModel": "NPE-180A2",
+   "extraModels": [
+    "NPE-180S2",
+    "NPE-210A2",
+    "NPE-210S2",
+    "NPE-240A2",
+    "NPE-240S2"
+   ],
+   "url": "https://www.manualslib.com/manual/2131565/Navien-Npe-180a2.html"
+  },
+  {
+   "manualId": "1473926",
+   "slug": "Navien-Npe-32awe",
+   "title": "NPE-24AWE installation manual",
+   "type": "Installation",
+   "pages": 68,
+   "productModel": "NPE-24AWE",
+   "extraModels": [
+    "NPE-24AWE",
+    "NPE-24SWE",
+    "NPE-32SWE"
+   ],
+   "url": "https://www.manualslib.com/manual/1473926/Navien-Npe-32awe.html"
+  },
+  {
+   "manualId": "1534519",
+   "slug": "Navien-Npe-24awe",
+   "title": "NPE-24AWE User's information manual",
+   "type": "User / Owner",
+   "pages": 20,
+   "productModel": "NPE-24AWE",
+   "extraModels": [
+    "NPE-24SWE",
+    "NPE-32AWE",
+    "NPE-32SWE"
+   ],
+   "url": "https://www.manualslib.com/manual/1534519/Navien-Npe-24awe.html"
+  },
+  {
+   "manualId": "4088705",
+   "slug": "Navien-Npf-Series",
+   "title": "NPF Series Installation and operation manual",
+   "type": "Installation",
+   "pages": 173,
+   "productModel": "NPF Series",
+   "extraModels": [
+    "NPF700-060H3BH",
+    "NPF700-060U3BH",
+    "NPF700-080H3BH",
+    "NPF700-080U3BH",
+    "NPF700-100H5CH",
+    "NPF700-100U5CH"
+   ],
+   "url": "https://www.manualslib.com/manual/4088705/Navien-Npf-Series.html"
+  },
+  {
+   "manualId": "2687515",
+   "slug": "Navien-Npn",
+   "title": "NPN Installation & operation manual",
+   "type": "Installation",
+   "pages": 75,
+   "productModel": "NPN",
+   "extraModels": [
+    "NPN-120E",
+    "NPN-160E",
+    "NPN-160U",
+    "NPN-180E",
+    "NPN-180U",
+    "NPN-199E",
+    "NPN-199U",
+    "NPN120ELP"
+   ],
+   "url": "https://www.manualslib.com/manual/2687515/Navien-Npn.html"
+  },
+  {
+   "manualId": "2298979",
+   "slug": "Navien-Npn-160u",
+   "title": "NPN-120E User's information manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "NPN-120E",
+   "extraModels": [
+    "NPN-120E",
+    "NPN-160E",
+    "NPN-180E",
+    "NPN-180U",
+    "NPN-199E",
+    "NPN-199U"
+   ],
+   "url": "https://www.manualslib.com/manual/2298979/Navien-Npn-160u.html"
+  },
+  {
+   "manualId": "1757645",
+   "slug": "Navien-Nr-10p",
+   "title": "NR-10P user manual",
+   "type": "User / Owner",
+   "pages": 28,
+   "productModel": "NR-10P",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1757645/Navien-Nr-10p.html"
+  },
+  {
+   "manualId": "1373885",
+   "slug": "Navien-Nr-20du",
+   "title": "NR-20DU user manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "NR-20DU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1373885/Navien-Nr-20du.html"
+  },
+  {
+   "manualId": "2163120",
+   "slug": "Navien-Nr-21du",
+   "title": "NR-21DU Manual",
+   "type": "Other",
+   "pages": 36,
+   "productModel": "NR-21DU",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2163120/Navien-Nr-21du.html"
+  },
+  {
+   "manualId": "2431530",
+   "slug": "Navien-Nr-35d",
+   "title": "NR-35D user manual",
+   "type": "User / Owner",
+   "pages": 76,
+   "productModel": "NR-35D",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2431530/Navien-Nr-35d.html"
+  },
+  {
+   "manualId": "3540692",
+   "slug": "Navien-Nrc-10r",
+   "title": "NRC-10R Installation & operation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "NRC-10R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3540692/Navien-Nrc-10r.html"
+  },
+  {
+   "manualId": "1839085",
+   "slug": "Navien-Nrc-10r",
+   "title": "NRC-10R Installation and operation manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "NRC-10R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1839085/Navien-Nrc-10r.html"
+  },
+  {
+   "manualId": "4027110",
+   "slug": "Navien-Nwp500-Series",
+   "title": "NWP500 Series installation manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "NWP500 Series",
+   "extraModels": [
+    "NWP500-50",
+    "NWP500-65",
+    "NWP500-80"
+   ],
+   "url": "https://www.manualslib.com/manual/4027110/Navien-Nwp500-Series.html"
+  },
+  {
+   "manualId": "4209903",
+   "slug": "Navien-Nwp500",
+   "title": "NWP500 Series Service manual",
+   "type": "Service",
+   "pages": 69,
+   "productModel": "NWP500 Series",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4209903/Navien-Nwp500.html"
+  },
+  {
+   "manualId": "4128332",
+   "slug": "Navien-Pem750v004pgkc",
+   "title": "PEM750V004PGKC Installation & operation manual",
+   "type": "Installation",
+   "pages": 97,
+   "productModel": "PEM750V004PGKC",
+   "extraModels": [
+    "PEM750V006PGKC",
+    "PEM750V008PGKC",
+    "PEM750V010PGKC",
+    "PEM750V017PGKC"
+   ],
+   "url": "https://www.manualslib.com/manual/4128332/Navien-Pem750v004pgkc.html"
+  },
+  {
+   "manualId": "4128272",
+   "slug": "Navien-Pem750v004pgkc",
+   "title": "PEM750V004PGKC Technical manual",
+   "type": "Other",
+   "pages": 62,
+   "productModel": "PEM750V004PGKC",
+   "extraModels": [
+    "PEM750V006PGKC",
+    "PEM750V008PGKC",
+    "PEM750V010PGKC",
+    "PEM750V017PGKC"
+   ],
+   "url": "https://www.manualslib.com/manual/4128272/Navien-Pem750v004pgkc.html"
+  },
+  {
+   "manualId": "3910555",
+   "slug": "Navien-Pffw-Sxx-001",
+   "title": "PFFW-SXX-001 Installation and operation manual",
+   "type": "Installation",
+   "pages": 92,
+   "productModel": "PFFW-SXX-001",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3910555/Navien-Pffw-Sxx-001.html"
+  },
+  {
+   "manualId": "4072491",
+   "slug": "Navien-Saturn-Kdb-181-Kca",
+   "title": "Saturn KDB-181 KCA user manual",
+   "type": "User / Owner",
+   "pages": 36,
+   "productModel": "Saturn KDB-181 KCA",
+   "extraModels": [
+    "Saturn KDB-201 KCA",
+    "Saturn KDB-251 KCA",
+    "Saturn KDB-301 KCA"
+   ],
+   "url": "https://www.manualslib.com/manual/4072491/Navien-Saturn-Kdb-181-Kca.html"
+  },
+  {
+   "manualId": "4128333",
+   "slug": "Navien-Tl7002-Wf",
+   "title": "TL7002-WF Installation & operation manual",
+   "type": "Installation",
+   "pages": 51,
+   "productModel": "TL7002-WF",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4128333/Navien-Tl7002-Wf.html"
+  },
+  {
+   "manualId": "1373416",
+   "slug": "Navien-Uha-432sg",
+   "title": "UHA-432SG user manual",
+   "type": "User / Owner",
+   "pages": 24,
+   "productModel": "UHA-432SG",
+   "extraModels": [
+    "UHA-432SM"
+   ],
+   "url": "https://www.manualslib.com/manual/1373416/Navien-Uha-432sg.html"
+  },
+  {
+   "manualId": "1349531",
+   "slug": "Navien-Uha-744sg",
+   "title": "UHA-744SG user manual",
+   "type": "User / Owner",
+   "pages": 32,
+   "productModel": "UHA-744SG",
+   "extraModels": [
+    "UHA-744SM"
+   ],
+   "url": "https://www.manualslib.com/manual/1349531/Navien-Uha-744sg.html"
+  },
+  {
+   "manualId": "2768292",
+   "slug": "Navien-Uot-320",
+   "title": "user manual",
+   "type": "User / Owner",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2768292/Navien-Uot-320.html"
+  },
+  {
+   "manualId": "3533100",
+   "slug": "Navien-Vcu-10r",
+   "title": "VCU-10R Installation & operation manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "VCU-10R",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3533100/Navien-Vcu-10r.html"
+  },
+  {
+   "manualId": "4074082",
+   "slug": "Navien-Wec-Series",
+   "title": "WEC Series Installation & operation manual",
+   "type": "Installation",
+   "pages": 64,
+   "productModel": "WEC Series",
+   "extraModels": [
+    "WEC400",
+    "WEC600"
+   ],
+   "url": "https://www.manualslib.com/manual/4074082/Navien-Wec-Series.html"
+  },
+  {
+   "manualId": "4074074",
+   "slug": "Navien-Wec-Series",
+   "title": "WEC Series User's information manual",
+   "type": "User / Owner",
+   "pages": 33,
+   "productModel": "WEC Series",
+   "extraModels": [
+    "WEC400",
+    "WEC600"
+   ],
+   "url": "https://www.manualslib.com/manual/4074074/Navien-Wec-Series.html"
+  },
+  {
+   "manualId": "4156836",
+   "slug": "Navien-Wur500",
+   "title": "WUR500 Installation & operation manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "WUR500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4156836/Navien-Wur500.html"
+  },
+  {
+   "manualId": "4148829",
+   "slug": "Navien-Wur500",
+   "title": "WUR500 Replacement manual",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "WUR500",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4148829/Navien-Wur500.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": [
+  {
+   "manualId": "2863690",
+   "slug": "navien-nhb-150-condensing-boiler-manual",
+   "title": "Navien NHB-150 Condensing Boiler Manual"
+  },
+  {
+   "manualId": "4244704",
+   "slug": "navien-nhw700-water-heater-user-manual",
+   "title": "Navien NHW700 Water Heater User Manual"
+  },
+  {
+   "manualId": "2863689",
+   "slug": "navien-npe-180a-npe-240a-condensing-water-heater-manual",
+   "title": "Navien NPE-180A, NPE-240A Condensing Water Heater Manual"
+  },
+  {
+   "manualId": "4274338",
+   "slug": "navien-ncb-250-150h-boiler-installation-and-operation-manual",
+   "title": "Navien NCB-250/150H Boiler Installation and Operation Manual"
+  },
+  {
+   "manualId": "4244491",
+   "slug": "navien-npe-180a2-water-heater-installation-manual",
+   "title": "Navien NPE-180A2 Water Heater Installation Manual"
+  },
+  {
+   "manualId": "4246307",
+   "slug": "navien-nhb-055h-boiler-installation-and-operation-manual",
+   "title": "Navien NHB-055H boiler Installation and Operation Manual"
+  }
+ ]
+}
