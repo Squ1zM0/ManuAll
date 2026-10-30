@@ -1,0 +1,425 @@
+{
+ "brand": "Tempstar",
+ "brandSlug": "tempstar",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/tempstar/"
+ ],
+ "slugUsed": "tempstar",
+ "capturedAt": "2026-10-30T18:42:22.456509+00:00",
+ "typePages": [
+  {
+   "path": "/brand/tempstar/air-conditioner.html",
+   "manuals": 112,
+   "status": 200
+  },
+  {
+   "path": "/brand/tempstar/fan.html",
+   "manuals": 11,
+   "status": 200
+  },
+  {
+   "path": "/brand/tempstar/furnace.html",
+   "manuals": 48,
+   "status": 200
+  },
+  {
+   "path": "/brand/tempstar/heat-pump.html",
+   "manuals": 8,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "945799",
+   "slug": "Tempstar-F-G-9mac0601714a",
+   "title": "(F/G)9MAC0601714A Service and technical support manual",
+   "type": "Service",
+   "pages": 33,
+   "productModel": "(F/G)9MAC0601714A",
+   "extraModels": [
+    "(F/G)9MAC0801714A",
+    "(F/G)9MAC1002122A",
+    "(F/G)9MAC1202422A"
+   ],
+   "url": "https://www.manualslib.com/manual/945799/Tempstar-F-G-9mac0601714a.html"
+  },
+  {
+   "manualId": "2677645",
+   "slug": "Tempstar-F97cmn",
+   "title": "0601714 Installation, Start-Up, Operating And Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 74,
+   "productModel": "0601714",
+   "extraModels": [
+    "0601714",
+    "0602120",
+    "0801714",
+    "0802120",
+    "1002122",
+    "1202422",
+    "G97CMN"
+   ],
+   "url": "https://www.manualslib.com/manual/2677645/Tempstar-F97cmn.html"
+  },
+  {
+   "manualId": "4262823",
+   "slug": "Tempstar-Nugm-Series",
+   "title": "90 installation instructions manual",
+   "type": "Installation",
+   "pages": 12,
+   "productModel": "90",
+   "extraModels": [
+    "90"
+   ],
+   "url": "https://www.manualslib.com/manual/4262823/Tempstar-Nugm-Series.html"
+  },
+  {
+   "manualId": "2669194",
+   "slug": "Tempstar-A-Series",
+   "title": "A Series Installation, Start-up, Operating, Service and Maintenance Instructions",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "A Series",
+   "extraModels": [
+    "G96CTN"
+   ],
+   "url": "https://www.manualslib.com/manual/2669194/Tempstar-A-Series.html"
+  },
+  {
+   "manualId": "3251239",
+   "slug": "Tempstar-B-Series",
+   "title": "B Series Service and technical support manual",
+   "type": "Service",
+   "pages": 30,
+   "productModel": "B Series",
+   "extraModels": [
+    "C Series",
+    "N9MSB0401410C",
+    "N9MSB0401712C",
+    "N9MSB0601412C",
+    "N9MSB0601716C",
+    "N9MSB0801716B",
+    "N9MSB0801716C",
+    "N9MSB0802120C",
+    "N9MSB1002116C",
+    "N9MSB1002120C",
+    "N9MSB1202420C"
+   ],
+   "url": "https://www.manualslib.com/manual/3251239/Tempstar-B-Series.html"
+  },
+  {
+   "manualId": "812508",
+   "slug": "Tempstar-N4a3",
+   "title": "C4A3 installation instructions manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "C4A3",
+   "extraModels": [
+    "C4A3",
+    "CXA6",
+    "H4A3",
+    "HXA6",
+    "TXA6"
+   ],
+   "url": "https://www.manualslib.com/manual/812508/Tempstar-N4a3.html"
+  },
+  {
+   "manualId": "847760",
+   "slug": "Tempstar-N4h3",
+   "title": "C4H3 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "C4H3",
+   "extraModels": [
+    "C4H3",
+    "CXH5",
+    "H4H3",
+    "HXH5",
+    "NXH5",
+    "T4H3",
+    "TXH5"
+   ],
+   "url": "https://www.manualslib.com/manual/847760/Tempstar-N4h3.html"
+  },
+  {
+   "manualId": "2457631",
+   "slug": "Tempstar-Csa5",
+   "title": "CSA5 installation instructions manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "CSA5",
+   "extraModels": [
+    "HSA5",
+    "TSA5"
+   ],
+   "url": "https://www.manualslib.com/manual/2457631/Tempstar-Csa5.html"
+  },
+  {
+   "manualId": "979816",
+   "slug": "Tempstar-Csa6",
+   "title": "CSA6 installation instructions manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "CSA6",
+   "extraModels": [
+    "HSA6"
+   ],
+   "url": "https://www.manualslib.com/manual/979816/Tempstar-Csa6.html"
+  },
+  {
+   "manualId": "726279",
+   "slug": "Tempstar-Dfs4-A-H",
+   "title": "DFC4A3 owner's manual",
+   "type": "User / Owner",
+   "pages": 11,
+   "productModel": "DFC4A3",
+   "extraModels": [
+    "DFC4A3",
+    "DFC4H3 DFC43",
+    "DFF4AH",
+    "DFF4H",
+    "DFF4HH",
+    "DFS4H"
+   ],
+   "url": "https://www.manualslib.com/manual/726279/Tempstar-Dfs4-A-H.html"
+  },
+  {
+   "manualId": "838248",
+   "slug": "Tempstar-Dlc4",
+   "title": "DLC4 installation instructions manual",
+   "type": "Installation",
+   "pages": 20,
+   "productModel": "DLC4",
+   "extraModels": [
+    "DLC4A12",
+    "DLC4AC09",
+    "DLC4AC12",
+    "DLC4AC18",
+    "DLC4AC24",
+    "DLC4AC30",
+    "DLC4AC36",
+    "DLC4AV09",
+    "DLC4AV18",
+    "DLC4AV24",
+    "DLC4AV30",
+    "DLC4AV36",
+    "DLC4HH09",
+    "DLC4HH12",
+    "DLC4HH18",
+    "DLC4HH24",
+    "DLC4HH30",
+    "DLC4HH36",
+    "DLC4HV09",
+    "DLC4HV12",
+    "DLC4HV18",
+    "DLC4HV24",
+    "DLC4HV30",
+    "DLC4HV36",
+    "DLF4",
+    "DLF4AC09",
+    "DLF4AC12",
+    "DLF4AC24",
+    "DLF4AC30",
+    "DLF4AC36",
+    "DLF4AV09",
+    "DLF4AV12",
+    "DLF4AV24",
+    "DLF4AV30",
+    "DLF4AV36",
+    "DLF4HH09",
+    "DLF4HH12",
+    "DLF4HH24",
+    "DLF4HH30",
+    "DLF4HH36",
+    "DLF4HV09",
+    "DLF4HV12",
+    "DLF4HV24",
+    "DLF4HV30",
+    "DLF4HV36"
+   ],
+   "url": "https://www.manualslib.com/manual/838248/Tempstar-Dlc4.html"
+  },
+  {
+   "manualId": "1187203",
+   "slug": "Tempstar-F8mtl",
+   "title": "F8MTL installation instructions manual",
+   "type": "Installation",
+   "pages": 52,
+   "productModel": "F8MTL",
+   "extraModels": [
+    "G8MTL"
+   ],
+   "url": "https://www.manualslib.com/manual/1187203/Tempstar-F8mtl.html"
+  },
+  {
+   "manualId": "3897980",
+   "slug": "Tempstar-F96ctn",
+   "title": "F96CTN Installation, Start-up, Operating, Service and Maintenance Instructions",
+   "type": "Service",
+   "pages": 76,
+   "productModel": "F96CTN",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3897980/Tempstar-F96ctn.html"
+  },
+  {
+   "manualId": "864956",
+   "slug": "Tempstar-F9mac",
+   "title": "F9MAC installation instructions manual",
+   "type": "Installation",
+   "pages": 47,
+   "productModel": "F9MAC",
+   "extraModels": [
+    "G9MAC"
+   ],
+   "url": "https://www.manualslib.com/manual/864956/Tempstar-F9mac.html"
+  },
+  {
+   "manualId": "1036747",
+   "slug": "Tempstar-F9mae",
+   "title": "F9MAE installation instructions manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "F9MAE",
+   "extraModels": [
+    "G9MAE"
+   ],
+   "url": "https://www.manualslib.com/manual/1036747/Tempstar-F9mae.html"
+  },
+  {
+   "manualId": "3831413",
+   "slug": "Tempstar-F9mxe",
+   "title": "F9MXE installation instructions manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "F9MXE",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3831413/Tempstar-F9mxe.html"
+  },
+  {
+   "manualId": "968845",
+   "slug": "Tempstar-G9mxt",
+   "title": "F9MXT installation instructions manual",
+   "type": "Installation",
+   "pages": 58,
+   "productModel": "F9MXT",
+   "extraModels": [
+    "F9MXT",
+    "G9MXE"
+   ],
+   "url": "https://www.manualslib.com/manual/968845/Tempstar-G9mxt.html"
+  },
+  {
+   "manualId": "1667924",
+   "slug": "Tempstar-Fpmn-Series",
+   "title": "FMC4X Service And Maintenance Instructions",
+   "type": "Service",
+   "pages": 14,
+   "productModel": "FMC4X",
+   "extraModels": [
+    "FMC4X",
+    "FMC4Z",
+    "FMU4X",
+    "FMU4Z",
+    "FPMAN",
+    "FPMANC",
+    "FPMANU",
+    "FPMBN",
+    "FPMBNC",
+    "FPMBNU"
+   ],
+   "url": "https://www.manualslib.com/manual/1667924/Tempstar-Fpmn-Series.html"
+  },
+  {
+   "manualId": "1865064",
+   "slug": "Tempstar-Huh5-Series",
+   "title": "H8UH5050B12 installation instructions manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "H8UH5050B12",
+   "extraModels": [
+    "H8UH5050B12",
+    "H8UH5075B12",
+    "H8UH5100F14",
+    "H8UH5125J20",
+    "H8UH5140J20"
+   ],
+   "url": "https://www.manualslib.com/manual/1865064/Tempstar-Huh5-Series.html"
+  },
+  {
+   "manualId": "1950154",
+   "slug": "Tempstar-Eam4x-Series",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1950154/Tempstar-Eam4x-Series.html"
+  },
+  {
+   "manualId": "2364240",
+   "slug": "Tempstar-Fma4x",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 7,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2364240/Tempstar-Fma4x.html"
+  },
+  {
+   "manualId": "859631",
+   "slug": "Tempstar-Naha00101mh",
+   "title": "NAHA00101MH installation instructions manual",
+   "type": "Installation",
+   "pages": 19,
+   "productModel": "NAHA00101MH",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/859631/Tempstar-Naha00101mh.html"
+  },
+  {
+   "manualId": "3825415",
+   "slug": "Tempstar-Nxa6",
+   "title": "NXA6 installation instructions manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "NXA6",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3825415/Tempstar-Nxa6.html"
+  },
+  {
+   "manualId": "2929121",
+   "slug": "Tempstar-Pad4",
+   "title": "Owner's information manual",
+   "type": "User / Owner",
+   "pages": 6,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2929121/Tempstar-Pad4.html"
+  },
+  {
+   "manualId": "3825414",
+   "slug": "Tempstar-T4a3",
+   "title": "T4A3 installation instructions manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "T4A3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3825414/Tempstar-T4a3.html"
+  },
+  {
+   "manualId": "3831782",
+   "slug": "Tempstar-Tsa6",
+   "title": "TSA6 installation instructions manual",
+   "type": "Installation",
+   "pages": 14,
+   "productModel": "TSA6",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3831782/Tempstar-Tsa6.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": []
+}
