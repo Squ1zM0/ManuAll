@@ -1,0 +1,430 @@
+{
+ "brand": "HEIL",
+ "brandSlug": "heil",
+ "aliases": [],
+ "sourceBrandPages": [
+  "/brand/heil/"
+ ],
+ "slugUsed": "heil",
+ "capturedAt": "2026-10-30T18:41:49.969360+00:00",
+ "typePages": [
+  {
+   "path": "/brand/heil/air-conditioner.html",
+   "manuals": 47,
+   "status": 200
+  },
+  {
+   "path": "/brand/heil/compact-loader.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/heil/furnace.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/heil/industrial-equipment.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/heil/stereo-equalizer.html",
+   "manuals": 3,
+   "status": 200
+  },
+  {
+   "path": "/brand/heil/thermostat.html",
+   "manuals": 1,
+   "status": 200
+  },
+  {
+   "path": "/brand/heil/trucks.html",
+   "manuals": 2,
+   "status": 200
+  },
+  {
+   "path": "/brand/heil/utility-vehicle.html",
+   "manuals": 10,
+   "status": 200
+  },
+  {
+   "path": "/brand/heil/water-pump.html",
+   "manuals": 1,
+   "status": 200
+  }
+ ],
+ "manuals": [
+  {
+   "manualId": "2023579",
+   "slug": "Heil-1-For-All-Tstat0713",
+   "title": "1 For All TSTAT0713 installation manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "1 For All TSTAT0713",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2023579/Heil-1-For-All-Tstat0713.html"
+  },
+  {
+   "manualId": "834687",
+   "slug": "Heil-H4a6",
+   "title": "C4A6 installation instructions manual",
+   "type": "Installation",
+   "pages": 15,
+   "productModel": "C4A6",
+   "extraModels": [
+    "C4A6",
+    "C4A8",
+    "H4A8",
+    "T4A6",
+    "T4A8"
+   ],
+   "url": "https://www.manualslib.com/manual/834687/Heil-H4a6.html"
+  },
+  {
+   "manualId": "4067072",
+   "slug": "Heil-C5a8t",
+   "title": "C5A8T installation instructions manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "C5A8T",
+   "extraModels": [
+    "H5A8T",
+    "H5A8T36AKAWA",
+    "H5A8T48AKAWA",
+    "T5A8T"
+   ],
+   "url": "https://www.manualslib.com/manual/4067072/Heil-C5a8t.html"
+  },
+  {
+   "manualId": "833421",
+   "slug": "Heil-Cca9",
+   "title": "CCA7 installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "CCA7",
+   "extraModels": [
+    "CCA7",
+    "HCA7",
+    "HCA9",
+    "TCA7",
+    "TCA9"
+   ],
+   "url": "https://www.manualslib.com/manual/833421/Heil-Cca9.html"
+  },
+  {
+   "manualId": "2233244",
+   "slug": "Heil-Dlfcab",
+   "title": "DLCCAR owner's manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "DLCCAR",
+   "extraModels": [
+    "DLCCAR",
+    "DLCCHR",
+    "DLCDAR",
+    "DLCDHR",
+    "DLFCHB",
+    "DLFDAB",
+    "DLFDHB"
+   ],
+   "url": "https://www.manualslib.com/manual/2233244/Heil-Dlfcab.html"
+  },
+  {
+   "manualId": "1292872",
+   "slug": "Heil-Dlfbhc12k1a",
+   "title": "DLFBHC01K1A installation instructions manual",
+   "type": "Installation",
+   "pages": 18,
+   "productModel": "DLFBHC01K1A",
+   "extraModels": [
+    "DLFBHC01K1A",
+    "DLFBHC02K1A",
+    "DLFBHC18K1A",
+    "DLFBHC24K1A"
+   ],
+   "url": "https://www.manualslib.com/manual/1292872/Heil-Dlfbhc12k1a.html"
+  },
+  {
+   "manualId": "1525480",
+   "slug": "Heil-Durapack-5000-2017",
+   "title": "DuraPack 5000 2017 Operation manual",
+   "type": "Other",
+   "pages": 204,
+   "productModel": "DuraPack 5000 2017",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1525480/Heil-Durapack-5000-2017.html"
+  },
+  {
+   "manualId": "3661516",
+   "slug": "Heil-Durapack-5000-Nyc",
+   "title": "DURAPACK 5000 NYC Operation manual",
+   "type": "Other",
+   "pages": 122,
+   "productModel": "DURAPACK 5000 NYC",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3661516/Heil-Durapack-5000-Nyc.html"
+  },
+  {
+   "manualId": "3633593",
+   "slug": "Heil-Durapack-5000",
+   "title": "DURAPACK 5000 Operation manual",
+   "type": "Other",
+   "pages": 222,
+   "productModel": "DURAPACK 5000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3633593/Heil-Durapack-5000.html"
+  },
+  {
+   "manualId": "3680886",
+   "slug": "Heil-Durapack-5000",
+   "title": "DURAPACK 5000 Service manual",
+   "type": "Service",
+   "pages": 180,
+   "productModel": "DURAPACK 5000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3680886/Heil-Durapack-5000.html"
+  },
+  {
+   "manualId": "4206235",
+   "slug": "Heil-Durapack-Python",
+   "title": "DuraPack Python Operation manual",
+   "type": "Other",
+   "pages": 128,
+   "productModel": "DuraPack Python",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4206235/Heil-Durapack-Python.html"
+  },
+  {
+   "manualId": "1088800",
+   "slug": "Heil-F8mvl",
+   "title": "F8MVL installation instructions manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "F8MVL",
+   "extraModels": [
+    "G8MVL"
+   ],
+   "url": "https://www.manualslib.com/manual/1088800/Heil-F8mvl.html"
+  },
+  {
+   "manualId": "808567",
+   "slug": "Heil-F8mvl",
+   "title": "F8MVL installation instructions manual",
+   "type": "Installation",
+   "pages": 54,
+   "productModel": "F8MVL",
+   "extraModels": [
+    "G8MVL"
+   ],
+   "url": "https://www.manualslib.com/manual/808567/Heil-F8mvl.html"
+  },
+  {
+   "manualId": "1305613",
+   "slug": "Heil-Fem4x",
+   "title": "FEM4P installation instructions manual",
+   "type": "Installation",
+   "pages": 16,
+   "productModel": "FEM4P",
+   "extraModels": [
+    "FEM4P",
+    "REM4X"
+   ],
+   "url": "https://www.manualslib.com/manual/1305613/Heil-Fem4x.html"
+  },
+  {
+   "manualId": "2353611",
+   "slug": "Heil-Fxm4x",
+   "title": "FEM4P installation instructions manual",
+   "type": "Installation",
+   "pages": 17,
+   "productModel": "FEM4P",
+   "extraModels": [
+    "FEM4P",
+    "FEM4X",
+    "REM4X"
+   ],
+   "url": "https://www.manualslib.com/manual/2353611/Heil-Fxm4x.html"
+  },
+  {
+   "manualId": "3792780",
+   "slug": "Heil-Formula-4000",
+   "title": "Formula 4000 Adjustment manual",
+   "type": "Other",
+   "pages": 508,
+   "productModel": "Formula 4000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3792780/Heil-Formula-4000.html"
+  },
+  {
+   "manualId": "4164886",
+   "slug": "Heil-Formula-5000",
+   "title": "FORMULA 5000 Operator's manual",
+   "type": "Other",
+   "pages": 40,
+   "productModel": "FORMULA 5000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4164886/Heil-Formula-5000.html"
+  },
+  {
+   "manualId": "4256353",
+   "slug": "Heil-Half",
+   "title": "HALF Service manual",
+   "type": "Service",
+   "pages": 266,
+   "productModel": "HALF",
+   "extraModels": [
+    "PACK"
+   ],
+   "url": "https://www.manualslib.com/manual/4256353/Heil-Half.html"
+  },
+  {
+   "manualId": "2112318",
+   "slug": "Heil-Pras-Eq",
+   "title": "HPS-5 Manual",
+   "type": "Other",
+   "pages": 9,
+   "productModel": "HPS-5",
+   "extraModels": [
+    "HPS-5"
+   ],
+   "url": "https://www.manualslib.com/manual/2112318/Heil-Pras-Eq.html"
+  },
+  {
+   "manualId": "1305615",
+   "slug": "Heil-Fma4x",
+   "title": "installation instructions manual",
+   "type": "Installation",
+   "pages": 8,
+   "productModel": null,
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1305615/Heil-Fma4x.html"
+  },
+  {
+   "manualId": "1161669",
+   "slug": "Heil-N4h3",
+   "title": "N4H3 Product Specifications",
+   "type": "Other",
+   "pages": 27,
+   "productModel": "N4H3",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1161669/Heil-N4h3.html"
+  },
+  {
+   "manualId": "1002329",
+   "slug": "Heil-Nugk",
+   "title": "NDGK Service manual",
+   "type": "Service",
+   "pages": 44,
+   "productModel": "NDGK",
+   "extraModels": [
+    "NDGK",
+    "NDLK",
+    "NUGS",
+    "NULK",
+    "NULS"
+   ],
+   "url": "https://www.manualslib.com/manual/1002329/Heil-Nugk.html"
+  },
+  {
+   "manualId": "3684876",
+   "slug": "Heil-Nyc-Durapack-4060",
+   "title": "NYC DuraPack 4060 Operation manual",
+   "type": "Other",
+   "pages": 120,
+   "productModel": "NYC DuraPack 4060",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3684876/Heil-Nyc-Durapack-4060.html"
+  },
+  {
+   "manualId": "2360439",
+   "slug": "Heil-Par524-60",
+   "title": "PAR524--60 installation instructions manual",
+   "type": "Installation",
+   "pages": 28,
+   "productModel": "PAR524--60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2360439/Heil-Par524-60.html"
+  },
+  {
+   "manualId": "2831435",
+   "slug": "Heil-Pgd4",
+   "title": "PGD4 owner's manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "PGD4",
+   "extraModels": [
+    "PGS424060KGP0G PKG-GE",
+    "PGS448090KGP0G PKG-GE",
+    "PGS460115KGP0G PKG-GE",
+    "WPG4"
+   ],
+   "url": "https://www.manualslib.com/manual/2831435/Heil-Pgd4.html"
+  },
+  {
+   "manualId": "3906701",
+   "slug": "Heil-Pgs4",
+   "title": "PGS4 owner's manual",
+   "type": "User / Owner",
+   "pages": 10,
+   "productModel": "PGS4",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3906701/Heil-Pgs4.html"
+  },
+  {
+   "manualId": "1268216",
+   "slug": "Heil-Phr524-60",
+   "title": "PHR524-60 installation instructions manual",
+   "type": "Installation",
+   "pages": 32,
+   "productModel": "PHR524-60",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/1268216/Heil-Phr524-60.html"
+  },
+  {
+   "manualId": "2262426",
+   "slug": "Heil-Pt-1000",
+   "title": "PT 1000 Operation manual",
+   "type": "Other",
+   "pages": 202,
+   "productModel": "PT 1000",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/2262426/Heil-Pt-1000.html"
+  },
+  {
+   "manualId": "3684866",
+   "slug": "Heil-Pt-1000a",
+   "title": "PT 1000A Operation manual",
+   "type": "Other",
+   "pages": 140,
+   "productModel": "PT 1000A",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3684866/Heil-Pt-1000a.html"
+  },
+  {
+   "manualId": "3680323",
+   "slug": "Heil-Pt-1100",
+   "title": "PT 1100 Operation manual",
+   "type": "Other",
+   "pages": 142,
+   "productModel": "PT 1100",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/3680323/Heil-Pt-1100.html"
+  },
+  {
+   "manualId": "4095620",
+   "slug": "Heil-Revamp",
+   "title": "RevAMP Service manual",
+   "type": "Service",
+   "pages": 192,
+   "productModel": "RevAMP",
+   "extraModels": [],
+   "url": "https://www.manualslib.com/manual/4095620/Heil-Revamp.html"
+  }
+ ],
+ "gaps": {
+  "failedTypePages": [],
+  "failedGuideConversions": []
+ },
+ "convertedGuides": []
+}
