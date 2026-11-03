@@ -16,6 +16,13 @@ Validation (fails the build, never ships a partial index silently):
     The exception NEVER applies to a manual without that exact source value,
     so the 355 ManualsLib files keep the strict rule above. External manuals
     keep their source/sourceId in the built index so the app can label them.
+  - SAMSUNG-OEM exception (same gating idea): a manual with
+    "source": "samsung" is validated against the Samsung OEM PDF form
+    (https://samsung-files.s3.us-east-1.amazonaws.com/Tech_Files/.../*.pdf,
+    no query or fragment) with a "samsung-oem-..." string manualId and
+    sourceId equal to manualId. This covers genuine Samsung-hosted
+    documents for models with no ManualsLib record; it NEVER applies to
+    a manual without that exact source value.
   - every type is one of the five app labels
   - pages is null or a positive int
   - duplicate manualIds inside one brand file are dropped (warning)
@@ -27,6 +34,7 @@ import argparse, glob, json, os, re, sys, datetime
 
 URL_RE = re.compile(r"^https://www\.manualslib\.com/manual/(\d+)/([^/?#]+)\.html$")
 MM_URL_RE = re.compile(r"^https://manualmachine\.com/([^/]+)/([^/]+)/(\d+)-([^/?#]+)/$")
+SAMSUNG_URL_RE = re.compile(r"^https://samsung-files\.s3\.us-east-1\.amazonaws\.com/Tech_Files/[^?# ]+\.pdf$")
 TYPES = {"Service", "Installation", "Parts & Wiring", "User / Owner", "Other"}
 
 def fail(msg):
@@ -62,10 +70,51 @@ def main():
         for m in manuals:
             mid = str(m.get("manualId", ""))
             url = m.get("url", "")
-            if not re.fullmatch(r"\d+", mid):
+            # Samsung-OEM exception (like the manualmachine pilot below):
+            # Samsung OEM-direct records carry string manualIds, so the
+            # digits rule applies to every manual EXCEPT source=="samsung",
+            # whose id form is validated in its own branch.
+            if not re.fullmatch(r"\d+", mid) and m.get("source") != "samsung":
                 fail(f"{path}: manualId not digits: {mid!r}")
             kept_entry = None
-            if m.get("source") == "manualmachine":
+            if m.get("source") == "samsung":
+                # Samsung-OEM exception: genuine Samsung-hosted PDFs for
+                # models with no ManualsLib record (first use:
+                # AM240BXVGJR/AA, Nov 2026). The url is the Samsung file
+                # itself (no viewer page exists); the id is a namespaced
+                # string, and sourceId mirrors manualId as in the pilot.
+                sm = SAMSUNG_URL_RE.match(url or "")
+                if not sm:
+                    fail(f"{path}: url is not a Samsung OEM PDF URL: {url!r}")
+                if not re.fullmatch(r"samsung-oem-[a-z0-9-]+", mid):
+                    fail(f"{path}: bad Samsung OEM manualId: {mid!r}")
+                if str(m.get("sourceId", "")) != mid:
+                    fail(f"{path}: sourceId {m.get('sourceId')!r} != manualId {mid}")
+                if m.get("type") not in TYPES:
+                    fail(f"{path}: unknown type {m.get('type')!r} for manual {mid}")
+                pages = m.get("pages")
+                if pages is not None and (not isinstance(pages, int) or pages <= 0):
+                    fail(f"{path}: bad pages {pages!r} for manual {mid}")
+                if not m.get("title") or not m.get("slug"):
+                    fail(f"{path}: manual {mid} missing title/slug")
+                if mid in seen:
+                    print(f"WARN: {path}: duplicate manualId {mid}, dropping")
+                    warnings += 1
+                    continue
+                seen.add(mid)
+                kept_entry = {
+                    "manualId": mid,
+                    "slug": m["slug"],
+                    "title": m["title"],
+                    "type": m["type"],
+                    "pages": pages,
+                    "productModel": m.get("productModel"),
+                    "extraModels": m.get("extraModels") or [],
+                    "url": url,
+                    "source": "samsung",
+                    "sourceId": mid,
+                }
+            elif m.get("source") == "manualmachine":
                 # External-source exception: strict viewer-form validation.
                 mm = MM_URL_RE.match(url or "")
                 if not mm:
