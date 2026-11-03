@@ -23,6 +23,15 @@ Validation (fails the build, never ships a partial index silently):
     sourceId equal to manualId. This covers genuine Samsung-hosted
     documents for models with no ManualsLib record; it NEVER applies to
     a manual without that exact source value.
+  - SAMSUNG-DOWNLOADCENTER form (same gating, second Samsung host):
+    a "source": "samsung" manual may instead use the Samsung
+    downloadcenter form
+    (https://org.downloadcenter.samsung.com/downloadfile/ContentsFile.aspx
+    ?CDSite=...&OriginYN=N&ModelType=N&ModelName=...&CttFileID=<digits>
+    &CDCttType=UM&VPath=UM/.../*.pdf, no fragment) with the same
+    "samsung-oem-..." manualId and sourceId rule. First use:
+    AM076FNHDCH/AA, Nov 2026 (its installation/user manuals live only
+    on downloadcenter, not on the S3 bucket).
   - every type is one of the five app labels
   - pages is null or a positive int
   - duplicate manualIds inside one brand file are dropped (warning)
@@ -35,6 +44,7 @@ import argparse, glob, json, os, re, sys, datetime
 URL_RE = re.compile(r"^https://www\.manualslib\.com/manual/(\d+)/([^/?#]+)\.html$")
 MM_URL_RE = re.compile(r"^https://manualmachine\.com/([^/]+)/([^/]+)/(\d+)-([^/?#]+)/$")
 SAMSUNG_URL_RE = re.compile(r"^https://samsung-files\.s3\.us-east-1\.amazonaws\.com/Tech_Files/[^?# ]+\.pdf$")
+SAMSUNG_DL_URL_RE = re.compile(r"^https://org\.downloadcenter\.samsung\.com/downloadfile/ContentsFile\.aspx\?CDSite=[^&# ]+&OriginYN=N&ModelType=N&ModelName=[^&# ]+&CttFileID=\d+&CDCttType=UM&VPath=UM(?:%2F|/)[^?# ]+\.pdf$")
 TYPES = {"Service", "Installation", "Parts & Wiring", "User / Owner", "Other"}
 
 def fail(msg):
@@ -83,7 +93,7 @@ def main():
                 # AM240BXVGJR/AA, Nov 2026). The url is the Samsung file
                 # itself (no viewer page exists); the id is a namespaced
                 # string, and sourceId mirrors manualId as in the pilot.
-                sm = SAMSUNG_URL_RE.match(url or "")
+                sm = SAMSUNG_URL_RE.match(url or "") or SAMSUNG_DL_URL_RE.match(url or "")
                 if not sm:
                     fail(f"{path}: url is not a Samsung OEM PDF URL: {url!r}")
                 if not re.fullmatch(r"samsung-oem-[a-z0-9-]+", mid):

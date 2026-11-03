@@ -10364,6 +10364,55 @@
    "url": "https://samsung-files.s3.us-east-1.amazonaws.com/Tech_Files/DVM/DVM+S2/TDB/[TDB]+2024+VRF+ODU+DVM%20S2%20(R410A,+60Hz,+HR)+for+America_Ver.1.0_240108.pdf",
    "source": "samsung",
    "sourceId": "samsung-oem-am240bxvgjr-tdb"
+  },
+  {
+   "manualId": "samsung-oem-am076fnhdch-submittal",
+   "slug": "samsung-am076fnhdch-submittal",
+   "title": "Samsung AM076FNHDCH/AA Submittal",
+   "type": "Other",
+   "pages": 2,
+   "productModel": "AM076FNHDCH",
+   "extraModels": [],
+   "url": "https://samsung-files.s3.us-east-1.amazonaws.com/Tech_Files/DVM/DVM+S/Submittals/Indoor+Units/AM0+FNHDCH_HSP+Duct/AM076FNHDCH+SUBMITTAL+HSP_04122021.pdf",
+   "source": "samsung",
+   "sourceId": "samsung-oem-am076fnhdch-submittal"
+  },
+  {
+   "manualId": "samsung-oem-am076fnhdch-installation",
+   "slug": "samsung-am076fnhdch-installation-manual",
+   "title": "Samsung AM076FNHDCH/AA Installation Manual",
+   "type": "Installation",
+   "pages": 40,
+   "productModel": "AM076FNHDCH",
+   "extraModels": [],
+   "url": "https://org.downloadcenter.samsung.com/downloadfile/ContentsFile.aspx?CDSite=UNI_BR&OriginYN=N&ModelType=N&ModelName=AM076FNHDCH%2FAA&CttFileID=7860233&CDCttType=UM&VPath=UM%2F202010%2F20201022115035434%2FDB68-03807A-05_IM_DVM_Big_Duct_HSP_Dcut_AA_EN_200925.pdf",
+   "source": "samsung",
+   "sourceId": "samsung-oem-am076fnhdch-installation"
+  },
+  {
+   "manualId": "samsung-oem-am076fnhdch-user",
+   "slug": "samsung-am076fnhdch-user-manual",
+   "title": "Samsung AM076FNHDCH/AA User Manual",
+   "type": "User / Owner",
+   "pages": 26,
+   "productModel": "AM076FNHDCH",
+   "extraModels": [],
+   "url": "https://org.downloadcenter.samsung.com/downloadfile/ContentsFile.aspx?CDSite=UNI_LATIN_EN&OriginYN=N&ModelType=N&ModelName=AM076FNHDCH%2FAA&CttFileID=5404501&CDCttType=UM&VPath=UM%2F201512%2F20151218095941429%2FDVM_S_Big_Duct_IB_03809A-04_EN_151209.pdf",
+   "source": "samsung",
+   "sourceId": "samsung-oem-am076fnhdch-user"
+  },
+  {
+   "manualId": "2075343",
+   "slug": "Samsung-Am007fn1dch-Aa",
+   "title": "Samsung AM007FN1DCH/AA Service Manual",
+   "type": "Service",
+   "pages": 344,
+   "productModel": "AM007FN1DCH",
+   "extraModels": [
+    "AM076FNHDCH",
+    "AM096FNHDCH"
+   ],
+   "url": "https://www.manualslib.com/manual/2075343/Samsung-Am007fn1dch-Aa.html"
   }
  ],
  "gaps": {
